@@ -1,25 +1,23 @@
-'use client';
-
-import React from 'react';
 import Link from 'next/link';
 
-export default function Home() {
+export default function AboutPage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm">
         <h1 className="text-4xl font-bold mb-4">
-          CourseSearchPlus
+          About Page
         </h1>
         <p className="text-xl mb-8">
-          Find and manage your courses easily
+          Welcome to the About page of the app!
         </p>
         <Link 
-          href="/about" 
+          href="/" 
           className="text-foreground hover:underline"
         >
-          About Us →
+          ← Back to Home
         </Link>
       </div>
     </main>
   );
 }
+  
