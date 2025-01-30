@@ -1,6 +1,6 @@
 import pdfplumber
 
-f = open("test_scrape_res.txt", "w")
+f = open("adv_rep_scraper/test_scrape_res.txt", "w")
 with pdfplumber.open("adv_rep_scraper/OSR_ADVISING.pdf") as pdf:
     for page in pdf.pages:
         SUMMARY_BBOX = (0, page.height * 0.12, page.width * 0.30, page.height * 0.39)
