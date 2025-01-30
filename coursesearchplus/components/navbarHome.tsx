@@ -1,4 +1,5 @@
-import React from 'react';
+import Link from 'next/link';
+import Image from 'next/image';
 import './navbarHome.css';
 
 const NavbarHome: React.FC = () => {
@@ -9,19 +10,21 @@ const NavbarHome: React.FC = () => {
       
       {/* Left side links */}
       <div className="nav-left">
-        <a href="#" className="nav-link">About</a>
-        <a href="#" className="nav-link">Search</a>
+        <Link href="/about" className="nav-link">About</Link>
+        <Link href="/search" className="nav-link">Search</Link>
       </div>
 
       {/* Center logo */}
       <div className="nav-center">
-        <img src="/logo.png" alt="Logo" className="nav-logo" />
+        <Link href="/">
+          <img src="/logo.png" alt="Logo" className="nav-logo" />
+        </Link>
       </div>
 
       {/* Right side links */}
       <div className="nav-right">
-        <a href="#" className="nav-link">Upload</a>
-        <a href="#" className="nav-link">Build</a>
+        <Link href="/upload" className="nav-link">Upload</Link>
+        <Link href="/build" className="nav-link">Build</Link>
       </div>
     </nav>
   );
