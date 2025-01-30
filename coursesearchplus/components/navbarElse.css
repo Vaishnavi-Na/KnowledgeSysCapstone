@@ -1,0 +1,73 @@
+/* Container: black line at bottom, fixed height, some padding */
+.navbarElse {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #000; /* thin black line across bottom */
+    height: 80px;
+    padding: 0 2rem;
+  }
+  
+  /* Left side for the logo */
+  .navLeft {
+    margin-right: 2rem;
+    padding-left: 50px;  /* Changed to padding-left */
+    position: relative;  /* Add this to ensure positioning works */
+    left: 100px;         /* Add explicit left positioning */
+  }
+  
+  /* Right side for the logo */
+  .navRight {
+    margin-left: 2rem;
+  }
+  
+  /* Make logo a bit bigger if you want */
+  .navLogo {
+    height: 60px;
+    width: auto;
+  }
+  
+  /* Center the links; flex:1 ensures they stay in the middle */
+  .navCenter {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    gap: 2rem; /* spacing between the links */
+  }
+  
+  /* Base link styling */
+  .navLink {
+    position: relative;
+    text-decoration: none;
+    color: #000;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding: 0.25rem 0; /* vertical space to show underline nicely */
+  }
+  
+  /* Default hover underline (gray) */
+  .navLink::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: gray;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.2s ease;
+  }
+  
+  /* Reveal underline in red on hover */
+  .navLink:hover::after {
+    transform: scaleX(1);
+    background-color: rgb(70, 70, 70);
+  }
+  
+  /* Active link: keep the underline in red permanently */
+  .activeLink::after {
+    transform: scaleX(1);
+    background-color: red;
+  }
+  
