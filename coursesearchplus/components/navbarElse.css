@@ -11,7 +11,7 @@
   /* Left side for the logo */
   .navLeft {
     margin-right: 2rem;
-    padding-left: 50px;  /* Changed to padding-left */
+    padding-left: 0px;  /* Changed to padding-left */
     position: relative;  /* Add this to ensure positioning works */
     left: 100px;         /* Add explicit left positioning */
   }
@@ -33,6 +33,8 @@
     display: flex;
     justify-content: center;
     gap: 2rem; /* spacing between the links */
+    position: relative;
+    left: -45px; /* move stack 20px to the left */
   }
   
   /* Base link styling */
@@ -68,6 +70,6 @@
   /* Active link: keep the underline in red permanently */
   .activeLink::after {
     transform: scaleX(1);
-    background-color: red;
+    background-color: rgb(205, 0, 0);
   }
   
