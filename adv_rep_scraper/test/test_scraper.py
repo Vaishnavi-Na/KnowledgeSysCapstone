@@ -1,7 +1,7 @@
 import pdfplumber
 
 # Input file
-test_adv_rep = "OSR_ADVISING_HL"
+test_adv_rep = "OSR_ADVISING_NV"
 f = open(f"adv_rep_scraper/test/test_res_{test_adv_rep}.txt", "w")
 
 specialization = ""
@@ -13,10 +13,10 @@ with pdfplumber.open(f"adv_rep_scraper/test/{test_adv_rep}.pdf") as pdf:
         SUMMARY = page.within_bbox(SUMMARY_BBOX).extract_text()
         # print(SUMMARY)
         SUMMARY = SUMMARY.split("TEST RESULTS")[0]
-        # f.write(SUMMARY+"\n\n")
+        f.write(SUMMARY+"\n\n")
 
         COURSES1_BBOX = (
-            page.width * 0.30, page.height * 0.12, 
+            page.width * 0.32, page.height * 0.12, 
             page.width * 0.55, page.height * 0.90
         )
         COURSES1 = page.within_bbox(COURSES1_BBOX).extract_text()
