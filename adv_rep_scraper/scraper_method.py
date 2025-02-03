@@ -3,7 +3,11 @@ import pdfplumber
 
 def scrap_from_adv_rep(path) -> dict:
     '''Scrap the specialization info and courses taken from the OSU advising report.
-    return: A dict with one entry "specialization":"SPL" and one entry "courses_taken": A set of str.
+
+    Argument:
+        path: The path to the input OSU advising report
+    Returns: 
+        A dict with one entry "specialization":"SPL" and one entry "courses_taken": A set of str.
     '''
     result = {
         "specialization": "",
@@ -20,7 +24,7 @@ def scrap_from_adv_rep(path) -> dict:
 
             # Search for the last occurrence
             spl = re.findall(r'UENG SPL (\w{3})', SUMMARY)[-1]
-            print(f"[DEBUG] {spl}")
+            # print(f"[DEBUG] {spl}")
 
             result["specialization"] = spl if spl else "Not Found"
             # f.write(SUMMARY+"\n\n")
@@ -50,4 +54,6 @@ def scrap_from_adv_rep(path) -> dict:
             result["courses_taken"] = re.findall(courses_pattern, COURSES, re.MULTILINE)
     return result
 
+
+# Print the scrap result for test
 print(str(scrap_from_adv_rep("adv_rep_scraper\\test\\OSR_ADVISING_NV.pdf")))
