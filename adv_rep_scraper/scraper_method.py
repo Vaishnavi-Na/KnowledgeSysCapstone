@@ -6,7 +6,7 @@ def scrap_from_adv_rep(path) -> dict:
 
     Argument:
         path: The path to the input OSU advising report
-    Returns: 
+    Return: 
         A dict with one entry "specialization":"SPL" and one entry "courses_taken": A set of str.
     '''
     result = {
