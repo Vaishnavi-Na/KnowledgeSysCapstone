@@ -2,8 +2,53 @@
 
 import Link from 'next/link';
 import NavbarElse from '@/components/navbarElse';
+import React, { useState } from 'react';
 
 export default function UploadPage() {
+  const [file, setFile] = useState<File | null>(null);
+  const [uploading, setUploading] = useState<boolean>(false);
+  const [message, setMessage] = useState<string>('');
+
+  // Handle file selection
+  const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    if (event.target.files) {
+      setFile(event.target.files[0]);
+    }
+  };
+
+  // Handle form submission (upload)
+  const handleSubmit = async () => {
+    if (!file) {
+      setMessage('Please select a file before uploading.');
+      return;
+    }
+
+    setUploading(true);
+    setMessage('');
+
+    const formData = new FormData();
+    formData.append('file', file);
+
+    try {
+      const response = await fetch('/api/upload', {
+        method: 'POST',
+        body: formData,
+      });
+
+      const result = await response.json();
+
+      if (response.ok) {
+        setMessage(`File uploaded successfully! You can access it at: ${result.fileUrl}`);
+      } else {
+        setMessage(`Error: ${result.message}`);
+      }
+    } catch (error) {
+      setMessage('Error uploading file.');
+    } finally {
+      setUploading(false);
+    }
+  };
+  
   return (
     <>
       <NavbarElse />
@@ -29,7 +74,13 @@ export default function UploadPage() {
           {/* File Upload (Visual Only) */}
           <div className="mt-10">
             <label htmlFor="file-upload" className="cursor-pointer bg-red-500 text-white py-3 px-6 rounded-lg shadow-md flex items-center space-x-2 hover:bg-red-600">
-              <span>Upload Transcript</span>
+              <div>
+                <input type="file" onChange={handleFileChange} />
+                <button onClick={handleSubmit} disabled={uploading}>
+                  {uploading ? 'Uploading...' : 'Upload Transcript'}
+                </button>
+                {message && <p>{message}</p>}
+              </div>
               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
                 <path fillRule="evenodd" d="M3 10a1 1 0 011-1h3V4a1 1 0 112 0v5h3a1 1 0 110 2h-3v5a1 1 0 11-2 0v-5H4a1 1 0 01-1-1z" clipRule="evenodd" />
               </svg>

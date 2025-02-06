@@ -50,6 +50,15 @@ export default function NavbarElse() {
           </a>
         </Link>
       </div>
+
+      {/* Right: Log in to account */}
+      <div className="navRight">
+        <Link href="/login" legacyBehavior> 
+          <a className={`navLink ${isActive('/login')}`}>
+            Login
+          </a>
+        </Link>
+      </div>
       
     </nav>
   );
