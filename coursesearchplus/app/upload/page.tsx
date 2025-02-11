@@ -3,11 +3,17 @@
 import Link from 'next/link';
 import NavbarElse from '@/components/navbarElse';
 import React, { useState } from 'react';
+import { v4 as uuidv4 } from 'uuid';
 
 export default function UploadPage() {
   const [file, setFile] = useState<File | null>(null);
   const [uploading, setUploading] = useState<boolean>(false);
   const [message, setMessage] = useState<string>('');
+  const [retreived, setRetreived] = useState<boolean>(false);
+  const [transcript, setTranscript] = useState<{ special: string; courses: string[] }>({
+    special: 'None',
+    courses: ['None'],
+  });
 
   // Handle file selection
   const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -19,7 +25,12 @@ export default function UploadPage() {
   // Handle form submission (upload)
   const handleSubmit = async () => {
     if (!file) {
-      setMessage('Please select a file before uploading.');
+      setMessage('Missing a file to upload!');
+      return;
+    }
+    // Make sure the uploaded file is a pdf
+    if (file.type !== 'application/pdf') {
+      setMessage('Please upload a pdf!');
       return;
     }
 
@@ -27,7 +38,9 @@ export default function UploadPage() {
     setMessage('');
 
     const formData = new FormData();
+    const fileId = uuidv4();
     formData.append('file', file);
+    formData.append('fileId', fileId);
 
     try {
       const response = await fetch('/api/upload', {
@@ -38,13 +51,18 @@ export default function UploadPage() {
       const result = await response.json();
 
       if (response.ok) {
-        setMessage(`File uploaded successfully! You can access it at: ${result.fileUrl}`);
-      } else {
+        setMessage(`File uploaded successfully!`);
+        setTranscript(result);
+        setRetreived(true);
+      } 
+      else {
         setMessage(`Error: ${result.message}`);
       }
-    } catch (error) {
+    } 
+    catch (error) {
       setMessage('Error uploading file.');
-    } finally {
+    } 
+    finally {
       setUploading(false);
     }
   };
@@ -87,6 +105,26 @@ export default function UploadPage() {
             </label>
             {/* No file input or state needed */}
           </div>
+
+          {/* Table view of transcript */}
+          {retreived && 
+            <div>
+              <table>
+                <thead>
+                  <tr>
+                    <th>Courses</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {transcript.courses.map((item, index) => (
+                    <tr key={index}>
+                      <td>{item}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          }
 
           {/* Back to Home Link */}
           <div className="mt-12">
