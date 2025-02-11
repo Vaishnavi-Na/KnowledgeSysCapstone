@@ -1,5 +1,7 @@
 import requests
 import  certifi
+import os
+from dotenv import load_dotenv
 from bs4 import BeautifulSoup
 from elasticsearch import Elasticsearch
 import json
@@ -62,8 +64,7 @@ print(certifi.where())
 ctx = ssl.create_default_context()
 ctx.load_verify_locations("http_ca.crt")
 ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
-
-
+load_dotenv()
 es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
 #This method gets the reviews for each professor in rate my professor
