@@ -1,7 +1,9 @@
 import requests
+import  certifi
 from bs4 import BeautifulSoup
 from elasticsearch import Elasticsearch
 import json
+import ssl
 
 osu_url="https://www.ratemyprofessors.com/search/professors/724"
 graphql_url = "https://www.ratemyprofessors.com/graphql"
@@ -55,7 +57,14 @@ data = {
 }
 
 #Setup elasticsearch through REST API library
-es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
+print(certifi.where())
+
+ctx = ssl.create_default_context()
+ctx.load_verify_locations("http_ca.crt")
+ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
+
+
+es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
 #This method gets the reviews for each professor in rate my professor
 #using their ID, it gets a professor's review page and scrapes each review 
@@ -76,11 +85,13 @@ def get_reviews(professor_id, j):
     # Initialize the Ratings list if it doesn't exist
     if "Ratings" not in j:
         j["Ratings"] = []
-        
+
     #Add a list of each rating (index, rating and comment) to the professor's dict
     for index, rating in enumerate(ratings):
-        quality=rating.find(class_="CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 bUneqk")
-        comment = root.find(class_="Comments__StyledComments-dzzyvm-0 gRjWel")
+        box=rating.find(class_="RatingValues__StyledRatingValues-sc-6dc747-0 gFOUvY")
+        quality=box.find(class_="CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 gcFhmN")
+        comment= rating.find(class_="Comments__StyledComments-dzzyvm-0 gRjWel")
+
         j["Ratings"].append({
                 "index": index, 
                 "rating": quality.get_text(strip=True) if quality else None,
@@ -101,7 +112,8 @@ def search_school_professor():
                 return 
 
             get_reviews(professor["node"]["legacyId"],professor["node"])
-            es.index(index='professors', doc_type='_doc', id=professor['legacyId'], body=professor["node"])
+            es.index(index='professors', id=professor['node']['legacyId'], document=professor["node"])
+
 
         #pagination logic
         page_info = response["data"]["search"]["teachers"]["pageInfo"]
@@ -109,8 +121,7 @@ def search_school_professor():
             break  # Stop if no more pages
 
         #update cursor for next request
-        data["variables"]["cursor"] = page_info["endCursor"]  
+        data["variables"]["cursor"] = page_info["endCursor"]
     return
 
 search_school_professor()
-
