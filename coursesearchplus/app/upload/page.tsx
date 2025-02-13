@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import NavbarElse from '@/components/navbarElse';
 import React, { useState } from 'react';
-// import { v4 as uuidv4 } from 'uuid';
+import './search.css';
 
 export default function UploadPage() {
   const [file, setFile] = useState<File | null>(null);
@@ -38,9 +38,7 @@ export default function UploadPage() {
     setMessage('');
 
     const formData = new FormData();
-    // const fileId = uuidv4();
     formData.append('file', file);
-    // formData.append('fileId', fileId);
 
     try {
       const response = await fetch('/api/upload', {
@@ -66,6 +64,16 @@ export default function UploadPage() {
       setUploading(false);
     }
   };
+
+  // Function to chunk the data into groups of 5
+  const chunkArray = (arr: string[], size: number) => {
+    const chunks = [];
+    for (let i = 0; i < arr.length; i += size) {
+      chunks.push(arr.slice(i, i + size));
+    }
+    return chunks;
+  };
+  const rows = chunkArray(transcript.courses, 5); // Split the list into rows of 5
   
   return (
     <>
@@ -108,22 +116,20 @@ export default function UploadPage() {
 
           {/* Table view of transcript */}
           {retreived && 
-            <div>
-              <table>
-                <thead>
-                  <tr>
-                    <th>Courses</th>
+            <table>
+              <caption> <strong> Courses Taken </strong> </caption>
+              <tbody> 
+                {rows.map((row, rowIndex) => (
+                  <tr key={rowIndex}>
+                    {row.map((item, colIndex) => (
+                      <td key={colIndex} className="border border-gray-300 p-2">
+                        {item}
+                      </td>
+                    ))}
                   </tr>
-                </thead>
-                <tbody>
-                  {transcript.courses.map((item, index) => (
-                    <tr key={index}>
-                      <td>{item}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
+                ))}
+              </tbody>
+            </table>
           }
 
           {/* Back to Home Link */}

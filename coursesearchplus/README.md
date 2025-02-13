@@ -1,6 +1,20 @@
+# coursesearchplus
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+
+cd to coursesearchplus folder
+
+```bash
+cd ./coursesearchplus/
+```
+
+If npm not installed, run:
+
+```bash
+npm install
+```
 
 First, run the development server:
 
