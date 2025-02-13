@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import NavbarElse from '@/components/navbarElse';
 import React, { useState } from 'react';
-import { v4 as uuidv4 } from 'uuid';
+// import { v4 as uuidv4 } from 'uuid';
 
 export default function UploadPage() {
   const [file, setFile] = useState<File | null>(null);
@@ -38,9 +38,9 @@ export default function UploadPage() {
     setMessage('');
 
     const formData = new FormData();
-    const fileId = uuidv4();
+    // const fileId = uuidv4();
     formData.append('file', file);
-    formData.append('fileId', fileId);
+    // formData.append('fileId', fileId);
 
     try {
       const response = await fetch('/api/upload', {

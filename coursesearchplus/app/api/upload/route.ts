@@ -29,7 +29,7 @@ export async function POST(req: Request) {
 
     // Create a thread that runs the advising report scraper
     const advRepScraperPath = path.join(process.cwd(), 'adv_rep_scraper/scraper_json.py');
-    const pythonThread = spawn('python3', [advRepScraperPath]);
+    const pythonThread = spawn('python', [advRepScraperPath]);
     pythonThread.stdin.write(fileBuffer);
     pythonThread.stdin.end();
 
