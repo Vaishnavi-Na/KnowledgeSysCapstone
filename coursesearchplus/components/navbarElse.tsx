@@ -26,6 +26,12 @@ export default function NavbarElse() {
 
       {/* Center: nav links */}
       <div className="navCenter">
+        <Link href="/" legacyBehavior>
+          <a className={`navLink ${isActive('/')}`}>
+            Home
+          </a>
+        </Link>
+
         <Link href="/about" legacyBehavior>
           <a className={`navLink ${isActive('/about')}`}>
             About
