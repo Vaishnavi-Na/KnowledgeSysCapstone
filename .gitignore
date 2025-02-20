@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Virtual environment
+capstone/
+
+http_ca.crt
