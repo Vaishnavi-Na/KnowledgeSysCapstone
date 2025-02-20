@@ -1,5 +1,5 @@
 import re
-import pdfplumber
+import pdfplumber # type: ignore
 import sys
 import json
 import tempfile
