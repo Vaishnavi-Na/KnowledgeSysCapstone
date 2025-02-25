@@ -1,0 +1,51 @@
+{
+    "degree": "Computer Science & Engineering",
+    "specialization": "OSU CSE Curriculum",
+    "total_credit_hours": "126",
+    "categories": {
+      "General Education Requirements": [
+        { "category": "GE Launch Seminar", "course": "GENED 1201", "hours": 1 },
+        { "category": "Foundations: Writing and Information Literacy", "course": "Student Choice", "hours": 3 },
+        { "category": "Foundations: Mathematical & Quantitative Reasoning/Data Analysis", "course": "Math 1151", "hours": "Overlap w/ College requirement" },
+        { "category": "Foundations: Literary, Visual and Performing Arts", "course": "Student Choice", "hours": 3 },
+        { "category": "Foundations: Historical & Cultural Studies", "course": "Student Choice", "hours": 3 },
+        { "category": "Foundations: Natural Science", "course": "Physics 1250", "hours": "Overlap w/ College requirement" },
+        { "category": "Foundations: Social & Behavioral Sciences", "course": "Student Choice", "hours": 3 },
+        { "category": "Foundations: Race, Ethnic and Gender Diversity", "course": "Student Choice", "hours": 3 },
+        { "category": "Theme: Citizenship for a Diverse & Just World", "course": "Student Choice", "hours": 4 },
+        { "category": "Theme: Student Choice", "course": "Student Choice", "hours": 4 },
+        { "category": "GE Reflection", "course": "Program required capstone", "hours": "Embedded into Major Core Capstone" }
+      ],
+      "College/Degree Requirements": [
+        { "category": "Math 1151, 1172, (Math & Quantitative Reasoning / Data Analysis)", "hours": 10 },
+        { "category": "Physics 1250 (Nat Sci)", "hours": 5 },
+        { "category": "ENGR 1181.0x, 1182.0x", "hours": 4 },
+        { "category": "ENGR 1100.01", "hours": 1 }
+      ],
+      "Major Core": [
+        { "course": "CSE 2221 and 2231", "title": "Software 1 and 2", "hours": "8 (4+4)" },
+        { "course": "CSE 2321 and 2331", "title": "Foundations 1 and 2", "hours": "6 (3+3)" },
+        { "course": "CSE 2421 and 2431", "title": "Systems 1 and 2", "hours": "7 (3+4)" },
+        { "course": "CSE 3341", "title": "Principles of Programming Languages", "hours": 3 },
+        { "course": "CSE 2501 or PHILOS 2338", "title": "Social, Ethical, and Professional Issues in Computing or Computing Ethics for a Just and Diverse World", "hours": "1 or 4" },
+        { "course": "CSE 3901 or 3902 or 3903", "title": "Project: Design, Development, and Documentation", "hours": 4 },
+        { "course": "CSE 3231 or 3241", "title": "Introduction to Software Engineering or Introduction to Databases", "hours": 3 },
+        { "course": "CSE 3421 or 3461", "title": "Computer Architecture or Introduction to Networking", "hours": 3 },
+        { "course": "CSE 3521 or 3541", "title": "Introduction to Artificial Intelligence or Introduction to Computer Graphics", "hours": 3 },
+        { "course": "CSE 5911 or 5912 or 5913 or 5914 or 5915 or 5916", "title": "Capstone Experience", "hours": 4 }
+      ],
+      "Required Non-Major Courses": [
+        { "course": "ECE 2020", "hours": 3 },
+        { "course": "ECE 2060", "hours": 3 },
+        { "course": "MATH 2568", "hours": 3 },
+        { "course": "MATH 3345", "hours": 3 },
+        { "course": "STAT 3470", "hours": 3 },
+        { "course": "Science/Math Elective", "title": "Choice from list", "hours": 8 }
+      ],
+      "Required Technical / Directed / Targeted Electives; Career Courses": [
+        { "category": "CSE courses 3000-level or higher", "hours": "≥ 9" },
+        { "category": "Approved non-CSE courses 2000-level or higher", "hours": "≤ 8" }
+      ]
+    }
+  }
+  
