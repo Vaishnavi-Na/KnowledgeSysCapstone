@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import NavbarElse from '@/components/navbarElse';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './search.css';
 
 export default function UploadPage() {
@@ -14,6 +14,22 @@ export default function UploadPage() {
     special: 'None',
     courses: ['None'],
   });
+
+  // // Pull existing transcript from local storage if it exists
+  // var tempTranscript = localStorage.getItem("transcript");
+  // if (tempTranscript !== null) {
+  //   setTranscript(JSON.parse(tempTranscript));
+  //   //setRetreived(true);
+  // }
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const tempTranscript = localStorage.getItem("transcript");
+      if (tempTranscript !== null) {
+        setTranscript(JSON.parse(tempTranscript));
+        setRetreived(true);
+      }
+    }
+  }, []);
 
   // Handle file selection
   const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -52,6 +68,9 @@ export default function UploadPage() {
         setMessage(`File uploaded successfully!`);
         setTranscript(result);
         setRetreived(true);
+
+        // Add transcript to localstorage
+        localStorage.setItem("transcript", JSON.stringify(result));
       } 
       else {
         setMessage(`Error: ${result.message}`);
