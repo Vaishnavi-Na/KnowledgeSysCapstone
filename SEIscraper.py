@@ -2,6 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
+from dotenv import load_dotenv
+import ssl
+import os
+from elasticsearch import Elasticsearch
 
 
 url = "https://osu.bluera.com/osubpi/fbview-WebService.asmx/getFbvGrid"
@@ -49,6 +53,13 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15",
     "X-Requested-With": "XMLHttpRequest"
 }
+
+#Elasticsearch setup
+ctx = ssl.create_default_context()
+ctx.load_verify_locations("http_ca.crt")
+ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
+load_dotenv()
+es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
 for subject in subjects:
     print(f"scraping: {subject}...")
@@ -115,6 +126,7 @@ for subject in subjects:
                     "Responses": cols[12].text.strip(),
                     "Rating": cols[13].text.strip(),
                 }
+                es.index(index='professors', document=professor)
                 all_data.append(professor)
 
             print(f"finish {subject}  {page} ，total {len(rows)} datas")

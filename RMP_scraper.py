@@ -1,5 +1,4 @@
 import requests
-import  certifi
 import os
 from dotenv import load_dotenv
 from bs4 import BeautifulSoup
@@ -59,8 +58,6 @@ data = {
 }
 
 #Setup elasticsearch through REST API library
-print(certifi.where())
-
 ctx = ssl.create_default_context()
 ctx.load_verify_locations("http_ca.crt")
 ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
