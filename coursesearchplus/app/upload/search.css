@@ -1,0 +1,12 @@
+table {
+    margin-top: 5%;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid grey;
+}
+
+caption {
+    font-size: large;
+    padding-bottom: 1%;
+}

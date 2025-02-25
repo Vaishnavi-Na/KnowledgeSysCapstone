@@ -2,8 +2,98 @@
 
 import Link from 'next/link';
 import NavbarElse from '@/components/navbarElse';
+import React, { useState, useEffect } from 'react';
+import './search.css';
 
 export default function UploadPage() {
+  const [file, setFile] = useState<File | null>(null);
+  const [uploading, setUploading] = useState<boolean>(false);
+  const [message, setMessage] = useState<string>('');
+  const [retreived, setRetreived] = useState<boolean>(false);
+  const [transcript, setTranscript] = useState<{ special: string; courses: string[] }>({
+    special: 'None',
+    courses: ['None'],
+  });
+
+  // // Pull existing transcript from local storage if it exists
+  // var tempTranscript = localStorage.getItem("transcript");
+  // if (tempTranscript !== null) {
+  //   setTranscript(JSON.parse(tempTranscript));
+  //   //setRetreived(true);
+  // }
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const tempTranscript = localStorage.getItem("transcript");
+      if (tempTranscript !== null) {
+        setTranscript(JSON.parse(tempTranscript));
+        setRetreived(true);
+      }
+    }
+  }, []);
+
+  // Handle file selection
+  const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    if (event.target.files) {
+      setFile(event.target.files[0]);
+    }
+  };
+
+  // Handle form submission (upload)
+  const handleSubmit = async () => {
+    if (!file) {
+      setMessage('Missing a file to upload!');
+      return;
+    }
+    // Make sure the uploaded file is a pdf
+    if (file.type !== 'application/pdf') {
+      setMessage('Please upload a pdf!');
+      return;
+    }
+
+    setUploading(true);
+    setMessage('');
+
+    const formData = new FormData();
+    formData.append('file', file);
+
+    try {
+      const response = await fetch('/api/upload', {
+        method: 'POST',
+        body: formData,
+      });
+
+      const result = await response.json();
+
+      if (response.ok) {
+        setMessage(`File uploaded successfully!`);
+        setTranscript(result);
+        setRetreived(true);
+
+        // Add transcript to localstorage
+        localStorage.setItem("transcript", JSON.stringify(result));
+      } 
+      else {
+        setMessage(`Error: ${result.message}`);
+      }
+    } 
+    catch (error) {
+      setMessage('Error uploading file.');
+    } 
+    finally {
+      setUploading(false);
+    }
+  };
+
+  // Function to chunk the data into groups of 5
+  const chunkArray = (arr: string[], size: number) => {
+    const chunks = [];
+    for (let i = 0; i < arr.length; i += size) {
+      chunks.push(arr.slice(i, i + size));
+    }
+    return chunks;
+  };
+  const rows = chunkArray(transcript.courses, 5); // Split the list into rows of 5
+  
   return (
     <>
       <NavbarElse />
@@ -29,13 +119,37 @@ export default function UploadPage() {
           {/* File Upload (Visual Only) */}
           <div className="mt-10">
             <label htmlFor="file-upload" className="cursor-pointer bg-red-500 text-white py-3 px-6 rounded-lg shadow-md flex items-center space-x-2 hover:bg-red-600">
-              <span>Upload Transcript</span>
+              <div>
+                <input type="file" onChange={handleFileChange} />
+                <button onClick={handleSubmit} disabled={uploading}>
+                  {uploading ? 'Uploading...' : 'Upload Transcript'}
+                </button>
+                {message && <p>{message}</p>}
+              </div>
               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
                 <path fillRule="evenodd" d="M3 10a1 1 0 011-1h3V4a1 1 0 112 0v5h3a1 1 0 110 2h-3v5a1 1 0 11-2 0v-5H4a1 1 0 01-1-1z" clipRule="evenodd" />
               </svg>
             </label>
             {/* No file input or state needed */}
           </div>
+
+          {/* Table view of transcript */}
+          {retreived && 
+            <table>
+              <caption> <strong> Courses Taken </strong> </caption>
+              <tbody> 
+                {rows.map((row, rowIndex) => (
+                  <tr key={rowIndex}>
+                    {row.map((item, colIndex) => (
+                      <td key={colIndex} className="border border-gray-300 p-2">
+                        {item}
+                      </td>
+                    ))}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          }
 
           {/* Back to Home Link */}
           <div className="mt-12">

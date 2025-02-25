@@ -56,7 +56,6 @@ export default function NavbarElse() {
           </a>
         </Link>
       </div>
-      
     </nav>
   );
 }
