@@ -1,3 +1,13 @@
-# backend_integration
+# FastAPI backend
 
-TODO: Try use FastAPI to do all the backend job
+To test & Run Locally, first cd to the folder:
+
+```bash
+cd .\backend_integration\
+```
+
+Then run command
+
+```bash
+fastapi dev main.py
+```

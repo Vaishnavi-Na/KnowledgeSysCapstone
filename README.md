@@ -45,11 +45,21 @@ To get elasticsearch functionality to work, please save the http_ca.crt certific
 2. Going to your files
 3. Left click on usr/share/elasticsearch/config/certs/http_ca.crt in files for your container and save that to your local project folder.
 
-## backend_integration
+## FastAPI backend
 
 [WARN] This section is generated, to modify, please go to the backend_integration\README.md
 
-TODO: Try use FastAPI to do all the backend job
+To test & Run Locally, first cd to the folder:
+
+```bash
+cd .\backend_integration\
+```
+
+Then run command
+
+```bash
+fastapi dev main.py
+```
 
 ## coursesearchplus
 
