@@ -16,6 +16,12 @@ If npm not installed, run:
 npm install
 ```
 
+If next.js not installed, run:
+
+```bash
+npm install next
+```
+
 First, run the development server:
 
 ```bash

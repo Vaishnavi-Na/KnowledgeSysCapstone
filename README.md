@@ -1,11 +1,15 @@
 # KnowledgeSysCapstone
 
-To create a venv environment to run your project, run the following command:
+## Virtual Environment
+
+If a venv enviroment not created in your project, run the following command:
 `python -m venv <foldername>`
 for example
 
 ```sh
 python -m venv capstone
+# or
+python -m venv .venv
 ```
 
 To activate your python enviornment, please run the following command:
@@ -25,7 +29,6 @@ To add environment to your workspace run:
 
 ```sh
 pip install -r requirements.txt
-
 ```
 
 Please create your local env to look like the following:
