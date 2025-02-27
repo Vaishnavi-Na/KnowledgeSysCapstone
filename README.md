@@ -49,6 +49,8 @@ To get elasticsearch functionality to work, please save the http_ca.crt certific
 
 [WARN] This section is generated, to modify, please go to the backend_integration\README.md
 
+Because of Elastic Search, need to download or move `http_ca.crt` into `.\backend_integration\` folder.
+
 To test & Run Locally, first cd to the folder:
 
 ```bash

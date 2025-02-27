@@ -1,5 +1,5 @@
 import re
-import pdfplumber # type: ignore
+import pdfplumber
 import tempfile
 
 def scrap_from_adv_rep(file) -> dict:
