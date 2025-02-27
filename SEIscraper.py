@@ -111,22 +111,22 @@ for subject in subjects:
                     print(f"⚠️ Skipping row with insufficient columns in subject {subject}")
                     continue  
                 professor = {
-                    "Last Name": cols[0].text.strip(),
-                    "First Name": cols[1].text.strip(),
+                    "lastName": cols[0].text.strip(),
+                    "firstName": cols[1].text.strip(),
                     "Subject": cols[2].text.strip(),
                     "Catalog": cols[3].text.strip(),
                     "Class Name": cols[4].text.strip(),
                     "Class Number": cols[5].text.strip(),
                     "Term": cols[6].text.strip(),
                     "College": cols[7].text.strip(),
-                    "Department": cols[8].text.strip(),
+                    "department": cols[8].text.strip(),
                     "Medium": cols[9].text.strip(),
                     "Campus": cols[10].text.strip(),
                     "Class Size": cols[11].text.strip(),
                     "Responses": cols[12].text.strip(),
                     "Rating": cols[13].text.strip(),
                 }
-                es.index(index='professors', document=professor)
+                es.index(index='professors', id=professor["lastName"] + professor["firstName"], document=professor)
                 all_data.append(professor)
 
             print(f"finish {subject}  {page} ，total {len(rows)} datas")

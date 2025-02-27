@@ -110,7 +110,7 @@ def search_school_professor():
                 return 
 
             get_reviews(professor["node"]["legacyId"],professor["node"])
-            es.index(index='professors', id=professor['node']['legacyId'], document=professor["node"])
+            es.index(index='professors', id=professor["node"]["lastName"] + professor["node"]["firstName"], document=professor["node"])
 
 
         #pagination logic
