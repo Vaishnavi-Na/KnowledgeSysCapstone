@@ -17,14 +17,25 @@ export default function SchedulingTips() {
               <li>Schedule classes with people you know.</li>
               <li>Get priority scheduling if possible.</li>
               <li>Create and update your four-year plan.</li>
-              <li>Use this curriculum sheet to track progress.</li>
+              <li>Use a curriculum sheet to track progress.</li>
               <li>Avoid overloading your schedule—challenge yourself, but be mindful of your best learning times.</li>
-              <li>Use schedule planner and block free time efficiently.</li>
               <li>Keep a spreadsheet of classes you have credit for and those you need.</li>
               <li>Consider scheduling ECE 2360 instead of ECE 2020 for an easier CSE-focused alternative.</li>
               <li>Utilize OSU CSE Same Day Express for quick scheduling help.</li>
             </ul>
           </section>
+
+          {/* Curriculum Sheet Image */}
+          <section className="flex justify-center mt-6">
+            <img src="/bingosheet.png" alt="Sample Curriculum Sheet" className="rounded-lg shadow-md max-w-full h-auto" />
+          </section>
+
+          {/* Prerequisite Images */}
+          <section className="flex justify-center mt-6 space-x-4">
+            <img src="/prereq1.png" alt="CSE Core Prerequisite Chart" className="rounded-lg shadow-md w-1/3 h-auto" />
+            <img src="/prereq2.png" alt="CSE Capstone Prerequisite Chart" className="rounded-lg shadow-md w-1/3 h-auto" />
+          </section>
+
 
           {/* Minor and Electives Section */}
           <section className="bg-gray-100 p-6 rounded-lg shadow-md text-left mt-6">
