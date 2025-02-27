@@ -25,6 +25,7 @@ const NavbarHome: React.FC = () => {
       <div className="nav-right">
         <Link href="/upload" className="nav-link">Upload</Link>
         <Link href="/buildschedule" className="nav-link">Build</Link>
+        <Link href="/tips" className="nav-link">Tips</Link>
       </div>
     </nav>
   );
