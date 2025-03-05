@@ -112,7 +112,6 @@ def search_school_professor():
             get_reviews(professor["node"]["legacyId"],professor["node"])
             es.index(index='professors', id=professor["node"]["lastName"] + professor["node"]["firstName"], document=professor["node"])
 
-
         #pagination logic
         page_info = response["data"]["search"]["teachers"]["pageInfo"]
         if not page_info["hasNextPage"]:

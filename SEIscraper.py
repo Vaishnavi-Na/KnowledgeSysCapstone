@@ -61,6 +61,48 @@ ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
 load_dotenv()
 es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
+def updateIndex(name, professor, es):
+    # Search for: professor with matching last and first name
+    query = {
+        "query": {
+            "bool":{
+                "must": [
+                    {"match": {"lastName": name["lastName"] }},
+                    {"match": {"firstName": name["firstName"]}}
+                ]
+            }
+        }
+    }
+    res = es.search(index='professors', body=query)
+
+    # If no entry for the professor currently exists, add to index
+    if not res["hits"]["hits"]: 
+        name["SEI"] = [professor]
+        es.index(index='professors', id=name["lastName"] + name["firstName"], document=name)
+    # Else append to current professor index
+    else:
+        # Get the doc for the professor
+        doc = res["hits"]["hits"][0]
+        source = doc['_source']
+        print("\nBefore append: ", res["hits"]["hits"][0])
+
+        # If there are currently no SEI entries, add to doc
+        # Append the new SEI review to the professor SEI entries
+        print("\n appending: " + name["lastName"] + name["firstName"])
+
+        if "SEI" not in source:
+            source["SEI"] = [professor]  
+            print("\nSEI not in source")         
+        else: source["SEI"].append(professor)    
+
+        # Update the elasticsearch index 
+        es.update(index='professors', id=name["lastName"] + name["firstName"], body={"doc": source})
+
+        res = es.search(index='professors', body=query)
+        print("After append: ", res["hits"]["hits"][0])
+        
+    return
+
 for subject in subjects:
     print(f"scraping: {subject}...")
 
@@ -110,23 +152,25 @@ for subject in subjects:
                 if len(cols) < 14:  
                     print(f"⚠️ Skipping row with insufficient columns in subject {subject}")
                     continue  
-                professor = {
+                name = {
                     "lastName": cols[0].text.strip(),
                     "firstName": cols[1].text.strip(),
+                }
+                professor = {
                     "Subject": cols[2].text.strip(),
                     "Catalog": cols[3].text.strip(),
                     "Class Name": cols[4].text.strip(),
                     "Class Number": cols[5].text.strip(),
                     "Term": cols[6].text.strip(),
                     "College": cols[7].text.strip(),
-                    "department": cols[8].text.strip(),
+                    "Department": cols[8].text.strip(),
                     "Medium": cols[9].text.strip(),
                     "Campus": cols[10].text.strip(),
                     "Class Size": cols[11].text.strip(),
                     "Responses": cols[12].text.strip(),
                     "Rating": cols[13].text.strip(),
                 }
-                es.index(index='professors', id=professor["lastName"] + professor["firstName"], document=professor)
+                updateIndex(name, professor, es)
                 all_data.append(professor)
 
             print(f"finish {subject}  {page} ，total {len(rows)} datas")
@@ -134,7 +178,6 @@ for subject in subjects:
                 print(f" No data found for subject {subject}, skipping...")
                 break  # Skip this subject and continue to the next one
 
-        
             if len(rows) < 20:
                 break
 
