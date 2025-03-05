@@ -9,35 +9,22 @@ ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
 load_dotenv()
 es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
-def demo_search(rating: float):
-    demo_result = {
+def demo_search_lte_rating(rating: float):
+    result = {
         "count": 0,
         "matched_professors": {}
     }
-    count_query = {
-        "query": {
-            "range": {
-                "avgRating": {
-                    "lte": rating
-                }
+    searching_rule = {
+        "range": {
+            "avgRating": {
+                "lte": rating
             }
         }
     }
+    count_query = {"query": searching_rule}
     query_size = es.count(index="professors", body=count_query )["count"]
-    query = {
-        "query": {
-            # "match": {
-            #     "department": "English"
-            # }
-            "range": {
-                "avgRating": {
-                    "lte": rating
-                }
-            }
-        },
-        "size": query_size
-    }
-    demo_result["count"] = query_size
+    query = {"query": searching_rule,"size": query_size}
+    result["count"] = query_size
 
     # A simple demonstration
     res = es.search(index = "professors", body = query)
@@ -48,6 +35,35 @@ def demo_search(rating: float):
         # print(f"A professor at Department {sourse['department']}: {sourse['avgRating']}")
         # Just in case of privacy concern
         # print(f"{sourse['firstName']} {sourse['lastName']}: {sourse['avgRating']}")
-        demo_result["matched_professors"][sourse['legacyId']] = {"name": f"{sourse['firstName']} {sourse['lastName']}", "avg_rating": sourse['avgRating']}
+        result["matched_professors"][sourse['legacyId']] = {"name": f"{sourse['firstName']} {sourse['lastName']}", "avg_rating": sourse['avgRating']}
 
-    return demo_result
+    return result
+
+def demo_search_desc_department(department: str):
+    result = {
+        "count": 0,
+        "matched_professors": []
+    }
+    searching_rule = {
+        "match": {
+            "department": department
+        }
+    }
+    count_query = {"query": searching_rule}
+    query_size = es.count(index="professors", body=count_query )["count"]
+    query = {
+        "query": searching_rule,"size": query_size,
+        "sort": [
+            {
+                "avgRating": "desc"
+            }
+        ]
+    }
+    result["count"] = query_size
+
+    res = es.search(index = "professors", body = query)
+    for doc in res["hits"]["hits"]:
+        sourse = doc['_source']
+        result["matched_professors"].append({"name": f"{sourse['firstName']} {sourse['lastName']}", "department": sourse['department'], "avg_rating": sourse['avgRating']})
+
+    return result
