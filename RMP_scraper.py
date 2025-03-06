@@ -95,6 +95,7 @@ def get_reviews(professor_id, j):
                 "rating": quality.get_text(strip=True) if quality else None,
                 "comment": comment.get_text(strip=True) if comment else None
             })
+    #print(j["Ratings"])
         
 #This function uses the graphql endpoint and the given headers to get information about each professor
 #It returns when the professors being scraped either don't have any reviews or when there is no longer 

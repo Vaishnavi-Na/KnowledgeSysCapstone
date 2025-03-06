@@ -61,7 +61,7 @@ ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
 load_dotenv()
 es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
-def updateIndex(name, professor, es):
+def updateIndex(name, professor):
     # Search for: professor with matching last and first name
     query = {
         "query": {
@@ -73,33 +73,35 @@ def updateIndex(name, professor, es):
             }
         }
     }
+    es.indices.refresh(index="professors")
     res = es.search(index='professors', body=query)
 
     # If no entry for the professor currently exists, add to index
     if not res["hits"]["hits"]: 
         name["SEI"] = [professor]
+        print("\nProfessor not found: ", name["lastName"] + name["firstName"])
         es.index(index='professors', id=name["lastName"] + name["firstName"], document=name)
+        print(name)
     # Else append to current professor index
     else:
         # Get the doc for the professor
         doc = res["hits"]["hits"][0]
         source = doc['_source']
-        print("\nBefore append: ", res["hits"]["hits"][0])
+        docID = doc['_id']
+
+        print("\n appending: " + name["lastName"] + name["firstName"])
+        print("Before append: ", source)
 
         # If there are currently no SEI entries, add to doc
         # Append the new SEI review to the professor SEI entries
-        print("\n appending: " + name["lastName"] + name["firstName"])
-
         if "SEI" not in source:
-            source["SEI"] = [professor]  
+            source["SEI"] = [professor]
             print("\nSEI not in source")         
         else: source["SEI"].append(professor)    
 
         # Update the elasticsearch index 
-        es.update(index='professors', id=name["lastName"] + name["firstName"], body={"doc": source})
-
-        res = es.search(index='professors', body=query)
-        print("After append: ", res["hits"]["hits"][0])
+        es.index(index='professors', id=docID, document=source)
+        print("\nAfter append: ", source)
         
     return
 
@@ -170,7 +172,8 @@ for subject in subjects:
                     "Responses": cols[12].text.strip(),
                     "Rating": cols[13].text.strip(),
                 }
-                updateIndex(name, professor, es)
+                print("\nNew entry----------------------------------")
+                updateIndex(name, professor)
                 all_data.append(professor)
 
             print(f"finish {subject}  {page} ，total {len(rows)} datas")
