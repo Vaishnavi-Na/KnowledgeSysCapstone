@@ -1,11 +1,15 @@
 # KnowledgeSysCapstone
 
-To create a venv environment to run your project, run the following command:
+## Virtual Environment
+
+If a venv enviroment not created in your project, run the following command:
 `python -m venv <foldername>`
 for example
 
 ```sh
 python -m venv capstone
+# or
+python -m venv .venv
 ```
 
 To activate your python enviornment, please run the following command:
@@ -14,13 +18,17 @@ for example
 
 ```sh
 capstone\Scripts\activate
+# or
+.\venv\Scripts\activate
+
+# on Linux/MacOS,
+source venv/bin/activate
 ```
 
 To add environment to your workspace run:
 
 ```sh
 pip install -r requirements.txt
-
 ```
 
 Please create your local env to look like the following:
@@ -37,9 +45,31 @@ To get elasticsearch functionality to work, please save the http_ca.crt certific
 2. Going to your files
 3. Left click on usr/share/elasticsearch/config/certs/http_ca.crt in files for your container and save that to your local project folder.
 
+## FastAPI backend
+
+[WARN] This section is generated, to modify, please go to the backend_integration\README.md
+
+Because of Elastic Search, need to download or move `http_ca.crt` into `.\backend_integration\` folder.
+
+To test & Run Locally, first cd to the folder:
+
+```bash
+cd .\backend_integration\
+```
+
+Then run command
+
+```bash
+fastapi dev main.py
+```
+
+## coursesearchplus
+
+[WARN] This section is generated, to modify, please go to the coursesearchplus\README.md
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+### Getting Started
 
 cd to coursesearchplus folder
 
@@ -53,15 +83,21 @@ If npm not installed, run:
 npm install
 ```
 
+If next.js not installed, run:
+
+```bash
+npm install next
+```
+
 First, run the development server:
 
 ```bash
 npm run dev
-# or
+## or
 yarn dev
-# or
+## or
 pnpm dev
-# or
+## or
 bun dev
 ```
 
@@ -71,7 +107,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+### Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -80,7 +116,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 

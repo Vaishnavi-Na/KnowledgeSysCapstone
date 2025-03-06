@@ -2,8 +2,10 @@
 
 import Link from 'next/link';
 import NavbarElse from '@/components/navbarElse';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './search.css';
+
+const server_endpoint = 'http://localhost:8000'
 
 export default function UploadPage() {
   const [file, setFile] = useState<File | null>(null);
@@ -14,6 +16,22 @@ export default function UploadPage() {
     special: 'None',
     courses: ['None'],
   });
+
+  // // Pull existing transcript from local storage if it exists
+  // var tempTranscript = localStorage.getItem("transcript");
+  // if (tempTranscript !== null) {
+  //   setTranscript(JSON.parse(tempTranscript));
+  //   //setRetreived(true);
+  // }
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const tempTranscript = localStorage.getItem("transcript");
+      if (tempTranscript !== null) {
+        setTranscript(JSON.parse(tempTranscript));
+        setRetreived(true);
+      }
+    }
+  }, []);
 
   // Handle file selection
   const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -41,7 +59,7 @@ export default function UploadPage() {
     formData.append('file', file);
 
     try {
-      const response = await fetch('/api/upload', {
+      const response = await fetch(`${server_endpoint}/upload`, {
         method: 'POST',
         body: formData,
       });
@@ -52,13 +70,16 @@ export default function UploadPage() {
         setMessage(`File uploaded successfully!`);
         setTranscript(result);
         setRetreived(true);
+
+        // Add transcript to localstorage
+        localStorage.setItem("transcript", JSON.stringify(result));
       } 
       else {
-        setMessage(`Error: ${result.message}`);
+        setMessage(`Error: ${result.error}`);
       }
     } 
     catch (error) {
-      setMessage('Error uploading file.');
+      setMessage(`Error handling submit: ${error}`);
     } 
     finally {
       setUploading(false);
@@ -97,7 +118,7 @@ export default function UploadPage() {
             </ol>
           </section>
 
-          {/* File Upload (Visual Only) */}
+          {/* File Upload */}
           <div className="mt-10">
             <label htmlFor="file-upload" className="cursor-pointer bg-red-500 text-white py-3 px-6 rounded-lg shadow-md flex items-center space-x-2 hover:bg-red-600">
               <div>
