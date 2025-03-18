@@ -55,6 +55,12 @@ export default function NavbarElse() {
             Build
           </a>
         </Link>
+
+        <Link href="/tips" legacyBehavior>
+          <a className={`navLink ${isActive('/tips')}`}>
+            Tips
+          </a>
+        </Link>
       </div>
     </nav>
   );
