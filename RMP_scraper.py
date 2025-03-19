@@ -1,7 +1,6 @@
 import requests
 import os
 from dotenv import load_dotenv
-from bs4 import BeautifulSoup
 from elasticsearch import Elasticsearch
 import json
 import ssl
@@ -24,7 +23,7 @@ headers = {
 #GraphQL data query for professor information
 data = {
     "query": """query TeacherSearchPaginationQuery($count: Int!, $cursor: String, $query: TeacherSearchQuery!) {
-        search: newSearch {
+    search: newSearch {
             teachers(query: $query, first: $count, after: $cursor) {
                 edges {
                     cursor
@@ -57,6 +56,36 @@ data = {
     }
 }
 
+def prof_ratings_query(prof_id):
+    prof_data = {
+    "query": """query TeacherSearchPaginationQuery($count: Int!, $id: ID!, $courseFilter: String, $cursor: String, $query: TeacherSearchQuery!) {
+        node(id: $id) {
+            ... on Teacher {
+                ratings(first: $count, after: $cursor) {
+                    edges {
+                        node {
+                            comment
+                            clarityRating
+                            difficultyRating
+                        }
+                    }
+                    pageInfo {
+                        hasNextPage
+                        endCursor
+                    }
+                }
+            }
+        }
+    }""",
+    "variables": {
+        "count": 10,
+        "cursor": None,
+        "id": prof_id
+    }
+}
+    return prof_data
+
+
 #Setup elasticsearch through REST API library
 ctx = ssl.create_default_context()
 ctx.load_verify_locations("http_ca.crt")
@@ -70,31 +99,31 @@ def get_reviews(professor_id, j):
     # URL of the professor's page on RateMyProfessors
     url = f'https://www.ratemyprofessors.com/professor/{professor_id}'
 
-    # Send a GET request to the URL
-    response = requests.get(url)
-
-    # Parse the HTML content of the page
-    soup = BeautifulSoup(response.content, 'html.parser')
-
-    # Find root of HTML webpage
-    root = soup.find(id="root")
-    ratings = root.find_all(class_="Rating__RatingBody-sc-1rhvpxz-0 dGrvXb")
-    
     # Initialize the Ratings list if it doesn't exist
     if "Ratings" not in j:
         j["Ratings"] = []
+        
+    index = 0
+    # Load all the comments
+    while True:
+        # Get the current page comments
+        prof_data = prof_ratings_query(professor_id)
+        response = requests.post(graphql_url, headers=headers, json=prof_data).json()
+        
+        page_info = response["data"]["node"]["ratings"]["pageInfo"]
+        ratings = response["data"]["node"]["ratings"]["edges"]["node"]
 
-    #Add a list of each rating (index, rating and comment) to the professor's dict
-    for index, rating in enumerate(ratings):
-        box=rating.find(class_="RatingValues__StyledRatingValues-sc-6dc747-0 gFOUvY")
-        quality=box.find(class_="CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 gcFhmN")
-        comment= rating.find(class_="Comments__StyledComments-dzzyvm-0 gRjWel")
+        for rating in ratings:
+            j["Ratings"].append([index, rating["difficultyRating"],rating["comment"]])
+            index += 1
 
-        j["Ratings"].append({
-                "index": index, 
-                "rating": quality.get_text(strip=True) if quality else None,
-                "comment": comment.get_text(strip=True) if comment else None
-            })
+        #pagination logic
+        if not page_info["hasNextPage"]:
+            break  # Stop if no more pages
+
+        #update cursor for next request
+        data["variables"]["cursor"] = page_info["endCursor"]
+
     #print(j["Ratings"])
         
 #This function uses the graphql endpoint and the given headers to get information about each professor
