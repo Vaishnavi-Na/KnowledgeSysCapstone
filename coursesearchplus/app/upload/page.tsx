@@ -16,6 +16,8 @@ export default function UploadPage() {
     special: 'None',
     courses: ['None'],
   });
+  // Add state for tracking drag events
+  const [isDragActive, setIsDragActive] = useState<boolean>(false);
 
   // // Pull existing transcript from local storage if it exists
   // var tempTranscript = localStorage.getItem("transcript");
@@ -37,6 +39,36 @@ export default function UploadPage() {
   const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     if (event.target.files) {
       setFile(event.target.files[0]);
+    }
+  };
+
+  // Handle drag events
+  const handleDrag = (e: React.DragEvent<HTMLLabelElement>) => {
+    e.preventDefault();
+    e.stopPropagation();
+    
+    if (e.type === 'dragenter' || e.type === 'dragover') {
+      setIsDragActive(true);
+    } else if (e.type === 'dragleave') {
+      setIsDragActive(false);
+    }
+  };
+  
+  // Handle dropped file
+  const handleDrop = (e: React.DragEvent<HTMLLabelElement>) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setIsDragActive(false);
+    
+    if (e.dataTransfer.files && e.dataTransfer.files.length > 0) {
+      const droppedFile = e.dataTransfer.files[0];
+      // Check if the file is a PDF
+      if (droppedFile.type === 'application/pdf') {
+        setFile(droppedFile);
+        setMessage('');
+      } else {
+        setMessage('Please upload a PDF file');
+      }
     }
   };
 
@@ -119,20 +151,107 @@ export default function UploadPage() {
           </section>
 
           {/* File Upload */}
-          <div className="mt-10">
-            <label htmlFor="file-upload" className="cursor-pointer bg-red-500 text-white py-3 px-6 rounded-lg shadow-md flex items-center space-x-2 hover:bg-red-600">
-              <div>
-                <input type="file" onChange={handleFileChange} />
-                <button onClick={handleSubmit} disabled={uploading}>
-                  {uploading ? 'Uploading...' : 'Upload Transcript'}
+          <div className="mt-10 mb-8">
+            <div className="max-w-xl mx-auto">
+              {/* File Drop Zone with drag and drop handlers */}
+              <label
+                htmlFor="file-upload" 
+                className={`block cursor-pointer border-2 border-dashed rounded-lg p-8 transition-colors 
+                  ${file ? 'border-green-400 bg-green-50' : 
+                    isDragActive ? 'border-red-500 bg-red-50' : 'border-gray-300 hover:border-red-400'}`}
+                onDragEnter={handleDrag}
+                onDragLeave={handleDrag}
+                onDragOver={handleDrag}
+                onDrop={handleDrop}
+              >
+                <div className="text-center">
+                  {!file ? (
+                    <>
+                      <svg xmlns="http://www.w3.org/2000/svg" className="mx-auto h-12 w-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+                      </svg>
+                      <p className="mt-2 text-sm text-gray-600">
+                        <span className="font-medium text-red-600 hover:text-red-500">
+                          Click to browse
+                        </span> or drag and drop
+                      </p>
+                      <p className="mt-1 text-xs text-gray-500">PDF only (max 10MB)</p>
+                    </>
+                  ) : (
+                    <>
+                      <svg xmlns="http://www.w3.org/2000/svg" className="mx-auto h-12 w-12 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                      <p className="mt-2 text-sm text-gray-600">File selected:</p>
+                      <p className="mt-1 text-sm font-medium text-gray-900">{file.name}</p>
+                      <button 
+                        type="button"
+                        onClick={(e) => {
+                          e.preventDefault();
+                          e.stopPropagation();
+                          setFile(null);
+                        }} 
+                        className="mt-2 px-3 py-1 text-xs text-red-500 hover:text-white hover:bg-red-500 border border-red-500 rounded-full transition-colors"
+                      >
+                        Remove file
+                      </button>
+                    </>
+                  )}
+                  <input
+                    id="file-upload"
+                    name="file-upload"
+                    type="file"
+                    accept=".pdf"
+                    className="sr-only"
+                    onChange={handleFileChange}
+                  />
+                </div>
+              </label>
+              
+              {/* Upload button (removed Browse Files button) */}
+              <div className="mt-6 flex justify-center">
+                <button
+                  onClick={handleSubmit}
+                  disabled={uploading || !file}
+                  className={`inline-flex items-center px-6 py-3 border border-transparent text-sm font-medium rounded-md shadow-sm text-white 
+                    ${!file ? 'bg-gray-400 cursor-not-allowed' : 'bg-red-600 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500'}`}
+                >
+                  {uploading ? (
+                    <>
+                      <svg className="animate-spin -ml-1 mr-2 h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                      </svg>
+                      Processing...
+                    </>
+                  ) : (
+                    'Upload Transcript'
+                  )}
                 </button>
-                {message && <p>{message}</p>}
               </div>
-              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                <path fillRule="evenodd" d="M3 10a1 1 0 011-1h3V4a1 1 0 112 0v5h3a1 1 0 110 2h-3v5a1 1 0 11-2 0v-5H4a1 1 0 01-1-1z" clipRule="evenodd" />
-              </svg>
-            </label>
-            {/* No file input or state needed */}
+              
+              {/* Message display */}
+              {message && (
+                <div className={`mt-4 p-3 rounded-md ${message.includes('successfully') ? 'bg-green-50 text-green-800' : 'bg-red-50 text-red-800'}`}>
+                  <div className="flex">
+                    <div className="flex-shrink-0">
+                      {message.includes('successfully') ? (
+                        <svg className="h-5 w-5 text-green-400" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                        </svg>
+                      ) : (
+                        <svg className="h-5 w-5 text-red-400" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
+                        </svg>
+                      )}
+                    </div>
+                    <div className="ml-3">
+                      <p className="text-sm font-medium">{message}</p>
+                    </div>
+                  </div>
+                </div>
+              )}
+            </div>
           </div>
 
           {/* Table view of transcript */}
