@@ -31,10 +31,12 @@ export default function SchedulingTips() {
           </section>
 
           {/* Prerequisite Images */}
-          <section className="flex justify-center mt-6 space-x-4">
-            <img src="/prereq1.png" alt="CSE Core Prerequisite Chart" className="rounded-lg shadow-md w-1/3 h-auto" />
-            <img src="/prereq2.png" alt="CSE Capstone Prerequisite Chart" className="rounded-lg shadow-md w-1/3 h-auto" />
-          </section>
+          <section className="flex flex-col items-center mt-6 space-y-10">
+  <img src="/prereq1.png" alt="CSE Core Prerequisite Chart" className="rounded-lg shadow-md w-2/3 h-auto" />
+  <img src="/prereq2.png" alt="CSE Capstone Prerequisite Chart" className="rounded-lg shadow-md w-2/3 h-auto" />
+</section>
+
+
 
 
           {/* Minor and Electives Section */}
