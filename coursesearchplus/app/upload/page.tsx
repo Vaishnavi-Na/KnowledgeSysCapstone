@@ -29,12 +29,6 @@ export default function UploadPage() {
   const [specialization, setSpecialization] = useState<string>('');
   const [editingSpecialization, setEditingSpecialization] = useState<boolean>(false);
 
-  // // Pull existing transcript from local storage if it exists
-  // var tempTranscript = localStorage.getItem("transcript");
-  // if (tempTranscript !== null) {
-  //   setTranscript(JSON.parse(tempTranscript));
-  //   //setRetreived(true);
-  // }
   useEffect(() => {
     if (typeof window !== "undefined") {
       const tempTranscript = localStorage.getItem("transcript");
@@ -253,13 +247,11 @@ export default function UploadPage() {
     // Show success message
     setMessage('Major specialization updated successfully!');
   };
-
+  
   return (
     <>
       <NavbarElse />
       <main className="flex min-h-screen flex-col items-center p-10">
-        {/* Header */}
-        
         {/* Main Content */}
         <div className="max-w-5xl w-full text-center mt-12 font-mono text-sm">
           <h1 className="text-4xl font-bold mb-6">Upload Your Transcript</h1>
@@ -334,7 +326,7 @@ export default function UploadPage() {
                 </div>
               </label>
               
-              {/* Upload button (removed Browse Files button) */}
+              {/* Upload button */}
               <div className="mt-6 flex justify-center">
                 <button
                   onClick={handleSubmit}
@@ -380,7 +372,7 @@ export default function UploadPage() {
             </div>
           </div>
 
-          {/* After file upload section and before course table */}
+          {/* Academic Profile Section */}
           <div className="mt-12 mb-8 w-full">
             {transcript.special !== 'None' ? (
               // Show full academic profile section when a specialization exists
@@ -498,25 +490,141 @@ export default function UploadPage() {
             )}
           </div>
 
-          {/* Table view of transcript */}
-          {retreived && 
-            <table>
-              <caption> <strong> Courses Taken </strong> </caption>
-              <tbody> 
-                {rows.map((row, rowIndex) => (
-                  <tr key={rowIndex}>
-                    {row.map((item, colIndex) => (
-                      <td key={colIndex} className="border border-gray-300 p-2">
-                        {item}
-                      </td>
-                    ))}
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          }
+          {/* Table view of transcript with manual entry option */}
+          <div className="mt-8 w-full">
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-2xl font-semibold">Your Course History</h2>
+              <button
+                onClick={() => setShowEntryForm(!showEntryForm)}
+                className="flex items-center px-4 py-2 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors"
+              >
+                {showEntryForm ? 'Exit' : 'Add Course Manually'}
+                <svg xmlns="http://www.w3.org/2000/svg" className={`h-5 w-5 ml-2 ${showEntryForm ? 'hidden' : ''}`} viewBox="0 0 20 20" fill="currentColor">
+                  <path fillRule="evenodd" d="M10 5a1 1 0 011 1v3h3a1 1 0 110 2h-3v3a1 1 0 11-2 0v-3H6a1 1 0 110-2h3V6a1 1 0 011-1z" clipRule="evenodd" />
+                </svg>
+              </button>
+            </div>
 
-          
+            {/* Manual course entry form */}
+            {showEntryForm && (
+              <div className="bg-gray-50 p-6 mb-6 rounded-lg shadow-md border border-gray-200">
+                <h3 className="text-lg font-medium mb-3">Enter Course Information</h3>
+                <div className="flex flex-col md:flex-row gap-4">
+                  <div className="flex-grow">
+                    <label htmlFor="course-code" className="block text-sm font-medium text-gray-700 mb-1 text-left">
+                      Course Code (e.g., CSE 3901)
+                    </label>
+                    <input
+                      type="text"
+                      id="course-code"
+                      value={newCourse}
+                      onChange={(e) => {
+                        setNewCourse(e.target.value);
+                        // Clear error when user starts typing again
+                        if (courseError) setCourseError('');
+                      }}
+                      placeholder="Enter course code (e.g., CSE 3901)"
+                      className={`w-full px-4 py-2 border ${courseError ? 'border-red-500' : 'border-gray-300'} rounded-md focus:outline-none focus:ring-2 focus:ring-red-500`}
+                    />
+                    {/* Course validation error message */}
+                    {courseError && (
+                      <div className="mt-1 text-left">
+                        <p className="text-sm text-red-600">{courseError}</p>
+                      </div>
+                    )}
+                  </div>
+                  <div className="flex items-end">
+                    <button
+                      onClick={handleAddCourse}
+                      className="px-6 py-2 bg-red-600 text-white rounded-md hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 transition-colors"
+                    >
+                      Add to Transcript
+                    </button>
+                  </div>
+                </div>
+                <p className="text-sm text-gray-500 mt-2 text-left">
+                  Note: Enter the complete course code as it appears on your transcript (e.g., CSE 3901, MATH 1151)
+                </p>
+              </div>
+            )}
+
+            {/* Courses table with improved styling and clickable rows */}
+            {retreived && (
+              <div className="overflow-hidden rounded-lg border border-gray-200 shadow-lg">
+                {/* Show click error if present */}
+                {clickError && (
+                  <div className="p-3 bg-red-50 text-red-800 border-b border-red-200">
+                    <div className="flex">
+                      <div className="flex-shrink-0">
+                        <svg className="h-5 w-5 text-red-400" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
+                        </svg>
+                      </div>
+                      <div className="ml-3">
+                        <p className="text-sm font-medium">{clickError}</p>
+                      </div>
+                    </div>
+                  </div>
+                )}
+                
+                <table className="w-full border-collapse bg-white text-sm text-gray-600">
+                  <thead>
+                    <tr className="bg-[#676767]">
+                      <th scope="col" className="px-6 py-4 font-semibold text-white text-center text-lg" colSpan={5}>
+                        Courses Taken
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-gray-100">
+                    {rows.map((row, rowIndex) => (
+                      <tr 
+                        key={rowIndex} 
+                        className={`hover:bg-red-50 transition-colors duration-150 ${rowIndex % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`}
+                      >
+                        {row.map((item, colIndex) => (
+                          <td key={colIndex} className="px-6 py-4 text-center font-medium">
+                            {item === 'None' ? (
+                              <span className="text-gray-400">—</span>
+                            ) : (
+                              <button
+                                onClick={() => handleCourseClick(item)}
+                                className="bg-gray-100 px-3 py-1 rounded-lg hover:bg-red-600 hover:text-white transition-colors"
+                              >
+                                {item}
+                              </button>
+                            )}
+                          </td>
+                        ))}
+                      </tr>
+                    ))}
+                  </tbody>
+                  <tfoot className="bg-gray-50 border-t border-gray-200">
+                    <tr>
+                      <td colSpan={5} className="p-3 text-center">
+                        <span className="text-sm font-medium text-gray-700">
+                          {transcript.courses.length} {transcript.courses.length === 1 ? 'course' : 'courses'} in your transcript
+                        </span>
+                        {transcript.courses.length > 0 && transcript.courses[0] !== 'None' && (
+                          <span className="ml-2 text-xs text-gray-500">
+                            • Click on a course to view its website
+                          </span>
+                        )}
+                      </td>
+                    </tr>
+                  </tfoot>
+                </table>
+              </div>
+            )}
+
+            {/* Message to prompt upload or manual entry when no transcript */}
+            {!retreived && !message && (
+              <div className="text-center p-8 border-2 border-dashed border-gray-300 rounded-lg">
+                <p className="text-gray-500">
+                  No course history available. Upload your transcript or add courses manually.
+                </p>
+              </div>
+            )}
+          </div>
         </div>
       </main>
     </>
