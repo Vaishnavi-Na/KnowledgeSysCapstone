@@ -65,13 +65,6 @@ export default function BuildSchedulePage() {
             </ul>
             <p className="mt-4 font-bold text-lg text-[#bb0000]">Minimum Total Credit Hours: 126</p>
           </div>
-
-          {/* Back to Home Link */}
-          <div className="mt-12">
-            <a href="/" className="text-foreground hover:underline text-lg">
-              ← Back to Home
-            </a>
-          </div>
         </div>
       </main>
     </>
