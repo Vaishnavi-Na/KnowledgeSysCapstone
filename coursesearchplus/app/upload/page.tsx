@@ -28,6 +28,9 @@ export default function UploadPage() {
   // Add state for specialization entry
   const [specialization, setSpecialization] = useState<string>('');
   const [editingSpecialization, setEditingSpecialization] = useState<boolean>(false);
+  // Add these new state variables near the top of your component with the other states
+  const [selectedCourse, setSelectedCourse] = useState<string | null>(null);
+  const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
 
   useEffect(() => {
     if (typeof window !== "undefined") {
@@ -205,29 +208,36 @@ export default function UploadPage() {
   };
 
   // Handle clicking on a course to view details
-  const handleCourseClick = async (courseCode: string) => {
+  const handleCourseClick = (courseCode: string) => {
     if (courseCode === 'None') return;
-    
     setClickError('');
-    
-    // Split the course code into department and number
-    const [dept, num] = courseCode.split(' ');
+    setSelectedCourse(courseCode);
+    setIsModalOpen(true);
+  };
+
+  // Add this new function to view course details
+  const handleViewCourse = () => {
+    if (!selectedCourse) return;
     
     try {
       // Create search query
-      const searchQuery = `${courseCode} Ohio State`;
+      const searchQuery = `${selectedCourse} Ohio State`;
       const encodedQuery = encodeURIComponent(searchQuery);
       
-      // For development purposes, we'll use Google's search directly
-      // In production, you might want to replace this with a proper API
+      // Open in new tab
       window.open(`https://www.google.com/search?q=${encodedQuery}`, '_blank');
       
-      // Note: For a better user experience, you could implement an actual 
-      // API endpoint that searches and returns the first valid result URL
-      // Then you could navigate directly to that URL instead of the search page
+      // Close the modal
+      setIsModalOpen(false);
     } catch (error) {
       setClickError(`Error searching for course: ${error}`);
     }
+  };
+
+  // Add a closeModal function
+  const closeModal = () => {
+    setIsModalOpen(false);
+    setSelectedCourse(null);
   };
 
   // Handle saving specialization
@@ -246,6 +256,30 @@ export default function UploadPage() {
     
     // Show success message
     setMessage('Major specialization updated successfully!');
+  };
+
+  // Add this new function in your component (after handleCourseClick function)
+  const handleRemoveCourse = (courseToRemove: string) => {
+    // Don't allow removing if there's only one course
+    if (transcript.courses.length === 1) {
+      setMessage('You must have at least one course in your transcript.');
+      return;
+    }
+    
+    // Create updated courses array without the removed course
+    const updatedCourses = transcript.courses.filter(course => course !== courseToRemove);
+    
+    // Update transcript state
+    const updatedTranscript = {
+      ...transcript,
+      courses: updatedCourses.length > 0 ? updatedCourses : ['None']
+    };
+    
+    setTranscript(updatedTranscript);
+    setMessage(`Course ${courseToRemove} removed successfully!`);
+    
+    // Save updated transcript to localStorage
+    localStorage.setItem("transcript", JSON.stringify(updatedTranscript));
   };
   
   return (
@@ -627,6 +661,61 @@ export default function UploadPage() {
           </div>
         </div>
       </main>
+      {/* Course Action Modal */}
+      {isModalOpen && selectedCourse && (
+        <div className="fixed inset-0 bg-gray-600 bg-opacity-50 flex items-center justify-center z-50">
+          <div className="bg-white rounded-lg shadow-xl p-6 max-w-sm w-full mx-4">
+            <div className="text-center mb-4">
+              <h3 className="text-xl font-semibold text-gray-900">
+                {selectedCourse}
+              </h3>
+              <p className="text-sm text-gray-500 mt-1">
+                Choose an action for this course
+              </p>
+            </div>
+            
+            <div className="flex flex-col space-y-3">
+              <button
+                onClick={handleViewCourse}
+                className="w-full py-2 px-4 bg-red-600 text-white rounded hover:bg-red-700 transition-colors flex items-center justify-center"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                </svg>
+                View Course Details
+              </button>
+              
+              <button
+                onClick={() => {
+                  handleRemoveCourse(selectedCourse);
+                  closeModal();
+                }}
+                className="w-full py-2 px-4 bg-white border border-gray-300 text-gray-700 rounded hover:bg-gray-50 transition-colors flex items-center justify-center"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2 text-red-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+                </svg>
+                Remove Course
+              </button>
+            </div>
+            
+            <div className="mt-5">
+              <button
+                onClick={closeModal}
+                className="w-full text-sm text-gray-500 hover:text-gray-700 py-2"
+              >
+                Cancel
+              </button>
+            </div>
+            
+            {clickError && (
+              <div className="mt-3 p-2 bg-red-50 text-red-700 text-sm rounded-md">
+                {clickError}
+              </div>
+            )}
+          </div>
+        </div>
+      )}
     </>
   );
 }
