@@ -18,6 +18,16 @@ export default function UploadPage() {
   });
   // Add state for tracking drag events
   const [isDragActive, setIsDragActive] = useState<boolean>(false);
+  // Add state for manual course entry
+  const [newCourse, setNewCourse] = useState<string>('');
+  const [showEntryForm, setShowEntryForm] = useState<boolean>(false);
+  // Add separate state for course input errors
+  const [courseError, setCourseError] = useState<string>('');
+  // Add state for course click errors
+  const [clickError, setClickError] = useState<string>('');
+  // Add state for specialization entry
+  const [specialization, setSpecialization] = useState<string>('');
+  const [editingSpecialization, setEditingSpecialization] = useState<boolean>(false);
 
   // // Pull existing transcript from local storage if it exists
   // var tempTranscript = localStorage.getItem("transcript");
@@ -29,7 +39,10 @@ export default function UploadPage() {
     if (typeof window !== "undefined") {
       const tempTranscript = localStorage.getItem("transcript");
       if (tempTranscript !== null) {
-        setTranscript(JSON.parse(tempTranscript));
+        const parsedTranscript = JSON.parse(tempTranscript);
+        setTranscript(parsedTranscript);
+        // Make sure specialization is empty string unless explicitly set
+        setSpecialization(parsedTranscript.special !== 'None' ? parsedTranscript.special : '');
         setRetreived(true);
       }
     }
@@ -101,6 +114,7 @@ export default function UploadPage() {
       if (response.ok) {
         setMessage(`File uploaded successfully!`);
         setTranscript(result);
+        setSpecialization(result.special !== 'None' ? result.special : '');
         setRetreived(true);
 
         // Add transcript to localstorage
@@ -128,6 +142,118 @@ export default function UploadPage() {
   };
   const rows = chunkArray(transcript.courses, 5); // Split the list into rows of 5
   
+  // Handle adding a new course manually
+  const handleAddCourse = () => {
+    // Clear previous course error
+    setCourseError('');
+    
+    if (!newCourse.trim()) {
+      setCourseError('Please enter a valid course code');
+      return;
+    }
+    
+    // Format and validate course code
+    const trimmedCourse = newCourse.trim();
+    
+    // Split into department code and course number
+    const parts = trimmedCourse.split(/\s+/);
+    
+    // Validate format: [UPPERCASE LETTERS] [4-DIGIT NUMBER]
+    if (parts.length !== 2) {
+      setCourseError('Course code must be in the format "DEPT 1234"');
+      return;
+    }
+    
+    const deptCode = parts[0];
+    const courseNumber = parts[1];
+    
+    // Check if department code is all uppercase letters
+    if (!/^[A-Z]+$/.test(deptCode)) {
+      setCourseError('Department code must be all uppercase letters (e.g., CSE)');
+      return;
+    }
+    
+    // Check if course number is a 4-digit number
+    if (!/^\d{4}$/.test(courseNumber)) {
+      setCourseError('Course number must be a 4-digit number (e.g., 3901)');
+      return;
+    }
+    
+    // Properly formatted course code
+    const formattedCourse = `${deptCode} ${courseNumber}`;
+    
+    // Check if course already exists in the transcript
+    if (transcript.courses.includes(formattedCourse)) {
+      setCourseError('This course is already in your transcript');
+      return;
+    }
+    
+    // Add the new course to the transcript
+    const updatedCourses = [...transcript.courses];
+    if (updatedCourses.length === 1 && updatedCourses[0] === 'None') {
+      updatedCourses[0] = formattedCourse;
+    } else {
+      updatedCourses.push(formattedCourse);
+    }
+    
+    const updatedTranscript = {
+      ...transcript,
+      courses: updatedCourses
+    };
+    
+    setTranscript(updatedTranscript);
+    setNewCourse('');
+    setMessage('Course added successfully!');
+    setRetreived(true);
+    
+    // Save updated transcript to localStorage
+    localStorage.setItem("transcript", JSON.stringify(updatedTranscript));
+  };
+
+  // Handle clicking on a course to view details
+  const handleCourseClick = async (courseCode: string) => {
+    if (courseCode === 'None') return;
+    
+    setClickError('');
+    
+    // Split the course code into department and number
+    const [dept, num] = courseCode.split(' ');
+    
+    try {
+      // Create search query
+      const searchQuery = `${courseCode} Ohio State`;
+      const encodedQuery = encodeURIComponent(searchQuery);
+      
+      // For development purposes, we'll use Google's search directly
+      // In production, you might want to replace this with a proper API
+      window.open(`https://www.google.com/search?q=${encodedQuery}`, '_blank');
+      
+      // Note: For a better user experience, you could implement an actual 
+      // API endpoint that searches and returns the first valid result URL
+      // Then you could navigate directly to that URL instead of the search page
+    } catch (error) {
+      setClickError(`Error searching for course: ${error}`);
+    }
+  };
+
+  // Handle saving specialization
+  const handleSaveSpecialization = () => {
+    // Update transcript with new specialization
+    const updatedTranscript = {
+      ...transcript,
+      special: specialization.trim() || 'None'
+    };
+    
+    setTranscript(updatedTranscript);
+    setEditingSpecialization(false);
+    
+    // Save updated transcript to localStorage
+    localStorage.setItem("transcript", JSON.stringify(updatedTranscript));
+    
+    // Show success message
+    setMessage('Major specialization updated successfully!');
+  };
+
   return (
     <>
       <NavbarElse />
@@ -254,29 +380,265 @@ export default function UploadPage() {
             </div>
           </div>
 
-          {/* Table view of transcript */}
-          {retreived && 
-            <table>
-              <caption> <strong> Courses Taken </strong> </caption>
-              <tbody> 
-                {rows.map((row, rowIndex) => (
-                  <tr key={rowIndex}>
-                    {row.map((item, colIndex) => (
-                      <td key={colIndex} className="border border-gray-300 p-2">
-                        {item}
-                      </td>
-                    ))}
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          }
+          {/* After file upload section and before course table */}
+          <div className="mt-12 mb-8 w-full">
+            {transcript.special !== 'None' ? (
+              // Show full academic profile section when a specialization exists
+              <div className="bg-white p-6 rounded-lg border border-gray-200 shadow-md">
+                <div className="flex justify-between items-center mb-4">
+                  <h2 className="text-2xl font-semibold">Academic Profile</h2>
+                  {!editingSpecialization && (
+                    <button
+                      onClick={() => setEditingSpecialization(true)}
+                      className="flex items-center px-4 py-2 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors"
+                    >
+                      Change Specialization
+                      <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 ml-2" viewBox="0 0 20 20" fill="currentColor">
+                        <path d="M13.586 3.586a2 2 0 112.828 2.828l-.793.793-2.828-2.828.793-.793zM11.379 5.793L3 14.172V17h2.828l8.38-8.379-2.83-2.828z" />
+                      </svg>
+                    </button>
+                  )}
+                </div>
+                
+                {editingSpecialization ? (
+                  <div className="py-2">
+                    <div className="flex flex-col md:flex-row gap-4">
+                      <div className="flex-grow">
+                        <label htmlFor="specialization" className="block text-sm font-medium text-gray-700 mb-1 text-left">
+                          Major Specialization (e.g., Artificial Intelligence, Information Systems)
+                        </label>
+                        <input
+                          type="text"
+                          id="specialization"
+                          value={specialization}
+                          onChange={(e) => setSpecialization(e.target.value)}
+                          placeholder="Enter your major specialization"
+                          className="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-red-500"
+                        />
+                      </div>
+                      <div className="flex items-end space-x-2">
+                        <button
+                          onClick={handleSaveSpecialization}
+                          className="px-6 py-2 bg-red-600 text-white rounded-md hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 transition-colors"
+                        >
+                          Save
+                        </button>
+                        <button
+                          onClick={() => {
+                            setEditingSpecialization(false);
+                            setSpecialization(transcript.special !== 'None' ? transcript.special : '');
+                          }}
+                          className="px-6 py-2 bg-gray-100 text-gray-700 rounded-md hover:bg-gray-200 focus:outline-none transition-colors"
+                        >
+                          Cancel
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                ) : (
+                  <div className="bg-gray-50 p-4 rounded-md">
+                    <div className="text-left">
+                      <p className="text-sm text-gray-500 mb-1">Major Specialization</p>
+                      <p className="text-lg font-medium">
+                        {transcript.special}
+                      </p>
+                    </div>
+                  </div>
+                )}
+              </div>
+            ) : (
+              // Show just a button when no specialization exists
+              <button
+                onClick={() => setEditingSpecialization(true)}
+                className="w-full py-4 px-6 bg-white border border-gray-200 rounded-lg shadow-md hover:bg-gray-50 text-left flex items-center justify-between"
+              >
+                <span className="text-lg font-medium text-gray-700">Enter Major Specialization</span>
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                </svg>
+              </button>
+            )}
+            
+            {/* Show the edit form separately when needed but no specialization exists yet */}
+            {transcript.special === 'None' && editingSpecialization && (
+              <div className="mt-4 bg-white p-6 rounded-lg border border-gray-200 shadow-md">
+                <h2 className="text-2xl font-semibold mb-4">Academic Profile</h2>
+                <div className="py-2">
+                  <div className="flex flex-col md:flex-row gap-4">
+                    <div className="flex-grow">
+                      <label htmlFor="specialization" className="block text-sm font-medium text-gray-700 mb-1 text-left">
+                        Major Specialization (e.g., Artificial Intelligence, Information Systems)
+                      </label>
+                      <input
+                        type="text"
+                        id="specialization"
+                        value={specialization}
+                        onChange={(e) => setSpecialization(e.target.value)}
+                        placeholder="Enter your major specialization"
+                        className="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-red-500"
+                      />
+                    </div>
+                    <div className="flex items-end space-x-2">
+                      <button
+                        onClick={handleSaveSpecialization}
+                        className="px-6 py-2 bg-red-600 text-white rounded-md hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 transition-colors"
+                      >
+                        Save
+                      </button>
+                      <button
+                        onClick={() => setEditingSpecialization(false)}
+                        className="px-6 py-2 bg-gray-100 text-gray-700 rounded-md hover:bg-gray-200 focus:outline-none transition-colors"
+                      >
+                        Cancel
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
 
-          {/* Back to Home Link */}
-          <div className="mt-12">
-            <Link href="/" className="text-foreground hover:underline text-lg">
-              ← Back to Home
-            </Link>
+          {/* Table view of transcript with manual entry option */}
+          <div className="mt-8 w-full">
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-2xl font-semibold">Your Course History</h2>
+              <button
+                onClick={() => setShowEntryForm(!showEntryForm)}
+                className="flex items-center px-4 py-2 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors"
+              >
+                {showEntryForm ? 'Exit' : 'Add Course Manually'}
+                <svg xmlns="http://www.w3.org/2000/svg" className={`h-5 w-5 ml-2 ${showEntryForm ? 'hidden' : ''}`} viewBox="0 0 20 20" fill="currentColor">
+                  <path fillRule="evenodd" d="M10 5a1 1 0 011 1v3h3a1 1 0 110 2h-3v3a1 1 0 11-2 0v-3H6a1 1 0 110-2h3V6a1 1 0 011-1z" clipRule="evenodd" />
+                </svg>
+              </button>
+            </div>
+
+            {/* Manual course entry form */}
+            {showEntryForm && (
+              <div className="bg-gray-50 p-6 mb-6 rounded-lg shadow-md border border-gray-200">
+                <h3 className="text-lg font-medium mb-3">Enter Course Information</h3>
+                <div className="flex flex-col md:flex-row gap-4">
+                  <div className="flex-grow">
+                    <label htmlFor="course-code" className="block text-sm font-medium text-gray-700 mb-1 text-left">
+                      Course Code (e.g., CSE 3901)
+                    </label>
+                    <input
+                      type="text"
+                      id="course-code"
+                      value={newCourse}
+                      onChange={(e) => {
+                        setNewCourse(e.target.value);
+                        // Clear error when user starts typing again
+                        if (courseError) setCourseError('');
+                      }}
+                      placeholder="Enter course code (e.g., CSE 3901)"
+                      className={`w-full px-4 py-2 border ${courseError ? 'border-red-500' : 'border-gray-300'} rounded-md focus:outline-none focus:ring-2 focus:ring-red-500`}
+                    />
+                    {/* Course validation error message */}
+                    {courseError && (
+                      <div className="mt-1 text-left">
+                        <p className="text-sm text-red-600">{courseError}</p>
+                      </div>
+                    )}
+                  </div>
+                  <div className="flex items-end">
+                    <button
+                      onClick={handleAddCourse}
+                      className="px-6 py-2 bg-red-600 text-white rounded-md hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 transition-colors"
+                    >
+                      Add to Transcript
+                    </button>
+                  </div>
+                </div>
+                <p className="text-sm text-gray-500 mt-2 text-left">
+                  Note: Enter the complete course code as it appears on your transcript (e.g., CSE 3901, MATH 1151)
+                </p>
+              </div>
+            )}
+
+            {/* Courses table with improved styling and clickable rows */}
+            {retreived && (
+              <div className="overflow-hidden rounded-lg border border-gray-200 shadow-lg">
+                {/* Show click error if present */}
+                {clickError && (
+                  <div className="p-3 bg-red-50 text-red-800 border-b border-red-200">
+                    <div className="flex">
+                      <div className="flex-shrink-0">
+                        <svg className="h-5 w-5 text-red-400" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
+                        </svg>
+                      </div>
+                      <div className="ml-3">
+                        <p className="text-sm font-medium">{clickError}</p>
+                      </div>
+                    </div>
+                  </div>
+                )}
+                
+                <table className="w-full border-collapse bg-white text-sm text-gray-600">
+                  <thead>
+                    <tr className="bg-[#676767]">
+                      <th scope="col" className="px-6 py-4 font-semibold text-white text-center text-lg" colSpan={5}>
+                        Courses Taken
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-gray-100">
+                    {rows.map((row, rowIndex) => (
+                      <tr 
+                        key={rowIndex} 
+                        className={`hover:bg-red-50 transition-colors duration-150 ${rowIndex % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`}
+                      >
+                        {row.map((item, colIndex) => (
+                          <td key={colIndex} className="px-6 py-4 text-center font-medium">
+                            {item === 'None' ? (
+                              <span className="text-gray-400">—</span>
+                            ) : (
+                              <button
+                                onClick={() => handleCourseClick(item)}
+                                className="bg-gray-100 px-3 py-1 rounded-lg hover:bg-red-600 hover:text-white transition-colors"
+                              >
+                                {item}
+                              </button>
+                            )}
+                          </td>
+                        ))}
+                      </tr>
+                    ))}
+                  </tbody>
+                  <tfoot className="bg-gray-50 border-t border-gray-200">
+                    <tr>
+                      <td colSpan={5} className="p-3 text-center">
+                        <span className="text-sm font-medium text-gray-700">
+                          {transcript.courses.length} {transcript.courses.length === 1 ? 'course' : 'courses'} in your transcript
+                        </span>
+                        {transcript.courses.length > 0 && transcript.courses[0] !== 'None' && (
+                          <span className="ml-2 text-xs text-gray-500">
+                            • Click on a course to view its website
+                          </span>
+                        )}
+                      </td>
+                    </tr>
+                  </tfoot>
+                </table>
+              </div>
+            )}
+
+            {/* Message to prompt upload or manual entry when no transcript */}
+            {!retreived && !message && (
+              <div className="text-center p-8 border-2 border-dashed border-gray-300 rounded-lg">
+                <p className="text-gray-500">
+                  No course history available. Upload your transcript or add courses manually.
+                </p>
+              </div>
+            )}
+
+            {/* Back to Home Link */}
+            <div className="mt-12 text-center">
+              <Link href="/" className="text-foreground hover:underline text-lg">
+                ← Back to Home
+              </Link>
+            </div>
           </div>
         </div>
       </main>
