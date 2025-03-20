@@ -150,13 +150,6 @@ export default function UploadPage() {
               </tbody>
             </table>
           }
-
-          {/* Back to Home Link */}
-          <div className="mt-12">
-            <Link href="/" className="text-foreground hover:underline text-lg">
-              ← Back to Home
-            </Link>
-          </div>
         </div>
       </main>
     </>

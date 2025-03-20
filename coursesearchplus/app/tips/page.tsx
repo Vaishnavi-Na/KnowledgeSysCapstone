@@ -66,13 +66,6 @@ export default function SchedulingTips() {
               <li>Statistics</li>
             </ul>
           </section>
-
-          {/* Back to Home Link */}
-          <div className="mt-12">
-            <a href="/" className="text-foreground hover:underline text-lg">
-              ← Back to Home
-            </a>
-          </div>
         </div>
       </main>
     </>
