@@ -34,12 +34,7 @@ export default function SearchPage() {
             </div>
           </section>
 
-          {/* Back to Home Link */}
-          <div className="mt-12">
-            <Link href="/" className="text-foreground hover:underline text-lg">
-              ← Back to Home
-            </Link>
-          </div>
+          {/* Removed Back to Home Link */}
         </div>
       </main>
     </>
