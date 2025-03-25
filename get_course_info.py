@@ -1,41 +1,94 @@
 import requests
-import json
 from dotenv import load_dotenv
 from elasticsearch import Elasticsearch
 import ssl
+import csv
 import os
+import json
+import re
 
+def get_prof_in(csv_name):
+    hash = set()
+    with open(csv_name, mode='r') as file:
+        csv_reader=csv.reader(file)
+
+        next(csv_reader)  
+        for row in csv_reader:
+            base_url = "https://content.osu.edu/v2/classes/search"
+                
+            row[2]=row[2].lower()        
+            if f"{row[2]}{row[1]}" not in hash:
+                hash.add(f"{row[2]}{row[1]}")
+                query_params = {
+                    "q": row[3],  
+                    "client": "class-search-ui",
+                    "campus": "col",
+                    "term": "1258",
+                    "p": "1",
+                    "class-session": "1",
+                    "academic-career": "ugrd",
+                    "subject": row[2]
+                }
+                courses = fetch_courses(base_url, query_params)
+                parsed_data = parse_courses(courses)
+                
+                with open("osu_cse_courses.json", "a") as f:
+                    json.dump(parsed_data, f, indent=4)
+                    f.write("\n")
+                    
+                # index_to_elasticsearch(parsed_data)
+            
+        print("Scraping complete. Data saved to osu_cse_courses.json")
+            
 def fetch_courses(base_url, query_params):
     courses = []
-    page = 1
     
-    while True:
-        print(f"Fetching page {page}...")
-        response = requests.get(base_url, params=query_params)
-        if response.status_code != 200:
-            print(f"Failed to fetch data: {response.status_code}")
-            break
-        
-        data = response.json()
-        courses.extend(data.get("data", {}).get("courses", []))
-        
-        next_page_link = data.get("data", {}).get("nextPageLink")
-        if not next_page_link:
-            break
-        
-        query_params["p"] = page + 1
-        page += 1
+    response = requests.get(base_url, params=query_params)
+    if response.status_code != 200:
+        print(f"Failed to fetch data: {response.status_code}")
+        return
     
+    data = response.json()
+    if len(data["data"]["courses"])>0:
+        courses.append(data["data"]["courses"][0])
     return courses
 
+def parse_prerequisites(text, course):
+    prereq_pattern = re.compile(r'Prereq: (.*?)(?:\.|Concur:|Not open|enrollment in|$)')
+    concur_pattern = re.compile(r'Concur: (.*?)(?:\.|Not open|$)')
+    major_pattern = re.compile(r'enrollment in (.*?)(?:\.|Not open|$)')
+    exclusion_pattern = re.compile(r'Not open to students with credit for (.*?)(?:\.|$)')
+    
+    prerequisites = prereq_pattern.findall(text)
+    concurrent = concur_pattern.findall(text)
+    majors = major_pattern.findall(text)
+    exclusions = exclusion_pattern.findall(text)
+    
+    def extract_list(data, reqs):
+        if data:
+            if reqs:
+                return [item.strip() if any(char.isalpha() for char in item.strip()) else course + " " + item.strip() for item in re.split(r',| or | and ', data[0]) if item.strip()]
+            return [item.strip() for item in re.split(r',| or | and ', data[0]) if item.strip()]
+        return []
+    
+    return {
+        "Prerequisites": extract_list(prerequisites, True),
+        "Concurrent Courses": extract_list(concurrent, True),
+        "Restricted Majors": extract_list(majors, False),
+        "Exclusions": extract_list(exclusions, True)
+    }
+    
 def parse_courses(courses):
     parsed_data = []
     for course in courses:
         course_info = course["course"]
         sections = course.get("sections", [])
+        course_info["catalogNumber"]
         parsed_data.append({
-            "title": course_info["title"],
+            "course": f"{course_info['subject']} {course_info['catalogNumber']}",
+            "title": course_info['title'],
             "description": course_info["description"],
+            "prereqs": parse_prerequisites(course_info["description"], course_info["subject"]),
             "catalog_number": course_info["catalogNumber"],
             "term": course_info["term"],
             "units": course_info["maxUnits"],
@@ -93,23 +146,7 @@ def index_to_elasticsearch(data):
 
 
 def main():
-    base_url = "https://content.osu.edu/v2/classes/search"
-    query_params = {
-        "q": "CSE",
-        "client": "class-search-ui",
-        "campus": "col",
-        "p": 1
-    }
+    get_prof_in("osu_professors_data.csv")
     
-    courses = fetch_courses(base_url, query_params)
-    parsed_data = parse_courses(courses)
-    
-    with open("osu_cse_courses.json", "w") as f:
-        json.dump(parsed_data, f, indent=4)
-    
-    print("Scraping complete. Data saved to osu_cse_courses.json")
-    
-    index_to_elasticsearch(parsed_data)
-
 if __name__ == "__main__":
     main()
