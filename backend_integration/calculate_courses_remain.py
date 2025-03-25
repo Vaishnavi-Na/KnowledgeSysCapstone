@@ -4,39 +4,51 @@ import json
 with open("major_curriculum.json") as f:
     major_curriculum: dict = json.load(f)
 
-with open("prereq_info.json") as f:
-    prereq_info: dict = json.load(f)
+with open("osu_cse_courses.json") as f:
+    prereq_info: list[dict] = json.load(f)
+    # print(prereq_info[0]["course"])
 
-def calculate_remaining_courses(transcript: dict) -> list[str]:
+def calculate_remaining_courses(transcript: dict) -> dict:
     taken_courses: set[str] = set(transcript['courses'])
     specialization: str = transcript.get('special', '')
+    # Test: {"special": "AIT", "courses": []}
+    # {"special": "AIT", "courses": ["Math 2568", "CSE 2331", "Stat 3201"]}
 
     # Combine general and specialization-specific courses
     curriculum: list[str] = list(major_curriculum["general"])
     curriculum.extend(major_curriculum.get(specialization, []))
 
     remaining_courses = set()
-    def check_and_add_course(course: str):
-        if course in taken_courses:
-            return  # already completed
+    unmet_prereqs = {}
 
-        # If course has prereq information
-        course_reqs = prereq_info.get(course, {})
-        all_requirements = course_reqs.get('pre-req', []) + course_reqs.get('concur', [])
+    def check_course_prereqs(course: str):
+        if course in taken_courses:
+            return []  # already completed, no unmet prereqs
+
+        # Find prerequisite info
+        course_reqs = next((item["prereqs"] for item in prereq_info if item["course"] == course), None)
+        if not course_reqs:
+            return []  # no prerequisites, course can be taken
+
+        unmet_groups = []
+        all_requirements = course_reqs.get('Prerequisites', []) + course_reqs.get('Concurrent Courses', [])
 
         for prereq_group in all_requirements:
-            # At least one course from the group must be satisfied
+            # At least one course in the group must be taken
             if not any(c in taken_courses for c in prereq_group):
-                # None satisfied, recursively add the first unsatisfied prereq course
-                prereq_course = prereq_group[0]
-                check_and_add_course(prereq_course)
+                unmet_groups.append(prereq_group)
 
-        # After checking prerequisites, finally add this course itself
-        remaining_courses.add(course)
+        return unmet_groups
 
-    # Check each curriculum course
     for course in curriculum:
-        check_and_add_course(course)
+        unmet_groups = check_course_prereqs(course)
+        if not unmet_groups:
+            remaining_courses.add(course)
+        else:
+            unmet_prereqs[course] = unmet_groups
 
-    # Filter out courses that are already taken
-    return sorted(remaining_courses - taken_courses)
+    # You can return both remaining_courses and unmet_prereqs if needed:
+    return {
+        "cantake": sorted(remaining_courses - taken_courses), 
+        "unmet_prereq": unmet_prereqs
+    }
