@@ -67,8 +67,7 @@ data = {
     }
 }
 
-def prof_ratings_query(prof_id):
-    prof_data = {
+prof_data = {
     "query": """query RatingsListQuery($count: Int!, $id: ID!, $courseFilter: String, $cursor: String) {
         node(id: $id) {
             ... on Teacher {
@@ -92,10 +91,10 @@ def prof_ratings_query(prof_id):
     "variables": {
         "count": 30,
         "cursor": None,
-        "id": prof_id
+        "id": 0000
     }
-    }
-    return prof_data
+}
+
 
 
 #Setup elasticsearch through REST API library
@@ -121,7 +120,7 @@ def get_reviews(professor_id, j, id):
     while True:
         print("\nNew Page")
         # Get the current page comments
-        prof_data = prof_ratings_query(id)
+        prof_data["variables"]["id"] = id
         response = requests.post(graphql_url, headers=headersProf, json=prof_data).json()
 
         ratings = response["data"]["node"]["ratings"]["edges"]
