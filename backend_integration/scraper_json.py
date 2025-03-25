@@ -1,7 +1,5 @@
 import re
-import pdfplumber # type: ignore
-import sys
-import json
+import pdfplumber
 import tempfile
 
 def scrap_from_adv_rep(file) -> dict:
@@ -62,15 +60,15 @@ def scrap_from_adv_rep(file) -> dict:
                 # Find all matches
                 result["courses"] = re.findall(courses_pattern, COURSES, re.MULTILINE)
     except Exception as e:
-        result = {"error": str(e)}
+        result = {"error": f"Error during scraping: {str(e)}"}
 
     return result
 
 # Read from stdin
-file = sys.stdin.buffer.read()
-result = scrap_from_adv_rep(file)
+# file = sys.stdin.buffer.read()
+# result = scrap_from_adv_rep(file)
 
-try:
-    print(json.dumps(result))
-except Exception as e:
-    print(json.dumps({"error": f"Error during JSON serialization: {str(e)}"}))
+# try:
+#     print(json.dumps(result))
+# except Exception as e:
+#     print(json.dumps({"error": f"Error during JSON serialization: {str(e)}"}))

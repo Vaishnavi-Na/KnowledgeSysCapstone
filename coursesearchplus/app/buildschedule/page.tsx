@@ -1,20 +1,19 @@
 'use client';
 
-import Link from 'next/link';
 import NavbarElse from '@/components/navbarElse';
+import curriculum from '@/app/buildschedule/curriculum.json'; // Import curriculum JSON directly
 
 export default function BuildSchedulePage() {
   return (
     <>
       <NavbarElse />
       <main className="flex min-h-screen flex-col items-center p-10">
-        {/* Main Content */}
         <div className="max-w-5xl w-full text-center mt-12 font-mono text-sm">
-          <h1 className="text-4xl font-bold mb-6">Build Your Schedule</h1>
+          <h1 className="text-4xl font-bold text-[#bb0000] mb-6">Build Your Schedule</h1>
 
           {/* Description Section */}
           <section className="bg-gray-100 p-6 rounded-lg shadow-md text-left">
-            <h2 className="text-2xl font-semibold mb-4">Schedule Builder</h2>
+            <h2 className="text-2xl font-semibold text-[#bb0000] mb-4">Schedule Builder</h2>
             <p className="text-lg leading-relaxed">
               Welcome to the Schedule Builder! Here you can create your perfect course schedule 
               based on your preferences and requirements. We'll help you find the best professors 
@@ -22,11 +21,49 @@ export default function BuildSchedulePage() {
             </p>
           </section>
 
-          {/* Back to Home Link */}
-          <div className="mt-12">
-            <Link href="/" className="text-foreground hover:underline text-lg">
-              ← Back to Home
-            </Link>
+          {/* Curriculum Table */}
+          <div className="max-w-5xl mx-auto mt-12 p-6">
+            <h2 className="text-3xl font-bold text-[#bb0000] text-center mb-6">{curriculum.degree}</h2>
+            <h3 className="text-2xl font-semibold text-[#4d4d4d] text-center mb-4">{curriculum.specialization}</h3>
+
+            {Object.entries(curriculum.categories).map(([category, courses]) => (
+              <div key={category} className="mb-12">
+                <div className="bg-[#bb0000] text-white font-bold text-xl p-3 rounded-lg text-center shadow-md">
+                  {category}
+                </div>
+                <table className="w-full border-collapse border border-gray-300 mt-4">
+                  <thead>
+                    <tr className="bg-[#d3d3d3] text-[#333] text-lg">
+                      <th className="border border-gray-300 px-4 py-3 text-left">Course</th>
+                      <th className="border border-gray-300 px-4 py-3 text-left">Title</th>
+                      <th className="border border-gray-300 px-4 py-3 text-left">Credit Hours</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {courses.map((course, index) => (
+                      <tr key={index} className="border border-gray-300 text-lg">
+                        <td className="border border-gray-300 px-4 py-2">{course.course || '-'}</td>
+                        <td className="border border-gray-300 px-4 py-2">{course.title || course.category}</td>
+                        <td className="border border-gray-300 px-4 py-2">{course.hours ?? '-'}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            ))}
+          </div>
+
+          {/* Legend Section */}
+          <div className="bg-gray-100 p-8 rounded-lg shadow-md mt-12 max-w-xxl text-left">
+            <h3 className="text-xl font-semibold text-[#bb0000] mb-4">Legend</h3>
+            <ul className="list-disc pl-6 text-lg">
+              <li><strong className="text-black-700">General Education Requirements:</strong> 24 credit hours</li>
+              <li><strong className="text-black-700">College/Degree Requirements:</strong> 20 credit hours</li>
+              <li><strong className="text-black-700">Major Core:</strong> 42-45 credit hours</li>
+              <li><strong className="text-black-700">Required Non-Major Courses:</strong> 23 credit hours</li>
+              <li><strong className="text-black-700">Technical/Directed/Targeted Electives; Career Courses:</strong> 17 credit hours</li>
+            </ul>
+            <p className="mt-4 font-bold text-lg text-[#bb0000]">Minimum Total Credit Hours: 126</p>
           </div>
         </div>
       </main>
