@@ -8,7 +8,10 @@ import json
 import re
 
 def get_prof_in(csv_name):
+    all_parsed_data = []
     hash = set()
+    cse_interest_subjects = set(["cse", "math", "engr", "physics", "ece", "stat"]) # For the benefit of our machine
+    # cse_interest_subjects = set(["cse"])
     with open(csv_name, mode='r') as file:
         csv_reader=csv.reader(file)
 
@@ -16,9 +19,10 @@ def get_prof_in(csv_name):
         for row in csv_reader:
             base_url = "https://content.osu.edu/v2/classes/search"
                 
-            row[2]=row[2].lower()        
-            if f"{row[2]}{row[1]}" not in hash:
-                hash.add(f"{row[2]}{row[1]}")
+            subject = row[2].lower()
+            key = f"{subject} {row[3]}"
+            if key not in hash and subject in cse_interest_subjects:
+                hash.add(key)
                 query_params = {
                     "q": row[3],  
                     "client": "class-search-ui",
@@ -27,18 +31,19 @@ def get_prof_in(csv_name):
                     "p": "1",
                     "class-session": "1",
                     "academic-career": "ugrd",
-                    "subject": row[2]
+                    "subject": subject
                 }
                 courses = fetch_courses(base_url, query_params)
                 parsed_data = parse_courses(courses)
-                
-                with open("osu_cse_courses.json", "a") as f:
-                    json.dump(parsed_data, f, indent=4)
-                    f.write("\n")
-                    
+                all_parsed_data.extend(parsed_data)
+                if parsed_data: print(f"course {key} scraped")
+
                 # index_to_elasticsearch(parsed_data)
-            
-        print("Scraping complete. Data saved to osu_cse_courses.json")
+
+        with open("backend_integration\\osu_cse_courses.json", "w") as f:
+            json.dump(all_parsed_data, f, indent=4)            
+
+        print("Scraping complete. Data saved to backend_integration\\osu_cse_courses.json")
             
 def fetch_courses(base_url, query_params):
     courses = []
@@ -65,11 +70,26 @@ def parse_prerequisites(text, course):
     exclusions = exclusion_pattern.findall(text)
     
     def extract_list(data, reqs):
-        if data:
-            if reqs:
-                return [item.strip() if any(char.isalpha() for char in item.strip()) else course + " " + item.strip() for item in re.split(r',| or | and ', data[0]) if item.strip()]
-            return [item.strip() for item in re.split(r',| or | and ', data[0]) if item.strip()]
-        return []
+        if not data:
+            return []
+        result = []
+        # Split by 'and' first
+        and_parts = re.split(r'\band\b', data[0])
+        for part in and_parts:
+            # Then split each 'and' part by 'or'
+            or_parts = re.split(r'\bor\b', part)
+            group = []
+            for item in or_parts:
+                item = item.strip(' ;,')
+                if item:
+                    # Prepend course code if needed
+                    if reqs and not any(char.isalpha() for char in item.split()[0]):
+                        group.append(f"{course} {item}")
+                    else:
+                        group.append(item)
+            if group:
+                result.append(group)
+        return result
     
     return {
         "Prerequisites": extract_list(prerequisites, True),
@@ -88,7 +108,7 @@ def parse_courses(courses):
             "course": f"{course_info['subject']} {course_info['catalogNumber']}",
             "title": course_info['title'],
             "description": course_info["description"],
-            "prereqs": parse_prerequisites(course_info["description"], course_info["subject"]),
+            # "prereqs": parse_prerequisites(course_info["description"], course_info["subject"]),
             "catalog_number": course_info["catalogNumber"],
             "term": course_info["term"],
             "units": course_info["maxUnits"],
