@@ -10,8 +10,8 @@ import re
 def get_prof_in(csv_name):
     all_parsed_data = []
     hash = set()
-    cse_interest_subjects = set(["cse", "math", "engr", "physics", "ece", "stat"]) # For the benefit of our machine
-    # cse_interest_subjects = set(["cse"])
+    # cse_interest_subjects = set(["cse", "math", "engr", "physics", "ece", "stat"]) # For the benefit of our machine
+    cse_interest_subjects = set(["cse"])
     with open(csv_name, mode='r') as file:
         csv_reader=csv.reader(file)
 
@@ -59,6 +59,9 @@ def fetch_courses(base_url, query_params):
     return courses
 
 def parse_prerequisites(text, course):
+    text = re.sub(r'Prereq or concur:', 'Concur:', text, flags=re.IGNORECASE)
+    text = re.sub(r'Concur\s*\(for students with credit for [^)]+\):', 'Concur:', text, flags=re.IGNORECASE)
+    
     prereq_pattern = re.compile(r'Prereq: (.*?)(?:\.|Concur:|Not open|enrollment in|$)')
     concur_pattern = re.compile(r'Concur: (.*?)(?:\.|Not open|$)')
     major_pattern = re.compile(r'enrollment in (.*?)(?:\.|Not open|$)')
@@ -69,33 +72,52 @@ def parse_prerequisites(text, course):
     majors = major_pattern.findall(text)
     exclusions = exclusion_pattern.findall(text)
     
-    def extract_list(data, reqs):
+    course_code_pattern = re.compile(r'([A-Z][a-zA-Z&]*)(?:\s+)?(\d{3,4})')
+
+    def normalize_items(text_chunk):
+        parts = []
+        last_prefix = course
+        for raw in re.split(r',| or ', text_chunk):
+            raw = raw.strip()
+            if not raw:
+                continue
+            match = course_code_pattern.search(raw)
+            if match:
+                prefix, number = match.groups()
+                last_prefix = prefix
+                parts.append(f"{prefix} {number}")
+            else:
+                # try adding numbers to the last known prefix
+                nums = re.findall(r'\d{3,4}', raw)
+                if nums:
+                    for num in nums:
+                        parts.append(f"{last_prefix} {num}")
+                else:
+                    # fallback for freeform items (like "Grad standing")
+                    parts.append(raw)
+        return parts
+
+    def extract_nested_list(data):
         if not data:
             return []
         result = []
-        # Split by 'and' first
-        and_parts = re.split(r'\band\b', data[0])
+        and_parts = re.split(r'\b; and\b', data[0], flags=re.IGNORECASE)
         for part in and_parts:
-            # Then split each 'and' part by 'or'
-            or_parts = re.split(r'\bor\b', part)
-            group = []
-            for item in or_parts:
-                item = item.strip(' ;,')
-                if item:
-                    # Prepend course code if needed
-                    if reqs and not any(char.isalpha() for char in item.split()[0]):
-                        group.append(f"{course} {item}")
-                    else:
-                        group.append(item)
+            group = normalize_items(part)
             if group:
                 result.append(group)
         return result
+
+    def extract_flat_list(data):
+        if not data:
+            return []
+        return [item.strip() for item in re.split(r',| or | and ', data[0]) if item.strip()]
     
     return {
-        "Prerequisites": extract_list(prerequisites, True),
-        "Concurrent Courses": extract_list(concurrent, True),
-        "Restricted Majors": extract_list(majors, False),
-        "Exclusions": extract_list(exclusions, True)
+        "Prerequisites": extract_nested_list(prerequisites),
+        "Concurrent Courses": extract_nested_list(concurrent),
+        "Restricted Majors": extract_flat_list(majors),
+        "Exclusions": extract_flat_list(exclusions)
     }
     
 def parse_courses(courses):
@@ -108,7 +130,7 @@ def parse_courses(courses):
             "course": f"{course_info['subject']} {course_info['catalogNumber']}",
             "title": course_info['title'],
             "description": course_info["description"],
-            # "prereqs": parse_prerequisites(course_info["description"], course_info["subject"]),
+            "prereqs": parse_prerequisites(course_info["description"], course_info["subject"]),
             "catalog_number": course_info["catalogNumber"],
             "term": course_info["term"],
             "units": course_info["maxUnits"],
