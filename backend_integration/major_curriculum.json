@@ -1,4 +1,11 @@
 {
-    "general": ["Physics 1250", "CSE 2221", "CSE 2231"],
-    "AIT": ["CSE 3521"]
+    "general": [
+        ["Physics 1250"],
+        ["CSE 2221"],
+        ["CSE 2231"],
+        ["CSE 2501", "PHILOS 2338"]
+    ],
+    "AIT": [
+        ["CSE 3521"]
+    ]
 }

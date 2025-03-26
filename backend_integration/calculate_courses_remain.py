@@ -8,47 +8,45 @@ with open("osu_cse_courses.json") as f:
     prereq_info: list[dict] = json.load(f)
     # print(prereq_info[0]["course"])
 
-def calculate_remaining_courses(transcript: dict) -> dict:
+# Test: 
+# {"special": "AIT", "courses": []}
+# {"special": "AIT", "courses": ["Math 2568", "CSE 2331", "Stat 3201"]}
+
+def get_remaining_groups(transcript: dict) -> list[list[str]]:
+    '''Get a list of all unfinished groups'''
     taken_courses: set[str] = set(transcript['courses'])
     specialization: str = transcript.get('special', '')
-    # Test: {"special": "AIT", "courses": []}
-    # {"special": "AIT", "courses": ["Math 2568", "CSE 2331", "Stat 3201"]}
 
     # Combine general and specialization-specific courses
-    curriculum: list[str] = list(major_curriculum["general"])
-    curriculum.extend(major_curriculum.get(specialization, []))
+    curriculum: list[list[str]] = major_curriculum["general"]
+    curriculum.extend(major_curriculum.get(specialization, [[]]))
 
-    remaining_courses = set()
-    unmet_prereqs = {}
+    remaining_groups: list[list[str]] = []
 
-    def check_course_prereqs(course: str):
-        if course in taken_courses:
-            return []  # already completed, no unmet prereqs
+    for group in curriculum:
+        # If none of the courses in the group are taken, it's unfinished
+        if not any(course in taken_courses for course in group):
+            remaining_groups.append(group)
 
-        # Find prerequisite info
-        course_reqs = next((item["prereqs"] for item in prereq_info if item["course"] == course), None)
-        if not course_reqs:
-            return []  # no prerequisites, course can be taken
+    return remaining_groups
 
-        unmet_groups = []
-        all_requirements = course_reqs.get('Prerequisites', []) + course_reqs.get('Concurrent Courses', [])
+def calculate_remaining_courses(transcript: dict, course: str) -> list[list[str]]:
+    '''Given a course, return a list of all unmet prereq groups'''
+    taken_courses: set[str] = set(transcript['courses'])
+    if course in taken_courses:
+        return []  # already completed, no unmet prereqs
+    
+    # Find prerequisite info
+    course_reqs = next((item["prereqs"] for item in prereq_info if item["course"] == course), None)
+    if not course_reqs:
+        return []  # no prerequisites, course can be taken
 
-        for prereq_group in all_requirements:
-            # At least one course in the group must be taken
-            if not any(c in taken_courses for c in prereq_group):
-                unmet_groups.append(prereq_group)
+    unmet_groups = []
+    all_requirements = course_reqs.get('Prerequisites', []) + course_reqs.get('Concurrent Courses', [])
 
-        return unmet_groups
+    for prereq_group in all_requirements:
+        # At least one course in the group must be taken
+        if not any(c in taken_courses for c in prereq_group):
+            unmet_groups.append(prereq_group)
 
-    for course in curriculum:
-        unmet_groups = check_course_prereqs(course)
-        if not unmet_groups:
-            remaining_courses.add(course)
-        else:
-            unmet_prereqs[course] = unmet_groups
-
-    # You can return both remaining_courses and unmet_prereqs if needed:
-    return {
-        "cantake": sorted(remaining_courses - taken_courses), 
-        "unmet_prereq": unmet_prereqs
-    }
+    return unmet_groups
