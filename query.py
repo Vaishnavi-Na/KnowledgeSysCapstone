@@ -9,47 +9,30 @@ ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
 load_dotenv()
 es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
-def demo_search(rating: float):
+def demo_search(rating: str, subject: str, courseNum: str):
     demo_result = {
         "count": 0,
         "matched_professors": {}
     }
-    count_query = {
-        "query": {
-            "range": {
-                "avgRating": {
-                    "lte": rating
-                }
-            }
-        }
-    }
-    query_size = es.count(index="professors", body=count_query )["count"]
     query = {
         "query": {
-            # "match": {
-            #     "department": "English"
-            # }
-            "range": {
-                "avgRating": {
-                    "lte": rating
-                }
+            "bool": {
+                "must": [
+                    # {"match": {"SEI.Subject": subject}},
+                    # {"match": {"SEI.Course number": courseNum}},
+                    {"match": {"Ratings.index": "300"}} # This gets all professors with over 300 ratings
+                ]
             }
         },
-        "size": query_size
+        "size": 7000
     }
-    demo_result["count"] = query_size
 
     # A simple demonstration
-    res = es.search(index = "professors", body = query)
-    # print("Which professors have rating that less than or equal to 2.0?")
-    print(f"Total count: {query_size}")
+    res = es.search(index = "professors", body=query)
     for doc in res["hits"]["hits"]:
-        sourse = doc['_source']
-        print(f"A professor at Department {sourse['department']}: {sourse['avgRating']}")
-        # Just in case of privacy concern
-        print(f"{sourse['firstName']} {sourse['lastName']}: {sourse['avgRating']}")
-        demo_result["matched_professors"][sourse['legacyId']] = {"name": f"{sourse['firstName']} {sourse['lastName']}", "avg_rating": sourse['avgRating']}
-
+        source = doc['_source']
+        print(source["firstName"])
+    # print(demo_result)
     return demo_result
 
-demo_search(1.0)
+demo_search("3.0", "CSE", "3541")

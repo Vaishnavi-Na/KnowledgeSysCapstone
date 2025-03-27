@@ -90,7 +90,6 @@ def updateIndex(name, professor):
         docID = doc['_id']
 
         print("\n appending: " + name["lastName"] + name["firstName"])
-        print("Before append: ", source)
 
         # If there are currently no SEI entries, add to doc
         # Append the new SEI review to the professor SEI entries
@@ -101,7 +100,6 @@ def updateIndex(name, professor):
 
         # Update the elasticsearch index 
         es.index(index='professors', id=docID, document=source)
-        print("\nAfter append: ", source)
         
     return
 

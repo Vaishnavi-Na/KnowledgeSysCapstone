@@ -133,7 +133,8 @@ def get_reviews(professor_id, j, id):
         for rating in ratings:
             j["Ratings"].append({
                 "index":index, 
-                "rating": rating["node"]["difficultyRating"],
+                "rating": rating["node"]["clarityRating"],
+                "difficulty": rating["node"]["difficultyRating"],
                 "comment": rating["node"]["comment"]
                 })
             index += 1
@@ -147,7 +148,6 @@ def get_reviews(professor_id, j, id):
         #update cursor for next request
         prof_data["variables"]["cursor"] = page_info["endCursor"]
     prof_data["variables"]["cursor"] = None
-    print(j)
         
 #This function uses the graphql endpoint and the given headers to get information about each professor
 #It returns when the professors being scraped either don't have any reviews or when there is no longer 
