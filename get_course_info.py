@@ -1,3 +1,5 @@
+import random
+from time import sleep
 import requests
 from dotenv import load_dotenv
 from elasticsearch import Elasticsearch
@@ -16,12 +18,20 @@ def get_prof_in(csv_name):
         csv_reader=csv.reader(file)
 
         next(csv_reader)  
+        previous_subject = "PLACE HOLDER"
         for row in csv_reader:
             base_url = "https://content.osu.edu/v2/classes/search"
-                
+
             subject = row[2].lower()
+            if subject != previous_subject:
+                sec = random.randint(1,3) + random.random() * 3
+                print(f"{previous_subject} done, rest {sec}s then starting {subject}")
+                sleep(sec)
+                previous_subject = subject
             key = f"{subject} {row[3]}"
-            if key not in hash and subject in cse_interest_subjects:
+            # print(f"key: {key}")
+            # if key not in hash and subject in cse_interest_subjects:
+            if key not in hash:
                 hash.add(key)
                 query_params = {
                     "q": row[3],  
@@ -40,15 +50,23 @@ def get_prof_in(csv_name):
 
                 # index_to_elasticsearch(parsed_data)
 
-        with open("backend_integration\\osu_cse_courses.json", "w") as f:
-            json.dump(all_parsed_data, f, indent=4)            
+        # with open("backend_integration\\osu_cse_courses.json", "w") as f:
+        #     json.dump(all_parsed_data, f, indent=4)            
 
-        print("Scraping complete. Data saved to backend_integration\\osu_cse_courses.json")
-            
+        # print("Scraping complete. Data saved to backend_integration\\osu_cse_courses.json")
+
+        index_to_elasticsearch(all_parsed_data)
+        print("Scraping complete. Data saved to index")
+
 def fetch_courses(base_url, query_params):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Referer": "https://classes.osu.edu/",
+        "Accept": "application/json"
+    }
     courses = []
     
-    response = requests.get(base_url, params=query_params)
+    response = requests.get(base_url, params=query_params, headers=headers)
     if response.status_code != 200:
         print(f"Failed to fetch data: {response.status_code}")
         return
@@ -124,6 +142,8 @@ def parse_courses(courses):
     parsed_data = []
     for course in courses:
         course_info = course["course"]
+        # print(json.dumps(course_info, indent=4))
+        if 'title' not in course_info: return [] # no title might indicates enrollment not open
         sections = course.get("sections", [])
         course_info["catalogNumber"]
         parsed_data.append({
