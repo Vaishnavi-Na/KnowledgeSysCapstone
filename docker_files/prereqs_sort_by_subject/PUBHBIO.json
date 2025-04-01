@@ -1,0 +1,126 @@
+[
+  {
+    "course": "PUBHBIO 2210",
+    "title": "Biostatistics for Public Health Research",
+    "description": "Hands-on experience using statistical tools to answer real-world questions. Students will design and implement a short survey and analyze their results. Emphasis on analysis of actual survey data using statistical software. Statistical topics include numerical/graphical summaries, measures of association, and hypothesis testing. Focus is on interpretation, not calculation.\nGE foundation math and quant reasoning or data anyl course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2210",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "1511",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Beguah Odei",
+                "role": "PI",
+                "email": "odei.3@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 230",
+            "room": "230",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Beguah Odei",
+                "role": "PI",
+                "email": "odei.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36761",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Beguah Odei",
+                "role": "PI",
+                "email": "odei.3@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 230",
+            "room": "230",
+            "start_time": "11:10 am",
+            "end_time": "12:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Beguah Odei",
+                "role": "PI",
+                "email": "odei.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

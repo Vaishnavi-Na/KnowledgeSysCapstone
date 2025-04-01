@@ -1,0 +1,1942 @@
+[
+  {
+    "course": "LARCH 2420",
+    "title": "Ecology/Technology I",
+    "description": "This course provides an introduction to landscape materials by studying the qualities, characteristics, and dynamic functions of plants, soils, and water. Emphasis is placed on ecological approach to plant communities and landscape ecology. Topics include fundamentals of site grading, stormwater management, and planting design as well as an introduction to site detailing/construction.\nConcur: 2920.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "LARCH 2920"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2420",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5694",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "9:10 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "9:10 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "5695",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 4410",
+    "title": "Advanced Landscape Technologies Seminar",
+    "description": "Advanced topics in landscape technologies.\nRepeatable to a maximum of 9 cr hrs.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4410",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5692",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 258",
+            "room": "258",
+            "start_time": "9:10 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "5708",
+        "section": "0020",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 269",
+            "room": "269",
+            "start_time": "2:20 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10476",
+        "section": "0030",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 177",
+            "room": "177",
+            "start_time": "9:10 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 4367",
+    "title": "Landscape Architecture Professional Practive",
+    "description": "Overview of landscape architectural professional practice principles, standards and codes, with a focus on writing and communication.\nPrereq: 2930, 3430,3440, and 2367, and Jr or Sr standing; or with permission from the LARCH UG Chair. Not open to students with credit for 5367.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LARCH 2930",
+          "LARCH 3430",
+          "LARCH 3440",
+          "LARCH 2367",
+          "and Jr",
+          "Sr standing;",
+          "with permission from the LARCH UG Chair"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5367"
+      ]
+    },
+    "catalog_number": "4367",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10097",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2040",
+            "room": "2040",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10098",
+        "section": "20",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 175",
+            "room": "175",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 5630E",
+    "title": "Advanced Topics in History/Theory",
+    "description": "This advanced seminar in landscape history deals with topics in landscape historiography, philosophies of history, major trends in researching and writing about landscapes and environments, and readings and discussions around the current state of the field. Focused topic varies by semester, completion of LARCH 5610 and 5620 strongly recommended prior to enrollment.\nPrereq: Honors standing. Repeatable to a maximum of 9 cr hrs.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5630E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5712",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 258",
+            "room": "258",
+            "start_time": "9:10 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 2920",
+    "title": "Design Studio II: Site Dynamics",
+    "description": "Introduction to basic principles and qualities of landscape architectural design, with a focus on the dynamic interaction of environment and people at site scale within the typological framework of gardens and parks.\r\nPrereq: Enrollment in LArch major. Not open to students with credit for 252.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in LArch major"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "252"
+      ]
+    },
+    "catalog_number": "2920",
+    "term": "Autumn 2025",
+    "units": 6,
+    "sections": [
+      {
+        "class_number": "5653",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 175",
+            "room": "175",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "5659",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "2:45 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10484",
+        "section": "0030",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "2:45 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10485",
+        "section": "0040",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "2:45 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 2600E",
+    "title": "Outlines of Landscape Architecture: Visual Literacy in the Built Environment",
+    "description": "Overview of patterns and processes of human design on land in relation to environmental, economic, and socio-cultural forces, with an emphasis on interpretation of visual landscape change. Honors section.\r\nPrereq: Honors standing. Not open to students with credit for 201. GE VPA course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "201"
+      ]
+    },
+    "catalog_number": "2600E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5719",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 2600E",
+    "title": "Outlines of Landscape Architecture: Visual Literacy in the Built Environment",
+    "description": "Overview of patterns and processes of human design on land in relation to environmental, economic, and socio-cultural forces, with an emphasis on interpretation of visual landscape change. Honors section.\r\nPrereq: Honors standing. Not open to students with credit for 201. GE VPA course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "201"
+      ]
+    },
+    "catalog_number": "2600E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5719",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 2410",
+    "title": "Landscape Architecture Media I",
+    "description": "This course introduces students to tools for communicating concepts, designs and processes of landscape architecture. Working with both analog and digital methods of representation, students learn to make visible their analyses and solutions. Provides a foundation in fundamental digital tools, hand sketching and hybrid methods of representation that convey temporality and environmental phenomena.\nConcur: 2920.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "LARCH 2920"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2410",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5713",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E040",
+            "room": "E040",
+            "start_time": "10:00 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35052",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:00 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "5714",
+        "section": "0030",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "11:05 am",
+            "end_time": "12:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35053",
+        "section": "40",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "11:05 am",
+            "end_time": "12:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 4450",
+    "title": "Advanced Landscape Media Seminar",
+    "description": "Advanced topics in landscape media.\nRepeatable to a maximum of 9 cr hrs.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4450",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8789",
+        "section": "010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 430",
+            "room": "430",
+            "start_time": "9:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "8790",
+        "section": "020",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 269",
+            "room": "269",
+            "start_time": "9:10 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35054",
+        "section": "30",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 5610E",
+    "title": "History/Theory I",
+    "description": "This course offers a global survey ranging from prehistoric settlements to the formation of the modern landscape profession in the nineteenth century. It assembles a foundation for thinking through landscape with approaches from architecture, art history, and archaeology, examining cultural and designed landscapes through common technological and cultural frameworks.\nPrereq: Honors standing, and 2930, 3430,3440, and 2367; or with permission from the LARCH UG Chair.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "LARCH 2930",
+          "LARCH 3430",
+          "LARCH 3440",
+          "LARCH 2367",
+          "with permission from the LARCH UG Chair"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5610E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5698",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Kottman Hall",
+            "building": "Kottman Hall 104",
+            "room": "104",
+            "start_time": "12:45 pm",
+            "end_time": "2:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 5610E",
+    "title": "History/Theory I",
+    "description": "This course offers a global survey ranging from prehistoric settlements to the formation of the modern landscape profession in the nineteenth century. It assembles a foundation for thinking through landscape with approaches from architecture, art history, and archaeology, examining cultural and designed landscapes through common technological and cultural frameworks.\nPrereq: Honors standing, and 2930, 3430,3440, and 2367; or with permission from the LARCH UG Chair.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "LARCH 2930",
+          "LARCH 3430",
+          "LARCH 3440",
+          "LARCH 2367",
+          "with permission from the LARCH UG Chair"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5610E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5698",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Kottman Hall",
+            "building": "Kottman Hall 104",
+            "room": "104",
+            "start_time": "12:45 pm",
+            "end_time": "2:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 5610E",
+    "title": "History/Theory I",
+    "description": "This course offers a global survey ranging from prehistoric settlements to the formation of the modern landscape profession in the nineteenth century. It assembles a foundation for thinking through landscape with approaches from architecture, art history, and archaeology, examining cultural and designed landscapes through common technological and cultural frameworks.\nPrereq: Honors standing, and 2930, 3430,3440, and 2367; or with permission from the LARCH UG Chair.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "LARCH 2930",
+          "LARCH 3430",
+          "LARCH 3440",
+          "LARCH 2367",
+          "with permission from the LARCH UG Chair"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5610E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5698",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Kottman Hall",
+            "building": "Kottman Hall 104",
+            "room": "104",
+            "start_time": "12:45 pm",
+            "end_time": "2:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 5610E",
+    "title": "History/Theory I",
+    "description": "This course offers a global survey ranging from prehistoric settlements to the formation of the modern landscape profession in the nineteenth century. It assembles a foundation for thinking through landscape with approaches from architecture, art history, and archaeology, examining cultural and designed landscapes through common technological and cultural frameworks.\nPrereq: Honors standing, and 2930, 3430,3440, and 2367; or with permission from the LARCH UG Chair.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "LARCH 2930",
+          "LARCH 3430",
+          "LARCH 3440",
+          "LARCH 2367",
+          "with permission from the LARCH UG Chair"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5610E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5698",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Kottman Hall",
+            "building": "Kottman Hall 104",
+            "room": "104",
+            "start_time": "12:45 pm",
+            "end_time": "2:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 5610E",
+    "title": "History/Theory I",
+    "description": "This course offers a global survey ranging from prehistoric settlements to the formation of the modern landscape profession in the nineteenth century. It assembles a foundation for thinking through landscape with approaches from architecture, art history, and archaeology, examining cultural and designed landscapes through common technological and cultural frameworks.\nPrereq: Honors standing, and 2930, 3430,3440, and 2367; or with permission from the LARCH UG Chair.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "LARCH 2930",
+          "LARCH 3430",
+          "LARCH 3440",
+          "LARCH 2367",
+          "with permission from the LARCH UG Chair"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5610E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5698",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Kottman Hall",
+            "building": "Kottman Hall 104",
+            "room": "104",
+            "start_time": "12:45 pm",
+            "end_time": "2:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 5630E",
+    "title": "Advanced Topics in History/Theory",
+    "description": "This advanced seminar in landscape history deals with topics in landscape historiography, philosophies of history, major trends in researching and writing about landscapes and environments, and readings and discussions around the current state of the field. Focused topic varies by semester, completion of LARCH 5610 and 5620 strongly recommended prior to enrollment.\nPrereq: Honors standing. Repeatable to a maximum of 9 cr hrs.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5630E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5712",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 258",
+            "room": "258",
+            "start_time": "9:10 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 3940",
+    "title": "Design Studio IV: Landscape Ecology & Planning",
+    "description": "Synthesis of landscape ecology and urban ecology principles with landscape planning and design at the district, watershed and/or regional scale, with a focus on integration of advanced inventory and analysis methodologies.\nPrereq: 2930, 3430,3440, and 2367; or with permission from the LARCH UG Chair.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LARCH 2930",
+          "LARCH 3430",
+          "LARCH 3440",
+          "LARCH 2367",
+          "with permission from the LARCH UG Chair"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3940",
+    "term": "Autumn 2025",
+    "units": 6,
+    "sections": [
+      {
+        "class_number": "5654",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "5658",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "2:45 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10140",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10141",
+        "section": "0040",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "2:45 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10142",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10143",
+        "section": "0060",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "2:45 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 4960",
+    "title": "Design Studio VI: Urbanism",
+    "description": "Advanced landscape design and planning in relation to sustainable urbanism.\r\nPrereq: 3950 or 356. Not open to students with credit for 457.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LARCH 3950",
+          "LARCH 356"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "457"
+      ]
+    },
+    "catalog_number": "4960",
+    "term": "Autumn 2025",
+    "units": 6,
+    "sections": [
+      {
+        "class_number": "10600",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:30 pm",
+            "end_time": "6:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:00 pm",
+            "end_time": "5:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Justin S Parscher",
+                "role": "PI",
+                "email": "parscher.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "5657",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:30 pm",
+            "end_time": "6:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:00 pm",
+            "end_time": "5:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jake Boswell",
+                "role": "PI",
+                "email": "boswell.33@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10595",
+        "section": "30",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:30 pm",
+            "end_time": "6:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:00 pm",
+            "end_time": "5:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Paula Meijerink",
+                "role": "PI",
+                "email": "meijerink.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 4960",
+    "title": "Design Studio VI: Urbanism",
+    "description": "Advanced landscape design and planning in relation to sustainable urbanism.\r\nPrereq: 3950 or 356. Not open to students with credit for 457.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LARCH 3950",
+          "LARCH 356"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "457"
+      ]
+    },
+    "catalog_number": "4960",
+    "term": "Autumn 2025",
+    "units": 6,
+    "sections": [
+      {
+        "class_number": "10600",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:30 pm",
+            "end_time": "6:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:00 pm",
+            "end_time": "5:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Justin S Parscher",
+                "role": "PI",
+                "email": "parscher.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "5657",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:30 pm",
+            "end_time": "6:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:00 pm",
+            "end_time": "5:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jake Boswell",
+                "role": "PI",
+                "email": "boswell.33@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10595",
+        "section": "30",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:30 pm",
+            "end_time": "6:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:00 pm",
+            "end_time": "5:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Paula Meijerink",
+                "role": "PI",
+                "email": "meijerink.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 5610E",
+    "title": "History/Theory I",
+    "description": "This course offers a global survey ranging from prehistoric settlements to the formation of the modern landscape profession in the nineteenth century. It assembles a foundation for thinking through landscape with approaches from architecture, art history, and archaeology, examining cultural and designed landscapes through common technological and cultural frameworks.\nPrereq: Honors standing, and 2930, 3430,3440, and 2367; or with permission from the LARCH UG Chair.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "LARCH 2930",
+          "LARCH 3430",
+          "LARCH 3440",
+          "LARCH 2367",
+          "with permission from the LARCH UG Chair"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5610E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5698",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Kottman Hall",
+            "building": "Kottman Hall 104",
+            "room": "104",
+            "start_time": "12:45 pm",
+            "end_time": "2:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LARCH 4367",
+    "title": "Landscape Architecture Professional Practive",
+    "description": "Overview of landscape architectural professional practice principles, standards and codes, with a focus on writing and communication.\nPrereq: 2930, 3430,3440, and 2367, and Jr or Sr standing; or with permission from the LARCH UG Chair. Not open to students with credit for 5367.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LARCH 2930",
+          "LARCH 3430",
+          "LARCH 3440",
+          "LARCH 2367",
+          "and Jr",
+          "Sr standing;",
+          "with permission from the LARCH UG Chair"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5367"
+      ]
+    },
+    "catalog_number": "4367",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10097",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2040",
+            "room": "2040",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10098",
+        "section": "20",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 175",
+            "room": "175",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

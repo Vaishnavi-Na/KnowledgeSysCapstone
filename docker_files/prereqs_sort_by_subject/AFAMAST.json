@@ -1,0 +1,1125 @@
+[
+  {
+    "course": "AFAMAST 2080",
+    "title": "African American History to 1877",
+    "description": "The study of the African American experience in America from arrival through the era of Reconstruction, focusing on slavery, resistance movements, and African American culture. Students will analyze the intersection of race, gender, ethnicity, religion, social class, and other categories through the lens of African Americans' lived experiences and how they functioned in Black communities.\nPrereq: Not open to students with credit for History 2080. GE historical study course. GE foundation historical and cultural studies and race, ethnicity and gender div course. Cross-listed in History.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "History 2080"
+      ]
+    },
+    "catalog_number": "2080",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25860",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dulles Hall",
+            "building": "Dulles Hall 024",
+            "room": "024",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Elea Shea Anders Proctor",
+                "role": "PI",
+                "email": "proctor.159@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 2367.01",
+    "title": "African-American Voices in U.S. Literature",
+    "description": "Discussion, analysis, and writing about issues presented through the diverse voices of African American literature.\nPrereq: English 1110. GE writing and comm: level 2 and lit and diversity soc div in the US course. GE foundation lit, vis and performing arts course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2367.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26783",
+        "section": "02",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dulles Hall",
+            "building": "Dulles Hall 012",
+            "room": "012",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Franco Barchiesi",
+                "role": "PI",
+                "email": "barchiesi.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 2253",
+    "title": "Introduction to Caribbean Literature",
+    "description": "An introduction to Caribbean literature with a focus on prose, poetry, and drama.\nGE lit and diversity global studies course. GE foundation lit, vis and performing arts course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2253",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35350",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 185",
+            "room": "185",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Charles Athanasopoulos",
+                "role": "PI",
+                "email": "athanasopoulos.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 2101",
+    "title": "Introduction to African Art and Archaeology",
+    "description": "The Art and Archaeology of Africa with emphasis on the historic cultures of Rock Art (8,000 B.C.), Egypt (3,000 B.C.), Nok (900 B.C.), Igbo-Ukwu (695 A.D.), Ife (1200 A.D.), and Benin (1400-1900 A.D.).\nPrereq: Not open to students with credit for HistArt 2101 (216).  GE VPA course and diversity global studies course. GE foundation lit, vis and performing arts course. Cross-listed in HistArt.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "HistArt 2101 (216)"
+      ]
+    },
+    "catalog_number": "2101",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36575",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 062",
+            "room": "062",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sarah Van Beurden",
+                "role": "PI",
+                "email": "vanbeurden.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 1111",
+    "title": "Introduction to Africa",
+    "description": "This course is a multidisciplinary introduction to the history, peoples, and cultures of Sub Saharan Africa. Via a diverse set of sources and mediums, including films, literature, visual art, human rights reports, etc., students will be introduced to a number of important expressions, ideas, episodes, events, and trends in Africa, past and present.\nGE foundation historical and cultural studies course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1111",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27046",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 250",
+            "room": "250",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maxamed Abu-maye",
+                "role": "PI",
+                "email": "abu-maye.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 4610",
+    "title": "African Americans and the Law",
+    "description": "This is an interdisciplinary course that puts major legal cases affecting African Americans into conversation with their historical underpinnings, as well as the social contexts and how those contexts manifest in African American cultural productions. A central goal of the course is to interrogate the idea of a \"colorblind\" justice system.\nGE theme citizenship for div and just wrld course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4610",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36576",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dulles Hall",
+            "building": "Dulles Hall 012",
+            "room": "012",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jerrell Beckham",
+                "role": "PI",
+                "email": "beckham.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 2367.04",
+    "title": "Black Women Writers: Text and Context",
+    "description": "Writing and analysis of black women's literary representations of issues in United States social history.\nPrereq: English 1110, and Soph standing. Not open to students with credit for WGSSt 2367.04. GE writing and comm: level 2 and lit and diversity soc div in the US course. GE foundation lit, vis and performing arts and race, ethnicity and gender div course. Cross-listed in WGSSt.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110",
+          "and Soph standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "WGSSt 2367"
+      ]
+    },
+    "catalog_number": "2367.04",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24314",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Zalika U. Ibaorimi",
+                "role": "PI",
+                "email": "ibaorimi.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 3310",
+    "title": "Global Perspectives on the African Diaspora",
+    "description": "Study of historical processes, key figures and ideas, and cultural expressions of the worldwide dispersion of people of African descent from different times and places.\nGE theme lived environments course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3310",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "23188",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dulles Hall",
+            "building": "Dulles Hall 027",
+            "room": "027",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maxamed Abu-maye",
+                "role": "PI",
+                "email": "abu-maye.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 3376",
+    "title": "Arts and Cultures of Africa and the Diaspora",
+    "description": "An overview of African and African diaspora cultures from a historical perspective. Cultural media will include art, literature, film, dance, and photography.\nPrereq: Not open to students with HistArt 3102. GE VPA and diversity global studies course. GE theme migration, mobility, and immobility course. Cross-listed in HistArt 3102.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3376",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27045",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cockins Hall",
+            "building": "Cockins Hall 232",
+            "room": "232",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lupenga Mphande",
+                "role": "PI",
+                "email": "mphande.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 1101",
+    "title": "Introduction to African American and African Studies",
+    "description": "Introduction to the scholarly study of the Africana experience, focusing on patterns of resistance, adaptation, diversity, and transnational connections.\nPrereq: English 1110. GE soc sci indivs and groups course. GE foundation social and behavioral sci and race, ethnicity and gender div course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1101",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35367",
+        "section": "02",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Spencer L Dew",
+                "role": "PI",
+                "email": "dew.50@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36258",
+        "section": "2",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 2186",
+            "room": "2186",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 3083",
+    "title": "Civil Rights and Black Power Movements",
+    "description": "Examines the origins, evolution, and outcomes of the African American freedom struggle, focusing on the Civil Rights and Black Power movements. Sometimes this course is offered in a distance-only format.\nPrereq or concur: English 1110.xx, or GE foundation writing and info literacy course, or permission of instructor. Not open to students with credit for History 3083. GE historical study and diversity soc div in the US course. GE theme citizenship for div and just wrld course. Cross-listed in History.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "English 1110"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "History 3083"
+      ]
+    },
+    "catalog_number": "3083",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36577",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "3:45 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Viet Ngoc Trinh",
+                "role": "PI",
+                "email": "trinh.126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26770",
+        "section": "02",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1005",
+            "room": "1005",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Hasan Kwame Jeffries",
+                "role": "PI",
+                "email": "jeffries.57@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 2288",
+    "title": "Bebop to Doowop to Hiphop: The Rhythm and Blues Tradition",
+    "description": "Examines the aesthetic and historical evolution of rhythm and blues: black music tradition including bebop, rock and roll, and hiphop, redefining American popular culture post-WWII.\nPrereq: Not open to students with credit for 288 or Music 2288 (288). GE VPA and diversity soc div in the US course. GE foundation lit, vis and performing arts course. Cross-listed in Music.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "288",
+        "Music 2288 (288)"
+      ]
+    },
+    "catalog_number": "2288",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29057",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dulles Hall",
+            "building": "Dulles Hall 020",
+            "room": "020",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Abigail Lindo",
+                "role": "PI",
+                "email": "lindo.14@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 4921",
+    "title": "Intersections: Approaches to Theorizing Difference",
+    "description": "Examines intersections of race, ethnicity, and gender diversity in various sites within American culture (e.g., legal system, civil rights discourse, social justice movements).\nPrereq: One course in CompStd, WGSSt, or AfAmASt. Not open to students with credit for CompStd 4921 or WGSSt 4921. GE theme citizenship for div and just wrld course. Cross-listed in CompStd and WGSSt.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "One course in CompStd",
+          "WGSSt",
+          "AfAmASt"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "CompStd 4921",
+        "WGSSt 4921"
+      ]
+    },
+    "catalog_number": "4921",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25891",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 175",
+            "room": "175",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Casidy Brianna Campbell",
+                "role": "PI",
+                "email": "campbell.2730@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 2367.01",
+    "title": "African-American Voices in U.S. Literature",
+    "description": "Discussion, analysis, and writing about issues presented through the diverse voices of African American literature.\nPrereq: English 1110. GE writing and comm: level 2 and lit and diversity soc div in the US course. GE foundation lit, vis and performing arts course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2367.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26783",
+        "section": "02",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dulles Hall",
+            "building": "Dulles Hall 012",
+            "room": "012",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Franco Barchiesi",
+                "role": "PI",
+                "email": "barchiesi.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 2201",
+    "title": "Major Readings in African American and African Studies",
+    "description": "An introduction to major authors and texts contributing to the discourses that have shaped and defined African American and African Studies from its inception to the present.\nPrereq: English 1110. GE diversity soc div in the US course. GE foundation race, ethnicity and gender div course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2201",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "23335",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 048",
+            "room": "048",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Viet Ngoc Trinh",
+                "role": "PI",
+                "email": "trinh.126@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 3086",
+    "title": "Black Women in Slavery and Freedom",
+    "description": "Traces the experiences and struggles of African American women from slavery through the Civil Rights/Black Power era.\nPrereq: English 1110.xx, or permission of instructor. Not open to students with credit for History 3086. GE historical study and diversity soc div in the US course. GE theme migration, mobility, and immobility course. Cross-listed in History.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "History 3086"
+      ]
+    },
+    "catalog_number": "3086",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27778",
+        "section": "003",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 246",
+            "room": "246",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Elea Shea Anders Proctor",
+                "role": "PI",
+                "email": "proctor.159@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 3450",
+    "title": "The Art and Politics of Hip-Hop",
+    "description": "Explores the world of Hip-Hop, from its birth in the Bronx to its infiltration of music, fashion, television, film, dance, print culture, and politics. It considers critically the intersections of race, class, gender, sexuality, nation, and geography as well as the ways in which Hip-Hop functions simultaneously as aesthetic, analytic, and politic.\nPrereq: English 1110.xx, or GE foundation writing and info literacy course. Not open to students with credit for Music 3450. GE theme citizenship for div and just wrld course. Cross-listed in Music.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "Music 3450"
+      ]
+    },
+    "catalog_number": "3450",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25911",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 191",
+            "room": "191",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jason Rawls",
+                "role": "PI",
+                "email": "rawls.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 3440",
+    "title": "Theorizing Race",
+    "description": "Introduction to issues of \"race,\" consideration of the historical emergence and development of ideas of \"race\" and of racist practices, along with their contemporary formations.\nPrereq: 3 cr hrs in AfAmASt or Philos or REGD Foundation; or enrollment in Philosophy, Politics, and Economics major, AfAmASt major, or Philos major; or permission of instructor. Not open to students with credit for Philos 3440. GE theme citizenship for div and just wrld course. Cross-listed in Philos.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "3 cr hrs in AfAmASt",
+          "Philos",
+          "REGD Foundation;"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "Philosophy",
+        "Politics",
+        "Economics major",
+        "AfAmASt major",
+        "Philos major;",
+        "permission of instructor"
+      ],
+      "Exclusions": [
+        "Philos 3440"
+      ]
+    },
+    "catalog_number": "3440",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35354",
+        "section": "3",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 038",
+            "room": "038",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kwaku Larbi Korang",
+                "role": "PI",
+                "email": "korang.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 2275",
+    "title": "Blackness and the Politics of Sports",
+    "description": "The purpose of this course is to assist students in understanding the historical relationship between African Americans & the professional sports industry. We will explore how the intersections of race, gender, ethnicity, & sexuality function in the world of sports & investigate the cultural tendency to praise athletic achievement over educational or career ambitions.\nGE foundation race, ethnicity and gender div course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2275",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28312",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 246",
+            "room": "246",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judson L Jeffries",
+                "role": "PI",
+                "email": "jeffries.70@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 4342",
+    "title": "Religion, Meaning, and Knowledge in Africa and its Diaspora",
+    "description": "While the practice of religion in Africa is as diverse as its people, three major belief systems define the practice: African Traditional Religion, Islam, and Christianity. This course will examine classical and contemporary definitions of African Traditional Religion/s and the introduction and adaptations of Islam and Christianity in Africa, as well as religious practices in the African Diaspora.\nPrereq: Not open to students with credit for RelStds 4342. GE cultures and ideas and diversity global studies course. GE theme traditions, cultures, and transformations course. Cross-listed in RelStds.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "RelStds 4342"
+      ]
+    },
+    "catalog_number": "4342",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27044",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 131",
+            "room": "131",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Spencer L Dew",
+                "role": "PI",
+                "email": "dew.50@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AFAMAST 4571",
+    "title": "Black Visual Culture and Popular Media",
+    "description": "An examination of African Americans in visual culture and the theories of representation in popular media.\nGE VPA and diversity soc div in the US course. GE theme traditions, cultures, and transformations course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4571",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "23797",
+        "section": "01",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 090",
+            "room": "090",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kam Copeland",
+                "role": "PI",
+                "email": "copeland.379@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

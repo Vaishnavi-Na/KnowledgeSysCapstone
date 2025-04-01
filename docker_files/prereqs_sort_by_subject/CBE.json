@@ -1,0 +1,1672 @@
+[
+  {
+    "course": "CBE 5765",
+    "title": "Principles of Biochemical Engineering",
+    "description": "The application of biochemical engineering principles for modern bioprocesses and in the area of industrial biotechnology.\r\nPrereq: 2523 (523) or 3610 (610), or Grad standing, or permission of instructor. Not open to students with credit for 765.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 2523",
+          "CBE 523",
+          "CBE 3610",
+          "CBE 610",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "765"
+      ]
+    },
+    "catalog_number": "5765",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10196",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 048",
+            "room": "048",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Webster Wood",
+                "role": "PI",
+                "email": "wood.750@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 2420",
+    "title": "Transport Phenomena I",
+    "description": "The transport of energy, mass and momentum is essential to the function of all non-living and living systems. This course will serve as an introduction to momentum transport (i.e., fluid mechanics), and will primarily focus on the basic mechanisms of momentum transport and its application to the analysis of real world flows.\nPrereq: 2200, and Math 2173 or 2177 or 2415, and enrollment in CBE, FABEng, or EngPhysics major; or Grad standing; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 2200",
+          "Math 2173",
+          "Math 2177",
+          "Math 2415",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "CBE",
+        "FABEng",
+        "EngPhysics major;",
+        "Grad standing;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "2420",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8494",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2020",
+            "room": "2020",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andre Francis Palmer",
+                "role": "PI",
+                "email": "palmer.351@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35017",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 190",
+            "room": "190",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rebecca Elise Harmon",
+                "role": "PI",
+                "email": "harmon.586@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 3508",
+    "title": "Chemical Engineering Thermodynamics I",
+    "description": "Development of the conceptual basis for thermodynamics: energy conservation in open and closed systems (first thermodynamic law), temperature, entropy and reversibility (second thermodynamic law), fundamental equations, and criteria of equilibrium and stability.\nPrereq: 2200, and enrollment in CBE, FABEng, or EngPhysics major; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 2200",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "CBE",
+        "FABEng",
+        "EngPhysics major;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3508",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8357",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E024",
+            "room": "E024",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Isamu Kusaka",
+                "role": "PI",
+                "email": "kusaka.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 5210",
+    "title": "Petroleum Reservoir Engineering",
+    "description": "Determination of reserves; material balance methods; aquifer models; fractional flow and frontal advance; displacement, pattern, and vertical sweep efficiencies in waterfloods; enhanced oil recovery processes; design of optimal recovery processes. Systematic theoretical and laboratory study of physical properties of petroleum reservoir rocks.\nUndergrad Prereq: Junior standing or above in Engineering or Earth Sciences. Grad Prereq: graduate standing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Junior standing",
+          "above in Engineering",
+          "Earth Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5210",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8492",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2100",
+            "room": "2100",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ilham El-Monier",
+                "role": "PI",
+                "email": "el-monier.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 3610",
+    "title": "Kinetics and Reactor Design",
+    "description": "Chemical and engineering principles for the design and operation of chemical reactors; kinetics of simple homogeneous systems and introduction to heterogeneous catalysis.\nPrereq or concur: 3508 or FABEng 3120, and enrollment in CBE, FABEng, or EngPhysics major; or Grad standing; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "CBE 3508",
+          "FABEng 3120",
+          "and enrollment in CBE",
+          "FABEng",
+          "EngPhysics major;",
+          "Grad standing;",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [
+        "CBE",
+        "FABEng",
+        "EngPhysics major;",
+        "Grad standing;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3610",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8331",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 1000",
+            "room": "1000",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rachel Beth Getman",
+                "role": "PI",
+                "email": "getman.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 4764",
+    "title": "Chemical and Biomolecular Engineering Process Design and Development",
+    "description": "Culminating design experience in Chemical Engineering. Systematic formulation, analysis, and solution of chemical product and process design and related problems.\nPrereq or concur: 4624, 4755, 4760, and enrollment in CBE or EngPhysics major.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "CBE 4624",
+          "CBE 4755",
+          "CBE 4760",
+          "and enrollment in CBE",
+          "EngPhysics major"
+        ]
+      ],
+      "Restricted Majors": [
+        "CBE",
+        "EngPhysics major"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4764",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8333",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 120",
+            "room": "120",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jeffrey John Chalmers",
+                "role": "PI",
+                "email": "chalmers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10330",
+        "section": "020",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 120",
+            "room": "120",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jeffrey John Chalmers",
+                "role": "PI",
+                "email": "chalmers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 5774",
+    "title": "Polymer Membranes",
+    "description": "Membrane separation mechanisms, transport models, permeability computations/measurements, membrane materials/types/modules, membrane contactors/reactors, and applications.\r\nPrereq: 3508 (509), or Grad standing; or permission of instructor. Not open to students with credit for 774 or MatScEn 774. Cross-listed in MatScEn 5774.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 3508",
+          "CBE 509",
+          "Grad standing;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "774",
+        "MatScEn 774"
+      ]
+    },
+    "catalog_number": "5774",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10505",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 169",
+            "room": "169",
+            "start_time": "4:10 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "W.S. Winston Ho",
+                "role": "PI",
+                "email": "ho.192@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 4624",
+    "title": "Chemical Process Dynamics and Control",
+    "description": "Study of the dynamics and control of chemical processes; mathematical models of simple processes, including feedback control, are derived, analyzed, and simulated.\r\nPrereq: 2523 (523) or 3610 (610), and enrollment in CBE major; or Grad standing, or permission of instructor. Not open to students with credit for 624.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 2523",
+          "CBE 523",
+          "CBE 3610",
+          "CBE 610",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "CBE major;",
+        "Grad standing",
+        "permission of instructor"
+      ],
+      "Exclusions": [
+        "624"
+      ]
+    },
+    "catalog_number": "4624",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9827",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 1000",
+            "room": "1000",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "John Dee Clay",
+                "role": "PI",
+                "email": "clay.32@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 5715",
+    "title": "Particle Technology",
+    "description": "Engineering processes involving particulates and powders. Multiphase transport phenomena and fluidization are emphasized.\r\nPrereq: 2523 (523), and Math 2177 or Math 415.01; or Grad standing; or permission of instructor. Not open to students with credit for 715.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 2523",
+          "CBE 523",
+          "Math 2177",
+          "Math 415"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "715"
+      ]
+    },
+    "catalog_number": "5715",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8775",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 169",
+            "room": "169",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Liang-Shih Fan",
+                "role": "PI",
+                "email": "fan.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 4755",
+    "title": "Chemical Process Safety",
+    "description": "Consideration of process safety concepts and application in the chemical process industry.\nPrereq: 3422 or 3521, and enrollment in CBE or EngPhysics major; or Grad standing; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 3422",
+          "CBE 3521",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "CBE",
+        "EngPhysics major;",
+        "Grad standing;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4755",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "9825",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 031",
+            "room": "031",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mandar Vinod Kathe",
+                "role": "PI",
+                "email": "kathe.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 3421",
+    "title": "Transport Phenomena II - Heat Transfer",
+    "description": "The transport of energy, mass and momentum is essential to the function of all non-living and living systems. This course will serve as an introduction to heat transport (i.e., convection and conduction), and will primarily focus on the basic mechanisms of heat transport and its application to the analysis of real world heat transfer problems.\nPrereq: 2420, or permission of instructor. Not open to students with credit for 3521.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 2420",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3521"
+      ]
+    },
+    "catalog_number": "3421",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9824",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 035",
+            "room": "035",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joshua Sangoro",
+                "role": "PI",
+                "email": "sangoro.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 3732",
+    "title": "Unit Operations III",
+    "description": "The fundamental laboratory course in chemical engineering: laboratory investigation of the operating characteristics of chemical engineering equipment.\nPrereq: 3731, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 3731",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3732",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "9828",
+        "section": "010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrew Maxson",
+                "role": "PI",
+                "email": "maxson.32@osu.edu"
+              },
+              {
+                "name": "Stuart L Cooper",
+                "role": "PI",
+                "email": "cooper.1682@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9829",
+        "section": "015",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "12:45 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrew Maxson",
+                "role": "PI",
+                "email": "maxson.32@osu.edu"
+              },
+              {
+                "name": "Stuart L Cooper",
+                "role": "PI",
+                "email": "cooper.1682@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9830",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 1000",
+            "room": "1000",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrew Maxson",
+                "role": "PI",
+                "email": "maxson.32@osu.edu"
+              },
+              {
+                "name": "Stuart L Cooper",
+                "role": "PI",
+                "email": "cooper.1682@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 2100",
+    "title": "Chemical Engineering Seminar",
+    "description": "A general introduction to the chemical engineering curriculum, academic pathways, educational resources, career options, engineering ethics, and leadership skills.\nPrereq or concur: 2200.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "CBE 2200"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2100",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "9826",
+        "section": "010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 031",
+            "room": "031",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jessica O Winter",
+                "role": "PI",
+                "email": "winter.63@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 3730",
+    "title": "Unit Operations I",
+    "description": "The fundamental laboratory course in chemical engineering: laboratory investigation of the operating characteristics of chemical engineering equipment. \nPrereq: 2200, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 2200",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3730",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "10339",
+        "section": "010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrew Maxson",
+                "role": "PI",
+                "email": "maxson.32@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10340",
+        "section": "020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "12:45 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrew Maxson",
+                "role": "PI",
+                "email": "maxson.32@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 3731",
+    "title": "Unit Operations II",
+    "description": "The fundamental laboratory course in chemical engineering: laboratory investigation of the operating characteristics of chemical engineering equipment. \nPrereq: 3730, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 3730",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3731",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "10341",
+        "section": "010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrew Maxson",
+                "role": "PI",
+                "email": "maxson.32@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10342",
+        "section": "020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "12:45 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrew Maxson",
+                "role": "PI",
+                "email": "maxson.32@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 3509",
+    "title": "Chemical Engineering Thermodynamics II",
+    "description": "Focus on the use of thermodynamics concepts to analyze systems or processes including energy conversion processes, reactions, and properties of mixtures, e.g., obtaining the equilibrium composition of coexisting phases.\nPrereq: 3508, and enrollment in CBE, FABEng, or EngPhysics major; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 3508",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "CBE",
+        "FABEng",
+        "EngPhysics major;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3509",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10190",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 155",
+            "room": "155",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Xiaoguang Wang",
+                "role": "PI",
+                "email": "wang.12206@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 3422",
+    "title": "Transport Phenomena III - Mass Transfer",
+    "description": "The transport processes involved in mass transfer will be outlined and governing equations derived. Modes of mass transfer (e.g., diffusion); Steady-state and unsteady-state mass transfer. The concept and use of mass transfer coefficients and the use of dimensionless numbers; mathematical analysis for the different mass transfer modes; analogies between heat, mass, and momentum transfer.\nPrereq: 3421, or permission of instructor. Not open to students with credit for 3521.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 3421",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3521"
+      ]
+    },
+    "catalog_number": "3422",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10193",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 059",
+            "room": "059",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shang-Tian Yang",
+                "role": "PI",
+                "email": "yang.15@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 2345",
+    "title": "Computational Methods for Chemical Engineering",
+    "description": "Chemical engineering problems are often described by a complex set of mathematical equations that cannot be solved analytically. The main goal of this course is to introduce students to a variety of computational methods/algorithms to develop solutions to such challenging problems as well as how to implement these solutions on a computer using a relevant programming environment (e.g., Python).\nPrereq: 2200.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 2200"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2345",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10191",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Orton Hall",
+            "building": "Orton Hall 110",
+            "room": "110",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joel A Paulson",
+                "role": "PI",
+                "email": "paulson.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35014",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2040",
+            "room": "2040",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rebecca Elise Harmon",
+                "role": "PI",
+                "email": "harmon.586@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 4755",
+    "title": "Chemical Process Safety",
+    "description": "Consideration of process safety concepts and application in the chemical process industry.\nPrereq: 3422 or 3521, and enrollment in CBE or EngPhysics major; or Grad standing; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 3422",
+          "CBE 3521",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "CBE",
+        "EngPhysics major;",
+        "Grad standing;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4755",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "9825",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 031",
+            "room": "031",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mandar Vinod Kathe",
+                "role": "PI",
+                "email": "kathe.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 5779",
+    "title": "Design and Analysis of Experiments",
+    "description": "Design and analysis of experiments with emphasis on applications in engineering.\r\nPrereq: Jr or Sr standing in CBE. Not open to students with credit for 779.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr",
+          "Sr standing in CBE"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "779"
+      ]
+    },
+    "catalog_number": "5779",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8382",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E001",
+            "room": "E001",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jim Rathman",
+                "role": "PI",
+                "email": "rathman.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 4760",
+    "title": "Chemical Engineering Economy and Strategy",
+    "description": "Economic and strategy considerations in research, development, design, and manufacturing in the chemical process industry.\nPrereq: 3610, and enrollment in CBE or EngPhysics major, and GenEd 1201 or GenEd 2601; or Grad standing; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 3610",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "CBE",
+        "EngPhysics major",
+        "GenEd 1201",
+        "GenEd 2601;",
+        "Grad standing;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4760",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8328",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 360",
+            "room": "360",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mandar Vinod Kathe",
+                "role": "PI",
+                "email": "kathe.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 2523",
+    "title": "Separation Processes",
+    "description": "The application of mass and energy balances and transport phenomena such as fluid, heat, and mass transfer to chemical engineering separation operations of distillation, absorption, evaporation, extraction, drying, etc.\r\nPrereq: 2200 (201), and enrollment in CBE major. Prereq or concur: 2420 (420), or permission of instructor or Grad standing. Not open to students with credit for 523.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 2200",
+          "CBE 201",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "CBE 2420",
+          "CBE 420",
+          "permission of instructor",
+          "Grad standing"
+        ]
+      ],
+      "Restricted Majors": [
+        "CBE major"
+      ],
+      "Exclusions": [
+        "523"
+      ]
+    },
+    "catalog_number": "2523",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8384",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 031",
+            "room": "031",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ilham El-Monier",
+                "role": "PI",
+                "email": "el-monier.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 5773",
+    "title": "Introduction to High Polymer Engineering",
+    "description": "Introduction to polymeric materials, polymerization methods and kinetics, polymer solution properties, molecular weight determination and polymer physical/mechanical properties.\r\nPrereq: 3610 (610) or Chem 2510 (251), or permission of instructor. Not open to students with credit for 773.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CBE 3610",
+          "CBE 610",
+          "Chem 2510",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "773"
+      ]
+    },
+    "catalog_number": "5773",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8329",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 169",
+            "room": "169",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Stuart L Cooper",
+                "role": "PI",
+                "email": "cooper.1682@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 2200",
+    "title": "Process Fundamentals",
+    "description": "Application of physicochemical principles to problems of the chemical industry; stoichiometry and material balance.\nPrereq: Chem 1210, and Engr 1181 or 1281.xxH. Prereq or concur: Math 1172, and CPHR 2.0 or above; and permission of department.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Chem 1210",
+          "Engr 1181",
+          "Engr 1281"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "Math 1172",
+          "and CPHR 2"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8327",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 120",
+            "room": "120",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "John Dee Clay",
+                "role": "PI",
+                "email": "clay.32@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "8332",
+        "section": "030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 120",
+            "room": "120",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lauren Whitney Taylor",
+                "role": "PI",
+                "email": "taylor.4676@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "CBE 5260",
+    "title": "Petroleum Project Evaluation",
+    "description": "Economic analysis and investment decision methods in the petroleum industry; reserves estimation, depletion, petroleum taxation and market regulations, and projects of the type found in the industry; project evaluation case studies.\nUndergrad Prereq: Jr or Sr standing in Engineering or Earth Sciences. Grad Prereq: Grad standing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr",
+          "Sr standing in Engineering",
+          "Earth Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5260",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8493",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 169",
+            "room": "169",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Paul Dubetz",
+                "role": "PI",
+                "email": "dubetz.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

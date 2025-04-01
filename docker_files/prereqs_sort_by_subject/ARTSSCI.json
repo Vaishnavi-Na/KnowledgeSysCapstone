@@ -1,0 +1,3816 @@
+[
+  {
+    "course": "ARTSSCI 1100.04",
+    "title": "Arts and Sciences Survey: Transfer",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services.\nPrereq: Permission of department or instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of department",
+          "instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.04",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "23939",
+        "section": "0045",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Laura Whitaker",
+                "role": "PI",
+                "email": "whitaker.139@osu.edu"
+              },
+              {
+                "name": "Alison L Baker",
+                "role": "PI",
+                "email": "baker.320@osu.edu"
+              },
+              {
+                "name": "Ashley Gerace Sweaney",
+                "role": "PI",
+                "email": "sweaney.1@osu.edu"
+              },
+              {
+                "name": "Kathy Loos",
+                "role": "PI",
+                "email": "loos.34@osu.edu"
+              },
+              {
+                "name": "Liz McGinnis",
+                "role": "PI",
+                "email": "mcginnis.2008@osu.edu"
+              },
+              {
+                "name": "Hannah Marie Webb",
+                "role": "PI",
+                "email": "webb.1157@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23966",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Margaret May Strow",
+                "role": "GR",
+                "email": "strow.1@osu.edu"
+              },
+              {
+                "name": "Melissa Basford",
+                "role": "GR",
+                "email": "basford.18@osu.edu"
+              },
+              {
+                "name": "Sue Ellen Dehority",
+                "role": "GR",
+                "email": "dehority.2@osu.edu"
+              },
+              {
+                "name": "Matt DeBlieck",
+                "role": "PI",
+                "email": "deblieck.2@osu.edu"
+              },
+              {
+                "name": "Amy Lynn Selby",
+                "role": "GR",
+                "email": "selby.31@osu.edu"
+              },
+              {
+                "name": "Lydia Rall",
+                "role": "GR",
+                "email": "rall.23@osu.edu"
+              },
+              {
+                "name": "Robbie Lustig",
+                "role": "GR",
+                "email": "lustig.16@osu.edu"
+              },
+              {
+                "name": "Ryan Samuel Keller",
+                "role": "GR",
+                "email": "keller.446@osu.edu"
+              },
+              {
+                "name": "Maggie Wagner",
+                "role": "GR",
+                "email": "wagner.1864@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.10",
+    "title": "Arts and Sciences Survey: Mathematical and Physical Sciences",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services. \nPrereq: Permission of department or instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of department",
+          "instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.10",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "21777",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 001",
+            "room": "001",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Angela LeCount Melamed",
+                "role": "PI",
+                "email": "lecountmelamed.1@osu.edu"
+              },
+              {
+                "name": "Marie Renee Southerland",
+                "role": "PI",
+                "email": "southerland.14@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23523",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 014",
+            "room": "014",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mike Chang",
+                "role": "PI",
+                "email": "chang.479@osu.edu"
+              },
+              {
+                "name": "Holly Anne Wheaton",
+                "role": "PI",
+                "email": "wheaton.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23522",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 113",
+            "room": "113",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michelle E Daymon",
+                "role": "PI",
+                "email": "daymon.1@osu.edu"
+              },
+              {
+                "name": "Colton Wendell Weiss",
+                "role": "PI",
+                "email": "weiss.312@osu.edu"
+              },
+              {
+                "name": "Lisa Julie Long",
+                "role": "PI",
+                "email": "long.2205@osu.edu"
+              },
+              {
+                "name": "Naomi M DeLopez",
+                "role": "PI",
+                "email": "delopez.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23558",
+        "section": "0060",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1005",
+            "room": "1005",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Antonio de Jesus Hernandez",
+                "role": "PI",
+                "email": "hernandez.413@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24026",
+        "section": "0070",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 253",
+            "room": "253",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Athena Yiamouyiannis",
+                "role": "PI",
+                "email": "yiamouyiannis.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24027",
+        "section": "0080",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 250",
+            "room": "250",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Kenneth Zach",
+                "role": "PI",
+                "email": "zach.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26048",
+        "section": "0085",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 253",
+            "room": "253",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Kenneth Zach",
+                "role": "PI",
+                "email": "zach.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25127",
+        "section": "0090",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 300",
+            "room": "300",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rodica Barbu",
+                "role": "PI",
+                "email": "barbu.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26030",
+        "section": "110",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 020",
+            "room": "020",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jen Wells",
+                "role": "PI",
+                "email": "wells.102@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.14",
+    "title": "Arts and Sciences Survey: Social and Behavioral Sciences BA",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services.\nPrereq: Permission of department or instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of department",
+          "instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.14",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "15405",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E001",
+            "room": "E001",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rachel DeGenaro",
+                "role": "PI",
+                "email": "degenaro.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15406",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 009",
+            "room": "009",
+            "start_time": "9:00 am",
+            "end_time": "9:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Richard Lee Meltz",
+                "role": "PI",
+                "email": "meltz.2@osu.edu"
+              },
+              {
+                "name": "Oana Mihaela Falasca",
+                "role": "PI",
+                "email": "falasca.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15407",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Stillman Hall",
+            "building": "Stillman Hall 100",
+            "room": "100",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Charles William Smith",
+                "role": "PI",
+                "email": "smith.3280@osu.edu"
+              },
+              {
+                "name": "Jacki Lynn Della Rosa Carron",
+                "role": "PI",
+                "email": "dellarosacarron.1@osu.edu"
+              },
+              {
+                "name": "Troy Donovan Markham",
+                "role": "PI",
+                "email": "markham.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15408",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1009",
+            "room": "1009",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Martinez",
+                "role": "PI",
+                "email": "martinez.83@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15410",
+        "section": "0080",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 214",
+            "room": "214",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maria B Roth",
+                "role": "PI",
+                "email": "roth.595@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25146",
+        "section": "0150",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 239",
+            "room": "239",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Susan J VanPelt",
+                "role": "PI",
+                "email": "vanpelt.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.06",
+    "title": "Arts and Sciences Survey: Arts and Humanities",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services.\nPrereq: Permission of department or instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of department",
+          "instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.06",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "15400",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 214",
+            "room": "214",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rachael Speck",
+                "role": "PI",
+                "email": "speck.61@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25952",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 250",
+            "room": "250",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kari Ann Swygart",
+                "role": "PI",
+                "email": "swygart.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.07",
+    "title": "Arts and Sciences Survey: Biological Sciences",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services.\nPrereq: Permission of department or instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of department",
+          "instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.07",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "15395",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Townshend Hall",
+            "building": "Townshend Hall 255",
+            "room": "255",
+            "start_time": "11:00 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Robbie Lustig",
+                "role": "PI",
+                "email": "lustig.16@osu.edu"
+              },
+              {
+                "name": "Amy Lynn Selby",
+                "role": "PI",
+                "email": "selby.31@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15396",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 014",
+            "room": "014",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lydia Rall",
+                "role": "PI",
+                "email": "rall.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15397",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 360",
+            "room": "360",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan Samuel Keller",
+                "role": "PI",
+                "email": "keller.446@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15398",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 270",
+            "room": "270",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matt DeBlieck",
+                "role": "PI",
+                "email": "deblieck.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15428",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Sullivant Hall",
+            "building": "Sullivant Hall 220",
+            "room": "220",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sue Ellen Dehority",
+                "role": "PI",
+                "email": "dehority.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "22955",
+        "section": "0060",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2040",
+            "room": "2040",
+            "start_time": "11:00 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amy Lynn Selby",
+                "role": "PI",
+                "email": "selby.31@osu.edu"
+              },
+              {
+                "name": "Robbie Lustig",
+                "role": "PI",
+                "email": "lustig.16@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28850",
+        "section": "0070",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 006",
+            "room": "006",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maggie Wagner",
+                "role": "PI",
+                "email": "wagner.1864@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29052",
+        "section": "0080",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 059",
+            "room": "059",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Margaret May Strow",
+                "role": "PI",
+                "email": "strow.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.09",
+    "title": "Arts and Sciences Survey: Design",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services.\nPrereq: Permission of department or instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of department",
+          "instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.09",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "15402",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 250",
+            "room": "250",
+            "start_time": "2:20 pm",
+            "end_time": "3:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Alyssa Jeanne Campbell",
+                "role": "PI",
+                "email": "campbell.2071@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.01H",
+    "title": "Arts and Sciences Survey: General (Honors)",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services.\r\nPrereq: Honors standing, or permission of instructor or department. Not open to students with credit for any College Survey 100.XX course. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "permission of instructor",
+          "department"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "any College Survey 100"
+      ]
+    },
+    "catalog_number": "1100.01H",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "15412",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emma Traylor",
+                "role": "PI",
+                "email": "traylor.47@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25614",
+        "section": "016",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 180",
+            "room": "180",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samantha E. Zimmerman",
+                "role": "PI",
+                "email": "zimmerman.874@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15419",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 029",
+            "room": "029",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samantha E. Zimmerman",
+                "role": "PI",
+                "email": "zimmerman.874@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15420",
+        "section": "030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Arps Hall",
+            "building": "Arps Hall 012",
+            "room": "012",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maddy McCain",
+                "role": "PI",
+                "email": "mccain.96@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15421",
+        "section": "040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maddy McCain",
+                "role": "PI",
+                "email": "mccain.96@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15422",
+        "section": "050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 080",
+            "room": "080",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Swearingen",
+                "role": "PI",
+                "email": "swearingen.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15423",
+        "section": "070",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emma Traylor",
+                "role": "PI",
+                "email": "traylor.47@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15424",
+        "section": "080",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 031",
+            "room": "031",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emma Traylor",
+                "role": "PI",
+                "email": "traylor.47@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15425",
+        "section": "100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E001",
+            "room": "E001",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Swearingen",
+                "role": "PI",
+                "email": "swearingen.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15426",
+        "section": "110",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 110",
+            "room": "110",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samantha E. Zimmerman",
+                "role": "PI",
+                "email": "zimmerman.874@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "21733",
+        "section": "120",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samantha E. Zimmerman",
+                "role": "PI",
+                "email": "zimmerman.874@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25528",
+        "section": "130",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "9:10 am",
+            "end_time": "10:30 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emma Traylor",
+                "role": "PI",
+                "email": "traylor.47@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25612",
+        "section": "140",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 253",
+            "room": "253",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maddy McCain",
+                "role": "PI",
+                "email": "mccain.96@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25613",
+        "section": "150",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samantha E. Zimmerman",
+                "role": "PI",
+                "email": "zimmerman.874@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28125",
+        "section": "160",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2017",
+            "room": "2017",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maddy McCain",
+                "role": "PI",
+                "email": "mccain.96@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29119",
+        "section": "170",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2017",
+            "room": "2017",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Swearingen",
+                "role": "PI",
+                "email": "swearingen.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29194",
+        "section": "180",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2017",
+            "room": "2017",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Swearingen",
+                "role": "PI",
+                "email": "swearingen.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35097",
+        "section": "190",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joanna Spanos",
+                "role": "PI",
+                "email": "spanos.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35098",
+        "section": "200",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Evans Laboratory",
+            "building": "Evans Lab 1008",
+            "room": "1008",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joanna Spanos",
+                "role": "PI",
+                "email": "spanos.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1120.02",
+    "title": "Biological Sciences Scholars Seminar",
+    "description": "Scholars Program academic and co-curricular requirements and expectations; University procedures relative to the BIO SCI Scholars experience; resources and opportunities related to the BIO SCI Scholars program theme. Students will explore involvement related to service, research, and preparation for graduate/professional school and careers in the biological sciences.\nPrereq: Enrollment in Biological Sciences Scholars Program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Biological Sciences Scholars Program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1120.02",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "25293",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 060",
+            "room": "060",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa Basford",
+                "role": "PI",
+                "email": "basford.18@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25294",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 040",
+            "room": "040",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa Basford",
+                "role": "PI",
+                "email": "basford.18@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.11",
+    "title": "Arts and Sciences Survey: Music",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services.\nPrereq: Permission of department or instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of department",
+          "instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.11",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "15404",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Timashev Family Music Building",
+            "building": "Timashev Building N120",
+            "room": "N120",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emily Ann Klepinger",
+                "role": "PI",
+                "email": "klepinger.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1120.05",
+    "title": "Law and Society Scholars",
+    "description": "This seminar course is designed to explore interdisciplinary opportunities, campus and community resources, personal and professional development, and themes specific to the Law and Society Scholars Program. Thematic topics will include but are not limited to those related to Ohio's judicial system, free speech, communication, and conflict.\nPrereq: Enrollment in Law and Society Scholars Program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Law and Society Scholars Program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1120.05",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "25298",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 250",
+            "room": "250",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Devika Lynn Carr",
+                "role": "PI",
+                "email": "carr.285@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25299",
+        "section": "030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 250",
+            "room": "250",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Devika Lynn Carr",
+                "role": "PI",
+                "email": "carr.285@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.15",
+    "title": "Arts and Sciences Survey: Social and Behavioral Sciences BA/BS",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services.\nPrereq: Permission of department or instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of department",
+          "instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.15",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "27257",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "209 West Eighteenth Avenue",
+            "building": "209 W 18th Ave 160",
+            "room": "160",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Alexander Jackson",
+                "role": "PI",
+                "email": "jackson.1440@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15411",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 014",
+            "room": "014",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Alison L Baker",
+                "role": "PI",
+                "email": "baker.320@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24045",
+        "section": "0035",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "9:35 am",
+            "end_time": "10:30 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kathy Loos",
+                "role": "PI",
+                "email": "loos.34@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27327",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 020",
+            "room": "020",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Cameron John Beason",
+                "role": "PI",
+                "email": "beason.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "22961",
+        "section": "0060",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Independence Hall",
+            "building": "Independence Hall 100",
+            "room": "100",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Justin Matthew Labelle",
+                "role": "PI",
+                "email": "labelle.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28136",
+        "section": "090",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Laura Whitaker",
+                "role": "PI",
+                "email": "whitaker.139@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26233",
+        "section": "0100",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "2:00 pm",
+            "end_time": "2:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jessica Michele Arrasmith",
+                "role": "PI",
+                "email": "arrasmith.15@osu.edu"
+              },
+              {
+                "name": "Charlie Campbell",
+                "role": "PI",
+                "email": "campbell.601@osu.edu"
+              },
+              {
+                "name": "Natalie A Cirincione",
+                "role": "PI",
+                "email": "cirincione.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29278",
+        "section": "200",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Hannah Marie Webb",
+                "role": "PI",
+                "email": "webb.1157@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36055",
+        "section": "210",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 010",
+            "room": "010",
+            "start_time": "12:45 pm",
+            "end_time": "1:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Alison L Baker",
+                "role": "PI",
+                "email": "baker.320@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36056",
+        "section": "220",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "10:00 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Alison L Baker",
+                "role": "PI",
+                "email": "baker.320@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1120.01",
+    "title": "Arts Scholars Seminar",
+    "description": "This seminar course is designed for first year arts scholars students and explores arts interests, interdisciplinary opportunities, campus and local community arts connections.\nPrereq: Enrollment in Arts Scholars Program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Arts Scholars Program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1120.01",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "15427",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Roman Efe Suer",
+                "role": "PI",
+                "email": "suer.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15429",
+        "section": "0020",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Roman Efe Suer",
+                "role": "PI",
+                "email": "suer.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1120.04",
+    "title": "International Affairs Scholars Seminar",
+    "description": "Introduction to major topics and themes in International Affairs; introduction to expectations and guidelines of the IA Scholars Program; overview of university resources and services related to the IA Scholars theme; overview of professional development and potential career paths; connections to and awareness of campus, city, and national resources related to IA Scholars theme.\nPrereq: Enrollment in International Affairs Scholars Program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in International Affairs Scholars Program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1120.04",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "25291",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 206",
+            "room": "206",
+            "start_time": "10:00 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jill Marie Klimpel",
+                "role": "PI",
+                "email": "klimpel.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25292",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 238",
+            "room": "238",
+            "start_time": "11:10 am",
+            "end_time": "12:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jill Marie Klimpel",
+                "role": "PI",
+                "email": "klimpel.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.05",
+    "title": "Arts and Sciences Survey: Art",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services.\nPrereq: Permission of department or instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of department",
+          "instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.05",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "15399",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A105",
+            "room": "A105",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marissa Nicole Stewart",
+                "role": "PI",
+                "email": "stewart.1860@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.01H",
+    "title": "Arts and Sciences Survey: General (Honors)",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services.\r\nPrereq: Honors standing, or permission of instructor or department. Not open to students with credit for any College Survey 100.XX course. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "permission of instructor",
+          "department"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "any College Survey 100"
+      ]
+    },
+    "catalog_number": "1100.01H",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "15412",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emma Traylor",
+                "role": "PI",
+                "email": "traylor.47@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25614",
+        "section": "016",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 180",
+            "room": "180",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samantha E. Zimmerman",
+                "role": "PI",
+                "email": "zimmerman.874@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15419",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 029",
+            "room": "029",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samantha E. Zimmerman",
+                "role": "PI",
+                "email": "zimmerman.874@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15420",
+        "section": "030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Arps Hall",
+            "building": "Arps Hall 012",
+            "room": "012",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maddy McCain",
+                "role": "PI",
+                "email": "mccain.96@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15421",
+        "section": "040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maddy McCain",
+                "role": "PI",
+                "email": "mccain.96@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15422",
+        "section": "050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 080",
+            "room": "080",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Swearingen",
+                "role": "PI",
+                "email": "swearingen.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15423",
+        "section": "070",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emma Traylor",
+                "role": "PI",
+                "email": "traylor.47@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15424",
+        "section": "080",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 031",
+            "room": "031",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emma Traylor",
+                "role": "PI",
+                "email": "traylor.47@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15425",
+        "section": "100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E001",
+            "room": "E001",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Swearingen",
+                "role": "PI",
+                "email": "swearingen.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15426",
+        "section": "110",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 110",
+            "room": "110",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samantha E. Zimmerman",
+                "role": "PI",
+                "email": "zimmerman.874@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "21733",
+        "section": "120",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samantha E. Zimmerman",
+                "role": "PI",
+                "email": "zimmerman.874@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25528",
+        "section": "130",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "9:10 am",
+            "end_time": "10:30 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emma Traylor",
+                "role": "PI",
+                "email": "traylor.47@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25612",
+        "section": "140",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 253",
+            "room": "253",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maddy McCain",
+                "role": "PI",
+                "email": "mccain.96@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25613",
+        "section": "150",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samantha E. Zimmerman",
+                "role": "PI",
+                "email": "zimmerman.874@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28125",
+        "section": "160",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2017",
+            "room": "2017",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maddy McCain",
+                "role": "PI",
+                "email": "mccain.96@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29119",
+        "section": "170",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2017",
+            "room": "2017",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Swearingen",
+                "role": "PI",
+                "email": "swearingen.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29194",
+        "section": "180",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2017",
+            "room": "2017",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Swearingen",
+                "role": "PI",
+                "email": "swearingen.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35097",
+        "section": "190",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2015",
+            "room": "2015",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joanna Spanos",
+                "role": "PI",
+                "email": "spanos.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35098",
+        "section": "200",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Evans Laboratory",
+            "building": "Evans Lab 1008",
+            "room": "1008",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joanna Spanos",
+                "role": "PI",
+                "email": "spanos.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1100.10",
+    "title": "Arts and Sciences Survey: Mathematical and Physical Sciences",
+    "description": "Academic requirements; University procedures, grading system, resources; student rights and responsibilities; overview of Arts and Sciences academic areas of study and services. \nPrereq: Permission of department or instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of department",
+          "instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.10",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "21777",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 001",
+            "room": "001",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Angela LeCount Melamed",
+                "role": "PI",
+                "email": "lecountmelamed.1@osu.edu"
+              },
+              {
+                "name": "Marie Renee Southerland",
+                "role": "PI",
+                "email": "southerland.14@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23523",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 014",
+            "room": "014",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mike Chang",
+                "role": "PI",
+                "email": "chang.479@osu.edu"
+              },
+              {
+                "name": "Holly Anne Wheaton",
+                "role": "PI",
+                "email": "wheaton.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23522",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 113",
+            "room": "113",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michelle E Daymon",
+                "role": "PI",
+                "email": "daymon.1@osu.edu"
+              },
+              {
+                "name": "Colton Wendell Weiss",
+                "role": "PI",
+                "email": "weiss.312@osu.edu"
+              },
+              {
+                "name": "Lisa Julie Long",
+                "role": "PI",
+                "email": "long.2205@osu.edu"
+              },
+              {
+                "name": "Naomi M DeLopez",
+                "role": "PI",
+                "email": "delopez.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23558",
+        "section": "0060",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1005",
+            "room": "1005",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Antonio de Jesus Hernandez",
+                "role": "PI",
+                "email": "hernandez.413@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24026",
+        "section": "0070",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 253",
+            "room": "253",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Athena Yiamouyiannis",
+                "role": "PI",
+                "email": "yiamouyiannis.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24027",
+        "section": "0080",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 250",
+            "room": "250",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Kenneth Zach",
+                "role": "PI",
+                "email": "zach.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26048",
+        "section": "0085",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 253",
+            "room": "253",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Kenneth Zach",
+                "role": "PI",
+                "email": "zach.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25127",
+        "section": "0090",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 300",
+            "room": "300",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rodica Barbu",
+                "role": "PI",
+                "email": "barbu.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26030",
+        "section": "110",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 020",
+            "room": "020",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jen Wells",
+                "role": "PI",
+                "email": "wells.102@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1120.01",
+    "title": "Arts Scholars Seminar",
+    "description": "This seminar course is designed for first year arts scholars students and explores arts interests, interdisciplinary opportunities, campus and local community arts connections.\nPrereq: Enrollment in Arts Scholars Program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Arts Scholars Program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1120.01",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "15427",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Roman Efe Suer",
+                "role": "PI",
+                "email": "suer.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "15429",
+        "section": "0020",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Roman Efe Suer",
+                "role": "PI",
+                "email": "suer.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1120.03",
+    "title": "Humanities Scholars Seminar",
+    "description": "Designed for the first year Humanities Scholars to explore personal humanities interests, interdisciplinary opportunities, campus and local humanities resources, and cultural topics in the humanities.\nPrereq: Enrollment in Humanities Scholars Program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Humanities Scholars Program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1120.03",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "21863",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 137",
+            "room": "137",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Benjamin Thomas Fortman",
+                "role": "PI",
+                "email": "fortman.24@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23985",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 029",
+            "room": "029",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Benjamin Thomas Fortman",
+                "role": "PI",
+                "email": "fortman.24@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 2400E",
+    "title": "Conversations on Morality, Politics, and Society",
+    "description": "Students explore the COMPAS program topic from a variety of perspectives and attend or view recordings of various COMPAS events. They also complete additional readings, have 5-6 hours of meetings with the instructor, and write a term paper.\nPrereq: Honors standing, or permission of instructor. GE cultures and ideas course. GE foundation historical and cultural studies course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2400E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26654",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 140",
+            "room": "140",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Aaron J Yarmel",
+                "role": "PI",
+                "email": "yarmel.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 2400E",
+    "title": "Conversations on Morality, Politics, and Society",
+    "description": "Students explore the COMPAS program topic from a variety of perspectives and attend or view recordings of various COMPAS events. They also complete additional readings, have 5-6 hours of meetings with the instructor, and write a term paper.\nPrereq: Honors standing, or permission of instructor. GE cultures and ideas course. GE foundation historical and cultural studies course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2400E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26654",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 140",
+            "room": "140",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Aaron J Yarmel",
+                "role": "PI",
+                "email": "yarmel.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ARTSSCI 1120.06",
+    "title": "STEM Exploration & Engagement Scholars Seminar",
+    "description": "This seminar course is designed for first year Scholars students to explore personal interests, interdisciplinary opportunities, campus and local community resources, and specific theme activities related to STEM Exploration and Engagement Scholars.\nPrereq: Enrollment in STEM Exploration and Engagement Scholars Program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in STEM Exploration and Engagement Scholars Program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1120.06",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "25295",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Stillman Hall",
+            "building": "Stillman Hall 235",
+            "room": "235",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa Campbell",
+                "role": "PI",
+                "email": "campbell.1054@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25296",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 305",
+            "room": "305",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa Campbell",
+                "role": "PI",
+                "email": "campbell.1054@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25297",
+        "section": "030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 305",
+            "room": "305",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa Campbell",
+                "role": "PI",
+                "email": "campbell.1054@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,5203 @@
+[
+  {
+    "course": "ECE 2060",
+    "title": "Introduction to Digital Logic",
+    "description": "Introduction to the theory and practice of combinational and clocked sequential networks.\nPrereq: Not open to students with credit for 2000, 2000.02, 2000.07, 2001, 2010, or 2017.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2000",
+        "2000"
+      ]
+    },
+    "catalog_number": "2060",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7333",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 131",
+            "room": "131",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7334",
+        "section": "30",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "2:30 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7335",
+        "section": "40",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "5:45 pm",
+            "end_time": "8:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7336",
+        "section": "50",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "11:15 am",
+            "end_time": "2:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7337",
+        "section": "60",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "2:30 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9114",
+        "section": "70",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "8:00 am",
+            "end_time": "11:00 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9192",
+        "section": "500",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "8:00 am",
+            "end_time": "11:00 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5010",
+    "title": "Wireless Propagation and Remote Sensing",
+    "description": "Practical methods for predicting tropospheric, groundwave, and ionospheric propagation, including refraction, reflection, and extinction effects. Study of remote sensing systems and their applications.\nPrereq: 3010, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3010",
+          "Grad standing in Engineering",
+          "Biological Sciences",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5010",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6360",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 102",
+            "room": "102",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joel Tidmore Johnson",
+                "role": "PI",
+                "email": "johnson.1374@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 2560",
+    "title": "Introduction to Microcontroller-Based Systems",
+    "description": "Hardware and software organization of a typical microcontroller; machine language programming, interfacing peripheral devices, and input-output programming; real-time computer applications.\nPrereq: 2000, 2001, 2060, or 2061 and prereq or concur: 2000.07 or 2017; and CSE 1221, 1222, Engr 1281.01H, 1281.02H, or 1222, and enrollment in ECE, CSE, or EngPhysics major; or prereq or concur: 2010 or 2067, and permission of department. Not open to students with credit for CSE 2421.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2000",
+          "ECE 2001",
+          "ECE 2060",
+          "ECE 2061"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "ECE 2000"
+        ]
+      ],
+      "Restricted Majors": [
+        "ECE",
+        "CSE",
+        "EngPhysics major;",
+        "Concur: 2010",
+        "2067",
+        "permission of department"
+      ],
+      "Exclusions": [
+        "CSE 2421"
+      ]
+    },
+    "catalog_number": "2560",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "6358",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Irem Eryilmaz",
+                "role": "PI",
+                "email": "eryilmaz.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3010",
+    "title": "Introduction to Radio Frequency and Optical Engineering",
+    "description": "Waves and pulses on transmission lines; charges, fields, and potentials; inductance and capacitance; Faraday's law; Maxwell's Equations; plane wave propagation, polarization, reflection, and transmission.\nPrereq: 2020, 2021, 2100, 2100.02, 2100.06, or 2105; and Physics 1251 or 1261, or both 1240 and 1241; and Math 2415 or 2174; and enrollment in ECE or EngPhysics major; or prereq or concur: 2010 or 2061, and permission of department. Not open to students with credit for 3010.01 or 3010.02.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2020",
+          "ECE 2021",
+          "ECE 2100",
+          "ECE 2100"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "ECE 2010",
+          "ECE 2061",
+          "and permission of department"
+        ]
+      ],
+      "Restricted Majors": [
+        "ECE",
+        "EngPhysics major;",
+        "Concur: 2010",
+        "2061",
+        "permission of department"
+      ],
+      "Exclusions": [
+        "3010"
+      ]
+    },
+    "catalog_number": "3010",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7190",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 130",
+            "room": "130",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Asimina Kiourti",
+                "role": "PI",
+                "email": "kiourti.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35119",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 100",
+            "room": "100",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jin-Fa Lee",
+                "role": "PI",
+                "email": "lee.1863@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5551",
+    "title": "State-Space Control Systems",
+    "description": "Discrete-time state variable representations; pole placement via state-feedback; introduction to realization theory; observer design; introduction to Kalman filtering; linear quadratic regulator theory.\nPrereq: 3050 and Stat 3470; or Graduate standing in Engineering, Math, or Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Stat 3470",
+          "Graduate standing in Engineering",
+          "Math",
+          "Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5551",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6355",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E024",
+            "room": "E024",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Zak M. Kassas",
+                "role": "PI",
+                "email": "kassas.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3030",
+    "title": "Semiconductor Electronic Devices",
+    "description": "Semiconductor materials and devices. Crystals; bandstructure; charge carrier statistics; excess carriers, transport; PN junction; Schottky barrier; bipolar and field-effect transistors; optoelectronic devices; nanoscale devices.\nPrereq: Physics 1251, 1261, or both 1240 and 1241; and Chem 1210, 1220, or 1250; and enrollment in ECE, MSE, or EngPhysics major. Prereq or concur: Math 2415 or 2174.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Physics 1251",
+          "Physics 1261",
+          "Physics 1240",
+          "Physics 1241"
+        ],
+        [
+          "Chem 1210",
+          "Chem 1220",
+          "Chem 1250"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "Math 2415",
+          "Math 2174"
+        ]
+      ],
+      "Restricted Majors": [
+        "ECE",
+        "MSE",
+        "EngPhysics major"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3030",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6356",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Orton Hall",
+            "building": "Orton Hall 110",
+            "room": "110",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Hongping Zhao",
+                "role": "PI",
+                "email": "zhao.2592@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7296",
+        "section": "50",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 251",
+            "room": "251",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Paul R. Berger",
+                "role": "PI",
+                "email": "berger.143@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5307",
+    "title": "Introduction to Machine Learning for ECE",
+    "description": "Introduction to Machine Learning. Coverage includes linear regression, linear classification, model and feature selection, neural networks, clustering, and principle components analysis. Python will be used for implementation examples.\nPrereq: CSE 1222 or Engr 1281.xx, and Math 2568 and Stat 3470, and enrollment in ECE major; or Grad standing. Not open to students with credit for 4194.02 (Sp19, Machine Learning), 4300, 5300, or MechEng 5194 (Au19, Applied ML for MAE).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CSE 1222",
+          "Engr 1281"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "Grad standing"
+      ],
+      "Exclusions": [
+        "4194"
+      ]
+    },
+    "catalog_number": "5307",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "8781",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 031",
+            "room": "031",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emre Ertin",
+                "role": "PI",
+                "email": "ertin.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "8835",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Saurav Kumaraswami Shastri",
+                "role": "PI",
+                "email": "shastri.19@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5017",
+    "title": "Microwave Engineering",
+    "description": "Transmission line theory; multiconductor; S-parameters; transformers, couplers, filters, resonators, circulators; electromagnetic interference and compatibility; computer-aided design; microstrip realization and testing with a network analyzer.\nPrereq: 3010, and enrollment in ECE major; or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3010",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "Grad standing in Engineering",
+        "Biological Sciences",
+        "Math",
+        "Physical Sciences"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "5017",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "6353",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 371",
+            "room": "371",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Patrick Roblin",
+                "role": "PI",
+                "email": "roblin.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6357",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 305",
+            "room": "305",
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Yagmur Ozturk",
+                "role": "PI",
+                "email": "ozturk.33@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 2998.01",
+    "title": "Undergraduate Research",
+    "description": "Supervised undergraduate research in various topics.\r\nPrereq: Permission of instructor. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2998.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6754",
+        "section": "430",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Patrick Roblin",
+                "role": "PI",
+                "email": "roblin.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3561",
+    "title": "Advanced Digital Design",
+    "description": "Design and analysis of sequential circuits; digital circuit design using building blocks, programmable logic devices; design of basic computer components such as arithmetic logic units.\nPrereq: 2000, 2060, 2061, 2010, 2000.02, 290, 294 (Autumn 2010) or 206 and 261. Prereq or concur: 3020 (323), and enrollment in ECE, EngPhys, or CSE majors; or prereq  or concur 2010  and permission of department. Not open to students with credit for 561.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2000",
+          "ECE 2060",
+          "ECE 2061",
+          "ECE 2010",
+          "ECE 2000"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "ECE 3020",
+          "ECE 323",
+          "and enrollment in ECE",
+          "EngPhys",
+          "CSE majors;",
+          "prereq",
+          "ECE 2010"
+        ]
+      ],
+      "Restricted Majors": [
+        "ECE",
+        "EngPhys",
+        "CSE majors;",
+        "prereq",
+        "concur 2010",
+        "permission of department"
+      ],
+      "Exclusions": [
+        "561"
+      ]
+    },
+    "catalog_number": "3561",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6375",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 035",
+            "room": "035",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jia (Kevin) Liu",
+                "role": "PI",
+                "email": "liu.1736@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5022",
+    "title": "Introduction to RF Systems",
+    "description": "Intuitive system design methods to dissect the radio modem in analog & digital domains with emphasis on: a) performance evaluation using hand calculations and simulation, and b) understanding of the interaction between RF components and radio architectures. Topics include: system parameters, propagation & antennas, noise, distortion, modulation & aerial access, phase noise, RF transceivers.\nPrereq or concur: 4021 or 5021, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "ECE 4021",
+          "ECE 5021",
+          "Grad standing in Engineering",
+          "Biological Sciences",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5022",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9317",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 177",
+            "room": "177",
+            "start_time": "4:10 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Waleed Khalil",
+                "role": "PI",
+                "email": "khalil.18@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3040",
+    "title": "Sustainable Energy and Power Systems I",
+    "description": "Introduction to electrical energy systems: history, current trends, renewable and non-renewable sources, rotating machines and their operation, and smart grid initiatives.\nPrereq: 2100, 2100.02, 2105, 2020, 2021, 205, 292, or 294 (Spring 2011), and enrollment in ECE or EngPhysics major. Not open to students with credit for 341.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2100",
+          "ECE 2100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE",
+        "EngPhysics major"
+      ],
+      "Exclusions": [
+        "341"
+      ]
+    },
+    "catalog_number": "3040",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8866",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 144",
+            "room": "144",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Julia Zhang",
+                "role": "PI",
+                "email": "zhang.564@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10195",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 144",
+            "room": "144",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Julia Zhang",
+                "role": "PI",
+                "email": "zhang.564@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5000",
+    "title": "Introduction to Analog and Digital Communications",
+    "description": "Communications channel modeling, analog communication schemes, digital communication schemes, error rate analysis, and error control coding.\nPrereq: 3050, and Stat 3470 or Physics 3700; or Grad standing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3050",
+          "Stat 3470",
+          "Physics 3700",
+          "Grad standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9915",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 317",
+            "room": "317",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "C. Emre Koksal",
+                "role": "PI",
+                "email": "koksal.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 2020",
+    "title": "Introduction to Analog Systems and Circuits",
+    "description": "Circuit theory and applications of passive components and Op amps. Introduction to analog systems using differential equations and Laplace transforms.\nPrereq: Math 1152, 1161.01, 1161.02, 1172, or 1181H; and Physics 1250, 1250H, 1260, CHEM 1210, or 1250. Not open to students with credit for 2100, 2100.02, 2100.06, 2100.07, 2100.08, 2105, 2106, 2110, 2127, 2137, 2300, or 2360.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Math 1152",
+          "Math 1161"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2100",
+        "2100"
+      ]
+    },
+    "catalog_number": "2020",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7330",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 131",
+            "room": "131",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mariana Pereira Costa Pulcherio",
+                "role": "PI",
+                "email": "pulcherio.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7331",
+        "section": "40",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "8:00 am",
+            "end_time": "11:00 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7332",
+        "section": "50",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "2:30 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9203",
+        "section": "80",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "5:45 pm",
+            "end_time": "8:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 2050",
+    "title": "Introduction to Discrete Time Signals & Systems",
+    "description": "Introduction to sampled time signals and linear time invariant sampled time systems.\nPrereq: 2060, 2000, or 2061 and 2067; and CSE 1222.  Prereq or concur: Math 2174 or 2568. Not open to students with credit for 2100, 2100.01, 2100.04, 2104, or 2110.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2060",
+          "ECE 2000",
+          "ECE 2061",
+          "ECE 2067"
+        ],
+        [
+          "CSE 1222"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "Math 2174",
+          "Math 2568"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2100",
+        "2100"
+      ]
+    },
+    "catalog_number": "2050",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7276",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 113",
+            "room": "113",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bradley Dean Clymer",
+                "role": "PI",
+                "email": "clymer.1@osu.edu"
+              },
+              {
+                "name": "Gregg Chapman",
+                "role": "SI",
+                "email": "chapman.415@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7280",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "5:45 pm",
+            "end_time": "8:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bradley Dean Clymer",
+                "role": "PI",
+                "email": "clymer.1@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maruf Hossain",
+                "role": "PI",
+                "email": "hossain.82@osu.edu"
+              },
+              {
+                "name": "Bradley Dean Clymer",
+                "role": "PI",
+                "email": "clymer.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7281",
+        "section": "30",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "11:15 am",
+            "end_time": "2:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36852",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 131",
+            "room": "131",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Gregg Chapman",
+                "role": "PI",
+                "email": "chapman.415@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 2300",
+    "title": "Electrical Circuits and Electronic Devices",
+    "description": "Introduction to circuit analysis; circuit analysis concepts and mechanical systems analogies; theory and applications of electronic devices; operational amplifiers; electrical instruments and measurements.\nPrereq: Physics 1251 or 1261, and Math 1172 or 1544 or 2153 or 2162.01 or 2162.02 or 2182H or 4182H, and CPHR 2.0 or above, and enrollment in College of Engineering. Not open to students majoring in ECE.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Physics 1251",
+          "Physics 1261",
+          "Math 1172",
+          "Math 1544",
+          "Math 2153",
+          "Math 2162"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "College of Engineering"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "2300",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6373",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 131",
+            "room": "131",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mariana Pereira Costa Pulcherio",
+                "role": "PI",
+                "email": "pulcherio.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7211",
+        "section": "14",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "5:45 pm",
+            "end_time": "8:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7283",
+        "section": "18",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "5:45 pm",
+            "end_time": "8:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10264",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "11:15 am",
+            "end_time": "2:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3567",
+    "title": "Microcontroller Lab",
+    "description": "Laboratory in which a microcontroller is used to interface real-world hardware to make a functioning system.\nPrereq: 2560 or CSE 2421, and enrollment in ECE, CSE, or EngPhysics major. Not open to students with credit for 3567.01.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2560",
+          "CSE 2421",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE",
+        "CSE",
+        "EngPhysics major"
+      ],
+      "Exclusions": [
+        "3567"
+      ]
+    },
+    "catalog_number": "3567",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "7187",
+        "section": "010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "2:30 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Gregg Chapman",
+                "role": "PI",
+                "email": "chapman.415@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5127",
+    "title": "Power Electronics Lab",
+    "description": "Laboratory introducing basic circuits of power electronics, and simulation and control hardware and software for various power and energy applications.\r\nPrereq: 3040 (341) and enrollment in ECE major, or Grad standing in Engineering. Not open to students with credit for 628 or 647.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3040",
+          "ECE 341"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major",
+        "Grad standing in Engineering"
+      ],
+      "Exclusions": [
+        "628",
+        "647"
+      ]
+    },
+    "catalog_number": "5127",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "10272",
+        "section": "10",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 234",
+            "room": "234",
+            "start_time": "11:15 am",
+            "end_time": "2:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jin Wang",
+                "role": "PI",
+                "email": "wang.1248@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5530",
+    "title": "Fundamentals of Semiconductors for Microelectronics and Photonics",
+    "description": "Crystal structure, semiconductor energy band structure, electron transport and carrier recombination, heterostructures, and optical and dielectric properties.\nPrereq: 3030, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3030",
+          "Grad standing in Engineering",
+          "Biological Sciences",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5530",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6367",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2020",
+            "room": "2020",
+            "start_time": "4:10 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sanjay Krishna",
+                "role": "PI",
+                "email": "krishna.53@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3906",
+    "title": "Capstone Design I",
+    "description": "Fundamentals of the engineering design process. Application of design principles and methodology to conceptual and detailed technical design. Technical writing and communications skills. Project management during design.\nPrereq or Concur: 3080 or Philos 1332; and ECE 2560, 3010, 3020, 3027, 3030, 3040, and 3050; and GE Writing/Comm level 2 or Writing and Info Lit; and GenEd 1201 or 2601; and Sr standing; and enrollment in Electrical Eng Program of Study (EES subplan). Prereq or concur - Option 2: 2050 or 2100, and 3080 or Philos 1332, and ECE 3020, 3027, 3561, 3567, CSE 2231, and 2451, and GenEd 1201 or 2601, and Sr standing, and enrollment in Computer Eng Program or Study (CES subplan). Not open to students with credit for 3900, 3905, 4900, 4900H, 4901, or Engr 5901.01.This course is progress graded.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "ECE 3080",
+          "Philos 1332"
+        ],
+        [
+          "ECE 2560",
+          "ECE 3010",
+          "ECE 3020",
+          "ECE 3027",
+          "ECE 3030",
+          "ECE 3040",
+          "ECE 3050"
+        ],
+        [
+          "GE Writing/Comm level 2",
+          "Writing and Info Lit"
+        ],
+        [
+          "GenEd 1201",
+          "GenEd 2601"
+        ],
+        [
+          "Sr standing"
+        ],
+        [
+          "enrollment in Electrical Eng Program of Study (EES subplan)"
+        ]
+      ],
+      "Restricted Majors": [
+        "Electrical Eng Program of Study (EES subplan)"
+      ],
+      "Exclusions": [
+        "3900",
+        "3905",
+        "4900",
+        "4900H",
+        "4901",
+        "Engr 5901"
+      ]
+    },
+    "catalog_number": "3906",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "9406",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 188",
+            "room": "188",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Saideh Zia",
+                "role": "PI",
+                "email": "zia.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9407",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9836",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 188",
+            "room": "188",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Saideh Zia",
+                "role": "PI",
+                "email": "zia.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9837",
+        "section": "50",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "12:45 pm",
+            "end_time": "1:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9867",
+        "section": "60",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 188",
+            "room": "188",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Saideh Zia",
+                "role": "PI",
+                "email": "zia.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9868",
+        "section": "70",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9973",
+        "section": "80",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 102",
+            "room": "102",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Wladimiro Villarroel",
+                "role": "PI",
+                "email": "villarroel.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9974",
+        "section": "90",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cockins Hall",
+            "building": "Cockins Hall 228",
+            "room": "228",
+            "start_time": "11:10 am",
+            "end_time": "12:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10535",
+        "section": "100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 109",
+            "room": "109",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Aditya Nechiyil",
+                "role": "PI",
+                "email": "nechiyil.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10536",
+        "section": "110",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 277",
+            "room": "277",
+            "start_time": "12:45 pm",
+            "end_time": "1:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5362",
+    "title": "Computer Architecture and Design",
+    "description": "Design of general purpose digital computers including arithmetic and control units, input/output, and memory subsystems.\nPrereq: 2560 and 3561, and undergraduate enrollment in ECE, CSE, or EngPhysics major; or Grad standing in Engineering. Not open to students with credit for CSE 3421.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2560",
+          "ECE 3561",
+          "and undergraduate"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE",
+        "CSE",
+        "EngPhysics major;",
+        "Grad standing in Engineering"
+      ],
+      "Exclusions": [
+        "CSE 3421"
+      ]
+    },
+    "catalog_number": "5362",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7189",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 251",
+            "room": "251",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Xiaorui Wang",
+                "role": "PI",
+                "email": "wang.3596@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5025",
+    "title": "Power Electronics: Devices, Circuits, and Applications",
+    "description": "Provides an introduction to power electronic conversion principles. Analytical techniques will be developed through the study of widely used converter circuits.\r\nPrereq: 3020 (323), or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences. Not open to students with credit for 624, 724, or 844.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3020",
+          "ECE 323",
+          "Grad standing in Engineering",
+          "Biological Sciences",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "624",
+        "724",
+        "844"
+      ]
+    },
+    "catalog_number": "5025",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6362",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 253",
+            "room": "253",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mahesh Sitaram Illindala",
+                "role": "PI",
+                "email": "illindala.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3020",
+    "title": "Introduction to Electronics",
+    "description": "Electronics: diode and transistor models for amplifiers, switches, and logic gates. Multiple transistor circuit analysis, op amps, and electronic systems.\nPrereq: 2100 or 2020; or 2021 or 2106, and 2027 prereq or concur; and ECE or EngPhys major, or 2110 prereq or concur and permission of department.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2100",
+          "ECE 2020",
+          "ECE 2021",
+          "ECE 2106",
+          "ECE 2027",
+          "concur"
+        ],
+        [
+          "ECE",
+          "EngPhys major",
+          "ECE 2110",
+          "concur and permission of department"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3020",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6361",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 150",
+            "room": "150",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kubilay Sertel",
+                "role": "PI",
+                "email": "sertel.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7295",
+        "section": "50",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 360",
+            "room": "360",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven B Bibyk",
+                "role": "PI",
+                "email": "bibyk.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5042",
+    "title": "Power Systems",
+    "description": "A power system analysis course presenting power systems loads, modeling of transformers and power system model for voltage calculation and faults.\nPrereq: 3040, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3040",
+          "Grad standing in Engineering",
+          "Biological Sciences",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5042",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10207",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E040",
+            "room": "E040",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mahesh Sitaram Illindala",
+                "role": "PI",
+                "email": "illindala.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3040",
+    "title": "Sustainable Energy and Power Systems I",
+    "description": "Introduction to electrical energy systems: history, current trends, renewable and non-renewable sources, rotating machines and their operation, and smart grid initiatives.\nPrereq: 2100, 2100.02, 2105, 2020, 2021, 205, 292, or 294 (Spring 2011), and enrollment in ECE or EngPhysics major. Not open to students with credit for 341.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2100",
+          "ECE 2100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE",
+        "EngPhysics major"
+      ],
+      "Exclusions": [
+        "341"
+      ]
+    },
+    "catalog_number": "3040",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8866",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 144",
+            "room": "144",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Julia Zhang",
+                "role": "PI",
+                "email": "zhang.564@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10195",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 144",
+            "room": "144",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Julia Zhang",
+                "role": "PI",
+                "email": "zhang.564@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5500",
+    "title": "Nonlinear and Dynamic Programming for ECE",
+    "description": "Introduction to Optimization, including unconstrained optimization, gradient descent, Newton?s method, convexity, constrained optimization, KKT, duality, dynamic programming, basic reinforcement learning, and applications of optimization in ECE.\nPrereq: Math 2568 and 2415; or Grad standing in Engineering or Math and Physical Sciences. Not open to students with credit for 5759.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Math 2568",
+          "Grad standing in Engineering",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5759"
+      ]
+    },
+    "catalog_number": "5500",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6350",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 180",
+            "room": "180",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Abhishek Gupta",
+                "role": "PI",
+                "email": "gupta.706@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5244",
+    "title": "Si and Wide Band Gap Power Devices",
+    "description": "Basic design and operation of Si and Wide Band Gap (WBG: SiC, GaN and ultra wide band gap semiconductors) power devices and the applications of commercial devices in power electronics applications. Trade-offs between various devices. Static and dynamic operation. Comparison of Si and SiC devices and design differences.\nPrereq: 3030, or MatScEn 3271; or Grad standing in Engr or Physics. Not open to students with credit for 5194.07 or 5234.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3030",
+          "MatScEn 3271",
+          "Grad standing in Engr",
+          "Physics"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5194"
+      ]
+    },
+    "catalog_number": "5244",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35237",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 133",
+            "room": "133",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Anant K Agarwal",
+                "role": "PI",
+                "email": "agarwal.334@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3050",
+    "title": "Signals and Systems",
+    "description": "Linear systems and models in continuous and discrete time; convolution; Fourier series and transform; frequency response; Laplace transform; z-transform; applications.\nPrereq: 2020, 2050, and 2060; or 2100; and Math 2568; and enrollment in ECE or EngPhysics major.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2020",
+          "ECE 2050",
+          "ECE 2060",
+          "ECE 2100"
+        ],
+        [
+          "Math 2568"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE",
+        "EngPhysics major"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3050",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7191",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 035",
+            "room": "035",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kiryung Lee",
+                "role": "PI",
+                "email": "lee.8763@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35120",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 120",
+            "room": "120",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kiryung Lee",
+                "role": "PI",
+                "email": "lee.8763@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5020",
+    "title": "Mixed Signal VLSI",
+    "description": "Design and circuit analysis of basic VLSI structures such as registers, cell libraries, digital and analog I/O. Physical layout, timing analysis, PLLs, design tools.\nPrereq: 3020, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3020",
+          "Grad standing in Engineering",
+          "Biological Sciences",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5020",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7338",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 120",
+            "room": "120",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tawfiq Musah",
+                "role": "PI",
+                "email": "musah.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5460",
+    "title": "Image Processing",
+    "description": "Fundamentals and research directions in image processing: cameras, geometry, calibration, 2D and 3D image reconstruction, stereo, structure from motion, Radiometry, filtering, motion estimation, and applications.\nPrereq: Stat 3470, and Math 2568; or Grad standing in Engr, BioSci, Stat, BioMinf, or PhysSci.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Stat 3470",
+          "Math 2568",
+          "Grad standing in Engr",
+          "BioSci",
+          "Stat",
+          "BioMinf",
+          "PhysSci"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5460",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9895",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 266",
+            "room": "266",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emre Ertin",
+                "role": "PI",
+                "email": "ertin.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5463",
+    "title": "Introduction to Real Time Robotics Systems",
+    "description": "Components of a robot system, robot forward and reverse kinematics; robot dynamics; robot force generation, robot trajectory generation.\nPrereq: Math 2177 or 2174, or 2415 and 2568; and Physics 1250, 1250H, 1260, or 2300; and CSE 1221, 1222, Engr 1181, 1281.01H, 1281.02H, 1221, or 1222; or Grad standing in Engr; or permission of instructor. Not open to students with credit for MechEng 5463 or 7752. Cross-listed in MechEng.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Math 2177",
+          "Math 2174",
+          "Math 2415",
+          "Math 2568"
+        ],
+        [
+          "Physics 1250",
+          "Physics 1250",
+          "Physics 1260",
+          "Physics 2300"
+        ],
+        [
+          "CSE 1221",
+          "CSE 1222",
+          "Engr 1181",
+          "Engr 1281"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "MechEng 5463",
+        "7752"
+      ]
+    },
+    "catalog_number": "5463",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7315",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 324",
+            "room": "324",
+            "start_time": "3:00 pm",
+            "end_time": "4:20 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Saideh Zia",
+                "role": "PI",
+                "email": "zia.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3561",
+    "title": "Advanced Digital Design",
+    "description": "Design and analysis of sequential circuits; digital circuit design using building blocks, programmable logic devices; design of basic computer components such as arithmetic logic units.\nPrereq: 2000, 2060, 2061, 2010, 2000.02, 290, 294 (Autumn 2010) or 206 and 261. Prereq or concur: 3020 (323), and enrollment in ECE, EngPhys, or CSE majors; or prereq  or concur 2010  and permission of department. Not open to students with credit for 561.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2000",
+          "ECE 2060",
+          "ECE 2061",
+          "ECE 2010",
+          "ECE 2000"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "ECE 3020",
+          "ECE 323",
+          "and enrollment in ECE",
+          "EngPhys",
+          "CSE majors;",
+          "prereq",
+          "ECE 2010"
+        ]
+      ],
+      "Restricted Majors": [
+        "ECE",
+        "EngPhys",
+        "CSE majors;",
+        "prereq",
+        "concur 2010",
+        "permission of department"
+      ],
+      "Exclusions": [
+        "561"
+      ]
+    },
+    "catalog_number": "3561",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6375",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 035",
+            "room": "035",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jia (Kevin) Liu",
+                "role": "PI",
+                "email": "liu.1736@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5022",
+    "title": "Introduction to RF Systems",
+    "description": "Intuitive system design methods to dissect the radio modem in analog & digital domains with emphasis on: a) performance evaluation using hand calculations and simulation, and b) understanding of the interaction between RF components and radio architectures. Topics include: system parameters, propagation & antennas, noise, distortion, modulation & aerial access, phase noise, RF transceivers.\nPrereq or concur: 4021 or 5021, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "ECE 4021",
+          "ECE 5021",
+          "Grad standing in Engineering",
+          "Biological Sciences",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5022",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9317",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 177",
+            "room": "177",
+            "start_time": "4:10 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Waleed Khalil",
+                "role": "PI",
+                "email": "khalil.18@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5131",
+    "title": "Lasers",
+    "description": "Atomic interaction with radiation, cavities with gain, optical processes in semiconductors, strain in laser design, diode lasers, and advanced semiconductor lasers.\nPrereq: 3010 and 3030, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3010",
+          "ECE 3030",
+          "Grad standing in Engineering",
+          "Biological Sciences",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5131",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35236",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 277",
+            "room": "277",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shamsul Arafin",
+                "role": "PI",
+                "email": "arafin.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4999.01H",
+    "title": "Undergraduate Honors Thesis Research",
+    "description": "Undergraduate Honors Thesis (Distinction) research on topics in Electrical & Computer Engineering.\r\nPrereq: Honors standing, or GPA 3.4 or above; and enrollment in ECE major; and approved Honors Thesis (Distinction) project. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "GPA 3"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "approved Honors Thesis (Distinction) project"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4999.01H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7010",
+        "section": "310",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Aleix M Martinez",
+                "role": "PI",
+                "email": "martinez.158@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 2998.01",
+    "title": "Undergraduate Research",
+    "description": "Supervised undergraduate research in various topics.\r\nPrereq: Permission of instructor. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2998.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6750",
+        "section": "390",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Siddharth Rajan",
+                "role": "PI",
+                "email": "rajan.21@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4999.01H",
+    "title": "Undergraduate Honors Thesis Research",
+    "description": "Undergraduate Honors Thesis (Distinction) research on topics in Electrical & Computer Engineering.\r\nPrereq: Honors standing, or GPA 3.4 or above; and enrollment in ECE major; and approved Honors Thesis (Distinction) project. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "GPA 3"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "approved Honors Thesis (Distinction) project"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4999.01H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7001",
+        "section": "190",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joel Tidmore Johnson",
+                "role": "PI",
+                "email": "johnson.1374@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4999.01H",
+    "title": "Undergraduate Honors Thesis Research",
+    "description": "Undergraduate Honors Thesis (Distinction) research on topics in Electrical & Computer Engineering.\r\nPrereq: Honors standing, or GPA 3.4 or above; and enrollment in ECE major; and approved Honors Thesis (Distinction) project. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "GPA 3"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "approved Honors Thesis (Distinction) project"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4999.01H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7032",
+        "section": "540",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jin Wang",
+                "role": "PI",
+                "email": "wang.1248@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3551",
+    "title": "Introduction to Feedback Control Systems",
+    "description": "Provides fundamental concepts in feedback control systems design and analysis.\nPrereq: 3050.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3050"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3551",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7275",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E004",
+            "room": "E004",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lee Carson Potter",
+                "role": "PI",
+                "email": "potter.36@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 2020",
+    "title": "Introduction to Analog Systems and Circuits",
+    "description": "Circuit theory and applications of passive components and Op amps. Introduction to analog systems using differential equations and Laplace transforms.\nPrereq: Math 1152, 1161.01, 1161.02, 1172, or 1181H; and Physics 1250, 1250H, 1260, CHEM 1210, or 1250. Not open to students with credit for 2100, 2100.02, 2100.06, 2100.07, 2100.08, 2105, 2106, 2110, 2127, 2137, 2300, or 2360.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Math 1152",
+          "Math 1161"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2100",
+        "2100"
+      ]
+    },
+    "catalog_number": "2020",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7330",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 131",
+            "room": "131",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mariana Pereira Costa Pulcherio",
+                "role": "PI",
+                "email": "pulcherio.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7331",
+        "section": "40",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "8:00 am",
+            "end_time": "11:00 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7332",
+        "section": "50",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "2:30 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9203",
+        "section": "80",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "5:45 pm",
+            "end_time": "8:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4999.01H",
+    "title": "Undergraduate Honors Thesis Research",
+    "description": "Undergraduate Honors Thesis (Distinction) research on topics in Electrical & Computer Engineering.\r\nPrereq: Honors standing, or GPA 3.4 or above; and enrollment in ECE major; and approved Honors Thesis (Distinction) project. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "GPA 3"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "approved Honors Thesis (Distinction) project"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4999.01H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7005",
+        "section": "250",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "C. Emre Koksal",
+                "role": "PI",
+                "email": "koksal.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4021",
+    "title": "Analog Integrated Circuits I",
+    "description": "Fundamentals of analog integrated circuits. CMOS transistors and diodes large-signal and small-signal operation and modeling. On-chip passive components operation and modeling. Simple and advanced current mirrors, single-ended and differential CMOS amplifiers, CMOS OTAs and Op-Amps. Integrated Circuits Fabrication, Packaging, and Testing.\nPrereq: 3020. Not open to students with credit for 5021.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3020"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5021"
+      ]
+    },
+    "catalog_number": "4021",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7317",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2020",
+            "room": "2020",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ayman Adel Fayed",
+                "role": "PI",
+                "email": "fayed.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4905H",
+    "title": "Capstone Design II with Honors Thesis",
+    "description": "Application of design principles and methodology to conceptual and detailed technical design, implementation and testing, culminating in a capstone design project.\nPrereq: Honors standing; and 3905 and 3090, or 3906; and permission of department. Not open to students with credit for 4900, 4900H, 4901, Engr 5902.01 or 5902.01H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ],
+        [
+          "ECE 3905",
+          "ECE 3090",
+          "ECE 3906"
+        ],
+        [
+          "permission of department"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "4900",
+        "4900H",
+        "4901",
+        "Engr 5902"
+      ]
+    },
+    "catalog_number": "4905H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9365",
+        "section": "10",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5307",
+    "title": "Introduction to Machine Learning for ECE",
+    "description": "Introduction to Machine Learning. Coverage includes linear regression, linear classification, model and feature selection, neural networks, clustering, and principle components analysis. Python will be used for implementation examples.\nPrereq: CSE 1222 or Engr 1281.xx, and Math 2568 and Stat 3470, and enrollment in ECE major; or Grad standing. Not open to students with credit for 4194.02 (Sp19, Machine Learning), 4300, 5300, or MechEng 5194 (Au19, Applied ML for MAE).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CSE 1222",
+          "Engr 1281"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "Grad standing"
+      ],
+      "Exclusions": [
+        "4194"
+      ]
+    },
+    "catalog_number": "5307",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "8781",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 031",
+            "room": "031",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emre Ertin",
+                "role": "PI",
+                "email": "ertin.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "8835",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Saurav Kumaraswami Shastri",
+                "role": "PI",
+                "email": "shastri.19@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4999.01H",
+    "title": "Undergraduate Honors Thesis Research",
+    "description": "Undergraduate Honors Thesis (Distinction) research on topics in Electrical & Computer Engineering.\r\nPrereq: Honors standing, or GPA 3.4 or above; and enrollment in ECE major; and approved Honors Thesis (Distinction) project. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "GPA 3"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "approved Honors Thesis (Distinction) project"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4999.01H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7022",
+        "section": "430",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Patrick Roblin",
+                "role": "PI",
+                "email": "roblin.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 2067",
+    "title": "Introduction to Digital Logic Lab for Transfer Students",
+    "description": "Laboratory-only component of ECE 2060 for transfer students. Laboratory practice with and application of the theory of combinational and clocked sequential networks.\nPrereq: 2061, and CPHR 2.00 or above. Not open to students with credit for 2000, 2000.02, 2000.07, 2017, 2060, 270, 290, or 294.01.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2061",
+          "and CPHR 2"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2000",
+        "2000"
+      ]
+    },
+    "catalog_number": "2067",
+    "term": "Autumn 2025",
+    "units": 0.5,
+    "sections": [
+      {
+        "class_number": "7279",
+        "section": "10",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 237",
+            "room": "237",
+            "start_time": "8:00 am",
+            "end_time": "11:00 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5244",
+    "title": "Si and Wide Band Gap Power Devices",
+    "description": "Basic design and operation of Si and Wide Band Gap (WBG: SiC, GaN and ultra wide band gap semiconductors) power devices and the applications of commercial devices in power electronics applications. Trade-offs between various devices. Static and dynamic operation. Comparison of Si and SiC devices and design differences.\nPrereq: 3030, or MatScEn 3271; or Grad standing in Engr or Physics. Not open to students with credit for 5194.07 or 5234.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3030",
+          "MatScEn 3271",
+          "Grad standing in Engr",
+          "Physics"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5194"
+      ]
+    },
+    "catalog_number": "5244",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35237",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 133",
+            "room": "133",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Anant K Agarwal",
+                "role": "PI",
+                "email": "agarwal.334@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5131",
+    "title": "Lasers",
+    "description": "Atomic interaction with radiation, cavities with gain, optical processes in semiconductors, strain in laser design, diode lasers, and advanced semiconductor lasers.\nPrereq: 3010 and 3030, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3010",
+          "ECE 3030",
+          "Grad standing in Engineering",
+          "Biological Sciences",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5131",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35236",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 277",
+            "room": "277",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shamsul Arafin",
+                "role": "PI",
+                "email": "arafin.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 2998.02",
+    "title": "Undergraduate Research",
+    "description": "Supervised undergraduate research in various topics.\r\nPrereq: Permission of instructor. Repeatable to a maximum of 6 cr hrs or 6 completions. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2998.02",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6793",
+        "section": "290",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Guoqiang Li",
+                "role": "PI",
+                "email": "li.3090@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4999.01H",
+    "title": "Undergraduate Honors Thesis Research",
+    "description": "Undergraduate Honors Thesis (Distinction) research on topics in Electrical & Computer Engineering.\r\nPrereq: Honors standing, or GPA 3.4 or above; and enrollment in ECE major; and approved Honors Thesis (Distinction) project. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "GPA 3"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "approved Honors Thesis (Distinction) project"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4999.01H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7003",
+        "section": "220",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Waleed Khalil",
+                "role": "PI",
+                "email": "khalil.18@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3050",
+    "title": "Signals and Systems",
+    "description": "Linear systems and models in continuous and discrete time; convolution; Fourier series and transform; frequency response; Laplace transform; z-transform; applications.\nPrereq: 2020, 2050, and 2060; or 2100; and Math 2568; and enrollment in ECE or EngPhysics major.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 2020",
+          "ECE 2050",
+          "ECE 2060",
+          "ECE 2100"
+        ],
+        [
+          "Math 2568"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE",
+        "EngPhysics major"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3050",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35120",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 120",
+            "room": "120",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kiryung Lee",
+                "role": "PI",
+                "email": "lee.8763@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5033",
+    "title": "Surfaces and Interfaces of Electronic Materials",
+    "description": "Provides the fundamental and practical basis for designing, processing, and characterizing the interfaces controlling the next generations of microelectronic and optoelectronic device structures.\nPrereq: 3030, or MatScEn 3271; or Grad standing in Engineering, Biological Science, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3030",
+          "MatScEn 3271",
+          "Grad standing in Engineering",
+          "Biological Science",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5033",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10399",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab N050",
+            "room": "N050",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Leonard J Brillson",
+                "role": "PI",
+                "email": "brillson.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4905H",
+    "title": "Capstone Design II with Honors Thesis",
+    "description": "Application of design principles and methodology to conceptual and detailed technical design, implementation and testing, culminating in a capstone design project.\nPrereq: Honors standing; and 3905 and 3090, or 3906; and permission of department. Not open to students with credit for 4900, 4900H, 4901, Engr 5902.01 or 5902.01H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ],
+        [
+          "ECE 3905",
+          "ECE 3090",
+          "ECE 3906"
+        ],
+        [
+          "permission of department"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "4900",
+        "4900H",
+        "4901",
+        "Engr 5902"
+      ]
+    },
+    "catalog_number": "4905H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9365",
+        "section": "10",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4999.01H",
+    "title": "Undergraduate Honors Thesis Research",
+    "description": "Undergraduate Honors Thesis (Distinction) research on topics in Electrical & Computer Engineering.\r\nPrereq: Honors standing, or GPA 3.4 or above; and enrollment in ECE major; and approved Honors Thesis (Distinction) project. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "GPA 3"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "approved Honors Thesis (Distinction) project"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4999.01H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7011",
+        "section": "320",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Randy Moses",
+                "role": "PI",
+                "email": "moses.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4999.01H",
+    "title": "Undergraduate Honors Thesis Research",
+    "description": "Undergraduate Honors Thesis (Distinction) research on topics in Electrical & Computer Engineering.\r\nPrereq: Honors standing, or GPA 3.4 or above; and enrollment in ECE major; and approved Honors Thesis (Distinction) project. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "GPA 3"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "approved Honors Thesis (Distinction) project"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4999.01H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7023",
+        "section": "450",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Philip Schniter",
+                "role": "PI",
+                "email": "schniter.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5500",
+    "title": "Nonlinear and Dynamic Programming for ECE",
+    "description": "Introduction to Optimization, including unconstrained optimization, gradient descent, Newton?s method, convexity, constrained optimization, KKT, duality, dynamic programming, basic reinforcement learning, and applications of optimization in ECE.\nPrereq: Math 2568 and 2415; or Grad standing in Engineering or Math and Physical Sciences. Not open to students with credit for 5759.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Math 2568",
+          "Grad standing in Engineering",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5759"
+      ]
+    },
+    "catalog_number": "5500",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6350",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 180",
+            "room": "180",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Abhishek Gupta",
+                "role": "PI",
+                "email": "gupta.706@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3906",
+    "title": "Capstone Design I",
+    "description": "Fundamentals of the engineering design process. Application of design principles and methodology to conceptual and detailed technical design. Technical writing and communications skills. Project management during design.\nPrereq or Concur: 3080 or Philos 1332; and ECE 2560, 3010, 3020, 3027, 3030, 3040, and 3050; and GE Writing/Comm level 2 or Writing and Info Lit; and GenEd 1201 or 2601; and Sr standing; and enrollment in Electrical Eng Program of Study (EES subplan). Prereq or concur - Option 2: 2050 or 2100, and 3080 or Philos 1332, and ECE 3020, 3027, 3561, 3567, CSE 2231, and 2451, and GenEd 1201 or 2601, and Sr standing, and enrollment in Computer Eng Program or Study (CES subplan). Not open to students with credit for 3900, 3905, 4900, 4900H, 4901, or Engr 5901.01.This course is progress graded.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "ECE 3080",
+          "Philos 1332"
+        ],
+        [
+          "ECE 2560",
+          "ECE 3010",
+          "ECE 3020",
+          "ECE 3027",
+          "ECE 3030",
+          "ECE 3040",
+          "ECE 3050"
+        ],
+        [
+          "GE Writing/Comm level 2",
+          "Writing and Info Lit"
+        ],
+        [
+          "GenEd 1201",
+          "GenEd 2601"
+        ],
+        [
+          "Sr standing"
+        ],
+        [
+          "enrollment in Electrical Eng Program of Study (EES subplan)"
+        ]
+      ],
+      "Restricted Majors": [
+        "Electrical Eng Program of Study (EES subplan)"
+      ],
+      "Exclusions": [
+        "3900",
+        "3905",
+        "4900",
+        "4900H",
+        "4901",
+        "Engr 5901"
+      ]
+    },
+    "catalog_number": "3906",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "9406",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 188",
+            "room": "188",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Saideh Zia",
+                "role": "PI",
+                "email": "zia.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9407",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9836",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 188",
+            "room": "188",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Saideh Zia",
+                "role": "PI",
+                "email": "zia.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9837",
+        "section": "50",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "12:45 pm",
+            "end_time": "1:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9867",
+        "section": "60",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 188",
+            "room": "188",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Saideh Zia",
+                "role": "PI",
+                "email": "zia.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9868",
+        "section": "70",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9973",
+        "section": "80",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 102",
+            "room": "102",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Wladimiro Villarroel",
+                "role": "PI",
+                "email": "villarroel.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9974",
+        "section": "90",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cockins Hall",
+            "building": "Cockins Hall 228",
+            "room": "228",
+            "start_time": "11:10 am",
+            "end_time": "12:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10535",
+        "section": "100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 109",
+            "room": "109",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Aditya Nechiyil",
+                "role": "PI",
+                "email": "nechiyil.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10536",
+        "section": "110",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 277",
+            "room": "277",
+            "start_time": "12:45 pm",
+            "end_time": "1:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 5037",
+    "title": "Solid State Electronics and Photonics Laboratory",
+    "description": "Introduction to Introduction to laboratory techniques for semiconductor device fabrication including photolithography, oxidation, diffusion, chemical processes, reactive ion etching, and metallization; fabrication and measurements of visible light emitting diodes (LED) and GaN High Electron Mobility Transistor (HEMT).\nPrereq or concur: 3030, and acceptance in ECE, MSE or EngPhysics major; or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "ECE 3030",
+          "and acceptance in ECE",
+          "MSE",
+          "EngPhysics major;",
+          "Grad standing in Engineering",
+          "Biological Sciences",
+          "Math and Physical Sciences"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5037",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "9902",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2100",
+            "room": "2100",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Wu Lu",
+                "role": "PI",
+                "email": "lu.173@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9905",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 095",
+            "room": "095",
+            "start_time": "1:00 pm",
+            "end_time": "5:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9906",
+        "section": "30",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 095",
+            "room": "095",
+            "start_time": "1:00 pm",
+            "end_time": "5:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10165",
+        "section": "0040",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 095",
+            "room": "095",
+            "start_time": "5:00 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 4999.01H",
+    "title": "Undergraduate Honors Thesis Research",
+    "description": "Undergraduate Honors Thesis (Distinction) research on topics in Electrical & Computer Engineering.\r\nPrereq: Honors standing, or GPA 3.4 or above; and enrollment in ECE major; and approved Honors Thesis (Distinction) project. Repeatable to a maximum of 6 cr hrs or 6 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "GPA 3"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE major;",
+        "approved Honors Thesis (Distinction) project"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4999.01H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7020",
+        "section": "410",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Keith Redmill",
+                "role": "PI",
+                "email": "redmill.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 3047",
+    "title": "Sustainable Energy and Energy Conversion Lab",
+    "description": "Laboratory introducing basics of energy conversion processes for electrical energy supply systems utilizing conventional rotating machines and hardware-in-the-loop simulation system for sustainable energy systems.\nPrereq: 3040, and enrollment in ECE or EngPhysics major.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ECE 3040",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "ECE",
+        "EngPhysics major"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3047",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "6370",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 264",
+            "room": "264",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6371",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 071",
+            "room": "071",
+            "start_time": "9:00 am",
+            "end_time": "11:30 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6372",
+        "section": "60",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 071",
+            "room": "071",
+            "start_time": "4:00 pm",
+            "end_time": "6:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ECE 2360",
+    "title": "Electronics for CSE majors",
+    "description": "Electronics course for CSE majors. Circuit analysis and design around embedded systems.\nPrereq: Engr 1182.01, 1182.02, 1182.03, 1282.01H, 1282.02H, 1282.03H, or 1282.04H, or 1186 and 1187 and 1188 concurrent; and Math 1152, 1161.01, 1161.02, 1172, or 1181H; and Physics 1250 or 1260; and CPHR 2.00 or above; and enrollment in CSE major. Not open to students with credit for 2020 or 2300.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Engr 1182"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "CSE major"
+      ],
+      "Exclusions": [
+        "2020",
+        "2300"
+      ]
+    },
+    "catalog_number": "2360",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9847",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E024",
+            "room": "E024",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark J Andrews",
+                "role": "PI",
+                "email": "andrews.250@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10194",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 120",
+            "room": "120",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark J Andrews",
+                "role": "PI",
+                "email": "andrews.250@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10294",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 1000",
+            "room": "1000",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drew Phillips",
+                "role": "PI",
+                "email": "phillips.1166@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,3664 @@
+[
+  {
+    "course": "HTHRHSC 3500",
+    "title": "Critical Phases in Life",
+    "description": "An examination of humans' development from conception to death and factors critical to continuing health.\nPrereq: Psych 1100.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Psych 1100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3500",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3378",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3383",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4000",
+    "title": "Application of Ethical Decision Making in Health Care",
+    "description": "Participation in this course will include ongoing examination of ethical theories, bioethical principles, personal ethics, and an ethical decision-making process for application in the allied health professions. Ethics as it contributes to the definition of citizenship will be explicitly explored.\nGE theme citizenship for div and just wrld course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3049",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Susmita Sadana",
+                "role": "PI",
+                "email": "sadana.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3343",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Van Allen Lemmon",
+                "role": "PI",
+                "email": "lemmon.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3589",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "4:10 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "George Marshall Jr.",
+                "role": "PI",
+                "email": "marshall.1055@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3395",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Pam Rafferty-Semon",
+                "role": "PI",
+                "email": "rafferty-semon.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4300",
+    "title": "Contemporary Topics in Health and Society",
+    "description": "Offers the opportunity to delve into the current issues and factors that are influencing and shaping both society and health systems and to engage in in a process of scholarly exchange around the incubation of ideas to address these current issues.\nPrereq: 3400, 4400, Sr standing, and admission to the Health Sciences program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "HTHRHSC 3400",
+          "HTHRHSC 4400",
+          "Sr standing",
+          "and admission to the Health Sciences program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4300",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3379",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Peter Madril",
+                "role": "PI",
+                "email": "madril.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3389",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Stefan Czerwinski",
+                "role": "PI",
+                "email": "czerwinski.19@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3550",
+        "section": "0030",
+        "component": "Recitation",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "7:00 pm",
+            "end_time": "8:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Aubrie Morgan Sanchez",
+                "role": "PI",
+                "email": "sanchez.1123@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3551",
+        "section": "0040",
+        "component": "Recitation",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "10:00 am",
+            "end_time": "11:00 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lauren Nicole Feyh",
+                "role": "PI",
+                "email": "feyh.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3552",
+        "section": "0050",
+        "component": "Recitation",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "12:00 pm",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Peter Madril",
+                "role": "PI",
+                "email": "madril.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3553",
+        "section": "0060",
+        "component": "Recitation",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "12:00 pm",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3554",
+        "section": "0070",
+        "component": "Recitation",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "3:00 pm",
+            "end_time": "4:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Peter Madril",
+                "role": "PI",
+                "email": "madril.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3555",
+        "section": "0080",
+        "component": "Recitation",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "7:00 pm",
+            "end_time": "8:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Aubrie Morgan Sanchez",
+                "role": "PI",
+                "email": "sanchez.1123@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3651",
+        "section": "0090",
+        "component": "Recitation",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "12:00 pm",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brett Stephen Nickerson",
+                "role": "PI",
+                "email": "nickerson.68@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4400",
+    "title": "Individual Differences in Patient/Client Populations",
+    "description": "Examination of individual differences in patient/client populations from multiple perspectives of disability, chronic disease, healthcare disparity, culture, and the impact on health and wellness.\nPrereq: 3400, and admission to the Health Sciences program or the Health Communication Certificate.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "HTHRHSC 3400",
+          "and admission to the Health Sciences program",
+          "the Health Communication Certificate"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4400",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3225",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Crystal Leigh Dunlevy",
+                "role": "PI",
+                "email": "dunlevy.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3344",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "8:30 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Crystal Leigh Dunlevy",
+                "role": "PI",
+                "email": "dunlevy.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3428",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Claire Eastment Bollinger",
+                "role": "PI",
+                "email": "bollinger.69@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3446",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Claire Eastment Bollinger",
+                "role": "PI",
+                "email": "bollinger.69@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4570",
+    "title": "The Role of Integrative Medicine",
+    "description": "A research-based analysis of the intersection between evidence-based medicine and complementary and alternative approaches to wellness, as defined by the National Institutes of Health.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4570",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3356",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Susmita Sadana",
+                "role": "PI",
+                "email": "sadana.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3376",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jennifer M. Olejownik",
+                "role": "PI",
+                "email": "olejownik.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 2500",
+    "title": "Medical Terminology for the Health Professions",
+    "description": "Terminology and abbreviations pertaining to anatomy, physiology, pathology, diagnostic processes/procedures and medical/surgical interventions by body system.\nThis course is available for EM credit.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2500",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3096",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Pam Rafferty-Semon",
+                "role": "PI",
+                "email": "rafferty-semon.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3475",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Pam Rafferty-Semon",
+                "role": "PI",
+                "email": "rafferty-semon.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3500",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Aubrie Morgan Sanchez",
+                "role": "PI",
+                "email": "sanchez.1123@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 2530",
+    "title": "The Evolving Art and Science of Medicine",
+    "description": "An analysis of the concepts of health and healing, coupled with an examination of historical developments that have impacted the art and science of the practice of medicine.\nGE cultures and ideas course. GE foundation historical and cultural studies course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2530",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3040",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:00 pm",
+            "end_time": "4:20 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jennifer M. Olejownik",
+                "role": "PI",
+                "email": "olejownik.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3535",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lise C. Worthen-Chaudhari",
+                "role": "PI",
+                "email": "worthen-chaudhari.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3681",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jennifer M. Olejownik",
+                "role": "PI",
+                "email": "olejownik.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 3400",
+    "title": "Introduction to Health Promotion and Disease Prevention",
+    "description": "An introduction to health promotion with an emphasis on the issues and factors that impact and influence health of individuals, groups and societies demonstrating the role of disciplinary research on identifying and addressing issues of health and health promotion.\nGE theme health and well-being course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3400",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3042",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jill Clutter",
+                "role": "PI",
+                "email": "clutter.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3388",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jill Clutter",
+                "role": "PI",
+                "email": "clutter.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3578",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Peter Madril",
+                "role": "PI",
+                "email": "madril.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3588",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lindsay Marie Sullivan",
+                "role": "PI",
+                "email": "sullivan.1200@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3616",
+        "section": "0060",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3619",
+        "section": "0070",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristen Heitman",
+                "role": "PI",
+                "email": "heitman.16@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4370",
+    "title": "Community and Policy Influence in Health Care",
+    "description": "The course covers historical, societal, political, and economic forces influencing the accessibility, cost, quality of personal and public health services. Students are exposed to major U.S. health policy issues concerned with health improvement and protection, and the related financing, organization, and delivery of healthcare.\nPrereq: 3400, and admission to the Health Sciences program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "HTHRHSC 3400",
+          "and admission to the Health Sciences program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4370",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3380",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Claire Eastment Bollinger",
+                "role": "PI",
+                "email": "bollinger.69@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3427",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David William Ellsworth",
+                "role": "PI",
+                "email": "ellsworth.42@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3635",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lauren Therese Battista",
+                "role": "PI",
+                "email": "battista.28@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4530",
+    "title": "Nutrition for Fitness",
+    "description": "Introduction to the basic principles of nutrition as they relate to exercise performance of athletes and the physically active.\nPrereq: 3 cr hrs in Biology or Chem, and EEOB 2520 or Physio 3200 or equiv.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "3 cr hrs in Biology",
+          "Chem",
+          "EEOB 2520",
+          "Physio 3200",
+          "equiv"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4530",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3355",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brooke Erin Starkoff",
+                "role": "PI",
+                "email": "starkoff.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3394",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Holly Estes-Doetsch",
+                "role": "PI",
+                "email": "estes-doetsch.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 5550",
+    "title": "Survey of Sports Medicine",
+    "description": "Survey of sports medicine for non-professionals. Topics include the sports medicine team; risk management; and common athletic injuries, their causes, prevention, and immediate care.\r\nPrereq: Not open to Athletic Training majors. Not open to students with credit for AthTrng 661, or to students in Athletic Training major.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "AthTrng 661",
+        "to students in Athletic Training major"
+      ]
+    },
+    "catalog_number": "5550",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3673",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Megan Nicole Bane",
+                "role": "PI",
+                "email": "bane.16@osu.edu"
+              },
+              {
+                "name": "James Arthur Onate",
+                "role": "PI",
+                "email": "onate.2@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "12:40 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Megan Nicole Bane",
+                "role": "PI",
+                "email": "bane.16@osu.edu"
+              },
+              {
+                "name": "James Arthur Onate",
+                "role": "PI",
+                "email": "onate.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4900",
+    "title": "Evidence-Based Practice in Healthcare",
+    "description": "Overview of evidence-based practice as it applies to health care, including formulating relevant clinical questions, finding and evaluating evidence using effective search techniques, and translating research into practice.\nPrereq: 3400, and admission to the Health Sciences program or the Health Communication Certificate.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "HTHRHSC 3400",
+          "and admission to the Health Sciences program",
+          "the Health Communication Certificate"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4900",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3429",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristen Heitman",
+                "role": "PI",
+                "email": "heitman.16@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 5900E",
+    "title": "Health Sciences Research: Interpretation and Applications",
+    "description": "Overview of research in the Health Sciences. This course is intended to prepare students to be educated consumers of research and to enable them to find, understand, interpret, and apply research findings in their professional practice.\nPrereq: Honors standing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5900E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3051",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jill Clutter",
+                "role": "PI",
+                "email": "clutter.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4950",
+    "title": "Program Development and Evaluation for Health Sciences",
+    "description": "Exposes the student to practical methods that can be used to develop, and evaluate health services programs in a variety of settings.\nPrereq: 3400, and admission to the Health Sciences program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "HTHRHSC 3400",
+          "and admission to the Health Sciences program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4950",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3430",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristen E Welker",
+                "role": "PI",
+                "email": "welker.128@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3580",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristen E Welker",
+                "role": "PI",
+                "email": "welker.128@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 5370",
+    "title": "U.S. Healthcare Policy and Delivery System",
+    "description": "An examination of healthcare delivery and current issues including history, policy, government regulations, legislation, politics, financing, accessibility, workforce and ethics.\nPrereq: Soph or Jr standing, and admission to HRS; or enrollment in RespThr, RadSci, or HIMS; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Soph",
+          "Jr standing",
+          "and admission to HRS;"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "RespThr",
+        "RadSci",
+        "HIMS;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "5370",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3087",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "2:00 pm",
+            "end_time": "3:20 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Pam Rafferty-Semon",
+                "role": "PI",
+                "email": "rafferty-semon.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3402",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Karin Hoyt",
+                "role": "PI",
+                "email": "hoyt.89@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3508",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Karin Hoyt",
+                "role": "PI",
+                "email": "hoyt.89@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3696",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lauren Nicole Feyh",
+                "role": "PI",
+                "email": "feyh.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4450",
+    "title": "Health Promotion in Practice",
+    "description": "Integration of theory and emergent perspectives and applications in health promotion. Students will demonstrate their understanding and application through development of a grant proposal.\nPrereq: 3400, and admission to the Health Sciences program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "HTHRHSC 3400",
+          "and admission to the Health Sciences program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4450",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3345",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brett Stephen Nickerson",
+                "role": "PI",
+                "email": "nickerson.68@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 1100.01",
+    "title": "Health and Rehabilitation Sciences Survey",
+    "description": "Introduction to the University, the School of Health and Rehabilitation Sciences and its academic programs. Emphasis on strategies for success, resources and procedures.\nPrereq: Must be enrolled in Pre-HthRhSc. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Must be enrolled in Pre-HthRhSc"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.01",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "3019",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 001",
+            "room": "001",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Drake D. Hankins",
+                "role": "PI",
+                "email": "hankins.178@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3653",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 014",
+            "room": "014",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joe Lines",
+                "role": "PI",
+                "email": "lines.14@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3020",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 155",
+            "room": "155",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Darby Hare",
+                "role": "PI",
+                "email": "hare.115@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 1100.01H",
+    "title": "Health and Rehabilitation Sciences Honors Survey",
+    "description": "Introduction to the University, the School of Health and Rehabilitation Sciences and its academic programs. Emphasis on strategies for success, resources and procedures. Additional emphasis on requirements for Honors participation.\nPrereq: Honors standing, and enrollment in Pre-HthRhSc. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "Pre-HthRhSc"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.01H",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "3290",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 155",
+            "room": "155",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Darby Hare",
+                "role": "PI",
+                "email": "hare.115@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 1100.02",
+    "title": "Health and Rehabilitation Sciences Survey - Transfer Student",
+    "description": "This course is designed for new transfer students to take in their first semester at Ohio State. Introduce them to the policies and procedures, HRS majors, and to develop an academic plan to be eligible to apply to their intended HRS major. \nPrereq: Enrollment in Pre-HthRhSc. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Pre-HthRhSc"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.02",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "3334",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Darby Hare",
+                "role": "PI",
+                "email": "hare.115@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4320",
+    "title": "Clinical Interviewing & Risk Assessment in Healthcare",
+    "description": "Identification and prevalence of health risk behaviors and application of interviewing and counseling techniques designed to affect behavior change incorporating wellness and prevention strategies.\nPrereq: 3400, Psych 1100, and admission to School of Health and Rehabilitation Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "HTHRHSC 3400",
+          "Psych 1100",
+          "and admission to School of Health and Rehabilitation Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4320",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3392",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:00 am",
+            "end_time": "11:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Holly Estes-Doetsch",
+                "role": "PI",
+                "email": "estes-doetsch.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4914",
+    "title": "Group Education Process in Healthcare",
+    "description": "Health care process: Principles of group education and health counseling as applied to responsibilities of the health care practitioner.\nPrereq: 3400, and admission to the Health Sciences program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "HTHRHSC 3400",
+          "and admission to the Health Sciences program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4914",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3602",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sarah Jane Rusnak",
+                "role": "PI",
+                "email": "rusnak.38@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 1100.02",
+    "title": "Health and Rehabilitation Sciences Survey - Transfer Student",
+    "description": "This course is designed for new transfer students to take in their first semester at Ohio State. Introduce them to the policies and procedures, HRS majors, and to develop an academic plan to be eligible to apply to their intended HRS major. \nPrereq: Enrollment in Pre-HthRhSc. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Pre-HthRhSc"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100.02",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "3334",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Darby Hare",
+                "role": "PI",
+                "email": "hare.115@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 5900E",
+    "title": "Health Sciences Research: Interpretation and Applications",
+    "description": "Overview of research in the Health Sciences. This course is intended to prepare students to be educated consumers of research and to enable them to find, understand, interpret, and apply research findings in their professional practice.\nPrereq: Honors standing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5900E",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3051",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jill Clutter",
+                "role": "PI",
+                "email": "clutter.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4600S",
+    "title": "Health after Mid-Life",
+    "description": "Study of physical, psychological, and social components of normal aging and chronic disease for optimal aging; open to students interested in career in aging.\r\nPrereq: Not open to students with credit for AlliMed 665.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "AlliMed 665"
+      ]
+    },
+    "catalog_number": "4600S",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3044",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "4:30 pm",
+            "end_time": "6:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lauren Nicole Feyh",
+                "role": "PI",
+                "email": "feyh.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4700",
+    "title": "Global Aging",
+    "description": "Study of health and well-being of older adults in developed and developing countries and immigrant communities with the exploration of impact and requirements within the lived environment.\nGE theme lived environments course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4700",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3519",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jessica Lynn Schoen",
+                "role": "PI",
+                "email": "schoen.68@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4193",
+    "title": "Undergraduate Independent Study",
+    "description": "Guided study of selected topics.\r\nRepeatable to a maximum of 15 cr hrs or 10 completions. This course is progress graded (S/U).",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4193",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3168",
+        "section": "0010",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Georgianna G Sergakis",
+                "role": "PI",
+                "email": "sergakis.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3169",
+        "section": "0020",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Taylor",
+                "role": "PI",
+                "email": "taylor.1043@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3170",
+        "section": "0030",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Claire Eastment Bollinger",
+                "role": "PI",
+                "email": "bollinger.69@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3171",
+        "section": "0040",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emily S Patterson",
+                "role": "PI",
+                "email": "patterson.150@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3172",
+        "section": "0050",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Colleen Kelleher Spees",
+                "role": "PI",
+                "email": "spees.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3173",
+        "section": "0060",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Crystal Leigh Dunlevy",
+                "role": "PI",
+                "email": "dunlevy.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3175",
+        "section": "0070",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristen Roberts",
+                "role": "PI",
+                "email": "roberts.1467@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3177",
+        "section": "0080",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maryanna D Klatt",
+                "role": "PI",
+                "email": "klatt.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3178",
+        "section": "0090",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "11:30 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "D Michele Basso",
+                "role": "PI",
+                "email": "basso.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3179",
+        "section": "0100",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Laurie Ann Rinehart-Thompson",
+                "role": "PI",
+                "email": "rinehart-thompson.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3180",
+        "section": "0110",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Holly Estes-Doetsch",
+                "role": "PI",
+                "email": "estes-doetsch.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3181",
+        "section": "0120",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jill Clutter",
+                "role": "PI",
+                "email": "clutter.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3182",
+        "section": "0130",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carmen D DiGiovine",
+                "role": "PI",
+                "email": "digiovine.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3183",
+        "section": "0140",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3184",
+        "section": "0150",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mike Casto",
+                "role": "PI",
+                "email": "casto.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3185",
+        "section": "0160",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jill Cathleen Heathcock",
+                "role": "PI",
+                "email": "heathcock.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3186",
+        "section": "0170",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Arthur Onate",
+                "role": "PI",
+                "email": "onate.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3187",
+        "section": "0180",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy Lynn Bannerman",
+                "role": "PI",
+                "email": "bannerman.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3188",
+        "section": "0190",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Nicholas T Funderburg",
+                "role": "PI",
+                "email": "funderburg.20@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3189",
+        "section": "0200",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sarah Varekojis",
+                "role": "PI",
+                "email": "varekojis.16@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3310",
+        "section": "0210",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3311",
+        "section": "0220",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3338",
+        "section": "0230",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Allison DAWN Stokes",
+                "role": "PI",
+                "email": "stokes.215@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3353",
+        "section": "240",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3361",
+        "section": "260",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ajit Mohan Chaudhari",
+                "role": "PI",
+                "email": "chaudhari.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3471",
+        "section": "270",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3419",
+        "section": "0280",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ingrid Adams",
+                "role": "PI",
+                "email": "adams.2890@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3704",
+        "section": "0320",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3705",
+        "section": "0330",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4200",
+    "title": "Analytical Scientific Writing in Health and Rehabilitation Sciences",
+    "description": "This course introduces students to the scientific writing process by exploring data analysis techniques, developing analytical and critical skills to comprehend evidence, synthesizing research design and outcomes, and finally, written communication of the scientific rigor of evidence to advance clinical practice in healthcare.\nPrereq: Enrollment in the School of Health and Rehabilitation Sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in the School of Health and Rehabilitation Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3603",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3604",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Megan Nicole Bane",
+                "role": "PI",
+                "email": "bane.16@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "HTHRHSC 4191",
+    "title": "CARESTREAM: An Immersive Experience in Healthcare Delivery and Improvement",
+    "description": "This is an experiential learning course that includes two credit hours of coursework and one credit hour of experiential learning at The Ohio State University Wexner Medical Center. Students will receive a combination of coursework and field training to learn about the hospital system, patient interaction, professionalism, and inter-professional care. All students must be in good academic standing. To participate in the experiential learnings, students must comply with all requirements for clinical students as outlined in the Clinical Education Affiliation Agreement between the School of Health & Rehabilitation Sciences and the Ohio State University Wexner Medical Center. This includes providing proof of vaccinations, negative tuberculosis testing, negative drug test, and passing a background check (as part of medical center ID processing).\nRepeatable to a maximum of 12 cr hrs.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4191",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3665",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Patrick Crick",
+                "role": "PI",
+                "email": "crick.6@osu.edu"
+              },
+              {
+                "name": "Gabriel Alain",
+                "role": "PI",
+                "email": "alain.3@osu.edu"
+              },
+              {
+                "name": "Erin Michelle Thomas",
+                "role": "PI",
+                "email": "thomas.1668@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3666",
+        "section": "0020",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "9:00 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Patrick Crick",
+                "role": "PI",
+                "email": "crick.6@osu.edu"
+              },
+              {
+                "name": "Gabriel Alain",
+                "role": "PI",
+                "email": "alain.3@osu.edu"
+              },
+              {
+                "name": "Erin Michelle Thomas",
+                "role": "PI",
+                "email": "thomas.1668@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3667",
+        "section": "0040",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "9:00 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Patrick Crick",
+                "role": "PI",
+                "email": "crick.6@osu.edu"
+              },
+              {
+                "name": "Gabriel Alain",
+                "role": "PI",
+                "email": "alain.3@osu.edu"
+              },
+              {
+                "name": "Erin Michelle Thomas",
+                "role": "PI",
+                "email": "thomas.1668@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3668",
+        "section": "0050",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:00 pm",
+            "end_time": "3:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Patrick Crick",
+                "role": "PI",
+                "email": "crick.6@osu.edu"
+              },
+              {
+                "name": "Gabriel Alain",
+                "role": "PI",
+                "email": "alain.3@osu.edu"
+              },
+              {
+                "name": "Erin Michelle Thomas",
+                "role": "PI",
+                "email": "thomas.1668@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3669",
+        "section": "0060",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "9:00 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Patrick Crick",
+                "role": "PI",
+                "email": "crick.6@osu.edu"
+              },
+              {
+                "name": "Gabriel Alain",
+                "role": "PI",
+                "email": "alain.3@osu.edu"
+              },
+              {
+                "name": "Erin Michelle Thomas",
+                "role": "PI",
+                "email": "thomas.1668@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3670",
+        "section": "0070",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "1:00 pm",
+            "end_time": "3:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Patrick Crick",
+                "role": "PI",
+                "email": "crick.6@osu.edu"
+              },
+              {
+                "name": "Gabriel Alain",
+                "role": "PI",
+                "email": "alain.3@osu.edu"
+              },
+              {
+                "name": "Erin Michelle Thomas",
+                "role": "PI",
+                "email": "thomas.1668@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "3671",
+        "section": "0080",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "9:00 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Patrick Crick",
+                "role": "PI",
+                "email": "crick.6@osu.edu"
+              },
+              {
+                "name": "Gabriel Alain",
+                "role": "PI",
+                "email": "alain.3@osu.edu"
+              },
+              {
+                "name": "Erin Michelle Thomas",
+                "role": "PI",
+                "email": "thomas.1668@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

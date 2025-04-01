@@ -1,0 +1,722 @@
+[
+  {
+    "course": "PORTGSE 5650",
+    "title": "Studies in Literatures and Cultures of the Portuguese-Speaking World",
+    "description": "Intensive exploration of a specific topic or problem; topic varies, for example: modern Brazilian novel, Luso-African literature, Portuguese poetry since 1974.\nPrereq: 3450 (P450) and one 4500 (500) level literature and/or culture course; or 5502 (502) and Grad standing; or permission of instructor. Not open to students with credit for 650. Repeatable to a maximum of 9 cr hrs.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "P 450",
+          "P 5502",
+          "P 502",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "650"
+      ]
+    },
+    "catalog_number": "5650",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35770",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 291",
+            "room": "291",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Isis Barra Costa",
+                "role": "PI",
+                "email": "barracosta.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PORTGSE 1101.01",
+    "title": "Portuguese I",
+    "description": "Development of listening, reading, speaking, and writing skills in cultural contexts. Both classroom-based and 100% online sections available each semester. Not open to native speakers of this language through regular course enrollment or EM credit.\nPrereq: Not open to students with credit for 1102.01 or 1103.01 or equiv. This course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1102"
+      ]
+    },
+    "catalog_number": "1101.01",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "27034",
+        "section": "1",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 204",
+            "room": "204",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28446",
+        "section": "2",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ana Carolina dos Santos Marques",
+                "role": "PI",
+                "email": "dossantosmarques.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PORTGSE 1102.01",
+    "title": "Portuguese II",
+    "description": "Development of listening, reading, speaking, and writing skills in cultural contexts. Both classroom-based and 100% online sections available each semester. Not open to native speakers of this language through regular course enrollment or EM credit.\nPrereq: 1101.01 or 1101.51. Not open to students with credit for 1102.51 or 5501. This course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PORTGSE 1101"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1102"
+      ]
+    },
+    "catalog_number": "1102.01",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "28447",
+        "section": "1",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 204",
+            "room": "204",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24461",
+        "section": "2",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PORTGSE 4193",
+    "title": "Individual Studies",
+    "description": "Individual studies.\r\nPrereq: Portgese 3401 (Portgse 401), 3402 (402), 3403 (403); or 5502 (502) and Grad standing; or permission of instructor. Repeatable to a maximum of 59 cr hrs or 16 completions. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Portgese 3401",
+          "Portgese 3402",
+          "Portgese 402",
+          "Portgese 3403",
+          "Portgese 403",
+          "Portgese 5502",
+          "Portgese 502",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4193",
+    "term": "Autumn 2025",
+    "units": 9,
+    "sections": [
+      {
+        "class_number": "20474",
+        "section": "0010",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PORTGSE 5650",
+    "title": "Studies in Literatures and Cultures of the Portuguese-Speaking World",
+    "description": "Intensive exploration of a specific topic or problem; topic varies, for example: modern Brazilian novel, Luso-African literature, Portuguese poetry since 1974.\nPrereq: 3450 (P450) and one 4500 (500) level literature and/or culture course; or 5502 (502) and Grad standing; or permission of instructor. Not open to students with credit for 650. Repeatable to a maximum of 9 cr hrs.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "P 450",
+          "P 5502",
+          "P 502",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "650"
+      ]
+    },
+    "catalog_number": "5650",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35770",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 291",
+            "room": "291",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Isis Barra Costa",
+                "role": "PI",
+                "email": "barracosta.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PORTGSE 5650",
+    "title": "Studies in Literatures and Cultures of the Portuguese-Speaking World",
+    "description": "Intensive exploration of a specific topic or problem; topic varies, for example: modern Brazilian novel, Luso-African literature, Portuguese poetry since 1974.\nPrereq: 3450 (P450) and one 4500 (500) level literature and/or culture course; or 5502 (502) and Grad standing; or permission of instructor. Not open to students with credit for 650. Repeatable to a maximum of 9 cr hrs.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "P 450",
+          "P 5502",
+          "P 502",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "650"
+      ]
+    },
+    "catalog_number": "5650",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35770",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 291",
+            "room": "291",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Isis Barra Costa",
+                "role": "PI",
+                "email": "barracosta.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PORTGSE 4193",
+    "title": "Individual Studies",
+    "description": "Individual studies.\r\nPrereq: Portgese 3401 (Portgse 401), 3402 (402), 3403 (403); or 5502 (502) and Grad standing; or permission of instructor. Repeatable to a maximum of 59 cr hrs or 16 completions. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Portgese 3401",
+          "Portgese 3402",
+          "Portgese 402",
+          "Portgese 3403",
+          "Portgese 403",
+          "Portgese 5502",
+          "Portgese 502",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4193",
+    "term": "Autumn 2025",
+    "units": 9,
+    "sections": [
+      {
+        "class_number": "20474",
+        "section": "0010",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PORTGSE 1103",
+    "title": "Portuguese III",
+    "description": "Continued development of listening, reading, speaking, and writing skills in cultural contexts. Both classroom-based and 100% online sections available. Not open to native speakers of this language through regular course enrollment or EM credit.\nPrereq: 1102.01. Not open to students with credit for 5501 or 5502. This course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PORTGSE 1102"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5501",
+        "5502"
+      ]
+    },
+    "catalog_number": "1103",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "35840",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 204",
+            "room": "204",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PORTGSE 3402",
+    "title": "Portuguese Reading and Listening",
+    "description": "Development of students' reading and listening skills through newspapers, magazines, radio and TV stories, and newscasts. Not open to native speakers of this language through regular course enrollment or EM credit.\nPrereq: 1103, or 5502, or Portuguese Seal of Biliteracy; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PORTGSE 1103",
+          "PORTGSE 5502",
+          "Portuguese Seal of Biliteracy;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3402",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35774",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 012",
+            "room": "012",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Isis Barra Costa",
+                "role": "PI",
+                "email": "barracosta.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PORTGSE 1101.01",
+    "title": "Portuguese I",
+    "description": "Development of listening, reading, speaking, and writing skills in cultural contexts. Both classroom-based and 100% online sections available each semester. Not open to native speakers of this language through regular course enrollment or EM credit.\nPrereq: Not open to students with credit for 1102.01 or 1103.01 or equiv. This course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1102"
+      ]
+    },
+    "catalog_number": "1101.01",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "27034",
+        "section": "1",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 204",
+            "room": "204",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28446",
+        "section": "2",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ana Carolina dos Santos Marques",
+                "role": "PI",
+                "email": "dossantosmarques.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PORTGSE 1102.01",
+    "title": "Portuguese II",
+    "description": "Development of listening, reading, speaking, and writing skills in cultural contexts. Both classroom-based and 100% online sections available each semester. Not open to native speakers of this language through regular course enrollment or EM credit.\nPrereq: 1101.01 or 1101.51. Not open to students with credit for 1102.51 or 5501. This course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PORTGSE 1101"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1102"
+      ]
+    },
+    "catalog_number": "1102.01",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "28447",
+        "section": "1",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 204",
+            "room": "204",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24461",
+        "section": "2",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

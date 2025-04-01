@@ -1,0 +1,624 @@
+[
+  {
+    "course": "MEDLBS 5055",
+    "title": "Medical Laboratory Hematology Laboratory",
+    "description": "Theory and application of clinical laboratory procedures used to identify and evaluate the formed elements of the blood and hemostatic mechanisms in health and disease.\nConcur: 4400 and 4405, and admission to Medical Laboratory Science program or Medical Laboratory Science certificate program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "MEDLBS 4400",
+          "MEDLBS 4405",
+          "and admission to Medical Laboratory Science program",
+          "Medical Laboratory Science certificate program;",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5055",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "3059",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Atwell Hall",
+            "building": "Atwell Hall 540",
+            "room": "540",
+            "start_time": "8:00 am",
+            "end_time": "10:45 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Morgan Michelle Cummings",
+                "role": "PI",
+                "email": "cummings.383@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDLBS 5055",
+    "title": "Medical Laboratory Hematology Laboratory",
+    "description": "Theory and application of clinical laboratory procedures used to identify and evaluate the formed elements of the blood and hemostatic mechanisms in health and disease.\nConcur: 4400 and 4405, and admission to Medical Laboratory Science program or Medical Laboratory Science certificate program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "MEDLBS 4400",
+          "MEDLBS 4405",
+          "and admission to Medical Laboratory Science program",
+          "Medical Laboratory Science certificate program;",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5055",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "3059",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Atwell Hall",
+            "building": "Atwell Hall 540",
+            "room": "540",
+            "start_time": "8:00 am",
+            "end_time": "10:45 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Morgan Michelle Cummings",
+                "role": "PI",
+                "email": "cummings.383@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDLBS 4700",
+    "title": "Molecular Techniques in Medical Laboratory Science",
+    "description": "Theory and clinical applications of molecular techniques used in medical laboratory science.\nPrereq: 4000, 4050, 4100, and MolGen 4500, and admission to Medical Laboratory Science online MLT Articulation Program; or permission of instructor. Prereq or concur: 4250 and 4300.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MEDLBS 4000",
+          "MEDLBS 4050",
+          "MEDLBS 4100",
+          "MolGen 4500",
+          "and admission to Medical Laboratory Science online MLT Articulation Program;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MEDLBS 4250",
+          "MEDLBS 4300"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4700",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36984",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy Lynn Bannerman",
+                "role": "PI",
+                "email": "bannerman.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDLBS 5050E",
+    "title": "Medical Laboratory Hematology",
+    "description": "Theory and application of clinical laboratory procedures used to identify and evaluate the formed elements of the blood and hemostatic mechanisms in health and disease.\r\nPrereq: Honors standing, and admission to Medical Laboratory Science program; or permission of instructor. Not open to students with credit for MedTech 510.01.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "and admission to Medical Laboratory Science program;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "MedTech 510"
+      ]
+    },
+    "catalog_number": "5050E",
+    "term": "Autumn 2025",
+    "units": 5,
+    "sections": [
+      {
+        "class_number": "3546",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "12:10 pm",
+            "end_time": "2:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Morgan Michelle Cummings",
+                "role": "PI",
+                "email": "cummings.383@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Morgan Michelle Cummings",
+                "role": "PI",
+                "email": "cummings.383@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDLBS 5055",
+    "title": "Medical Laboratory Hematology Laboratory",
+    "description": "Theory and application of clinical laboratory procedures used to identify and evaluate the formed elements of the blood and hemostatic mechanisms in health and disease.\nConcur: 4400 and 4405, and admission to Medical Laboratory Science program or Medical Laboratory Science certificate program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "MEDLBS 4400",
+          "MEDLBS 4405",
+          "and admission to Medical Laboratory Science program",
+          "Medical Laboratory Science certificate program;",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5055",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "3059",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Atwell Hall",
+            "building": "Atwell Hall 540",
+            "room": "540",
+            "start_time": "8:00 am",
+            "end_time": "10:45 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Morgan Michelle Cummings",
+                "role": "PI",
+                "email": "cummings.383@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDLBS 5690",
+    "title": "Advanced Topics in Medical Laboratory Science",
+    "description": "Introduction to skills and resources necessary to enhance professional development and facilitate professional goal setting.\nPrereq: Enrollment in Medical Laboratory Science program, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Medical Laboratory Science program",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5690",
+    "term": "Autumn 2025",
+    "units": 5,
+    "sections": [
+      {
+        "class_number": "3357",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy Lynn Bannerman",
+                "role": "PI",
+                "email": "bannerman.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDLBS 5600",
+    "title": "Interdisciplinary Studies in Medical Laboratory Science",
+    "description": "The application of medical laboratory science in interdisciplinary settings.\r\nPrereq: All Medical Laboratory Science certification track required courses except for MedLbS 5089. Repeatable to a maximum of 5 cr hrs or 5 completions. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MedLbS 5089"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5600",
+    "term": "Autumn 2025",
+    "units": 5,
+    "sections": [
+      {
+        "class_number": "3212",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jessica M Mantini",
+                "role": "PI",
+                "email": "mantini.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDLBS 5089",
+    "title": "Clinical Practice in Medical Laboratory Science",
+    "description": "Application of medical laboratory technique under supervision in clinical laboratories or other non-hospital laboratory settings.\nPrereq: All courses required in the Medical Laboratory Science Certification curriculum except 5600 and 5350. Repeatable to a maximum of 20 cr hrs or 4 completions. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MEDLBS 5600",
+          "MEDLBS 5350"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5089",
+    "term": "Autumn 2025",
+    "units": 10,
+    "sections": [
+      {
+        "class_number": "3303",
+        "section": "0010",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amanda Loch",
+                "role": "PI",
+                "email": "loch.38@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDLBS 5089",
+    "title": "Clinical Practice in Medical Laboratory Science",
+    "description": "Application of medical laboratory technique under supervision in clinical laboratories or other non-hospital laboratory settings.\nPrereq: All courses required in the Medical Laboratory Science Certification curriculum except 5600 and 5350. Repeatable to a maximum of 20 cr hrs or 4 completions. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MEDLBS 5600",
+          "MEDLBS 5350"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5089",
+    "term": "Autumn 2025",
+    "units": 10,
+    "sections": [
+      {
+        "class_number": "3303",
+        "section": "0010",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amanda Loch",
+                "role": "PI",
+                "email": "loch.38@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDLBS 5100",
+    "title": "Medical Laboratory Microbiology I",
+    "description": "Introduce medical mycology, parasitology, and virology in the aspects of fundamental epidemiology, disease transmission routes, clinical correlation of microbial diseases, as well as diagnostic tests to identify commonly encountered and clinically important viruses, fungi and parasites.\nPrereq: Admission to Medical Laboratory Science program, or Medical Laboratory Science certificate program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Admission to Medical Laboratory Science program",
+          "Medical Laboratory Science certificate program;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3308",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy Lynn Bannerman",
+                "role": "PI",
+                "email": "bannerman.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDLBS 5105",
+    "title": "Medical Laboratory Microbiology I Laboratory",
+    "description": "The theory and application of clinical laboratory procedures used to identify fungi, parasites, and viruses pathogenic to humans.\nPrereq: Admission to Medical Laboratory Science Program or Medical Laboratory Science certificate program, or permission of instructor. Concur: 4400 and 4405.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Admission to Medical Laboratory Science Program",
+          "Medical Laboratory Science certificate program",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MEDLBS 4400",
+          "MEDLBS 4405"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5105",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "3309",
+        "section": "10",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Atwell Hall",
+            "building": "Atwell Hall 540",
+            "room": "540",
+            "start_time": "8:00 am",
+            "end_time": "10:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy Lynn Bannerman",
+                "role": "PI",
+                "email": "bannerman.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

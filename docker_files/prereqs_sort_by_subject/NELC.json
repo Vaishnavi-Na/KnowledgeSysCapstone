@@ -1,0 +1,325 @@
+[
+  {
+    "course": "NELC 2241",
+    "title": "The Middle East Close-Up: People, Cultures, Societies",
+    "description": "Introduction to the culture of the Middle East as lived in its villages, towns, and cities.\nPrereq: Not open to students with credit for Anthrop 2241. GE cultures and ideas and diversity global studies course. GE foundation historical and cultural studies and race, ethnicity and gender div course. Cross-listed in Anthrop.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "Anthrop 2241"
+      ]
+    },
+    "catalog_number": "2241",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35650",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 1080",
+            "room": "1080",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Nathan Paul Young",
+                "role": "PI",
+                "email": "young.2278@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Nathan Paul Young",
+                "role": "PI",
+                "email": "young.2278@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NELC 2244",
+    "title": "Films of the Middle East",
+    "description": "Overview of contemporary films from different Middle Eastern countries; how filmmakers of the region view, present, and construct their countries using particular modes of representation.\nPrereq: English 1110; or GE foundation writing and info literacy course. GE VPA and diversity global studies course. GE theme lived environments course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110",
+          "GE foundation writing and info literacy course"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2244",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36735",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mehrak Kamali Sarvestani",
+                "role": "PI",
+                "email": "kamalisarvestani.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NELC 1125",
+    "title": "Stories of Belonging and Difference in the Middle East and South Asia",
+    "description": "This course will read and analyze a variety of short stories to illuminate different cultures of the Middle East and South Asia. The goal of the course is to introduce students to diverse cultures through literature. Students will be become familiar with a variety of literary representations, social structures and religious, ethnic and racial diversity after the completion of this course.\nGE lit and diversity global studies course. GE foundation race, ethnicity and gender div course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1125",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35648",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 062",
+            "room": "062",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NELC 3700",
+    "title": "Mythology of Ancient Egypt and Mesopotamia",
+    "description": "An introductory comparative survey of the mythology of ancient Egypt and Mesopotamia.\nPrereq: English 1110, or GE foundation writing and info literacy course. GE cultures and ideas and diversity global studies course. GE theme lived environments course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110",
+          "GE foundation writing and info literacy course"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3700",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27065",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 174",
+            "room": "174",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sarah Schellinger",
+                "role": "PI",
+                "email": "schellinger.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NELC 3111",
+    "title": "Ancient Empires",
+    "description": "This is an introduction to the history and cultures of the ancient empires of southwestern Asia, focusing on the period from the Akkadian empire to the establishment of Islam (ca 2340 BCE - ca 750 CE).\nPrereq: English 1110. GE historical study course. GE foundation historical and cultural studies course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3111",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36417",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cockins Hall",
+            "building": "Cockins Hall 312",
+            "room": "312",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sarah Schellinger",
+                "role": "PI",
+                "email": "schellinger.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NELC 3667",
+    "title": "Messages from Beyond: Divination, Prophecy, and the Occult in Religion and Culture",
+    "description": "In this course, we will explore how people from antiquity to our time have sought to find meaning in the complexity and uncertainty around their physical and social environment to access what they perceived as hidden realms as sources of meaning. Students will learn how messages from beyond guide their daily lives, provide them with sources of authority or companionship for their art of philosophy. \nPrereq: Not open to students with credit for RelStds 3667. GE theme lived environments course. Cross-listed in RelStds.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "RelStds 3667"
+      ]
+    },
+    "catalog_number": "3667",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27775",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 050",
+            "room": "050",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Daniel Frank",
+                "role": "PI",
+                "email": "frank.152@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
