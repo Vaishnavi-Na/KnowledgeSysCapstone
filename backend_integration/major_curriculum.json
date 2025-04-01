@@ -1,9 +1,51 @@
 {
-    "general": [
+    "engineering": [
+        ["Math 1151"],
+        ["Math 1172"],
         ["Physics 1250"],
+        ["ENGR 1181.01", "ENGR 1181.02"],
+        ["ENGR 1182.01", "ENGR 1182.02", "ENGR 1182.03", "ENGR 1182.04"],
+        ["ENGR 1100.01"]
+    ],
+    "MajorCore": [
         ["CSE 2221"],
         ["CSE 2231"],
-        ["CSE 2501", "PHILOS 2338"]
+        ["CSE 2321"],
+        ["CSE 2331"],
+        ["CSE 2421"],
+        ["CSE 2431"],
+        ["CSE 3341"],
+        ["CSE 2501", "PHILOS 2338"],
+        ["CSE 3901", "CSE 3902", "CSE 3903"],
+        ["CSE 3231", "CSE 3241"],
+        ["CSE 3421", "CSE 3461"],
+        ["CSE 3521", "CSE 3541"],
+        ["CSE 5911", "CSE 5912", "CSE 5913", "CSE 5914", "CSE 5915", "CSE 5916"]
+    ],
+    "NonMajor": [
+        ["ECE 2020"],
+        ["ECE 2060"],
+        ["MATH 2568"],
+        ["MATH 3345"],
+        ["STAT 3470"],
+        [{"ANTHROP 2200": 4}, {"BIOLOGY 1113.01": 4}, {"BIOLOGY 1113.01": 5}, {"BIOLOGY 1113E": 4},
+        {"BIOLOGY 1113H": 4}, {"BIOLOGY 1114.01": 4}, {"BIOLOGY 1114.02": 5}, {"BIOLOGY 1114E": 4},
+        {"BIOLOGY 1114H": 5}, {"CHEM 1206": 3}, {"CHEM 1208": 4}, {"CHEM 1210": 5}, 
+        {"CHEM 1220": 5}, {"CHEM 1250": 4}, {"EARTHSC 1121": 3}, {"EARTHSC 1151": 3}, 
+        {"EARTHSC 1200": 1}, {"EARTHSC 2122": 4}, {"EARTHSC 2911": 4}, {"EEOB 2911": 4}, 
+        {"HISTORY 2911": 4}, {"ENR 2100": 3}, {"ENR 2101": 1}, {"ENR 3000": 3}, {"ENR 3001": 1}, {"ENTMLGY 4600": 1}, 
+        {"FDSCTE 2200": 3}, {"GEOG 1900": 4}, {"GEOG 3900.01": 3}, {"HCS 2201": 4}, {"HCS 2202": 4}, 
+        {"MATH 2255": 3}, {"MATH 2415": 3}, {"MATH 2153": 4}, {"MATH 2162.01": 5}, {"MATH 2162.02": 5}, 
+        {"MATH 2173": 3}, {"MATH 2177": 4}, {"PHYSICS 1251": 5}, {"PHYSICS 1261": 5}, 
+        {"PHYSICS 1271": 5}, {"STAT 4201": 4}, {"STAT 5301": 4}]
+    ],
+    "CareerCourses": [
+        [],
+        []
+    ],
+    "GenEd": [
+        ["GENED 1201"],
+        []
     ],
     "AIT": [
         ["CSE 3521"],
