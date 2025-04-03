@@ -1,0 +1,349 @@
+[
+  {
+    "avgDifficulty": 3,
+    "avgRating": 1.9,
+    "department": "Biomedical Engineering",
+    "firstName": "Ben",
+    "lastName": "Walter",
+    "legacyId": 2461468,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 0,
+        "rating": null,
+        "comment": "I felt dismissed every time I asked a question, and he was not very helpful overall. If you need assistance with the homework, your best bet is to attend the TA's office hours."
+      },
+      {
+        "index": 1,
+        "rating": null,
+        "comment": "terrible lecturers, extremely confusing and contradicts himself. Gets out of breath talking and stumbles over words which makes it extremely hard to concentrate and understand the material presented. Homework is difficult and graded harshly"
+      },
+      {
+        "index": 2,
+        "rating": null,
+        "comment": "He is nice and everything but when he taught it almost seemed as if he had never seen the information on the slide prior to presenting in front of the class. Sometimes when you'd ask questions he would not know how to answer or help. The class was just not enjoyable (very boring) and the homework was ridiculously hard unless you went to the TAs"
+      },
+      {
+        "index": 3,
+        "rating": null,
+        "comment": "It felt like he was just very nervous to lecture in front of people which made lectures jumbled and confusing. If you ask questions before or after lectures, he was much more helpful."
+      },
+      {
+        "index": 4,
+        "rating": null,
+        "comment": "Try to avoid. Hard to do at OSU. Just doesn't really seem to know what he's talking about. Will blast music while you're trying to focus and grade homework on a few things."
+      },
+      {
+        "index": 5,
+        "rating": null,
+        "comment": "Bad"
+      },
+      {
+        "index": 6,
+        "rating": null,
+        "comment": "Does not present in a cohesive and meaningful way,. Will often get things wrong and contradict himself on homework/lectures, and it falls on the student to reach out and correct him."
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.5,
+    "department": "Biomedical Engineering",
+    "firstName": "Daniel",
+    "lastName": "Conway",
+    "legacyId": 3011718,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 0,
+        "rating": "5.0",
+        "comment": "He was always really chill and laid back with homework assignments and deadline. he used a lot of real life applications in class and also will respond to emails quickly."
+      },
+      {
+        "index": 1,
+        "rating": "4.0",
+        "comment": "Conway is SO funny and made the class very entertaining bc it is a lot of lecturing. Was good about grading and basically we convinced him to drop a quiz. No midterms or final but about 6 quizzes - averages went up through the semester. Final paper and presentation w/ group wasn't that hard either. HW & some class stuff was graded but had 2 drops."
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 1.9,
+    "department": "Biomedical Engineering",
+    "firstName": "Ben",
+    "id": "VGVhY2hlci0yNDYxNDY4",
+    "lastName": "Walter",
+    "legacyId": 2461468,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "I felt dismissed every time I asked a question, and he was not very helpful overall. If you need assistance with the homework, your best bet is to attend the TA's office hours.",
+        "course": "BME2000"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "terrible lecturers, extremely confusing and contradicts himself. Gets out of breath talking and stumbles over words which makes it extremely hard to concentrate and understand the material presented. Homework is difficult and graded harshly",
+        "course": "BME2000"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "He is nice and everything but when he taught it almost seemed as if he had never seen the information on the slide prior to presenting in front of the class. Sometimes when you'd ask questions he would not know how to answer or help. The class was just not enjoyable (very boring) and the homework was ridiculously hard unless you went to the TAs ",
+        "course": "BME2000"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "It felt like he was just very nervous to lecture in front of people which made lectures jumbled and confusing. If you ask questions before or after lectures, he was much more helpful.",
+        "course": "BME2000"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Try to avoid. Hard to do at OSU. Just doesn't really seem to know what he's talking about. Will blast music while you're trying to focus and grade homework on a few things.",
+        "course": "BME2000"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Bad\n",
+        "course": "BME2000"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Does not present in a cohesive and meaningful way,. Will often get things wrong and contradict himself on homework/lectures, and it falls on the student to reach out and correct him.",
+        "course": "BME2000"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 2,
+    "department": "Biomedical Engineering",
+    "firstName": "Alexis",
+    "id": "VGVhY2hlci0yNzg5MTU0",
+    "lastName": "Ortiz-Rosario",
+    "legacyId": 2789154,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Rude and condescending in office hours, constantly late to class and kind of awkward to talk to.",
+        "course": "BME2700"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Strange guy but decent professor and kind, clearly cares about BME. He wasn't neglectful but clearly didn't really bother to fix assignments from previous semesters. Literally just half try and you'll get an A. He made it interesting for what it was (MATLAB, gross).",
+        "course": "BME2700"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.5,
+    "department": "Biomedical Engineering",
+    "firstName": "Daniel",
+    "id": "VGVhY2hlci0zMDExNzE4",
+    "lastName": "Conway",
+    "legacyId": 3011718,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He was always really chill and laid back with homework assignments and deadline. he used a lot of real life applications in class and also will respond to emails quickly.",
+        "course": "BME2000"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Conway is SO funny and made the class very entertaining bc it is a lot of lecturing. Was good about grading and basically we convinced him to drop a quiz. No midterms or final but about 6 quizzes - averages went up through the semester. Final paper and presentation w/ group wasn't that hard either. HW & some class stuff was graded but had 2 drops. ",
+        "course": "BME2200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 3.3,
+    "department": "Biomedical Engineering",
+    "firstName": "Sara",
+    "id": "VGVhY2hlci0yOTU3NDAx",
+    "lastName": "McBride-Gagyi",
+    "legacyId": 2957401,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I enjoyed this class and also Professor McBride-Gagyi's teaching style. Due to the class getting updated, things seemed a bit unorganized but she did the best with what she could. Most assignments were given to make sure you understood (multiple attempts, no time limit, etc) and was far easier than a regular anatomy class. ",
+        "course": "BIOMEDE2800"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "She means well, but comes off as incompetent. Will laugh at you if you don't understand something and goes off on tangents, giving politician answers to basic questions. Would recommend NOT taking 2800 and just taking real anatomy. Not a hard class, just a waste of time all around.",
+        "course": "BIOMEDE2800"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "This professor doesn't care about the interests of the students. Whenever a question was asked, she would laugh in the student's face and not even answer the question. Testing material was always super unclear and not guidance is really ever given. Very difficult grader as well, despite not answering questions of students.",
+        "course": "BIOMEDE2800"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. McBride-Gagyi was my favorite professor my freshman year. She is brilliant, and it was amazing to be taught by such an innovator in the field of Biomedical Engineering. She runs her own lab here at OSU and she would incorporate her findings into lecture so we could relate the material to something real. Super sweet and helpful, loved her!!",
+        "course": "BIOMEDE2800"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 3.5,
+    "department": "Biomedical Engineering",
+    "firstName": "Rachel",
+    "id": "VGVhY2hlci0yODkxMjgz",
+    "lastName": "Childers",
+    "legacyId": 2891283,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "3701 consists of doing six labs and a final project. the labs themselves are fine, doing the post labs and notebooks is a pain (a lot for a two credit hour class). the final project is rough and she's a tough grader but there's opportunity for bonus. also lecture attendance isn't mandatory but lab attendance is and you will lose points if ur late",
+        "course": "3701"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "attendance isn't mandatory but there are in-class assignments that you will get zeros for if you don't show up. she's a good lecturer and it's clear she cares about her students' success, but the TA's grade incredibly hard and will take off points for literally anything. the class itself is a lot of work but it's not super difficult",
+        "course": "2000"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.2,
+    "avgRating": 4.2,
+    "department": "Biomedical Engineering",
+    "firstName": "Lindsay",
+    "id": "VGVhY2hlci0xODM5OTk4",
+    "lastName": "Tolchin",
+    "legacyId": 1839998,
+    "numRatings": 6,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Tolchin is a great professor and advisor. She was always so accessible outside of class, and was always so sweet and considerate during advising appointments. I always met with her 1 on 1 to schedule and she has helped me so much, wouldn't be where I am now without her help. ",
+        "course": "ENGR110005"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Lindsay was a good advisor and ran the class well. She taught us a lot of things that proved to be useful navigating college. The course projection assignment was extremely helpful. Understands that survey class should be minimal effort.",
+        "course": "ENGR110003"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "Seems hate her job",
+        "course": "ENGR110003"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is very nice and understands that survey is not supposed to be a very time-consuming class. The class was fun and helpful, though sometimes I wish it wasn't required to attend because some lectures seemed pointless.",
+        "course": "ENGR110003"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Lindsay is SUPER nice and helpful, I really liked having her as my survey instructor!",
+        "course": "ENGR110003"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Awesome and very nice.",
+        "course": "ENGR110003"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.3,
+    "avgRating": 4,
+    "department": "Biomedical Engineering",
+    "firstName": "Gunjan",
+    "id": "VGVhY2hlci0yMTA5NDE5",
+    "lastName": "Agarwal",
+    "legacyId": 2109419,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Tough tests usually with a curve, heavy homeworks with busy office hours.  She is not a gifted lecturer but overall a decent teacher and decent class. I failed because I did not do the homework, kids don't fail ME 2010, its literally the one class in mecheng you cant fail. ",
+        "course": "MECHENG2010"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Dr. Agarwal set up her class to be pretty difficult. You might feel like homework problems are too hard or test are harder than expected, but she makes up for the difficulty level with curves and extra credit. Her lectures were a little hard to follow at first but you get used to it. ",
+        "course": "MECHENG2010"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She makes statics extremely easy and is very very understanding of the class's grades.",
+        "course": "BIOMEDE4110"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She's one of the most professional teachers that I have had while I've been in college for 4 and a half years.  With that said, she expects a lot from her students at the same time.  I learned a lot from this class but I would only take it if you are really interested in Bioimaging; and if you are, be prepared to work for your grade.",
+        "course": "BIOMEDE4110"
+      }
+    ],
+    "SEI": []
+  }
+]

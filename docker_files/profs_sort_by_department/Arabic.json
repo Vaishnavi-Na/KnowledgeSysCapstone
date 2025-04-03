@@ -1,0 +1,731 @@
+[
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 3.3,
+    "department": "Arabic",
+    "firstName": "Zuhair",
+    "lastName": "Alidib",
+    "legacyId": 1175107,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 0,
+        "rating": null,
+        "comment": "Terrible professor. Will embarrass and call you out on the spot. Has no rubrics or syllabus to reference on so you don't know why you got the grade you did. Don't take this course unless you have to!!!"
+      },
+      {
+        "index": 1,
+        "rating": "5.0",
+        "comment": "Super great processor. He's really funny!"
+      },
+      {
+        "index": 2,
+        "rating": "5.0",
+        "comment": "He is a really good prof!"
+      },
+      {
+        "index": 3,
+        "rating": null,
+        "comment": "Horrible teacher. doesn't care if you do well, only cares about filling he next semester class with students. he will ask you to tell your friends to take he class. he only spends 2 days on each chapter of the French book so you learn the alphabet in French in 2 days. and then he gives you a 300 point test the next class over everything."
+      },
+      {
+        "index": 4,
+        "rating": null,
+        "comment": "don't take this teacher.he never gives test when they are scheduled, you just show up to class and hes like \" oh. we will take it next class\" after you have studied for day's. he also don't explain thing properly and the examples he give don't help you in class. everyone I talked to told me not to take him. and I didn't believe them, but now I do"
+      },
+      {
+        "index": 5,
+        "rating": "5.0",
+        "comment": "I totally recommend his class, very knowledgeable and super helpful and clear lecture. In order to receive good great need to work a bit harder to earn it. He is funny and like to listen to others when they have questions and also far with grading. My favorite professor ever.. I would take his class again !"
+      },
+      {
+        "index": 6,
+        "rating": null,
+        "comment": "try to avoid him if possible!even tho he loves discussions, hes really closed minded, basically forces u to believe in what he believes in. lenient towards ppl he knows (esp girls) and harsh on the rest. u actually have to work super hard to get an A."
+      },
+      {
+        "index": 7,
+        "rating": "4.5",
+        "comment": "really funny and very easy to get good grades with  an open attitude and a little hard work"
+      },
+      {
+        "index": 8,
+        "rating": "4.0",
+        "comment": "easy professor if you have a interest or background in Arabic. very helpful!"
+      },
+      {
+        "index": 9,
+        "rating": "4.5",
+        "comment": "Great Prof who will help you a lot"
+      },
+      {
+        "index": 10,
+        "rating": "5.0",
+        "comment": "He is best Professor i ever had"
+      },
+      {
+        "index": 11,
+        "rating": null,
+        "comment": "No Comments"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 3.3,
+    "department": "Arabic",
+    "firstName": "Zuhair",
+    "id": "VGVhY2hlci0xMTc1MTA3",
+    "lastName": "Alidib",
+    "legacyId": 1175107,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Terrible professor. Will embarrass and call you out on the spot. Has no rubrics or syllabus to reference on so you don't know why you got the grade you did. Don't take this course unless you have to!!!",
+        "course": "ARBIC367"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Super great processor. He's really funny!",
+        "course": "FRENCH1801"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He is a really good prof!",
+        "course": "110202"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Horrible teacher. doesn't care if you do well, only cares about filling he next semester class with students. he will ask you to tell your friends to take he class. he only spends 2 days on each chapter of the French book so you learn the alphabet in French in 2 days. and then he gives you a 300 point test the next class over everything.",
+        "course": "FRENCH110201"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "don't take this teacher.he never gives test when they are scheduled, you just show up to class and hes like \" oh. we will take it next class\" after you have studied for day's. he also don't explain thing properly and the examples he give don't help you in class. everyone I talked to told me not to take him. and I didn't believe them, but now I do",
+        "course": "110202"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I totally recommend his class, very knowledgeable and super helpful and clear lecture. In order to receive good great need to work a bit harder to earn it. He is funny and like to listen to others when they have questions and also far with grading. My favorite professor ever.. I would take his class again !",
+        "course": "ARABI104"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "try to avoid him if possible!even tho he loves discussions, hes really closed minded, basically forces u to believe in what he believes in. lenient towards ppl he knows (esp girls) and harsh on the rest. u actually have to work super hard to get an A.",
+        "course": "ARBIC367"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "really funny and very easy to get good grades with  an open attitude and a little hard work",
+        "course": "ARABC241"
+      },
+      {
+        "index": 9,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "easy professor if you have a interest or background in Arabic. very helpful!",
+        "course": "ARABIC104"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Great Prof who will help you a lot",
+        "course": "FRENC104"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He is best Professor i ever had",
+        "course": "ARABI102"
+      },
+      {
+        "index": 12,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "No Comments",
+        "course": "ARABI367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.3,
+    "avgRating": 5,
+    "department": "Arabic",
+    "firstName": "Clint",
+    "id": "VGVhY2hlci0xNTgyODQ0",
+    "lastName": "Hackenburg",
+    "legacyId": 1582844,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Hackenburg is the best professor I ever had. 10/10 teacher. Would highly recommend. ",
+        "course": "ARAB101"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Clint was great. All around good instructor, helpful, funny, serious when necessary, and very knowledgeable. Likes class discussion almost every class. ",
+        "course": "INTROTOISLAM"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Take Arabic with Clint. He's very passionate about the Arabic language and his enthusiasm is infectious. Overall, he's very helpful (ex. he would usually hold study sessions before tests) and interactive (he invites the class out for events). The language is a bit hard, but nothing anybody can't handle, especially with Clint as your instructor. ",
+        "course": "1101"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Clint is simply the best teacher you can ever get! This was his first time teaching intro to Islam and I quite enjoyed the class. The material is dry but he makes it very enjoyable (he's hilarious). One quiz a week and they're extremely easy if you do the readings. Midterm was fairly easy and open notes. There's a final paper 6-10 pages. Easy A!",
+        "course": "NELC3501"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Arabic is a tough language but Clint makes it enjoyable. He keeps class interesting with his wacky sense of humor and stories about living in the Middle East. Before tests, he has study sessions and if you go to class and do homework you will do well. He goes above and beyond and wants everyone to succeed and love Arabic as much as he does.",
+        "course": "1101"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Clint is an awesome guy and teacher. By far the best foreign language instructor I have ever had; he makes an extremely difficult language fun and easy (relatively) to learn. He will meet with you any time you want and will help with study abroad applications. Study the material and you will do well.  ",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "The most wondeful person you'll ever meet. Literally gave us his Skype contact information, in case we had questions and didn't want to walk to his office. Class isn't easy, but he would do anything in order to help you succeed. Generally just the most delightful person you'll ever meet.",
+        "course": "ARABIC1102"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Clint was without a doubt one of the best teachers I've had at OSU. He loves Arabic and is willing to help anyone out, even after I no longer had him as a teacher. His stories/nerdiness make class even better. Not an easy A, but you'll get a lot out of it if you put the work in. Definitely take Arabic w/Clint if you can.",
+        "course": "ARABI102"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "One of THE best teachers I have had at OSU. Very passionate about Arabic not only as a language but also the culture. He has entertaining stories and the culture he shares helps a lot with learning. Willing to help anyone, definitely recommend. His accent is also very good for a non-native speaker",
+        "course": "ARABI101"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Excellent teacher, but the class is hard. Just study hard and go to his office hours and you'll get a good grade. He's a very lenient grader too.",
+        "course": "ARABI102"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Clint was a really great teacher. Arabic is an extremely difficl language but he was always willing to meet with you during office hours. As long as you do the homework and come to class you should get an upper level grade in the class. I would recomend anyone taking arabic to take Clint.",
+        "course": "ARAB101"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Clint is a wonderful professor, and will do just about anything to help you out. He legitimately loves everything about Arabic and is entirely American, so he speaks plain english. Unfortunately, Arabic is very very difficult. If you're going to take Arabic, take it with Clint. But remember, this class is highly intensive",
+        "course": "ARABI101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.7,
+    "avgRating": 4.3,
+    "department": "Arabic",
+    "firstName": "Gergana",
+    "id": "VGVhY2hlci0yMDE3OTE2",
+    "lastName": "Atanassova-Boft",
+    "legacyId": 2017916,
+    "numRatings": 21,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "She is super sweet and cares about the success of her students. HW assignments are not graded till the end of the semester though so you don't know what you did right or wrong. While she was super nice I think I would've learned more with another professor. Attendance is not mandatory and class often gets canceled. ",
+        "course": "ARAB1102"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Geri is a great teacher. You can tell she is passionate about what she teaches, and she explains concepts clearly. She is always available outside of class. The homework is manageable and she gives grace periods. The tests take a while to be graded though. She managed to fit a lot into 1 semester and did it in a way where it wasn't too hard. ",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Class so far is ok but her grading criteria is never clear. She even sometimes gets annoyed if we ask her questions during lecture. Canvas page and her \"whiteboard\" doc is all over the place too. She seems like a nice person but it feels like she is never prepared to teach us during class. ",
+        "course": "ARAB1103"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "BEST GE course! Lots of content but she made it enjoyable. Highly recommend. ",
+        "course": "ARABIC2241"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Amazing class, amazing lecturer. This was only a second session course that I took last moment but it turned out to be one of the best courses I've taken at OSU. Dr. Geri made the material relevant to everyone and so interesting! Totally accessible outside of class, great feedback on assignments and very flexible. I'm taking more classes w/her. ",
+        "course": "ISLAM3205"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "She's a sweet teacher and person but class was often canceled last minute, which threw off the schedule for the class. She also doesn't know Arabic? My dad is a native speaker and told me she was just straight up wrong about a lot. She's not a native speaker and you can tell. Also the class had a confusing structure and I didn't learn very much",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The best Arabic Professor out there! She is really caring and patient and is really helpful when you ask her questions in class. I really learned a lot from her and even though there was a lot of homework, she was accommodating and allowed for late submission.",
+        "course": "ARABIC1102"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I've had Geri for 4 semesters and she has always been a very clear and generous grader. Very patient. She really wants you to succeed. Class is what you make it. She puts effort into it, lots of culture, music, videos, food. We read books and not just stupid Maha. But it's still a college class, not entertainment.",
+        "course": "ARABIC2104"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Takes years for her to grade just ONE assignment, assigns TOO much homework, and takes points off for no reason. Tells you to buy the textbook but uploads a picture of each drill on Canvas. Class is very boring as well.",
+        "course": "ARABIC1102"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "She really just wants to see you succeed. There is homework every night, but it isn't excessive, just a worksheet normally. If you have a question, she'll take class time to answer. Sometimes she's a bit discombobulated and classes weren't very productive. If you participate, you'll get a lot more out of class. She includes culture lessons too",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Fantastic professor! A heads up: she take a while to grade assignments and exams.",
+        "course": "ARAB1102"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She was a great professor 10/10 would take it again!",
+        "course": "ARAB2101"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Professor Geri is extremely knowledgeable and very clear about what she expects from her students. She's always willing to answer questions and she presents the material in a way that makes it accessible to everyone. Shes one of the most understanding and caring professors Ive had at OSU.",
+        "course": "ARAB1102"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Not an easy class. Homework every day sometimes multiple homeworks in one day. Way too much work for a GE class. left no time for other coursewprk. Textbook an online drills pretty bad and expensive. Shes nice though.",
+        "course": "ARAB1102"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She's amazing! She assigns very little homework, yet still teaches you the language well. She clearly loves Arabic and teaching. She really cares about her students and spends a lot of time ensuring that they do well. But you need to be there in order for that to happen! Tons of extra credit opportunities and super flexible!!",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I loved her! She gives an enthusiastic and inspirational intro to the arabic language. It's clear she's very passionate about it. She gives daily homework but it usually isn't too hard, and neither are the tests if you actually show up tp class and do your homework. She's so helpful and sweet, uses the language a ton in class. 100% would take again",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She's been my favorite professor here at OSU. She cares very much about her students and it's obvious her opinion has a lot of weight in the department. Like most OSU language classes, the content is not particularly difficult but there's a lot of work. She is more than willing to work with you if you are struggling. Overall amazing teacher.",
+        "course": "ARABIC1103"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "My favorite class this semester.",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 19,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Geri gave me a great introduction to the Arabic language. She was caring and helpful, but her consistent tardiness and lack of follow-through left me frustrated at many times. At the end of the day, I learned a lot, but to get the most out of this course, she is not the most advisable choice of the professors at OSU at this level.",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Geri cares about what she is teaching and is always wiling to answer questions. You are taking a foreign language class so it will be difficult, just stay up to date on vocab. I have had Geri for 3 semesters and so have many other people in class.",
+        "course": "ARAB1103"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This is the second class that I have taken with Professor Geri and she is INCREDIBLE. She is a great and accommodating lecturer and really helps in office hours. It is clear that she wants you to pass but it IS NOT an easy class even for some heritage speakers. KNOW THE VOCAB and study! If you don't care about this class you will not pass.  ",
+        "course": "1102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 3.6,
+    "department": "Arabic",
+    "firstName": "Hekmat",
+    "id": "VGVhY2hlci0yNTQ3MzY4",
+    "lastName": "Dirbas",
+    "legacyId": 2547368,
+    "numRatings": 14,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great professor! really wants students to be able to understand the language. ",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Overall, it was a pretty straightforward and easy class. Just make sure to participate in class.",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "It was an easy class, but he was so mean. He would pick on me when I got the answer wrong. Easy grader, but was kinda full of himself. You have a lot of homework, but it's expected. ",
+        "course": "ARAB1102"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Hekmat is a good professor that cares about his students learning and succeeding. If you show up on time and put in good effort during his lectures and on the homeworks you will do well. Attendance is important in his class and if you don't show up or even show up late it'll hurt your grade significantly. ",
+        "course": "ARAB1102"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dirbas does a great job of teaching Arabic and making sure everyone is progressing and learning as we go along. If you attend class and do the homework(around 1 hour a week), you should be able to get an easy A.",
+        "course": "ARABIC1102"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr Dirbas  is dedicated, organized and encouraging and wants to see his students succeed in Arabic.  Punctual attendance and class participation are mandatory.  Dr Dirbas specifies what will be covered on quizzes and exams  and provides study materials geared to these topics. The curriculum proceeds quickly and it is important not to fall behind.",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "clear and very helpful explanations on mistakes on exams and quizzes. More than grammar and vocabulary were insights into culture, music, calligraphic art, architectural structures and poetry. Also, while the textbook is good, his explanations of the grammar were better for understanding. He loves language and is clearly dedicated to help students.",
+        "course": "ARABIC1102"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "DO NOT take this class with the professor. He does not care about his students. The worst professor I ever had at Ohio State.",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I've never met such a hardworking and sympathetic professor before. He always strives to help his students succeed in the class. His lectures are efficient and organized, and the assignments do not take much time to do. As long as you show genuine effort and attentiveness, it'll be an easy A. Professor Dirbas is truly the best professor at OSU. ",
+        "course": "ARAB1103"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "He is terrible. He is full of himself and will go on tangents about what angers him for no reason. He assigns SO MUCH homework. If you're a bit slow, chances are he will humiliate you in front of the whole class. If you have anxiety, you will hate his class. Most of it is us learning on our own and reviewing it with him. Survived it somehow.",
+        "course": "ARABIC1102"
+      },
+      {
+        "index": 11,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "He's a good teacher and is kind, but the class is heavily based on drills and participation. He also gets mad if no one participates which makes the class scary. It got so bad last semester, the head of the department was contacted from my class. He loves the textbook and the class basically consists of doing drills as a group and then as a class.",
+        "course": "ARAB1103"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Really great professor who simplifies the language well. He really cares about his students success and will make sure everyone understands before moving forward. Takes participation very seriously but not hard to get the participation points. Auditory based teaching style.",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He has very specific expectations, but if you listen in class and you pay attention to the lectures, it's easy to understand what kind of work he wants from you. He really values participation and punctuality, and he's good about responding to emails or staying after class to answer questions. Overall, a passionate and understanding professor!",
+        "course": "ARAB1102"
+      },
+      {
+        "index": 14,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "He never overloads students with homeworks and assignments, and he's very understanding and cares for the success of each of his students. He makes Arabic easy to understand, and you will get an A as long as you participate in class and show an honest effort!",
+        "course": "ARABIC1102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.9,
+    "department": "Arabic",
+    "firstName": "Marite",
+    "id": "VGVhY2hlci0yMDcyNDEz",
+    "lastName": "Labaki",
+    "legacyId": 2072413,
+    "numRatings": 8,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Marite is amazing. I have had difficulties with a particular professor in the department, but she was a breath of fresh air. She is so understanding, thoughtful, and accommodating. I had a tough time this semester outside of classes, and she was there to make it easier and helped me. If she is an option for your Arabic classes, always pick her!",
+        "course": "ARABIC2111"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Prof. Labaki is one of the finest in OSU. I am glad I took her class coz I heard she's the best if you wanna learn Arabic. She proved that 100% I loved being in her class, as she is very knowledgeable and knows how to capture everyone's attention. The class material is demanding and she grades fair, which means that I worked really hard for this A!",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "If you take Arabic, there's no better professor than Marit&eacute;. She is genuinely one of the nicest people I have ever met, not an exaggeration. A rate-A human, nationally recognized scholar, and a great prof, she breaks down a difficult language well. The class is fairly tough and has a lot of homework but she's VERY lenient with late HW/assignments.",
+        "course": "AR1103"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She's the best Arabic teacher you could hope for. It's a lot of work, but you have no choice but to learn a lot in her class. She knows a ton about teaching languages, and about interacting with all kinds of students. She's sweet, direct, and very smart. Never leaves you confused or feeling helpless.",
+        "course": "ARABIC1102"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Marite deeply cares for her students and is an absolute pleasure to be around. There is homework quite often, but it is usually completion and effort based. Very accessible through email and Skype especially on the nights before tests. Grades very clearly and fairly  and gives EC.  One of my favorite teachers overall.",
+        "course": "ARABIC1102"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Marite is very helpful and willing to take extra time helping you if you need it. She can be confusing at times but if you show her you are trying she will help you out. Lots of homework but most is just for completion. Her quizzes aren't bad either, she always gives guidelines of exactly what is expected. Easy A if you just show up and do the work",
+        "course": "ARB1102"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Best Arabic teacher I've ever had! Extremely patient and very helpful.",
+        "course": "ARABIC1102"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Marite is hands down the best Arabic professor I have ever had at OSU. She is so helpful that she will skype with students to prepare for projects and tests. She is very passionate and talented, and makes learning this difficult language a little easier.  She has high expectations but makes her students want to succeed.",
+        "course": "ARABIC3105"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.4,
+    "avgRating": 4.9,
+    "department": "Arabic",
+    "firstName": "Chris",
+    "id": "VGVhY2hlci0xNDc4Nzky",
+    "lastName": "Stewart",
+    "legacyId": 1478792,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Extremely friendly professor, his course is really enjoyable and stressless.",
+        "course": "cse3244"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Stewart is an excellent professor at Ohio State.  He really cares about his students and wants to make sure that everyone is successful in the course.  The course material can be difficult at times, but reaching out for help is never an issue.",
+        "course": "cse3244"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Prof Stewart was great, but the course is a little hard to grasp.",
+        "course": "CSE4471"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Great teacher. Had him before and this class and the others were very challenging. He expects a lot, so don't take him if you want to just pass a language class- you will work! He is very into grammar and has studied it in depth (not just a GTA) so he is qualified to teach this advanced of a course. Nice guy too.",
+        "course": "ARAB205"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Excellent professor. Always willing to offer students his time to help them understand the material. Very friendly and understanding. Perhaps the best professor I've had at Ohio State. Hope to have him in the future. Do your work, ask him questions, study and you are guaranteed to do well.",
+        "course": "ARAB104"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Extremely energetic and helpful teacher. I have had very few instructors with his level of passion, especially at the college level. He cares deeply for his students, and will challenge you day in and day out. However, he rewards those that put in the hard work greatly. So, go to class, work hard, and you'll do great.",
+        "course": "ARABI103"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This class is hard and he makes sure you are always accountable for your work.  He accepts nothing but your best and doesn't take excuses.  He didn't respond to some e-mails which was a little concerning but he was always willing to help and I never felt overwhelmed, only challenged.If you put in the work, you will get a lot out of this class.",
+        "course": "ARA103"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Cares so much about his classes and students-- will stop at nothing to help students succeed.  His enthusiasm for Arabic is contagious... definitely recommend!",
+        "course": "ARAB102"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "My favorite professor. His classes are intense because he &quot;over-teaches&quot; his students but he explains concepts so well I'm grateful he taught me the picky and complicated Arabic grammar that I now understand. A great teacher. He loves sharing stories which makes his class enjoyable - sometimes you just have to grin and bare his jokes.",
+        "course": "ARABI103"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Lots of information presented, but has extensive office hours to help you with material. Does not suffer fools gladly. Great teacher, loves grammar, loves the Arabic language.",
+        "course": "ARABI103"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very energetic, willing to help, class moves very quickly, must attend class or you will miss a lot of information.",
+        "course": "ARABI101"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Energetic and fun teacher - recommend his class to anyone.",
+        "course": "ARABI103"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 3,
+    "department": "Arabic",
+    "firstName": "Bradley",
+    "id": "VGVhY2hlci0yNTczNjE0",
+    "lastName": "Brincka",
+    "legacyId": 2573614,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Had him for Arabic. Very polite and eager to help students in or out of class. Encourages you to step out of your comfort zone and participate. The class is pretty interactive, so be prepared to speak or write on the board. Likes to joke around a little and isn't overly-serious, but he's passionate about the helping people learn the language.",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "His class is a joke. He made the course so easy that I'm spending my time in upper level Arabic courses playing catch up. He does not use slides, doesn't update the due dates of Canvas, and was absent for basically a quarter of the semester. Take any other professor if you actually intend on learning something.",
+        "course": "ARABIC1102"
+      }
+    ],
+    "SEI": []
+  }
+]

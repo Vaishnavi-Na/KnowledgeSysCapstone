@@ -1,0 +1,56 @@
+[
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 5,
+    "department": "Welding",
+    "firstName": "David",
+    "id": "VGVhY2hlci0yNjU0NDA2",
+    "lastName": "Phillips",
+    "legacyId": 2654406,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Phillips has easy open book quizzes and then written exams, which aren't too bad if you study. He also has a \"mulligan\" rule where he removes your lowest quiz score with your second lowest. I enjoyed his class.",
+        "course": "WE4002"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Phillips is the best - he's my favorite professor! I've also had him for WELDENG 2001 and MATSCEN 3333. He's incredibly passionate about teaching and inspires future welding engineers. If you pay attention and put in the effort, getting a good grade is very doable. Plus, he's always available to explain things after class! ",
+        "course": "10312"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 3.3,
+    "department": "Welding",
+    "firstName": "David Harper",
+    "id": "VGVhY2hlci0xNzAwNTAx",
+    "lastName": "Philips",
+    "legacyId": 1700501,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Good professor but extremely unaccommodating and inconsiderate. You could be laying the hospital with every bone in your body broken and he wont do so much as give you an extension. Aside from that though his courses are well put together and quite informative. He likes to throw pointless curveballs in questions to trip you up.",
+        "course": "WELD4002"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Philips is a great professor! His exams are straight from the lecture material. You need to go to lecture because the lecture slides are not enough to understand the material. His exams are pretty easy though, if you actually understand the material. He loves what he does and teaches it well!",
+        "course": "WELD300"
+      }
+    ],
+    "SEI": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3.3,
+    "department": "TA",
+    "firstName": "Erik",
+    "id": "VGVhY2hlci0yMjM0MDAx",
+    "lastName": "Scaltriti",
+    "legacyId": 2234001,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "One of the worst professors I have ever had. Does not teach correctly, and when compared to other professors who teach Italian, he is by far the hardest one. He expects you to know things without his help. He constantly calls people out for not doing well on quizzes. Quiz grades are poor due to the lack of care about our success within the class.",
+        "course": "IT1101"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He is a very helpful professor. We transitioned to zoom because of corona and he has been so accessible and always loves when you participate. He doesn't really specifically teach you certain verb tenses or things like that, but encourages you to ask him about them.",
+        "course": "ITALIAN1103"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Prof. Scaltriti was honestly THE best Professor I have ever had. He is a native speaker with a sexy accent, so that made class more enjoyable. On the plus side, he is very handsome and that was a good motivation to study Italian. I hope I will have him next year! He is THE man!",
+        "course": "IT1101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 2,
+    "department": "TA",
+    "firstName": "Melissa",
+    "id": "VGVhY2hlci0xMzY5NDkx",
+    "lastName": "Crum",
+    "legacyId": 1369491,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "She was okay. Class is pretty structured and content isn't too bad. Overall she grades easy on discussion posts, but is very hit or miss for essays. Either you will do well, or make a small mistake and it'll end up costing you your grade. ",
+        "course": "ARTED367"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "I took 367.01 thinking this would be an easy second writing class. well it was but melissa crum is probably the most incompetent teacher i have met here at OSU. She is terribly unorganized and has no idea what she is talking about. Want an easy A&#63; Take this class but just make sure you dont get her. Its dreadful.",
+        "course": "ARTED367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 2,
+    "department": "TA",
+    "firstName": "Nayeon",
+    "id": "VGVhY2hlci0yOTc3NjEz",
+    "lastName": "Kim",
+    "legacyId": 2977613,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Not the best TA. Seemed to be very knowledgeable about the topic and caring, but overall wasn't very good at offering help. Most students in my class didn't pay attention and just did the worksheet ourselves because she didn't add much content. Great grader and lenient though",
+        "course": "Math1148"
+      }
+    ],
+    "SEI": []
+  }
+]
