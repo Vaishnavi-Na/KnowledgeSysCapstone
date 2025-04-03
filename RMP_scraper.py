@@ -162,14 +162,14 @@ def search_school_professor():
         response = requests.post(graphql_url, headers=headers, json=data).json()   
         #for each professor, get their reviews and add elasticsearch index
         for professor in response["data"]["search"]["teachers"]["edges"]:            
-            if professor["node"]["numRatings"]==0:
-                return 
+            #if professor["node"]["numRatings"]==0:   
             print("\n" + professor["node"]["lastName"] + professor["node"]["firstName"])
             get_reviews(professor["node"]["legacyId"],professor["node"],professor["node"]["id"])
             es.index(index='professors', id=professor["node"]["lastName"] + professor["node"]["firstName"], document=professor["node"])
 
         #pagination logic
         page_info = response["data"]["search"]["teachers"]["pageInfo"]
+        print(page_info)
         if not page_info["hasNextPage"]:
             break  # Stop if no more pages
 
