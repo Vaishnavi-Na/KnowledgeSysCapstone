@@ -77,6 +77,7 @@ prof_data = {
                 edges {
                     node {
                         comment
+                        class
                         clarityRating
                         difficultyRating
                     }
@@ -117,6 +118,8 @@ def get_reviews(professor_id, j, id):
     # Initialize the Ratings list if it doesn't exist
     if "Ratings" not in j:
         j["Ratings"] = []
+    if "SEI" not in j:
+        j["SEI"] = []
     
     index = 1
     # Load all the comments
@@ -135,7 +138,8 @@ def get_reviews(professor_id, j, id):
                 "index":index, 
                 "rating": rating["node"]["clarityRating"],
                 "difficulty": rating["node"]["difficultyRating"],
-                "comment": rating["node"]["comment"]
+                "comment": rating["node"]["comment"],
+                "course": rating["node"]["class"]
                 })
             index += 1
 
