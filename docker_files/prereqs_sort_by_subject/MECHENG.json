@@ -1,0 +1,5542 @@
+[
+  {
+    "course": "MECHENG 3360",
+    "title": "System Integration and Control",
+    "description": "Modeling of a variety of multi-domain systems, including electromechanical actuators, principles of feedback control, and analysis of control systems.\r\nPrereq: 3260 or 3261, and enrollment as MechEng-BS student (No ME pre-majors can enroll in this course); or permission of instructor. Prereq or concur: 3503 (504) or 3504. Not open to students with credit for 482 or 571.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3260",
+          "MECHENG 3261",
+          "and enrollment as MechEng-BS student (No ME pre-majors can enroll in this course);",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 3503",
+          "MECHENG 504",
+          "MECHENG 3504"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "482",
+        "571"
+      ]
+    },
+    "catalog_number": "3360",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6247",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E001",
+            "room": "E001",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6248",
+        "section": "0011",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab N048",
+            "room": "N048",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6249",
+        "section": "0012",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2019",
+            "room": "2019",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6250",
+        "section": "0013",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab N048",
+            "room": "N048",
+            "start_time": "5:20 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5240",
+    "title": "Mechanical Vibrations",
+    "description": "Free and forced vibration analysis of single-degree-of-freedom systems with various forms of damping, vibration isolation and control methods and devices, vibration sensors, equations of motion of multi-degree of freedom systems using Lagrange's method, Eigen value problem, modal analysis method for free and forced vibration analysis, frequency-domain data analysis fundamentals.\nPrereq: 3260 (481). Prereq or concur: 3360 (482), or Grad standing in Engineering. Not open to students with credit for 650, 666, or 7250.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3260",
+          "MECHENG 481"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 3360",
+          "MECHENG 482",
+          "Grad standing in Engineering"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "650",
+        "666",
+        "7250"
+      ]
+    },
+    "catalog_number": "5240",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6301",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 1021",
+            "room": "1021",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 2900",
+    "title": "Introduction to Design in Mechanical Engineering",
+    "description": "Introduction to the discipline of Mechanical Engineering through a structured design, build, and test sequence. Students will fabricate apparatus which requires a basic understanding of the full scope of Mechanical Engineering.\nPrereq: 2010 and Physics 1251; and enrollment as MechEng-BS student; Prereq or concur: MatScEn 2010; or permission of department.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Physics 1251"
+        ],
+        [
+          "enrollment as MechEng-BS student;"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MatScEn 2010",
+          "permission of department"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2900",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6045",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E200",
+            "room": "E200",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Dan Wisniewski",
+                "role": "PI",
+                "email": "wisniewski.28@osu.edu"
+              },
+              {
+                "name": "Kai . Vogeler",
+                "role": "PI",
+                "email": "vogeler.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6046",
+        "section": "0011",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W280",
+            "room": "W280",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6047",
+        "section": "0012",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W280",
+            "room": "W280",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6048",
+        "section": "0013",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W280",
+            "room": "W280",
+            "start_time": "2:50 pm",
+            "end_time": "4:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6311",
+        "section": "0014",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W280",
+            "room": "W280",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6331",
+        "section": "0015",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W280",
+            "room": "W280",
+            "start_time": "2:50 pm",
+            "end_time": "4:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "8770",
+        "section": "0016",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W280",
+            "room": "W280",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6049",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E001",
+            "room": "E001",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Dan Wisniewski",
+                "role": "PI",
+                "email": "wisniewski.28@osu.edu"
+              },
+              {
+                "name": "Kai . Vogeler",
+                "role": "PI",
+                "email": "vogeler.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6050",
+        "section": "0021",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W170",
+            "room": "W170",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6051",
+        "section": "0022",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W170",
+            "room": "W170",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Nathan Isaac Waltz",
+                "role": "SI",
+                "email": "waltz.90@osu.edu"
+              },
+              {
+                "name": "Adrian Bakhtar",
+                "role": "SI",
+                "email": "bakhtar.1@osu.edu"
+              },
+              {
+                "name": "Aidan James Garabed",
+                "role": "TA",
+                "email": "garabed.2@osu.edu"
+              },
+              {
+                "name": "Lara Schober",
+                "role": "SI",
+                "email": "schober.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6052",
+        "section": "0023",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W170",
+            "room": "W170",
+            "start_time": "2:50 pm",
+            "end_time": "4:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6312",
+        "section": "0024",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W170",
+            "room": "W170",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6332",
+        "section": "0025",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W170",
+            "room": "W170",
+            "start_time": "2:50 pm",
+            "end_time": "4:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "8771",
+        "section": "0026",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W170",
+            "room": "W170",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "SI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4902.01",
+    "title": "ME Capstone Design I: Student Design Competitions",
+    "description": "First course of 2-semester capstone sequence. Students work on design problems arising from various student competitions in engineering. Emphasis on problem definition, requirements, and design proposal.\nPrereq: 3360, 3671, 3503, and 3870; and GenEd 1201 or 2601. Prereq or concur: 4510; and enrollment as a MechEng-BS Student; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3360",
+          "MECHENG 3671",
+          "MECHENG 3503",
+          "MECHENG 3870"
+        ],
+        [
+          "GenEd 1201",
+          "GenEd 2601"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 4510"
+        ],
+        [
+          "enrollment as a MechEng-BS Student;",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4902.01",
+    "term": "Autumn 2025",
+    "units": 2.5,
+    "sections": [
+      {
+        "class_number": "6044",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 238",
+            "room": "238",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shawn W Midlam-Mohler",
+                "role": "PI",
+                "email": "midlam-mohler.1@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 200",
+            "room": "200",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shawn W Midlam-Mohler",
+                "role": "PI",
+                "email": "midlam-mohler.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10115",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 264",
+            "room": "264",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5530",
+    "title": "Internal Combustion Engines",
+    "description": "Design and operating characteristics of contemporary internal combustion engines, induction/exhaust breathing, boosting, variable valvetrains, combustion and knock, fuel economy, alternative fuels, and advanced powertrains.\r\nPrereq: 3501 or 3502 (502), or Grad standing in MechEng, or permission of instructor. Not open to students with credit for 630.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3501",
+          "MECHENG 3502",
+          "MECHENG 502",
+          "Grad standing in MechEng",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "630"
+      ]
+    },
+    "catalog_number": "5530",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6069",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E125",
+            "room": "E125",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 3671",
+    "title": "Design and Analysis of Machine Elements II",
+    "description": "Continuation of 3670 and 3571.\nPrereq: 3670 or 3676, and 3751, and enrollment as MechEng-BS student; or permission of instructor. Not open to students with credit for 563, or to MechEng pre-majors.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3670",
+          "MECHENG 3676",
+          "MECHENG 3751",
+          "and enrollment as MechEng-BS student;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "563",
+        "to MechEng pre-majors"
+      ]
+    },
+    "catalog_number": "3671",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6245",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 130",
+            "room": "130",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 2010",
+    "title": "Statics",
+    "description": "Vector concepts of static equilibrium for isolated and connected bodies, centroids, inertia, truss, frame and machine analysis, and friction.\nPrereq: Engr 1181 or 1187 or 1281H, and Physics 1250 or 1260, and Math 1151, 1140 or 1161. Not open to students with credit for 2010H or 2040.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Engr 1181",
+          "Engr 1187",
+          "Engr 1281",
+          "Physics 1250",
+          "Physics 1260",
+          "Math 1151",
+          "Math 1140",
+          "Math 1161"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2010H",
+        "2040"
+      ]
+    },
+    "catalog_number": "2010",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "6030",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 180",
+            "room": "180",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ali Jhemi",
+                "role": "PI",
+                "email": "jhemi.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6031",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 180",
+            "room": "180",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Prasad Shrikant Mokashi",
+                "role": "PI",
+                "email": "mokashi.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 2030",
+    "title": "Dynamics",
+    "description": "Dynamics of particles and rigid bodies; linear and angular motion; work and energy; and single degree of freedom vibration analysis.\nPrereq: 2010 or 2010H or 2040.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 2010",
+          "MECHENG 2010",
+          "MECHENG 2040"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2030",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6021",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 180",
+            "room": "180",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6022",
+        "section": "0011",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E004",
+            "room": "E004",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6254",
+        "section": "0013",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2040",
+            "room": "2040",
+            "start_time": "5:20 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10530",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E001",
+            "room": "E001",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10531",
+        "section": "0021",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E040",
+            "room": "E040",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10532",
+        "section": "0022",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 100",
+            "room": "100",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5339",
+    "title": "Simulation Techniques for Dynamic Systems",
+    "description": "Introduction and use of software tools for dynamic system modeling, control system analysis, and design. Application to real world dynamic systems, with emphasis on model development and validation, parameter identification, and results presentation.\nPrereq: 3360 (571) or equiv, and enrollment in MechEng; or Graduate standing in MechEng; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3360",
+          "MECHENG 571",
+          "equiv",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "MechEng;",
+        "Graduate standing in MechEng;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "5339",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6257",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E141",
+            "room": "E141",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6258",
+        "section": "0011",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W260",
+            "room": "W260",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6259",
+        "section": "0012",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W260",
+            "room": "W260",
+            "start_time": "4:00 pm",
+            "end_time": "5:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5680",
+    "title": "Computer Aided Design and Manufacturing",
+    "description": "Design of machine components, surfaces, and assemblies using parametric and feature-based design principles and advanced design tools.\r\nPrereq: 3670 (561), or Grad standing in Engineering, or permission of instructor. Not open to students with credit for 621 or 683.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3670",
+          "MECHENG 561",
+          "Grad standing in Engineering",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "621",
+        "683"
+      ]
+    },
+    "catalog_number": "5680",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "6060",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E200",
+            "room": "E200",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan Scott Wilber",
+                "role": "PI",
+                "email": "wilber.30@osu.edu"
+              },
+              {
+                "name": "Neil A Gardner",
+                "role": "PI",
+                "email": "gardner.79@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6061",
+        "section": "0011",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E205",
+            "room": "E205",
+            "start_time": "9:10 am",
+            "end_time": "11:00 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan Scott Wilber",
+                "role": "PI",
+                "email": "wilber.30@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              },
+              {
+                "name": "Neil A Gardner",
+                "role": "TA",
+                "email": "gardner.79@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6062",
+        "section": "0012",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E205",
+            "room": "E205",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan Scott Wilber",
+                "role": "PI",
+                "email": "wilber.30@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              },
+              {
+                "name": "Neil A Gardner",
+                "role": "SI",
+                "email": "gardner.79@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6063",
+        "section": "0013",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E205",
+            "room": "E205",
+            "start_time": "9:10 am",
+            "end_time": "11:00 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan Scott Wilber",
+                "role": "PI",
+                "email": "wilber.30@osu.edu"
+              },
+              {
+                "name": "Neil A Gardner",
+                "role": "TA",
+                "email": "gardner.79@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6064",
+        "section": "0014",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E205",
+            "room": "E205",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan Scott Wilber",
+                "role": "PI",
+                "email": "wilber.30@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              },
+              {
+                "name": "Neil A Gardner",
+                "role": "TA",
+                "email": "gardner.79@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6271",
+        "section": "0015",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E205",
+            "room": "E205",
+            "start_time": "9:10 am",
+            "end_time": "11:00 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan Scott Wilber",
+                "role": "PI",
+                "email": "wilber.30@osu.edu"
+              },
+              {
+                "name": "Neil A Gardner",
+                "role": "TA",
+                "email": "gardner.79@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6272",
+        "section": "0016",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E205",
+            "room": "E205",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan Scott Wilber",
+                "role": "PI",
+                "email": "wilber.30@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              },
+              {
+                "name": "Neil A Gardner",
+                "role": "TA",
+                "email": "gardner.79@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5682.01",
+    "title": "Fundamentals of Product Design Engineering",
+    "description": "Lecture covering the fundamentals of the product design process, from concept creation to final implementation, including product architecture and design for manufacture and assembly. Only open to students enrolled in majors in the College of Engineering.\nPrereq: Jr, Sr, or Grad standing in the College of Engineering, or permission of instructor. Not open to students with credit for 5682.02.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr",
+          "Sr",
+          "Grad standing in the College of Engineering",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5682"
+      ]
+    },
+    "catalog_number": "5682.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6071",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annie Abell",
+                "role": "PI",
+                "email": "abell.9@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9846",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annie Abell",
+                "role": "PI",
+                "email": "abell.9@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5682.01",
+    "title": "Fundamentals of Product Design Engineering",
+    "description": "Lecture covering the fundamentals of the product design process, from concept creation to final implementation, including product architecture and design for manufacture and assembly. Only open to students enrolled in majors in the College of Engineering.\nPrereq: Jr, Sr, or Grad standing in the College of Engineering, or permission of instructor. Not open to students with credit for 5682.02.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr",
+          "Sr",
+          "Grad standing in the College of Engineering",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5682"
+      ]
+    },
+    "catalog_number": "5682.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6071",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annie Abell",
+                "role": "PI",
+                "email": "abell.9@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9846",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annie Abell",
+                "role": "PI",
+                "email": "abell.9@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 3500",
+    "title": "Engineering Thermal Sciences",
+    "description": "Introduction to thermodynamics, fluid mechanics and heat transfer with engineering applications.\r\nPrereq: Math 2174 or 2177 or 2255 (255) or 2415 (415), and Physics 1250 (131). Not open to students with credit for 500 or enrolled in MechEng major.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Math 2174",
+          "Math 2177",
+          "Math 2255",
+          "Math 255",
+          "Math 2415",
+          "Math 415",
+          "Physics 1250"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "500",
+        "enrolled in MechEng major"
+      ]
+    },
+    "catalog_number": "3500",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6080",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E004",
+            "room": "E004",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 2020",
+    "title": "Introduction to Mechanics of Materials",
+    "description": "Stress and strain analysis of deformable structural components subjected to unidirectional and combined loads; pressure vessels; stress transformations (Mohr's Circle); beam deflections; column buckling.\nPrereq: 2010 or 2010H. Not open to students with credit for 2040.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 2010",
+          "MECHENG 2010"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2040"
+      ]
+    },
+    "catalog_number": "2020",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6024",
+        "section": "0011",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E040",
+            "room": "E040",
+            "start_time": "12:40 pm",
+            "end_time": "1:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6025",
+        "section": "0012",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 020",
+            "room": "020",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6275",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "209 West Eighteenth Avenue",
+            "building": "209 W 18th Ave 170",
+            "room": "170",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6023",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 324",
+            "room": "324",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9467",
+        "section": "0031",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Stillman Hall",
+            "building": "Stillman Hall 100",
+            "room": "100",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "37587",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 250",
+            "room": "250",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "37590",
+        "section": "041",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E125",
+            "room": "E125",
+            "start_time": "6:30 pm",
+            "end_time": "7:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5139",
+    "title": "Applied Finite Element Method",
+    "description": "Overview of finite element method, description of finite element software, modeling requirements and techniques, analysis using general purpose software, and case studies.\nPrereq: 2020 or 2040 or equiv, and enrollment in MechEng major; or Grad standing in Engineering.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 2020",
+          "MECHENG 2040",
+          "equiv",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "MechEng major;",
+        "Grad standing in Engineering"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "5139",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6065",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Sullivant Hall",
+            "building": "Sullivant Hall 220",
+            "room": "220",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6066",
+        "section": "0011",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E200",
+            "room": "E200",
+            "start_time": "3:55 pm",
+            "end_time": "5:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6067",
+        "section": "0012",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E200",
+            "room": "E200",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6068",
+        "section": "0013",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E200",
+            "room": "E200",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6310",
+        "section": "0014",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W260",
+            "room": "W260",
+            "start_time": "9:35 am",
+            "end_time": "11:25 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4999H",
+    "title": "Mechanical Engineering Undergraduate Research for Thesis",
+    "description": "Honors program students are offered the opportunity to pursue independent project/research. Student presentations and undergraduate Honors thesis writing is included, to enable graduation with Research Distinction in Mechanical Engineering.\r\nPrereq: Honors standing, and CPHR 3.4 or above, and Sr standing in MechEng major; or permission of instructor. Repeatable to a maximum of 6 cr hrs or 4 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "and CPHR 3"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4999H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6246",
+        "section": "0020",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 119",
+            "room": "119",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Gunjan Agarwal",
+                "role": "PI",
+                "email": "agarwal.60@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6335",
+        "section": "0030",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab N044",
+            "room": "N044",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Gunjan Agarwal",
+                "role": "PI",
+                "email": "agarwal.60@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 3503",
+    "title": "Introduction to Fluid Mechanics",
+    "description": "A study of the basic concepts, fundamental equations, and applications of fluid mechanics to engineering problems.\r\nPrereq: 2850 (250), and 3501 (501) or 3502, and enrollment as MechEng-BS student (No ME pre-majors can enroll in this course); or permission of instructor. Not open to students with credit for 503 or 504.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 2850",
+          "MECHENG 250",
+          "MECHENG 3501",
+          "MECHENG 501",
+          "MECHENG 3502",
+          "and enrollment as MechEng-BS student (No ME pre-majors can enroll in this course);",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "503",
+        "504"
+      ]
+    },
+    "catalog_number": "3503",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6041",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 113",
+            "room": "113",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6042",
+        "section": "0011",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 300",
+            "room": "300",
+            "start_time": "5:20 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6043",
+        "section": "0012",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 215",
+            "room": "215",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6252",
+        "section": "0013",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 220",
+            "room": "220",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 3671",
+    "title": "Design and Analysis of Machine Elements II",
+    "description": "Continuation of 3670 and 3571.\nPrereq: 3670 or 3676, and 3751, and enrollment as MechEng-BS student; or permission of instructor. Not open to students with credit for 563, or to MechEng pre-majors.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3670",
+          "MECHENG 3676",
+          "MECHENG 3751",
+          "and enrollment as MechEng-BS student;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "563",
+        "to MechEng pre-majors"
+      ]
+    },
+    "catalog_number": "3671",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6245",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 130",
+            "room": "130",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 2040",
+    "title": "Statics and Introduction to Mechanics of Materials",
+    "description": "Vector concepts of static equilibrium, truss, frame and machine analysis. Stress and strain analysis of deformable structural components; stress transformations; beam deflections; column buckling.\nPrereq: Engr 1181 or 1187 or 1281H, and Physics 1250 or 1260, and Math 1152 or 1161 or 1172 or 1181H. Not open to students with credit for 2020.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Engr 1181",
+          "Engr 1187",
+          "Engr 1281",
+          "Physics 1250",
+          "Physics 1260",
+          "Math 1152",
+          "Math 1161",
+          "Math 1172",
+          "Math 1181"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2020"
+      ]
+    },
+    "catalog_number": "2040",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "6032",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 100",
+            "room": "100",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rebecca B. Dupaix",
+                "role": "PI",
+                "email": "dupaix.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6293",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 014",
+            "room": "014",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10407",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 100",
+            "room": "100",
+            "start_time": "5:20 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5240",
+    "title": "Mechanical Vibrations",
+    "description": "Free and forced vibration analysis of single-degree-of-freedom systems with various forms of damping, vibration isolation and control methods and devices, vibration sensors, equations of motion of multi-degree of freedom systems using Lagrange's method, Eigen value problem, modal analysis method for free and forced vibration analysis, frequency-domain data analysis fundamentals.\nPrereq: 3260 (481). Prereq or concur: 3360 (482), or Grad standing in Engineering. Not open to students with credit for 650, 666, or 7250.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3260",
+          "MECHENG 481"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 3360",
+          "MECHENG 482",
+          "Grad standing in Engineering"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "650",
+        "666",
+        "7250"
+      ]
+    },
+    "catalog_number": "5240",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6301",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 1021",
+            "room": "1021",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 3260",
+    "title": "System Dynamics and Vibrations",
+    "description": "Applications of ordinary differential equations, Laplace transforms, transfer function analysis to first and second order systems, and single-degree-of-freedom mechanical and electrical systems.\nPrereq: 2850.xx and 2030; and enrollment as MechEng-BS student; Prereq or concur: 2900; and ECE 2300 or 2300.01; or permission of department.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 2850"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 2900"
+        ],
+        [
+          "ECE 2300",
+          "ECE 2300"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3260",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6026",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 130",
+            "room": "130",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6033",
+        "section": "0011",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 120",
+            "room": "120",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6034",
+        "section": "0012",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E024",
+            "room": "E024",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6264",
+        "section": "0015",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E004",
+            "room": "E004",
+            "start_time": "6:30 pm",
+            "end_time": "7:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6028",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E001",
+            "room": "E001",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6204",
+        "section": "0031",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 034",
+            "room": "034",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6035",
+        "section": "0032",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E125",
+            "room": "E125",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9485",
+        "section": "0033",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 002",
+            "room": "002",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 2850.01",
+    "title": "Numerical Methods in Mechanical Engineering",
+    "description": "Numerical solutions of nonlinear equations, systems of linear equations, interpolation, curve-fitting, ordinary differential equations.\nPrereq: 2010 or 2040; and enrollment as MechEng-BS student; Prereq or concur: Math 2174, 2568, or 2415 or equiv.; or permission of department.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 2010",
+          "MECHENG 2040"
+        ],
+        [
+          "enrollment as MechEng-BS student;"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "Math 2174",
+          "Math 2568",
+          "Math 2415",
+          "equiv"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2850.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6029",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 035",
+            "room": "035",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6086",
+        "section": "0011",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E200",
+            "room": "E200",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6087",
+        "section": "0012",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W280",
+            "room": "W280",
+            "start_time": "6:30 pm",
+            "end_time": "7:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6088",
+        "section": "0013",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E200",
+            "room": "E200",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6263",
+        "section": "0014",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W280",
+            "room": "W280",
+            "start_time": "5:20 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4510",
+    "title": "Heat Transfer",
+    "description": "A study of the fundamentals of conduction, convection, and thermal radiation energy transfer with engineering applications.\r\nPrereq: 3503 (504) or 3504, and MechEng-BS student (no pre-majors); or permission of instructor. Not open to students with credit for 510.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3503",
+          "MECHENG 504",
+          "MECHENG 3504",
+          "and MechEng-BS student (no pre-majors);",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "510"
+      ]
+    },
+    "catalog_number": "4510",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6253",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4901.01",
+    "title": "ME Capstone Design I: General Projects",
+    "description": "First course of 2-semester capstone sequence. Students work on design problems proposed by faculty. Emphasis on problem definition, requirements, and design proposal.\nPrereq: 3360, 3671, 3503 and 3870. Prereq or concur: 4510, and GenEd 1201 or GenEd 2601, and enrollment as a MechEng-BS Student, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3360",
+          "MECHENG 3671",
+          "MECHENG 3503",
+          "MECHENG 3870"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 4510",
+          "GenEd 1201",
+          "GenEd 2601",
+          "and enrollment as a MechEng-BS Student",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4901.01",
+    "term": "Autumn 2025",
+    "units": 2.5,
+    "sections": [
+      {
+        "class_number": "9849",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1138",
+            "room": "1138",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Russell Marzette",
+                "role": "PI",
+                "email": "marzette.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10113",
+        "section": "0022",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W259",
+            "room": "W259",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Russell Marzette",
+                "role": "PI",
+                "email": "marzette.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "37588",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E103",
+            "room": "E103",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W259",
+            "room": "W259",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4901.02",
+    "title": "ME Capstone Design II: General Projects",
+    "description": "Second course of 2-semester senior capstone series. Complete work on design problem proposed by faculty. Emphasis on detailed design, prototype, evaluation, and documentation.\nPrereq: 4901.01, and enrollment as MechEng-BS student (No ME pre-majors can enroll in this course); or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 4901"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4901.02",
+    "term": "Autumn 2025",
+    "units": 2.5,
+    "sections": [
+      {
+        "class_number": "6297",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2017",
+            "room": "2017",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Russell Marzette",
+                "role": "PI",
+                "email": "marzette.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 3501",
+    "title": "Introduction to Engineering Thermodynamics",
+    "description": "Principles of engineering thermodynamics from the classical perspective, including first and second laws of thermodynamics, with selected applications.\nPrereq: Chem 1210 or 1250; and enrollment as MechEng-BS student; Prereq or concur: 2850.xx; or permission of department.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Chem 1210",
+          "Chem 1250"
+        ],
+        [
+          "enrollment as MechEng-BS student;"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 2850"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3501",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9311",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Stillman Hall",
+            "building": "Stillman Hall 100",
+            "room": "100",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6251",
+        "section": "0026",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 251",
+            "room": "251",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9899",
+        "section": "0027",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1005",
+            "room": "1005",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9900",
+        "section": "0028",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1005",
+            "room": "1005",
+            "start_time": "5:20 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10156",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Stillman Hall",
+            "building": "Stillman Hall 100",
+            "room": "100",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10157",
+        "section": "0031",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2017",
+            "room": "2017",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10158",
+        "section": "0032",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1009",
+            "room": "1009",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10159",
+        "section": "0033",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1009",
+            "room": "1009",
+            "start_time": "5:20 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4505",
+    "title": "Introduction to Nuclear Science and Engineering",
+    "description": "Discussion of nuclear energy and nuclear radiation; sources, methods of utilization, and projections for future engineering uses.\nPrereq: Math 2153 or above and Physics 1251, or permission of instructor. Not open to students with credit for NuclrEn 4505. Cross-listed in NuclrEn.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Math 2153",
+          "Physics 1251",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "NuclrEn 4505"
+      ]
+    },
+    "catalog_number": "4505",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6081",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 160",
+            "room": "160",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4194",
+    "title": "Group Studies in Mechanical Engineering",
+    "description": "Special topics in mechanical engineering. The particular topic, credit hours, and the instructor will be announced the semester previous to the one in which the course is offered.\r\nPrereq: Permission of instructor. Repeatable to a maximum of 10 cr hrs or 10 completions.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4194",
+    "term": "Autumn 2025",
+    "units": 5,
+    "sections": [
+      {
+        "class_number": "36859",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 2144",
+            "room": "2144",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ted Allen",
+                "role": "PI",
+                "email": "allen.515@osu.edu"
+              },
+              {
+                "name": "Anthony Frank Luscher",
+                "role": "PI",
+                "email": "luscher.3@osu.edu"
+              },
+              {
+                "name": "Menachem Kimchi",
+                "role": "PI",
+                "email": "kimchi.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 3671",
+    "title": "Design and Analysis of Machine Elements II",
+    "description": "Continuation of 3670 and 3571.\nPrereq: 3670 or 3676, and 3751, and enrollment as MechEng-BS student; or permission of instructor. Not open to students with credit for 563, or to MechEng pre-majors.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3670",
+          "MECHENG 3676",
+          "MECHENG 3751",
+          "and enrollment as MechEng-BS student;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "563",
+        "to MechEng pre-majors"
+      ]
+    },
+    "catalog_number": "3671",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6245",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Chem & Biomolecular Eng & Chem",
+            "building": "CBEC 130",
+            "room": "130",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 3870",
+    "title": "Introduction to Measurements and Data Analysis in Mechanical Engineering",
+    "description": "Foundation in experimental measurement and data analysis in mechanical engineering; team planning and execution of experiments; technical report writing.\nPrereq: Stat 3450 or equiv; and GE Foundation Writing and Information Literacy course; and enrollment as MechEng-BS student; Prereq or concur: 3503 and 2900; or permission of the department.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Stat 3450",
+          "equiv"
+        ],
+        [
+          "GE Foundation Writing and Information Literacy course"
+        ],
+        [
+          "enrollment as MechEng-BS student;"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 3503",
+          "MECHENG 2900",
+          "permission of the department"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3870",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6027",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 180",
+            "room": "180",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6083",
+        "section": "0011",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W286",
+            "room": "W286",
+            "start_time": "12:45 pm",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6084",
+        "section": "0012",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W286",
+            "room": "W286",
+            "start_time": "4:10 pm",
+            "end_time": "6:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6085",
+        "section": "0013",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W286",
+            "room": "W286",
+            "start_time": "4:10 pm",
+            "end_time": "6:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6256",
+        "section": "0014",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W286",
+            "room": "W286",
+            "start_time": "9:10 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6255",
+        "section": "0015",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W286",
+            "room": "W286",
+            "start_time": "12:45 pm",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6329",
+        "section": "0016",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W286",
+            "room": "W286",
+            "start_time": "9:10 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4870",
+    "title": "Multidisciplinary Mechanical Engineering Laboratory",
+    "description": "Builds upon prior laboratory experiences and integrates thermal and mechanical system concepts; focus on problem solving using experimental and analytical/computational methods.\nPrereq: 3360, 3671, and 3870, and enrollment as MechEng-BS or EngPhys-BS student. Prereq or concur: 4510.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3360",
+          "MECHENG 3671",
+          "MECHENG 3870",
+          "and enrollment as MechEng-BS",
+          "EngPhys-BS student"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 4510"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4870",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "6265",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 113",
+            "room": "113",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6266",
+        "section": "0011",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W268",
+            "room": "W268",
+            "start_time": "12:40 pm",
+            "end_time": "3:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6294",
+        "section": "0012",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W268",
+            "room": "W268",
+            "start_time": "8:30 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6295",
+        "section": "0013",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W268",
+            "room": "W268",
+            "start_time": "12:40 pm",
+            "end_time": "3:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6296",
+        "section": "0014",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W268",
+            "room": "W268",
+            "start_time": "3:00 pm",
+            "end_time": "5:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6344",
+        "section": "0015",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W268",
+            "room": "W268",
+            "start_time": "8:30 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6345",
+        "section": "0016",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W268",
+            "room": "W268",
+            "start_time": "3:55 pm",
+            "end_time": "6:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4902.02",
+    "title": "ME Capstone Design II: Student Design Competitions",
+    "description": "Second course of 2-semester senior capstone series. Complete work on design project associated with student design competitions. Emphasis on detailed design, prototype, evaluation, and documentation.\nPrereq: 4902.01, and enrollment as MechEng-BS student (No ME pre-majors can enroll in this course); or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 4902"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4902.02",
+    "term": "Autumn 2025",
+    "units": 2.5,
+    "sections": [
+      {
+        "class_number": "9888",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 080",
+            "room": "080",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shawn W Midlam-Mohler",
+                "role": "PI",
+                "email": "midlam-mohler.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 2020",
+    "title": "Introduction to Mechanics of Materials",
+    "description": "Stress and strain analysis of deformable structural components subjected to unidirectional and combined loads; pressure vessels; stress transformations (Mohr's Circle); beam deflections; column buckling.\nPrereq: 2010 or 2010H. Not open to students with credit for 2040.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 2010",
+          "MECHENG 2010"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2040"
+      ]
+    },
+    "catalog_number": "2020",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6024",
+        "section": "0011",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E040",
+            "room": "E040",
+            "start_time": "12:40 pm",
+            "end_time": "1:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6025",
+        "section": "0012",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 020",
+            "room": "020",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6275",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "209 West Eighteenth Avenue",
+            "building": "209 W 18th Ave 170",
+            "room": "170",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6023",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 324",
+            "room": "324",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9467",
+        "section": "0031",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Stillman Hall",
+            "building": "Stillman Hall 100",
+            "room": "100",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "37587",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 250",
+            "room": "250",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "37590",
+        "section": "041",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E125",
+            "room": "E125",
+            "start_time": "6:30 pm",
+            "end_time": "7:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5162",
+    "title": "Introduction to Laminated Composite Materials",
+    "description": "Introduction to anisotropic material behavior and failure assessment of laminated composite materials. Classical lamination theory, beams, plates and shells.\r\nPrereq: 2020 (420) or 2040; or Grad standing in Engineering; or permission of instructor. Not open to students with credit for 662, 762, CivilEn 5162, 662, or 762. Cross-listed in CivilEn.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 2020",
+          "MECHENG 420",
+          "MECHENG 2040",
+          "Grad standing in Engineering;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "662",
+        "762",
+        "CivilEn 5162",
+        "662",
+        "762"
+      ]
+    },
+    "catalog_number": "5162",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36188",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 220",
+            "room": "220",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5427",
+    "title": "Introduction to Turbomachinery",
+    "description": "Introduction to analysis and design of turbomachinery.\r\nPrereq: 3503 or 3504 (504), or Grad standing in MechEng. Not open to students with credit for 627.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3503",
+          "MECHENG 3504",
+          "MECHENG 504",
+          "Grad standing in MechEng"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "627"
+      ]
+    },
+    "catalog_number": "5427",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36015",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 214",
+            "room": "214",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Clarissa Sara Katharina Belloni",
+                "role": "PI",
+                "email": "belloni.5@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "8:00 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Clarissa Sara Katharina Belloni",
+                "role": "PI",
+                "email": "belloni.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5374",
+    "title": "Smart Materials and Intelligent Systems",
+    "description": "Macromechanical modeling of smart materials including piezoceramics, magnetostrictives, shape memory alloys, magnetorheological fluids, and active polymers. Constitutive and system-level modeling. Design of smart dynamic systems.\r\nPrereq: 3360 (571) or 3361, or Grad standing in MechEng, or permission of instructor. Not open to students with credit for 774.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3360",
+          "MECHENG 571",
+          "MECHENG 3361",
+          "Grad standing in MechEng",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "774"
+      ]
+    },
+    "catalog_number": "5374",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6298",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E241",
+            "room": "E241",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4902.01",
+    "title": "ME Capstone Design I: Student Design Competitions",
+    "description": "First course of 2-semester capstone sequence. Students work on design problems arising from various student competitions in engineering. Emphasis on problem definition, requirements, and design proposal.\nPrereq: 3360, 3671, 3503, and 3870; and GenEd 1201 or 2601. Prereq or concur: 4510; and enrollment as a MechEng-BS Student; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3360",
+          "MECHENG 3671",
+          "MECHENG 3503",
+          "MECHENG 3870"
+        ],
+        [
+          "GenEd 1201",
+          "GenEd 2601"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 4510"
+        ],
+        [
+          "enrollment as a MechEng-BS Student;",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4902.01",
+    "term": "Autumn 2025",
+    "units": 2.5,
+    "sections": [
+      {
+        "class_number": "6044",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 238",
+            "room": "238",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shawn W Midlam-Mohler",
+                "role": "PI",
+                "email": "midlam-mohler.1@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 200",
+            "room": "200",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shawn W Midlam-Mohler",
+                "role": "PI",
+                "email": "midlam-mohler.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10115",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 264",
+            "room": "264",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4901.02",
+    "title": "ME Capstone Design II: General Projects",
+    "description": "Second course of 2-semester senior capstone series. Complete work on design problem proposed by faculty. Emphasis on detailed design, prototype, evaluation, and documentation.\nPrereq: 4901.01, and enrollment as MechEng-BS student (No ME pre-majors can enroll in this course); or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 4901"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4901.02",
+    "term": "Autumn 2025",
+    "units": 2.5,
+    "sections": [
+      {
+        "class_number": "6297",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 2017",
+            "room": "2017",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Russell Marzette",
+                "role": "PI",
+                "email": "marzette.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 5682.01",
+    "title": "Fundamentals of Product Design Engineering",
+    "description": "Lecture covering the fundamentals of the product design process, from concept creation to final implementation, including product architecture and design for manufacture and assembly. Only open to students enrolled in majors in the College of Engineering.\nPrereq: Jr, Sr, or Grad standing in the College of Engineering, or permission of instructor. Not open to students with credit for 5682.02.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr",
+          "Sr",
+          "Grad standing in the College of Engineering",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5682"
+      ]
+    },
+    "catalog_number": "5682.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6071",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annie Abell",
+                "role": "PI",
+                "email": "abell.9@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9846",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annie Abell",
+                "role": "PI",
+                "email": "abell.9@osu.edu"
+              },
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 2850.01",
+    "title": "Numerical Methods in Mechanical Engineering",
+    "description": "Numerical solutions of nonlinear equations, systems of linear equations, interpolation, curve-fitting, ordinary differential equations.\nPrereq: 2010 or 2040; and enrollment as MechEng-BS student; Prereq or concur: Math 2174, 2568, or 2415 or equiv.; or permission of department.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 2010",
+          "MECHENG 2040"
+        ],
+        [
+          "enrollment as MechEng-BS student;"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "Math 2174",
+          "Math 2568",
+          "Math 2415",
+          "equiv"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2850.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "6029",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 035",
+            "room": "035",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6086",
+        "section": "0011",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E200",
+            "room": "E200",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6087",
+        "section": "0012",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W280",
+            "room": "W280",
+            "start_time": "6:30 pm",
+            "end_time": "7:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6088",
+        "section": "0013",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E200",
+            "room": "E200",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "6263",
+        "section": "0014",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W280",
+            "room": "W280",
+            "start_time": "5:20 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MECHENG 4906.01",
+    "title": "ME Capstone Design I: Product Design",
+    "description": "First course of two-semester senior capstone series. Students begin to work on their design project. Emphasis on problem definition, requirements, design proposal.\nPrereq: 3360, 3671, 3870, and GenEd 1201 or GenEd 2601. Prereq or concur: 4510 and 5682.01, and enrollment as a MechEng-BS Student; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MECHENG 3360",
+          "MECHENG 3671",
+          "MECHENG 3870",
+          "GenEd 1201",
+          "GenEd 2601"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "MECHENG 4510",
+          "MECHENG 5682"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4906.01",
+    "term": "Autumn 2025",
+    "units": 2.5,
+    "sections": [
+      {
+        "class_number": "9395",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab W294",
+            "room": "W294",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annie Abell",
+                "role": "PI",
+                "email": "abell.9@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E103",
+            "room": "E103",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annie Abell",
+                "role": "PI",
+                "email": "abell.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "9918",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 133",
+            "room": "133",
+            "start_time": "3:55 pm",
+            "end_time": "6:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Dan Wisniewski",
+                "role": "PI",
+                "email": "wisniewski.28@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

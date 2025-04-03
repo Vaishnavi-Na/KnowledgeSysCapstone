@@ -1,0 +1,2299 @@
+[
+  {
+    "course": "DESIGN 3505",
+    "title": "Presentation as Thinking",
+    "description": "An overview of concepts, processes and modes of presenting information to create effective printed and digital communications.\nGE foundation lit, vis and performing arts course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3505",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16721",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Adam Lee Fromme",
+                "role": "PI",
+                "email": "fromme.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3305",
+    "title": "Visualization as Thinking",
+    "description": "An overview of concepts, processes and modes of communicating with visual media to effectively generate design proposals.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3305",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16720",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Zachary Thomas Winegardner",
+                "role": "PI",
+                "email": "winegardner.55@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 5102",
+    "title": "Advanced Interior Design I",
+    "description": "Principles of organizational strategy and interior identity development addressing the physical, social, and psychological context of work, leisure, and learning environments.\nPrereq: Enrollment in Interior Design major, or Grad standing, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Interior Design major",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5102",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16734",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 225",
+            "room": "225",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Susan Elizabeth Melsop",
+                "role": "PI",
+                "email": "melsop.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 4103",
+    "title": "Intermediate Visual Communication Design I",
+    "description": "Design and application of information systems in the production of visual communications within frameworks of theories of communication.\nPrereq: Enrollment in Visual Communication Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Visual Communication Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4103",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16730",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 205",
+            "room": "205",
+            "start_time": "8:30 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Meredith Sina Dixon",
+                "role": "PI",
+                "email": "dixon.1048@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3503",
+    "title": "Typographic Design",
+    "description": "Introduction to basic two- and three-dimensional practices in visual communication design; emphasis on typographic design and systematic method and research techniques.\nPrereq: Enrollment in Visual Communication Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Visual Communication Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3503",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16727",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 206",
+            "room": "206",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kevin Ward",
+                "role": "PI",
+                "email": "ward.1941@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 4200",
+    "title": "Design Research II",
+    "description": "Introduction to tools techniques and methods and mindsets of generative research.\nPrereq: Enrollment in Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16718",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 105",
+            "room": "105",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Liz Sanders",
+                "role": "PI",
+                "email": "sanders.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23485",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 105",
+            "room": "105",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Liz Sanders",
+                "role": "PI",
+                "email": "sanders.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3104",
+    "title": "Introduction to Game Design",
+    "description": "Introduction to Game Design introduces students to the principles of game design and provides opportunities for them to be put into practice using analog materials and methods. Students explore what motivates play, risk-taking and reward systems, and the visual design of games for serious applications and leisure. Create, test, and play games developed in the course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3104",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24714",
+        "section": "10",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 105",
+            "room": "105",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rae Hope Watters",
+                "role": "PI",
+                "email": "watters.95@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36053",
+        "section": "30",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 105",
+            "room": "105",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Scott Swearingen",
+                "role": "PI",
+                "email": "swearingen.16@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 4104",
+    "title": "Intermediate Game Design I",
+    "description": "Intermediate Game Design 1 introduces students to concepts for designing and prototyping digital games for entertainment, learning and social good. Students create, test, and play screen-based games developed in the course.\nPrereq: 3104.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "DESIGN 3104"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4104",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25457",
+        "section": "10",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 346",
+            "room": "346",
+            "start_time": "9:25 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Scott Swearingen",
+                "role": "PI",
+                "email": "swearingen.16@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3301",
+    "title": "Visualization Strategies for Industrial Design I",
+    "description": "Skill development in using freehand sketching for rapid concept generation, form development and communication in the context of Industrial Design.\nPrereq: Enrollment in Industrial Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Industrial Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3301",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16723",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 206",
+            "room": "206",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "John Eric Vanderveen",
+                "role": "PI",
+                "email": "vanderveen.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 4101",
+    "title": "Intermediate Industrial Design I",
+    "description": "Introduction to problem and opportunity identification in the context of product design. Experience with evaluative research methods and product design development process at the intermediate level.\nPrereq: Enrollment in Industrial Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Industrial Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4101",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16728",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 224",
+            "room": "224",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amanda Huynh",
+                "role": "PI",
+                "email": "huynh.310@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 2110",
+    "title": "Design Fundamentals I",
+    "description": "Introduction to form, organizational structures and problem solving in the context of basic 2D design.\nConcur: 2310.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "DESIGN 2310"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2110",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16786",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 234",
+            "room": "234",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emily Louise Valentine",
+                "role": "PI",
+                "email": "valentine.341@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "16787",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 234",
+            "room": "234",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emily Louise Valentine",
+                "role": "PI",
+                "email": "valentine.341@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "16788",
+        "section": "0030",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 334",
+            "room": "334",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Deborah A Scott",
+                "role": "PI",
+                "email": "scott.1765@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25626",
+        "section": "0040",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 334",
+            "room": "334",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Deborah A Scott",
+                "role": "PI",
+                "email": "scott.1765@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28971",
+        "section": "0050",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 234",
+            "room": "234",
+            "start_time": "3:55 pm",
+            "end_time": "6:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Deborah A Scott",
+                "role": "PI",
+                "email": "scott.1765@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 4102",
+    "title": "Intermediate Interior Design I",
+    "description": "Principles of space organization with FF&E (furniture, fixtures and equipment); the study of human-interior product interface relationships.\nPrereq: Enrollment in Interior Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Interior Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4102",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16729",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 225",
+            "room": "225",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Madison Sabatelli",
+                "role": "PI",
+                "email": "sabatelli.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 5502",
+    "title": "Interior Design Technology III",
+    "description": "Principles of environmental controls with a focus on artificial and natural lighting within the context of Interior Design including professional standards, building codes, human center guidelines, industry standard communication methods, and sustainability.\nPrereq: Enrollment in Interior Design major, or Grad standing, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Interior Design major",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5502",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "21895",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emily Louise Valentine",
+                "role": "PI",
+                "email": "valentine.341@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 2310",
+    "title": "Visual Principles and Techniques I",
+    "description": "Skill building in using drawing to observe, see, record and communicate characteristics of subjects, objects, information, environments, experiences and interactions.\nConcur: 2110.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "DESIGN 2110"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2310",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16782",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 234",
+            "room": "234",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Nina Ann Wolf",
+                "role": "PI",
+                "email": "wolf.977@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "16783",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 234",
+            "room": "234",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "16784",
+        "section": "0030",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 334",
+            "room": "334",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25627",
+        "section": "0040",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 334",
+            "room": "334",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kevin Ward",
+                "role": "PI",
+                "email": "ward.1941@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28973",
+        "section": "0050",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 234",
+            "room": "234",
+            "start_time": "3:55 pm",
+            "end_time": "6:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Susan GILLMOR Booher",
+                "role": "PI",
+                "email": "booher.24@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 5505",
+    "title": "Information Design",
+    "description": "Design principles related to visualizing quantitative information, processes and systems.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5505",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "23486",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 346D",
+            "room": "346D",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Yvette Shen",
+                "role": "PI",
+                "email": "shen.1049@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3200",
+    "title": "Design Research I",
+    "description": "Introduction to techniques and methods of evaluative research.\nPrereq: Enrollment in Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16717",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 048",
+            "room": "048",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kah Min Ong",
+                "role": "PI",
+                "email": "ong.123@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26456",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 048",
+            "room": "048",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Camille Snyder",
+                "role": "PI",
+                "email": "snyder.1409@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36054",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 043",
+            "room": "043",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Camille Snyder",
+                "role": "PI",
+                "email": "snyder.1409@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 5101",
+    "title": "Advanced Industrial Design I",
+    "description": "A competency with tools, skills, and materials in the exploration, creation, and production of products, artifacts, environments, systems, communication solutions, and services.\nPrereq: Enrollment in Industrial Design major, or Grad standing, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Industrial Design major",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5101",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16733",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 224",
+            "room": "224",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "William A Nickley",
+                "role": "PI",
+                "email": "nickley.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 2700",
+    "title": "Introduction to Design Practice",
+    "description": "Introduction to theory, rationale, practice, and societal impact of design; design process, critical issues, relationship to the environment.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2700",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16716",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Madison Sabatelli",
+                "role": "PI",
+                "email": "sabatelli.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3101",
+    "title": "Introduction to Industrial Design I",
+    "description": "Introduction to divergent thinking strategies including design research, observation, abstraction, evaluation and communication in the context of Industrial Design.\nPrereq: Enrollment in Industrial Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Industrial Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3101",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16722",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 224",
+            "room": "224",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amanda Huynh",
+                "role": "PI",
+                "email": "huynh.310@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3105",
+    "title": "Exploring Design Thinking",
+    "description": "An overview of concepts, processes and modes of identifying problems and proposing effective solutions from a design-oriented perspective.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3105",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16719",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Adam Lee Fromme",
+                "role": "PI",
+                "email": "fromme.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26457",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cockins Hall",
+            "building": "Cockins Hall 228",
+            "room": "228",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Adam Lee Fromme",
+                "role": "PI",
+                "email": "fromme.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 2750",
+    "title": "Design History",
+    "description": "A history of design as affected by technology, science, and cultural world view.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2750",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27128",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mary Anne Beecher",
+                "role": "PI",
+                "email": "beecher.17@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 4104",
+    "title": "Intermediate Game Design I",
+    "description": "Intermediate Game Design 1 introduces students to concepts for designing and prototyping digital games for entertainment, learning and social good. Students create, test, and play screen-based games developed in the course.\nPrereq: 3104.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "DESIGN 3104"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4104",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25457",
+        "section": "10",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 346",
+            "room": "346",
+            "start_time": "9:25 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Scott Swearingen",
+                "role": "PI",
+                "email": "swearingen.16@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 5103",
+    "title": "Advanced Visual Communication Design I",
+    "description": "Application of planning, analyzing, and designing in two- or three-dimensional visual communication systems; emphasis on application of design research, strategic thinking, creative concepts, and graphic implementation.\nPrereq: Enrollment in Visual Communication Design major, or Grad standing, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Visual Communication Design major",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5103",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16735",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 205",
+            "room": "205",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Peter Chan",
+                "role": "PI",
+                "email": "chan.179@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3103",
+    "title": "Introduction to Visual Communication Design I",
+    "description": "Design and application of graphic systems in the production of visual communications within frameworks of theories of communication and signs.\nPrereq: Enrollment in Visual Communication Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Visual Communication Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3103",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16726",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 206",
+            "room": "206",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Connor Mitchell",
+                "role": "PI",
+                "email": "mitchell.944@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3102",
+    "title": "Introduction to Interior Design I",
+    "description": "The study of the relationship of form, function and material within the context of Interior Design.\nPrereq: Enrollment in Interior Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Interior Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3102",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16724",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 225",
+            "room": "225",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jeffrey Lee Haase",
+                "role": "PI",
+                "email": "haase.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 4502",
+    "title": "Interior Design Technology II",
+    "description": "An overview of current and emerging materials, construction methods and manufacturing processes in Interior Design.\nPrereq: Enrollment in Interior Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Interior Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4502",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16732",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 225",
+            "room": "225",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jeffrey Lee Haase",
+                "role": "PI",
+                "email": "haase.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3453",
+    "title": "Design Media II for Visual Communication Design",
+    "description": "Digital, web-communications, user-interface and user-experience strategies for Visual Communication Design.\nPrereq: Enrollment in Visual Communication Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Visual Communication Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3453",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "37396",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 346",
+            "room": "346",
+            "start_time": "6:00 pm",
+            "end_time": "8:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Liz Hejny",
+                "role": "PI",
+                "email": "hejny.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 5203",
+    "title": "Design Research III for Visual Communication Design",
+    "description": "Addresses design opportunities, including the skills of problem identification, formulation, qualitative and quantitative research, analysis, synthesis, and project proposals for Visual Communication Design.\nPrereq: Enrollment in Visual Communication Design major, or Grad standing, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Visual Communication Design major",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5203",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "23533",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 205",
+            "room": "205",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Peter Chan",
+                "role": "PI",
+                "email": "chan.179@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 5202",
+    "title": "Design Research III for Interior Design",
+    "description": "Addresses design opportunities, including the skills of problem identification, formulation, qualitative and quantitative research, analysis, synthesis, and project proposals  for Interior Design.\nPrereq: Enrollment in Interior Design major, or Grad standing, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Interior Design major",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5202",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "23532",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 225",
+            "room": "225",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Susan Elizabeth Melsop",
+                "role": "PI",
+                "email": "melsop.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 5803",
+    "title": "Design Seminar for Visual Communication Design",
+    "description": "Investigation of issues and inquiry into topics of relevance to design; group discussions and analysis of events, processes, manifestations and procedures in Visual Communication Design.\nPrereq: Enrollment in Visual Communication Design major, or Grad standing, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Visual Communication Design major",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5803",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "23541",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 205",
+            "room": "205",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kevin Ward",
+                "role": "PI",
+                "email": "ward.1941@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 4401",
+    "title": "Design Media III for Industrial Design",
+    "description": "Time-based media and storytelling strategies for Industrial Design.\nPrereq: Enrollment in Industrial Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Industrial Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4401",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16731",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 346D",
+            "room": "346D",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maria Palazzi",
+                "role": "PI",
+                "email": "palazzi.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 4402",
+    "title": "Design Media III for Interior Design",
+    "description": "Time-based media and storytelling strategies for Interior Design.\nPrereq: Enrollment in Interior Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Interior Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4402",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "23871",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 346D",
+            "room": "346D",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Madison Sabatelli",
+                "role": "PI",
+                "email": "sabatelli.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3401",
+    "title": "Design Media I for Industrial Design",
+    "description": "Introductory-level digital, three-dimensional modeling and visualization strategies for Industrial Design.\nPrereq: Enrollment in Industrial Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Industrial Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3401",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16725",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 346D",
+            "room": "346D",
+            "start_time": "6:00 pm",
+            "end_time": "8:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ludwin M Mora",
+                "role": "PI",
+                "email": "mora.100@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 5201",
+    "title": "Design Research III for Industrial Design",
+    "description": "Addresses design opportunities, including the skills of problem identification, formulation, qualitative and quantitative research, analysis, synthesis, and project proposals for Industrial Design.\nPrereq: Enrollment in Industrial Design major, or Grad standing, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Industrial Design major",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5201",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16736",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 224",
+            "room": "224",
+            "start_time": "9:35 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "William A Nickley",
+                "role": "PI",
+                "email": "nickley.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 5801",
+    "title": "Design Seminar for Industrial Design",
+    "description": "Investigation of issues and inquiry into topics of relevance to design; group discussions and analysis of events, processes, manifestations and procedures in Industrial Design.\nPrereq: Enrollment in Industrial Design major, or Grad standing, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Industrial Design major",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5801",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24451",
+        "section": "10",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 224",
+            "room": "224",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Susan Elizabeth Melsop",
+                "role": "PI",
+                "email": "melsop.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 3402",
+    "title": "Design Media I for Interior Design",
+    "description": "Introductory-level digital, three-dimensional modeling and visualization strategies for Interior Design.\nPrereq: Enrollment in Interior Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Interior Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3402",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "23529",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 346D",
+            "room": "346D",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Madison Sabatelli",
+                "role": "PI",
+                "email": "sabatelli.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "DESIGN 4403",
+    "title": "Design Media III for Visual Communication Design",
+    "description": "Extended reality, immersive environments, and interactive media strategies for Visual Communication Design.\nPrereq: Enrollment in Visual Communication Design major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Visual Communication Design major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4403",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "23531",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 205",
+            "room": "205",
+            "start_time": "1:00 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shadrick Addy",
+                "role": "PI",
+                "email": "addy.29@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "course": "POLISH 1101",
+    "title": "Elementary Polish I",
+    "description": "Introduction to Polish; development of speaking, listening, reading, and writing skills in cultural context. Not open to native speakers of this language through regular course enrollment or EM credit, or to students with 2 or more years of study in this language in high school.\nPrereq: Not open to students with credit for 101. This course is available for EM credit. GE for lang course. GE world languages course. FL Admis Cond course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "101"
+      ]
+    },
+    "catalog_number": "1101",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "20314",
+        "section": "0010",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Derby Hall",
+            "building": "Derby Hall 062",
+            "room": "062",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Diana Joanna Sacilowski",
+                "role": "PI",
+                "email": "sacilowski.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "POLISH 1103",
+    "title": "Intermediate Polish I",
+    "description": "Continued development of speaking, listening, reading, and writing skills in cultural context. Closed to native speakers of this language.\nPrereq: 1102 (102.01). Not open to students with credit for 103. This course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "POLISH 1102",
+          "POLISH 102"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "103"
+      ]
+    },
+    "catalog_number": "1103",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "20313",
+        "section": "0010",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 135",
+            "room": "135",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Diana Joanna Sacilowski",
+                "role": "PI",
+                "email": "sacilowski.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "POLISH 1103",
+    "title": "Intermediate Polish I",
+    "description": "Continued development of speaking, listening, reading, and writing skills in cultural context. Closed to native speakers of this language.\nPrereq: 1102 (102.01). Not open to students with credit for 103. This course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "POLISH 1102",
+          "POLISH 102"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "103"
+      ]
+    },
+    "catalog_number": "1103",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "20313",
+        "section": "0010",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 135",
+            "room": "135",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Diana Joanna Sacilowski",
+                "role": "PI",
+                "email": "sacilowski.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

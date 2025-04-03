@@ -1,0 +1,201 @@
+[
+  {
+    "course": "MEATSCI 4510",
+    "title": "Processed Meats",
+    "description": "Exploring fundamental changes in soft animal tissues resulting from comminution and application of non-meat ingredients and a variety of cooking methodologies to enhance palatability and value.\r\nPrereq or concur: 3110, AnimSci 3110, or FdScTe 2400. Not open to students with credit for AnimSci 555.02.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "MEATSCI 3110",
+          "AnimSci 3110",
+          "FdScTe 2400"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "AnimSci 555"
+      ]
+    },
+    "catalog_number": "4510",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35621",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Animal Science Building",
+            "building": "Animal Science Bldg 117",
+            "room": "117",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Benjamin Bohrer",
+                "role": "PI",
+                "email": "bohrer.13@osu.edu"
+              },
+              {
+                "name": "Lynn Knipe",
+                "role": "PI",
+                "email": "knipe.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35622",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Animal Science Building",
+            "building": "Animal Science Bldg 117",
+            "room": "117",
+            "start_time": "10:10 am",
+            "end_time": "12:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Benjamin Bohrer",
+                "role": "PI",
+                "email": "bohrer.13@osu.edu"
+              },
+              {
+                "name": "Lynn Knipe",
+                "role": "PI",
+                "email": "knipe.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEATSCI 3110",
+    "title": "Introductory Meat Science",
+    "description": "Analysis of the principles of meat science as related to meat animal value factors, processing technology, and merchandising systems affecting the producer, processor, and consumer.\nPrereq: Biology 1101 or 1113. Not open to students with credit for AnimSci 3110. Cross-listed in AnimSci.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1101",
+          "Biology 1113"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "AnimSci 3110"
+      ]
+    },
+    "catalog_number": "3110",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "30133",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Animal Science Building",
+            "building": "Animal Science Bldg 117",
+            "room": "117",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lyda Guadalupe Garcia",
+                "role": "PI",
+                "email": "garcia.625@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEATSCI 3310",
+    "title": "Meat Animal and Carcass Evaluation",
+    "description": "Evaluating the factors that influence the value of meat animals and their resulting carcasses, wholesale and retail cuts in accordance with recognized grading standards; laboratory practice.\r\nPrereq: Not open to students with credit for AnimSci 305.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "AnimSci 305"
+      ]
+    },
+    "catalog_number": "3310",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "32617",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Animal Science Building",
+            "building": "Animal Science Bldg 117",
+            "room": "117",
+            "start_time": "3:00 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lyda Guadalupe Garcia",
+                "role": "PI",
+                "email": "garcia.625@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

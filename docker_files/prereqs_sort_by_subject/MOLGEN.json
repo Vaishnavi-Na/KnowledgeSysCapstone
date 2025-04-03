@@ -1,0 +1,1544 @@
+[
+  {
+    "course": "MOLGEN 4500.01",
+    "title": "General Genetics",
+    "description": "The principles of genetics, including molecular genetics, transmission genetics of prokaryotes and eukaryotes, developmental and non-chromosomal genetics, recombinant DNA and genomics, and the genetics and evolution of populations. Taught in person.\nPrereq: Biology 1101, 1113, or 1113H, and 3 additional sem cr hrs in Biological Sciences. Not open to students with credit for 4500, 4500.02, or 4606.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1101",
+          "Biology 1113",
+          "Biology 1113",
+          "and 3 additional sem cr hrs in Biological Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "4500",
+        "4500"
+      ]
+    },
+    "catalog_number": "4500.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26434",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 001",
+            "room": "001",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26435",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 180",
+            "room": "180",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 4501",
+    "title": "General Genetics Laboratory",
+    "description": "MolGen 4501 Laboratory complements the MolGen 4500 lecture course. It provides a laboratory experiences in a wide range of molecular genetic laboratory techniques and approaches, and utilization of relevant genetic model systems.\r\nPrereq or concur: 4500 or 4500E, or permission of instructor. Not open to students with credit for 5601 (601) or 5602 (602).",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "MOLGEN 4500",
+          "MOLGEN 4500",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5601 (601)",
+        "5602 (602)"
+      ]
+    },
+    "catalog_number": "4501",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "22944",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 024",
+            "room": "024",
+            "start_time": "9:10 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "22947",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 024",
+            "room": "024",
+            "start_time": "12:40 pm",
+            "end_time": "3:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 4500.01",
+    "title": "General Genetics",
+    "description": "The principles of genetics, including molecular genetics, transmission genetics of prokaryotes and eukaryotes, developmental and non-chromosomal genetics, recombinant DNA and genomics, and the genetics and evolution of populations. Taught in person.\nPrereq: Biology 1101, 1113, or 1113H, and 3 additional sem cr hrs in Biological Sciences. Not open to students with credit for 4500, 4500.02, or 4606.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1101",
+          "Biology 1113",
+          "Biology 1113",
+          "and 3 additional sem cr hrs in Biological Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "4500",
+        "4500"
+      ]
+    },
+    "catalog_number": "4500.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26434",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 001",
+            "room": "001",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26435",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 180",
+            "room": "180",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 5607",
+    "title": "Cell Biology",
+    "description": "Analysis of the structure and function of animal and plant cells and their components, stressing molecular genetic and biochemical approaches.\r\nPrereq: 4500 (500), 4500E, or 4606 (606). Not open to students with credit for 607, 607H, 5607E.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MOLGEN 4500",
+          "MOLGEN 500",
+          "MOLGEN 4500",
+          "MOLGEN 4606",
+          "MOLGEN 606"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "607",
+        "607H",
+        "5607E"
+      ]
+    },
+    "catalog_number": "5607",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24951",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1005",
+            "room": "1005",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Paul Kenneth Herman",
+                "role": "PI",
+                "email": "herman.81@osu.edu"
+              },
+              {
+                "name": "Iris Meier",
+                "role": "PI",
+                "email": "meier.56@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 5607E",
+    "title": "Cell Biology",
+    "description": "Analysis of the structure and function of animal and plant cells and their components, stressing molecular genetic and biochemical approaches. Embedded Honors includes a recitation that explores cell biology topics from the primary literature.\r\nPrereq: 4500 (500) or 4606 (606). Not open to students with credit for 5607 (607) or 5607H (607H).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MOLGEN 4500",
+          "MOLGEN 500",
+          "MOLGEN 4606",
+          "MOLGEN 606"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5607 (607)",
+        "5607H (607H)"
+      ]
+    },
+    "catalog_number": "5607E",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "19086",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1005",
+            "room": "1005",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Paul Kenneth Herman",
+                "role": "PI",
+                "email": "herman.81@osu.edu"
+              },
+              {
+                "name": "Iris Meier",
+                "role": "PI",
+                "email": "meier.56@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "19092",
+        "section": "0020",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Paul Kenneth Herman",
+                "role": "PI",
+                "email": "herman.81@osu.edu"
+              },
+              {
+                "name": "Iris Meier",
+                "role": "PI",
+                "email": "meier.56@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 5700",
+    "title": "Systems of Genetic Analysis",
+    "description": "Analysis of select fungal, invertebrate, vertebrate, and plant model systems used in modern experimental genetics.\r\nPrereq: 4500 (500), 4606 (606), 5607 (607), or 5608 (608), or Grad standing, or permission of instructor. Not open to students with credit for 700.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MOLGEN 4500",
+          "MOLGEN 500",
+          "MOLGEN 4606",
+          "MOLGEN 606",
+          "MOLGEN 5607",
+          "MOLGEN 607",
+          "MOLGEN 5608",
+          "MOLGEN 608",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "700"
+      ]
+    },
+    "catalog_number": "5700",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "19089",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Anna Dobritsa",
+                "role": "PI",
+                "email": "dobritsa.1@osu.edu"
+              },
+              {
+                "name": "Robin Philip Wharton",
+                "role": "SI",
+                "email": "wharton.88@osu.edu"
+              },
+              {
+                "name": "Heithem El-Hodiri",
+                "role": "SI",
+                "email": "el-hodiri.1@osu.edu"
+              },
+              {
+                "name": "Jian-Qiu Wu",
+                "role": "PI",
+                "email": "wu.620@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 5602",
+    "title": "Eukaryotic Cell and Developmental Biology Laboratory",
+    "description": "Laboratory course emphasizing techniques and methods central to cell and developmental biology of eukaryotes.\nPrereq: 4500 or 4606; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MOLGEN 4500",
+          "MOLGEN 4606",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5602",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "24991",
+        "section": "010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 930",
+            "room": "930",
+            "start_time": "12:40 pm",
+            "end_time": "5:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark A Seeger",
+                "role": "PI",
+                "email": "seeger.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 5645",
+    "title": "Quantitative, Population, and Evolutionary Genetics",
+    "description": "The genetics of populations, including quantitative, population, and evolutionary genetics.\r\nPrereq: 4500 (500) or 4606 (606). Not open to students with credit for 640 or EEOB 640.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MOLGEN 4500",
+          "MOLGEN 500",
+          "MOLGEN 4606",
+          "MOLGEN 606"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "640",
+        "EEOB 640"
+      ]
+    },
+    "catalog_number": "5645",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "21737",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shujun Ou",
+                "role": "PI",
+                "email": "ou.195@osu.edu"
+              },
+              {
+                "name": "Mark A Seeger",
+                "role": "PI",
+                "email": "seeger.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 3436",
+    "title": "Introductory Plant Physiology",
+    "description": "Topics in plant physiology at the introductory level: diffusion, transpiration, water stress, translocation, photosynthesis, plant growth hormones, tropisms, flowering, and fruit development. \r\nPrereq: Biology 1113 (133), 1113H (115H), 1114 (114), 1114H (116H), and 6 cr hrs in Chem. Not open to students with credit for PlntBio 436, 630 or 631.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1113",
+          "Biology 1113",
+          "Biology 115",
+          "Biology 1114",
+          "Biology 114",
+          "Biology 1114",
+          "Biology 116",
+          "and 6 cr hrs in Chem"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "PlntBio 436",
+        "630",
+        "631"
+      ]
+    },
+    "catalog_number": "3436",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24993",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David E Somers",
+                "role": "PI",
+                "email": "somers.24@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 4500E",
+    "title": "General Genetics",
+    "description": "The principles of genetics, including molecular genetics, transmission genetics of prokaryotes and eukaryotes, developmental and non-chromosomal genetics, recombinant DNA and genomics, and the genetics and evolution of populations.\r\nPrereq: Biology 1101 (101), 1113 (113), or 1113H (115H), and 3 additional cr hrs in the Biological Sciences. Not open to students with credit for MolGen 4606 (605 and 606), 500, or 500H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1101",
+          "Biology 1113",
+          "Biology 113",
+          "Biology 1113",
+          "Biology 115",
+          "and 3 additional cr hrs in the Biological Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "MolGen 4606 (605",
+        "606)",
+        "500",
+        "500H"
+      ]
+    },
+    "catalog_number": "4500E",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "19090",
+        "section": "0020",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25000",
+        "section": "040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 001",
+            "room": "001",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26443",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 180",
+            "room": "180",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 2220H",
+    "title": "Introduction to Molecular Life Sciences: Research Opportunities and Career Options",
+    "description": "Faculty presentations and facility tours to introduce first- and second- year students to research opportunities in molecular life sciences.\r\nPrereq: Honors standing, and Biology 1101 (101), 1113 (113), or 1113H (115H), and 3 additional cr hrs in Biological Sciences; or permission of instructor. Not open to students with credit for 220H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "Biology 1101",
+          "Biology 1113",
+          "Biology 113",
+          "Biology 1113",
+          "Biology 115",
+          "and 3 additional cr hrs in Biological Sciences;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "220H"
+      ]
+    },
+    "catalog_number": "2220H",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "18849",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "5:20 pm",
+            "end_time": "6:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Anita K Hopper",
+                "role": "PI",
+                "email": "hopper.64@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 4606",
+    "title": "Molecular Genetics",
+    "description": "A comprehensive genetics course for majors covering transmission and molecular genetics; DNA replication, repair and mutation; transcription and translation; analysis and manipulation of genes at the molecular level.\r\nPrereq: Biology 1113 (113), 1113H (115H), 1114 (114), 1114H (116H), or Chem 1210 (121) or equiv, or permission of instructor. Not open to students with credit for 605 or 606; or 4500 (500) unless waived by instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1113",
+          "Biology 1113",
+          "Biology 115",
+          "Biology 1114",
+          "Biology 114",
+          "Biology 1114",
+          "Biology 116",
+          "Chem 1210",
+          "equiv",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "605",
+        "606;",
+        "4500 (500) unless waived by instructor"
+      ]
+    },
+    "catalog_number": "4606",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "19016",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 060",
+            "room": "060",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Gregory Charles Booton",
+                "role": "PI",
+                "email": "booton.1@osu.edu"
+              },
+              {
+                "name": "Christine Cucinotta",
+                "role": "PI",
+                "email": "cucinotta.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "19017",
+        "section": "0020",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "19018",
+        "section": "0030",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "19019",
+        "section": "0040",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 4500E",
+    "title": "General Genetics",
+    "description": "The principles of genetics, including molecular genetics, transmission genetics of prokaryotes and eukaryotes, developmental and non-chromosomal genetics, recombinant DNA and genomics, and the genetics and evolution of populations.\r\nPrereq: Biology 1101 (101), 1113 (113), or 1113H (115H), and 3 additional cr hrs in the Biological Sciences. Not open to students with credit for MolGen 4606 (605 and 606), 500, or 500H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1101",
+          "Biology 1113",
+          "Biology 113",
+          "Biology 1113",
+          "Biology 115",
+          "and 3 additional cr hrs in the Biological Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "MolGen 4606 (605",
+        "606)",
+        "500",
+        "500H"
+      ]
+    },
+    "catalog_number": "4500E",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "19090",
+        "section": "0020",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25000",
+        "section": "040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 001",
+            "room": "001",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26443",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 180",
+            "room": "180",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 4501",
+    "title": "General Genetics Laboratory",
+    "description": "MolGen 4501 Laboratory complements the MolGen 4500 lecture course. It provides a laboratory experiences in a wide range of molecular genetic laboratory techniques and approaches, and utilization of relevant genetic model systems.\r\nPrereq or concur: 4500 or 4500E, or permission of instructor. Not open to students with credit for 5601 (601) or 5602 (602).",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "MOLGEN 4500",
+          "MOLGEN 4500",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5601 (601)",
+        "5602 (602)"
+      ]
+    },
+    "catalog_number": "4501",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "22944",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 024",
+            "room": "024",
+            "start_time": "9:10 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "22947",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 024",
+            "room": "024",
+            "start_time": "12:40 pm",
+            "end_time": "3:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 5700",
+    "title": "Systems of Genetic Analysis",
+    "description": "Analysis of select fungal, invertebrate, vertebrate, and plant model systems used in modern experimental genetics.\r\nPrereq: 4500 (500), 4606 (606), 5607 (607), or 5608 (608), or Grad standing, or permission of instructor. Not open to students with credit for 700.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MOLGEN 4500",
+          "MOLGEN 500",
+          "MOLGEN 4606",
+          "MOLGEN 606",
+          "MOLGEN 5607",
+          "MOLGEN 607",
+          "MOLGEN 5608",
+          "MOLGEN 608",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "700"
+      ]
+    },
+    "catalog_number": "5700",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "19089",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Anna Dobritsa",
+                "role": "PI",
+                "email": "dobritsa.1@osu.edu"
+              },
+              {
+                "name": "Robin Philip Wharton",
+                "role": "SI",
+                "email": "wharton.88@osu.edu"
+              },
+              {
+                "name": "Heithem El-Hodiri",
+                "role": "SI",
+                "email": "el-hodiri.1@osu.edu"
+              },
+              {
+                "name": "Jian-Qiu Wu",
+                "role": "PI",
+                "email": "wu.620@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 4703",
+    "title": "Human Genetics",
+    "description": "This course covers principles of human genetics, including mapping and identification of disease genes, animal models, genetic testing and gene therapy, with a focus on reading the primary scientific literature.\nPrereq: A grade of C- or above in 4500 or 4606, or permission of instructor. Not open to students with credit for 5733.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "MOLGEN 4500",
+          "MOLGEN 4606",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5733"
+      ]
+    },
+    "catalog_number": "4703",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25906",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 034",
+            "room": "034",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Heithem El-Hodiri",
+                "role": "PI",
+                "email": "el-hodiri.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 5701",
+    "title": "DNA Transactions and Gene Regulation",
+    "description": "Understanding mechanisms of DNA replication, DNA repair and recombination, transcription, translation, regulation of gene expression, and the experimental approaches to these topics.\nPrereq: 4500, 4606, Biochem 4511, or equiv., and Sr standing; or Grad standing; or permission of instructor. Not open to students with credit for Biochem 5701. Cross-listed in Biochem.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MOLGEN 4500",
+          "MOLGEN 4606",
+          "Biochem 4511",
+          "equiv"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "Biochem 5701"
+      ]
+    },
+    "catalog_number": "5701",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "19217",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 251",
+            "room": "251",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Matthew Bisaro",
+                "role": "PI",
+                "email": "bisaro.1@osu.edu"
+              },
+              {
+                "name": "Craig Joseph Burd",
+                "role": "PI",
+                "email": "burd.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 5650",
+    "title": "Analysis and Interpretation of Biological Data",
+    "description": "Methods of analyzing biological data including: sampling, descriptive statistics, distributions, analysis of variance, inference, regression, and correlation. Emphasizes practical applications of statistics in the biological sciences.\r\nPrereq: Math 1149 or 1150 (150) or equiv, and 10 semester cr hrs at the 3000-level (or 300 level in the quarter system) or above in Agricultural or Biological Sciences. Not open to students with credit for 650.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Math 1149",
+          "Math 1150",
+          "Math 150",
+          "equiv",
+          "Math 3000",
+          "Math 300",
+          "above in Agricultural",
+          "Biological Sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "650"
+      ]
+    },
+    "catalog_number": "5650",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "19021",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 684",
+            "room": "684",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Gregory Charles Booton",
+                "role": "PI",
+                "email": "booton.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MOLGEN 4581S",
+    "title": "BioEYES: Hands-on STEM learning with zebrafish in Columbus Public Elementary Schools",
+    "description": "A service learning course whereby undergraduates mentor and provide hands on science experiences for upper level elementary school students using the established BioEYES curriculum. Students will be required to participate in off-campus activities; some evening/weekend meetings may be required. \nPrereq: Biology 1113, and an upper division course in a science or science education department; or permission of instructor. Repeatable to a maximum of 3 cr hrs or 3 completions. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1113",
+          "and an upper division course in a science",
+          "science education department;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4581S",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "27826",
+        "section": "010",
+        "component": "Workshop",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sharon L Amacher",
+                "role": "PI",
+                "email": "amacher.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

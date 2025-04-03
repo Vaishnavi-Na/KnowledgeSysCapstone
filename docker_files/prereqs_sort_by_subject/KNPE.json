@@ -1,0 +1,344 @@
+[
+  {
+    "course": "KNPE 2262",
+    "title": "Coaching the Young Athlete",
+    "description": "Skills and knowledge to coach young athletes.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2262",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11052",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samuel Russell Hodge",
+                "role": "PI",
+                "email": "hodge.14@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNPE 5544",
+    "title": "Introduction to Adapted Physical Activity",
+    "description": "Introduction to adapted physical activity across school, community, and clinical settings.\r\nPrereq: Major in the College of EHE, or permission of instructor. Not open to students with credit for EduPAES 544.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Major in the College of EHE",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EduPAES 544"
+      ]
+    },
+    "catalog_number": "5544",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11218",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 160",
+            "room": "160",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samuel Russell Hodge",
+                "role": "PI",
+                "email": "hodge.14@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A060",
+            "room": "A060",
+            "start_time": "6:00 pm",
+            "end_time": "8:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Samuel Russell Hodge",
+                "role": "PI",
+                "email": "hodge.14@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNPE 3305",
+    "title": "Court Sports",
+    "description": "Prepares students to instruct techniques and tactics of court sports in sport, recreation and educational settings.\nPrereq: Pre-major or major in PESPA, and coaching education minor or physical activity specialist minor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Pre-major",
+          "major in PESPA",
+          "and coaching education minor",
+          "physical activity specialist minor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3305",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11215",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A019",
+            "room": "A019",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNPE 4741",
+    "title": "Teaching Physical Education in Secondary Schools",
+    "description": "The purpose of this course is to provide pedagogy and pedagogical content knowledge in physical education at the secondary school.\r\nPrereq: Admission to PETE undergrad major or permission of instructor. Not open to students with credit for EduPAES 741.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Admission to PETE undergrad major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EduPAES 741"
+      ]
+    },
+    "catalog_number": "4741",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11792",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A019",
+            "room": "A019",
+            "start_time": "8:00 am",
+            "end_time": "11:30 am",
+            "days": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sam Meyerhoff",
+                "role": "PI",
+                "email": "meyerhoff.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNPE 4780",
+    "title": "Seminar for Student Teaching",
+    "description": "Seminar designed to connect students' school-based internship experiences with pedagogical knowledge through discussions and reflections about teaching physical education.\r\nPrereq: admission to PETE undergrad major and GPA 2.75 or above. Concur: 4191.01 and 4191.02. Not open to students with credit for EduPAES 780.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "admission to PETE undergrad major and GPA 2"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "KNPE 4191"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EduPAES 780"
+      ]
+    },
+    "catalog_number": "4780",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "11217",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 074",
+            "room": "074",
+            "start_time": "4:30 pm",
+            "end_time": "6:20 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Traci Lynn Grissom",
+                "role": "PI",
+                "email": "grissom.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNPE 3520",
+    "title": "Content in Lower Elementary Physical Education",
+    "description": "An indepth analysis of the content and instruction of an lower elementary school Physical Education curriculum. Students will develop skills and knowledge in developmentally appropriate content in elementary physical education.\r\nPrereq: Admission to a Physical Education teacher Education major. Not open to students with credit for EduPAES 520.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Admission to a Physical Education teacher Education major"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EduPAES 520"
+      ]
+    },
+    "catalog_number": "3520",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11216",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A145",
+            "room": "A145",
+            "start_time": "8:00 am",
+            "end_time": "10:45 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lin-Hsiang Kang",
+                "role": "PI",
+                "email": "kang.1326@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

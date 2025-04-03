@@ -1,0 +1,1461 @@
+[
+  {
+    "course": "PUBAFRS 4020",
+    "title": "Contemporary Issues in Governance: Washington DC",
+    "description": "Academic seminar of the Washington Academic Internship Program. Students will study public policy and management in the federal context. Discussion of common readings will expose students to topical issues in governance and provide a unique opportunity to apply knowledge, utilize analytical tools, and research various subjects in the environment in which policy and administration takes place.\nPrereq: Jr standing, and acceptance into the Washington Academic Internship Program. Not open to students with credit for 4011.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr standing",
+          "and acceptance into the Washington Academic Internship Program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "4011"
+      ]
+    },
+    "catalog_number": "4020",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3916",
+        "section": "10",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 pm",
+            "end_time": "8:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matthew Louis Bango",
+                "role": "PI",
+                "email": "bango.10@osu.edu"
+              },
+              {
+                "name": "Margaret K. O'Hora",
+                "role": "PI",
+                "email": "ohora.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 4021",
+    "title": "Research Paper in Public Affairs: Washington DC",
+    "description": "Capstone course to write an analytic research paper that examines an important policy or management challenge in the public sector. Paper will be written as part of participation in Washington Academic Internship Program.\nPrereq: Jr or Sr standing, and acceptance into Washington Academic Internship Program. Concur: 4020 and 4191.02.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr",
+          "Sr standing",
+          "and acceptance into Washington Academic Internship Program"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "PUBAFRS 4020",
+          "PUBAFRS 4191"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4021",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4012",
+        "section": "20",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 pm",
+            "end_time": "8:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matthew Louis Bango",
+                "role": "PI",
+                "email": "bango.10@osu.edu"
+              },
+              {
+                "name": "Margaret K. O'Hora",
+                "role": "PI",
+                "email": "ohora.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 2110",
+    "title": "Introduction to Public Affairs",
+    "description": "Introduces students to the policymaking process and the core crafts on which schools of public affairs focus: policy analysis & evaluation and public administration & management.\nGE soc sci human, nat, and econ resources course. GE foundation social and behavioral sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2110",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3994",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith Zimomra",
+                "role": "PI",
+                "email": "zimomra.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "4069",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 010",
+            "room": "010",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jozef C Raadschelders",
+                "role": "PI",
+                "email": "raadschelders.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 4011",
+    "title": "Public Affairs Capstone",
+    "description": "A capstone course for public affairs majors that focuses on the integration and application of public affairs knowledge and skills, as well as the transition from undergraduate study. Students complete an applied analysis or research paper on a policy or management topic of interest to them.\nPrereq: 2110, 2120, 3000, and 3500.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PUBAFRS 2110",
+          "PUBAFRS 2120",
+          "PUBAFRS 3000",
+          "PUBAFRS 3500"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4011",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4006",
+        "section": "20",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 1046",
+            "room": "1046",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Neal H Hooker",
+                "role": "PI",
+                "email": "hooker.27@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "37091",
+        "section": "30",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 005",
+            "room": "005",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith Zimomra",
+                "role": "PI",
+                "email": "zimomra.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 3110",
+    "title": "Education Policy in a Changing World",
+    "description": "Reviews how political actors and institutions govern K-12 public education in the United States and helps students analyze contemporary education policy debates.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3110",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4050",
+        "section": "40",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 175",
+            "room": "175",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Stephane Lavertu",
+                "role": "PI",
+                "email": "lavertu.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 4000",
+    "title": "Public Policy Evaluation",
+    "description": "Students learn how to design and perform policy evaluations focused on policy processes and outcomes, using both qualitative and quantitative data. There is particular emphasis on the development of research designs and application of analytic methods for public policy evaluation.\nPrereq: 3000.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PUBAFRS 3000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36314",
+        "section": "20",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 185",
+            "room": "185",
+            "start_time": "11:10 am",
+            "end_time": "12:20 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Neal H Hooker",
+                "role": "PI",
+                "email": "hooker.27@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 4030",
+    "title": "Public Budgeting",
+    "description": "Provides a high-level understanding of budgeting processes at all levels of government and in the nonprofit sector, as well as the fundamentals of public budgeting from the perspective of a practitioner. Reviews basic methods for public sector budgeting and analysis.\nPrereq: Econ 2001.01, 2001.02, or 2001.03.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Econ 2001"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4030",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4048",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 129",
+            "room": "129",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark Barbash",
+                "role": "PI",
+                "email": "barbash.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "4051",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Orton Hall",
+            "building": "Orton Hall 110",
+            "room": "110",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Megan N Kilgore",
+                "role": "PI",
+                "email": "kilgore.41@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Megan N Kilgore",
+                "role": "PI",
+                "email": "kilgore.41@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 4010",
+    "title": "Public Affairs Decision-Making",
+    "description": "Introduces students to research on decision-making and its practical application in the public and non-profit sectors. Draws on interdisciplinary scholarship that examines how people make decisions and considers the application of these insights in the design of public policy and the management of public and non-profit organizations.\nPrereq: 3000.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PUBAFRS 3000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4010",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3914",
+        "section": "10",
+        "component": "Seminar",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lisa Christen Gajary",
+                "role": "PI",
+                "email": "gajary.2@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 160",
+            "room": "160",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lisa Christen Gajary",
+                "role": "PI",
+                "email": "gajary.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 1100",
+    "title": "Public Affairs Advising Survey",
+    "description": "Introduction to the Public Affairs major at Ohio State, as well as University and Glenn School academic policies and procedures.\r\nPrereq: Permission of instructor. Not open to students with credit for 100. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "100"
+      ]
+    },
+    "catalog_number": "1100",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "3997",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 130",
+            "room": "130",
+            "start_time": "2:20 pm",
+            "end_time": "3:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Vivian Xylia Ballon",
+                "role": "PI",
+                "email": "ballon.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 2130",
+    "title": "Leadership in the Public and Nonprofit Sectors",
+    "description": "Students examine theories of leadership; learn the unique challenges of being a leader in the public or nonprofit sectors; analyze the practices, strategies, and habits of successful leaders; and assess their own leadership competencies. Recommended prereq: 2110.\nPrereq: Not open to students with credit for 290.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "290"
+      ]
+    },
+    "catalog_number": "2130",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4004",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 115",
+            "room": "115",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jennifer Harris",
+                "role": "PI",
+                "email": "harris.3973@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "4078",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 125",
+            "room": "125",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark McCulloch",
+                "role": "PI",
+                "email": "mcculloch.63@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 4310",
+    "title": "State and Local Government Finance",
+    "description": "Financing public services by state/local governments. The fiscal relationship between state/local governments and the federal government. Apply techniques of economic analysis to policy issues.\nPrereq: Econ 2001.01, 2001.02, or 2001.03. Cross-listed in Econ.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Econ 2001"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4310",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4072",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 082",
+            "room": "082",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tricia Lynn Petras",
+                "role": "PI",
+                "email": "petras.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "4054",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 164",
+            "room": "164",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "James Richard Landers",
+                "role": "PI",
+                "email": "landers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 3000",
+    "title": "Public Policy Analysis",
+    "description": "Introduces students to the concepts, theories, and methods of applied policy analysis. Students develop an understanding of market failures and the tools available to public sector actors to mitigate them. Students also learn various methodological approaches to analyze public policy at the formulation and implementation stages.\nPrereq: Econ 2001.01, 2001.02, or 2001.03, and GE Data Analysis course; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Econ 2001"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4052",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 010",
+            "room": "010",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tricia Lynn Petras",
+                "role": "PI",
+                "email": "petras.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "4094",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 010",
+            "room": "010",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Victor St. John",
+                "role": "PI",
+                "email": "stjohn.76@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 2367",
+    "title": "Writing and Communication in Public Affairs",
+    "description": "Being an effective communicator can determine the reach and impact of policy, as well as the ability to influence change. In this course, you will become a better writer and speaker on a topic of public policy; including communicating to diverse audiences with differing information demands.\nPrereq: English 1110 or equivalent, and sophomore standing; or permission of instructor. GE writing and comm course: level 2.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110",
+          "equivalent",
+          "and sophomore standing;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2367",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4026",
+        "section": "10",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E241",
+            "room": "E241",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith Zimomra",
+                "role": "PI",
+                "email": "zimomra.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "37365",
+        "section": "20",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 1040",
+            "room": "1040",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mandy Mallott",
+                "role": "PI",
+                "email": "mallott.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 3620",
+    "title": "US Space Policy and the Global Space Economy",
+    "description": "This course provides a broad survey of US space policy and the national and international actors in the aerospace enterprise. It will explore the origins of the social, political, and economic implications of space policy choices made by American leaders, as well as the geography of space pursuits and the motivations behind various countries' space policies.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3620",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4099",
+        "section": "20",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 060",
+            "room": "060",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "John Horack",
+                "role": "PI",
+                "email": "horack.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 3500",
+    "title": "Public Management",
+    "description": "Students are introduced to public management concepts and gain the competencies required to become effective public managers. They consider the unique challenges of managing public organizations and learn how to apply management tools to improve organizational performance. Recommended prereq: 2110.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3500",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4086",
+        "section": "20",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Evans Laboratory",
+            "building": "Evans Lab 2001",
+            "room": "2001",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Adrianna Braden",
+                "role": "PI",
+                "email": "braden.48@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "4095",
+        "section": "30",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 129",
+            "room": "129",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Megan A LePere-Schloop",
+                "role": "PI",
+                "email": "lepere-schloop.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 2150",
+    "title": "Nonprofit Organizing for Diversity and Justice",
+    "description": "The nonprofit sector is one of the primary venues in which Americans engage in citizenship behaviors, while also serving multiple roles which are central to the advancement of a well-functioning democracy. Through a combination of readings, writings, dialogic debates, and guest speakers, students will become informed nonprofit sector stakeholders and participants.\nGE theme citizenship for div and just wrld course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2150",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3984",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 175",
+            "room": "175",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Greg Wilson",
+                "role": "PI",
+                "email": "wilson.3615@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "4081",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 175",
+            "room": "175",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sophia Fifner",
+                "role": "PI",
+                "email": "fifner.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "4087",
+        "section": "50",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 206",
+            "room": "206",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Maham Ali",
+                "role": "PI",
+                "email": "ali.846@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 2120",
+    "title": "Public Service and Civic Engagement",
+    "description": "This course introduces students to the role an engaged citizenry plays in a democracy. Students will explore trends in civic engagement, the reasons behind these trends, and their consequences; along with issues of social equity in engagement and strategies to increase civic participation.\nGE theme citizenship for div and just wrld course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2120",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "3965",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 010",
+            "room": "010",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jill Clark",
+                "role": "PI",
+                "email": "clark.1099@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "4077",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 191",
+            "room": "191",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joseph David Henry",
+                "role": "PI",
+                "email": "henry.889@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "37332",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 062",
+            "room": "062",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bailey Gano",
+                "role": "PI",
+                "email": "gano.36@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36318",
+        "section": "50",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 369",
+            "room": "369",
+            "start_time": "11:10 am",
+            "end_time": "12:20 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Nazek Hapasha",
+                "role": "PI",
+                "email": "hapasha.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 3140",
+    "title": "Nonprofit Management and Governance",
+    "description": "This course prepares students to manage and lead nonprofit organizations. Through case studies and other materials, students will learn about topics such as organizational creation, leadership, strategic planning, performance evaluation, human resources, finance, marketing, and collaboration.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3140",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36652",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 040",
+            "room": "040",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Long Tran",
+                "role": "PI",
+                "email": "tran.872@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 2620",
+    "title": "Science, Engineering, and Technology for Policy and the Public Interest",
+    "description": "Science, engineering and technology policy problems are inherently interdisciplinary and challenging: science and engineering can be used to inform public policy; and public policy shapes the conditions and manner in which science and engineering are performed. This survey course will provide a fast-paced introduction to these realities using examples drawn from contemporary events and analyses.\nGE theme citizenship for div and just wrld course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2620",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4080",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 040",
+            "room": "040",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lisa A Frazier",
+                "role": "PI",
+                "email": "frazier.202@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBAFRS 2170",
+    "title": "Equity, Justice, and Public Service",
+    "description": "Through exploration of the definitions and intersectionality of concepts including race, gender, ethnicity, and socio-economic status, this course examines how public administration management decisions and policy result - or not - in socially equitable application.\nGE foundation race, ethnicity and gender div course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2170",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "4075",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 010",
+            "room": "010",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Todd M Suddeth",
+                "role": "PI",
+                "email": "suddeth.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

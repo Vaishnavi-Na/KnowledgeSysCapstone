@@ -1,0 +1,678 @@
+[
+  {
+    "course": "RELSTDS 2370",
+    "title": "Introduction to Comparative Religion",
+    "description": "Introduction to the academic study of religion through comparison among major traditions (Judaism, Christianity, Islam, Hinduism, Buddhism, etc.) and smaller communities.\nPrereq: English 1110 or equiv. Not open to students with credit for 2370H or CompStd 2370H or 2370. GE cultures and ideas and diversity global studies course. GE foundation historical and cultural studies and race, ethnicity and gender div course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110",
+          "equiv"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2370H",
+        "CompStd 2370H",
+        "2370"
+      ]
+    },
+    "catalog_number": "2370",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25314",
+        "section": "001",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 324",
+            "room": "324",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Isaac Amitai Weiner",
+                "role": "PI",
+                "email": "weiner.141@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26708",
+        "section": "002",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 185",
+            "room": "185",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26709",
+        "section": "003",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 185",
+            "room": "185",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27410",
+        "section": "004",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Kottman Hall",
+            "building": "Kottman Hall 116",
+            "room": "116",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27411",
+        "section": "005",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Kottman Hall",
+            "building": "Kottman Hall 116",
+            "room": "116",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "RELSTDS 3680",
+    "title": "Religion and Law in Comparative Perspective",
+    "description": "Comparative, interdisciplinary approach to studying religion and law. Drawing on concrete cases, historical studies, and theoretical literature, the course explores how the relationship between religion and law has been configured differently in different liberal democracies, such as the U.S., France, and Israel, and what this might mean for contemporary debates.\nPrereq: Not open to students with credit for History 3680. GE historical study and diversity global studies course. GE theme citizenship for div and just wrld course. Cross-listed in History.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "History 3680"
+      ]
+    },
+    "catalog_number": "3680",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26702",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Isaac Amitai Weiner",
+                "role": "PI",
+                "email": "weiner.141@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "RELSTDS 2102.01",
+    "title": "Literature and Religion",
+    "description": "Study of relationships between religion and secular literature; analysis of religious and spiritual elements of literature and film of diverse cultures and historical periods.\nPrereq: English 1110 (110) or equiv. Not open to students with credit for 2102.01H, CompStd 2102.01 (202.01), or 2102.01H (202.01H). GE lit and diversity global studies course. GE foundation lit, vis and performing arts course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110",
+          "equiv"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2102"
+      ]
+    },
+    "catalog_number": "2102.01",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "37120",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A103",
+            "room": "A103",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Spencer L Dew",
+                "role": "PI",
+                "email": "dew.50@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "RELSTDS 2370",
+    "title": "Introduction to Comparative Religion",
+    "description": "Introduction to the academic study of religion through comparison among major traditions (Judaism, Christianity, Islam, Hinduism, Buddhism, etc.) and smaller communities.\nPrereq: English 1110 or equiv. Not open to students with credit for 2370H or CompStd 2370H or 2370. GE cultures and ideas and diversity global studies course. GE foundation historical and cultural studies and race, ethnicity and gender div course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110",
+          "equiv"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2370H",
+        "CompStd 2370H",
+        "2370"
+      ]
+    },
+    "catalog_number": "2370",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25314",
+        "section": "001",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 324",
+            "room": "324",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Isaac Amitai Weiner",
+                "role": "PI",
+                "email": "weiner.141@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26708",
+        "section": "002",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 185",
+            "room": "185",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26709",
+        "section": "003",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 185",
+            "room": "185",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27410",
+        "section": "004",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Kottman Hall",
+            "building": "Kottman Hall 116",
+            "room": "116",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27411",
+        "section": "005",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Kottman Hall",
+            "building": "Kottman Hall 116",
+            "room": "116",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "RELSTDS 2102.02",
+    "title": "Comparative Sacred Texts",
+    "description": "Introduction to religious views of the universe, the supernatural, social organization, ethics, etc., through sacred texts (oral and written) of diverse cultures and historical periods.\nPrereq: English 1110.xx, or GE foundation writing and info literacy course, or equivalent. Not open to students with credit for CompStd 2102.02. GE lit and diversity global studies course. GE foundation lit, vis and performing arts course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "CompStd 2102"
+      ]
+    },
+    "catalog_number": "2102.02",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26748",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 175",
+            "room": "175",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kate Kaura",
+                "role": "PI",
+                "email": "kaura.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "RELSTDS 4873",
+    "title": "Contemporary Religious Movements in Global Context",
+    "description": "Examination of contemporary religious movements within the context of larger political, cultural, and economic processes, including post-colonialism, modernization, and globalization.\nPrereq: One course in CompStd, RelStds, or IntStds; or Grad standing; or permission of instructor. Not open to students with credit for CompStd 4873 or IntStds 4873. GE theme citizenship for div and just wrld course. Cross-listed in IntStds.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "One course in CompStd",
+          "RelStds",
+          "IntStds;",
+          "Grad standing;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "CompStd 4873",
+        "IntStds 4873"
+      ]
+    },
+    "catalog_number": "4873",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "37121",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 274",
+            "room": "274",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Hugh Bayard Urban",
+                "role": "PI",
+                "email": "urban.41@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "RELSTDS 2102.02",
+    "title": "Comparative Sacred Texts",
+    "description": "Introduction to religious views of the universe, the supernatural, social organization, ethics, etc., through sacred texts (oral and written) of diverse cultures and historical periods.\nPrereq: English 1110.xx, or GE foundation writing and info literacy course, or equivalent. Not open to students with credit for CompStd 2102.02. GE lit and diversity global studies course. GE foundation lit, vis and performing arts course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "CompStd 2102"
+      ]
+    },
+    "catalog_number": "2102.02",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26748",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 175",
+            "room": "175",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kate Kaura",
+                "role": "PI",
+                "email": "kaura.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "RELSTDS 3667",
+    "title": "Messages from Beyond: Divination, Prophecy, and the Occult in Religion and Culture",
+    "description": "In this course, we will explore how people from antiquity to our time have sought to find meaning in the complexity and uncertainty around their physical and social environment to access what they perceived as hidden realms as sources of meaning. Students will learn how messages from beyond guide their daily lives, provide them with sources of authority or companionship for their art of philosophy. \nPrereq: Not open to students with credit for NELC 3667. GE theme lived environments course. Cross-listed in NELC.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "NELC 3667"
+      ]
+    },
+    "catalog_number": "3667",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27776",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 050",
+            "room": "050",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Daniel Frank",
+                "role": "PI",
+                "email": "frank.152@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

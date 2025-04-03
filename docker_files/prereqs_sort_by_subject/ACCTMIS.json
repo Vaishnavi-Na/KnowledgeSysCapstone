@@ -1,0 +1,5364 @@
+[
+  {
+    "course": "ACCTMIS 4500",
+    "title": "Auditing Principles and Procedures",
+    "description": "Basic concepts and standards of auditing; audit procedures and working papers, internal and external audit reports; professional responsibilities of auditors.\nPrereq: 3200, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 3200",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4500",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2012",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 209",
+            "room": "209",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Patrick D Kielty",
+                "role": "PI",
+                "email": "kielty.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2013",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 205",
+            "room": "205",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amy M.G. Sheneman",
+                "role": "PI",
+                "email": "sheneman.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2016",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 205",
+            "room": "205",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amy M.G. Sheneman",
+                "role": "PI",
+                "email": "sheneman.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 2000",
+    "title": "Foundations of Accounting",
+    "description": "A survey of accounting for non-business students; financial statements and analysis; accounting for assets, liabilities and owners' equity; and elements of managerial accounting.\r\nPrereq: Not open to students with credit for 2200 (211), 2300 (212), or 310.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2200 (211)",
+        "2300 (212)",
+        "310"
+      ]
+    },
+    "catalog_number": "2000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2051",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2106",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2524",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "Distance Enhanced",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 2200",
+    "title": "Introduction to Accounting I",
+    "description": "Preparation and use of accounting reports for business entities; focus on uses of accounting for external reporting, emphasizing accounting as a provider of financial information.\r\nPrereq: Econ 2001.01 (200), or equiv. Not open to students with credit for 2000 (310) or 211, or equiv. This course is available for EM credit.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Econ 2001"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2000 (310)",
+        "211",
+        "equiv"
+      ]
+    },
+    "catalog_number": "2200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2799",
+        "section": "0080",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 300",
+            "room": "300",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Katie Wei Lem",
+                "role": "PI",
+                "email": "lem.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2800",
+        "section": "0081",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 300",
+            "room": "300",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Katie Wei Lem",
+                "role": "PI",
+                "email": "lem.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2854",
+        "section": "0090",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 208",
+            "room": "208",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Katie Wei Lem",
+                "role": "PI",
+                "email": "lem.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2855",
+        "section": "0091",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 208",
+            "room": "208",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Katie Wei Lem",
+                "role": "PI",
+                "email": "lem.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2052",
+        "section": "0101",
+        "component": "Recitation",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2053",
+        "section": "0110",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2054",
+        "section": "0120",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2055",
+        "section": "0130",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2056",
+        "section": "0140",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2057",
+        "section": "0150",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 275",
+            "room": "275",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2058",
+        "section": "0160",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2820",
+        "section": "0170",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 285",
+            "room": "285",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2059",
+        "section": "0201",
+        "component": "Recitation",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2060",
+        "section": "0210",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mason Hall",
+            "building": "Mason Hall 405",
+            "room": "405",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2061",
+        "section": "0220",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2062",
+        "section": "0230",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2063",
+        "section": "0240",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2064",
+        "section": "0250",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 285",
+            "room": "285",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2528",
+        "section": "0260",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 355",
+            "room": "355",
+            "start_time": "4:30 pm",
+            "end_time": "5:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2821",
+        "section": "0270",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 285",
+            "room": "285",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2065",
+        "section": "0301",
+        "component": "Recitation",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2066",
+        "section": "0310",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2067",
+        "section": "0320",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2068",
+        "section": "0330",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2069",
+        "section": "0340",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2529",
+        "section": "0350",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 355",
+            "room": "355",
+            "start_time": "6:00 pm",
+            "end_time": "7:20 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2070",
+        "section": "0360",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 275",
+            "room": "275",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36084",
+        "section": "0370",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 265",
+            "room": "265",
+            "start_time": "8:45 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2462",
+        "section": "0401",
+        "component": "Recitation",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2463",
+        "section": "0410",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 365",
+            "room": "365",
+            "start_time": "3:15 pm",
+            "end_time": "4:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2464",
+        "section": "0420",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 315",
+            "room": "315",
+            "start_time": "6:15 pm",
+            "end_time": "7:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2465",
+        "section": "0430",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 215",
+            "room": "215",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2466",
+        "section": "0440",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 275",
+            "room": "275",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2467",
+        "section": "0450",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 210",
+            "room": "210",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2506",
+        "section": "0460",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 306",
+            "room": "306",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36083",
+        "section": "0470",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 265",
+            "room": "265",
+            "start_time": "8:45 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2601",
+        "section": "0601",
+        "component": "Recitation",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2606",
+        "section": "0610",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mason Hall",
+            "building": "Mason Hall 405",
+            "room": "405",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2607",
+        "section": "0620",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 266",
+            "room": "266",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2608",
+        "section": "0630",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 266",
+            "room": "266",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2609",
+        "section": "0640",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 210",
+            "room": "210",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2618",
+        "section": "0650",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 275",
+            "room": "275",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2619",
+        "section": "0660",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 275",
+            "room": "275",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 2300",
+    "title": "Introduction to Accounting II",
+    "description": "The uses of accounting reports by managers to make business decisions and to control business operations; focus is on the internal use of accounting information.\r\nPrereq: 2200 (211) and Econ 2001.01 (200), or equiv. Not open to students with credit for 2000 (310) or 212, or equiv. This course is available for EM credit.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Econ 2001"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2000 (310)",
+        "212",
+        "equiv"
+      ]
+    },
+    "catalog_number": "2300",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2071",
+        "section": "0101",
+        "component": "Recitation",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2072",
+        "section": "0110",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2073",
+        "section": "0120",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2074",
+        "section": "0130",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2075",
+        "section": "0140",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2076",
+        "section": "0150",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2505",
+        "section": "0160",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2077",
+        "section": "0201",
+        "component": "Recitation",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2078",
+        "section": "0210",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 210",
+            "room": "210",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2079",
+        "section": "0220",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2080",
+        "section": "0230",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 275",
+            "room": "275",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2634",
+        "section": "0240",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mason Hall",
+            "building": "Mason Hall 405",
+            "room": "405",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2635",
+        "section": "0250",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 275",
+            "room": "275",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2400",
+        "section": "0260",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 265",
+            "room": "265",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2401",
+        "section": "0301",
+        "component": "Recitation",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2402",
+        "section": "0320",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2403",
+        "section": "0330",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 210",
+            "room": "210",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2404",
+        "section": "0340",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2405",
+        "section": "0350",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 275",
+            "room": "275",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2538",
+        "section": "0401",
+        "component": "Recitation",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 105",
+            "room": "105",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:15 pm",
+            "end_time": "9:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2539",
+        "section": "0410",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2636",
+        "section": "0420",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 355",
+            "room": "355",
+            "start_time": "4:30 pm",
+            "end_time": "5:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2540",
+        "section": "0430",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 220",
+            "room": "220",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2541",
+        "section": "0440",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 310",
+            "room": "310",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2542",
+        "section": "0450",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mason Hall",
+            "building": "Mason Hall 405",
+            "room": "405",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2543",
+        "section": "0460",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 320",
+            "room": "320",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Harris Smith",
+                "role": "PI",
+                "email": "smith.2126@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3300",
+    "title": "Cost Accounting",
+    "description": "Managerial decision making in organizations with an emphasis on the use of financial data; theory and practice of management control.\r\nPrereq: 2300 (212), BusMgt 2320 (330), 2321 (331), and BusMHR 2292 (BusAdm 499.01); or permission of instructor. Not open to students with credit for 525.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 2300",
+          "ACCTMIS 212",
+          "BusMgt 2320",
+          "BusMgt 2321",
+          "BusMgt 331",
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "525"
+      ]
+    },
+    "catalog_number": "3300",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2003",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 205",
+            "room": "205",
+            "start_time": "12:40 pm",
+            "end_time": "2:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Cynthia Williams Turner",
+                "role": "PI",
+                "email": "turner.1278@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2004",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 205",
+            "room": "205",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carlos C Corona",
+                "role": "PI",
+                "email": "corona.55@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2114",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 205",
+            "room": "205",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carlos C Corona",
+                "role": "PI",
+                "email": "corona.55@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2271",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 209",
+            "room": "209",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Xue Wang",
+                "role": "PI",
+                "email": "wang.4821@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3600",
+    "title": "Introduction to Accounting Information Systems",
+    "description": "The design of accounting information systems; focus is on business processes and internal control.\r\nPrereq: 3200 or 521, and BusMHR 2292 (BusAdm 499.01); or permission of instructor. Not open to students with credit for 631.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 3200",
+          "ACCTMIS 521",
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "631"
+      ]
+    },
+    "catalog_number": "3600",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2009",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 315",
+            "room": "315",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2583",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 315",
+            "room": "315",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 4410",
+    "title": "Tax Accounting II",
+    "description": "Intensive study of the federal income tax treatment of business corporations and partnerships, with particular attention to tax planning by these businesses and their owners.\nPrereq: 3400 and BusMHR 2292.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4410",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2796",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mason Hall",
+            "building": "Mason Hall 405",
+            "room": "405",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matthew S Hunter",
+                "role": "PI",
+                "email": "hunter.1003@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 4200",
+    "title": "Advanced Financial Accounting",
+    "description": "Advanced topics in financial reporting; may include accounting for multi-corporate business entities, international operations, and government and not-for-profit organizations.\r\nPrereq: 3201 (523) or 3201.02, and BusMHR 2292 (BusAdm 499.01). Not open to students with credit for 624.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 3201",
+          "ACCTMIS 523",
+          "ACCTMIS 3201"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "624"
+      ]
+    },
+    "catalog_number": "4200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2010",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 060",
+            "room": "060",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Laura N Feustel",
+                "role": "PI",
+                "email": "feustel.10@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2011",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 215",
+            "room": "215",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Laura N Feustel",
+                "role": "PI",
+                "email": "feustel.10@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2622",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 305",
+            "room": "305",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kathy Wantuch",
+                "role": "PI",
+                "email": "wantuch.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3300H",
+    "title": "Cost Accounting",
+    "description": "Theory and practice of management control with an emphasis on performance evaluation and reward.\r\nPrereq: Honors standing, and a grade of B or above in 2300H. Not open to students with credit for 525H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "and a grade of B",
+          "ACCTMIS 2300"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "525H"
+      ]
+    },
+    "catalog_number": "3300H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2005",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 285",
+            "room": "285",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rick Young",
+                "role": "PI",
+                "email": "young.53@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3400",
+    "title": "Tax Accounting I",
+    "description": "Fundamentals of the federal income tax, and how it influences taxpayer decisions. Emphasis is on the individuals and businesses organized as proprietorships, but rules generally applicable to all taxpayers are covered.\nPrereq: A grade of B or above in 2300H, or 3200 and BusMHR 2292.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of B",
+          "ACCTMIS 2300",
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3400",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2006",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 300",
+            "room": "300",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marissa Nelson",
+                "role": "PI",
+                "email": "nelson.1495@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2007",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 320",
+            "room": "320",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marissa Nelson",
+                "role": "PI",
+                "email": "nelson.1495@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2008",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 060",
+            "room": "060",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matthew S Hunter",
+                "role": "PI",
+                "email": "hunter.1003@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2480",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 205",
+            "room": "205",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marissa Nelson",
+                "role": "PI",
+                "email": "nelson.1495@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 4510",
+    "title": "Fraud Examination",
+    "description": "The course will cover all major methods employees use to commit occupational fraud involving the misappropriation of assets.\nPrereq: 3201 and 3600, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 3201",
+          "ACCTMIS 3600",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4510",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2857",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 315",
+            "room": "315",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Paul Izzo",
+                "role": "PI",
+                "email": "izzo.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 5500H",
+    "title": "Honors Auditing Principles and Procedures",
+    "description": "Basic concepts and standards of auditing; audit procedures and working papers, internal and external audit reports.\r\nPrereq: A grade of B or above in 3201H (520H), or permission of Honors Accounting Director. Not open to students with credit for 627H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of B",
+          "ACCTMIS 3201",
+          "ACCTMIS 520",
+          "permission of Honors Accounting Director"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "627H"
+      ]
+    },
+    "catalog_number": "5500H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2050",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 275",
+            "room": "275",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amy M.G. Sheneman",
+                "role": "PI",
+                "email": "sheneman.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3201",
+    "title": "Financial Accounting II",
+    "description": "Theory and application of accounting techniques to record and report financial information; asset and liability valuation; income measurement; second of two-course sequence.\r\nPrereq: 3200, 3200.02, or BusMHR 2292 (BusAdm 499.01); or permission of instructor. Not open to students with credit for 3201.02 or 523.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 3200",
+          "ACCTMIS 3200"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3201"
+      ]
+    },
+    "catalog_number": "3201",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2001",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 305",
+            "room": "305",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian R Monsen",
+                "role": "PI",
+                "email": "monsen.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2002",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 305",
+            "room": "305",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian R Monsen",
+                "role": "PI",
+                "email": "monsen.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2331",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 305",
+            "room": "305",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrew Van Buskirk",
+                "role": "PI",
+                "email": "vanbuskirk.54@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2582",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 305",
+            "room": "305",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian R Monsen",
+                "role": "PI",
+                "email": "monsen.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3200",
+    "title": "Financial Accounting I",
+    "description": "Theory and application of accounting techniques to record and report financial information; asset and liability valuation; income measurement; first of two-course sequence.\nPrereq: 2300, BusOBA 2320, 2321, BusMHR 2292, and Jr standing; or permission of instructor. Not open to students with credit for 3200.02.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 2300",
+          "BusOBA 2320",
+          "BusOBA 2321",
+          "BusMHR 2292",
+          "and Jr standing;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3200"
+      ]
+    },
+    "catalog_number": "3200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "1999",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 205",
+            "room": "205",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Paul Izzo",
+                "role": "PI",
+                "email": "izzo.23@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2000",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 200",
+            "room": "200",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kathy Wantuch",
+                "role": "PI",
+                "email": "wantuch.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2113",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 305",
+            "room": "305",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kathy Wantuch",
+                "role": "PI",
+                "email": "wantuch.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2531",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 200",
+            "room": "200",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kathy Wantuch",
+                "role": "PI",
+                "email": "wantuch.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3201H",
+    "title": "Financial Accounting II",
+    "description": "Study of theory and practice of financial accounting.\r\nPrereq: Honors standing, and a grade of B or above in 3200H. Not open to students with credit for 520H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "and a grade of B",
+          "ACCTMIS 3200"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "520H"
+      ]
+    },
+    "catalog_number": "3201H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35559",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 208",
+            "room": "208",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tzachi Zach",
+                "role": "PI",
+                "email": "zach.7@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 208",
+            "room": "208",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tzachi Zach",
+                "role": "PI",
+                "email": "zach.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 4650",
+    "title": "Decision Support and Expert Systems",
+    "description": "Study of computer-based systems designed to support decision-making within the organization.\r\nPrereq: CSE 3232 (616), BusMgt 2320 (330), and 2321 (331). Not open to students with credit for 657.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CSE 3232",
+          "BusMgt 2320",
+          "BusMgt 2321",
+          "BusMgt 331"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "657"
+      ]
+    },
+    "catalog_number": "4650",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2651",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 200",
+            "room": "200",
+            "start_time": "5:30 pm",
+            "end_time": "6:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David G Trimm",
+                "role": "PI",
+                "email": "trimm.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 4660",
+    "title": "Electronic Commerce",
+    "description": "Examination of technical, managerial, and strategic issues that surround the emergence of electronic commerce on the internet.\nPrereq: 3620 or CSE 3241; and BusOBA 2320, 2321 and BusMHR 2292.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 3620",
+          "CSE 3241"
+        ],
+        [
+          "BusOBA 2320",
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4660",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2695",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 205",
+            "room": "205",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David G Trimm",
+                "role": "PI",
+                "email": "trimm.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 2200H",
+    "title": "Introduction to Accounting I",
+    "description": "Structure and use of financial reports; role of accounting and auditing in markets and organizations.\r\nPrereq: Honors standing, and Soph standing. Not open to students with credit for 211H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "and Soph standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "211H"
+      ]
+    },
+    "catalog_number": "2200H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2739",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 375",
+            "room": "375",
+            "start_time": "11:30 am",
+            "end_time": "12:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ewa Sletten",
+                "role": "PI",
+                "email": "sletten.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2562",
+        "section": "0012",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 210",
+            "room": "210",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ewa Sletten",
+                "role": "PI",
+                "email": "sletten.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2138",
+        "section": "0013",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 210",
+            "room": "210",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ewa Sletten",
+                "role": "PI",
+                "email": "sletten.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36024",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 210",
+            "room": "210",
+            "start_time": "11:30 am",
+            "end_time": "12:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Katie Wei Lem",
+                "role": "PI",
+                "email": "lem.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2137",
+        "section": "0021",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 245",
+            "room": "245",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Katie Wei Lem",
+                "role": "PI",
+                "email": "lem.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3400",
+    "title": "Tax Accounting I",
+    "description": "Fundamentals of the federal income tax, and how it influences taxpayer decisions. Emphasis is on the individuals and businesses organized as proprietorships, but rules generally applicable to all taxpayers are covered.\nPrereq: A grade of B or above in 2300H, or 3200 and BusMHR 2292.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of B",
+          "ACCTMIS 2300",
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3400",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2006",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 300",
+            "room": "300",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marissa Nelson",
+                "role": "PI",
+                "email": "nelson.1495@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2007",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 320",
+            "room": "320",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marissa Nelson",
+                "role": "PI",
+                "email": "nelson.1495@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2008",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 060",
+            "room": "060",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matthew S Hunter",
+                "role": "PI",
+                "email": "hunter.1003@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2480",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 205",
+            "room": "205",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marissa Nelson",
+                "role": "PI",
+                "email": "nelson.1495@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 4630",
+    "title": "Business Systems Application Development",
+    "description": "Technical foundation in programming interactive business information systems.\nPrereq: 2300, CSE 2123, BusOBA 2320, 2321, and BusMHR 2292. Not open to students with credit for 3610.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 2300",
+          "CSE 2123",
+          "BusOBA 2320",
+          "BusOBA 2321",
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3610"
+      ]
+    },
+    "catalog_number": "4630",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2846",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 305",
+            "room": "305",
+            "start_time": "5:45 pm",
+            "end_time": "7:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Praveen Kumar",
+                "role": "PI",
+                "email": "kumar.388@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3400",
+    "title": "Tax Accounting I",
+    "description": "Fundamentals of the federal income tax, and how it influences taxpayer decisions. Emphasis is on the individuals and businesses organized as proprietorships, but rules generally applicable to all taxpayers are covered.\nPrereq: A grade of B or above in 2300H, or 3200 and BusMHR 2292.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of B",
+          "ACCTMIS 2300",
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3400",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2006",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 300",
+            "room": "300",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marissa Nelson",
+                "role": "PI",
+                "email": "nelson.1495@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2007",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 320",
+            "room": "320",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marissa Nelson",
+                "role": "PI",
+                "email": "nelson.1495@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2008",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Denney Hall",
+            "building": "Denney Hall 060",
+            "room": "060",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matthew S Hunter",
+                "role": "PI",
+                "email": "hunter.1003@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2480",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 205",
+            "room": "205",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marissa Nelson",
+                "role": "PI",
+                "email": "nelson.1495@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 5200H",
+    "title": "Honors Advanced Financial Accounting",
+    "description": "Advanced topics in financial reporting including accounting for multi-corporate business entities, international operations, and other topics.\r\nPrereq: Honors standing, and a grade of B or above in 3201H; or permission of Honors Accounting Director. Not open to students with credit for 624H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "and a grade of B",
+          "ACCTMIS 3201",
+          "permission of Honors Accounting Director"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "624H"
+      ]
+    },
+    "catalog_number": "5200H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2264",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 275",
+            "room": "275",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annette Louise Beatty",
+                "role": "PI",
+                "email": "beatty.86@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3201H",
+    "title": "Financial Accounting II",
+    "description": "Study of theory and practice of financial accounting.\r\nPrereq: Honors standing, and a grade of B or above in 3200H. Not open to students with credit for 520H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "and a grade of B",
+          "ACCTMIS 3200"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "520H"
+      ]
+    },
+    "catalog_number": "3201H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35559",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 208",
+            "room": "208",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tzachi Zach",
+                "role": "PI",
+                "email": "zach.7@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 208",
+            "room": "208",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tzachi Zach",
+                "role": "PI",
+                "email": "zach.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 4670",
+    "title": "Information Systems Planning & Management",
+    "description": "Planning and management of the information system function in business organizations with emphasis on the problems involved.\r\nPrereq: CSE 2123 (214), BusMgt 2320 (330), 2321 (331), and BusMHR 2292 (BusAdm 499.01); and Sr or Grad standing. Not open to students with credit for 659.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "CSE 2123",
+          "BusMgt 2320",
+          "BusMgt 2321",
+          "BusMgt 331",
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "659"
+      ]
+    },
+    "catalog_number": "4670",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2858",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 319",
+            "room": "319",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bruce Charles Barnes",
+                "role": "PI",
+                "email": "barnes.536@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 4780",
+    "title": "Accounting Research and Practice",
+    "description": "Researching accounting concepts and standards underlying corporate and non-corporate financial statements including consideration of typical accounting problems.\nPrereq: BusMHR 2292. Prereq or concur: AcctMIS 3201.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "AcctMIS 3201"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4780",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2859",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 209",
+            "room": "209",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kurt H. Gee",
+                "role": "PI",
+                "email": "gee.149@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 3620",
+    "title": "Foundations of Information Systems",
+    "description": "Provide a core knowledge base of management information systems; develop an understanding of their impact and operational and strategic use at all levels within and across modern business enterprises.\nPrereq: 2200, 2300, BusOBA 2320, 2321, BusMHR 2292, and CSE 1223.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 2200",
+          "ACCTMIS 2300",
+          "BusOBA 2320",
+          "BusOBA 2321",
+          "BusMHR 2292",
+          "CSE 1223"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3620",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2795",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 315",
+            "room": "315",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David G Trimm",
+                "role": "PI",
+                "email": "trimm.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "2856",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Gerlach Graduate Programs Bldg",
+            "building": "Gerlach Hall 305",
+            "room": "305",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bruce Charles Barnes",
+                "role": "PI",
+                "email": "barnes.536@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ACCTMIS 4630",
+    "title": "Business Systems Application Development",
+    "description": "Technical foundation in programming interactive business information systems.\nPrereq: 2300, CSE 2123, BusOBA 2320, 2321, and BusMHR 2292. Not open to students with credit for 3610.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ACCTMIS 2300",
+          "CSE 2123",
+          "BusOBA 2320",
+          "BusOBA 2321",
+          "BusMHR 2292"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3610"
+      ]
+    },
+    "catalog_number": "4630",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "2846",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Schoenbaum Hall",
+            "building": "Schoenbaum Hall 305",
+            "room": "305",
+            "start_time": "5:45 pm",
+            "end_time": "7:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Praveen Kumar",
+                "role": "PI",
+                "email": "kumar.388@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

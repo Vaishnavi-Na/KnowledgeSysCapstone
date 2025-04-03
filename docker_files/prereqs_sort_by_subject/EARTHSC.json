@@ -1,0 +1,4643 @@
+[
+  {
+    "course": "EARTHSC 1121H",
+    "title": "Honors The Dynamic Earth",
+    "description": "Minerals, rocks, and their origin; land forms and how they are produced; structural features of the Earth's crust.\nPrereq: Honors standing, and Math 1075 (104) or above, ACT Mathematics Subscore of 22 or higher, or Math Placement Level R or better; or permission of instructor. Not open to students with credit for EarthSci 1121 (121), 121H, GeolSci 121, or 121H. GE nat sci phys course. GE foundation natural sci course. NS Admis Cond course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "Math 1075",
+          "above",
+          "ACT Mathematics Subscore of 22",
+          "higher",
+          "Math Placement Level R",
+          "better;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EarthSci 1121 (121)",
+        "121H",
+        "GeolSci 121",
+        "121H"
+      ]
+    },
+    "catalog_number": "1121H",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "26254",
+        "section": "80",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michael Barton",
+                "role": "PI",
+                "email": "barton.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26255",
+        "section": "81",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michael Barton",
+                "role": "PI",
+                "email": "barton.2@osu.edu"
+              },
+              {
+                "name": "Dane Andrew Bryant",
+                "role": "TA",
+                "email": "bryant.1612@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 1108",
+    "title": "Gemstones",
+    "description": "General introduction to gemstones, including the origin of gems, identification techniques, and the history of important gems. Precious metals are also discussed. Autumn 2021 and after: Add EarthSc 1200 for Physical Science GE lab credit. Autumn 2022 and after: Add EarthSc 1200 to fulfill the GE Foundations: Natural Science requirement.\nGE nat sci phys course. GE foundation natural sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1108",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17055",
+        "section": "50",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Casey Morrisroe Saup",
+                "role": "PI",
+                "email": "saup.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 1105",
+    "title": "Geology of the National Parks",
+    "description": "Geologic processes, materials, and history revealed in geologic settings of the National Parks. Autumn 2021 and after: Add EarthSc 1200 for Physical Science GE lab credit. Autumn 2022 and after: Add EarthSc 1200 to fulfill the GE Foundations: Natural Science requirement.\nPrereq: Not open to students with credit for 1100. GE nat sci phys course. GE foundation natural sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1100"
+      ]
+    },
+    "catalog_number": "1105",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17054",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Casey Morrisroe Saup",
+                "role": "PI",
+                "email": "saup.4@osu.edu"
+              },
+              {
+                "name": "Kevin Wang",
+                "role": "TA",
+                "email": "wang.16554@osu.edu"
+              },
+              {
+                "name": "Raegan Renee Hepp",
+                "role": "TA",
+                "email": "hepp.97@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 1200",
+    "title": "Introduction to Earth Science Laboratory",
+    "description": "Laboratory application of basic earth sciences principles to identify and categorize rocks and minerals, use and construct maps to solve geological problems, and analyze Earth's physical processes. Pair with ES 1105, 1110(H), 1108, 1121, 1151, 2203, 2204, 2205, or 2206(S) for physical science GE with lab. Pair with ES 1105, 1110(H), 1108, 1121 or 1151 to fulfill GE Foundations Natural Sciences.\nPrereq or concur: 1105, 1108, 1110, 1110H, 1121, 1151, 2203, 2204, 2205, 2206, or 2206S. Not open to students with credit for 1100 or 2122. Not open to students with credit for EarthSc 1121 prior to Au 21. GE nat sci phys course. GE foundation natural sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "EARTHSC 1105",
+          "EARTHSC 1108",
+          "EARTHSC 1110",
+          "EARTHSC 1110",
+          "EARTHSC 1121",
+          "EARTHSC 1151",
+          "EARTHSC 2203",
+          "EARTHSC 2204",
+          "EARTHSC 2205",
+          "EARTHSC 2206",
+          "EARTHSC 2206"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1100",
+        "2122"
+      ]
+    },
+    "catalog_number": "1200",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "25849",
+        "section": "12",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25850",
+        "section": "13",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25851",
+        "section": "15",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25852",
+        "section": "17",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25853",
+        "section": "19",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25854",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25855",
+        "section": "21",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25856",
+        "section": "23",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25857",
+        "section": "24",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "4:20 pm",
+            "end_time": "6:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25848",
+        "section": "25",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27132",
+        "section": "38",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26308",
+        "section": "71",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26309",
+        "section": "72",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26480",
+        "section": "73",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26481",
+        "section": "74",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26482",
+        "section": "75",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26483",
+        "section": "76",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26484",
+        "section": "77",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26485",
+        "section": "78",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "4:20 pm",
+            "end_time": "6:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26486",
+        "section": "79",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26487",
+        "section": "80",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26488",
+        "section": "81",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26489",
+        "section": "82",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26490",
+        "section": "83",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 2204",
+    "title": "Exploring Water Issues",
+    "description": "Water on Earth, human impacts, and scientific and technological issues related to water resource development and conservation. credit.\nGE nat sci phys course. GE theme lived environments course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2204",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25090",
+        "section": "11",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Motomu Ibaraki",
+                "role": "PI",
+                "email": "ibaraki.1@osu.edu"
+              },
+              {
+                "name": "Yidong Tong",
+                "role": "TA",
+                "email": "tong.463@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 2911",
+    "title": "The Climate Crisis: Mechanisms, Impacts, and Mitigation",
+    "description": "Examination of the basic science of climate change, of the ability to make accurate predictions of future climate, and of the implications for global sustainability by combining perspectives from the physical sciences, the biological sciences, and historical study. Team-taught with faculty members in EEOB and History.\nPrereq: Not open to students with credit for History 1911, 2911, EEOB 1911, 2911, or EarthSc 1911. GE historical study and nat sci bio and nat sci phys course. GE theme sustainability and lived environments course, High-Impact Practice Interdisciplinary and Integrated Collaborative Teaching. Cross-listed in EEOB and History.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "History 1911",
+        "2911",
+        "EEOB 1911",
+        "2911",
+        "EarthSc 1911"
+      ]
+    },
+    "catalog_number": "2911",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "23737",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jim Harris",
+                "role": "PI",
+                "email": "harris.1631@osu.edu"
+              },
+              {
+                "name": "Jim Hood",
+                "role": "PI",
+                "email": "hood.211@osu.edu"
+              },
+              {
+                "name": "Matthew R Saltzman",
+                "role": "PI",
+                "email": "saltzman.11@osu.edu"
+              },
+              {
+                "name": "Michael G Bevis",
+                "role": "PI",
+                "email": "bevis.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23791",
+        "section": "13",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23792",
+        "section": "14",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23793",
+        "section": "15",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23794",
+        "section": "16",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23795",
+        "section": "17",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23796",
+        "section": "18",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 4421",
+    "title": "Earth Materials",
+    "description": "Internal and external symmetry of minerals; relationship of physical properties to crystal structure; introduction to modern and traditional identification methods; sight identification of about 30 minerals.\nPrereq or concur: Chem 1210. Not open to students with credit for EarthSci 421, GeolSci 221, or GeolSci 421.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "Chem 1210"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EarthSci 421",
+        "GeolSci 221",
+        "GeolSci 421"
+      ]
+    },
+    "catalog_number": "4421",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17061",
+        "section": "130",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 247",
+            "room": "247",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michael Barton",
+                "role": "PI",
+                "email": "barton.2@osu.edu"
+              },
+              {
+                "name": "Sarah Elizabeth Brown",
+                "role": "TA",
+                "email": "brown.9255@osu.edu"
+              },
+              {
+                "name": "Raegan Renee Hepp",
+                "role": "TA",
+                "email": "hepp.97@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "17062",
+        "section": "131",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 247",
+            "room": "247",
+            "start_time": "2:50 pm",
+            "end_time": "4:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michael Barton",
+                "role": "PI",
+                "email": "barton.2@osu.edu"
+              },
+              {
+                "name": "Sarah Elizabeth Brown",
+                "role": "PI",
+                "email": "brown.9255@osu.edu"
+              },
+              {
+                "name": "Raegan Renee Hepp",
+                "role": "TA",
+                "email": "hepp.97@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26760",
+        "section": "132",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 247",
+            "room": "247",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michael Barton",
+                "role": "PI",
+                "email": "barton.2@osu.edu"
+              },
+              {
+                "name": "Sarah Elizabeth Brown",
+                "role": "TA",
+                "email": "brown.9255@osu.edu"
+              },
+              {
+                "name": "Raegan Renee Hepp",
+                "role": "TA",
+                "email": "hepp.97@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 2206",
+    "title": "Principles of Oceanography",
+    "description": "Introduction to the four basic disciplines of oceanography: biological, geological, chemical, and physical. Relevance of oceanography in contemporary issues.\nPrereq: Not open to students with credit for 2206S. GE nat sci phys course. GE theme lived environments course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2206S"
+      ]
+    },
+    "catalog_number": "2206",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17060",
+        "section": "120",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 100",
+            "room": "100",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melisa Diaz",
+                "role": "PI",
+                "email": "diaz.237@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 1200",
+    "title": "Introduction to Earth Science Laboratory",
+    "description": "Laboratory application of basic earth sciences principles to identify and categorize rocks and minerals, use and construct maps to solve geological problems, and analyze Earth's physical processes. Pair with ES 1105, 1110(H), 1108, 1121, 1151, 2203, 2204, 2205, or 2206(S) for physical science GE with lab. Pair with ES 1105, 1110(H), 1108, 1121 or 1151 to fulfill GE Foundations Natural Sciences.\nPrereq or concur: 1105, 1108, 1110, 1110H, 1121, 1151, 2203, 2204, 2205, 2206, or 2206S. Not open to students with credit for 1100 or 2122. Not open to students with credit for EarthSc 1121 prior to Au 21. GE nat sci phys course. GE foundation natural sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "EARTHSC 1105",
+          "EARTHSC 1108",
+          "EARTHSC 1110",
+          "EARTHSC 1110",
+          "EARTHSC 1121",
+          "EARTHSC 1151",
+          "EARTHSC 2203",
+          "EARTHSC 2204",
+          "EARTHSC 2205",
+          "EARTHSC 2206",
+          "EARTHSC 2206"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1100",
+        "2122"
+      ]
+    },
+    "catalog_number": "1200",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "25849",
+        "section": "12",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25850",
+        "section": "13",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25851",
+        "section": "15",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25852",
+        "section": "17",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25853",
+        "section": "19",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25854",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25855",
+        "section": "21",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25856",
+        "section": "23",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25857",
+        "section": "24",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "4:20 pm",
+            "end_time": "6:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25848",
+        "section": "25",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27132",
+        "section": "38",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26308",
+        "section": "71",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26309",
+        "section": "72",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26480",
+        "section": "73",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26481",
+        "section": "74",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26482",
+        "section": "75",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26483",
+        "section": "76",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26484",
+        "section": "77",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26485",
+        "section": "78",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "4:20 pm",
+            "end_time": "6:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26486",
+        "section": "79",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26487",
+        "section": "80",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26488",
+        "section": "81",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26489",
+        "section": "82",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26490",
+        "section": "83",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 2210",
+    "title": "Energy, Mineral Resources, and Society",
+    "description": "Geologic origin, world distribution, and uses of mineral resources critical to society; topics include mineral and fossil fuels, metallic ores, and industrial minerals.\nGE nat sci phys course. GE theme sustainability course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2210",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28487",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 191",
+            "room": "191",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Robert Cole",
+                "role": "PI",
+                "email": "cole.618@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 1151",
+    "title": "Natural Hazards",
+    "description": "Occurrence and causes of earthquakes, volcanoes, and related hazards, and impact on climate, society, and history. Autumn 2021 and after: Add EarthSc 1200 for Physical Science GE lab credit. Autumn 2022 and after: Add EarthSc 1200 to fulfill the GE Foundations: Natural Science requirement.\nGE nat sci phys course. GE foundation natural sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1151",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17058",
+        "section": "90",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 100",
+            "room": "100",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michael Barton",
+                "role": "PI",
+                "email": "barton.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 2000",
+    "title": "Preparation for Thesis and Careers in the Earth Sciences",
+    "description": "In this course, students will be 1) exposed to the wide diversity of research in Earth Sciences and potential careers in the Earth Sciences and 2) prepared for the senior thesis, which is a requirement for Earth Sciences BS majors.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2000",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "25846",
+        "section": "10",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 173",
+            "room": "173",
+            "start_time": "3:00 pm",
+            "end_time": "4:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "W. Ashley Griffith",
+                "role": "PI",
+                "email": "griffith.233@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 2203",
+    "title": "Environmental Geoscience",
+    "description": "Concepts and challenges of geological hazards and resources, environmental pollution, and health; regional and long-range planning; and global change and sustainability.\nGE nat sci phys course. GE theme sustainability course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2203",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17059",
+        "section": "100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Orton Hall",
+            "building": "Orton Hall 110",
+            "room": "110",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Alex Michaud",
+                "role": "PI",
+                "email": "michaud.58@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 2205",
+    "title": "The Planets",
+    "description": "Survey of the origin and evolution of our Universe, Solar System, Planets and moons with focus on surface environments, dynamics, and the ability to host life. Add EarthSc 1200 for Legacy General Education (GEL) Physical Science lab credit.\nGE nat sci phys course. GE theme origins and evolution course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2205",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28498",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emilie Germaine Beaudon",
+                "role": "PI",
+                "email": "beaudon.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 1121H",
+    "title": "Honors The Dynamic Earth",
+    "description": "Minerals, rocks, and their origin; land forms and how they are produced; structural features of the Earth's crust.\nPrereq: Honors standing, and Math 1075 (104) or above, ACT Mathematics Subscore of 22 or higher, or Math Placement Level R or better; or permission of instructor. Not open to students with credit for EarthSci 1121 (121), 121H, GeolSci 121, or 121H. GE nat sci phys course. GE foundation natural sci course. NS Admis Cond course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "Math 1075",
+          "above",
+          "ACT Mathematics Subscore of 22",
+          "higher",
+          "Math Placement Level R",
+          "better;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EarthSci 1121 (121)",
+        "121H",
+        "GeolSci 121",
+        "121H"
+      ]
+    },
+    "catalog_number": "1121H",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "26254",
+        "section": "80",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michael Barton",
+                "role": "PI",
+                "email": "barton.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26255",
+        "section": "81",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michael Barton",
+                "role": "PI",
+                "email": "barton.2@osu.edu"
+              },
+              {
+                "name": "Dane Andrew Bryant",
+                "role": "TA",
+                "email": "bryant.1612@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 2122",
+    "title": "Climate and Life Over Billions of Years on Earth",
+    "description": "Origin and evolution of Earth, including its physical, chemical and biological components; principles of geologic inference and their application to interpreting Earth.\nPrereq: Not open to students with credit for 1122. GE nat sci phys course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1122"
+      ]
+    },
+    "catalog_number": "2122",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "17056",
+        "section": "80",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 115",
+            "room": "115",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "17057",
+        "section": "83",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "2:50 pm",
+            "end_time": "4:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Loren Edward Babcock",
+                "role": "PI",
+                "email": "babcock.5@osu.edu"
+              },
+              {
+                "name": "Oliver John McLellan",
+                "role": "TA",
+                "email": "mclellan.29@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 4530",
+    "title": "Structural Geology",
+    "description": "An introduction to the principles of rock deformation, the classification and physical origin of rock structures, and crustal tectonic processes.\nPrereq: 1100 or 1200 or 1121 prior to Au21, and Physics 1250.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "EARTHSC 1100",
+          "EARTHSC 1200",
+          "EARTHSC 1121",
+          "Physics 1250"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4530",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "26474",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 252",
+            "room": "252",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "W. Ashley Griffith",
+                "role": "PI",
+                "email": "griffith.233@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26475",
+        "section": "11",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 252",
+            "room": "252",
+            "start_time": "12:45 pm",
+            "end_time": "2:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "W. Ashley Griffith",
+                "role": "PI",
+                "email": "griffith.233@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 1200",
+    "title": "Introduction to Earth Science Laboratory",
+    "description": "Laboratory application of basic earth sciences principles to identify and categorize rocks and minerals, use and construct maps to solve geological problems, and analyze Earth's physical processes. Pair with ES 1105, 1110(H), 1108, 1121, 1151, 2203, 2204, 2205, or 2206(S) for physical science GE with lab. Pair with ES 1105, 1110(H), 1108, 1121 or 1151 to fulfill GE Foundations Natural Sciences.\nPrereq or concur: 1105, 1108, 1110, 1110H, 1121, 1151, 2203, 2204, 2205, 2206, or 2206S. Not open to students with credit for 1100 or 2122. Not open to students with credit for EarthSc 1121 prior to Au 21. GE nat sci phys course. GE foundation natural sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "EARTHSC 1105",
+          "EARTHSC 1108",
+          "EARTHSC 1110",
+          "EARTHSC 1110",
+          "EARTHSC 1121",
+          "EARTHSC 1151",
+          "EARTHSC 2203",
+          "EARTHSC 2204",
+          "EARTHSC 2205",
+          "EARTHSC 2206",
+          "EARTHSC 2206"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1100",
+        "2122"
+      ]
+    },
+    "catalog_number": "1200",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "25849",
+        "section": "12",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25850",
+        "section": "13",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25851",
+        "section": "15",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25852",
+        "section": "17",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25853",
+        "section": "19",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25854",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25855",
+        "section": "21",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25856",
+        "section": "23",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25857",
+        "section": "24",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "4:20 pm",
+            "end_time": "6:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25848",
+        "section": "25",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27132",
+        "section": "38",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26308",
+        "section": "71",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26309",
+        "section": "72",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26480",
+        "section": "73",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26481",
+        "section": "74",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26482",
+        "section": "75",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26483",
+        "section": "76",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26484",
+        "section": "77",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26485",
+        "section": "78",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "4:20 pm",
+            "end_time": "6:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26486",
+        "section": "79",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26487",
+        "section": "80",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26488",
+        "section": "81",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26489",
+        "section": "82",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26490",
+        "section": "83",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 1200",
+    "title": "Introduction to Earth Science Laboratory",
+    "description": "Laboratory application of basic earth sciences principles to identify and categorize rocks and minerals, use and construct maps to solve geological problems, and analyze Earth's physical processes. Pair with ES 1105, 1110(H), 1108, 1121, 1151, 2203, 2204, 2205, or 2206(S) for physical science GE with lab. Pair with ES 1105, 1110(H), 1108, 1121 or 1151 to fulfill GE Foundations Natural Sciences.\nPrereq or concur: 1105, 1108, 1110, 1110H, 1121, 1151, 2203, 2204, 2205, 2206, or 2206S. Not open to students with credit for 1100 or 2122. Not open to students with credit for EarthSc 1121 prior to Au 21. GE nat sci phys course. GE foundation natural sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "EARTHSC 1105",
+          "EARTHSC 1108",
+          "EARTHSC 1110",
+          "EARTHSC 1110",
+          "EARTHSC 1121",
+          "EARTHSC 1151",
+          "EARTHSC 2203",
+          "EARTHSC 2204",
+          "EARTHSC 2205",
+          "EARTHSC 2206",
+          "EARTHSC 2206"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1100",
+        "2122"
+      ]
+    },
+    "catalog_number": "1200",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "25849",
+        "section": "12",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25850",
+        "section": "13",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25851",
+        "section": "15",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25852",
+        "section": "17",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25853",
+        "section": "19",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25854",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25855",
+        "section": "21",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25856",
+        "section": "23",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25857",
+        "section": "24",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "4:20 pm",
+            "end_time": "6:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25848",
+        "section": "25",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27132",
+        "section": "38",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "12:40 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26308",
+        "section": "71",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26309",
+        "section": "72",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26480",
+        "section": "73",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26481",
+        "section": "74",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26482",
+        "section": "75",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26483",
+        "section": "76",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26484",
+        "section": "77",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 149",
+            "room": "149",
+            "start_time": "10:20 am",
+            "end_time": "12:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26485",
+        "section": "78",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "4:20 pm",
+            "end_time": "6:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26486",
+        "section": "79",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "3:00 pm",
+            "end_time": "4:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26487",
+        "section": "80",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26488",
+        "section": "81",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "2:20 pm",
+            "end_time": "4:10 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26489",
+        "section": "82",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26490",
+        "section": "83",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 155",
+            "room": "155",
+            "start_time": "11:10 am",
+            "end_time": "1:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shelley A Judge",
+                "role": "PI",
+                "email": "judge.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 5310",
+    "title": "Remote Sensing in the Earth Sciences",
+    "description": "The overall learning of geodetic (active) and passive remote sensing technologies and in-depth data analytics of their processing to apply to research in Earth sciences and engineering. This course is focused on students learning the theory and data processing methods to enable the use of contemporary satellite or airborne platform-equipped observations for science and engineering applications.\nPrereq: 1100, 1105, 1108, 1121, 1151, 2203, or 2205; and Math 1141 or 1151 or above; and Physics 1250 or above; or Grad standing; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "EARTHSC 1100",
+          "EARTHSC 1105",
+          "EARTHSC 1108",
+          "EARTHSC 1121",
+          "EARTHSC 1151",
+          "EARTHSC 2203",
+          "EARTHSC 2205"
+        ],
+        [
+          "Math 1141",
+          "Math 1151",
+          "above"
+        ],
+        [
+          "Physics 1250",
+          "above;",
+          "Grad standing;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5310",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "37613",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 252",
+            "room": "252",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "C K Shum",
+                "role": "PI",
+                "email": "shum.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EARTHSC 2911",
+    "title": "The Climate Crisis: Mechanisms, Impacts, and Mitigation",
+    "description": "Examination of the basic science of climate change, of the ability to make accurate predictions of future climate, and of the implications for global sustainability by combining perspectives from the physical sciences, the biological sciences, and historical study. Team-taught with faculty members in EEOB and History.\nPrereq: Not open to students with credit for History 1911, 2911, EEOB 1911, 2911, or EarthSc 1911. GE historical study and nat sci bio and nat sci phys course. GE theme sustainability and lived environments course, High-Impact Practice Interdisciplinary and Integrated Collaborative Teaching. Cross-listed in EEOB and History.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "History 1911",
+        "2911",
+        "EEOB 1911",
+        "2911",
+        "EarthSc 1911"
+      ]
+    },
+    "catalog_number": "2911",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "23737",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jim Harris",
+                "role": "PI",
+                "email": "harris.1631@osu.edu"
+              },
+              {
+                "name": "Jim Hood",
+                "role": "PI",
+                "email": "hood.211@osu.edu"
+              },
+              {
+                "name": "Matthew R Saltzman",
+                "role": "PI",
+                "email": "saltzman.11@osu.edu"
+              },
+              {
+                "name": "Michael G Bevis",
+                "role": "PI",
+                "email": "bevis.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23791",
+        "section": "13",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23792",
+        "section": "14",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23793",
+        "section": "15",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23794",
+        "section": "16",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23795",
+        "section": "17",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23796",
+        "section": "18",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 163",
+            "room": "163",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

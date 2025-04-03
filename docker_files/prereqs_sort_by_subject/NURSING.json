@@ -1,0 +1,6356 @@
+[
+  {
+    "course": "NURSING 2451",
+    "title": "Nursing Pathophysiology and Pharmacology I",
+    "description": "Study of introductory concepts in pathophysiology and pharmacology as a scientific foundation for nursing practice.\nPrereq: Enrollment in BSN traditional program; or enrollment in aBSN program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in BSN traditional program;"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "aBSN program;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "2451",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10931",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 100",
+            "room": "100",
+            "start_time": "12:00 pm",
+            "end_time": "1:20 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Hilary Fulk",
+                "role": "PI",
+                "email": "fulk.80@osu.edu"
+              },
+              {
+                "name": "McKenzie Kelly Jancsura",
+                "role": "PI",
+                "email": "jancsura.3@osu.edu"
+              },
+              {
+                "name": "Megan Marie Forsthoffer Hawk-Knerr",
+                "role": "PI",
+                "email": "hawk-knerr.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3276",
+    "title": "Adult Nursing II",
+    "description": "Nursing knowledge and clinical practice essential for the care of the adult and older adult experiencing acute and critical health alterations.\nPrereq: 3275, and enrollment in the BSNa option program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NURSING 3275",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "the BSNa option program"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3276",
+    "term": "Autumn 2025",
+    "units": 6,
+    "sections": [
+      {
+        "class_number": "10967",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "5:35 pm",
+            "end_time": "7:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Taylor Elizabeth Mullin",
+                "role": "PI",
+                "email": "mullin.94@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10968",
+        "section": "0020",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10969",
+        "section": "0030",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36959",
+        "section": "0040",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36960",
+        "section": "0050",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36961",
+        "section": "0060",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36964",
+        "section": "0070",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3260",
+    "title": "Nursing Care of Children and Their Families",
+    "description": "Nursing knowledge and clinical practice essential to caring for children and their families.\nPrereq: 1100 or 5115; and 2200, 2201, 2271, 2272, 2451, 2452 and 2500; and 2781H or 2782; and Micrbio 4000.01, 4000.02 or 4010; and HumnNtr 2200, 2210, 2310 or 2410; and enrollment in BSN traditional program; or enrollment in LPN to BSN Track; or enrollment in aBSN program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NURSING 1100",
+          "NURSING 5115"
+        ],
+        [
+          "NURSING 2200",
+          "NURSING 2201",
+          "NURSING 2271",
+          "NURSING 2272",
+          "NURSING 2451",
+          "NURSING 2452",
+          "NURSING 2500"
+        ],
+        [
+          "NURSING 2781",
+          "NURSING 2782"
+        ],
+        [
+          "Micrbio 4000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "BSN traditional program;",
+        "enrollment in LPN to BSN Track;",
+        "enrollment in aBSN program;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3260",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "10972",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 172",
+            "room": "172",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Molly Margaret McAuley",
+                "role": "PI",
+                "email": "mcauley.40@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10975",
+        "section": "0020",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10976",
+        "section": "0030",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10977",
+        "section": "0040",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10978",
+        "section": "0050",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10979",
+        "section": "0060",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10980",
+        "section": "0070",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10981",
+        "section": "0080",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10982",
+        "section": "0090",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11009",
+        "section": "0100",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11010",
+        "section": "0110",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11013",
+        "section": "0120",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 2890.01H",
+    "title": "Sophomore Honors Seminar I",
+    "description": "Discussion of topics relevant to academic, professional, and personal development in nursing.\nPrereq: Honors standing, and Soph standing in Nursing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "and Soph standing in Nursing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2890.01H",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "10622",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 4525",
+    "title": "Quality, Safety, and Informatics",
+    "description": "This course explores advanced concepts of collaboration, design, leadership, implementation and evaluation of quality improvement initiatives in health care utilizing information technology strategies.\nPrereq: 3276, 4240S, 4341, and enrollment in the BSNa option program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NURSING 3276",
+          "NURSING 4240",
+          "NURSING 4341",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "the BSNa option program"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4525",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "37392",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 1100",
+    "title": "Nursing Survey",
+    "description": "Introduction to the university community, the College of Nursing, and the profession of nursing with emphasis on strategies for success, resources, and procedures. Designed for students admitted as freshman. 1100H (honors) may be available.\r\nPrereq: Enrollment in pre-Nursing. Not open to students with credit for 100. This course is progress graded (S/U).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in pre-Nursing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "100"
+      ]
+    },
+    "catalog_number": "1100",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "11008",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emily P Houlis",
+                "role": "PI",
+                "email": "houlis.1@osu.edu"
+              },
+              {
+                "name": "Adam Hemminger",
+                "role": "PI",
+                "email": "hemminger.26@osu.edu"
+              },
+              {
+                "name": "Emily Elizabeth Reineck",
+                "role": "PI",
+                "email": "reineck.34@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 4890.01H",
+    "title": "Senior Honors Seminar I",
+    "description": "Discussion of topics relevant to research and the senior thesis proposal and professional development in nursing.\r\nPrereq: Honors standing, and 3890.02H; or permission of instructor. Not open to students with credit for 520.01H, 520.02H, or 520.03H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "NURSING 3890"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "520"
+      ]
+    },
+    "catalog_number": "4890.01H",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "10625",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3890.01H",
+    "title": "Junior Honors Seminar I",
+    "description": "Discussion of topics relevant to research and the senior thesis proposal.\nPrereq: Honors standing, and 2890.02H; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "NURSING 2890"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3890.01H",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "10623",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 2420",
+    "title": "A Nursing Perspective: Life Span Development of Individuals within a Family Context",
+    "description": "Study of growth and development of individuals within a family context from conception to death with an emphasis on assessment and interventions utilized in Nursing practice.\nPrereq: Admission to the Nursing major. Not open to students with credit for 337.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Admission to the Nursing major"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "337"
+      ]
+    },
+    "catalog_number": "2420",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10989",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 4890.01H",
+    "title": "Senior Honors Seminar I",
+    "description": "Discussion of topics relevant to research and the senior thesis proposal and professional development in nursing.\r\nPrereq: Honors standing, and 3890.02H; or permission of instructor. Not open to students with credit for 520.01H, 520.02H, or 520.03H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "NURSING 3890"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "520"
+      ]
+    },
+    "catalog_number": "4890.01H",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "10625",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3260",
+    "title": "Nursing Care of Children and Their Families",
+    "description": "Nursing knowledge and clinical practice essential to caring for children and their families.\nPrereq: 1100 or 5115; and 2200, 2201, 2271, 2272, 2451, 2452 and 2500; and 2781H or 2782; and Micrbio 4000.01, 4000.02 or 4010; and HumnNtr 2200, 2210, 2310 or 2410; and enrollment in BSN traditional program; or enrollment in LPN to BSN Track; or enrollment in aBSN program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NURSING 1100",
+          "NURSING 5115"
+        ],
+        [
+          "NURSING 2200",
+          "NURSING 2201",
+          "NURSING 2271",
+          "NURSING 2272",
+          "NURSING 2451",
+          "NURSING 2452",
+          "NURSING 2500"
+        ],
+        [
+          "NURSING 2781",
+          "NURSING 2782"
+        ],
+        [
+          "Micrbio 4000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "BSN traditional program;",
+        "enrollment in LPN to BSN Track;",
+        "enrollment in aBSN program;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3260",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "10972",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 172",
+            "room": "172",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Molly Margaret McAuley",
+                "role": "PI",
+                "email": "mcauley.40@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10975",
+        "section": "0020",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10976",
+        "section": "0030",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10977",
+        "section": "0040",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10978",
+        "section": "0050",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10979",
+        "section": "0060",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10980",
+        "section": "0070",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10981",
+        "section": "0080",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10982",
+        "section": "0090",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11009",
+        "section": "0100",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11010",
+        "section": "0110",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11013",
+        "section": "0120",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3115",
+    "title": "School Health Roles and Responsibilities",
+    "description": "Introduction to the scope of roles and responsibilities involved in school health services locally and globally within school and community settings. Consideration of regulatory directives, health goals and resources. Analysis of skills and factors used to promote healthy school environments.\nPrereq: Admission to certificate program, or enrollment in the RN to BSN major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Admission to certificate program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "the RN to BSN major",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3115",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10860",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jeanie Marie Bochenek",
+                "role": "PI",
+                "email": "bochenek.15@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3260",
+    "title": "Nursing Care of Children and Their Families",
+    "description": "Nursing knowledge and clinical practice essential to caring for children and their families.\nPrereq: 1100 or 5115; and 2200, 2201, 2271, 2272, 2451, 2452 and 2500; and 2781H or 2782; and Micrbio 4000.01, 4000.02 or 4010; and HumnNtr 2200, 2210, 2310 or 2410; and enrollment in BSN traditional program; or enrollment in LPN to BSN Track; or enrollment in aBSN program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NURSING 1100",
+          "NURSING 5115"
+        ],
+        [
+          "NURSING 2200",
+          "NURSING 2201",
+          "NURSING 2271",
+          "NURSING 2272",
+          "NURSING 2451",
+          "NURSING 2452",
+          "NURSING 2500"
+        ],
+        [
+          "NURSING 2781",
+          "NURSING 2782"
+        ],
+        [
+          "Micrbio 4000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "BSN traditional program;",
+        "enrollment in LPN to BSN Track;",
+        "enrollment in aBSN program;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3260",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "10972",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 172",
+            "room": "172",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Molly Margaret McAuley",
+                "role": "PI",
+                "email": "mcauley.40@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10975",
+        "section": "0020",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10976",
+        "section": "0030",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10977",
+        "section": "0040",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10978",
+        "section": "0050",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10979",
+        "section": "0060",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10980",
+        "section": "0070",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10981",
+        "section": "0080",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10982",
+        "section": "0090",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11009",
+        "section": "0100",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11010",
+        "section": "0110",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11013",
+        "section": "0120",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3890.01H",
+    "title": "Junior Honors Seminar I",
+    "description": "Discussion of topics relevant to research and the senior thesis proposal.\nPrereq: Honors standing, and 2890.02H; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "NURSING 2890"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3890.01H",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "10623",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 2890.01H",
+    "title": "Sophomore Honors Seminar I",
+    "description": "Discussion of topics relevant to academic, professional, and personal development in nursing.\nPrereq: Honors standing, and Soph standing in Nursing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "and Soph standing in Nursing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2890.01H",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "10622",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 4890.01H",
+    "title": "Senior Honors Seminar I",
+    "description": "Discussion of topics relevant to research and the senior thesis proposal and professional development in nursing.\r\nPrereq: Honors standing, and 3890.02H; or permission of instructor. Not open to students with credit for 520.01H, 520.02H, or 520.03H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "NURSING 3890"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "520"
+      ]
+    },
+    "catalog_number": "4890.01H",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "10625",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 130",
+            "room": "130",
+            "start_time": "2:30 pm",
+            "end_time": "4:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Judith A Tate",
+                "role": "PI",
+                "email": "tate.230@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3890.01H",
+    "title": "Junior Honors Seminar I",
+    "description": "Discussion of topics relevant to research and the senior thesis proposal.\nPrereq: Honors standing, and 2890.02H; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "NURSING 2890"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3890.01H",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "10623",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "10:05 am",
+            "end_time": "11:50 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 2200",
+    "title": "Art of Professional Nursing I",
+    "description": "An introduction to professional nursing emphasizing personal, ethical and aesthetic concepts for evidence-informed decision-making.\nPrereq: Enrollment in BSN traditional program, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in BSN traditional program",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2200",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "10926",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10927",
+        "section": "0020",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 244",
+            "room": "244",
+            "start_time": "1:30 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Christa Marie Newtz",
+                "role": "PI",
+                "email": "newtz.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10928",
+        "section": "0030",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 244",
+            "room": "244",
+            "start_time": "2:40 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Christa Marie Newtz",
+                "role": "PI",
+                "email": "newtz.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10929",
+        "section": "0040",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "1:30 pm",
+            "end_time": "2:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Molly Margaret McAuley",
+                "role": "PI",
+                "email": "mcauley.40@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10930",
+        "section": "0050",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "2:40 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Molly Margaret McAuley",
+                "role": "PI",
+                "email": "mcauley.40@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3260",
+    "title": "Nursing Care of Children and Their Families",
+    "description": "Nursing knowledge and clinical practice essential to caring for children and their families.\nPrereq: 1100 or 5115; and 2200, 2201, 2271, 2272, 2451, 2452 and 2500; and 2781H or 2782; and Micrbio 4000.01, 4000.02 or 4010; and HumnNtr 2200, 2210, 2310 or 2410; and enrollment in BSN traditional program; or enrollment in LPN to BSN Track; or enrollment in aBSN program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NURSING 1100",
+          "NURSING 5115"
+        ],
+        [
+          "NURSING 2200",
+          "NURSING 2201",
+          "NURSING 2271",
+          "NURSING 2272",
+          "NURSING 2451",
+          "NURSING 2452",
+          "NURSING 2500"
+        ],
+        [
+          "NURSING 2781",
+          "NURSING 2782"
+        ],
+        [
+          "Micrbio 4000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "BSN traditional program;",
+        "enrollment in LPN to BSN Track;",
+        "enrollment in aBSN program;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3260",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "10972",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 172",
+            "room": "172",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Molly Margaret McAuley",
+                "role": "PI",
+                "email": "mcauley.40@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10975",
+        "section": "0020",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10976",
+        "section": "0030",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10977",
+        "section": "0040",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10978",
+        "section": "0050",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10979",
+        "section": "0060",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10980",
+        "section": "0070",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10981",
+        "section": "0080",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10982",
+        "section": "0090",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11009",
+        "section": "0100",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11010",
+        "section": "0110",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11013",
+        "section": "0120",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 2271",
+    "title": "Foundational Knowledge for Nursing Practice I",
+    "description": "The foundational concepts of professional nurse role with emphasis on nursing's distinct practice perspectives in the provision of nursing care across the lifespan and care settings.\nPrereq: Enrollment in BSN traditional program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in BSN traditional program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2271",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "10897",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Heminger Hall",
+            "building": "Heminger Hall 100",
+            "room": "100",
+            "start_time": "8:00 am",
+            "end_time": "9:50 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Valerie Ann Miller",
+                "role": "PI",
+                "email": "miller.10571@osu.edu"
+              },
+              {
+                "name": "Sarah Warren",
+                "role": "PI",
+                "email": "warren.504@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10935",
+        "section": "0020",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10936",
+        "section": "0030",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10937",
+        "section": "0040",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 2782",
+    "title": "Foundational Principles of Evidence-based Practice and Nursing Science",
+    "description": "Introduction to and application of foundational concepts, skills and competencies of evidence-based practice (EBP), to support implementation to improve practice and outcomes. Includes overview of research methodologies, concepts and ethics to build critical appraisal skills.\nPrereq: Enrollment in the BSN traditional program; or enrollment in aBSN program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in the BSN traditional program;"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "aBSN program"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "2782",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "10996",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bevra Brinkman",
+                "role": "PI",
+                "email": "brinkman.212@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3260",
+    "title": "Nursing Care of Children and Their Families",
+    "description": "Nursing knowledge and clinical practice essential to caring for children and their families.\nPrereq: 1100 or 5115; and 2200, 2201, 2271, 2272, 2451, 2452 and 2500; and 2781H or 2782; and Micrbio 4000.01, 4000.02 or 4010; and HumnNtr 2200, 2210, 2310 or 2410; and enrollment in BSN traditional program; or enrollment in LPN to BSN Track; or enrollment in aBSN program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NURSING 1100",
+          "NURSING 5115"
+        ],
+        [
+          "NURSING 2200",
+          "NURSING 2201",
+          "NURSING 2271",
+          "NURSING 2272",
+          "NURSING 2451",
+          "NURSING 2452",
+          "NURSING 2500"
+        ],
+        [
+          "NURSING 2781",
+          "NURSING 2782"
+        ],
+        [
+          "Micrbio 4000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "BSN traditional program;",
+        "enrollment in LPN to BSN Track;",
+        "enrollment in aBSN program;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3260",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "10972",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 172",
+            "room": "172",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Molly Margaret McAuley",
+                "role": "PI",
+                "email": "mcauley.40@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10975",
+        "section": "0020",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10976",
+        "section": "0030",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10977",
+        "section": "0040",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10978",
+        "section": "0050",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10979",
+        "section": "0060",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10980",
+        "section": "0070",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10981",
+        "section": "0080",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10982",
+        "section": "0090",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11009",
+        "section": "0100",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11010",
+        "section": "0110",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11013",
+        "section": "0120",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 2452",
+    "title": "Nursing Pathophysiology and Pharmacology II",
+    "description": "Study of applied concepts in pathophysiology and pharmacology as a scientific foundation for nursing practice.\nPrereq: Nursing 2451, and enrollment in BSN traditional program; or enrollment in aBSN program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Nursing 2451",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "BSN traditional program;",
+        "enrollment in aBSN program;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "2452",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "10995",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 264",
+            "room": "264",
+            "start_time": "4:00 pm",
+            "end_time": "5:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Taylor Elizabeth Mullin",
+                "role": "PI",
+                "email": "mullin.94@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NURSING 3260",
+    "title": "Nursing Care of Children and Their Families",
+    "description": "Nursing knowledge and clinical practice essential to caring for children and their families.\nPrereq: 1100 or 5115; and 2200, 2201, 2271, 2272, 2451, 2452 and 2500; and 2781H or 2782; and Micrbio 4000.01, 4000.02 or 4010; and HumnNtr 2200, 2210, 2310 or 2410; and enrollment in BSN traditional program; or enrollment in LPN to BSN Track; or enrollment in aBSN program; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NURSING 1100",
+          "NURSING 5115"
+        ],
+        [
+          "NURSING 2200",
+          "NURSING 2201",
+          "NURSING 2271",
+          "NURSING 2272",
+          "NURSING 2451",
+          "NURSING 2452",
+          "NURSING 2500"
+        ],
+        [
+          "NURSING 2781",
+          "NURSING 2782"
+        ],
+        [
+          "Micrbio 4000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "BSN traditional program;",
+        "enrollment in LPN to BSN Track;",
+        "enrollment in aBSN program;",
+        "permission of instructor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3260",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "10972",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Newton Hall",
+            "building": "Newton Hall 172",
+            "room": "172",
+            "start_time": "10:05 am",
+            "end_time": "11:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Molly Margaret McAuley",
+                "role": "PI",
+                "email": "mcauley.40@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10975",
+        "section": "0020",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10976",
+        "section": "0030",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10977",
+        "section": "0040",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10978",
+        "section": "0050",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10979",
+        "section": "0060",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10980",
+        "section": "0070",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10981",
+        "section": "0080",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10982",
+        "section": "0090",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11009",
+        "section": "0100",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11010",
+        "section": "0110",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11013",
+        "section": "0120",
+        "component": "Clinical",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "3:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "6:30 am",
+            "end_time": "7:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

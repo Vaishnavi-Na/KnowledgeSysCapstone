@@ -1,0 +1,2020 @@
+[
+  {
+    "course": "MICRBIO 4000.02",
+    "title": "Basic and Practical Microbiology",
+    "description": "Provides an understanding of microorganisms and their interaction with the human experience. Online/in-person hybrid version of Micrbio 4000.01.\nPrereq: 3 cr hrs in Biology. Not open to students with credit for 4000 or 4000.01. GE nat sci bio course. GE foundation natural sci course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "3 cr hrs in Biology"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "4000",
+        "4000"
+      ]
+    },
+    "catalog_number": "4000.02",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "25482",
+        "section": "015",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Nicholas Michael Chesarino",
+                "role": "PI",
+                "email": "chesarino.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25483",
+        "section": "020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 315",
+            "room": "315",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Suvekshya Shrestha",
+                "role": "TA",
+                "email": "shrestha.119@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25484",
+        "section": "025",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 315",
+            "room": "315",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tony Lee DiCesare",
+                "role": "TA",
+                "email": "dicesare.14@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25485",
+        "section": "030",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 315",
+            "room": "315",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Suvekshya Shrestha",
+                "role": "TA",
+                "email": "shrestha.119@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 2100",
+    "title": "Wild Yeast: Isolation to Fermentation",
+    "description": "An introduction to yeast biology and microbiological techniques used in fermentation. Students will isolate an unknown yeast from the environment and characterize the growth behavior of the wild strains; use molecular biology and bioinformatics to determine the yeast species they have isolated; use the wild yeast to prepare a fermentation and characterize the finished 'wild' ferment.\nPrereq: Biology 1110 or 1113, and Chem 1110, 1210, or 1610; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1110",
+          "Biology 1113",
+          "Chem 1110",
+          "Chem 1210",
+          "Chem 1610",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26029",
+        "section": "010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 316",
+            "room": "316",
+            "start_time": "10:20 am",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven Joseph Carlson",
+                "role": "PI",
+                "email": "carlson.271@osu.edu"
+              },
+              {
+                "name": "Ryan William Brooks",
+                "role": "GR",
+                "email": "brooks.556@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 316",
+            "room": "316",
+            "start_time": "10:20 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven Joseph Carlson",
+                "role": "PI",
+                "email": "carlson.271@osu.edu"
+              },
+              {
+                "name": "Ryan William Brooks",
+                "role": "TA",
+                "email": "brooks.556@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 4000.01",
+    "title": "Basic and Practical Microbiology",
+    "description": "Provides an understanding of microorganisms and their interaction with the human experience.\nPrereq: 3 cr hrs in Biology. Not open to students with credit for 4000 or 4000.02. GE nat sci bio course. GE foundation natural sci course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "3 cr hrs in Biology"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "4000",
+        "4000"
+      ]
+    },
+    "catalog_number": "4000.01",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "18529",
+        "section": "0100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Independence Hall",
+            "building": "Independence Hall 100",
+            "room": "100",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy J Bullwinkle",
+                "role": "PI",
+                "email": "bullwinkle.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18530",
+        "section": "0110",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Independence Hall",
+            "building": "Independence Hall 100",
+            "room": "100",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy J Bullwinkle",
+                "role": "PI",
+                "email": "bullwinkle.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18540",
+        "section": "125",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "8:00 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carter Robert Dwyer",
+                "role": "TA",
+                "email": "dwyer.191@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18541",
+        "section": "130",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "8:00 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan Howard Huston",
+                "role": "TA",
+                "email": "huston.185@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18544",
+        "section": "145",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "8:00 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joshua Morgan Davis II",
+                "role": "TA",
+                "email": "davis.7382@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18545",
+        "section": "150",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 315",
+            "room": "315",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ian William Baeten",
+                "role": "TA",
+                "email": "baeten.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18546",
+        "section": "155",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carter Robert Dwyer",
+                "role": "TA",
+                "email": "dwyer.191@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18547",
+        "section": "160",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kyle Jeremy Buffin",
+                "role": "TA",
+                "email": "buffin.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18548",
+        "section": "165",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 315",
+            "room": "315",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michael Brandt",
+                "role": "TA",
+                "email": "brandt.351@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18549",
+        "section": "170",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carlos Owusu Ansah",
+                "role": "TA",
+                "email": "owusuansah.10@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18550",
+        "section": "175",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rokaiya Shatadru",
+                "role": "TA",
+                "email": "shatadru.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18552",
+        "section": "185",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Liat Yehudit Ungar",
+                "role": "TA",
+                "email": "ungar.57@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18553",
+        "section": "190",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kyle Jeremy Buffin",
+                "role": "TA",
+                "email": "buffin.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18554",
+        "section": "200",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "5:30 pm",
+            "end_time": "8:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shreyas Shanmukha Pulluri",
+                "role": "TA",
+                "email": "pulluri.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18555",
+        "section": "205",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "5:30 pm",
+            "end_time": "8:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Meagan Cecilia Michalik",
+                "role": "TA",
+                "email": "michalik.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "22556",
+        "section": "220",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bryce Anthony Guidry",
+                "role": "TA",
+                "email": "guidry.22@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "22557",
+        "section": "225",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Liat Yehudit Ungar",
+                "role": "TA",
+                "email": "ungar.57@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 4110",
+    "title": "Microbial Pathogenesis and Immunobiology",
+    "description": "Provides an overview of microbe-host interactions with an emphasis on virulence mechanisms of bacterial pathogens, host infection routes, immune recognition of microbes, and the cellular and molecular effectors of the host immune system.\r\nPrereq: 4000 (509) or 4100 (520). Not open to students with credit for MicrBiol 524.01.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MICRBIO 4000",
+          "MICRBIO 509",
+          "MICRBIO 4100",
+          "MICRBIO 520"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "MicrBiol 524"
+      ]
+    },
+    "catalog_number": "4110",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25432",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Townshend Hall",
+            "building": "Townshend Hall 255",
+            "room": "255",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Daniel Wozniak",
+                "role": "PI",
+                "email": "wozniak.1@osu.edu"
+              },
+              {
+                "name": "Rajendar Deora",
+                "role": "PI",
+                "email": "deora.6@osu.edu"
+              },
+              {
+                "name": "Madhura Milind Pradhan",
+                "role": "SI",
+                "email": "pradhan.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 2000",
+    "title": "Introduction to MicrOHbIOlogy Research",
+    "description": "This course introduces undergraduate students to the process of microbiology research and familiarizes students with ongoing Microbiology Research at The Ohio State University.\nPrereq: Biology 1113, 1113H, or equiv. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1113",
+          "Biology 1113",
+          "equiv"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2000",
+    "term": "Autumn 2025",
+    "units": 1.5,
+    "sections": [
+      {
+        "class_number": "25383",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 4120",
+    "title": "Microbial Physiology and Diversity",
+    "description": "Principles of microbial growth, metabolism, microbial structure and function, and regulation of microbial metabolism.\nPrereq: 4100. Prereq or concur: Biochem 4511.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MICRBIO 4100"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "Biochem 4511"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4120",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "18536",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 040",
+            "room": "040",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Birgit Alber",
+                "role": "PI",
+                "email": "alber.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 4100",
+    "title": "General Microbiology",
+    "description": "Fundamental principles of microbiology and the characteristics of microorganisms with emphasis on their structure, molecular biology, growth, classification, physiology, ecology, biotechnology, ecology, and applied microbiology.\nPrereq: Biology 1113, or 1113H, and Chem 1220.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1113",
+          "Biology 1113",
+          "Chem 1220"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4100",
+    "term": "Autumn 2025",
+    "units": 5,
+    "sections": [
+      {
+        "class_number": "18531",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E004",
+            "room": "E004",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Darryl Andrew Wesener",
+                "role": "PI",
+                "email": "wesener.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18559",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 316",
+            "room": "316",
+            "start_time": "9:10 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven Joseph Carlson",
+                "role": "PI",
+                "email": "carlson.271@osu.edu"
+              },
+              {
+                "name": "Paola Nicole Loperena Gonzalez",
+                "role": "TA",
+                "email": "loperenagonzalez.1@osu.edu"
+              },
+              {
+                "name": "Felipe Lamenza",
+                "role": "TA",
+                "email": "lamenza.1@osu.edu"
+              },
+              {
+                "name": "Kimberley Simphiwe Ndlovu",
+                "role": "TA",
+                "email": "ndlovu.3@osu.edu"
+              },
+              {
+                "name": "Katie Elasky",
+                "role": "TA",
+                "email": "elasky.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18561",
+        "section": "0040",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 316",
+            "room": "316",
+            "start_time": "11:30 am",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven Joseph Carlson",
+                "role": "PI",
+                "email": "carlson.271@osu.edu"
+              },
+              {
+                "name": "Paola Nicole Loperena Gonzalez",
+                "role": "TA",
+                "email": "loperenagonzalez.1@osu.edu"
+              },
+              {
+                "name": "Felipe Lamenza",
+                "role": "TA",
+                "email": "lamenza.1@osu.edu"
+              },
+              {
+                "name": "Kimberley Simphiwe Ndlovu",
+                "role": "TA",
+                "email": "ndlovu.3@osu.edu"
+              },
+              {
+                "name": "Katie Elasky",
+                "role": "TA",
+                "email": "elasky.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 4140",
+    "title": "Molecular Microbiology Laboratory",
+    "description": "Advanced laboratory covering structure, maintenance, expression and exchange of genetic materials in microbial cells and methods in immunobiology.\r\nPrereq or concur: Micrbio 4130 (Micrbiol 581.01). Not open to students with credit for Micrbiol 581.02.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "Micrbio 4130"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "Micrbiol 581"
+      ]
+    },
+    "catalog_number": "4140",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "18534",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 332",
+            "room": "332",
+            "start_time": "12:40 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy J Bullwinkle",
+                "role": "PI",
+                "email": "bullwinkle.1@osu.edu"
+              },
+              {
+                "name": "Sepideh Fakhretaha Aval",
+                "role": "TA",
+                "email": "fakhretahaaval.1@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 332",
+            "room": "332",
+            "start_time": "12:40 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy J Bullwinkle",
+                "role": "PI",
+                "email": "bullwinkle.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18535",
+        "section": "0030",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 332",
+            "room": "332",
+            "start_time": "8:00 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy J Bullwinkle",
+                "role": "PI",
+                "email": "bullwinkle.1@osu.edu"
+              },
+              {
+                "name": "Gabriella Francesca Matheny",
+                "role": "TA",
+                "email": "matheny.99@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 332",
+            "room": "332",
+            "start_time": "8:00 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy J Bullwinkle",
+                "role": "PI",
+                "email": "bullwinkle.1@osu.edu"
+              },
+              {
+                "name": "Benjamin Warner",
+                "role": "TA",
+                "email": "warner.474@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 5155",
+    "title": "Environmental Microbiology",
+    "description": "The role of microorganisms and underlying biological principles in elemental cycles and degradation of natural and man-made compounds.\r\nPrereq: Micrbio 4000 (Micrbiol 509) or 4100 (520). Not open to students with credit for 665.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Micrbio 4000",
+          "Micrbio 4100",
+          "Micrbio 520"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "665"
+      ]
+    },
+    "catalog_number": "5155",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "22972",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 609",
+            "room": "609",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Virginia Rich",
+                "role": "PI",
+                "email": "rich.270@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 4130",
+    "title": "Microbial Genetics",
+    "description": "Structure, maintenance, expression, and exchange of genetic materials in microbial cells.\nPrereq: 4100, MolGen 4500, or 4606.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MICRBIO 4100",
+          "MolGen 4500",
+          "MolGen 4606"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4130",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24658",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 191",
+            "room": "191",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Natividad Ruiz",
+                "role": "PI",
+                "email": "ruiz.82@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 5161",
+    "title": "Introduction to Computational Genomics",
+    "description": "Application of computational tools to the analysis of microbial genomes and their gene products. Recommended background in basic molecular biology, genetics or biochemistry.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5161",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28201",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 040",
+            "room": "040",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Igor Jouline",
+                "role": "PI",
+                "email": "jouline.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 4000.01",
+    "title": "Basic and Practical Microbiology",
+    "description": "Provides an understanding of microorganisms and their interaction with the human experience.\nPrereq: 3 cr hrs in Biology. Not open to students with credit for 4000 or 4000.02. GE nat sci bio course. GE foundation natural sci course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "3 cr hrs in Biology"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "4000",
+        "4000"
+      ]
+    },
+    "catalog_number": "4000.01",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "18529",
+        "section": "0100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Independence Hall",
+            "building": "Independence Hall 100",
+            "room": "100",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy J Bullwinkle",
+                "role": "PI",
+                "email": "bullwinkle.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18530",
+        "section": "0110",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Independence Hall",
+            "building": "Independence Hall 100",
+            "room": "100",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Tammy J Bullwinkle",
+                "role": "PI",
+                "email": "bullwinkle.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18540",
+        "section": "125",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "8:00 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carter Robert Dwyer",
+                "role": "TA",
+                "email": "dwyer.191@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18541",
+        "section": "130",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "8:00 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan Howard Huston",
+                "role": "TA",
+                "email": "huston.185@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18544",
+        "section": "145",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "8:00 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Joshua Morgan Davis II",
+                "role": "TA",
+                "email": "davis.7382@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18545",
+        "section": "150",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 315",
+            "room": "315",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ian William Baeten",
+                "role": "TA",
+                "email": "baeten.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18546",
+        "section": "155",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carter Robert Dwyer",
+                "role": "TA",
+                "email": "dwyer.191@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18547",
+        "section": "160",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kyle Jeremy Buffin",
+                "role": "TA",
+                "email": "buffin.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18548",
+        "section": "165",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 315",
+            "room": "315",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Michael Brandt",
+                "role": "TA",
+                "email": "brandt.351@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18549",
+        "section": "170",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carlos Owusu Ansah",
+                "role": "TA",
+                "email": "owusuansah.10@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18550",
+        "section": "175",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "11:10 am",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rokaiya Shatadru",
+                "role": "TA",
+                "email": "shatadru.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18552",
+        "section": "185",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Liat Yehudit Ungar",
+                "role": "TA",
+                "email": "ungar.57@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18553",
+        "section": "190",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kyle Jeremy Buffin",
+                "role": "TA",
+                "email": "buffin.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18554",
+        "section": "200",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "5:30 pm",
+            "end_time": "8:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shreyas Shanmukha Pulluri",
+                "role": "TA",
+                "email": "pulluri.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "18555",
+        "section": "205",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "5:30 pm",
+            "end_time": "8:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Meagan Cecilia Michalik",
+                "role": "TA",
+                "email": "michalik.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "22556",
+        "section": "220",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 311",
+            "room": "311",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bryce Anthony Guidry",
+                "role": "TA",
+                "email": "guidry.22@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "22557",
+        "section": "225",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 312",
+            "room": "312",
+            "start_time": "2:30 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Liat Yehudit Ungar",
+                "role": "TA",
+                "email": "ungar.57@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MICRBIO 4010",
+    "title": "Foundations of Microbiology and Human Health",
+    "description": "This human health focused class covers microbial metabolism and diversity, microbial genetics, and anti-microbial approaches. The impact of microbes on human health is explored through discussions about antibiotic resistant bacteria, pathogen emergence and re-emergence, host-microbe interactions, microbiome, immune responses, pathogenesis, vaccines, and epidemiology.\nPrereq: 3 credit hours in college-level Biology. Not open to students with credit for 4000.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "3 credit hours in college-level Biology"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "4000"
+      ]
+    },
+    "catalog_number": "4010",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27737",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:05 am",
+            "end_time": "11:25 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Madhura Milind Pradhan",
+                "role": "PI",
+                "email": "pradhan.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

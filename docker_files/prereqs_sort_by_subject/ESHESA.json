@@ -1,0 +1,303 @@
+[
+  {
+    "course": "ESHESA 2575",
+    "title": "Student Organization Leadership Training",
+    "description": "Overview of the theory and skills necessary for the practice of effective leadership in student organization settings. Leadership is explored as an integral component of a student's activity in Ohio State student organizations.\r\nRepeatable to a maximum of 12 cr hrs.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2575",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11262",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 059",
+            "room": "059",
+            "start_time": "7:00 pm",
+            "end_time": "8:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Will Cangialosi",
+                "role": "PI",
+                "email": "cangialosi.4@osu.edu"
+              },
+              {
+                "name": "Ilana Rose Feuerman",
+                "role": "TA",
+                "email": "feuerman.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ESHESA 2577",
+    "title": "Diversity and Social Justice in Leadership",
+    "description": "Builds on intellectual and experiential engagement with issues of difference, diversity, social justice, and alliance-building, with a particular emphasis on race, ethnicity, and gender.\nGE diversity soc div in the US course. GE foundation race, ethnicity and gender div course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2577",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "12006",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Arps Hall",
+            "building": "Arps Hall 388",
+            "room": "388",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carla Monaco Elliott",
+                "role": "SI",
+                "email": "elliott.927@osu.edu"
+              },
+              {
+                "name": "Autumn Ann Kearney",
+                "role": "PI",
+                "email": "kearney.125@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "13490",
+        "section": "0090",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A105",
+            "room": "A105",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Autumn Ann Kearney",
+                "role": "PI",
+                "email": "kearney.125@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ESHESA 2571S",
+    "title": "Leadership In Community Service",
+    "description": "Introduction to the knowledge, skills, and competencies for responsible service and leadership in diverse communities. Preparation for engaged, responsible, and active community involvement and leadership. Please note: Although this course is repeatable in special circumstances (study abroad requirement, for example), only one iteration will count for GE credit.\nRepeatable to a maximum of 12 cr hrs. GE service learning course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2571S",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11259",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 668",
+            "room": "668",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carla Monaco Elliott",
+                "role": "PI",
+                "email": "elliott.927@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11260",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Biological Sciences Building",
+            "building": "Biological Sciences Bldg 676",
+            "room": "676",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carla Monaco Elliott",
+                "role": "PI",
+                "email": "elliott.927@osu.edu"
+              },
+              {
+                "name": "Carla Monaco Elliott",
+                "role": "PI",
+                "email": "elliott.927@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ESHESA 2570",
+    "title": "Team and Organizational Leadership",
+    "description": "Overview of the theory and skills necessary for the practice of effective leadership in team and organizational settings. Leadership is explored as an integral component of a student's career and life plan.\r\nRepeatable to a maximum of 12 cr hrs.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2570",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "12401",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A103",
+            "room": "A103",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carla Monaco Elliott",
+                "role": "PI",
+                "email": "elliott.927@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "13402",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Arps Hall",
+            "building": "Arps Hall 388",
+            "room": "388",
+            "start_time": "2:20 pm",
+            "end_time": "5:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Donya Nicole Gibson",
+                "role": "PI",
+                "email": "gibson.291@osu.edu"
+              },
+              {
+                "name": "Carla Monaco Elliott",
+                "role": "PI",
+                "email": "elliott.927@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

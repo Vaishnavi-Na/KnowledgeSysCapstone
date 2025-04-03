@@ -1,0 +1,406 @@
+[
+  {
+    "course": "ESSPED 5743",
+    "title": "Educational Assessment of Students With Mild/Moderate Disabilities",
+    "description": "Advanced training and specialized techniques in teaching methods for middle and secondary students with mild disabilities.\nPrereq: 5742; and admission to the Special Education program, or Grad standing; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ESSPED 5742"
+        ],
+        [
+          "admission to the Special Education program",
+          "Grad standing;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5743",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11079",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 180",
+            "room": "180",
+            "start_time": "4:10 pm",
+            "end_time": "6:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Moira R. Konrad",
+                "role": "PI",
+                "email": "konrad.14@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ESSPED 2251",
+    "title": "Introduction to the Special Education Profession",
+    "description": "An overview of special education, including individuals with sensory, orthopedic, behavioral, or learning disabilities plus individuals identified as gifted.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2251",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "12399",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Alana Oif Telesman",
+                "role": "PI",
+                "email": "telesman.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "12400",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Alana Oif Telesman",
+                "role": "PI",
+                "email": "telesman.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "12649",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carly Blustein Gilson",
+                "role": "PI",
+                "email": "gilson.78@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "12650",
+        "section": "0040",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carly Blustein Gilson",
+                "role": "PI",
+                "email": "gilson.78@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ESSPED 5743",
+    "title": "Educational Assessment of Students With Mild/Moderate Disabilities",
+    "description": "Advanced training and specialized techniques in teaching methods for middle and secondary students with mild disabilities.\nPrereq: 5742; and admission to the Special Education program, or Grad standing; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ESSPED 5742"
+        ],
+        [
+          "admission to the Special Education program",
+          "Grad standing;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5743",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11079",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 180",
+            "room": "180",
+            "start_time": "4:10 pm",
+            "end_time": "6:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Moira R. Konrad",
+                "role": "PI",
+                "email": "konrad.14@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ESSPED 2251",
+    "title": "Introduction to the Special Education Profession",
+    "description": "An overview of special education, including individuals with sensory, orthopedic, behavioral, or learning disabilities plus individuals identified as gifted.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2251",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "12650",
+        "section": "0040",
+        "component": "Laboratory",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Carly Blustein Gilson",
+                "role": "PI",
+                "email": "gilson.78@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ESSPED 5769",
+    "title": "Delivering Effective Services to Enhance the Inclusion of Students with Special Needs",
+    "description": "Designed to prepare special education teachers to work with administrators, general education teachers, parents and paraprofessionals to deliver instruction in inclusive settings.\nPrereq: Enrollment in Special Education major, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Special Education major",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5769",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36251",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ESSPED 5722",
+    "title": "Language and Communication Development for Children with Mild to Intensive Disabilities",
+    "description": "Examines current principles and practices in the development of alternative communication programs for individuals with mild to intensive disabilities.\nPrereq: Admission to special education program, or Grad standing, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Admission to special education program",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5722",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11074",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Peter Vincent Paul",
+                "role": "PI",
+                "email": "paul.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
