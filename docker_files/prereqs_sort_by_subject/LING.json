@@ -1,0 +1,1942 @@
+[
+  {
+    "course": "LING 4200",
+    "title": "Syntax",
+    "description": "Basic elements of syntactic description and an overview of syntactic structure across languages.\r\nPrereq: Ling 2000 (Linguist 201), 2000H (201H), or 4000 (601). Not open to students with credit for Ling 5201 (Linguist 602.01).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Ling 2000",
+          "Ling 2000",
+          "Ling 201",
+          "Ling 4000",
+          "Ling 601"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "Ling 5201 (Linguist 602"
+      ]
+    },
+    "catalog_number": "4200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17900",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A109",
+            "room": "A109",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Dan Parker",
+                "role": "PI",
+                "email": "parker.1758@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 4100",
+    "title": "Phonetics",
+    "description": "Cross-linguistic survey of the sounds of the world's languages.\nPrereq: 2000, 2000H, or 4000. Not open to students with credit for 5101.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LING 2000",
+          "LING 2000",
+          "LING 4000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5101"
+      ]
+    },
+    "catalog_number": "4100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17899",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 285",
+            "room": "285",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Cynthia G Clopper",
+                "role": "PI",
+                "email": "clopper.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 3701",
+    "title": "Language and the Mind",
+    "description": "Introduction to the psychological processes for producing and understanding speech, the means by which they arise in the child, and bases in the brain.\nPrereq: 2000 (201), 2000H (200H), 5000 (4000), Psych 1100 (100), or 1100H (100H). Not open to students with credit for 371, 3701H (371H), Psych 3371 (371), or 3371H (371H). GE soc sci indivs and groups course. GE foundation social and behavioral sci course. Cross-listed in Psych 3371.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LING 2000",
+          "LING 201",
+          "LING 2000",
+          "LING 200",
+          "LING 5000",
+          "LING 4000",
+          "Psych 1100",
+          "Psych 1100",
+          "Psych 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "371",
+        "3701H (371H)",
+        "Psych 3371 (371)",
+        "3371H (371H)"
+      ]
+    },
+    "catalog_number": "3701",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25618",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ellen Elizabeth Dossey",
+                "role": "PI",
+                "email": "dossey.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24307",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rebecca L Morley",
+                "role": "PI",
+                "email": "morley.33@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26637",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 006",
+            "room": "006",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jory Penelope Ross",
+                "role": "PI",
+                "email": "ross.1589@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26765",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 4100",
+    "title": "Phonetics",
+    "description": "Cross-linguistic survey of the sounds of the world's languages.\nPrereq: 2000, 2000H, or 4000. Not open to students with credit for 5101.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LING 2000",
+          "LING 2000",
+          "LING 4000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "5101"
+      ]
+    },
+    "catalog_number": "4100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17899",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 285",
+            "room": "285",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Cynthia G Clopper",
+                "role": "PI",
+                "email": "clopper.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 3801",
+    "title": "Codes and Codebreaking",
+    "description": "Introduction to old and new technology associated with codes and code-breaking and the ways in which it has impacted people's lives.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3801",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17898",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 034",
+            "room": "034",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chase Harmon",
+                "role": "PI",
+                "email": "harmon.476@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25820",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 040",
+            "room": "040",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Alyssa Rose Allen",
+                "role": "PI",
+                "email": "allen.2334@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 4300",
+    "title": "Phonology",
+    "description": "Introduction to phonological analysis and description, and an overview of phonological structure across languages.\r\nPrereq: Ling 2000 (Linguist 201), 2000H (201H), or 4000 (601). Not open to students with credit for Ling 5301 (Linguist 603.01).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Ling 2000",
+          "Ling 2000",
+          "Ling 201",
+          "Ling 4000",
+          "Ling 601"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "Ling 5301 (Linguist 603"
+      ]
+    },
+    "catalog_number": "4300",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17901",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 136",
+            "room": "136",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bjoern Koehnlein",
+                "role": "PI",
+                "email": "koehnlein.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 4300",
+    "title": "Phonology",
+    "description": "Introduction to phonological analysis and description, and an overview of phonological structure across languages.\r\nPrereq: Ling 2000 (Linguist 201), 2000H (201H), or 4000 (601). Not open to students with credit for Ling 5301 (Linguist 603.01).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Ling 2000",
+          "Ling 2000",
+          "Ling 201",
+          "Ling 4000",
+          "Ling 601"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "Ling 5301 (Linguist 603"
+      ]
+    },
+    "catalog_number": "4300",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17901",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 136",
+            "room": "136",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bjoern Koehnlein",
+                "role": "PI",
+                "email": "koehnlein.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 3701",
+    "title": "Language and the Mind",
+    "description": "Introduction to the psychological processes for producing and understanding speech, the means by which they arise in the child, and bases in the brain.\nPrereq: 2000 (201), 2000H (200H), 5000 (4000), Psych 1100 (100), or 1100H (100H). Not open to students with credit for 371, 3701H (371H), Psych 3371 (371), or 3371H (371H). GE soc sci indivs and groups course. GE foundation social and behavioral sci course. Cross-listed in Psych 3371.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LING 2000",
+          "LING 201",
+          "LING 2000",
+          "LING 200",
+          "LING 5000",
+          "LING 4000",
+          "Psych 1100",
+          "Psych 1100",
+          "Psych 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "371",
+        "3701H (371H)",
+        "Psych 3371 (371)",
+        "3371H (371H)"
+      ]
+    },
+    "catalog_number": "3701",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25618",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ellen Elizabeth Dossey",
+                "role": "PI",
+                "email": "dossey.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24307",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rebecca L Morley",
+                "role": "PI",
+                "email": "morley.33@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26637",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 006",
+            "room": "006",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jory Penelope Ross",
+                "role": "PI",
+                "email": "ross.1589@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26765",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 4200",
+    "title": "Syntax",
+    "description": "Basic elements of syntactic description and an overview of syntactic structure across languages.\r\nPrereq: Ling 2000 (Linguist 201), 2000H (201H), or 4000 (601). Not open to students with credit for Ling 5201 (Linguist 602.01).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Ling 2000",
+          "Ling 2000",
+          "Ling 201",
+          "Ling 4000",
+          "Ling 601"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "Ling 5201 (Linguist 602"
+      ]
+    },
+    "catalog_number": "4200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17900",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A109",
+            "room": "A109",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Dan Parker",
+                "role": "PI",
+                "email": "parker.1758@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 3701",
+    "title": "Language and the Mind",
+    "description": "Introduction to the psychological processes for producing and understanding speech, the means by which they arise in the child, and bases in the brain.\nPrereq: 2000 (201), 2000H (200H), 5000 (4000), Psych 1100 (100), or 1100H (100H). Not open to students with credit for 371, 3701H (371H), Psych 3371 (371), or 3371H (371H). GE soc sci indivs and groups course. GE foundation social and behavioral sci course. Cross-listed in Psych 3371.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LING 2000",
+          "LING 201",
+          "LING 2000",
+          "LING 200",
+          "LING 5000",
+          "LING 4000",
+          "Psych 1100",
+          "Psych 1100",
+          "Psych 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "371",
+        "3701H (371H)",
+        "Psych 3371 (371)",
+        "3371H (371H)"
+      ]
+    },
+    "catalog_number": "3701",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25618",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ellen Elizabeth Dossey",
+                "role": "PI",
+                "email": "dossey.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24307",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rebecca L Morley",
+                "role": "PI",
+                "email": "morley.33@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26637",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 006",
+            "room": "006",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jory Penelope Ross",
+                "role": "PI",
+                "email": "ross.1589@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26765",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 4400",
+    "title": "Linguistic Meaning",
+    "description": "Introduction to linguistic meaning across languages, including word meaning, the contribution of syntactic structure, and the role of context in interpretation.\r\nPrereq: 2000 (201), 2000H (201H), or 4000 (601).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LING 2000",
+          "LING 201",
+          "LING 2000",
+          "LING 201",
+          "LING 4000",
+          "LING 601"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4400",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "21546",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 136",
+            "room": "136",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Prerna Nadathur",
+                "role": "PI",
+                "email": "nadathur.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 4602",
+    "title": "Language and Belonging in the U.S.",
+    "description": "Relationships between language and social diversity in the general American speech community; discussion of how individuals and social groups distinguish themselves on the basis of language.\nPrereq: 2000, 2000H, 2367.01, 2367.01H, 3601, 3606, or English 3271. Not open to students with credit for 3602 or 3602H. GE soc sci indivs and groups and diversity soc div in the US course. GE theme citizenship for div and just wrld course, High-Impact Practice Research and Creative Inquiry.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LING 2000",
+          "LING 2000",
+          "LING 2367"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3602",
+        "3602H"
+      ]
+    },
+    "catalog_number": "4602",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "28494",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A111",
+            "room": "A111",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Julia Kay Porter Papke",
+                "role": "PI",
+                "email": "papke.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28495",
+        "section": "20",
+        "component": "Workshop",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 180",
+            "room": "180",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Julia Kay Porter Papke",
+                "role": "PI",
+                "email": "papke.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 2051",
+    "title": "Analyzing the Sounds of Language",
+    "description": "The sounds that languages use are examined. Quantitative analytical tools used in phonetic science are introduced. Small experiments are conducted to introduce students to research.\nPrereq: Math 1075 or 1148, or an ACT math subscore of 22 or higher that is less than two years old; or Math Placement Level R. Not open to students with credit for 2051H or SphHrng 2051. GE data anly course. GE foundation math and quant reasoning or data anyl course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Math 1075",
+          "Math 1148",
+          "an ACT math subscore of 22",
+          "higher that is less than two years old;",
+          "Math Placement Level R"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2051H",
+        "SphHrng 2051"
+      ]
+    },
+    "catalog_number": "2051",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27051",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 285",
+            "room": "285",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Phuong Hoai Dang",
+                "role": "PI",
+                "email": "dang.275@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 2000H",
+    "title": "Introduction to Linguistics",
+    "description": "This course is an introduction to linguistics science, the study of language. Students will build a foundation in linguistics, examining the different components that make up language and how these components systematically work together.\nPrereq: Honors standing. Not open to students with credit for 2000. GE cultures and ideas course. GE foundation social and behavioral sci course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2000"
+      ]
+    },
+    "catalog_number": "2000H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28293",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 050",
+            "room": "050",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Liz McCullough",
+                "role": "PI",
+                "email": "mccullough.136@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 4602",
+    "title": "Language and Belonging in the U.S.",
+    "description": "Relationships between language and social diversity in the general American speech community; discussion of how individuals and social groups distinguish themselves on the basis of language.\nPrereq: 2000, 2000H, 2367.01, 2367.01H, 3601, 3606, or English 3271. Not open to students with credit for 3602 or 3602H. GE soc sci indivs and groups and diversity soc div in the US course. GE theme citizenship for div and just wrld course, High-Impact Practice Research and Creative Inquiry.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LING 2000",
+          "LING 2000",
+          "LING 2367"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3602",
+        "3602H"
+      ]
+    },
+    "catalog_number": "4602",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "28494",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A111",
+            "room": "A111",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Julia Kay Porter Papke",
+                "role": "PI",
+                "email": "papke.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28495",
+        "section": "20",
+        "component": "Workshop",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 180",
+            "room": "180",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Julia Kay Porter Papke",
+                "role": "PI",
+                "email": "papke.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 2501",
+    "title": "Linguistics for Language Learning",
+    "description": "Examines language learning through the lens of linguistics. Covers cross-cultural differences and similarities in language use, parts of speech, foreign sounds, typical mistakes, etc.\nGE soc sci indivs and groups and diversity global studies course. GE foundation social and behavioral sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2501",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35355",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Townshend Hall",
+            "building": "Townshend Hall 247",
+            "room": "247",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ian Stewart Cameron",
+                "role": "PI",
+                "email": "cameron.996@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 3000",
+    "title": "Writing for Linguistics",
+    "description": "This course focuses on how to make good linguistic arguments. Students will analyze a range of ways in which arguments are constructed, learn to communicate linguistic information to specialist and general audiences, and acquire the skills to adopt and reflect on social and ethical standards in linguistics.\nPrereq: English 1110, or completion of GE Foundation Writing and Information Literacy course; and Ling 2000, 2000H, or English 3271.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "English 1110",
+          "completion of GE Foundation Writing and Information Literacy course"
+        ],
+        [
+          "Ling 2000",
+          "Ling 2000",
+          "English 3271"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27052",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 130",
+            "room": "130",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrea Dorothy Sims",
+                "role": "PI",
+                "email": "sims.120@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 3802",
+    "title": "Language and Computers",
+    "description": "Introduction to human language technology, explaining the computational and linguistic principles behind such familiar technologies as web search, spam filtering, and text generation.\nPrereq: Soph standing or above. GE quant reason math and logical anly course. GE theme number, nature, mind course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Soph standing",
+          "above"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3802",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25770",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 285",
+            "room": "285",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jingyi Chen",
+                "role": "PI",
+                "email": "chen.9220@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35709",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 285",
+            "room": "285",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Yi Chien Lin",
+                "role": "PI",
+                "email": "lin.4434@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 3601",
+    "title": "Language, Race, and Ethnicity in the U.S.",
+    "description": "Objective examination of the relationship between language, race and ethnicity in the context of varieties of English used by minority ethnic and racial groups in the U.S.\nGE cultures and ideas and diversity soc div in the US course. GE foundation historical and cultural studies and race, ethnicity and gender div course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3601",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27064",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 010",
+            "room": "010",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 2000",
+    "title": "Introduction to Linguistics",
+    "description": "This course is an introduction to linguistics science, the study of language. Students will build a foundation in linguistics, learning about the different components that make up language and how these components systematically work together.\nPrereq: Not open to students with credit for 2000H. GE cultures and ideas course. GE foundation social and behavioral sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2000H"
+      ]
+    },
+    "catalog_number": "2000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "17896",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 160",
+            "room": "160",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Yue Yin",
+                "role": "PI",
+                "email": "yin.1007@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23076",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Angelica M Aviles Bosques",
+                "role": "PI",
+                "email": "avilesbosques.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25402",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 129",
+            "room": "129",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ellie Wren-Hardin",
+                "role": "PI",
+                "email": "wren-hardin.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28291",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 164",
+            "room": "164",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Yasemin Fincan",
+                "role": "PI",
+                "email": "fincan.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28292",
+        "section": "50",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Page Hall",
+            "building": "Page Hall 060",
+            "room": "060",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Clayton Marr",
+                "role": "PI",
+                "email": "marr.54@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "37314",
+        "section": "60",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 185",
+            "room": "185",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chaeli Michelle Rule",
+                "role": "PI",
+                "email": "rule.53@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 3605",
+    "title": "Language and Social Justice",
+    "description": "This course introduces students to the role that language plays in both affording and denying citizens their rights to equal treatment and opportunity under the law.\nGE theme citizenship for div and just wrld course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3605",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27053",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 009",
+            "room": "009",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Laura Siragusa",
+                "role": "PI",
+                "email": "siragusa.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27731",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 025",
+            "room": "025",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emily Sagasser",
+                "role": "PI",
+                "email": "sagasser.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27821",
+        "section": "30",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 246",
+            "room": "246",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ellen Elizabeth Dossey",
+                "role": "PI",
+                "email": "dossey.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29231",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 014",
+            "room": "014",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Katie Conner",
+                "role": "PI",
+                "email": "conner.280@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 3603",
+    "title": "Language Across Cultures",
+    "description": "Investigation of relationships between language and culture in different societies with a view to shedding light on cross-cultural similarities and differences.\nGE soc sci indivs and groups and diversity global studies course. GE theme lived environments course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3603",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28296",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 246",
+            "room": "246",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Martha Booker Johnson",
+                "role": "PI",
+                "email": "johnson.6713@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "LING 4602",
+    "title": "Language and Belonging in the U.S.",
+    "description": "Relationships between language and social diversity in the general American speech community; discussion of how individuals and social groups distinguish themselves on the basis of language.\nPrereq: 2000, 2000H, 2367.01, 2367.01H, 3601, 3606, or English 3271. Not open to students with credit for 3602 or 3602H. GE soc sci indivs and groups and diversity soc div in the US course. GE theme citizenship for div and just wrld course, High-Impact Practice Research and Creative Inquiry.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "LING 2000",
+          "LING 2000",
+          "LING 2367"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3602",
+        "3602H"
+      ]
+    },
+    "catalog_number": "4602",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "28494",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A111",
+            "room": "A111",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Julia Kay Porter Papke",
+                "role": "PI",
+                "email": "papke.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28495",
+        "section": "20",
+        "component": "Workshop",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 180",
+            "room": "180",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Julia Kay Porter Papke",
+                "role": "PI",
+                "email": "papke.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

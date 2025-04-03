@@ -1,0 +1,264 @@
+[
+  {
+    "course": "PUBHEPI 2410",
+    "title": "Epidemiology in Public Health",
+    "description": "The course will cover the principles and procedures in the field of epidemiology, with a focus on the application of the principles of epidemiology.\nGE theme health and well-being course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2410",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "1750",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 1000",
+            "room": "1000",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Randall Edward Harris",
+                "role": "PI",
+                "email": "harris.44@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "1751",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amie Hufton",
+                "role": "PI",
+                "email": "hufton.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "1917",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amie Hufton",
+                "role": "PI",
+                "email": "hufton.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36868",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amie Hufton",
+                "role": "PI",
+                "email": "hufton.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBHEPI 4410",
+    "title": "Conceptual Foundations of Social Epidemiology",
+    "description": "This course focuses on how social factors, such as education, neighborhood context, & structural & institutional racism are related to various population health outcomes. Students will learn theories that inform how social determinants of health are measured, & how epidemiologists use these measures to identify determinants of disease & ill health among populations, especially marginalized groups.\nPrereq: 2410; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PUBHEPI 2410",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4410",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36268",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 010",
+            "room": "010",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jeffrey J Wing",
+                "role": "PI",
+                "email": "wing.68@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBHEPI 3411",
+    "title": "Public Health Field Investigation",
+    "description": "This course provides an applied study in investigating and responding to outbreaks, disasters, and other acute public health events.\nGE theme health and well-being course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3411",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "1945",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 324",
+            "room": "324",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amie Hufton",
+                "role": "PI",
+                "email": "hufton.3@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Amie Hufton",
+                "role": "PI",
+                "email": "hufton.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

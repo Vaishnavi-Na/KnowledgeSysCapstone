@@ -1,0 +1,448 @@
+[
+  {
+    "course": "NEUROSC 4550",
+    "title": "Autism Spectrum Disorder and Related Neurodevelopmental Disorders",
+    "description": "Autism spectrum disorder (ASD) is a complex neurodevelopmental disorder characterized by repetitive and characteristic patterns of behavior and difficulties with social communication and interaction that has its onset during early childhood. This course will explore different aspects of ASD by examining studies on genetics, neurology, neurobiology early intervention, and behavioral science.\nPrereq: 3000.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NEUROSC 3000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4550",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "37098",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hamilton Hall",
+            "building": "Hamilton Hall 395",
+            "room": "395",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrew Buck",
+                "role": "PI",
+                "email": "buck.81@osu.edu"
+              },
+              {
+                "name": "Georgia Ann Bishop",
+                "role": "PI",
+                "email": "bishop.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NEUROSC 4050H",
+    "title": "Neurogenetics",
+    "description": "This course takes a historical approach to gene discovery in neuroscience: spanning classic mutagenesis studies in simple invertebrate systems to the mapping and identification of neurological disease genes in humans, with stops along the way to explore unique genetic systems and studies, such as the Stanford dog narcolepsy project.\nPrereq: 3000, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NEUROSC 3000",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4050H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "34029",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hamilton Hall",
+            "building": "Hamilton Hall 385",
+            "room": "385",
+            "start_time": "1:30 pm",
+            "end_time": "3:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "John David Oberdick",
+                "role": "PI",
+                "email": "oberdick.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NEUROSC 1100H",
+    "title": "Neuroscience Honors Survey Course",
+    "description": "Introduces students to the Neuroscience curriculum, explore degree requirements, develop a personalized academic/vocational plan, aid in professional development, familiarize students with academic resources and support services and establish a relationship with an academic advisor.\r\nPrereq: Honors standing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100H",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "34031",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Independence Hall",
+            "building": "Independence Hall 100",
+            "room": "100",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Charlie Campbell",
+                "role": "PI",
+                "email": "campbell.601@osu.edu"
+              },
+              {
+                "name": "Jessica Michele Arrasmith",
+                "role": "PI",
+                "email": "arrasmith.15@osu.edu"
+              },
+              {
+                "name": "Natalie A Cirincione",
+                "role": "PI",
+                "email": "cirincione.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "34807",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hamilton Hall",
+            "building": "Hamilton Hall 180",
+            "room": "180",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Charlie Campbell",
+                "role": "PI",
+                "email": "campbell.601@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NEUROSC 1100H",
+    "title": "Neuroscience Honors Survey Course",
+    "description": "Introduces students to the Neuroscience curriculum, explore degree requirements, develop a personalized academic/vocational plan, aid in professional development, familiarize students with academic resources and support services and establish a relationship with an academic advisor.\r\nPrereq: Honors standing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100H",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "34031",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Independence Hall",
+            "building": "Independence Hall 100",
+            "room": "100",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Charlie Campbell",
+                "role": "PI",
+                "email": "campbell.601@osu.edu"
+              },
+              {
+                "name": "Jessica Michele Arrasmith",
+                "role": "PI",
+                "email": "arrasmith.15@osu.edu"
+              },
+              {
+                "name": "Natalie A Cirincione",
+                "role": "PI",
+                "email": "cirincione.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "34807",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hamilton Hall",
+            "building": "Hamilton Hall 180",
+            "room": "180",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Charlie Campbell",
+                "role": "PI",
+                "email": "campbell.601@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NEUROSC 4100",
+    "title": "Basic and Clinical Foundations of Neurological Disease",
+    "description": "Discusses basic and clinical issues related to a variety of neurological disease.\r\nPrereq: 3000, or permission of instructor. Admis Cond course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NEUROSC 3000",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "33758",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Davis Heart & Lung Research",
+            "building": "Davis Heart & Lung 170",
+            "room": "170",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sara Elizabeth Gombash Lampe",
+                "role": "PI",
+                "email": "gombashlampe.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NEUROSC 3050",
+    "title": "Structure and Function of the Nervous System",
+    "description": "Basic principles of the anatomical and neurophysiological organization of the nervous system.\r\nPrereq: 3000. Admis Cond course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "NEUROSC 3000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3050",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "33602",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Meiling Hall",
+            "building": "Meiling Hall 112",
+            "room": "112",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Georgia Ann Bishop",
+                "role": "PI",
+                "email": "bishop.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NEUROSC 3000",
+    "title": "Cellular and Molecular Neuroscience",
+    "description": "Course covering cellular and molecular organization of the nervous system. \nPrereq: Biology 1113.01, or 1113H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Biology 1113"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "33763",
+        "section": "020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Meiling Hall",
+            "building": "Meiling Hall 160",
+            "room": "160",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "John David Oberdick",
+                "role": "PI",
+                "email": "oberdick.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

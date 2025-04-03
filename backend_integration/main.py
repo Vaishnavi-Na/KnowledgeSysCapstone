@@ -1,6 +1,7 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
+from calculate_courses_remain import calculate_remaining_courses, get_remaining_groups
 from scraper_json import scrap_from_adv_rep
 from search_in_RMP import demo_search_lte_rating, demo_search_desc_department
 from query import demo_search_course
@@ -53,3 +54,23 @@ async def upload_adv_report(file: UploadFile = File(...)):
             content={"error": f"Error uploading file: {str(e)}"},
             status_code=500  # Internal Server Error
         )
+
+@app.post("/courses/get_remain")
+async def get_remain(transcript: dict):
+    specialization = transcript.get('special')
+    if not specialization:
+        raise HTTPException(status_code=400, detail="Specialization missing from transcript.")
+    
+    remaining_groups = get_remaining_groups(transcript)
+
+    return {
+        "specialization": specialization,
+        "remaining_groups": remaining_groups
+    }
+
+@app.post("/courses/calc_remain")
+async def calc_remain(transcript: dict, course: str):
+
+    unmet_groups = calculate_remaining_courses(transcript, course)
+
+    return unmet_groups

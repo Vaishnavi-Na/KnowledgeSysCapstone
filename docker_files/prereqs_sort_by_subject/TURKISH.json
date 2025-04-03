@@ -1,0 +1,174 @@
+[
+  {
+    "course": "TURKISH 1101",
+    "title": "Elementary Turkish I",
+    "description": "Introduction to Turkish; development of listening, reading, speaking, and writing skills.\nPrereq: Not open to native speakers through regular enrollment, or EM credit. This course is available for EM credit. GE for lang. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1101",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "21300",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "5:00 pm",
+            "end_time": "5:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ceyda Steele",
+                "role": "PI",
+                "email": "steele.1022@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "5:00 pm",
+            "end_time": "6:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ceyda Steele",
+                "role": "PI",
+                "email": "steele.1022@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "TURKISH 1103",
+    "title": "Intermediate Turkish I",
+    "description": "Reading of Turkish short stories and poems with attention to literary and cultural appreciation; development of basic language skills. Not open to native speakers through regular enrollment or EM credit.\nPrereq: 1102. This course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "TURKISH 1102"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1103",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "25785",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "4:00 pm",
+            "end_time": "4:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ceyda Steele",
+                "role": "PI",
+                "email": "steele.1022@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "TURKISH 1103",
+    "title": "Intermediate Turkish I",
+    "description": "Reading of Turkish short stories and poems with attention to literary and cultural appreciation; development of basic language skills. Not open to native speakers through regular enrollment or EM credit.\nPrereq: 1102. This course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "TURKISH 1102"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1103",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "25785",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "4:00 pm",
+            "end_time": "4:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ceyda Steele",
+                "role": "PI",
+                "email": "steele.1022@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

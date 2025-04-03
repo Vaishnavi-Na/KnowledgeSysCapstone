@@ -1,0 +1,98 @@
+[
+  {
+    "course": "PHYSIO 3200",
+    "title": "Human Physiology",
+    "description": "Teaches the physiology of human organ systems, including the following: nervous system, muscle, gastrointestinal, cardiovascular, respiratory, renal, endocrine, and reproductive systems. This course is designed for students who are planning careers in the health sciences. This is a one-semester course.\nPrereq: 6 sem cr hrs in the biological sciences.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "6 sem cr hrs in the biological sciences"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3200",
+    "term": "Autumn 2025",
+    "units": 5,
+    "sections": [
+      {
+        "class_number": "33564",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Meiling Hall",
+            "building": "Meiling Hall 160",
+            "room": "160",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matthew Stratton",
+                "role": "PI",
+                "email": "stratton.120@osu.edu"
+              },
+              {
+                "name": "Paul M Janssen",
+                "role": "PI",
+                "email": "janssen.10@osu.edu"
+              },
+              {
+                "name": "Mark T Ziolo",
+                "role": "PI",
+                "email": "ziolo.1@osu.edu"
+              },
+              {
+                "name": "Krishna Chinthalapudi",
+                "role": "PI",
+                "email": "chinthalapudi.1@osu.edu"
+              },
+              {
+                "name": "Howard Haogang Gu",
+                "role": "PI",
+                "email": "gu.37@osu.edu"
+              },
+              {
+                "name": "Yutong Zhao",
+                "role": "PI",
+                "email": "zhao.2878@osu.edu"
+              },
+              {
+                "name": "Beth Suzanne Lee",
+                "role": "PI",
+                "email": "lee.2076@osu.edu"
+              },
+              {
+                "name": "Jill A Rafael-Fortney",
+                "role": "PI",
+                "email": "rafael-fortney.1@osu.edu"
+              },
+              {
+                "name": "Vadim V. Fedorov",
+                "role": "PI",
+                "email": "fedorov.2@osu.edu"
+              },
+              {
+                "name": "Jing Zhao",
+                "role": "PI",
+                "email": "zhao.2877@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

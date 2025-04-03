@@ -1,0 +1,1241 @@
+[
+  {
+    "course": "AVIATN 2300",
+    "title": "Aircraft Performance and Weather",
+    "description": "Weather theory, patterns, data, and analysis. Data formats and sources. Consideration of weather conditions as they relate to aircraft and flight performance. This is an RATP approved course.\nPrereq: 2100 or 2150.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AVIATN 2100",
+          "AVIATN 2150"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2300",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5732",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 355",
+            "room": "355",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matt Dreher",
+                "role": "PI",
+                "email": "dreher.60@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 3000",
+    "title": "Aviation Management and Marketing",
+    "description": "Consideration of management and marketing concepts and models. Analysis of management and marketing strategies and practices in the aviation industry.\r\nPrereq: 2000 and 2100. Concur: 2200, or a second-level writing course. Not open to students with credit for Aviation 550 or 654.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AVIATN 2000",
+          "AVIATN 2100"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "AVIATN 2200",
+          "a second-level writing course"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "Aviation 550",
+        "654"
+      ]
+    },
+    "catalog_number": "3000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5728",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Animal Science Building",
+            "building": "Animal Science Bldg 202",
+            "room": "202",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Greg Kociba",
+                "role": "PI",
+                "email": "kociba.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "5785",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 239",
+            "room": "239",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Adam DAVID Beckman",
+                "role": "PI",
+                "email": "beckman.43@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 4500",
+    "title": "Aviation Capstone",
+    "description": "Directed research, preparation, and presentation of relevant and coordinated information that summarizes current or predicted significant aviation topics, issues, and developments. Partnership with industry is encouraged.\r\nPrereq: Aviatn major, and completion of the Aviatn major core.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Aviatn major",
+          "and completion of the Aviatn major core"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4500",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5783",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 258",
+            "room": "258",
+            "start_time": "1:50 pm",
+            "end_time": "3:10 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Greg Kociba",
+                "role": "PI",
+                "email": "kociba.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 2200",
+    "title": "Aviation Organization Analysis and Writing",
+    "description": "This course critically examines aviation organizations, how they manage communication with various stakeholder groups, and implement new policy. Through reading, writing, and critical reflection, students will have a greater understanding of how communication affects the operations of an aviation organization.This is an RATP approved course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5727",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Agricultural Engineering Bldg",
+            "building": "Agriculture Engnr Bldg 100",
+            "room": "100",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melanie S Dickman",
+                "role": "PI",
+                "email": "dickman.49@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 4201",
+    "title": "Applied Dispatching",
+    "description": "Study of dispatch fundamentals, aircraft systems, performance, ATC requirements, and the practical application of dispatching an aircraft. Note: Age Requirements: All students will be required to be 21 years of age upon completion of AVN 4201-Applied Aircraft Dispatch in order to receive a graduate certificate that allows you to sit for the FAA Aircraft Dispatch Practical Exam. This is to ensure compliance with the requirements found in FAR 65.53.\nPrereq: 4200.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AVIATN 4200"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4201",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35092",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 184",
+            "room": "184",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Adam DAVID Beckman",
+                "role": "PI",
+                "email": "beckman.43@osu.edu"
+              },
+              {
+                "name": "Greg Kociba",
+                "role": "PI",
+                "email": "kociba.2@osu.edu"
+              },
+              {
+                "name": "Brian Strzempkowski",
+                "role": "PI",
+                "email": "strzempkowski.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 4100",
+    "title": "Commercial Flight Fundamentals",
+    "description": "Study of regulations, aerodynamics, systems, performance profiles, navigation, weather, and operations for the commercial pilot certificate. This is an RATP approved course.\nPrereq: A grade of B- or above in Aviatn 2501; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of B-",
+          "Aviatn 2501",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5734",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Airport Terminal",
+            "building": "Knowlton Airport Terminal 0255",
+            "room": "255",
+            "start_time": "4:30 pm",
+            "end_time": "5:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Candi Jo Roby",
+                "role": "PI",
+                "email": "roby.32@osu.edu"
+              },
+              {
+                "name": "Alex Serrano",
+                "role": "PI",
+                "email": "serrano.980@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 5100",
+    "title": "Flight Instructor Methodology",
+    "description": "Study of learning theories, communication techniques, the teaching process, teaching methods, and evaluation.  Application of these concepts to develop lesson plans and course(s) of study. This is an RATP approved course.\nPrereq: B- or above in 4101; or instructor permission.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "B-",
+          "AVIATN 4101",
+          "instructor permission"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5100",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "5736",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Airport Terminal",
+            "building": "Knowlton Airport Terminal 0255",
+            "room": "255",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Candi Jo Roby",
+                "role": "PI",
+                "email": "roby.32@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 3600",
+    "title": "Business and Corporate Aviation Management",
+    "description": "Analysis and review of the principles and challenges of operating an on-demand air transportation system. Consideration of decision making strategies and sound operating practices that are needed to define and manage a corporate flight department. Presentation of information via textbook, assigned readings, videos, lecture and guest speakers.\nPrereq: 3000.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AVIATN 3000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3600",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5784",
+        "section": "0100",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Adam DAVID Beckman",
+                "role": "PI",
+                "email": "beckman.43@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 4000",
+    "title": "Air Transportation Analysis I",
+    "description": "Analysis of domestic and international air transportation systems and models.  Particular focus on supply and demand components. Consideration of major industry segments, such as commercial, business, cargo, and general aviation.\r\nPrereq: Aviatn 3000. Not open to students with credit for Aviation 650 or 652.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Aviatn 3000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "Aviation 650",
+        "652"
+      ]
+    },
+    "catalog_number": "4000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5731",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Baker Systems Engineering",
+            "building": "Baker Systems 180",
+            "room": "180",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Adam DAVID Beckman",
+                "role": "PI",
+                "email": "beckman.43@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 4200",
+    "title": "Aircraft Dispatch Fundamentals",
+    "description": "Aircraft Dispatch Fundamentals is the first in a two course sequence of Aircraft Dispatch oriented courses that  lead to FAA Aircraft Dispatch Certification. This course provides an overview of aerodynamics, navigation, weather theory and forecasting, and flight planning. Small general aviation aircraft are used as examples in the course. This is an RATP approved course.\nPrereq: 2100 or 2150; 2300; and permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AVIATN 2100",
+          "AVIATN 2150",
+          "AVIATN 2300"
+        ],
+        [
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "8800",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 254",
+            "room": "254",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Strzempkowski",
+                "role": "PI",
+                "email": "strzempkowski.1@osu.edu"
+              },
+              {
+                "name": "Greg Kociba",
+                "role": "PI",
+                "email": "kociba.2@osu.edu"
+              },
+              {
+                "name": "Adam DAVID Beckman",
+                "role": "PI",
+                "email": "beckman.43@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10009",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 017",
+            "room": "017",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Adam DAVID Beckman",
+                "role": "PI",
+                "email": "beckman.43@osu.edu"
+              },
+              {
+                "name": "Greg Kociba",
+                "role": "PI",
+                "email": "kociba.2@osu.edu"
+              },
+              {
+                "name": "Brian Strzempkowski",
+                "role": "PI",
+                "email": "strzempkowski.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 3300",
+    "title": "Aviation Human Factors and Safety",
+    "description": "Consideration of Human Factors including all sensory, perceptive, cognitive and decision making dynamics as they are expressed in aviation. Consideration of aviation safety including incidents, accidents, crew resource management, and performance. This is an RATP approved course.\nPrereq: 2300.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AVIATN 2300"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3300",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5730",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Agricultural Administration",
+            "building": "Agriculture Admin Bldg 108",
+            "room": "108",
+            "start_time": "2:15 pm",
+            "end_time": "5:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Shawn Allen Pruchnicki",
+                "role": "PI",
+                "email": "pruchnicki.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 3400",
+    "title": "Aviation Accident Investigation",
+    "description": "Review of accident investigation techniques and methodologies that will be reinforced with case examples. This is an RATP approved course.\nPrereq: 2300.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AVIATN 2300"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3400",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5749",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 371",
+            "room": "371",
+            "start_time": "5:15 pm",
+            "end_time": "8:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Adam MATTHEW Gerhardt",
+                "role": "PI",
+                "email": "gerhardt.22@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 2400",
+    "title": "Fundamentals in Unmanned Aircraft Systems",
+    "description": "This course introduces the student to Unmanned Aircraft Systems. aircraft aerodynamics and aircraft performance, meteorology, operating within the National Airspace System, regulations, and use-cases of UAS (unmanned aerial systems). This course also provides exposure on UAS career paths, an overview of the various hardware and software that are important to the UAS landscape, and human factors.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2400",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9885",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark A. Bolin",
+                "role": "PI",
+                "email": "bolin.98@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 2401",
+    "title": "UAS Ground and Flight Operations",
+    "description": "In this course we will go beyond the FAA requirements to be able to fly commercially and start learning about mission planning and flight operations. This course will cover two additional certifications with Unmanned Safety Institute, Visual Line of Sight (VSO) Ground and Flight, and will culminate in both simulated and hands-on flight on a number of different platforms.\nPrereq: Permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2401",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9887",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Caldwell Laboratory",
+            "building": "Caldwell Lab 115",
+            "room": "115",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark A. Bolin",
+                "role": "PI",
+                "email": "bolin.98@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 3100",
+    "title": "Instrument Flight Fundamentals",
+    "description": "Study of flight by reference to instruments, IFR regulations, and procedures in the National Airspace System. This is an RATP approved course.\nPrereq: A grade of B- or above in Aviatn 2102; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of B-",
+          "Aviatn 2102",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5733",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Airport Terminal",
+            "building": "Knowlton Airport Terminal 0255",
+            "room": "255",
+            "start_time": "4:30 pm",
+            "end_time": "5:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Candi Jo Roby",
+                "role": "PI",
+                "email": "roby.32@osu.edu"
+              },
+              {
+                "name": "Alex Serrano",
+                "role": "PI",
+                "email": "serrano.980@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 2900",
+    "title": "Air Traffic Control Fundamentals",
+    "description": "This course is an in-depth examination of the role and function of the Air Traffic Control environment as it relates to operations and pilot communications within the National Airspace System (NAS).\nPrereq: 2300, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AVIATN 2300",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2900",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "9892",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Townshend Hall",
+            "building": "Townshend Hall 247",
+            "room": "247",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melanie S Dickman",
+                "role": "PI",
+                "email": "dickman.49@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 2000",
+    "title": "Introduction to the Aviation Industry",
+    "description": "Introduction to the aviation industry, including its elements, components, and structures. Topics include: aircraft, airports, airspace, a survey of industry segments and purposes, and careers and career paths.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2000",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5725",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Emily S Castellucci",
+                "role": "PI",
+                "email": "castellucci.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "5744",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 375",
+            "room": "375",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matt Dreher",
+                "role": "PI",
+                "email": "dreher.60@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "10296",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 305",
+            "room": "305",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Greg Kociba",
+                "role": "PI",
+                "email": "kociba.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 2100",
+    "title": "Private Pilot Fundamentals",
+    "description": "Study of flight fundamentals, aircraft operations, weather, and regulations required for Private Pilot certification.  This course is conducted under Federal Aviation Administration Regulations Part 141. This is an RATP approved course.\nThis course is available for EM credit.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2100",
+    "term": "Autumn 2025",
+    "units": 5,
+    "sections": [
+      {
+        "class_number": "5726",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Dreese Laboratories",
+            "building": "Dreese Lab 264",
+            "room": "264",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Alex Serrano",
+                "role": "PI",
+                "email": "serrano.980@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "5745",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab N054",
+            "room": "N054",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Matt Dreher",
+                "role": "PI",
+                "email": "dreher.60@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 3100",
+    "title": "Instrument Flight Fundamentals",
+    "description": "Study of flight by reference to instruments, IFR regulations, and procedures in the National Airspace System. This is an RATP approved course.\nPrereq: A grade of B- or above in Aviatn 2102; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of B-",
+          "Aviatn 2102",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5733",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Airport Terminal",
+            "building": "Knowlton Airport Terminal 0255",
+            "room": "255",
+            "start_time": "4:30 pm",
+            "end_time": "5:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Candi Jo Roby",
+                "role": "PI",
+                "email": "roby.32@osu.edu"
+              },
+              {
+                "name": "Alex Serrano",
+                "role": "PI",
+                "email": "serrano.980@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AVIATN 4100",
+    "title": "Commercial Flight Fundamentals",
+    "description": "Study of regulations, aerodynamics, systems, performance profiles, navigation, weather, and operations for the commercial pilot certificate. This is an RATP approved course.\nPrereq: A grade of B- or above in Aviatn 2501; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of B-",
+          "Aviatn 2501",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "5734",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Airport Terminal",
+            "building": "Knowlton Airport Terminal 0255",
+            "room": "255",
+            "start_time": "4:30 pm",
+            "end_time": "5:50 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Candi Jo Roby",
+                "role": "PI",
+                "email": "roby.32@osu.edu"
+              },
+              {
+                "name": "Alex Serrano",
+                "role": "PI",
+                "email": "serrano.980@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,6245 @@
+[
+  {
+    "course": "PSYCH 4475",
+    "title": "The Self",
+    "description": "Survey of classic and contemporary theory and research on social psychological study of the self; diverse approaches, and various gender, ethnic, and cross-cultural perspectives.\nPrereq: A grade of C- or above in 2220, 2300, and 2367 prior to SU13, 2367.01, 3325, 3325H, or 3375. Not open to students with credit for 475.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300",
+          "PSYCH 2367",
+          "PSYCH 2367"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "475"
+      ]
+    },
+    "catalog_number": "4475",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26617",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 006",
+            "room": "006",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Dylan David Wagner",
+                "role": "PI",
+                "email": "wagner.1174@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 1100",
+    "title": "Introduction to Psychology",
+    "description": "A prerequisite to advanced courses; a broad survey of psychological science. Application of the scientific method to the empirical study of behavior with emphasis on individual and cultural differences.\nPrereq: Not open to students with credit for 100, 1100H (100H) or 1100E (100E). This course is available for EM credit. GE soc sci indivs and groups and diversity soc div in the US course. GE foundation social and behavioral sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "100",
+        "1100H (100H)",
+        "1100E (100E)"
+      ]
+    },
+    "catalog_number": "1100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25829",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28616",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Townshend Hall",
+            "building": "Townshend Hall 247",
+            "room": "247",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "20475",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Reed Wilson Donithen",
+                "role": "PI",
+                "email": "donithen.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36040",
+        "section": "0045",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 150",
+            "room": "150",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35024",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rylan Deer",
+                "role": "PI",
+                "email": "deer.282@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36041",
+        "section": "0070",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "22904",
+        "section": "0080",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 002",
+            "room": "002",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24844",
+        "section": "0090",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rylan Deer",
+                "role": "PI",
+                "email": "deer.282@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28097",
+        "section": "0095",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 002",
+            "room": "002",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24845",
+        "section": "0100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Seel Bee Lee",
+                "role": "PI",
+                "email": "lee.8265@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36042",
+        "section": "0105",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "20476",
+        "section": "0110",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Reed Wilson Donithen",
+                "role": "PI",
+                "email": "donithen.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36043",
+        "section": "0115",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 002",
+            "room": "002",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27083",
+        "section": "0120",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Astrid Zuckerman",
+                "role": "PI",
+                "email": "zuckerman.44@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27086",
+        "section": "0140",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36045",
+        "section": "0145",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 360",
+            "room": "360",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Laura Therese Simon",
+                "role": "PI",
+                "email": "simon.545@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28000",
+        "section": "1000",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 131",
+            "room": "131",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lisa Cravens-Brown",
+                "role": "PI",
+                "email": "cravens-brown.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27145",
+        "section": "1001",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28982",
+        "section": "1002",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 243",
+            "room": "243",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27146",
+        "section": "1003",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36254",
+        "section": "1004",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 243",
+            "room": "243",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27147",
+        "section": "1005",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 322",
+            "room": "322",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28983",
+        "section": "1006",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36255",
+        "section": "1007",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 322",
+            "room": "322",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28984",
+        "section": "1008",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 230",
+            "room": "230",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27148",
+        "section": "1009",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 222",
+            "room": "222",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27149",
+        "section": "1010",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 358",
+            "room": "358",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27150",
+        "section": "1011",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 258",
+            "room": "258",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27151",
+        "section": "1012",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 322",
+            "room": "322",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28985",
+        "section": "1013",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 018",
+            "room": "018",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27152",
+        "section": "1014",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 090",
+            "room": "090",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28986",
+        "section": "1015",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 245",
+            "room": "245",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29217",
+        "section": "1016",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 243",
+            "room": "243",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28987",
+        "section": "1017",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 018",
+            "room": "018",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27153",
+        "section": "1018",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 2006",
+            "room": "2006",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36256",
+        "section": "1020",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 014",
+            "room": "014",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27155",
+        "section": "1021",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 354",
+            "room": "354",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27156",
+        "section": "1022",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 140",
+            "room": "140",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23337",
+        "section": "3000",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lauren Nicole Pino",
+                "role": "PI",
+                "email": "pino.15@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3551",
+    "title": "Psychology of Adolescence",
+    "description": "An examination of the biological, psychological, and social aspects of normal adolescent development.\nPrereq: 1100 or 1100H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 1100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3551",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "20625",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 006",
+            "room": "006",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "John Clark Gibbs",
+                "role": "PI",
+                "email": "gibbs.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 2300",
+    "title": "Research Methods in Psychology",
+    "description": "An overview of issues, methods, and techniques of scientific psychological research. Students must be pursuing majors or minors in Psychology.\nPrereq: 1100 or 1100H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 1100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2300",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27121",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 006",
+            "room": "006",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rylan Deer",
+                "role": "PI",
+                "email": "deer.282@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24847",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 035",
+            "room": "035",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jesse Ladanyi",
+                "role": "PI",
+                "email": "ladanyi.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28642",
+        "section": "0035",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 260",
+            "room": "260",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rylan Deer",
+                "role": "PI",
+                "email": "deer.282@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23317",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Anthony Phenis",
+                "role": "PI",
+                "email": "phenis.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35496",
+        "section": "5000",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Todd Michael Kays",
+                "role": "PI",
+                "email": "kays.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3331H",
+    "title": "Abnormal Psychology",
+    "description": "Examination of current theories and empirical findings regarding the major forms of psychopathology.\r\nPrereq: Honors standing, and 1100 (100) or 1100H (100H); or permission of instructor. Not open to students with credit for 2367.02, 3331 (331), 3331E (331E), or 331H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2367"
+      ]
+    },
+    "catalog_number": "3331H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25330",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E105",
+            "room": "E105",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jamie R Bourn",
+                "role": "PI",
+                "email": "bourn.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3325H",
+    "title": "Introduction to Social Psychology",
+    "description": "An in-depth, empirically based introduction to research in social psychology; topics include individual motivation, group behavior, attitudes, and perception of self and others.\r\nPrereq: Honors standing, and 1100 (100) or 1100H (100H); or permission of instructor. Not open to students with credit for 2367.01 (367.01), 3325 (325), or 325H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2367"
+      ]
+    },
+    "catalog_number": "3325H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25940",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 030",
+            "room": "030",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven J Spencer",
+                "role": "PI",
+                "email": "spencer.670@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 2220H",
+    "title": "Data Analysis in Psychology",
+    "description": "Discussion of statistical analysis of psychological data -  random samples, graphical and numerical techniques of descriptive statistics, correlation, regression, probability, sampling distribution, and hypothesis testing.\nPrereq: Honors standing, and 1100 or 1100H, and Stat 1450, Math 1120, 1130, 1148, 1149, 1150, or 1151, or equiv, or Math Placement Level M or higher; or permission of instructor. Not open to students with credit for 2220.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 1100",
+          "Stat 1450",
+          "Math 1120",
+          "Math 1130",
+          "Math 1148",
+          "Math 1149",
+          "Math 1150",
+          "Math 1151",
+          "equiv",
+          "Math Placement Level M",
+          "higher;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2220"
+      ]
+    },
+    "catalog_number": "2220H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24187",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 022",
+            "room": "022",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Gyeongcheol Cho",
+                "role": "PI",
+                "email": "cho.1240@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3313",
+    "title": "Introduction to Behavioral Neuroscience",
+    "description": "Introduction to the structure and function of the nervous system in relation to behavior.\nPrereq: 1100 or 1100H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 1100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3313",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28016",
+        "section": "0005",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 155",
+            "room": "155",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Laurence Daniele Coutellier",
+                "role": "PI",
+                "email": "coutellier.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35015",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 324",
+            "room": "324",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Anthony Phenis",
+                "role": "PI",
+                "email": "phenis.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35016",
+        "section": "0035",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 1000",
+            "room": "1000",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Anthony Phenis",
+                "role": "PI",
+                "email": "phenis.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25941",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 021",
+            "room": "021",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristin Edwards Supe",
+                "role": "PI",
+                "email": "supe.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25493",
+        "section": "0500",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristin Edwards Supe",
+                "role": "PI",
+                "email": "supe.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3375",
+    "title": "Stereotyping and Prejudice",
+    "description": "Lectures address experimental research in stereotyping and prejudice; readings focus on historical, cultural, and sociological perspectives on issues related to gender, ethnicity, and social class.\nPrereq: 1100 or 1100H. GE diversity soc div in the US course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 1100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3375",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36026",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 021",
+            "room": "021",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brittany Leigh Shoots-Reinhard",
+                "role": "PI",
+                "email": "shoots-reinhard.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3900",
+    "title": "A Practical Guide to Ruling the World",
+    "description": "Contemporary and historical research research as applied to governing and the governed, including social and political psychology, behavioral economics, and more. Reading and discourse on psychological research including: flags and symbols, authoritarianism, patriotism, protests and rebellion, taxation, the media, police psychology, conspiracy theories, and immigration.\nPrereq: Completion of GE Foundation Social and Behavioral Sciences course. GE theme citizenship for div and just wrld course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Completion of GE Foundation Social and Behavioral Sciences course"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3900",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35502",
+        "section": "0005",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 021",
+            "room": "021",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven Timothy Bengal",
+                "role": "PI",
+                "email": "bengal.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28032",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 300",
+            "room": "300",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven Timothy Bengal",
+                "role": "PI",
+                "email": "bengal.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27073",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 300",
+            "room": "300",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bryon David Hines",
+                "role": "PI",
+                "email": "hines.367@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3550",
+    "title": "Psychology of Childhood",
+    "description": "Introduction to the major phenomena, methods, theories, and findings of developmental psychology, especially as they apply to infancy and childhood.\r\nPrereq: 1100 (100) or 1100H (100H). Not open to students with credit for 550 or 550H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "550",
+        "550H"
+      ]
+    },
+    "catalog_number": "3550",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "37114",
+        "section": "0005",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 260",
+            "room": "260",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Reed Wilson Donithen",
+                "role": "PI",
+                "email": "donithen.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35501",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 260",
+            "room": "260",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Stephen Anthony Petrill",
+                "role": "PI",
+                "email": "petrill.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3310",
+    "title": "Sensation and Perception",
+    "description": "Examination of how observers perceive their environment through sensory information; emphasis on major sensory systems including vision, audition, spatial orientation, touch, taste, and olfaction.\nPrereq: 1100 or 1100H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 1100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3310",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35497",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 021",
+            "room": "021",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristin Edwards Supe",
+                "role": "PI",
+                "email": "supe.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 4540",
+    "title": "Counseling Psychology",
+    "description": "Issues within the field of counseling psychology including assessment, counseling skills, multicultural issues, career, professional, and ethical issues.\nPrereq: A grade of C- or above in 2220 and 2300; and a grade of C- or above in 2367.02, 3331, 3335, or 3530.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300"
+        ],
+        [
+          "a grade of C-",
+          "PSYCH 2367"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4540",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25031",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Stefanie Day",
+                "role": "PI",
+                "email": "day.715@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26692",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Stefanie Day",
+                "role": "PI",
+                "email": "day.715@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3325H",
+    "title": "Introduction to Social Psychology",
+    "description": "An in-depth, empirically based introduction to research in social psychology; topics include individual motivation, group behavior, attitudes, and perception of self and others.\r\nPrereq: Honors standing, and 1100 (100) or 1100H (100H); or permission of instructor. Not open to students with credit for 2367.01 (367.01), 3325 (325), or 325H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2367"
+      ]
+    },
+    "catalog_number": "3325H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25940",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 030",
+            "room": "030",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven J Spencer",
+                "role": "PI",
+                "email": "spencer.670@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 4485",
+    "title": "Psychology and the Law",
+    "description": "Contributions of psychological theories to the legal system and the role of mental health professionals in this system.\nPrereq: A grade of C- or above in 2220 and 2300. Not open to students with credit for 485.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "485"
+      ]
+    },
+    "catalog_number": "4485",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27074",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 324",
+            "room": "324",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven Timothy Bengal",
+                "role": "PI",
+                "email": "bengal.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 4520",
+    "title": "Social Psychology Laboratory",
+    "description": "Training in experimental and quantitative methods in social psychology. Experiments include topics such as attitudes, persuasion, social cognition, and group processes.\nPrereq: A grade of C- or above in 2220, 2300, and 2367 prior to SU13, 2367.01, 3325, 3325H, or 3375, and enrollment in Psych major. Not open to students with credit for 4510.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300",
+          "PSYCH 2367",
+          "PSYCH 2367"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "Psych major"
+      ],
+      "Exclusions": [
+        "4510"
+      ]
+    },
+    "catalog_number": "4520",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26700",
+        "section": "0005",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 014",
+            "room": "014",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Seel Bee Lee",
+                "role": "PI",
+                "email": "lee.8265@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26691",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 014",
+            "room": "014",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristy Lynn Boyce",
+                "role": "PI",
+                "email": "boyce.76@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24960",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 014",
+            "room": "014",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristy Lynn Boyce",
+                "role": "PI",
+                "email": "boyce.76@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35504",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 014",
+            "room": "014",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bryon David Hines",
+                "role": "PI",
+                "email": "hines.367@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3312",
+    "title": "Memory and Cognition",
+    "description": "An introduction to experimental study of human memory and cognition.\nPrereq: 1100 or 1100H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 1100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3312",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27436",
+        "section": "0015",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 155",
+            "room": "155",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Siefke",
+                "role": "PI",
+                "email": "siefke.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35498",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 155",
+            "room": "155",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Siefke",
+                "role": "PI",
+                "email": "siefke.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3340",
+    "title": "Introduction to Life Span Developmental Psychology",
+    "description": "Consideration of theories and research on psychological development across the lifespan; includes consideration of social policies that influence developmental outcomes.\nPrereq: 1100 or 1100H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 1100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3340",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25944",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Townshend Hall",
+            "building": "Townshend Hall 255",
+            "room": "255",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Reed Wilson Donithen",
+                "role": "PI",
+                "email": "donithen.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 1100H",
+    "title": "Introduction to Psychology",
+    "description": "A prerequisite to advanced courses; a broad survey of psychological science. Application of the scientific method to the empirical study of behavior with emphasis on individual and cultural differences.\nPrereq: Honors standing, or permission of instructor. Not open to students with credit for 1100 (100), 1100E (100E), or 100H. GE soc sci indivs and groups and diversity soc div in the US course. GE foundation social and behavioral sci course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "1100 (100)",
+        "1100E (100E)",
+        "100H"
+      ]
+    },
+    "catalog_number": "1100H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28610",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 136",
+            "room": "136",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "John Erich Opfer",
+                "role": "PI",
+                "email": "opfer.7@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "25942",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 056",
+            "room": "056",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lauren Nicole Pino",
+                "role": "PI",
+                "email": "pino.15@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28023",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 018",
+            "room": "018",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Astrid Zuckerman",
+                "role": "PI",
+                "email": "zuckerman.44@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3335",
+    "title": "Psychology of Adjustment",
+    "description": "Examination of psychological concepts and theories related to individual adjustment and adaptation.\r\nPrereq: 1100 (100) or 1100H (100H). Not open to students with credit for 335.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "335"
+      ]
+    },
+    "catalog_number": "3335",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25336",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 260",
+            "room": "260",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Stefanie Day",
+                "role": "PI",
+                "email": "day.715@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 4515",
+    "title": "Psychology of Emotion",
+    "description": "An examination of emotion focusing on how emotions are interconnected to other basic psychological processes such as cognition, motivation, decision making, and well-being.\nPrereq: A grade of C- or above in 2220 and 2300.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4515",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27118",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 160",
+            "room": "160",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lisa Miller",
+                "role": "PI",
+                "email": "miller.2362@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3331H",
+    "title": "Abnormal Psychology",
+    "description": "Examination of current theories and empirical findings regarding the major forms of psychopathology.\r\nPrereq: Honors standing, and 1100 (100) or 1100H (100H); or permission of instructor. Not open to students with credit for 2367.02, 3331 (331), 3331E (331E), or 331H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2367"
+      ]
+    },
+    "catalog_number": "3331H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25330",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E105",
+            "room": "E105",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jamie R Bourn",
+                "role": "PI",
+                "email": "bourn.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3530",
+    "title": "Theories of Personality",
+    "description": "Major theoretical and research orientations in the study of normal and abnormal personality development, with a focus on personality processes.\r\nPrereq: 1100 (100) or 1100H (100H). Not open to students with credit for 530.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "530"
+      ]
+    },
+    "catalog_number": "3530",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35500",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 021",
+            "room": "021",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brittany Leigh Shoots-Reinhard",
+                "role": "PI",
+                "email": "shoots-reinhard.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3321",
+    "title": "Quantitative and Statistical Methods in Psychology",
+    "description": "A concentrated examination of applications of statistical tools in inference in contemporary psychology; hypothesis testing, regression, correlation, and analysis of variance.\r\nPrereq: 1100 (100) or 1100H (100H), and a grade of B or above in 2220 (220) or 2220H (220H). Not open to students with credit for 321 or 321H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "and a grade of B",
+          "PSYCH 2220",
+          "PSYCH 220",
+          "PSYCH 2220",
+          "PSYCH 220"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "321",
+        "321H"
+      ]
+    },
+    "catalog_number": "3321",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28336",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 160",
+            "room": "160",
+            "start_time": "8:00 am",
+            "end_time": "9:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Roger Ratcliff",
+                "role": "PI",
+                "email": "ratcliff.22@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 4630",
+    "title": "Attitudes and Persuasion",
+    "description": "Overview of the major psychological theories and research in the area of attitudes and persuasion - how people's opinions, beliefs, and evaluations are formed and modified.\nPrereq: A grade of C- or above in 2220, 2300, and 2367 prior to SU13, 2367.01, 3325, 3325H, or 3375. Not open to students with credit for 630.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300",
+          "PSYCH 2367",
+          "PSYCH 2367"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "630"
+      ]
+    },
+    "catalog_number": "4630",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35508",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Townshend Hall",
+            "building": "Townshend Hall 255",
+            "room": "255",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jesse Ladanyi",
+                "role": "PI",
+                "email": "ladanyi.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 1100",
+    "title": "Introduction to Psychology",
+    "description": "A prerequisite to advanced courses; a broad survey of psychological science. Application of the scientific method to the empirical study of behavior with emphasis on individual and cultural differences.\nPrereq: Not open to students with credit for 100, 1100H (100H) or 1100E (100E). This course is available for EM credit. GE soc sci indivs and groups and diversity soc div in the US course. GE foundation social and behavioral sci course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "100",
+        "1100H (100H)",
+        "1100E (100E)"
+      ]
+    },
+    "catalog_number": "1100",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25829",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28616",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Townshend Hall",
+            "building": "Townshend Hall 247",
+            "room": "247",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "20475",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Reed Wilson Donithen",
+                "role": "PI",
+                "email": "donithen.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36040",
+        "section": "0045",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 150",
+            "room": "150",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35024",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rylan Deer",
+                "role": "PI",
+                "email": "deer.282@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36041",
+        "section": "0070",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "22904",
+        "section": "0080",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 002",
+            "room": "002",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24844",
+        "section": "0090",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rylan Deer",
+                "role": "PI",
+                "email": "deer.282@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28097",
+        "section": "0095",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 002",
+            "room": "002",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "24845",
+        "section": "0100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Seel Bee Lee",
+                "role": "PI",
+                "email": "lee.8265@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36042",
+        "section": "0105",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "20476",
+        "section": "0110",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Reed Wilson Donithen",
+                "role": "PI",
+                "email": "donithen.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36043",
+        "section": "0115",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 002",
+            "room": "002",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27083",
+        "section": "0120",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Astrid Zuckerman",
+                "role": "PI",
+                "email": "zuckerman.44@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27086",
+        "section": "0140",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 311",
+            "room": "311",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36045",
+        "section": "0145",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 360",
+            "room": "360",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Laura Therese Simon",
+                "role": "PI",
+                "email": "simon.545@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28000",
+        "section": "1000",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 131",
+            "room": "131",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lisa Cravens-Brown",
+                "role": "PI",
+                "email": "cravens-brown.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27145",
+        "section": "1001",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28982",
+        "section": "1002",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 243",
+            "room": "243",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27146",
+        "section": "1003",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36254",
+        "section": "1004",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 243",
+            "room": "243",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27147",
+        "section": "1005",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 322",
+            "room": "322",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28983",
+        "section": "1006",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 035",
+            "room": "035",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36255",
+        "section": "1007",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 322",
+            "room": "322",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28984",
+        "section": "1008",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 230",
+            "room": "230",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27148",
+        "section": "1009",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 222",
+            "room": "222",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27149",
+        "section": "1010",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 358",
+            "room": "358",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27150",
+        "section": "1011",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 258",
+            "room": "258",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27151",
+        "section": "1012",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 322",
+            "room": "322",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28985",
+        "section": "1013",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 018",
+            "room": "018",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27152",
+        "section": "1014",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 090",
+            "room": "090",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28986",
+        "section": "1015",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 245",
+            "room": "245",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29217",
+        "section": "1016",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 243",
+            "room": "243",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28987",
+        "section": "1017",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 018",
+            "room": "018",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27153",
+        "section": "1018",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 2006",
+            "room": "2006",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36256",
+        "section": "1020",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 014",
+            "room": "014",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27155",
+        "section": "1021",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 354",
+            "room": "354",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27156",
+        "section": "1022",
+        "component": "Recitation",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 140",
+            "room": "140",
+            "start_time": "4:10 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "TA",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "23337",
+        "section": "3000",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lauren Nicole Pino",
+                "role": "PI",
+                "email": "pino.15@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 4510",
+    "title": "Cognitive Psychology Laboratory",
+    "description": "Training in experimental and quantitative methods in cognitive psychology; laboratory experiments include topics such as memory, perception, and attention.\nPrereq: A grade of C- or above in 2220 and 2300; and a grade of C- or above in 3302, 3310, or 3312; and enrollment in Psych major. Not open to students with credit for 4520.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300"
+        ],
+        [
+          "a grade of C-",
+          "PSYCH 3302",
+          "PSYCH 3310",
+          "PSYCH 3312"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "Psych major"
+      ],
+      "Exclusions": [
+        "4520"
+      ]
+    },
+    "catalog_number": "4510",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26616",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 022",
+            "room": "022",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark A Pitt",
+                "role": "PI",
+                "email": "pitt.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35503",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 022",
+            "room": "022",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark A Pitt",
+                "role": "PI",
+                "email": "pitt.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 2420",
+    "title": "Psychology Applied to Sport",
+    "description": "Psychological factors that influence sport participation and performance; psychological techniques to enhance performance; psychological problems associated with sport.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2420",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "36257",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 355",
+            "room": "355",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lisa Miller",
+                "role": "PI",
+                "email": "miller.2362@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 5612",
+    "title": "Introduction to Cognitive Science",
+    "description": "Cognitive science is an interdisciplinary study of the nature of human thought; psychological, philosophical, linguistic, and artificial intelligence approaches to knowledge representation.\r\nPrereq: A total of 12 cr hrs from any of the following areas: CSE, Ling, Philos, or Psych, or Grad standing, or permission of instructor. Not open to students with credit for 612, CSE 5531 (612), Ling 5612 (Linguist 612), or Philos 5830 (612). Cross-listed in CSE 5531, Ling 5612, and Philos 5830.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A total of 12 cr hrs from any of the following areas: CSE",
+          "Ling",
+          "Philos",
+          "Psych",
+          "Grad standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "612",
+        "CSE 5531 (612)",
+        "Ling 5612 (Linguist 612)",
+        "Philos 5830 (612)"
+      ]
+    },
+    "catalog_number": "5612",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "20655",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Journalism Building",
+            "building": "Journalism Bldg 375",
+            "room": "375",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Alexander Alexandrov Petrov",
+                "role": "PI",
+                "email": "petrov.11@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 4501",
+    "title": "Advanced Behavioral Neuroscience",
+    "description": "Advanced discussion of contemporary issues in behavioral neuroscience, including: synaptic pharmacology, drugs, and behavior, neurodegenerative diseases and the biological bases of psychopathology.\nPrereq: A grade of C- or above in 2220 and 2300, and a grade of B or above in 3313; or a grade of B or above in 3313 and Neurosc 3000, and Neuroscience major.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300",
+          "and a grade of B",
+          "PSYCH 3313",
+          "a grade of B",
+          "Neurosc 3000",
+          "and Neuroscience major"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4501",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25828",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 280",
+            "room": "280",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kristin Edwards Supe",
+                "role": "PI",
+                "email": "supe.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 2376",
+    "title": "Interpersonal Relationships",
+    "description": "Surveys the scientific literature on interpersonal relationships, including family, friends, and romantic partnerships.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2376",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35279",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 006",
+            "room": "006",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lisa Libby",
+                "role": "PI",
+                "email": "libby.10@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 2462",
+    "title": "Psychology of Creativity",
+    "description": "A critical examination of conceptual, theoretical, and methodological problems related to the systematic study of creativity; special attention to background factors related to creative behavior.\r\nPrereq: 1100 (100) or 1100H (100H). Not open to students with credit for 462 or 662.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "462",
+        "662"
+      ]
+    },
+    "catalog_number": "2462",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25335",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 160",
+            "room": "160",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven Timothy Bengal",
+                "role": "PI",
+                "email": "bengal.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 4531",
+    "title": "Health Psychology",
+    "description": "Introduction to health psychology; health-promoting and health-damaging behaviors; modification of health behaviors; stress and coping; management of illness; stress management strategies.\nPrereq: A grade of C- or above in 2220 and 2300. Not open to students with credit for 531.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "531"
+      ]
+    },
+    "catalog_number": "4531",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27076",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 160",
+            "room": "160",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Baldwin M Way",
+                "role": "PI",
+                "email": "way.37@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3513",
+    "title": "Introduction to Cognitive Neuroscience",
+    "description": "Examination of the neuroscientific approach to the study of cognition; primary focus on the psychobiology of memory, attention, language, and spatial orientation.\nPrereq: 1100 or 1100H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 1100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3513",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24448",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 160",
+            "room": "160",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andrew B Leber",
+                "role": "PI",
+                "email": "leber.30@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35499",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 160",
+            "room": "160",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Siefke",
+                "role": "PI",
+                "email": "siefke.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26690",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 160",
+            "room": "160",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brandon Turner",
+                "role": "PI",
+                "email": "turner.826@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 4644",
+    "title": "Hormones and Behavior",
+    "description": "Exploration of the interactions among hormones, brain, and behavior through an integrative approach.\nPrereq: A grade of C- or above in 2220, 2300, and 3313; or a grade of B or above in 3313 and Neurosc 3000, and Neuroscience major. Not open to students with credit for 644 or Neurosc 5644 (644).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300",
+          "PSYCH 3313",
+          "a grade of B",
+          "Neurosc 3000",
+          "and Neuroscience major"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "644",
+        "Neurosc 5644 (644)"
+      ]
+    },
+    "catalog_number": "4644",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35509",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 021",
+            "room": "021",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Benedetta Leuner",
+                "role": "PI",
+                "email": "leuner.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 2220H",
+    "title": "Data Analysis in Psychology",
+    "description": "Discussion of statistical analysis of psychological data -  random samples, graphical and numerical techniques of descriptive statistics, correlation, regression, probability, sampling distribution, and hypothesis testing.\nPrereq: Honors standing, and 1100 or 1100H, and Stat 1450, Math 1120, 1130, 1148, 1149, 1150, or 1151, or equiv, or Math Placement Level M or higher; or permission of instructor. Not open to students with credit for 2220.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 1100",
+          "Stat 1450",
+          "Math 1120",
+          "Math 1130",
+          "Math 1148",
+          "Math 1149",
+          "Math 1150",
+          "Math 1151",
+          "equiv",
+          "Math Placement Level M",
+          "higher;",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2220"
+      ]
+    },
+    "catalog_number": "2220H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24187",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 022",
+            "room": "022",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Gyeongcheol Cho",
+                "role": "PI",
+                "email": "cho.1240@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3371",
+    "title": "Language and the Mind",
+    "description": "Introduction to psychological processes for producing and understanding speech, the means by which these processes arise in the child, and their bases in the brain.\nPrereq: 1100, Ling 2000, or 5000. Not open to students with credit for 3371H, Ling 3701, or 3701H. GE soc sci indivs and groups course. GE foundation social and behavioral sci course. Cross-listed in Ling 3701.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "Ling 2000",
+          "Ling 5000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3371H",
+        "Ling 3701",
+        "3701H"
+      ]
+    },
+    "catalog_number": "3371",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24655",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rebecca L Morley",
+                "role": "PI",
+                "email": "morley.33@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29200",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ellen Elizabeth Dossey",
+                "role": "PI",
+                "email": "dossey.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26779",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 006",
+            "room": "006",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jory Penelope Ross",
+                "role": "PI",
+                "email": "ross.1589@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26780",
+        "section": "0060",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3331H",
+    "title": "Abnormal Psychology",
+    "description": "Examination of current theories and empirical findings regarding the major forms of psychopathology.\r\nPrereq: Honors standing, and 1100 (100) or 1100H (100H); or permission of instructor. Not open to students with credit for 2367.02, 3331 (331), 3331E (331E), or 331H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2367"
+      ]
+    },
+    "catalog_number": "3331H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25330",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E105",
+            "room": "E105",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jamie R Bourn",
+                "role": "PI",
+                "email": "bourn.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3325H",
+    "title": "Introduction to Social Psychology",
+    "description": "An in-depth, empirically based introduction to research in social psychology; topics include individual motivation, group behavior, attitudes, and perception of self and others.\r\nPrereq: Honors standing, and 1100 (100) or 1100H (100H); or permission of instructor. Not open to students with credit for 2367.01 (367.01), 3325 (325), or 325H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2367"
+      ]
+    },
+    "catalog_number": "3325H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25940",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 030",
+            "room": "030",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven J Spencer",
+                "role": "PI",
+                "email": "spencer.670@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3551H",
+    "title": "Psychology of Adolescence",
+    "description": "An examination of the biological, psychological, and social aspects of normal adolescent development.\r\nPrereq: Honors standing, and 1100 (100) or 1100H (100H). Not open to students with credit for 3551 (551).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3551 (551)"
+      ]
+    },
+    "catalog_number": "3551H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35505",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 030",
+            "room": "030",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Stephen Anthony Petrill",
+                "role": "PI",
+                "email": "petrill.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 4510",
+    "title": "Cognitive Psychology Laboratory",
+    "description": "Training in experimental and quantitative methods in cognitive psychology; laboratory experiments include topics such as memory, perception, and attention.\nPrereq: A grade of C- or above in 2220 and 2300; and a grade of C- or above in 3302, 3310, or 3312; and enrollment in Psych major. Not open to students with credit for 4520.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300"
+        ],
+        [
+          "a grade of C-",
+          "PSYCH 3302",
+          "PSYCH 3310",
+          "PSYCH 3312"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "Psych major"
+      ],
+      "Exclusions": [
+        "4520"
+      ]
+    },
+    "catalog_number": "4510",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26616",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 022",
+            "room": "022",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark A Pitt",
+                "role": "PI",
+                "email": "pitt.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35503",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 022",
+            "room": "022",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark A Pitt",
+                "role": "PI",
+                "email": "pitt.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 2311",
+    "title": "Psychology of Motivation",
+    "description": "In this course we will survey (while reflecting on everyday applications) the integral role that motivation and related concepts, such as drive, need, affect, and emotion, play within Psychological Science to understand human behavior and identity formation.\nGE theme health and well-being course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2311",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "26050",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 006",
+            "room": "006",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lisa Miller",
+                "role": "PI",
+                "email": "miller.2362@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 2303",
+    "title": "Positive Psychology",
+    "description": "Introduction to the field of positive psychology. Topics include positive affect, subjective well-being, optimism, psychological strengths, emotional intelligence, compassion, humor, and spirituality.\nGE theme health and well-being course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2303",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "20478",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 355",
+            "room": "355",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lisa Miller",
+                "role": "PI",
+                "email": "miller.2362@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28611",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 180",
+            "room": "180",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lauren Nicole Pino",
+                "role": "PI",
+                "email": "pino.15@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3371",
+    "title": "Language and the Mind",
+    "description": "Introduction to psychological processes for producing and understanding speech, the means by which these processes arise in the child, and their bases in the brain.\nPrereq: 1100, Ling 2000, or 5000. Not open to students with credit for 3371H, Ling 3701, or 3701H. GE soc sci indivs and groups course. GE foundation social and behavioral sci course. Cross-listed in Ling 3701.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "Ling 2000",
+          "Ling 5000"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3371H",
+        "Ling 3701",
+        "3701H"
+      ]
+    },
+    "catalog_number": "3371",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "24655",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Rebecca L Morley",
+                "role": "PI",
+                "email": "morley.33@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29200",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ellen Elizabeth Dossey",
+                "role": "PI",
+                "email": "dossey.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26779",
+        "section": "0050",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hayes Hall",
+            "building": "Hayes Hall 006",
+            "room": "006",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jory Penelope Ross",
+                "role": "PI",
+                "email": "ross.1589@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "26780",
+        "section": "0060",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 115",
+            "room": "115",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 5621",
+    "title": "Introduction to Event-Related-Potentials",
+    "description": "Training to become an independent event-related-potential researcher. Develop skills in experimental programming, application of electrode nets, artifact detection, filtering and component analysis, and localization.\nPrereq: A grade of C- or above in 2220 and 2300, and permission of instructor; or Grad standing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300",
+          "and permission of instructor;",
+          "Grad standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5621",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35522",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 330",
+            "room": "330",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brandon Turner",
+                "role": "PI",
+                "email": "turner.826@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 2333",
+    "title": "Psychology of Human Sexuality",
+    "description": "Overview of the psychology of human sexuality including the nature and variety of human sexual experience, theories and therapies regarding sexual issues.\r\nPrereq: 1100 (100) or 1100H (100H). Not open to students with credit for 333.02.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "333"
+      ]
+    },
+    "catalog_number": "2333",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28030",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Ramseyer Hall",
+            "building": "Ramseyer Hall 059",
+            "room": "059",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lauren Nicole Pino",
+                "role": "PI",
+                "email": "pino.15@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3325H",
+    "title": "Introduction to Social Psychology",
+    "description": "An in-depth, empirically based introduction to research in social psychology; topics include individual motivation, group behavior, attitudes, and perception of self and others.\r\nPrereq: Honors standing, and 1100 (100) or 1100H (100H); or permission of instructor. Not open to students with credit for 2367.01 (367.01), 3325 (325), or 325H.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2367"
+      ]
+    },
+    "catalog_number": "3325H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "25940",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 030",
+            "room": "030",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Steven J Spencer",
+                "role": "PI",
+                "email": "spencer.670@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 5621",
+    "title": "Introduction to Event-Related-Potentials",
+    "description": "Training to become an independent event-related-potential researcher. Develop skills in experimental programming, application of electrode nets, artifact detection, filtering and component analysis, and localization.\nPrereq: A grade of C- or above in 2220 and 2300, and permission of instructor; or Grad standing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300",
+          "and permission of instructor;",
+          "Grad standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5621",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35522",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 330",
+            "room": "330",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brandon Turner",
+                "role": "PI",
+                "email": "turner.826@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3313H",
+    "title": "Introduction to Behavioral Neuroscience",
+    "description": "Introduction to the structure and function of the nervous system in relation to behavior.\r\nPrereq: Honors standing, and 1100 (100) or 1100H (100H). Not open to students with credit for 3313 (313).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3313 (313)"
+      ]
+    },
+    "catalog_number": "3313H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "22802",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 140",
+            "room": "140",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Laurence Daniele Coutellier",
+                "role": "PI",
+                "email": "coutellier.8@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 5606",
+    "title": "High-Level Vision",
+    "description": "Examines the perceptual processes by which humans and other animals are able to obtain knowledge about the three-dimensional environment.\nPrereq: A grade of C- or above in 2220, 2300, and 3310; or a grade of C- or above in 3310, a grade of B or above in 3313 and Neurosc 3000, and Neuroscience major; or Grad standing.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "A grade of C-",
+          "PSYCH 2220",
+          "PSYCH 2300",
+          "PSYCH 3310",
+          "a grade of C-",
+          "PSYCH 3310",
+          "a grade of B",
+          "Neurosc 3000",
+          "and Neuroscience major;",
+          "Grad standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "5606",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35519",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Enarson Classroom Building",
+            "building": "Enarson Classroom Bldg 254",
+            "room": "254",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "David Osher",
+                "role": "PI",
+                "email": "osher.6@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 3551H",
+    "title": "Psychology of Adolescence",
+    "description": "An examination of the biological, psychological, and social aspects of normal adolescent development.\r\nPrereq: Honors standing, and 1100 (100) or 1100H (100H). Not open to students with credit for 3551 (551).",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "PSYCH 1100",
+          "PSYCH 100",
+          "PSYCH 1100",
+          "PSYCH 100"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "3551 (551)"
+      ]
+    },
+    "catalog_number": "3551H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35505",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 030",
+            "room": "030",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Stephen Anthony Petrill",
+                "role": "PI",
+                "email": "petrill.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PSYCH 1375",
+    "title": "I am. The Psychology of Identity and Culture",
+    "description": "Contemporary and historical research into psychological identity; The science of how individual people experience personal and cultural differences. Reading and discourse on the psychology research of: personality, social roles, cultural neuroscience, social categorization, intergroup contact, race, ethnicity, diversity, and more.\nGE foundation race, ethnicity and gender div course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1375",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "28641",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Jennings Hall",
+            "building": "Jennings Hall 155",
+            "room": "155",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Bryon David Hines",
+                "role": "PI",
+                "email": "hines.367@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "28811",
+        "section": "0015",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 260",
+            "room": "260",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brittany Leigh Shoots-Reinhard",
+                "role": "PI",
+                "email": "shoots-reinhard.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27642",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "209 West Eighteenth Avenue",
+            "building": "209 W 18th Ave 170",
+            "room": "170",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Seel Bee Lee",
+                "role": "PI",
+                "email": "lee.8265@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "27643",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Pomerene Hall",
+            "building": "Pomerene Hall 160",
+            "room": "160",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Seel Bee Lee",
+                "role": "PI",
+                "email": "lee.8265@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

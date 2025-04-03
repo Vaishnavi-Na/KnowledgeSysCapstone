@@ -1,0 +1,129 @@
+[
+  {
+    "course": "EALL 1231",
+    "title": "East Asian Humanities",
+    "description": "Introduction to the contemporary and traditional cultures of China, Korea, and Japan taught through readings, films, and demonstrations.\nGE cultures and ideas and diversity global studies course. GE foundation historical and cultural studies course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1231",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "16799",
+        "section": "0100",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:20 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Nancy Helen Tewksbury",
+                "role": "PI",
+                "email": "tewksbury.6@osu.edu"
+              },
+              {
+                "name": "Li Zhao",
+                "role": "PI",
+                "email": "zhao.3548@osu.edu"
+              }
+            ]
+          },
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Nancy Helen Tewksbury",
+                "role": "PI",
+                "email": "tewksbury.6@osu.edu"
+              },
+              {
+                "name": "Li Zhao",
+                "role": "PI",
+                "email": "zhao.3548@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "EALL 3405",
+    "title": "Introducing East Asia through Martial Arts Cinema",
+    "description": "Examines martial arts films of East Asia, focusing on their social & cultural functions. Draws upon the philosophical, cultural and historical background to depict this unique genre of imagination. Analyzes the aspiration for personal freedom and social justice and the longing for heroes amidst losing battles for liberty in authoritarian societies.\nGE VPA and diversity global studies course. GE foundation lit, vis and performing arts course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3405",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "27043",
+        "section": "0100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Mendenhall Laboratory",
+            "building": "Mendenhall Lab 115",
+            "room": "115",
+            "start_time": "3:55 pm",
+            "end_time": "5:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jianqi Wang",
+                "role": "PI",
+                "email": "wang.551@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

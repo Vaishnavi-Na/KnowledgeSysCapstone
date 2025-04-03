@@ -1,0 +1,100 @@
+[
+  {
+    "course": "ASE 4220",
+    "title": "Methods of Teaching Agriscience I",
+    "description": "An introductory instructional methodology course focused on analyzing the principles of teaching and learning, and designing instruction for teaching agriscience education in a formal classroom environment.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4220",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35684",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Agricultural Administration",
+            "building": "Agriculture Admin Bldg 211",
+            "room": "211",
+            "start_time": "1:50 pm",
+            "end_time": "3:15 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Caryn Filson",
+                "role": "PI",
+                "email": "filson.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ASE 4189",
+    "title": "Context-Based Learning in Agriscience Education",
+    "description": "Agriscience education students will be immersed in advanced field experience, documenting hours toward initial teacher licensure. ASE 4189 will provide students the opportunity to further understand and develop best practices in teaching and learning centered around youth development and experiential learning within authentic agriscience education learning environments.\nPrereq or concur: 5210.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "ASE 5210"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4189",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "30788",
+        "section": "0010",
+        "component": "Field Experience",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Agricultural Administration",
+            "building": "Agriculture Admin Bldg 211",
+            "room": "211",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Caryn Filson",
+                "role": "PI",
+                "email": "filson.5@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

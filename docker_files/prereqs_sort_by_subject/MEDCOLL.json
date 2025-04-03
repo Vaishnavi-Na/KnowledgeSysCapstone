@@ -1,0 +1,196 @@
+[
+  {
+    "course": "MEDCOLL 2000.21",
+    "title": "Introduction to Medicine",
+    "description": "Designed for students interested in a career in medicine, this course will provide an overview of the field (knowledge and skill requirements), information about prerequisites and applying to medical school. Recommended prereq: Soph or Jr standing. \nThis course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2000.21",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "33329",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "5:00 pm",
+            "end_time": "7:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sorabh Khandelwal",
+                "role": "PI",
+                "email": "khandelwal.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDCOLL 2022",
+    "title": "A Day in the Life: Undergraduate Physician Shadowing",
+    "description": "Deciding on whether medicine is the right career choice for someone interested in the health professions is challenging. This course is designed to provide a meaningful preceptorship experience with physicians in various disciplines in order to provide the student with a better understanding of the field. A better understanding of medicine is a crucial part of the application process to med school.\nPrereq: Soph, Jr, or Sr standing.  Preference given to those who completed MedColl 2000.21. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Soph",
+          "Jr",
+          "Sr standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2022",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "33337",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Davis Heart & Lung Research",
+            "building": "Davis Heart & Lung 170",
+            "room": "170",
+            "start_time": "11:30 am",
+            "end_time": "12:20 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sorabh Khandelwal",
+                "role": "PI",
+                "email": "khandelwal.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDCOLL 3998",
+    "title": "Design, Analysis & Dissemination of Biomedical and Healthcare Research",
+    "description": "MedColl 3998 is a collaborative, experiential and data-driven course-based undergraduate research experience (CURE). Students will learn to understand the importance of collaboration and the iterative nature of biomedical and healthcare research.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3998",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "37172",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "4:30 pm",
+            "end_time": "6:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Lorraine Silver Wallace",
+                "role": "PI",
+                "email": "wallace.621@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MEDCOLL 2000.21",
+    "title": "Introduction to Medicine",
+    "description": "Designed for students interested in a career in medicine, this course will provide an overview of the field (knowledge and skill requirements), information about prerequisites and applying to medical school. Recommended prereq: Soph or Jr standing. \nThis course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2000.21",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "33329",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "5:00 pm",
+            "end_time": "7:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sorabh Khandelwal",
+                "role": "PI",
+                "email": "khandelwal.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

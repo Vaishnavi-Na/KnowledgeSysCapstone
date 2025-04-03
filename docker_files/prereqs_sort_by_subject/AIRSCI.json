@@ -1,0 +1,867 @@
+[
+  {
+    "course": "AIRSCI 1111",
+    "title": "Freshmen Leadership Lab I",
+    "description": "An introduction to the practical application of basic leadership principles in the United States Air Force.\nPrereq: Enrollment in Air Force ROTC program. Concur: 1101. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Air Force ROTC program"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "AIRSCI 1101"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1111",
+    "term": "Autumn 2025",
+    "units": 0,
+    "sections": [
+      {
+        "class_number": "29558",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "5:45 am",
+            "end_time": "7:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Mitchell",
+                "role": "PI",
+                "email": "mitchell.2519@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 2111",
+    "title": "Sophomore Leadership Lab I",
+    "description": "An intensified employment of leadership principles and practices relevant to future Air Force Officers.\nPrereq: Enrollment in Air Force ROTC program. Concur: 2101. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Air Force ROTC program"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "AIRSCI 2101"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2111",
+    "term": "Autumn 2025",
+    "units": 0,
+    "sections": [
+      {
+        "class_number": "29560",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "5:45 am",
+            "end_time": "7:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Mitchell",
+                "role": "PI",
+                "email": "mitchell.2519@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 2121",
+    "title": "FTP Leadership Lab I",
+    "description": "This course is for Air Force ROTC Cadets who have completed all Freshman and Sophomore Air Science courses but who have not earned and junior enrollment allocation.\nPrereq: 2102, and enrollment in Air Force ROTC program. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AIRSCI 2102",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "Air Force ROTC program"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "2121",
+    "term": "Autumn 2025",
+    "units": 0,
+    "sections": [
+      {
+        "class_number": "29561",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "5:45 am",
+            "end_time": "7:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Mitchell",
+                "role": "PI",
+                "email": "mitchell.2519@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 3111",
+    "title": "Junior Leadership Lab I",
+    "description": "An advanced application of leadership theory, skills, and practices for prospective Air Force Officers.\nPrereq: Enrollment in Air Force ROTC program. Concur: 3101. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Air Force ROTC program"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "AIRSCI 3101"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3111",
+    "term": "Autumn 2025",
+    "units": 0,
+    "sections": [
+      {
+        "class_number": "29563",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "5:45 am",
+            "end_time": "7:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Mitchell",
+                "role": "PI",
+                "email": "mitchell.2519@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 4101",
+    "title": "National Security Affairs/Preparation for Active Duty I",
+    "description": "Designed for college seniors and gives them the foundation to understand their role as military officers in American society. It is an overview of the complex social and political issues facing the military profession and requires a measure of sophistication commensurate with the senior college level. The final semester provides information that will prepare the students for Active Duty.\nPrereq: 3102.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AIRSCI 3102"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4101",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29564",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 210",
+            "room": "210",
+            "start_time": "7:00 am",
+            "end_time": "8:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kyle Kinney",
+                "role": "PI",
+                "email": "kinney.297@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29610",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 4111",
+    "title": "Senior Leadership Lab I",
+    "description": "A culmination of the knowledge, skills, theory, and leadership practices acquired in the Air Force ROTC program to ensure that prospective Air Force Officers are ready to receive a commission in the United States Air Force.\nPrereq: Enrollment in Air Force ROTC program. Concur: 4101. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Air Force ROTC program"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "AIRSCI 4101"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4111",
+    "term": "Autumn 2025",
+    "units": 0,
+    "sections": [
+      {
+        "class_number": "29565",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "5:45 am",
+            "end_time": "7:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Mitchell",
+                "role": "PI",
+                "email": "mitchell.2519@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 2101",
+    "title": "Team and Leadership Fundamentals I",
+    "description": "Focuses on laying the foundation for teams and leadership. The topics include skills that will allow cadets to improve their leadership on a personal level and within a team. The courses will prepare cadets for their field training experience where they will be able to put the concepts learned into practice. The purpose is to instill a leadership mindset.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2101",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "29559",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 216",
+            "room": "216",
+            "start_time": "12:45 pm",
+            "end_time": "1:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kyle Kinney",
+                "role": "PI",
+                "email": "kinney.297@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29569",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 216",
+            "room": "216",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kyle Kinney",
+                "role": "PI",
+                "email": "kinney.297@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29609",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 216",
+            "room": "216",
+            "start_time": "7:00 am",
+            "end_time": "7:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kyle Kinney",
+                "role": "PI",
+                "email": "kinney.297@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 4101",
+    "title": "National Security Affairs/Preparation for Active Duty I",
+    "description": "Designed for college seniors and gives them the foundation to understand their role as military officers in American society. It is an overview of the complex social and political issues facing the military profession and requires a measure of sophistication commensurate with the senior college level. The final semester provides information that will prepare the students for Active Duty.\nPrereq: 3102.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AIRSCI 3102"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4101",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29564",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 210",
+            "room": "210",
+            "start_time": "7:00 am",
+            "end_time": "8:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kyle Kinney",
+                "role": "PI",
+                "email": "kinney.297@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29610",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 4121",
+    "title": "Air Science Individual Studies I",
+    "description": "This course is for Air Force ROTC Cadets who have completed all Air Science courses required for commissioning but who still need other university courses for graduation.\nPrereq: 4102, and enrollment in Air Force ROTC program. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AIRSCI 4102",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "Air Force ROTC program"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4121",
+    "term": "Autumn 2025",
+    "units": 0,
+    "sections": [
+      {
+        "class_number": "29566",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "5:45 am",
+            "end_time": "7:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Mitchell",
+                "role": "PI",
+                "email": "mitchell.2519@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 2121",
+    "title": "FTP Leadership Lab I",
+    "description": "This course is for Air Force ROTC Cadets who have completed all Freshman and Sophomore Air Science courses but who have not earned and junior enrollment allocation.\nPrereq: 2102, and enrollment in Air Force ROTC program. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AIRSCI 2102",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "Air Force ROTC program"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "2121",
+    "term": "Autumn 2025",
+    "units": 0,
+    "sections": [
+      {
+        "class_number": "29561",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "5:45 am",
+            "end_time": "7:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Mitchell",
+                "role": "PI",
+                "email": "mitchell.2519@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 1101",
+    "title": "Heritage and Values of the United States Air Force I",
+    "description": "A survey course designed to introduce students to the United States Air Force and provides an overview of the basic characteristics, missions, and organization of the Air Force.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1101",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "29557",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 228",
+            "room": "228",
+            "start_time": "7:00 am",
+            "end_time": "7:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Mitchell",
+                "role": "PI",
+                "email": "mitchell.2519@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29567",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 228",
+            "room": "228",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Mitchell",
+                "role": "PI",
+                "email": "mitchell.2519@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29568",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 228",
+            "room": "228",
+            "start_time": "12:45 pm",
+            "end_time": "1:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chlarissa Lockridge",
+                "role": "PI",
+                "email": "lockridge.15@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 3101",
+    "title": "Leading People and Effective Communication I",
+    "description": "Teaches students advanced skills and knowledge in management and leadership. Special emphasis is placed on enhancing leadership skills and communication. Students have an opportunity to try out these leadership and management techniques in a supervised environment.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3101",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29562",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 202",
+            "room": "202",
+            "start_time": "7:00 am",
+            "end_time": "8:20 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Kyle Kinney",
+                "role": "PI",
+                "email": "kinney.297@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "AIRSCI 4121",
+    "title": "Air Science Individual Studies I",
+    "description": "This course is for Air Force ROTC Cadets who have completed all Air Science courses required for commissioning but who still need other university courses for graduation.\nPrereq: 4102, and enrollment in Air Force ROTC program. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "AIRSCI 4102",
+          "and"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "Air Force ROTC program"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4121",
+    "term": "Autumn 2025",
+    "units": 0,
+    "sections": [
+      {
+        "class_number": "29566",
+        "section": "0010",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Knowlton Hall",
+            "building": "Knowlton Hall 250",
+            "room": "250",
+            "start_time": "5:45 am",
+            "end_time": "7:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Chris Mitchell",
+                "role": "PI",
+                "email": "mitchell.2519@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

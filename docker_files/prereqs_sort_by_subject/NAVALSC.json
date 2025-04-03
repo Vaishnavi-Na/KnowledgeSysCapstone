@@ -1,0 +1,240 @@
+[
+  {
+    "course": "NAVALSC 4110",
+    "title": "Leadership and Management",
+    "description": "A seminar study of effective leadership in a military setting involving examples from Naval history as well as modern business management practices.\r\nPrereq: Enrollment in NROTC program, or permission of instructor. Not open to students with credit for 231.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in NROTC program",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "231"
+      ]
+    },
+    "catalog_number": "4110",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29617",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 127",
+            "room": "127",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Jeff Emil Heilman",
+                "role": "PI",
+                "email": "heilman.20@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NAVALSC 3110",
+    "title": "Naval Ship Systems",
+    "description": "Study of fundamental thermodynamics, conventional and nuclear ship propulsion systems. For Naval ROTC program information, contact 292-6015.\r\nPrereq: Permission of instructor. Not open to students with credit for 311 and 321.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "311",
+        "321"
+      ]
+    },
+    "catalog_number": "3110",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29492",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 127",
+            "room": "127",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Scott Payne",
+                "role": "PI",
+                "email": "payne.895@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NAVALSC 1101",
+    "title": "Freshmen Leadership Lab",
+    "description": "An introduction to the practical application of basic leadership principles in the United States Navy and United States Marine Corps.\r\nPrereq: Not open to students with credit for 111. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "111"
+      ]
+    },
+    "catalog_number": "1101",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "29486",
+        "section": "10",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 127",
+            "room": "127",
+            "start_time": "1:50 pm",
+            "end_time": "2:50 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29550",
+        "section": "11",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 127",
+            "room": "127",
+            "start_time": "3:00 pm",
+            "end_time": "4:00 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "NAVALSC 2110",
+    "title": "Navigation I",
+    "description": "A study of navigation and piloting vessels at sea, including the determination of position by dead reckoning, visual bearings, and electronic methods.\r\nPrereq: Not open to students with credit for 211 and 221.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "211",
+        "221"
+      ]
+    },
+    "catalog_number": "2110",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29491",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 123",
+            "room": "123",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

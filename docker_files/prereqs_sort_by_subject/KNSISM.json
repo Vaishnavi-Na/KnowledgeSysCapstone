@@ -1,0 +1,1163 @@
+[
+  {
+    "course": "KNSISM 2210",
+    "title": "History of Sport in 19th Century America",
+    "description": "Explores intersection between sport and society in 19th century America. Emphasis on modernity; race, class, gender & ethnicity; rise of the city; religious, intellectual and scientific thought.\nPrereq: Not open to students with credit for EduPAES 210. GE historical study course. GE foundation historical and cultural studies course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EduPAES 210"
+      ]
+    },
+    "catalog_number": "2210",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11049",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Horger",
+                "role": "PI",
+                "email": "horger.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "35130",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 014",
+            "room": "014",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Horger",
+                "role": "PI",
+                "email": "horger.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 4509",
+    "title": "Sport Marketing and Promotion",
+    "description": "Issues related to the marketing and promotion of sport.\nPrereq: Major in Sport Industry or minor in Coaching Education.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Major in Sport Industry",
+          "minor in Coaching Education"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4509",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11058",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 034",
+            "room": "034",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11059",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 038",
+            "room": "038",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 4245",
+    "title": "Leadership & Programming in Sports Industry",
+    "description": "Methods of leadership and programming in sport industry organizations.\nPrereq: Major in Sport Industry; or minor in Coaching Education; or enrollment in the Sports Communication Certificate.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Major in Sport Industry;",
+          "minor in Coaching Education;"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "the Sports Communication Certificate"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "4245",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11055",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 140",
+            "room": "140",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Donna Lee Pastore",
+                "role": "PI",
+                "email": "pastore.3@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "12480",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 010",
+            "room": "010",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Benjamin Robert Buchanan",
+                "role": "PI",
+                "email": "buchanan.151@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 2211",
+    "title": "History of Sport in 20th Century America",
+    "description": "Explores intersection between sport and society in 20th century America. Emphasis on consumerism; race, class, gender & ethnicity; mass media; sport in a global world.\nPrereq: Not open to students with credit for EduPAES 211. GE historical study course. GE foundation historical and cultural studies course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EduPAES 211"
+      ]
+    },
+    "catalog_number": "2211",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11050",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hopkins Hall",
+            "building": "Hopkins Hall 250",
+            "room": "250",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Horger",
+                "role": "PI",
+                "email": "horger.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11051",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marc Horger",
+                "role": "PI",
+                "email": "horger.2@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 3189",
+    "title": "Field Experience: Sport Industry",
+    "description": "Orientation to and professional experience in sports industry.\r\nPrereq: Enrollment in Sport Industry major. Not open to students with credit for EduPAES 289.03.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Sport Industry major"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EduPAES 289"
+      ]
+    },
+    "catalog_number": "3189",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11261",
+        "section": "0010",
+        "component": "Field Experience",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa C Wiser",
+                "role": "PI",
+                "email": "wiser.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "12463",
+        "section": "0020",
+        "component": "Field Experience",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa C Wiser",
+                "role": "PI",
+                "email": "wiser.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "12464",
+        "section": "0030",
+        "component": "Field Experience",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa C Wiser",
+                "role": "PI",
+                "email": "wiser.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "12465",
+        "section": "0040",
+        "component": "Field Experience",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa C Wiser",
+                "role": "PI",
+                "email": "wiser.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 4900",
+    "title": "Researching in Sports Industry",
+    "description": "Upper-level undergraduate class on various aspects of sport industry research methods that gives a general introduction to social research methods and will cover four broad topics: the foundations of sport industry research, research design, data collection, and data analysis.\nPrereq: Enrollment in Sport Industry program.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Sport Industry program"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4900",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11581",
+        "section": "0010",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A109",
+            "room": "A109",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Moetiz Y Samad",
+                "role": "PI",
+                "email": "samad.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11582",
+        "section": "0020",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A143",
+            "room": "A143",
+            "start_time": "12:40 pm",
+            "end_time": "2:00 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa C Wiser",
+                "role": "PI",
+                "email": "wiser.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "12363",
+        "section": "0030",
+        "component": "Seminar",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Phys Activ & Educ Srvs Bldg",
+            "building": "PAES Bldg A143",
+            "room": "A143",
+            "start_time": "9:10 am",
+            "end_time": "10:30 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa C Wiser",
+                "role": "PI",
+                "email": "wiser.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 4615",
+    "title": "Sport and Social Values",
+    "description": "Role of social values play in sport, with emphasis on civic virtue; fair play and social justice; violence/abuses in sport.\nPrereq: Enrollment in Sport Industry major. Not open to students with credit for EduPAES 615.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Sport Industry major"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EduPAES 615"
+      ]
+    },
+    "catalog_number": "4615",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11062",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 010",
+            "room": "010",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Benjamin Robert Buchanan",
+                "role": "PI",
+                "email": "buchanan.151@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 5626",
+    "title": "Sport and Popular Culture",
+    "description": "Examines popular culture's influence on sport and sport as expression of popular culture.\r\nPrereq: Jr standing or above. Not open to students with credit for both EduPAES 626.01 and 626.02.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr standing",
+          "above"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "both EduPAES 626"
+      ]
+    },
+    "catalog_number": "5626",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11064",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 140",
+            "room": "140",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Benjamin Robert Buchanan",
+                "role": "PI",
+                "email": "buchanan.151@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11065",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Benjamin Robert Buchanan",
+                "role": "PI",
+                "email": "buchanan.151@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 4411",
+    "title": "College Sport",
+    "description": "Historical development of college sport; influence of race, class and gender; mass media; consumer society; place of college sport in American higher education and culture.\nPrereq: Enrollment in Sport Industry major.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Sport Industry major"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4411",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11056",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 034",
+            "room": "034",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11057",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Moetiz Y Samad",
+                "role": "PI",
+                "email": "samad.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 4607",
+    "title": "Legal Aspects of Sport",
+    "description": "Introduction to the American legal system and major cases/laws which make up sports law.\nPrereq: Major in Sport Industry or Coaching Education minor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Major in Sport Industry",
+          "Coaching Education minor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4607",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11060",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 140",
+            "room": "140",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Leeann Lower",
+                "role": "PI",
+                "email": "lower-hoppe.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11061",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 010",
+            "room": "010",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Moetiz Y Samad",
+                "role": "PI",
+                "email": "samad.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 5610",
+    "title": "Women's Sport History",
+    "description": "Examines development of women's sport from primitive cultures to contemporary society.\r\nPrereq: Jr standing or above. Not open to students with credit for EduPAES 610.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr standing",
+          "above"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EduPAES 610"
+      ]
+    },
+    "catalog_number": "5610",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "35133",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Psychology Building",
+            "building": "Psychology Bldg 010",
+            "room": "010",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Melissa C Wiser",
+                "role": "PI",
+                "email": "wiser.13@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 3208",
+    "title": "The Sport Industry",
+    "description": "Examination of the Sport Industry.\nPrereq: Major in Sport Industry; or enrollment in the Sports Communication Certificate.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Major in Sport Industry;"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "the Sports Communication Certificate"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3208",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11053",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 160",
+            "room": "160",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11054",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 160",
+            "room": "160",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 3550",
+    "title": "Entertainment & Brand Licensing in Sport, Fashion, and Hospitality Industries",
+    "description": "This course will provide the student with a basic introduction into the world of sport and entertainment brand licensing. The licensing of brands, characters, sports team names, college logos and artwork, often called 'merchandising,' has become a huge business; the course will take students through the various steps of identifying, protecting, and conducting a licensing program.\nPrereq: Enrollment in Sport Industry, Fashion and Retail Studies, or Hospitality Management Major.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Enrollment in Sport Industry",
+          "Fashion and Retail Studies",
+          "Hospitality Management Major"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3550",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "13323",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cockins Hall",
+            "building": "Cockins Hall 312",
+            "room": "312",
+            "start_time": "9:35 am",
+            "end_time": "10:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Moetiz Y Samad",
+                "role": "PI",
+                "email": "samad.9@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "KNSISM 2260",
+    "title": "Sport in Contemporary America",
+    "description": "Examination of intersection of sport and society in contemporary America.\r\nPrereq: Not open to students with credit for EduPAES 260.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "EduPAES 260"
+      ]
+    },
+    "catalog_number": "2260",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "11732",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Lazenby Hall",
+            "building": "Lazenby Hall 034",
+            "room": "034",
+            "start_time": "1:50 pm",
+            "end_time": "2:45 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "11814",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "University Hall",
+            "building": "University Hall 038",
+            "room": "038",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "course": "PUBHHMP 3610",
+    "title": "United States & International Health Care",
+    "description": "Introduction to the history, organization and politics of the global health care system, critical review of selected issues using different analytic frameworks.\nGE theme health and well-being course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3610",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "1747",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Andy Wapner",
+                "role": "PI",
+                "email": "wapner.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "1298",
+        "section": "0100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Fontana Laboratories",
+            "building": "Fontana Lab 2040",
+            "room": "2040",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Marian Moser Jones",
+                "role": "PI",
+                "email": "jones.7849@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -19,7 +19,7 @@ for example
 ```sh
 capstone\Scripts\activate
 # or
-.\venv\Scripts\activate
+.venv\Scripts\activate
 
 # on Linux/MacOS,
 source venv/bin/activate

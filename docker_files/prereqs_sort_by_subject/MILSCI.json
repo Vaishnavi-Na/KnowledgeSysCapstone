@@ -1,0 +1,1376 @@
+[
+  {
+    "course": "MILSCI 1101",
+    "title": "Introduction to the Army and Critical Thinking",
+    "description": "Introduction to the personal challenges and competencies that are critical for effective leadership. Students learn how developing time and stress management skills, and physical fitness relate to leadership and the Army Profession. No military obligation is required. This course is open to all OSU students.\nPrereq: All Cadets enrolled in a Military Science course must have a physician complete a Department of the Army DA Form 345-R, Medical Fitness Statement for Enrollment in Basic Course, Senior ROTC, in order to participate in any Army ROTC physical activity including: marching, laboratory, and field training exercises.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Form 345",
+          "Medical Fitness Statement for Enrollment in Basic Course",
+          "Senior ROTC",
+          "in order to participate in any Army ROTC physical activity including: marching",
+          "laboratory",
+          "and field training exercises"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1101",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "29501",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brenda Contrerasmasso",
+                "role": "SI",
+                "email": "contrerasmasso.1@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              },
+              {
+                "name": "Mark D Federle",
+                "role": "PI",
+                "email": "federle.17@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29502",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 239",
+            "room": "239",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brenda Contrerasmasso",
+                "role": "SI",
+                "email": "contrerasmasso.1@osu.edu"
+              },
+              {
+                "name": "Mark D Federle",
+                "role": "PI",
+                "email": "federle.17@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29503",
+        "section": "30",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 227",
+            "room": "227",
+            "start_time": "7:05 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark D Federle",
+                "role": "PI",
+                "email": "federle.17@osu.edu"
+              },
+              {
+                "name": "Brenda Contrerasmasso",
+                "role": "SI",
+                "email": "contrerasmasso.1@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29576",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 239",
+            "room": "239",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark D Federle",
+                "role": "PI",
+                "email": "federle.17@osu.edu"
+              },
+              {
+                "name": "Brenda Contrerasmasso",
+                "role": "SI",
+                "email": "contrerasmasso.1@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29504",
+        "section": "50",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": "12:40 pm",
+            "end_time": "1:35 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark D Federle",
+                "role": "PI",
+                "email": "federle.17@osu.edu"
+              },
+              {
+                "name": "Brenda Contrerasmasso",
+                "role": "SI",
+                "email": "contrerasmasso.1@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29585",
+        "section": "60",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Mark D Federle",
+                "role": "PI",
+                "email": "federle.17@osu.edu"
+              },
+              {
+                "name": "Brenda Contrerasmasso",
+                "role": "SI",
+                "email": "contrerasmasso.1@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MILSCI 2001",
+    "title": "Leadership and Decision Making",
+    "description": "This course is designed to develop individual leadership skills and inspire self-confidence through experiential learning activities, using critical reasoning and problem solving skills, while applying communication and conflict resolution skills.\r\nPrereq: All Cadets enrolled in Military Science courses must have a physician complete a Department of the Army DA Form 345-R, Medical Fitness Statement for Enrollment in Basic Course, Senior ROTC, in order to participate in any Army ROTC physical activity including: physical fitness training, laboratory, and field exercise training.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Form 345",
+          "Medical Fitness Statement for Enrollment in Basic Course",
+          "Senior ROTC",
+          "in order to participate in any Army ROTC physical activity including: physical fitness training",
+          "laboratory",
+          "and field exercise training"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "2001",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "29505",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              },
+              {
+                "name": "Kara Otero",
+                "role": "PI",
+                "email": "otero.59@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29506",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              },
+              {
+                "name": "Kara Otero",
+                "role": "PI",
+                "email": "otero.59@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29508",
+        "section": "40",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": "7:05 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              },
+              {
+                "name": "Kara Otero",
+                "role": "PI",
+                "email": "otero.59@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29584",
+        "section": "50",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": "9:10 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              },
+              {
+                "name": "Kara Otero",
+                "role": "PI",
+                "email": "otero.59@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MILSCI 4001",
+    "title": "The Army Officer",
+    "description": "Practical application of adaptive leadership that transitions the focus of student learning from being trained, mentored and evaluated as an MS III Cadet to learning how to train, mentor and evaluate underclass Cadets.\nPrereq: 3002, or permission of chairman. All Cadets enrolled in a Military Science course must have a physician complete a Department of the Army DA Form 345-R, Medical Fitness Statement for Enrollment in Basic Course, Senior ROTC, in order to participate in any Army ROTC physical activity including: marching, laboratory, and field training exercises.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MILSCI 3002",
+          "permission of chairman"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4001",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29512",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 239",
+            "room": "239",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Boyle",
+                "role": "PI",
+                "email": "boyle.234@osu.edu"
+              },
+              {
+                "name": "steven spiker",
+                "role": "PI",
+                "email": "spiker.44@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29513",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:05 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Boyle",
+                "role": "PI",
+                "email": "boyle.234@osu.edu"
+              },
+              {
+                "name": "steven spiker",
+                "role": "PI",
+                "email": "spiker.44@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29573",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 239",
+            "room": "239",
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Boyle",
+                "role": "PI",
+                "email": "boyle.234@osu.edu"
+              },
+              {
+                "name": "steven spiker",
+                "role": "PI",
+                "email": "spiker.44@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29578",
+        "section": "50",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 239",
+            "room": "239",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Boyle",
+                "role": "PI",
+                "email": "boyle.234@osu.edu"
+              },
+              {
+                "name": "steven spiker",
+                "role": "PI",
+                "email": "spiker.44@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MILSCI 3001",
+    "title": "Training Management and the Warfighting Functions",
+    "description": "This is an academically challenging course where students will study, practice, and apply the fundamentals of Army leadership, Officership, Army values and ethics, personal development, and small unit tactics at the team and squad level.\nPrereq or concur: 2002, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "MILSCI 2002",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3001",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29509",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Westin Hart",
+                "role": "PI",
+                "email": "hart.1051@osu.edu"
+              },
+              {
+                "name": "jordan Steinman",
+                "role": "SI",
+                "email": "steinman.61@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29510",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Westin Hart",
+                "role": "PI",
+                "email": "hart.1051@osu.edu"
+              },
+              {
+                "name": "jordan Steinman",
+                "role": "SI",
+                "email": "steinman.61@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29511",
+        "section": "30",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 239",
+            "room": "239",
+            "start_time": "7:05 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Westin Hart",
+                "role": "PI",
+                "email": "hart.1051@osu.edu"
+              },
+              {
+                "name": "jordan Steinman",
+                "role": "SI",
+                "email": "steinman.61@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29536",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Westin Hart",
+                "role": "PI",
+                "email": "hart.1051@osu.edu"
+              },
+              {
+                "name": "jordan Steinman",
+                "role": "SI",
+                "email": "steinman.61@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MILSCI 4193.01",
+    "title": "Military Science Individual Studies",
+    "description": "This course is for Army ROTC Scholarship Cadets who have completed all Military Science courses required for commissioning but who still need to enroll in other university courses for graduation. Cadets must confirm with the department Scholarships and Admissions Officer that they are designated as an MS 5 Cadet and will continue to receive their Army Scholarship.\nPrereq: 4002, and permission of instructor. Not open to students with credit for 4193. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MILSCI 4002",
+          "and permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "4193"
+      ]
+    },
+    "catalog_number": "4193.01",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "29514",
+        "section": "10",
+        "component": "Independent Study",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "PI",
+                "email": "conway.292@osu.edu"
+              },
+              {
+                "name": "steven spiker",
+                "role": "PI",
+                "email": "spiker.44@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MILSCI 3001",
+    "title": "Training Management and the Warfighting Functions",
+    "description": "This is an academically challenging course where students will study, practice, and apply the fundamentals of Army leadership, Officership, Army values and ethics, personal development, and small unit tactics at the team and squad level.\nPrereq or concur: 2002, or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [
+        [
+          "MILSCI 2002",
+          "permission of instructor"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3001",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29509",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Westin Hart",
+                "role": "PI",
+                "email": "hart.1051@osu.edu"
+              },
+              {
+                "name": "jordan Steinman",
+                "role": "SI",
+                "email": "steinman.61@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29510",
+        "section": "20",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Westin Hart",
+                "role": "PI",
+                "email": "hart.1051@osu.edu"
+              },
+              {
+                "name": "jordan Steinman",
+                "role": "SI",
+                "email": "steinman.61@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29511",
+        "section": "30",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 239",
+            "room": "239",
+            "start_time": "7:05 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Westin Hart",
+                "role": "PI",
+                "email": "hart.1051@osu.edu"
+              },
+              {
+                "name": "jordan Steinman",
+                "role": "SI",
+                "email": "steinman.61@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29536",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 215",
+            "room": "215",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Westin Hart",
+                "role": "PI",
+                "email": "hart.1051@osu.edu"
+              },
+              {
+                "name": "jordan Steinman",
+                "role": "SI",
+                "email": "steinman.61@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "MILSCI 4001",
+    "title": "The Army Officer",
+    "description": "Practical application of adaptive leadership that transitions the focus of student learning from being trained, mentored and evaluated as an MS III Cadet to learning how to train, mentor and evaluate underclass Cadets.\nPrereq: 3002, or permission of chairman. All Cadets enrolled in a Military Science course must have a physician complete a Department of the Army DA Form 345-R, Medical Fitness Statement for Enrollment in Basic Course, Senior ROTC, in order to participate in any Army ROTC physical activity including: marching, laboratory, and field training exercises.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "MILSCI 3002",
+          "permission of chairman"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4001",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "29512",
+        "section": "10",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 239",
+            "room": "239",
+            "start_time": "8:00 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Boyle",
+                "role": "PI",
+                "email": "boyle.234@osu.edu"
+              },
+              {
+                "name": "steven spiker",
+                "role": "PI",
+                "email": "spiker.44@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29513",
+        "section": "20",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": null,
+            "building": null,
+            "room": null,
+            "start_time": "7:05 am",
+            "end_time": "8:55 am",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Boyle",
+                "role": "PI",
+                "email": "boyle.234@osu.edu"
+              },
+              {
+                "name": "steven spiker",
+                "role": "PI",
+                "email": "spiker.44@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29573",
+        "section": "40",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 239",
+            "room": "239",
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Boyle",
+                "role": "PI",
+                "email": "boyle.234@osu.edu"
+              },
+              {
+                "name": "steven spiker",
+                "role": "PI",
+                "email": "spiker.44@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "29578",
+        "section": "50",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Converse Hall",
+            "building": "Converse Hall 239",
+            "room": "239",
+            "start_time": "11:30 am",
+            "end_time": "12:25 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Brian Boyle",
+                "role": "PI",
+                "email": "boyle.234@osu.edu"
+              },
+              {
+                "name": "steven spiker",
+                "role": "PI",
+                "email": "spiker.44@osu.edu"
+              },
+              {
+                "name": "Meghan Elizabeth Mahoney",
+                "role": "SI",
+                "email": "mahoney.388@osu.edu"
+              },
+              {
+                "name": "Brian Conway",
+                "role": "SI",
+                "email": "conway.292@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

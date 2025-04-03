@@ -1,0 +1,636 @@
+[
+  {
+    "course": "ENVENG 3200",
+    "title": "Fundamentals of Environmental Engineering",
+    "description": "Quantitative assessment of water quality, air quality, and solid/hazardous waste management, with an emphasis on minimizing human health and environmental impacts through sustainable design.\nPrereq: Chem 1210 or 1250, and CivilEn or EnvEng major or EnvEng minor. Not open to students with credit for 6200.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Chem 1210",
+          "Chem 1250",
+          "and CivilEn",
+          "EnvEng major",
+          "EnvEng minor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "6200"
+      ]
+    },
+    "catalog_number": "3200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7865",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Evans Laboratory",
+            "building": "Evans Lab 1008",
+            "room": "1008",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "John Jerome Lenhart",
+                "role": "PI",
+                "email": "lenhart.49@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ENVENG 5110",
+    "title": "Environmental Engineering Bioprocesses",
+    "description": "Principles and design of biological processes in environmental engineering.\r\nPrereq: 3200 (511), or Grad standing. Not open to students with credit for 711.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ENVENG 3200",
+          "ENVENG 511",
+          "Grad standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "711"
+      ]
+    },
+    "catalog_number": "5110",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7869",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Scott Lab",
+            "building": "Scott Lab E024",
+            "room": "E024",
+            "start_time": "3:00 pm",
+            "end_time": "3:55 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Karen Dannemiller",
+                "role": "PI",
+                "email": "dannemiller.70@osu.edu"
+              },
+              {
+                "name": "S. Rao Chitikela",
+                "role": "PI",
+                "email": "chitikela.4@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ENVENG 4090",
+    "title": "Environmental Engineering Capstone Design",
+    "description": "Culminating design course for the Environmental Engineering program. Must be taken as close to graduation as possible. \nPrereq: 3200, 3210, CivilEn 3160, and 2060, and GenEd 1201 or GenEd 2601; or permission of instructor.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ENVENG 3200",
+          "ENVENG 3210",
+          "CivilEn 3160",
+          "CivilEn 2060",
+          "GenEd 1201",
+          "GenEd 2601",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "4090",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7936",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Bolz Hall",
+            "building": "Bolz Hall 420",
+            "room": "420",
+            "start_time": "8:00 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan J Winston",
+                "role": "PI",
+                "email": "winston.201@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "8869",
+        "section": "0020",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Bolz Hall",
+            "building": "Bolz Hall 420",
+            "room": "420",
+            "start_time": "8:00 am",
+            "end_time": "10:05 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Ryan J Winston",
+                "role": "PI",
+                "email": "winston.201@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ENVENG 4200",
+    "title": "Environmental Engineering Unit Operations Lab",
+    "description": "Laboratory measurements and analysis of environmental engineering treatment processes.\r\nPrereq: 2100 (610) or CivilEn 610, and EnvEng 3210 (520) or CivilEn 520. Concur: 5110 (711). Not open to students with credit for 620.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ENVENG 2100",
+          "ENVENG 610",
+          "CivilEn 610",
+          "EnvEng 3210",
+          "CivilEn 520"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "ENVENG 5110",
+          "ENVENG 711"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "620"
+      ]
+    },
+    "catalog_number": "4200",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "7866",
+        "section": "0011",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 026",
+            "room": "026",
+            "start_time": "10:20 am",
+            "end_time": "1:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Linda K Weavers",
+                "role": "PI",
+                "email": "weavers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7867",
+        "section": "0012",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 026",
+            "room": "026",
+            "start_time": "8:00 am",
+            "end_time": "10:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Linda K Weavers",
+                "role": "PI",
+                "email": "weavers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7928",
+        "section": "0013",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 026",
+            "room": "026",
+            "start_time": "2:20 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Linda K Weavers",
+                "role": "PI",
+                "email": "weavers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ENVENG 4200",
+    "title": "Environmental Engineering Unit Operations Lab",
+    "description": "Laboratory measurements and analysis of environmental engineering treatment processes.\r\nPrereq: 2100 (610) or CivilEn 610, and EnvEng 3210 (520) or CivilEn 520. Concur: 5110 (711). Not open to students with credit for 620.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ENVENG 2100",
+          "ENVENG 610",
+          "CivilEn 610",
+          "EnvEng 3210",
+          "CivilEn 520"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "ENVENG 5110",
+          "ENVENG 711"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "620"
+      ]
+    },
+    "catalog_number": "4200",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "7866",
+        "section": "0011",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 026",
+            "room": "026",
+            "start_time": "10:20 am",
+            "end_time": "1:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Linda K Weavers",
+                "role": "PI",
+                "email": "weavers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7867",
+        "section": "0012",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 026",
+            "room": "026",
+            "start_time": "8:00 am",
+            "end_time": "10:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Linda K Weavers",
+                "role": "PI",
+                "email": "weavers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7928",
+        "section": "0013",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 026",
+            "room": "026",
+            "start_time": "2:20 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Linda K Weavers",
+                "role": "PI",
+                "email": "weavers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ENVENG 4200",
+    "title": "Environmental Engineering Unit Operations Lab",
+    "description": "Laboratory measurements and analysis of environmental engineering treatment processes.\r\nPrereq: 2100 (610) or CivilEn 610, and EnvEng 3210 (520) or CivilEn 520. Concur: 5110 (711). Not open to students with credit for 620.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "ENVENG 2100",
+          "ENVENG 610",
+          "CivilEn 610",
+          "EnvEng 3210",
+          "CivilEn 520"
+        ]
+      ],
+      "Concurrent Courses": [
+        [
+          "ENVENG 5110",
+          "ENVENG 711"
+        ]
+      ],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "620"
+      ]
+    },
+    "catalog_number": "4200",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "7866",
+        "section": "0011",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 026",
+            "room": "026",
+            "start_time": "10:20 am",
+            "end_time": "1:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Linda K Weavers",
+                "role": "PI",
+                "email": "weavers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7867",
+        "section": "0012",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 026",
+            "room": "026",
+            "start_time": "8:00 am",
+            "end_time": "10:45 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Linda K Weavers",
+                "role": "PI",
+                "email": "weavers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "7928",
+        "section": "0013",
+        "component": "Laboratory",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hitchcock Hall",
+            "building": "Hitchcock Hall 026",
+            "room": "026",
+            "start_time": "2:20 pm",
+            "end_time": "5:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Linda K Weavers",
+                "role": "PI",
+                "email": "weavers.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "ENVENG 3200",
+    "title": "Fundamentals of Environmental Engineering",
+    "description": "Quantitative assessment of water quality, air quality, and solid/hazardous waste management, with an emphasis on minimizing human health and environmental impacts through sustainable design.\nPrereq: Chem 1210 or 1250, and CivilEn or EnvEng major or EnvEng minor. Not open to students with credit for 6200.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Chem 1210",
+          "Chem 1250",
+          "and CivilEn",
+          "EnvEng major",
+          "EnvEng minor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "6200"
+      ]
+    },
+    "catalog_number": "3200",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "7865",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Evans Laboratory",
+            "building": "Evans Lab 1008",
+            "room": "1008",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "John Jerome Lenhart",
+                "role": "PI",
+                "email": "lenhart.49@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

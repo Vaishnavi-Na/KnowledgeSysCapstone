@@ -1,0 +1,464 @@
+[
+  {
+    "course": "PUBHLTH 2010",
+    "title": "Critical Issues in Global Public Health",
+    "description": "Public health concepts examining the philosophy, purpose, history, organization, functions, and results of public health practices domestically and internationally. Presents the pressing global public health concerns of the 21st century.\nPrereq: Not open to students with credit for 2010H. GE soc sci indivs and groups and diversity global studies course. GE theme health and well-being course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2010H"
+      ]
+    },
+    "catalog_number": "2010",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "1250",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Obianuju Genevieve Aguolu",
+                "role": "PI",
+                "email": "aguolu.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "1296",
+        "section": "0020",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Obianuju Genevieve Aguolu",
+                "role": "PI",
+                "email": "aguolu.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "1946",
+        "section": "0030",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "McPherson Chemical Lab",
+            "building": "McPherson Lab 1015",
+            "room": "1015",
+            "start_time": "12:45 pm",
+            "end_time": "2:05 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Obianuju Genevieve Aguolu",
+                "role": "PI",
+                "email": "aguolu.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_number": "36869",
+        "section": "0040",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Obianuju Genevieve Aguolu",
+                "role": "PI",
+                "email": "aguolu.1@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBHLTH 1100",
+    "title": "Survey of Public Health",
+    "description": "An introduction to the University community; strategies for successful transition to and participation in that community; information about University resources and procedures; and (4) information about the College of Public Health and its programs.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1100",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "1299",
+        "section": "0100",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 150",
+            "room": "150",
+            "start_time": "10:20 am",
+            "end_time": "11:15 am",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "JOJO Beyene",
+                "role": "PI",
+                "email": "beyene.27@osu.edu"
+              },
+              {
+                "name": "Trisha Ritter",
+                "role": "PI",
+                "email": "ritter.1533@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBHLTH 3191",
+    "title": "Undergraduate Internship in Public Health",
+    "description": "Placement of BSPH students in a public health agency or related site for supervised practice experience.\nPrereq: 3180 or 3180E, Jr or Sr standing, enrollment in BS Public Health major, and permission of advisor. Repeatable to a maximum of 4 cr hrs. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PUBHLTH 3180",
+          "PUBHLTH 3180",
+          "Jr",
+          "Sr standing"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [
+        "BS Public Health major",
+        "permission of advisor"
+      ],
+      "Exclusions": []
+    },
+    "catalog_number": "3191",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "1703",
+        "section": "0010",
+        "component": "Field Experience",
+        "instruction_mode": "Distance Enhanced",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annmarie Driscoll",
+                "role": "PI",
+                "email": "driscoll.249@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBHLTH 3999",
+    "title": "Undergraduate Capstone Research in Public Health",
+    "description": "The goal of the Undergraduate Public Health Research Experience Capstone is to provide Public Health students with opportunities to apply public health principles outside of a typical classroom setting and build on public health coursework. This course allows students the opportunity to integrate classroom experiences and principles in an applied research setting.\nPrereq: 3180 or 3180E or permission of instructor. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "PUBHLTH 3180",
+          "PUBHLTH 3180",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3999",
+    "term": "Autumn 2025",
+    "units": 2,
+    "sections": [
+      {
+        "class_number": "1567",
+        "section": "0001",
+        "component": "Lecture",
+        "instruction_mode": "Distance Enhanced",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annmarie Driscoll",
+                "role": "PI",
+                "email": "driscoll.249@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBHLTH 2010H",
+    "title": "Honors Critical Issues in Global Public Health",
+    "description": "Critical Issues Global Public Health presents global public health practice and research, examining the philosophy, purpose, history, organization, functions, tools, activities, and results of public health practice at the global, national, state, and local levels.\nPrereq: Honors standing, or permission of instructor. Not open to students with credit for 2010. GE soc sci indivs and groups and diversity global studies course. GE theme health and well-being course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Honors standing",
+          "permission of instructor"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "2010"
+      ]
+    },
+    "catalog_number": "2010H",
+    "term": "Autumn 2025",
+    "units": 3,
+    "sections": [
+      {
+        "class_number": "1918",
+        "section": "001",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Cunz Hall",
+            "building": "Cunz Hall 330",
+            "room": "330",
+            "start_time": "4:10 pm",
+            "end_time": "5:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Sarah Elizabeth Anderson",
+                "role": "PI",
+                "email": "anderson.1767@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBHLTH 3180",
+    "title": "Undergraduate Capstone Preparation",
+    "description": "The purpose of the class is to prepare undergraduate students in Public Health for their Capstone Experience. Students will learn the critical elements of Public Health Practice and Research as well as professional development skills to prepare them for the workplace and equip them with the tools needed to apply for graduate school.\nPrereq: Jr standing in BSPH major, or Soph standing for students who intend to complete an Honors Research Thesis. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr standing in BSPH major",
+          "Soph standing for students who intend to complete an Honors Research Thesis"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3180",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "1566",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annmarie Driscoll",
+                "role": "PI",
+                "email": "driscoll.249@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "PUBHLTH 3180E",
+    "title": "Undergraduate Capstone Preparation",
+    "description": "Prepares undergraduate students in Public Health for their Capstone Experience. Students will learn the critical elements of Public Health Practice and Research as well as professional development skills to prepare them for the workplace and equip them with the tools needed to apply for graduate school.\r\nPrereq: Jr standing in BSPH, or Soph standing for students who intend to complete an Honors Research Thesis. This course is graded S/U.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "Jr standing in BSPH",
+          "Soph standing for students who intend to complete an Honors Research Thesis"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3180E",
+    "term": "Autumn 2025",
+    "units": 1,
+    "sections": [
+      {
+        "class_number": "1704",
+        "section": "0010",
+        "component": "Lecture",
+        "instruction_mode": "Distance Learning",
+        "meeting_details": [
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": null,
+            "end_time": null,
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "Annmarie Driscoll",
+                "role": "PI",
+                "email": "driscoll.249@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "course": "YIDDISH 3399",
+    "title": "The Holocaust in Yiddish Writing and Film",
+    "description": "We will analyze texts, films & other media produced during and after the Holocaust & consider how these materials open up different perspectives on a seemingly well-known history. We will also consider how these materials participate in ongoing debates about citizenship & statelessness, justice & restitution, the representation of violence, and cultural memory. \nReadings & discussion in English.\nGE lit and diversity global studies course. GE theme citizenship for div and just wrld course, High-Impact Practice Research and Creative Inquiry.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "3399",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "28821",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "Hybrid Delivery",
+        "meeting_details": [
+          {
+            "facility": "Smith Laboratory",
+            "building": "Smith Lab 1009",
+            "room": "1009",
+            "start_time": "2:20 pm",
+            "end_time": "3:40 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": null,
+                "email": null
+              }
+            ]
+          },
+          {
+            "facility": "ONLINE",
+            "building": "Online",
+            "room": null,
+            "start_time": "2:20 pm",
+            "end_time": "3:15 pm",
+            "days": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "YIDDISH 1101",
+    "title": "Yiddish I",
+    "description": "Yiddish 1101 is an introduction to the Yiddish language and Ashkenazic culture. You will learn to communicate in culturally appropriate ways in Yiddish. We aim to help you develop balanced skills in speaking, listening, reading, and writing. In addition, you will engage with Ashkenazic culture in Europe, Israel, and the United States.\nThis course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": []
+    },
+    "catalog_number": "1101",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "26447",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 071",
+            "room": "071",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": null,
+                "role": "PI",
+                "email": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course": "YIDDISH 1103",
+    "title": "Yiddish III",
+    "description": "Development of listening, reading, speaking, and writing skills. Reading of Yiddish short stories and poems.\nPrereq: 1102. Not open to students with credit for 103 or 104, or native speakers of this language through regular course enrollment or EM credit. This course is available for EM credit. GE for lang course. GE world languages course.",
+    "prereqs": {
+      "Prerequisites": [
+        [
+          "YIDDISH 1102"
+        ]
+      ],
+      "Concurrent Courses": [],
+      "Restricted Majors": [],
+      "Exclusions": [
+        "103",
+        "104",
+        "native speakers of this language through regular course enrollment",
+        "EM credit"
+      ]
+    },
+    "catalog_number": "1103",
+    "term": "Autumn 2025",
+    "units": 4,
+    "sections": [
+      {
+        "class_number": "27448",
+        "section": "010",
+        "component": "Lecture",
+        "instruction_mode": "In Person",
+        "meeting_details": [
+          {
+            "facility": "Hagerty Hall",
+            "building": "Hagerty Hall 071",
+            "room": "071",
+            "start_time": "11:10 am",
+            "end_time": "12:30 pm",
+            "days": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true,
+              "saturday": false,
+              "sunday": false
+            },
+            "instructors": [
+              {
+                "name": "LeiAnna Xenia Hamel",
+                "role": "PI",
+                "email": "hamel.51@osu.edu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
