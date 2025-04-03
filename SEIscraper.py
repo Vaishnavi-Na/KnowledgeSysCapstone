@@ -79,6 +79,8 @@ def updateIndex(name, professor):
     # If no entry for the professor currently exists, add to index
     if not res["hits"]["hits"]: 
         name["SEI"] = [professor]
+        name["RMP"] = []
+        
         print("\nProfessor not found: ", name["lastName"] + name["firstName"])
         es.index(index='professors', id=name["lastName"] + name["firstName"], document=name)
         print(name)
