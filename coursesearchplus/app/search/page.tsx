@@ -8,10 +8,12 @@ const server_endpoint = 'http://localhost:8000'
 
 export default function SearchPage() {
   const [remainingGroups, setRemainingGroups] = useState<string[][]>([]);
-  const [selectedCourse, setSelectedCourse] = useState<string | null>(null);
-  const [prereqStructure, setPrereqStructure] = useState<string[][]>([]);
+  const [selectedCourse, setSelectedCourse] = useState<string | null>(null); // Main selected course
+  const [prereqStructure, setPrereqStructure] = useState<string[][]>([]); // Main prereq struc
   const [page, setPage] = useState(0);
   const groupsPerPage = 6;
+  const [secondaryCourse, setSecondaryCourse] = useState<string | null>(null); // Secondary selected course
+  const [secondaryPrereqStructure, setSecondaryPrereqStructure] = useState<string[][]>([]); // Secondary prereq struc
 
   useEffect(() => {
     const transcript = localStorage.getItem('transcript');
@@ -24,7 +26,7 @@ export default function SearchPage() {
       })
         .then(res => res.json())
         .then(data => {
-          console.log('Received from get_remain API:', data);
+          // console.log('Received from get_remain API:', data);
           setRemainingGroups(data.remaining_groups);
         });
     }
@@ -42,8 +44,27 @@ export default function SearchPage() {
       .then(res => res.json())
       .then(data => {
         setSelectedCourse(course);
-        console.log('Received from calc_remain API:', data);
+        // console.log('Received from calc_remain API:', data);
         setPrereqStructure(data);
+        // Reset secondary course selected
+        setSecondaryCourse(null);
+        setSecondaryPrereqStructure([])
+      });
+  };
+
+  const handleSecondaryCourseClick = (course: string) => {
+    const transcript = JSON.parse(localStorage.getItem('transcript') || '{}');
+    const query = new URLSearchParams({ course }).toString();
+  
+    fetch(`http://127.0.0.1:8000/courses/calc_remain?${query}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(transcript),
+    })
+      .then(res => res.json())
+      .then(data => {
+        setSecondaryCourse(course);
+        setSecondaryPrereqStructure(data);
       });
   };
 
@@ -143,24 +164,50 @@ export default function SearchPage() {
             </div>
 
             <div className="overflow-x-auto mt-2">
+              {/* Main selected course panel */}
               {selectedCourse ? (
                 <div className="flex gap-4">
                   {prereqStructure.map((orGroup, colIndex) => (
                     <div key={colIndex} className="flex flex-col items-center bg-white p-2 rounded shadow min-w-[120px]">
                       <span className="text-xs text-gray-500 mb-1">AND Group {colIndex + 1}</span>
                       {orGroup.map(course => (
-                        <span
-                          key={course}
+                        <button
+                          onClick={() => handleSecondaryCourseClick(course)}
                           className="bg-red-100 text-red-800 px-2 py-1 rounded mb-1 text-xs text-center"
                         >
                           {course}
-                        </span>
+                        </button>
                       ))}
                     </div>
                   ))}
                 </div>
               ) : (
                 <p className="text-gray-500 italic">Click a course to view prerequisites.</p>
+              )}
+
+              {/* Secondary selected course panel */}
+              {secondaryCourse && (
+                <div className="mt-8">
+                  <h3 className="text-lg font-bold mb-2">Prerequisites for {secondaryCourse}</h3>
+                  <div className="overflow-x-auto">
+                    <div className="flex gap-4">
+                      {secondaryPrereqStructure.map((orGroup, colIndex) => (
+                        <div key={colIndex} className="flex flex-col items-center bg-white p-2 rounded shadow min-w-[120px]">
+                          <span className="text-xs text-gray-500 mb-1">AND Group {colIndex + 1}</span>
+                          {orGroup.map(course => (
+                            <button
+                              key={course}
+                              onClick={() => handleSecondaryCourseClick(course)}
+                              className="bg-red-100 text-red-800 px-2 py-1 rounded mb-1 text-xs text-center hover:bg-red-200"
+                            >
+                              {course}
+                            </button>
+                          ))}
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </div>
               )}
             </div>
           </div>
