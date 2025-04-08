@@ -1,340 +1,185 @@
 [
   {
-    "avgDifficulty": 4.6,
+    "avgDifficulty": 4.2,
     "avgRating": 1.4,
     "department": "Consumer Science",
-    "firstName": "Dean",
-    "lastName": "Lillard",
-    "legacyId": 2342679,
-    "numRatings": 9,
+    "firstName": "Congrong",
+    "id": "VGVhY2hlci0yMzU2OTY3",
+    "lastName": "Ouyang",
+    "legacyId": 2356967,
+    "numRatings": 5,
     "Ratings": [
       {
-        "index": 0,
-        "rating": null,
-        "comment": "DO NOT TAKE THIS CLASS! I highly recommend you stay away from this professor unless you absolutely have to take him. You won't understand anything if you don't go to class. He randomly calls on you and doesn't let you off the hook. Late to exams. Lectures completely unorganized. Exams and quizzes are not like what he teaches. STAY AWAY!!!"
-      },
-      {
         "index": 1,
-        "rating": null,
-        "comment": "This course is all poorly worded quizzes/tests, not enough time allotment for tests, outdated teaching methods (no canvas, you must print your own homework, randomly calling on students and not letting them off the hook if they don't have an answer). Prof. Lillard is a nice guy and lectures the material well, but the class is built to fail."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "HORRIBLE & TERRIBLE. How did she earn her Ph.D.? with that English and communication skills? No way. Guess everyone can get Ph.D.? ",
+        "course": "CSCFFS4260"
       },
       {
         "index": 2,
-        "rating": null,
-        "comment": "Avoid at all costs"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Just dont. You cant understand her, she wont even look at your late work, she wont reply to you if you are emailing out of concern, there are at least 50 assignments all jumbled in canvas. Just do not do it.",
+        "course": "CADS3700"
       },
       {
         "index": 3,
-        "rating": null,
-        "comment": "Very hard class"
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Can't understand what she says",
+        "course": "CSCFFS4260"
       },
       {
         "index": 4,
-        "rating": null,
-        "comment": "horrible at using carmen. grades are updated in chunks, so you never know your current grade. all the files are uploaded into one single folder for you to sort through. generally annoying to deal with"
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "There are a lot of slides she goes through in each lecture. It is hard to differentiate what information is important. Quizzes are very difficult. Exams are curved.",
+        "course": "CSCFFS4260"
       },
       {
         "index": 5,
-        "rating": null,
-        "comment": "ConSci 3930 has been the most pointless class I've taken. His slides never made sense, he calls on you randomly and forces you to figure out the answer. The entire class is built on an outdated form of consumer decision making. Most assignments took hours to complete and even then you didn't really get it. Avoid being with him if you can."
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "I believe this was her first time teaching this class. She post power points to the lectures after class, some of them won't really make sense to you if you miss class. Case studies are done in class with assigned groups. Quizzes are online. 1pg cheat sheet to midterm and 2pg to final but they won help if you don't understand material.",
+        "course": "CSCFFS4260"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.8,
+    "avgRating": 4.3,
+    "department": "Consumer Science",
+    "firstName": "Robert",
+    "id": "VGVhY2hlci0yNjEzMDUw",
+    "lastName": "LaTour",
+    "legacyId": 2613050,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I had Rob for both Software 2 and Systems 1 and he was one of the best professors I have ever had. He made learning the content so fun and was very down to earth about everything. Tests were always hard but homework's never were; he really makes sure you know your stuff and is super passionate about what he does.",
+        "course": "CSE2421"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Great at teaching and is genuinely hilarious. We had a ton of content in this class so it got really hard at a certain point but the exams were very fair. They're worth a ton so you're screwed if you don't do well on em, but if you pay attention in class, go to office hours, do the labs and put some time outside of school, you'll do fine.",
+        "course": "CSE2421"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Robert is a double edged sword. He's very good at explaining concepts, but often has large classes so your work is graded by a TA where you get no feedback. He's against the concept of Study Guides, so if you wish to rely on one for midterms, avoid him. He's very understand tho, so you can set up accommodations if you just talk to him.",
+        "course": "CSE2231"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Robert is a young professor so he's very easy to get along with and relate to. To be fair, I haven't finished his class yet but he's one of the best instructors I've had already. He is very patient in his lectures and will stop to explain anything if necessary. He explains everything about computers VERY well even if someone has no knowledge.",
+        "course": "CSE2421"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 3.4,
+    "department": "Consumer Science",
+    "firstName": "Robert",
+    "id": "VGVhY2hlci0xNDYzNTE2",
+    "lastName": "Scharff",
+    "legacyId": 1463516,
+    "numRatings": 8,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Took CSCFFS 5130. Attendance mandatory and only ec is end of semester paper, and participation in class. Very exam heavy, 4 exams total, drops the lowest one. Exams are hard to prepare for, as he only releases the study guide a few days before. With study guide filled out, usually over 12 or more pages of content for just one exam. ",
+        "course": "CFFS443"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Relatively easy. Attendance is only somewhat important but going to class definitely helps you understand as there is no textbook.",
+        "course": "CS2910"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Gives great extra credit in exams. Does allow some classes to be missed for any reason but does take attendance. Lectures are interesting and in a format which is easy to understand. However, it can be easy to zone out during lectures.",
+        "course": "CONSCI2910"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Lots of real life examples made this interesting",
+        "course": "3930"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I was .46 away from receiving a B in the class and he would not round me up. 4 exams, drops the lowest one, final is cumulative.",
+        "course": "CONSCI3930"
       },
       {
         "index": 6,
-        "rating": "5.0",
-        "comment": "Dean Lillard is a professor that strays from the typical teaching style seen in college evidenced by his essay exams. Iff you attend lectures, he will provide all the information you need. The class size is small and he engages with the students each class. Take this course if you have a desire to learn more than you would in typical class."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Very helpful and a super nice guy.",
+        "course": "CFFS443"
       },
       {
         "index": 7,
-        "rating": null,
-        "comment": "Simply the worst prof I have ever had at OSU! He doesn't use Carmen for grades, exams don't cover material from class, he is incredibly late on handing back quizzes/tests, he cancels class without telling you in advance and overall has no respect for students. Would avoid him at all cost!! Hopefully future students will check this website!!"
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "No book needed. 3 exams. No homework. EC given at the end. SUPER CONFUSING GUY.",
+        "course": "CFFS443"
       },
       {
         "index": 8,
-        "rating": null,
-        "comment": "So incredibly difficult. He does not want to give away grades. I have worked my ass off for this class and I'm practically failing."
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "had to sign in at 10 lectures to receive all 50 participation points",
+        "course": "CSCFM443"
       }
-    ]
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 3.5,
-    "avgRating": 3.8,
-    "department": "Consumer Science",
-    "firstName": "Drew",
-    "id": "VGVhY2hlci0yNDgwNzUx",
-    "lastName": "Hanks",
-    "legacyId": 2480751,
-    "numRatings": 12,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Dr. Hanks was an amazing professor & will help when needed. Attend office hours & class cause it's pretty lecture heavy. A tough grader but as long as you put something down that makes sense he will give partial credit. Only thing that was a bit annoying was that assignments and grades were never updated on time in Carmen.",
-        "course": "CONSCI3940"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr. Hanks does a very good job of teaching the class. The content is complex and can be hard to understand, but he does a great job explaining it in lectures. He is also very nice, so if you don't understand a concept, he is always willing to help you understand and go into more detail to dissolve confusion",
-        "course": "CONSCI3940"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "\nDr. Hanks is one of the best professors at Ohio State and he does wonders making 4150 one of the most fun classes here. His engaging teaching style and commitment to student success create a positive learning environment. Despite challenging coursework, his patience and extra support make the class truly rewarding. Highly recommended!\n\n\n\n\n",
-        "course": "CSCFFS4150"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Hanks is a great professor! His class is very beneficial for the real world, especially learning tools in Excel like Pivot Tables. He really cares about his students and helped me graduate in my last semester. The material in his course is detailed and helpful outside of class. I would recommend him to anyone looking for a Data Analysis course.",
-        "course": "CONSCI3940"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I'm not sure why the other reviews are bad because Dr. Hanks is a good professor. In order to pass this class make sure you attend lectures, read over powerpoints, and if you need help do not be afraid to ask. Dr. Hanks will not hesitate to help if you reach out to him. As long as you read and follow directions, you'll pass this class.",
-        "course": "CONSCI3940"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Idk what is up with these other reviews, but I think Dr. Hanks was great. I attended his office hours pretty much every week, at which point he was more than happy to help me out. Attending lecture is critical if you want to excel, but you should at least pass by just looking at PowerPoints. He even changed the curriculum based on our feedback!",
-        "course": "CONSCI3940"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Dr. Hanks is a really nice professor who makes it a point to get to know students names. Quizzes became online in the middle of the semester, he also told us what problems would be graded on problem sets. It's clear he took student's opinions and used them to better the course. Overall, it wasn't hard as long as you attend class. ",
-        "course": "CONSCI3940"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Professor is extremely unorganized, gives last-minute quiz assignments and lectures are not interactive or interesting. Carmen syllabus and modules are never updated and oftentimes confusing. Professor won't make changes until told to do so. Assigns 5 point quizzes but grades them so harshly and does not offer that much extra credit. ",
-        "course": "CONSCI3940"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "His lectures are never organized nor are they correlated with quizzes / problem sets. Failed to update the syllabus, due dates were from last semester and after recognition of wrong due dates, they were still not updated.",
-        "course": "CONSCI3940"
-      },
-      {
-        "index": 10,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Hanks is unorganized and often makes mistakes. He will help you if you ask. However, I would not recommend taking this class unless you are passionate about statistics and Microsoft Excel. For people who do not want to learn that stuff you will hate this class because Hanks is not very articulate or on top of things.",
-        "course": "CONSCI3940"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "This class is a little tough. After All, we're dealing with quantitative methods in consumer science. However, Dr. Hanks is an incredible teacher and is willing to help along the way if you ask.",
-        "course": "CSCFFS4150"
-      },
-      {
-        "index": 12,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "The course is very very difficult. There're lots of homework. There's none extra credit at all!",
-        "course": "CSCFFS4150"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
     "avgRating": 5,
     "department": "Consumer Science",
-    "firstName": "Alexandra",
-    "id": "VGVhY2hlci0yMjA2NTY3",
-    "lastName": "Suer",
-    "legacyId": 2206567,
-    "numRatings": 14,
+    "firstName": "Mustafa",
+    "id": "VGVhY2hlci0yNDAxNTI0",
+    "lastName": "Hajij",
+    "legacyId": 2401524,
+    "numRatings": 2,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 1,
-        "comment": "Such a kind lady! I had an issue on one assignment, and she gave me an extension with full credit. She leaves feedback on all assignments and is so encouraging. Weekly quizzes but they're only 10 questions and open book, pretty easy. 3 PHOTOSHOP ASSIGNMENTS! These assignments were fun, but very time consuming and super teach savvy. Extra credit! ",
-        "course": "CSFRST2370"
+        "difficulty": 3,
+        "comment": "Very enthusiastic and energetic teacher. Get ready for a lot of homework in you are taking this class. I guess that is typical for this particular course.",
+        "course": "CSE2331"
       },
       {
         "index": 2,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "Alex is a great professor! Super helpful and very understanding. Her videos lectures were long and had a ton of material, but were easy to understand. Assignments were straightforward and the TA's gave good feedback. A lot of opportunities for extra credit, so take them to get extra points. You will know photoshop inside and out after this course. ",
-        "course": "CSFRST2370"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "The best fashion professor OSU has right now. She is so understanding and helpful in all situations. Its so easy to tell she wants the best for you and is a great resource for whatever you need in this class and has great experience to talk about the industry. ",
-        "course": "CSFRST3471"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I could not say better things about Alex! She is cares so much about her students and is extremely passionate about what she teaches. She made this class so fun and I would take it again if I could! Shes amazing! Take this class for sure!!!!!",
-        "course": "CSFRST2370"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "genuinely the best and most kind Professor Ive ever had. she cares so much about her students and all of her assignments are so fun. exams and quizzes are open note, lecture, etc & theres tons of extra credit. photoshop assignments are SO SO FUN!! Id take this class over and over if i could. def take this class if u can!!",
-        "course": "CSFRST2370"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She is the best! Very accessible outside class. She really cares about her students and truly wants her students to succeed. I learned a lot in this class, too!",
-        "course": "CSFRST2370"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Best teacher ever! class is so interesting and fun!! I wish I could take this class over and over again. Alex really wants everyone to learn photoshop skills and do well for the sake of their own future. She is so compassionate &amp; can tell she really loves teaching this class. I'd recommend this class to anyone whos interested in fashion &amp; photoshop",
-        "course": "CSFRST2370"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Easily one of the best professors I've ever had at OSU. She really cares about her students and wants you to do well. Occasional pop &quot;quizzes&quot; done via magazine but it's incredibly easy to do well in this class. She rocks!",
-        "course": "CSFRST2370"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I would take every class with Alex if I could. She cares about her students and tries to do anything to help you out. You do have to show up to class (pop assignments &amp; participation pts) but she makes class interesting. Group project is worth a lot of the grade but its easy. 10/10 would recommend!",
-        "course": "CSFRST3471"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Absolutely love her as a person and as a professor. Clearly cares about all of her students and loves what she does. Always willing to meet outside of class for things related to her course or even for things that aren't. She went above and beyond to help me with my resume and internship search even though she didn't have to.",
-        "course": "CSFRST3471"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "The class is very easy & you learn a lot. The group project will go well if everyone gets along & does their part. She cares about her students & is very passionate about fashion & retail. Gives a lot of extra credit opportunities.",
-        "course": "CSFRST4575"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She is a great professor who seems to really love what she does and cares about the students. The class is interesting and the projects are fun. She also gives a couple extra credit opportunities.",
-        "course": "CSFRST2370"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "One of my most favorite professors so far at OSU. You can tell she truly cares about helping students find their own paths, and makes herself very accessible to help others. Her class gave a great intro to the fashion industry, and her emphasis on business and marketing was very helpful. Her industry experience is also reassuring.",
-        "course": "CSFRST2370"
-      },
-      {
-        "index": 14,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "My favorite professor I've had at OSU. Very nice and gives good individualized feedback on assignments. The textbook is supposedly required, but I didn't even open it. Really would like to take a class with her again. I met with her during office hours once or twice, and she was very helpful.",
-        "course": "CSFRST2370"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.6,
-    "avgRating": 1.4,
-    "department": "Consumer Science",
-    "firstName": "Dean",
-    "id": "VGVhY2hlci0yMzQyNjc5",
-    "lastName": "Lillard",
-    "legacyId": 2342679,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "DO NOT TAKE THIS CLASS! I highly recommend you stay away from this professor unless you absolutely have to take him. You won't understand anything if you don't go to class. He randomly calls on you and doesn't let you off the hook. Late to exams. Lectures completely unorganized. Exams and quizzes are not like what he teaches. STAY AWAY!!!",
-        "course": "ConSci3930"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "This course is all poorly worded quizzes/tests, not enough time allotment for tests, outdated teaching methods (no canvas, you must print your own homework, randomly calling on students and not letting them off the hook if they don't have an answer). Prof. Lillard is a nice guy and lectures the material well, but the class is built to fail.",
-        "course": "ConSci3930"
-      },
-      {
-        "index": 3,
-        "rating": 1,
         "difficulty": 4,
-        "comment": "Avoid at all costs ",
-        "course": "ConSci3930"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Very hard class ",
-        "course": "CFFS5140"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "horrible at using carmen. grades are updated in chunks, so you never know your current grade. all the files are uploaded into one single folder for you to sort through. generally annoying to deal with",
-        "course": "ConSci3930"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "ConSci 3930 has been the most pointless class I've taken. His slides never made sense, he calls on you randomly and forces you to figure out the answer. The entire class is built on an outdated form of consumer decision making. Most assignments took hours to complete and even then you didn't really get it. Avoid being with him if you can.",
-        "course": "ConSci3930"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dean Lillard is a professor that strays from the typical teaching style seen in college evidenced by his essay exams. Iff you attend lectures, he will provide all the information you need. The class size is small and he engages with the students each class. Take this course if you have a desire to learn more than you would in typical class.",
-        "course": "CSCFFS5140"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Simply the worst prof I have ever had at OSU! He doesn't use Carmen for grades, exams don't cover material from class, he is incredibly late on handing back quizzes/tests, he cancels class without telling you in advance and overall has no respect for students. Would avoid him at all cost!! Hopefully future students will check this website!!",
-        "course": "CSCFFS4130"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "So incredibly difficult. He does not want to give away grades. I have worked my ass off for this class and I'm practically failing.",
-        "course": "CFFS5140"
+        "comment": "I have taken this course right after finishing foundation 1. The beginning of the course is relatively easy but it gets hard very quickly. Hajij makes a good job at explaining things in an easy way as much as possible and he is very helpful in office hours. Very nice guy. Recommended.",
+        "course": "CSE2331"
       }
     ],
     "SEI": []
@@ -862,159 +707,626 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.8,
-    "avgRating": 4.3,
+    "avgDifficulty": 4.6,
+    "avgRating": 1.4,
     "department": "Consumer Science",
-    "firstName": "Robert",
-    "id": "VGVhY2hlci0yNjEzMDUw",
-    "lastName": "LaTour",
-    "legacyId": 2613050,
-    "numRatings": 4,
+    "firstName": "Dean",
+    "id": "VGVhY2hlci0yMzQyNjc5",
+    "lastName": "Lillard",
+    "legacyId": 2342679,
+    "numRatings": 9,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "DO NOT TAKE THIS CLASS! I highly recommend you stay away from this professor unless you absolutely have to take him. You won't understand anything if you don't go to class. He randomly calls on you and doesn't let you off the hook. Late to exams. Lectures completely unorganized. Exams and quizzes are not like what he teaches. STAY AWAY!!!",
+        "course": "ConSci3930"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This course is all poorly worded quizzes/tests, not enough time allotment for tests, outdated teaching methods (no canvas, you must print your own homework, randomly calling on students and not letting them off the hook if they don't have an answer). Prof. Lillard is a nice guy and lectures the material well, but the class is built to fail.",
+        "course": "ConSci3930"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Avoid at all costs ",
+        "course": "ConSci3930"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Very hard class ",
+        "course": "CFFS5140"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "horrible at using carmen. grades are updated in chunks, so you never know your current grade. all the files are uploaded into one single folder for you to sort through. generally annoying to deal with",
+        "course": "ConSci3930"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "ConSci 3930 has been the most pointless class I've taken. His slides never made sense, he calls on you randomly and forces you to figure out the answer. The entire class is built on an outdated form of consumer decision making. Most assignments took hours to complete and even then you didn't really get it. Avoid being with him if you can.",
+        "course": "ConSci3930"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dean Lillard is a professor that strays from the typical teaching style seen in college evidenced by his essay exams. Iff you attend lectures, he will provide all the information you need. The class size is small and he engages with the students each class. Take this course if you have a desire to learn more than you would in typical class.",
+        "course": "CSCFFS5140"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Simply the worst prof I have ever had at OSU! He doesn't use Carmen for grades, exams don't cover material from class, he is incredibly late on handing back quizzes/tests, he cancels class without telling you in advance and overall has no respect for students. Would avoid him at all cost!! Hopefully future students will check this website!!",
+        "course": "CSCFFS4130"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "So incredibly difficult. He does not want to give away grades. I have worked my ass off for this class and I'm practically failing.",
+        "course": "CFFS5140"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 3.8,
+    "department": "Consumer Science",
+    "firstName": "Drew",
+    "id": "VGVhY2hlci0yNDgwNzUx",
+    "lastName": "Hanks",
+    "legacyId": 2480751,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Dr. Hanks was an amazing professor & will help when needed. Attend office hours & class cause it's pretty lecture heavy. A tough grader but as long as you put something down that makes sense he will give partial credit. Only thing that was a bit annoying was that assignments and grades were never updated on time in Carmen.",
+        "course": "CONSCI3940"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Hanks does a very good job of teaching the class. The content is complex and can be hard to understand, but he does a great job explaining it in lectures. He is also very nice, so if you don't understand a concept, he is always willing to help you understand and go into more detail to dissolve confusion",
+        "course": "CONSCI3940"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "\nDr. Hanks is one of the best professors at Ohio State and he does wonders making 4150 one of the most fun classes here. His engaging teaching style and commitment to student success create a positive learning environment. Despite challenging coursework, his patience and extra support make the class truly rewarding. Highly recommended!\n\n\n\n\n",
+        "course": "CSCFFS4150"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Hanks is a great professor! His class is very beneficial for the real world, especially learning tools in Excel like Pivot Tables. He really cares about his students and helped me graduate in my last semester. The material in his course is detailed and helpful outside of class. I would recommend him to anyone looking for a Data Analysis course.",
+        "course": "CONSCI3940"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I'm not sure why the other reviews are bad because Dr. Hanks is a good professor. In order to pass this class make sure you attend lectures, read over powerpoints, and if you need help do not be afraid to ask. Dr. Hanks will not hesitate to help if you reach out to him. As long as you read and follow directions, you'll pass this class.",
+        "course": "CONSCI3940"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Idk what is up with these other reviews, but I think Dr. Hanks was great. I attended his office hours pretty much every week, at which point he was more than happy to help me out. Attending lecture is critical if you want to excel, but you should at least pass by just looking at PowerPoints. He even changed the curriculum based on our feedback!",
+        "course": "CONSCI3940"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Dr. Hanks is a really nice professor who makes it a point to get to know students names. Quizzes became online in the middle of the semester, he also told us what problems would be graded on problem sets. It's clear he took student's opinions and used them to better the course. Overall, it wasn't hard as long as you attend class. ",
+        "course": "CONSCI3940"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Professor is extremely unorganized, gives last-minute quiz assignments and lectures are not interactive or interesting. Carmen syllabus and modules are never updated and oftentimes confusing. Professor won't make changes until told to do so. Assigns 5 point quizzes but grades them so harshly and does not offer that much extra credit. ",
+        "course": "CONSCI3940"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "His lectures are never organized nor are they correlated with quizzes / problem sets. Failed to update the syllabus, due dates were from last semester and after recognition of wrong due dates, they were still not updated.",
+        "course": "CONSCI3940"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Hanks is unorganized and often makes mistakes. He will help you if you ask. However, I would not recommend taking this class unless you are passionate about statistics and Microsoft Excel. For people who do not want to learn that stuff you will hate this class because Hanks is not very articulate or on top of things.",
+        "course": "CONSCI3940"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This class is a little tough. After All, we're dealing with quantitative methods in consumer science. However, Dr. Hanks is an incredible teacher and is willing to help along the way if you ask.",
+        "course": "CSCFFS4150"
+      },
+      {
+        "index": 12,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "The course is very very difficult. There're lots of homework. There's none extra credit at all!",
+        "course": "CSCFFS4150"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Consumer Science",
+    "firstName": "Alexandra",
+    "id": "VGVhY2hlci0yMjA2NTY3",
+    "lastName": "Suer",
+    "legacyId": 2206567,
+    "numRatings": 14,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
+        "difficulty": 1,
+        "comment": "Such a kind lady! I had an issue on one assignment, and she gave me an extension with full credit. She leaves feedback on all assignments and is so encouraging. Weekly quizzes but they're only 10 questions and open book, pretty easy. 3 PHOTOSHOP ASSIGNMENTS! These assignments were fun, but very time consuming and super teach savvy. Extra credit! ",
+        "course": "CSFRST2370"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Alex is a great professor! Super helpful and very understanding. Her videos lectures were long and had a ton of material, but were easy to understand. Assignments were straightforward and the TA's gave good feedback. A lot of opportunities for extra credit, so take them to get extra points. You will know photoshop inside and out after this course. ",
+        "course": "CSFRST2370"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "The best fashion professor OSU has right now. She is so understanding and helpful in all situations. Its so easy to tell she wants the best for you and is a great resource for whatever you need in this class and has great experience to talk about the industry. ",
+        "course": "CSFRST3471"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I could not say better things about Alex! She is cares so much about her students and is extremely passionate about what she teaches. She made this class so fun and I would take it again if I could! Shes amazing! Take this class for sure!!!!!",
+        "course": "CSFRST2370"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "genuinely the best and most kind Professor Ive ever had. she cares so much about her students and all of her assignments are so fun. exams and quizzes are open note, lecture, etc & theres tons of extra credit. photoshop assignments are SO SO FUN!! Id take this class over and over if i could. def take this class if u can!!",
+        "course": "CSFRST2370"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is the best! Very accessible outside class. She really cares about her students and truly wants her students to succeed. I learned a lot in this class, too!",
+        "course": "CSFRST2370"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Best teacher ever! class is so interesting and fun!! I wish I could take this class over and over again. Alex really wants everyone to learn photoshop skills and do well for the sake of their own future. She is so compassionate &amp; can tell she really loves teaching this class. I'd recommend this class to anyone whos interested in fashion &amp; photoshop",
+        "course": "CSFRST2370"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easily one of the best professors I've ever had at OSU. She really cares about her students and wants you to do well. Occasional pop &quot;quizzes&quot; done via magazine but it's incredibly easy to do well in this class. She rocks!",
+        "course": "CSFRST2370"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I would take every class with Alex if I could. She cares about her students and tries to do anything to help you out. You do have to show up to class (pop assignments &amp; participation pts) but she makes class interesting. Group project is worth a lot of the grade but its easy. 10/10 would recommend!",
+        "course": "CSFRST3471"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Absolutely love her as a person and as a professor. Clearly cares about all of her students and loves what she does. Always willing to meet outside of class for things related to her course or even for things that aren't. She went above and beyond to help me with my resume and internship search even though she didn't have to.",
+        "course": "CSFRST3471"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "The class is very easy & you learn a lot. The group project will go well if everyone gets along & does their part. She cares about her students & is very passionate about fashion & retail. Gives a lot of extra credit opportunities.",
+        "course": "CSFRST4575"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is a great professor who seems to really love what she does and cares about the students. The class is interesting and the projects are fun. She also gives a couple extra credit opportunities.",
+        "course": "CSFRST2370"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "One of my most favorite professors so far at OSU. You can tell she truly cares about helping students find their own paths, and makes herself very accessible to help others. Her class gave a great intro to the fashion industry, and her emphasis on business and marketing was very helpful. Her industry experience is also reassuring.",
+        "course": "CSFRST2370"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "My favorite professor I've had at OSU. Very nice and gives good individualized feedback on assignments. The textbook is supposedly required, but I didn't even open it. Really would like to take a class with her again. I met with her during office hours once or twice, and she was very helpful.",
+        "course": "CSFRST2370"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 3.8,
+    "department": "Consumer Science",
+    "firstName": "Chelsea",
+    "id": "VGVhY2hlci0yMjE0NzU1",
+    "lastName": "Blackwell",
+    "legacyId": 2214755,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "The class was easier than expected. The notes are fill in the blank which is pointless since everything is already on Quizlet & better organized on there. The project is easy if you work hard & in advance. Finish the textile book ASAP. I wish there was more interaction with fabrics prior to taking quizzes, like analyzing or practice quizzes.",
+        "course": "CSFRST2371"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She makes the lectures pretty interesting, plus you have to go to get the information to fill in the powerpoints. If you show up and pay attention, this class is an easy A. There are some extra credit opportunities to go hear from speakers. Overall, pretty interesting and fairly easy.",
+        "course": "CSFRST2373"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Overall, I really liked her for this class. She's really nice. You do have to read the book because a few of her quiz/test questions came from here and not her lectures. I would definitely take a class with her again.",
+        "course": "CSFRST2373"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "If you get the chance to take a class with Professor Blackwell--I highly suggest. Shes super young and really friendly. Her  lectures are truly fun to attend. Which are not mandatory (although I know some of her other classes are), but you need to go to do well. Extremely interesting lectures and tests are SO easy if you attend class.",
+        "course": "CSFRST2373"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 3.5,
+    "department": "Consumer Science",
+    "firstName": "Lauren",
+    "id": "VGVhY2hlci0yMTc4OTM3",
+    "lastName": "Jones",
+    "legacyId": 2178937,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr Jones is a great instructor. You can tell she really cares about what she's teaching and she's always happy to help and answer any questions you have. We had 3 essays to do this year, and one gets dropped. Just participate in class, listen to what she puts emphasis on and you'll have a good time and a good grade.",
+        "course": "CONSCI2910"
+      },
+      {
+        "index": 2,
+        "rating": 2,
         "difficulty": 4,
-        "comment": "I had Rob for both Software 2 and Systems 1 and he was one of the best professors I have ever had. He made learning the content so fun and was very down to earth about everything. Tests were always hard but homework's never were; he really makes sure you know your stuff and is super passionate about what he does.",
-        "course": "CSE2421"
+        "comment": "3 short essays (10 points each).Average scores -5. Midterm (25 points, I got 15.5 HARD) & Final (30 points, cumulative). Participation & Attendance (10 points) - She rarely takes attendance. Final Essay (25 points). There is a total of TWO, I repeat 2 TOTAL BONUS points! She does not believe in E.C. Total Points is 100. TAKE CLASS ONLINE!",
+        "course": "CONSCI2910"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4.8,
+    "department": "Consumer Science",
+    "firstName": "Stuart",
+    "id": "VGVhY2hlci0xNjc5MDU2",
+    "lastName": "Heckman",
+    "legacyId": 1679056,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Amazing class.  I really recommend that every college student take a finance class like this.  Heckman was very happy to help me understand all of the material and I learned a ton.  The info will be useful for the rest of my life.",
+        "course": "CSCFF2260"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "This class was great! Although the presentation was kind of boring, but the contents were easy to understand. He is a very nice and kind person. The final was easy if you read all the readings and notes given. The quizzes were random, so you need to come to class if you want to get points. :)",
+        "course": "CSCFS243"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.7,
+    "avgRating": 2,
+    "department": "Consumer Science",
+    "firstName": "Jennifer",
+    "id": "VGVhY2hlci0xNzAwNzY1",
+    "lastName": "Harmon",
+    "legacyId": 1700765,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I had taken this class in winter quarter of last year (& just barely made a B) and recently found out that Harmon screwed me for the rest of my classes. Teachers down the road expect you to apply things you had learned in this class for your other classes, but it's hard when you learned ABSOLUTELY NOTHING in 371.",
+        "course": "FRS371"
       },
       {
         "index": 2,
         "rating": 4,
         "difficulty": 4,
-        "comment": "Great at teaching and is genuinely hilarious. We had a ton of content in this class so it got really hard at a certain point but the exams were very fair. They're worth a ton so you're screwed if you don't do well on em, but if you pay attention in class, go to office hours, do the labs and put some time outside of school, you'll do fine.",
-        "course": "CSE2421"
+        "comment": "Ms. Harmon is a helpful and dedicated teacher. The class was hard but I did quite well and learned a lot, and didn't notice the gum. She is a new teacher, but she tried to make it interesting with extra videos. If you study, you'll do fine.",
+        "course": "FRS371"
       },
       {
         "index": 3,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Robert is a double edged sword. He's very good at explaining concepts, but often has large classes so your work is graded by a TA where you get no feedback. He's against the concept of Study Guides, so if you wish to rely on one for midterms, avoid him. He's very understand tho, so you can set up accommodations if you just talk to him.",
-        "course": "CSE2231"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Currently taking her for a Textiles course & I would definitely be failing if I was not teaching myself everything at home-Attendance is mandatory and she just reads slides is the most monotone voice possible, does not smile..ever, class cannot even keep up with her speed, chews gum everyday, beyond the most unprofessional teacher I've ever had.",
+        "course": "FRS371"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4.8,
+    "department": "Consumer Science",
+    "firstName": "Lori",
+    "id": "VGVhY2hlci0xMzMwNDQ3",
+    "lastName": "Embrey",
+    "legacyId": 1330447,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She's awesome. Such a good professor, really knows what she's talking about. I'd recommend anyone to take her. She doesn't seem to like it when students leave class early or don't show, but if you show her effort and respect then anyone should do fine.",
+        "course": "CSFMR243"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very easy.Midterms are open book.2 Quizzes that are closed book which is the only place its at all difficult.Go to class AND STAY!She will give away points, literally.Does everything she can to help you pass.Very nice.Not a great lecturer but has good insight since she is a CFP and has her own firm.  HW is in the book.Easy pts.",
+        "course": "CSCFF243"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "great teacher. easy course.I WOULD HIGHLY ENCOURAGE EVERYBODY TO TAKE HER! easy A! Her test is extremely easy! she is open to your opinion and take it inconsideration. long as you review the notes there is no way you want get a A in this class!",
+        "course": "CSFMR243"
       },
       {
         "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Robert is a young professor so he's very easy to get along with and relate to. To be fair, I haven't finished his class yet but he's one of the best instructors I've had already. He is very patient in his lectures and will stop to explain anything if necessary. He explains everything about computers VERY well even if someone has no knowledge.",
-        "course": "CSE2421"
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "The easiest! I WOULD HIGHLY ENCOURAGE EVERYBODY TO TAKE HER! easy A! Her test is extremely easy! she is open to your opinion and take it inconsideration. long as you review the notes there is no way you want get a A in this class!",
+        "course": "CSFMR243"
       }
     ],
     "SEI": []
   },
   {
     "avgDifficulty": 2.5,
-    "avgRating": 3.4,
+    "avgRating": 3.7,
     "department": "Consumer Science",
-    "firstName": "Robert",
-    "id": "VGVhY2hlci0xNDYzNTE2",
-    "lastName": "Scharff",
-    "legacyId": 1463516,
-    "numRatings": 8,
+    "firstName": "Travis",
+    "id": "VGVhY2hlci0xNjI1NjEw",
+    "lastName": "Mountain",
+    "legacyId": 1625610,
+    "numRatings": 11,
     "Ratings": [
       {
         "index": 1,
-        "rating": 2,
+        "rating": 5,
         "difficulty": 3,
-        "comment": "Took CSCFFS 5130. Attendance mandatory and only ec is end of semester paper, and participation in class. Very exam heavy, 4 exams total, drops the lowest one. Exams are hard to prepare for, as he only releases the study guide a few days before. With study guide filled out, usually over 12 or more pages of content for just one exam. ",
-        "course": "CFFS443"
+        "comment": "too much reading for each quiz. and quiz questions are always too tricky to answer. hard A",
+        "course": "CONSC300"
       },
       {
         "index": 2,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Relatively easy. Attendance is only somewhat important but going to class definitely helps you understand as there is no textbook.",
-        "course": "CS2910"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easy class if you go to lectures. Online quiz each week. Somewhat time consuming reading for quizzes at first, but then heavily relied on lectures for questions on quizzes. Some papers to write but he gives several opportunities for extra credit.",
+        "course": "CONSC300"
       },
       {
         "index": 3,
-        "rating": 4,
+        "rating": 5,
         "difficulty": 2,
-        "comment": "Gives great extra credit in exams. Does allow some classes to be missed for any reason but does take attendance. Lectures are interesting and in a format which is easy to understand. However, it can be easy to zone out during lectures.",
-        "course": "CONSCI2910"
+        "comment": "Great teacher! The classes are very interesting that i looked forward to coming to class every week.  Must keep up with the online reading though, even though it is not much.",
+        "course": "CS300"
       },
       {
         "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Lots of real life examples made this interesting",
-        "course": "3930"
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Easy, interesting course.",
+        "course": "CONSC300"
       },
       {
         "index": 5,
         "rating": 4,
-        "difficulty": 3,
-        "comment": "I was .46 away from receiving a B in the class and he would not round me up. 4 exams, drops the lowest one, final is cumulative.",
-        "course": "CONSCI3930"
+        "difficulty": 2,
+        "comment": "Easy class as long as you attend and listen to instruction.",
+        "course": "CONSC300"
       },
       {
         "index": 6,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Very helpful and a super nice guy.",
-        "course": "CFFS443"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "There is a lot of reading for this class, however, if you attend class, do the work and follow instructions it is an easy A.",
+        "course": "CONSC300"
       },
       {
         "index": 7,
         "rating": 2,
         "difficulty": 3,
-        "comment": "No book needed. 3 exams. No homework. EC given at the end. SUPER CONFUSING GUY.",
-        "course": "CFFS443"
+        "comment": "It actually has nothing to do with personal responsibility. It's just ridiculous how much reading we have for a 2 credit class.",
+        "course": "CONSC300"
       },
       {
         "index": 8,
-        "rating": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Good guy. I also don't understand the poor remarks. Easy enough. I really don't work thaaat hard.",
+        "course": "CONSC300"
+      },
+      {
+        "index": 9,
+        "rating": 2,
         "difficulty": 3,
-        "comment": "had to sign in at 10 lectures to receive all 50 participation points",
-        "course": "CSCFM443"
+        "comment": "Way too much work for a class that is worth so little. Not enough clarity in assignments and expectations.",
+        "course": "CONSC300"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "You get we too much work for a 2 credit hr class! and it is also hard to get good grades. The quizzes are too hard",
+        "course": "CS300"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Not sure what the previous negative comments are about. If you go to class, do your work, and follow the details that he has provided you will do well. Give personal responsibility a try.",
+        "course": "CONSC300"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 4.2,
-    "avgRating": 1.4,
+    "avgDifficulty": 1,
+    "avgRating": 5,
     "department": "Consumer Science",
-    "firstName": "Congrong",
-    "id": "VGVhY2hlci0yMzU2OTY3",
-    "lastName": "Ouyang",
-    "legacyId": 2356967,
-    "numRatings": 5,
+    "firstName": "Janelle",
+    "id": "VGVhY2hlci0xNzAwMzk3",
+    "lastName": "Guerin",
+    "legacyId": 1700397,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "HORRIBLE & TERRIBLE. How did she earn her Ph.D.? with that English and communication skills? No way. Guess everyone can get Ph.D.? ",
-        "course": "CSCFFS4260"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Extremely easy class as long as you get the filled in powerpoint notes!",
+        "course": "CONSC310"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.5,
+    "department": "Consumer Science",
+    "firstName": "Brian",
+    "id": "VGVhY2hlci0xNjQwMjUz",
+    "lastName": "Sutliff",
+    "legacyId": 1640253,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Good teacher, with wealth of knowledge.  All midterms, quizzes, etc are on carmen, but aren't extremely easy.  case studies are not online along with hw.  Fair/easy grader.  Wants you to know the stuff and will help you.  Some questions on test have tricky wording so watch out.  But great class and teacher is really good.",
+        "course": "CSCFF359"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.9,
+    "department": "Consumer Science",
+    "firstName": "Jodi",
+    "id": "VGVhY2hlci0xNDUyNDI3",
+    "lastName": "Letkiewicz",
+    "legacyId": 1452427,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is very nice and knowledgeable.Class is pretty easy.3 Midterms.1 Paper.In class assignments.And big project.No tb.Some info is interesting.She takes attendance so go to class.",
+        "course": "CSCFF243"
       },
       {
         "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Just dont. You cant understand her, she wont even look at your late work, she wont reply to you if you are emailing out of concern, there are at least 50 assignments all jumbled in canvas. Just do not do it.",
-        "course": "CADS3700"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easy class. the first half of the quarter is her teaching course material and the second half your in groups doing presentations in front of the glass. exams are easy if you pay attention in class and review powerpoint slides. she offers extra credit but it is very easy to maintain and get an A in the class.",
+        "course": "CON243"
       },
       {
         "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Can't understand what she says",
-        "course": "CSCFFS4260"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I agree w/comment below. I took it online but u have to really set at least a couple of hours aside to just work on the class w/out taking a break(read chapters,do HW, take quizzes). its important that u follow these steps b/c she tends to pick out the things that U miss read and place them on the quizzes. So take the quizzes after U read.",
+        "course": "CSFMR260"
       },
       {
         "index": 4,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "There are a lot of slides she goes through in each lecture. It is hard to differentiate what information is important. Quizzes are very difficult. Exams are curved.",
-        "course": "CSCFFS4260"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "I believe this was her first time teaching this class. She post power points to the lectures after class, some of them won't really make sense to you if you miss class. Case studies are done in class with assigned groups. Quizzes are online. 1pg cheat sheet to midterm and 2pg to final but they won help if you don't understand material.",
-        "course": "CSCFFS4260"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I took the class online and felt that it wasnt that bad.  Make sure you set aside some time to work on the class w/out taking a break. Meaning: Read the chapter in one sitting, do the homework right after, and take the quiz right AFTER u submit your homework. Dont wait until the last minute to take the quizzes or u will 4get. Good luck",
+        "course": "CSFMR260"
       }
     ],
     "SEI": []

@@ -1,682 +1,513 @@
 [
   {
     "avgDifficulty": 3.3,
-    "avgRating": 3.3,
+    "avgRating": 2.8,
     "department": "Humanities",
-    "firstName": "Nancy",
-    "id": "VGVhY2hlci0xODYyNzQ5",
-    "lastName": "Tewksbury",
-    "legacyId": 1862749,
-    "numRatings": 16,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "I think she was funny and had interesting things to say. It was clear to me that all she wanted in the class was participation, even if the answer wasn't entirely right. The readings were a lot, but I managed to read it in like the 30 minutes before class started. Her insights were good. Overall, she's pretty gracious if you engage.",
-        "course": "CHINESE4403"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Nancy's class is very fair. Just be prepared for the assessments as her classes are assessment driven.",
-        "course": "EALL1231"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I've taken 4 classes with Professor Tewksbury, and she's easily one of my top favorites. She's very willing to work with you if you have issues, though she's very hard to reach outside of class, so you'll have to stay late or come early to talk to her. I only had to buy like one book for her classes, the rest used free materials.",
-        "course": "CHI2231"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "While the other commenters here are focusing on her character (which crumbles under pressure), she is an incompetent teacher. She has no idea how to adapt to her students and make the content of her course engaging in any way. When offered suggestions about how to better her teaching style, she only can say that she has 20 years in academia.",
-        "course": "CHI2231"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She's amazing. She's a great lecturer, and goes on occasional tangents with fun insights into the content and her academic past. There's a fair bit of reading, but it's all pretty interesting. As long as you go to lecture you'll pass without a problem. She will call on people randomly, she really wants full class participation. Always interesting.",
-        "course": "CHINESE2451"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She is a very respectable professor. She makes you read A LOT, so if you aren't into that then probably stay away. She gives constructive and helpful feedback, and grades fairly if she sees you try and participate. 2 in-class papers that she graded fairly and 2 presentations, graded fairly. I'm not even a good writer, so you'll be fine. Love her!!",
-        "course": "COMPSTD1100"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Nancy makes you work for your grade but isn't that why you go to college. She stimulates your mind and makes you think. Lots of reading but very well worth it.",
-        "course": "CHI4404"
-      },
-      {
-        "index": 8,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "She will call you out in class if it looks like you aren't paying attention, and she takes attendance every day. Lots of reading (usually about 50-60 pages between classes), but many of the books/outside readings are very interesting. Two in class papers and two presentations (one in a group and one on your own). Lots of in depth discussions",
-        "course": "COMPSTD1100"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Nancy is a fantastic lecturer with strong analytical and critical thinking skills. She frames the class subject matter (a chronology of Chinese drama and reading of several lengthy plays) with a social sciencey schema, extrapolating onto gender identity and female powersocial space in the works. Yes, it's a shxtload of reading but its worth it.",
-        "course": "CHINESE4404"
-      },
-      {
-        "index": 10,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Stay away from this course!! She expects you to read (and print off) almost 100 pages for each class. Need 4 books. She will call on you in class and ask you about the readings, so if you don't do them you are screwed. 2 in class papers and 1 final presentationpaper. You definitely have to work for your grade and lectures are the absolute worst. ",
-        "course": "CHIN4404"
-      },
-      {
-        "index": 11,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "I only went to her class twice and decided to drop. After syllabus day, she assigned over 80 pages in reading for the second class. She expects you to print the material, have it read by the next class (which for me was in two days) and participate in in-depth class discussion. I didn't want to go through her projects or essays, so I left. ",
-        "course": "CHI4404"
-      },
-      {
-        "index": 12,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "She is absolutely horrible. There is WAY too much reading. Last time I checked this was a 3-credit hour class, not 5. She is not clear about her expectations and wastes a great opportunity by making a potentially interesting course completely unbearable. It's only week 4 of the semester and I cannot wait to be done with this class. ",
-        "course": "CHINESE4404"
-      },
-      {
-        "index": 13,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Overall, I really did not like this class. I barely learned everything and students were picked on randomly to talk in class. Being randomly picked on does not bother me much, but I know some people really do not like it. She was very confusing with what she expected of you. There were two presentations and a final paper.",
-        "course": "CS1100"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Nancy allows for a semi-engaging class. Discussions make up 90% in class. In class writing 10%. As long as your vocal and active in class you're fine. However, grading is of a different story. First grade was received half way through the semester, the remaining at the end. She is also unwilling to change grades even if it is by .17 points B to B+",
-        "course": "CS2103"
-      },
-      {
-        "index": 15,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Nancy is a great professor. She is a deep thinker and helps teach her students to become so also. If you are the least bit substantially minded or interested in philosophy, psychology, sociology, or critical thinking you will enjoy the 2103 class on The Self. A lot of reading is required but it is all intriguing. Show up and apply yourself.",
-        "course": "COMPSTD2103"
-      },
-      {
-        "index": 16,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Lots of Reading! But if you keep up with it and show up to class you will get at least a B. A couple of presentations that are decently enjoyable. This is not a blow off course though. You will work for your grade if you want a good one.",
-        "course": "COMPSTD1100"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.8,
-    "avgRating": 3.3,
-    "department": "Humanities",
-    "firstName": "Amy",
-    "id": "VGVhY2hlci0xMjYyODU0",
-    "lastName": "Gregg",
-    "legacyId": 1262854,
-    "numRatings": 16,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Do not take this class! So much work just for a ge credit. Be prepared to do lots of assignments and papers focused more on how to write than learning about the actual course content. She grades very strict and petty, so I would not recommend this class unless you are okay with doing lots of work and barely learning anything. ",
-        "course": "PHR2367"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Stay away!!! Wayyyyy too much homework for a gen ed. On top of that, 90% of the homework she does assign is meaningless busy work which contributes absolutely nothing to your intellect. Super annoying class in my opinion.",
-        "course": "PHR2367"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "Took this class over the summer and she posts \"lecture videos\" that are less than 10 minutes long, reads word for word off the slides so listening to her talk is useless, and then gives you 6 chapters of reading about how to write a research paper as well as 2 hours of other videos to watch. Not a hard class, just a bad professor. ",
-        "course": "PHR2367"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "She's a very understanding and caring teacher. She responds well and gives many opportunities for help and guidance. A very helpful and kind teacher.",
-        "course": "PHR2367"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Only to be addressed with Dr. Gregg or Professor Gregg nothing more nothing less. She's actually is a good professor if you give her a chance. Lots of readings and quizzes. Big final project in the end (not that bad). Just pay attention (even though it can get boring) and you'll have an easy A.",
-        "course": "COMPSTD1100"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Amy Gregg is a hard teacher. She is one of the few teachers who thinks its acceptable to give students more homework during the time of COVID because classes are online. She wasnt flexible for people who worked and always hosted class in terrible hours. She definitely took on more classes than she could handle which made the students struggle.",
-        "course": "HIST2703"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Powerful woman. Only to be addressed as Dr. Gregg. No cinnamon gum or loud bags of chips in lecture. If you respect her, she will respect you. Attend extra credit and treat her as a PERSON. Everyone in class is scared of her, but shes really funny and approachable if you are as well. Passionate about cancer (husband in remission) precious woman.",
-        "course": "HIST2703"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Professor Amy Gregg expects people to participate but the minute you do, and she doesnt know the answer to the question, she will give a rude statement trying to make you look stupid in front of the class. She is constantly calling people out directly/indirectly and thats unprofessional. She isnt easy to talk to at all. Would not take her!!",
-        "course": "HIS2703"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "I hope and pray that I never cross paths with such an arrogant self prof again. She teaches the humanities yet still calls Native American's &quot;Indians&quot;. She is patronizing and feels the need to talk down to students she is supposed to teach. Yet the course works seems to be designed for highschool freshman. DO NOT TAKE ANY CLASS SHE TEACHES",
-        "course": "COMPSTD1100"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "It will be extremely easy if you are American students. This class's topic is racism. What she did to international students exactly fits her topic. An arrogant and unfriendly instructor.",
-        "course": "COMPSTD1100"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "The class was super easy, I think she gave out almost all A's, as long as you showed up and spoke at least once a week (it was a once/week class). Yet, she teaches her opinions as facts and is very condescending. I loved her as a person (talking after class), but hated her as a teacher. Recommended for an easy A!",
-        "course": "CS100"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "WOW! I can't say enough great things about Amy. She is an amazing professor who really knows her stuff! She knows all students personally and really strives to help you gather the picture of what life in like for American Indians. Amazing class and teacher.",
-        "course": "CS100"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Somethings seemed tedious, but she knew what she was talking about the the hot rating is no joke.",
-        "course": "CPS367"
-      },
-      {
-        "index": 14,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Totally awesome teacher. She knows her subject extremely well, knows every single student. You would actually learn from her class. This class will be the most refreshing time of your day. Highly recommended.",
-        "course": "CS100"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She did an awesome job, it was a relief to go to her class and actually enjoy the class compared to my others...She did an awesome job, I HIGHLY recommend her, well worth it!!",
-        "course": "CS100"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Amy is an awesome professor.  Very dedicated to what she is teaching and identifies with everyone in class.  I wish could have taken more classes of hers!",
-        "course": "CMST100"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.1,
-    "avgRating": 3.6,
-    "department": "Humanities",
-    "firstName": "Ulises Juan",
-    "id": "VGVhY2hlci00MjEzMzQ=",
-    "lastName": "Zevallos-Aguilar",
-    "legacyId": 421334,
+    "firstName": "Eugene",
+    "id": "VGVhY2hlci03MjIxMDA=",
+    "lastName": "Holland",
+    "legacyId": 722100,
     "numRatings": 11,
     "Ratings": [
       {
         "index": 1,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "He's a nice guy, but my entire grade for the semester was based off 100 points. This was very frustrating as having 4 points docked from a midterm or final (which made up near 50% of your grade) dropped your grade significantly. Attend class or you'll be screwed. He offers some extra credit, but not enough assignments with how little there are.",
-        "course": "SPAN4560"
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "He turned a previously graded A+ paper and after following all his advice gave me a C- for the entire class. I have talked to other professors who all agreed that should not have happened. He is by far the worst professor at OSU. Made me give up academics. Extremely pompous and arrogant and otherwise unpleasant to be around.",
+        "course": "COMPSTD4990"
       },
       {
         "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Hes an awesome professor, goes to the point. Office hours were definitely helpful!",
-        "course": "SPANH565"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "The class was enjoyable and applicable to people of all fields of study! There was a good variety of fiction, nonfiction, and film which really made the concepts discussed come full circle. Films were watched and discussed in class and were great bases for the papers written. Participation is essential to the class but also very helpful to you!",
+        "course": "COMPSTD2104"
       },
       {
         "index": 3,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "He's a good guy, but I'm not sure what the point of the class was. We did e-journals for every class, a student presented on the reading, and then we had a class discussion. I'm not really sure what he did other than hand out a 93% to everyone. He's a nice guy and can be funny, but this class was a little frustrating.",
-        "course": "SPA3450"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This class was a good surprise for me as I was not at all into the subject! 3 essay exams that if (I think) you put effort into them, you'll get decent grades. He's not out to trick students; very fair & on the easygoing side. Go to class b/c participation is important & discussion is valuable! Lots of reading but not too difficult, & it pays off.",
+        "course": "COMPSTD2104"
       },
       {
         "index": 4,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "Participate in class!! He grades off of participation, so talk a lot. He grades easy on exams. No final, just a final paper, which he helps you with.",
-        "course": "SPA3450"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Avoid at all costs. Unclear on goals and grading system. Poor communication and unapproachable. Unmotivational. I would never recommend.",
+        "course": "COMPSTD4990"
       },
       {
         "index": 5,
-        "rating": 4,
+        "rating": 2,
         "difficulty": 3,
-        "comment": "Honors seminar, mandatory attendance and participation. Not the most interesting professor but is very knowledgable. Fair grader. Nightly reading was a little much but you didn't have to read everything. Besides that, ejournals for reading, 2 presentations and one 10 page paper",
-        "course": "SPAN680H"
+        "comment": "Dr. Holland is extremely intelligent and knowscares a lot about what he is teaching. Assigned readings were difficult, and he attempted to make them clearer but oftentimes had difficulty communicating his thoughts clearly and helping the conversation go in a productive direction. Easy grader, no tests",
+        "course": "CS4661"
       },
       {
         "index": 6,
         "rating": 5,
-        "difficulty": 5,
-        "comment": "You have to be committed with Indigenous causes to get the best of this course",
-        "course": "SPANH565"
+        "difficulty": 2,
+        "comment": "Awesome class! Eugene really knew how to engage the students. I actually enjoyed going to class everyday. He is very helpful and funny.",
+        "course": "CS598"
       },
       {
         "index": 7,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "He was a pretty bad professor. He went on tangents in every class and wouldn't let anyone talk. He has a certain answer in mind when he asks a question and any other answer is just flat out wrong. Most of the class is pointless and you probably don't need to go but, he grades on participation and attendance, so that sucks. DON'T TAKE HIM.",
-        "course": "SPANH565"
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "He's a nice guy, but unless you are really into french history, you won't enjoy this class. He lectures the entire time. He speaks very well for not being a native speaker. Most people get As and Bs on his exams but you definitely have to study for them (they're completely essay). Class isn't impossible, but isn't easy either.",
+        "course": "FR643"
       },
       {
         "index": 8,
-        "rating": 2,
+        "rating": 1,
         "difficulty": 4,
-        "comment": "He interrupts students every time they try to speak. He does not allow for much student participation, yet he grades on participation. He grades just to have a certain amount of students receive each letter grade. I doubt he actually read all of our papers.",
-        "course": "SPAN565"
+        "comment": "There are ways of making history class fun and interesting. This guy knows none of these. Make sure your french is good before taking this class because he talks the entire hour and 48 minutes without stopping.",
+        "course": "FREN643"
       },
       {
         "index": 9,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "While the class ended up being easy to get a good grade, getting there was tough. He was not at all clear during lectures, and we never even talked about the actual poetry that the class was about, just beat around the bush. But that doesn't mean he didn't expect you to know it anyway. I'd say about 1/2 of each class was a total waste of time.",
-        "course": "GRAD"
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "okay",
+        "course": "COMPST100"
       },
       {
         "index": 10,
-        "rating": 5,
+        "rating": 3,
         "difficulty": 4,
-        "comment": "No Comments",
-        "course": "SPAN650"
+        "comment": "He has unclear/vague writing promts some of the time. His class was challenging yet fair. He does have a good sense of humor, but make sure the class takes up the full hour and 48 minutes.",
+        "course": "HCOMPSTUDIES"
       },
       {
         "index": 11,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "No Comments",
-        "course": "SPAN556"
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "I had to drop his class because he makes you read too much.  He seems like a nice guy, but I just never understood what he wanted from his students.  I'm not saying you shouldn't take him, but I did think he was hard.",
+        "course": "COMPSTDSH100"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 2.8,
-    "avgRating": 2.8,
+    "avgDifficulty": 2,
+    "avgRating": 5,
     "department": "Humanities",
-    "firstName": "Jay",
-    "id": "VGVhY2hlci01NzI3MjM=",
-    "lastName": "Kandampully",
-    "legacyId": 572723,
-    "numRatings": 47,
+    "firstName": "Jibril",
+    "id": "VGVhY2hlci0yNTA5Njc1",
+    "lastName": "Mohamed",
+    "legacyId": 2509675,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 1,
-        "comment": "Jay was an amazing professor and the class was very easy. There were in class discussion questions and weekly review questions that were an easy A if you went to class. I will say though the lectures are quite boring but the material was very easy to understand. ",
-        "course": "3910"
+        "difficulty": 2,
+        "comment": "Great professor! He works hard to make sure you succeed in his course.",
+        "course": "SO1101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.3,
+    "avgRating": 2.9,
+    "department": "Humanities",
+    "firstName": "Fritz",
+    "id": "VGVhY2hlci03MzQyNTA=",
+    "lastName": "Graf",
+    "legacyId": 734250,
+    "numRatings": 16,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "This was one of the most frustrating classes I have ever taken. Absolutely zero organization and awfully boring/tedious lectures. Impossible to get ahold of and randomly canceled class. Ultra specific quizzes that were impossible to study for. Took the entire last half of the semester to grade the midterm. Sweet old guy but should NOT be teaching. ",
+        "course": "3401"
       },
       {
         "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "mandatory attendance for only 4 lectures (discussions) and the answers are discussed in class. 2 papers but theyre easy, just make sure to start them a couple weeks in advance. no textbook - answers are from class and the lecture slides. 1 assignment a week where you answer 2 short questions. discussion every 2 weeks. no recordings though.",
-        "course": "CONSCI3910"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Professor Graf is a nice guy, but if you don't like long lectures I do not recommend this class. His lectures last the entire class (and sometimes over). That being said, if you are really passionate about Roman religion and want to learn more, take this class! He also grades heavily on about 4-5 quizzes, a midterm, and a final exam. ",
+        "course": "3401"
       },
       {
         "index": 3,
         "rating": 2,
         "difficulty": 4,
-        "comment": "Jay is not very clear with communication. Our class had to tell him to clearly communicate in order for us to get things done. He grades the leadership papers on how well of a leader you are, not how you understand the material which is frustrating.",
-        "course": "CSHSPMG5780"
+        "comment": "Lectures are boring and all over the place - hard to follow/can't participate. Slides are confusing and include many typos. Can't learn material. Not communicative about schedule/things in general. Only grades you will receive in this class are from quizzes and 2 essays that are worth 30% of your grade EACH. Nice guy, but difficult to understand.",
+        "course": "3401"
       },
       {
         "index": 4,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "The lectures are all over the place and it's a miracle that I scored as high as I did because I cannot tell you anything that I was supposed to learn from this course or the other course that I took. I feel for his story and its great that he made something out of himself but this was a waste of my tuition dollars. Don't buy the book.",
-        "course": "CONSCI3910"
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Bunch of quizzes made up 10%, then a paper was 40% and the final was 50%. Super nice guy who clearly loves what he teaches, but it was very scary to have so much of the grade on a paper he barely talked about/that there wasn't even a rubric for. Classes were super boring with no participation, if he asked questions and discussed it'd be way better",
+        "course": "CLAS2220H"
       },
       {
         "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Honestly probably the most kind hearted and selfless person I ever met , he mad my senior year one of a kind.",
-        "course": "CONSCI3910"
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "The course was fascinating but poorly structured. It could have been a little better put together in terms of grouping topics; possibly into units. The lectures were fun and very interesting, but beware that the readings were very necessary in order to understand the lectures. Fun if you are willing to put the work in.",
+        "course": "CLAS4031"
       },
       {
         "index": 6,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Jay is the most caring and kindhearted professor I've ever had! He starts every class with an inspirational video because he truly wants to leave a positive impact on every one of his students. There's only one short assignment a week and two longer papers, so you can listen to lectures without stressing over memorizing everything.",
-        "course": "CONSCI3910"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "very unclear about schedule and due dates. Extremely specific quizzes and unnecessary PowerPoint slides.",
+        "course": "CLAS3304"
       },
       {
         "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "He is such a wonderful and inspirational professor. Sometimes his lectures would make me really emotional. He really really cares for his students and is just an overall great person. You definitely have to try in his class, I wouldn't consider it an easy blowoff class or anything. I highly recommend taking him if you enjoy professors who care!",
-        "course": "CSHSPMG3910"
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Fritz is the bomb, very enthusiastic lecturer and clearly loves what he does. His accent can take a while to get used to, but he is very open about having you ask questions if you didn't understand what he said. 1010, would recommend him.",
+        "course": "3401"
       },
       {
         "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Kandampully did an excellent job with this class given the circumstances. CSHSPMG3910 would usually be in person, but the COVID-19 pandemic moved the class online. He responds fast, gives good information, and is very understanding.",
-        "course": "CONSCI3910"
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "He is the man! He's so nice and extremely fair. My class was about the Greek gods and we just had to have readings done which weren't that bad at all. The books were interesting, there were a lot of books but I only spent $100, and you could even get away without reading if you don't want to although I recommend it. Overall is exactly what you want",
+        "course": "CLASS327"
       },
       {
         "index": 9,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "He is a very odd professor. His lectures are pointless. He teaches stuff that is common sense and you think that the quizzes will be cake. But they're not. I recommend buying the e-book. You're allowed to use the book on the quiz/test and it's much easier to search the words on the e-book vs. trying to find them with the actual book(which he wrote)",
-        "course": "CONSCI3910"
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "I pulled out close to 100% in this class.  Go to class, do the readings, and you can easily get an A.  Minimum effort required, no homework at all, just the weekly quizzes.  If you do the reading and listen to what he says, it should be cake.",
+        "course": "CLASSICS222"
       },
       {
         "index": 10,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "Do the 15% extra credit paper since quizzes are SUPER hard (even with it being open note) for what the subject is. Seriously buy the book. Always show up on the discussion days, group projects, etc. are due. If you turn in a paper early into his mailbox, however, you do not need to show up for that class day. Pointless lectures.",
-        "course": "CONSCI3910"
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "He is not bad at all.  If you go to class and take notes, you should get an easy A.  The quiz questions were embarassingly easy sometimes",
+        "course": "222"
       },
       {
         "index": 11,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Kandampully is the best professor I have had at OSU. I am not even a consumer sciences major; and I learned the most I have ever learned at Ohio State, in his class. There are tons of quizlet accounts out there IDENTICAL to his tests, so just study and youll EASILY get an A.",
-        "course": "CONSCI3910"
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "This class was unusually difficult, I had a friend who took H222 and it was easier than this class. The weekly quizzes are very hard, he asks very specific non-important things. His teaching style is not very helpful in learning the material. I would not recommend this course to anyone.",
+        "course": "CLASSICS222"
       },
       {
         "index": 12,
         "rating": 5,
+        "difficulty": 2,
+        "comment": "Contrary to what everyone else has said, it is entirely possible to get an A in this class. I have one. All you have to do is got to the lectures, read the readings, and go over the notes for an hour or two before the quiz. Definantly NOT impossible. This is a very interesing class and I highly recommend taking it.",
+        "course": "CLASSICS222"
+      },
+      {
+        "index": 13,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "His powerpoint slides seem like they were made by a ten year old. Nothing seems to be very organized in this class. Most times his lectures and the readings barely overlap, so you've got a****load of information to know for each week's 25 question quiz. He also says there will be no curve but I bet few people will get A's if he doesn't.",
+        "course": "CLASSICS222"
+      },
+      {
+        "index": 14,
+        "rating": 3,
         "difficulty": 1,
-        "comment": "He really cares.",
-        "course": "CONSCI3910"
+        "comment": "Good lecturer, nice guy. Thick accent though, I missed things that he said here and there. This is a very interesting class.",
+        "course": "CLASSICS222"
+      },
+      {
+        "index": 15,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Easy class, Easy Grader.  Once you get past his European accent you'll understand everything.  Highly recommended for those with Liturature GECs!",
+        "course": "CLASSICS222"
+      },
+      {
+        "index": 16,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "he sucks",
+        "course": "CLASSICS222"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.5,
+    "department": "Humanities",
+    "firstName": "Sarah",
+    "id": "VGVhY2hlci0yNDg1NDk0",
+    "lastName": "Dove",
+    "legacyId": 2485494,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Weekly readings, 3 required books (PDF versions easily found online), and a final paper. The reading sheet assignments were tedious and not very helpful for understanding but proved whether or not the student read the material. Just prove you did the bare minimum and you'll pass. Easy to access by email and was very lax on hard deadlines.",
+        "course": "COMPSTD236708"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She made the class really engaging and allowed everyone to speak their minds. The first day/syllabus were pretty scary and she seemed a lot stricter than she really was. She really wants to help her students succeed not only in her class but also in their everyday lives. I highly recommend taking her class, but there are a TON of little assignments",
+        "course": "COMPSTD1100"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.9,
+    "avgRating": 3.7,
+    "department": "Humanities",
+    "firstName": "Philip",
+    "id": "VGVhY2hlci0zMjk5Mjk=",
+    "lastName": "Armstrong",
+    "legacyId": 329929,
+    "numRatings": 34,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Armstrong is one of the best GE lecturers. He will tell you everything that you need to know before the exam. Moreover, he will discuss some decent questions of the society with us. There are three exams and three papers, they are not that bad. Such a good experience with professor Armstrong!",
+        "course": "COMPSTD1100"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "One of the best professors that I've had in a long time. He is extremely knowledgable about COMPSTDS. If you ask for help while working on assignments, he is willing to provide good feedback so that you can improve your work. He also lets you focus on topics that you are interested in, and works with students so that they can succeed. Great teacher",
+        "course": "COMP597"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great professor. Was very passionate about the lectures he gives. Strongly recommend Professor Armstrong if you want a professor to be caring, understanding, and helpful in your academic experience.",
+        "course": "COMPSTD3360"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "I was interested in the lecture topics but felt the TAs helped me understand difficult readings more than he did. Many times there are pop quizzes that are basically impossible and worth such a large portion of our grade. I went to every single lecture and read every single reading and still rarely managed to get over 50% on the quizzes.",
+        "course": "COMPSTD1100"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "If you need to take compstd1100 or one class in literature, I strongly recommend you take it with other professors or choose another class in literature. His lectures are very boring, and the quiz during the recitation chooses something from the class, which is hard to prepare. The paper, exam are all very difficult to prepare and write.",
+        "course": "COMPSTD1100"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "He's a great guy and the class def makes you think but he's not at all in charge of grades. Every grade came from the TA so if your unfortunate and get a TA that grades hard you're pretty much doomed. There's 3 TAs so 3 different standards for the same class which is really messed up. Choose another GE and avoid this class if possible.",
+        "course": "COMST1100"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Don't take this class. I initially read that this class was a relatively easy GE, but they couldn't have been more wrong. Anyone I have discussed about what this semesters class was like, agreed it was too hard. Too many readings, pop quizzes, and few assignments that are graded harshly. I worked too hard to get a B, and so many others did as well.",
+        "course": "COMST1100"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "The fate of your grade is entirely up to the TA. There's three exams and three papers in this class. Not going to lie, the reading is kind of a lot. You don't really have to do it or go to lecture. Go to your section (where attendence is graded) and go to office hours for your papers. The TA will be grading all your stuff so make sure they like it.",
+        "course": "COMST1100"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Professor Armstrong is a nice guy and is lecture heavy. There's not much solid information in the class and that's the point. He gives you information and lets you decide how to interpret it (it's a humanities class). There's 4 papers and 3 exams and a few small (easy) quizzes. This class is VERY easy if you stay disciplined DO THE READINGS.",
+        "course": "COMPSTD1100"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Don't bother buying the books listed on the syllabus. You can find PDFs for all of them by googling. While attendance is mandatory, the lectures are actually interesting. Exams are composed of mostly short response questions, and you can bring in outlines of the questions to the exams.",
+        "course": "COMPSTD1100"
+      },
+      {
+        "index": 11,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Professor Armstrong is a genuinely nice guy. The class is not clear cut in any way, but that's pretty much the point. Forces you to think (if you can stay awake, that is). I liked the readings in this class and thought they were interesting. TA pretty much determines the fate of your grade, but definitely not a difficult GE.",
+        "course": "COMST1100"
+      },
+      {
+        "index": 12,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Philip Armstrong seems like a good guy; however he's just a lecturer. A VERY boring lecturer. The TA's make the quizzes and control grading, so if you get a tough TA, you're out of luck. In my class, the quizzes were over specific lecture and reading materials, and were unnecessarily difficult. Don't buy the books, just look up summaries online",
+        "course": "COMST1100"
       },
       {
         "index": 13,
         "rating": 5,
         "difficulty": 3,
-        "comment": "Tests aren't as easy as you would think. A lot of the stuff he talks about seems like common sense, but the tests weren't that easy. He was very nice and his lectures were interesting. Not a hard class, but you do need to study for the quizzes.",
-        "course": "CSHSPMG3910"
+        "comment": "He's one of the very few truly engaging and caring professors to be found at Ohio State. The Comparative Studies department is the gem of the humanities at OSU, and so too is Philip of the department.",
+        "course": "COMPSTD2864H"
       },
       {
         "index": 14,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Discussions are easy, projects were pretty smooth. The quiz tests questions are very specific. Lectures are extremely boring but that's where he gives the notes. Hard to understand at times.",
-        "course": "3910"
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "I actually really enjoyed this class. The lectures went by quickly and the readings were much shorter and more captivating than other lit GE classes. I definitely learned a LOT about global cultures in an enjoyable way. The class isn't particularly difficult, just be prepared to write for the 2 exams and 3 papers, which aren't difficult.",
+        "course": "COMPSTD1100"
       },
       {
         "index": 15,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "test are not as easy as you think there going to be. ",
-        "course": "CONSCI3910"
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I'll be blunt: I loved Professor Armstrong. There were few clearcut answers provided to the classroom inquiries, largely because that wasn't the primary objective of the class: it was to question, suggest, and better understand the plurality of problems that we actively confront in the worlds--modern or premodern--we participate in. Take his class!",
+        "course": "COMPSTD2864H"
       },
       {
         "index": 16,
-        "rating": 3,
+        "rating": 4,
         "difficulty": 1,
-        "comment": "Awesome guy. Very easy class. 3 quizzes, 1 paper, 1 research project. Quizzes and paper are common sense, easy A's. Research paper takes time, but you have a partner and it goes by quick. I spent 3 days before it was due working on it, got 100. I'm a lazy student and this class was a breeze. I would absolutely recommend it. Jay is really cool, too.",
-        "course": "CONSCI3910"
+        "comment": "This class is what you make it. It could be mind blowing if you want it to, but I just sort of paid attention and did the assignments, he's the easiest grader on the earth.  You could get away with not reading; he doesn't really check or care as long as you say something at some point during the class. Be prepared to here \"what's at stake here?\"",
+        "course": "COMST1100"
       },
       {
         "index": 17,
-        "rating": 3,
+        "rating": 4,
         "difficulty": 3,
-        "comment": "Dreadfully boring and everything is pretty unclear. My partner on my paper decided to not help and he made me finish it on my own with no extension, despite telling me to wait for her. The class is pretty much common sense, but he creates graphs that are impossible to understand without going to class.",
-        "course": "CONSCI3910"
+        "comment": "He purposefully asks really tough questions to force you to really structure your arguments. I learned a lot in this class and really improved on my persuasive essay writing due to his notes! There are a couple quizzes, two short papers, and papers for the midterm and final, pretty straight forward. Should be an easy A or B, but you still think.",
+        "course": "COMP597"
       },
       {
         "index": 18,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Easy class, nice guy. People need to quit complaining about this class being hard. Go to class occasionally, especially the one before the quiz, he will tell you EXACTLY what's on it. Start the term paper a few weeks before, that's it. I consider myself a lazy student, aced his class. Dunzo.",
-        "course": "CONSC310"
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Completely agree with the person about 4 below me. He thinks everything he says is sooooo profound. He's always asking-What's at stake here&#63; I didn't learn anything, but it was an easy A. I did all the readings right before the midterm, and that was the extent of my studying. Papers were not hard. Why does he have a chili pepper&#63;&#63;&#63; Not hot.",
+        "course": "CMPST567"
       },
       {
         "index": 19,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "DONT BUY THE BOOK.Extremely easy.3 quizzes 25 questions only worth 20 pts so you can miss 5 and still get a 20/20.project is 40% of grade.never used the book.Work on the project throughout the quarter not all at the end.Go to the class before the quizzes, he literally tells you everything that will be on them.",
-        "course": "CONSC310"
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "I thought he was a very good teacher. I was not looking forward to taking a literature class, but he made it interesting and the papers were not that difficult. It is sometimes hard to understand exactly what we are supposed to write about, but it was still a good class.",
+        "course": "COMP301"
       },
       {
         "index": 20,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "I would take CS 310 winter quarter b/c he doesn't teach it during this time.  Janielle Guerin teaches it and you have 4 quizzes and one 3page paper that you get full credit if you meet 3 pages. In this class you have to write a 15page paper and actually read the book.  Winter quarter you dont have to read his book. Just go to class.",
-        "course": "CS310"
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "EXCELLENT Professor. My favorite and best by far.",
+        "course": "HUM100"
       },
       {
         "index": 21,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Jays (guest prof. at our UAS)insights and comments on hospitaliy management were extremely helpful adding a broad int. approach to our tyrolian narrowness on the issue. Paper was a lot of work and not really fun to do. Hello from MCI/ Austria",
-        "course": "HOSPITALI"
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Never knew what he wanted from me on the papers. Thinks everything he says is profound, but it's not. All he does is ask rehtorical questions in leacture. Hard to stay awake because he is so boring. Never knew what my grade was since the class isnt on carmen. The TAs are helpful if you have questions. Overall confusing class.",
+        "course": "CSTUD100"
       },
       {
         "index": 22,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "he must of changed his style from the ones below i never went to calss and just showed up on quiz days, which were same as the book, and i did they 12 page research project and he checked it 5 times before we (group of 2) turned it in so we got 100 and there are 3 quizzes that are 40% of your grade and the 60% is that project easy A",
-        "course": "CONSC230"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. Armstrong was a good teacher and made it clear that he was there to lead us to a better understanding of our world and to have a greater appreciation for its complexity and the conversations we have on a daily basis. This was a wonderful class, and although more discussion would have been nice, Dr. Armstrong did a wonderful job!",
+        "course": "COMPH240"
       },
       {
         "index": 23,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Extremely easy. I got a 100% in the class. The class is a joke. Just make sure you at least read over the material before his &quot;quiztests&quot; and do really well on the paper....write at least 15 pages!",
-        "course": "CONSC310"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This class was insanely boring. He's very smart, but the lectures feel a bit redundant and a lot don't even apply to the world. The exams aren't too bad, just make sure that you're very detailed on essays and don't use broad themes from the class. Hopefully you get an easier TA than I did....",
+        "course": "COMP100"
       },
       {
         "index": 24,
         "rating": 2,
-        "difficulty": 5,
-        "comment": "Worst professor I've had in 5 years at OSU.He basically takes it personally if you don't make it to every class and treats you as if you had stabbed him because you were gone one day. The whole point of his lectures seems to be to stroke his giant ego. Good for him that he made it from nothing into a cushy teaching position, but nobody else cares..",
-        "course": "HSPMG680"
+        "difficulty": 3,
+        "comment": "lectures are SOO boring, he asks a lot of rhetorical questions so it sometimes gets confusing and has no visible point, exams are easy (hopefully you get a good TA to grade it), gives you options to pick from on the exam ahead of time so you can prepare the big essay, its really not a bad class, just lecture is rough to get through without dozing",
+        "course": "COMP100"
       },
       {
         "index": 25,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Kandampully was a HORRIBLE prof! he is useless, and if you miss just one class he condemns you to not get any help in his class. It was like the Kandampully parade with his stupid stories, and the &quot;textbook&quot; that he wrote! I don't care that he had to steal copper wire to feed his family when he was little and look at him now!",
-        "course": "CON310"
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "This class was sooo boring. The lectures especially. Some of the readings were interesting but he gave us no structure for the assignments. We were just sort of on our own.",
+        "course": "COMPSTD301"
       },
       {
         "index": 26,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "He changed his style from huge papers to multiple choice tests this quarter and they are HARD!  He offered extra credit because the averages were low 60s but probably won't be as nice from now on.  You MUST go to class and take notes if you want to pass.  Class is boring, but he isn't as bad as some people say.  Con sci Majors Just grin and bear it",
-        "course": "CONSC310"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He talks forever about how to analyze visual images, just so the class lasts the full hour and 48 minutes.  He does have a French accent which is cute, but other than that, the class can be really boring.  Readings are easy, midterm was easy, a final  15 min presentation in place of the final exam.",
+        "course": "COMPSTD275"
       },
       {
         "index": 27,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "TERRIBLE, he is the worst professor of my college career. Tells his class that his class is &quot;as easy as kindergarten,&quot; then 1/2 is failing after 2 midterms... he offers extra credit one day, unannounced, and then does not allow me (despite having documentation of a funeral i was at that day) earn these extra points... AVOID my buddy Jay at all cost",
-        "course": "CS310"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "very good teacher, lovely accent, very knowledgeable about many different types of literature and movies, willing to show students what is out there in the world which I appreciated. Interesting class, never bored. Cared about his students, quite helpful.",
+        "course": "COMPSTUD100"
       },
       {
         "index": 28,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "useless. he's the author of the book so i'd suggest buying it bc if not you'll have no idea what chart goes with what... he published them all and they're horrible. wastes loads of class time talking about himself. o! and he &quot;100% guarentees&quot; everything. exagerates statistics and makes stuff up on the fly. nice but opinionated. i feel bad...",
-        "course": "CONSC310"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great professor; fascinating, intelligent, looked forward going to class everyday.  He is compassionate about what he teaches, and really cares about his students.",
+        "course": "COMPSTDS100"
       },
       {
         "index": 29,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "One of the worst professors I have ever had in college.  Tells dumb stories that waste my time in class that have nothing to do with exams.  Avoid Jay if at all possible.  I dropped this class because his exams are so hard even though I went to every class AND read the awful book he wrote. UGH!",
-        "course": "CS310"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This teacher was one of my most helpful and memorable at OSU. Opened my eyes to the world of literature!",
+        "course": "COMPSTD100"
       },
       {
         "index": 30,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Go to class (not mandatory, but extremely useful). Do not need the book. If you listen to him and study your notes from class, you will be fine.",
-        "course": "CS310"
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Probably the worst lecturer I have ever had.  Spends more time talking about nothing than anyone I've ever met.  Thinks his points are profound and interesting, while they are really just the ridiculous opinions of a madman.",
+        "course": "COMPSTUD100"
       },
       {
         "index": 31,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Where do I start&#63; I gladly ended up with a C+. For the paper he said my half was worth an A and my partners half was worth a C so we got a B. I thought that was toal BS. I got a 60 on the first midterm after he said it would be sooo easy. Then managed to get a B+ on the final. I went to 2 classes because everything is in the book (that he wrote).",
-        "course": "CONSC310"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "great instructor, very indepth and communicates the subject matter clearly. definately an awesome teacher!!!",
+        "course": "COS100"
       },
       {
         "index": 32,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "This class was my lowest grade of the quarter with a C+. He started the quarter saying the class was very easy.  If it was so easy why did half the class get below a 70% on the midterms&#63;",
-        "course": "CS310"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very interesting to listen too, especially if you enjoy English accents. I would definately reccommend this class for an eye opening perspective of the world around you. Did I mention he was a Brit&#63;  lol",
+        "course": "CMPSTDS100"
       },
       {
         "index": 33,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "This professor is worth avioding if possible. He loves to make up stories and lie quite a bit to the class. I was releaved to pass this course, since i went every time and barely passed his exams. Which are a joke and hard to do.",
-        "course": "CS310"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Armstrong went out of his way to communicate dense, difficult material.  He is an amazing teacher.  Was willing to give up his time to make sure I understood the material.  A must!",
+        "course": "CS660"
       },
       {
         "index": 34,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "So mean to students. Just an awful teacher.",
-        "course": "CONS310"
-      },
-      {
-        "index": 35,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I can't even believe a university like OSU would let this guy teach! VERY disappointed w/ his class, he is NOT helpful, and very stuck on how &quot;wonderful&quot; of a person 'he thinks' he is... I am an A student and I got a decent grade in his class but this is by far the WORST prof I have ever had. It's sad that he has a job...",
-        "course": "HM680"
-      },
-      {
-        "index": 36,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Hard to understand, rude to students, not helpful.  Failed half the people for the first midterm.  He is definately the worst teacher I've had in four years.",
-        "course": "CONSC310"
-      },
-      {
-        "index": 37,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Go to class, and you won't get an A..no one does",
-        "course": "HM680"
-      },
-      {
-        "index": 38,
         "rating": 5,
         "difficulty": 1,
-        "comment": "Ridiculously easy.  Papers are not that hard just babble for 14 pages and your good!  Test are pretty easy basically gives you the questions he's going to put on the test the class before test.  Attendence is mandatory, but have someone sign in for you...DUH!",
-        "course": "CONSC310"
-      },
-      {
-        "index": 39,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Probably the least helpful, and non caring professor ever. He's a jerk.",
-        "course": "HM680"
-      },
-      {
-        "index": 40,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "This class was difficult to do well in.  His lectures are difficult to follow, and what he wants on assignments and tests is never clear.  The worst thing was that he said he would not drop grades for attendance, but he dropped me a whole letter grade for it.  If you take him, go to class!",
-        "course": "CONSC310"
-      },
-      {
-        "index": 41,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "This class sucks!!  He is so hard to listen to.  His stories often do not relate in any way to the topic of discussion.  Both of his classes are all about huge papers that are so repetative you wonder why you are typing them.  Beware...he takes attendance to heart!!  If you miss a lot of class or leave early often he will fail you!!",
-        "course": "CONSC310"
-      },
-      {
-        "index": 42,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "He failed over 50% of the class on the midterm and you need a 60% to pass the class! Then when you go talk to him he is not helpful at all!",
-        "course": "CONSCI310"
-      },
-      {
-        "index": 43,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Assigns groups of 10-15 students for a 10,000 word paper.  RIDICULOUS and UNREALISTIC.  easy class tho, he still sucks.  If you talk in his class he starts telling stories about he moved from his country with just 10 dollars in his hand and then tells you to take the class next quarter",
-        "course": "HM680"
-      },
-      {
-        "index": 44,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "To nice to be teaching!",
-        "course": "TC310"
-      },
-      {
-        "index": 45,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "No interest in helping students learn, more interested in proving numbers attending! Treat us as managers&#63; Hah, doesn't even treat us as customers or staff, only numbers. Book not necessary if go to class. Class not necessary if read book!!! Would avoid this prof.",
-        "course": "FRM310"
-      },
-      {
-        "index": 46,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "He does not treat you like a student&#63; He is not playing with a full deack of card!",
-        "course": "FMRESM310"
-      },
-      {
-        "index": 47,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Great class, great teacher very willing to help students.  Class is easy if you do not go and very easy if you go.  Attendance will assure an A on 16 page paper cause you can basically just rewrite the notes.  Have fun in this class it is fun and easy!",
-        "course": "FRM310"
+        "comment": "Comparative Studies 100 was an interesting and easy class.  He is very passionate, and works to make every class have depth.  A little dramatic at times.  Well recommended.",
+        "course": "CS100"
       }
     ],
     "SEI": []
@@ -1518,487 +1349,1630 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 2.9,
-    "avgRating": 3.7,
+    "avgDifficulty": 3.3,
+    "avgRating": 3.3,
     "department": "Humanities",
-    "firstName": "Philip",
-    "id": "VGVhY2hlci0zMjk5Mjk=",
-    "lastName": "Armstrong",
-    "legacyId": 329929,
-    "numRatings": 34,
+    "firstName": "Nancy",
+    "id": "VGVhY2hlci0xODYyNzQ5",
+    "lastName": "Tewksbury",
+    "legacyId": 1862749,
+    "numRatings": 16,
     "Ratings": [
       {
         "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Professor Armstrong is one of the best GE lecturers. He will tell you everything that you need to know before the exam. Moreover, he will discuss some decent questions of the society with us. There are three exams and three papers, they are not that bad. Such a good experience with professor Armstrong!",
-        "course": "COMPSTD1100"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "I think she was funny and had interesting things to say. It was clear to me that all she wanted in the class was participation, even if the answer wasn't entirely right. The readings were a lot, but I managed to read it in like the 30 minutes before class started. Her insights were good. Overall, she's pretty gracious if you engage.",
+        "course": "CHINESE4403"
       },
       {
         "index": 2,
-        "rating": 5,
+        "rating": 4,
         "difficulty": 2,
-        "comment": "One of the best professors that I've had in a long time. He is extremely knowledgable about COMPSTDS. If you ask for help while working on assignments, he is willing to provide good feedback so that you can improve your work. He also lets you focus on topics that you are interested in, and works with students so that they can succeed. Great teacher",
-        "course": "COMP597"
+        "comment": "Nancy's class is very fair. Just be prepared for the assessments as her classes are assessment driven.",
+        "course": "EALL1231"
       },
       {
         "index": 3,
         "rating": 5,
-        "difficulty": 3,
-        "comment": "Great professor. Was very passionate about the lectures he gives. Strongly recommend Professor Armstrong if you want a professor to be caring, understanding, and helpful in your academic experience.",
-        "course": "COMPSTD3360"
+        "difficulty": 2,
+        "comment": "I've taken 4 classes with Professor Tewksbury, and she's easily one of my top favorites. She's very willing to work with you if you have issues, though she's very hard to reach outside of class, so you'll have to stay late or come early to talk to her. I only had to buy like one book for her classes, the rest used free materials.",
+        "course": "CHI2231"
       },
       {
         "index": 4,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "I was interested in the lecture topics but felt the TAs helped me understand difficult readings more than he did. Many times there are pop quizzes that are basically impossible and worth such a large portion of our grade. I went to every single lecture and read every single reading and still rarely managed to get over 50% on the quizzes.",
-        "course": "COMPSTD1100"
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "While the other commenters here are focusing on her character (which crumbles under pressure), she is an incompetent teacher. She has no idea how to adapt to her students and make the content of her course engaging in any way. When offered suggestions about how to better her teaching style, she only can say that she has 20 years in academia.",
+        "course": "CHI2231"
       },
       {
         "index": 5,
-        "rating": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She's amazing. She's a great lecturer, and goes on occasional tangents with fun insights into the content and her academic past. There's a fair bit of reading, but it's all pretty interesting. As long as you go to lecture you'll pass without a problem. She will call on people randomly, she really wants full class participation. Always interesting.",
+        "course": "CHINESE2451"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is a very respectable professor. She makes you read A LOT, so if you aren't into that then probably stay away. She gives constructive and helpful feedback, and grades fairly if she sees you try and participate. 2 in-class papers that she graded fairly and 2 presentations, graded fairly. I'm not even a good writer, so you'll be fine. Love her!!",
+        "course": "COMPSTD1100"
+      },
+      {
+        "index": 7,
+        "rating": 5,
         "difficulty": 4,
-        "comment": "If you need to take compstd1100 or one class in literature, I strongly recommend you take it with other professors or choose another class in literature. His lectures are very boring, and the quiz during the recitation chooses something from the class, which is hard to prepare. The paper, exam are all very difficult to prepare and write.",
+        "comment": "Nancy makes you work for your grade but isn't that why you go to college. She stimulates your mind and makes you think. Lots of reading but very well worth it.",
+        "course": "CHI4404"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "She will call you out in class if it looks like you aren't paying attention, and she takes attendance every day. Lots of reading (usually about 50-60 pages between classes), but many of the books/outside readings are very interesting. Two in class papers and two presentations (one in a group and one on your own). Lots of in depth discussions",
+        "course": "COMPSTD1100"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Nancy is a fantastic lecturer with strong analytical and critical thinking skills. She frames the class subject matter (a chronology of Chinese drama and reading of several lengthy plays) with a social sciencey schema, extrapolating onto gender identity and female powersocial space in the works. Yes, it's a shxtload of reading but its worth it.",
+        "course": "CHINESE4404"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Stay away from this course!! She expects you to read (and print off) almost 100 pages for each class. Need 4 books. She will call on you in class and ask you about the readings, so if you don't do them you are screwed. 2 in class papers and 1 final presentationpaper. You definitely have to work for your grade and lectures are the absolute worst. ",
+        "course": "CHIN4404"
+      },
+      {
+        "index": 11,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I only went to her class twice and decided to drop. After syllabus day, she assigned over 80 pages in reading for the second class. She expects you to print the material, have it read by the next class (which for me was in two days) and participate in in-depth class discussion. I didn't want to go through her projects or essays, so I left. ",
+        "course": "CHI4404"
+      },
+      {
+        "index": 12,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She is absolutely horrible. There is WAY too much reading. Last time I checked this was a 3-credit hour class, not 5. She is not clear about her expectations and wastes a great opportunity by making a potentially interesting course completely unbearable. It's only week 4 of the semester and I cannot wait to be done with this class. ",
+        "course": "CHINESE4404"
+      },
+      {
+        "index": 13,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Overall, I really did not like this class. I barely learned everything and students were picked on randomly to talk in class. Being randomly picked on does not bother me much, but I know some people really do not like it. She was very confusing with what she expected of you. There were two presentations and a final paper.",
+        "course": "CS1100"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Nancy allows for a semi-engaging class. Discussions make up 90% in class. In class writing 10%. As long as your vocal and active in class you're fine. However, grading is of a different story. First grade was received half way through the semester, the remaining at the end. She is also unwilling to change grades even if it is by .17 points B to B+",
+        "course": "CS2103"
+      },
+      {
+        "index": 15,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Nancy is a great professor. She is a deep thinker and helps teach her students to become so also. If you are the least bit substantially minded or interested in philosophy, psychology, sociology, or critical thinking you will enjoy the 2103 class on The Self. A lot of reading is required but it is all intriguing. Show up and apply yourself.",
+        "course": "COMPSTD2103"
+      },
+      {
+        "index": 16,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Lots of Reading! But if you keep up with it and show up to class you will get at least a B. A couple of presentations that are decently enjoyable. This is not a blow off course though. You will work for your grade if you want a good one.",
+        "course": "COMPSTD1100"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 3.3,
+    "department": "Humanities",
+    "firstName": "Amy",
+    "id": "VGVhY2hlci0xMjYyODU0",
+    "lastName": "Gregg",
+    "legacyId": 1262854,
+    "numRatings": 16,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Do not take this class! So much work just for a ge credit. Be prepared to do lots of assignments and papers focused more on how to write than learning about the actual course content. She grades very strict and petty, so I would not recommend this class unless you are okay with doing lots of work and barely learning anything. ",
+        "course": "PHR2367"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Stay away!!! Wayyyyy too much homework for a gen ed. On top of that, 90% of the homework she does assign is meaningless busy work which contributes absolutely nothing to your intellect. Super annoying class in my opinion.",
+        "course": "PHR2367"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Took this class over the summer and she posts \"lecture videos\" that are less than 10 minutes long, reads word for word off the slides so listening to her talk is useless, and then gives you 6 chapters of reading about how to write a research paper as well as 2 hours of other videos to watch. Not a hard class, just a bad professor. ",
+        "course": "PHR2367"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She's a very understanding and caring teacher. She responds well and gives many opportunities for help and guidance. A very helpful and kind teacher.",
+        "course": "PHR2367"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Only to be addressed with Dr. Gregg or Professor Gregg nothing more nothing less. She's actually is a good professor if you give her a chance. Lots of readings and quizzes. Big final project in the end (not that bad). Just pay attention (even though it can get boring) and you'll have an easy A.",
         "course": "COMPSTD1100"
       },
       {
         "index": 6,
-        "rating": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Amy Gregg is a hard teacher. She is one of the few teachers who thinks its acceptable to give students more homework during the time of COVID because classes are online. She wasnt flexible for people who worked and always hosted class in terrible hours. She definitely took on more classes than she could handle which made the students struggle.",
+        "course": "HIST2703"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Powerful woman. Only to be addressed as Dr. Gregg. No cinnamon gum or loud bags of chips in lecture. If you respect her, she will respect you. Attend extra credit and treat her as a PERSON. Everyone in class is scared of her, but shes really funny and approachable if you are as well. Passionate about cancer (husband in remission) precious woman.",
+        "course": "HIST2703"
+      },
+      {
+        "index": 8,
+        "rating": 1,
         "difficulty": 4,
-        "comment": "He's a great guy and the class def makes you think but he's not at all in charge of grades. Every grade came from the TA so if your unfortunate and get a TA that grades hard you're pretty much doomed. There's 3 TAs so 3 different standards for the same class which is really messed up. Choose another GE and avoid this class if possible.",
-        "course": "COMST1100"
+        "comment": "Professor Amy Gregg expects people to participate but the minute you do, and she doesnt know the answer to the question, she will give a rude statement trying to make you look stupid in front of the class. She is constantly calling people out directly/indirectly and thats unprofessional. She isnt easy to talk to at all. Would not take her!!",
+        "course": "HIS2703"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "I hope and pray that I never cross paths with such an arrogant self prof again. She teaches the humanities yet still calls Native American's &quot;Indians&quot;. She is patronizing and feels the need to talk down to students she is supposed to teach. Yet the course works seems to be designed for highschool freshman. DO NOT TAKE ANY CLASS SHE TEACHES",
+        "course": "COMPSTD1100"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "It will be extremely easy if you are American students. This class's topic is racism. What she did to international students exactly fits her topic. An arrogant and unfriendly instructor.",
+        "course": "COMPSTD1100"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The class was super easy, I think she gave out almost all A's, as long as you showed up and spoke at least once a week (it was a once/week class). Yet, she teaches her opinions as facts and is very condescending. I loved her as a person (talking after class), but hated her as a teacher. Recommended for an easy A!",
+        "course": "CS100"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "WOW! I can't say enough great things about Amy. She is an amazing professor who really knows her stuff! She knows all students personally and really strives to help you gather the picture of what life in like for American Indians. Amazing class and teacher.",
+        "course": "CS100"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Somethings seemed tedious, but she knew what she was talking about the the hot rating is no joke.",
+        "course": "CPS367"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Totally awesome teacher. She knows her subject extremely well, knows every single student. You would actually learn from her class. This class will be the most refreshing time of your day. Highly recommended.",
+        "course": "CS100"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She did an awesome job, it was a relief to go to her class and actually enjoy the class compared to my others...She did an awesome job, I HIGHLY recommend her, well worth it!!",
+        "course": "CS100"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Amy is an awesome professor.  Very dedicated to what she is teaching and identifies with everyone in class.  I wish could have taken more classes of hers!",
+        "course": "CMST100"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.1,
+    "avgRating": 3.6,
+    "department": "Humanities",
+    "firstName": "Ulises Juan",
+    "id": "VGVhY2hlci00MjEzMzQ=",
+    "lastName": "Zevallos-Aguilar",
+    "legacyId": 421334,
+    "numRatings": 11,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "He's a nice guy, but my entire grade for the semester was based off 100 points. This was very frustrating as having 4 points docked from a midterm or final (which made up near 50% of your grade) dropped your grade significantly. Attend class or you'll be screwed. He offers some extra credit, but not enough assignments with how little there are.",
+        "course": "SPAN4560"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Hes an awesome professor, goes to the point. Office hours were definitely helpful!",
+        "course": "SPANH565"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "He's a good guy, but I'm not sure what the point of the class was. We did e-journals for every class, a student presented on the reading, and then we had a class discussion. I'm not really sure what he did other than hand out a 93% to everyone. He's a nice guy and can be funny, but this class was a little frustrating.",
+        "course": "SPA3450"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Participate in class!! He grades off of participation, so talk a lot. He grades easy on exams. No final, just a final paper, which he helps you with.",
+        "course": "SPA3450"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Honors seminar, mandatory attendance and participation. Not the most interesting professor but is very knowledgable. Fair grader. Nightly reading was a little much but you didn't have to read everything. Besides that, ejournals for reading, 2 presentations and one 10 page paper",
+        "course": "SPAN680H"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "You have to be committed with Indigenous causes to get the best of this course",
+        "course": "SPANH565"
       },
       {
         "index": 7,
         "rating": 2,
         "difficulty": 4,
-        "comment": "Don't take this class. I initially read that this class was a relatively easy GE, but they couldn't have been more wrong. Anyone I have discussed about what this semesters class was like, agreed it was too hard. Too many readings, pop quizzes, and few assignments that are graded harshly. I worked too hard to get a B, and so many others did as well.",
-        "course": "COMST1100"
+        "comment": "He was a pretty bad professor. He went on tangents in every class and wouldn't let anyone talk. He has a certain answer in mind when he asks a question and any other answer is just flat out wrong. Most of the class is pointless and you probably don't need to go but, he grades on participation and attendance, so that sucks. DON'T TAKE HIM.",
+        "course": "SPANH565"
       },
       {
         "index": 8,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "The fate of your grade is entirely up to the TA. There's three exams and three papers in this class. Not going to lie, the reading is kind of a lot. You don't really have to do it or go to lecture. Go to your section (where attendence is graded) and go to office hours for your papers. The TA will be grading all your stuff so make sure they like it.",
-        "course": "COMST1100"
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "He interrupts students every time they try to speak. He does not allow for much student participation, yet he grades on participation. He grades just to have a certain amount of students receive each letter grade. I doubt he actually read all of our papers.",
+        "course": "SPAN565"
       },
       {
         "index": 9,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Professor Armstrong is a nice guy and is lecture heavy. There's not much solid information in the class and that's the point. He gives you information and lets you decide how to interpret it (it's a humanities class). There's 4 papers and 3 exams and a few small (easy) quizzes. This class is VERY easy if you stay disciplined DO THE READINGS.",
-        "course": "COMPSTD1100"
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "While the class ended up being easy to get a good grade, getting there was tough. He was not at all clear during lectures, and we never even talked about the actual poetry that the class was about, just beat around the bush. But that doesn't mean he didn't expect you to know it anyway. I'd say about 1/2 of each class was a total waste of time.",
+        "course": "GRAD"
       },
       {
         "index": 10,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Don't bother buying the books listed on the syllabus. You can find PDFs for all of them by googling. While attendance is mandatory, the lectures are actually interesting. Exams are composed of mostly short response questions, and you can bring in outlines of the questions to the exams.",
-        "course": "COMPSTD1100"
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "SPAN650"
       },
       {
         "index": 11,
-        "rating": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "No Comments",
+        "course": "SPAN556"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 2.8,
+    "department": "Humanities",
+    "firstName": "Jay",
+    "id": "VGVhY2hlci01NzI3MjM=",
+    "lastName": "Kandampully",
+    "legacyId": 572723,
+    "numRatings": 47,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Jay was an amazing professor and the class was very easy. There were in class discussion questions and weekly review questions that were an easy A if you went to class. I will say though the lectures are quite boring but the material was very easy to understand. ",
+        "course": "3910"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "mandatory attendance for only 4 lectures (discussions) and the answers are discussed in class. 2 papers but theyre easy, just make sure to start them a couple weeks in advance. no textbook - answers are from class and the lecture slides. 1 assignment a week where you answer 2 short questions. discussion every 2 weeks. no recordings though.",
+        "course": "CONSCI3910"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Jay is not very clear with communication. Our class had to tell him to clearly communicate in order for us to get things done. He grades the leadership papers on how well of a leader you are, not how you understand the material which is frustrating.",
+        "course": "CSHSPMG5780"
+      },
+      {
+        "index": 4,
+        "rating": 1,
         "difficulty": 2,
-        "comment": "Professor Armstrong is a genuinely nice guy. The class is not clear cut in any way, but that's pretty much the point. Forces you to think (if you can stay awake, that is). I liked the readings in this class and thought they were interesting. TA pretty much determines the fate of your grade, but definitely not a difficult GE.",
-        "course": "COMST1100"
+        "comment": "The lectures are all over the place and it's a miracle that I scored as high as I did because I cannot tell you anything that I was supposed to learn from this course or the other course that I took. I feel for his story and its great that he made something out of himself but this was a waste of my tuition dollars. Don't buy the book.",
+        "course": "CONSCI3910"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Honestly probably the most kind hearted and selfless person I ever met , he mad my senior year one of a kind.",
+        "course": "CONSCI3910"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Jay is the most caring and kindhearted professor I've ever had! He starts every class with an inspirational video because he truly wants to leave a positive impact on every one of his students. There's only one short assignment a week and two longer papers, so you can listen to lectures without stressing over memorizing everything.",
+        "course": "CONSCI3910"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He is such a wonderful and inspirational professor. Sometimes his lectures would make me really emotional. He really really cares for his students and is just an overall great person. You definitely have to try in his class, I wouldn't consider it an easy blowoff class or anything. I highly recommend taking him if you enjoy professors who care!",
+        "course": "CSHSPMG3910"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Kandampully did an excellent job with this class given the circumstances. CSHSPMG3910 would usually be in person, but the COVID-19 pandemic moved the class online. He responds fast, gives good information, and is very understanding.",
+        "course": "CONSCI3910"
+      },
+      {
+        "index": 9,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "He is a very odd professor. His lectures are pointless. He teaches stuff that is common sense and you think that the quizzes will be cake. But they're not. I recommend buying the e-book. You're allowed to use the book on the quiz/test and it's much easier to search the words on the e-book vs. trying to find them with the actual book(which he wrote)",
+        "course": "CONSCI3910"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Do the 15% extra credit paper since quizzes are SUPER hard (even with it being open note) for what the subject is. Seriously buy the book. Always show up on the discussion days, group projects, etc. are due. If you turn in a paper early into his mailbox, however, you do not need to show up for that class day. Pointless lectures.",
+        "course": "CONSCI3910"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Kandampully is the best professor I have had at OSU. I am not even a consumer sciences major; and I learned the most I have ever learned at Ohio State, in his class. There are tons of quizlet accounts out there IDENTICAL to his tests, so just study and youll EASILY get an A.",
+        "course": "CONSCI3910"
       },
       {
         "index": 12,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Philip Armstrong seems like a good guy; however he's just a lecturer. A VERY boring lecturer. The TA's make the quizzes and control grading, so if you get a tough TA, you're out of luck. In my class, the quizzes were over specific lecture and reading materials, and were unnecessarily difficult. Don't buy the books, just look up summaries online",
-        "course": "COMST1100"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He really cares.",
+        "course": "CONSCI3910"
       },
       {
         "index": 13,
         "rating": 5,
         "difficulty": 3,
-        "comment": "He's one of the very few truly engaging and caring professors to be found at Ohio State. The Comparative Studies department is the gem of the humanities at OSU, and so too is Philip of the department.",
-        "course": "COMPSTD2864H"
+        "comment": "Tests aren't as easy as you would think. A lot of the stuff he talks about seems like common sense, but the tests weren't that easy. He was very nice and his lectures were interesting. Not a hard class, but you do need to study for the quizzes.",
+        "course": "CSHSPMG3910"
       },
       {
         "index": 14,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "I actually really enjoyed this class. The lectures went by quickly and the readings were much shorter and more captivating than other lit GE classes. I definitely learned a LOT about global cultures in an enjoyable way. The class isn't particularly difficult, just be prepared to write for the 2 exams and 3 papers, which aren't difficult.",
-        "course": "COMPSTD1100"
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Discussions are easy, projects were pretty smooth. The quiz tests questions are very specific. Lectures are extremely boring but that's where he gives the notes. Hard to understand at times.",
+        "course": "3910"
       },
       {
         "index": 15,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I'll be blunt: I loved Professor Armstrong. There were few clearcut answers provided to the classroom inquiries, largely because that wasn't the primary objective of the class: it was to question, suggest, and better understand the plurality of problems that we actively confront in the worlds--modern or premodern--we participate in. Take his class!",
-        "course": "COMPSTD2864H"
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "test are not as easy as you think there going to be. ",
+        "course": "CONSCI3910"
       },
       {
         "index": 16,
-        "rating": 4,
+        "rating": 3,
         "difficulty": 1,
-        "comment": "This class is what you make it. It could be mind blowing if you want it to, but I just sort of paid attention and did the assignments, he's the easiest grader on the earth.  You could get away with not reading; he doesn't really check or care as long as you say something at some point during the class. Be prepared to here \"what's at stake here?\"",
-        "course": "COMST1100"
+        "comment": "Awesome guy. Very easy class. 3 quizzes, 1 paper, 1 research project. Quizzes and paper are common sense, easy A's. Research paper takes time, but you have a partner and it goes by quick. I spent 3 days before it was due working on it, got 100. I'm a lazy student and this class was a breeze. I would absolutely recommend it. Jay is really cool, too.",
+        "course": "CONSCI3910"
       },
       {
         "index": 17,
-        "rating": 4,
+        "rating": 3,
         "difficulty": 3,
-        "comment": "He purposefully asks really tough questions to force you to really structure your arguments. I learned a lot in this class and really improved on my persuasive essay writing due to his notes! There are a couple quizzes, two short papers, and papers for the midterm and final, pretty straight forward. Should be an easy A or B, but you still think.",
-        "course": "COMP597"
+        "comment": "Dreadfully boring and everything is pretty unclear. My partner on my paper decided to not help and he made me finish it on my own with no extension, despite telling me to wait for her. The class is pretty much common sense, but he creates graphs that are impossible to understand without going to class.",
+        "course": "CONSCI3910"
       },
       {
         "index": 18,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Completely agree with the person about 4 below me. He thinks everything he says is sooooo profound. He's always asking-What's at stake here&#63; I didn't learn anything, but it was an easy A. I did all the readings right before the midterm, and that was the extent of my studying. Papers were not hard. Why does he have a chili pepper&#63;&#63;&#63; Not hot.",
-        "course": "CMPST567"
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Easy class, nice guy. People need to quit complaining about this class being hard. Go to class occasionally, especially the one before the quiz, he will tell you EXACTLY what's on it. Start the term paper a few weeks before, that's it. I consider myself a lazy student, aced his class. Dunzo.",
+        "course": "CONSC310"
       },
       {
         "index": 19,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "I thought he was a very good teacher. I was not looking forward to taking a literature class, but he made it interesting and the papers were not that difficult. It is sometimes hard to understand exactly what we are supposed to write about, but it was still a good class.",
-        "course": "COMP301"
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "DONT BUY THE BOOK.Extremely easy.3 quizzes 25 questions only worth 20 pts so you can miss 5 and still get a 20/20.project is 40% of grade.never used the book.Work on the project throughout the quarter not all at the end.Go to the class before the quizzes, he literally tells you everything that will be on them.",
+        "course": "CONSC310"
       },
       {
         "index": 20,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "EXCELLENT Professor. My favorite and best by far.",
-        "course": "HUM100"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I would take CS 310 winter quarter b/c he doesn't teach it during this time.  Janielle Guerin teaches it and you have 4 quizzes and one 3page paper that you get full credit if you meet 3 pages. In this class you have to write a 15page paper and actually read the book.  Winter quarter you dont have to read his book. Just go to class.",
+        "course": "CS310"
       },
       {
         "index": 21,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Never knew what he wanted from me on the papers. Thinks everything he says is profound, but it's not. All he does is ask rehtorical questions in leacture. Hard to stay awake because he is so boring. Never knew what my grade was since the class isnt on carmen. The TAs are helpful if you have questions. Overall confusing class.",
-        "course": "CSTUD100"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Jays (guest prof. at our UAS)insights and comments on hospitaliy management were extremely helpful adding a broad int. approach to our tyrolian narrowness on the issue. Paper was a lot of work and not really fun to do. Hello from MCI/ Austria",
+        "course": "HOSPITALI"
       },
       {
         "index": 22,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Dr. Armstrong was a good teacher and made it clear that he was there to lead us to a better understanding of our world and to have a greater appreciation for its complexity and the conversations we have on a daily basis. This was a wonderful class, and although more discussion would have been nice, Dr. Armstrong did a wonderful job!",
-        "course": "COMPH240"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "he must of changed his style from the ones below i never went to calss and just showed up on quiz days, which were same as the book, and i did they 12 page research project and he checked it 5 times before we (group of 2) turned it in so we got 100 and there are 3 quizzes that are 40% of your grade and the 60% is that project easy A",
+        "course": "CONSC230"
       },
       {
         "index": 23,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "This class was insanely boring. He's very smart, but the lectures feel a bit redundant and a lot don't even apply to the world. The exams aren't too bad, just make sure that you're very detailed on essays and don't use broad themes from the class. Hopefully you get an easier TA than I did....",
-        "course": "COMP100"
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Extremely easy. I got a 100% in the class. The class is a joke. Just make sure you at least read over the material before his &quot;quiztests&quot; and do really well on the paper....write at least 15 pages!",
+        "course": "CONSC310"
       },
       {
         "index": 24,
         "rating": 2,
-        "difficulty": 3,
-        "comment": "lectures are SOO boring, he asks a lot of rhetorical questions so it sometimes gets confusing and has no visible point, exams are easy (hopefully you get a good TA to grade it), gives you options to pick from on the exam ahead of time so you can prepare the big essay, its really not a bad class, just lecture is rough to get through without dozing",
-        "course": "COMP100"
+        "difficulty": 5,
+        "comment": "Worst professor I've had in 5 years at OSU.He basically takes it personally if you don't make it to every class and treats you as if you had stabbed him because you were gone one day. The whole point of his lectures seems to be to stroke his giant ego. Good for him that he made it from nothing into a cushy teaching position, but nobody else cares..",
+        "course": "HSPMG680"
       },
       {
         "index": 25,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "This class was sooo boring. The lectures especially. Some of the readings were interesting but he gave us no structure for the assignments. We were just sort of on our own.",
-        "course": "COMPSTD301"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Kandampully was a HORRIBLE prof! he is useless, and if you miss just one class he condemns you to not get any help in his class. It was like the Kandampully parade with his stupid stories, and the &quot;textbook&quot; that he wrote! I don't care that he had to steal copper wire to feed his family when he was little and look at him now!",
+        "course": "CON310"
       },
       {
         "index": 26,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "He talks forever about how to analyze visual images, just so the class lasts the full hour and 48 minutes.  He does have a French accent which is cute, but other than that, the class can be really boring.  Readings are easy, midterm was easy, a final  15 min presentation in place of the final exam.",
-        "course": "COMPSTD275"
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "He changed his style from huge papers to multiple choice tests this quarter and they are HARD!  He offered extra credit because the averages were low 60s but probably won't be as nice from now on.  You MUST go to class and take notes if you want to pass.  Class is boring, but he isn't as bad as some people say.  Con sci Majors Just grin and bear it",
+        "course": "CONSC310"
       },
       {
         "index": 27,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "very good teacher, lovely accent, very knowledgeable about many different types of literature and movies, willing to show students what is out there in the world which I appreciated. Interesting class, never bored. Cared about his students, quite helpful.",
-        "course": "COMPSTUD100"
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "TERRIBLE, he is the worst professor of my college career. Tells his class that his class is &quot;as easy as kindergarten,&quot; then 1/2 is failing after 2 midterms... he offers extra credit one day, unannounced, and then does not allow me (despite having documentation of a funeral i was at that day) earn these extra points... AVOID my buddy Jay at all cost",
+        "course": "CS310"
       },
       {
         "index": 28,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great professor; fascinating, intelligent, looked forward going to class everyday.  He is compassionate about what he teaches, and really cares about his students.",
-        "course": "COMPSTDS100"
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "useless. he's the author of the book so i'd suggest buying it bc if not you'll have no idea what chart goes with what... he published them all and they're horrible. wastes loads of class time talking about himself. o! and he &quot;100% guarentees&quot; everything. exagerates statistics and makes stuff up on the fly. nice but opinionated. i feel bad...",
+        "course": "CONSC310"
       },
       {
         "index": 29,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This teacher was one of my most helpful and memorable at OSU. Opened my eyes to the world of literature!",
-        "course": "COMPSTD100"
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "One of the worst professors I have ever had in college.  Tells dumb stories that waste my time in class that have nothing to do with exams.  Avoid Jay if at all possible.  I dropped this class because his exams are so hard even though I went to every class AND read the awful book he wrote. UGH!",
+        "course": "CS310"
       },
       {
         "index": 30,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Probably the worst lecturer I have ever had.  Spends more time talking about nothing than anyone I've ever met.  Thinks his points are profound and interesting, while they are really just the ridiculous opinions of a madman.",
-        "course": "COMPSTUD100"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Go to class (not mandatory, but extremely useful). Do not need the book. If you listen to him and study your notes from class, you will be fine.",
+        "course": "CS310"
       },
       {
         "index": 31,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "great instructor, very indepth and communicates the subject matter clearly. definately an awesome teacher!!!",
-        "course": "COS100"
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Where do I start&#63; I gladly ended up with a C+. For the paper he said my half was worth an A and my partners half was worth a C so we got a B. I thought that was toal BS. I got a 60 on the first midterm after he said it would be sooo easy. Then managed to get a B+ on the final. I went to 2 classes because everything is in the book (that he wrote).",
+        "course": "CONSC310"
       },
       {
         "index": 32,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Very interesting to listen too, especially if you enjoy English accents. I would definately reccommend this class for an eye opening perspective of the world around you. Did I mention he was a Brit&#63;  lol",
-        "course": "CMPSTDS100"
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "This class was my lowest grade of the quarter with a C+. He started the quarter saying the class was very easy.  If it was so easy why did half the class get below a 70% on the midterms&#63;",
+        "course": "CS310"
       },
       {
         "index": 33,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Armstrong went out of his way to communicate dense, difficult material.  He is an amazing teacher.  Was willing to give up his time to make sure I understood the material.  A must!",
-        "course": "CS660"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This professor is worth avioding if possible. He loves to make up stories and lie quite a bit to the class. I was releaved to pass this course, since i went every time and barely passed his exams. Which are a joke and hard to do.",
+        "course": "CS310"
       },
       {
         "index": 34,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "So mean to students. Just an awful teacher.",
+        "course": "CONS310"
+      },
+      {
+        "index": 35,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I can't even believe a university like OSU would let this guy teach! VERY disappointed w/ his class, he is NOT helpful, and very stuck on how &quot;wonderful&quot; of a person 'he thinks' he is... I am an A student and I got a decent grade in his class but this is by far the WORST prof I have ever had. It's sad that he has a job...",
+        "course": "HM680"
+      },
+      {
+        "index": 36,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Hard to understand, rude to students, not helpful.  Failed half the people for the first midterm.  He is definately the worst teacher I've had in four years.",
+        "course": "CONSC310"
+      },
+      {
+        "index": 37,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Go to class, and you won't get an A..no one does",
+        "course": "HM680"
+      },
+      {
+        "index": 38,
         "rating": 5,
         "difficulty": 1,
-        "comment": "Comparative Studies 100 was an interesting and easy class.  He is very passionate, and works to make every class have depth.  A little dramatic at times.  Well recommended.",
-        "course": "CS100"
+        "comment": "Ridiculously easy.  Papers are not that hard just babble for 14 pages and your good!  Test are pretty easy basically gives you the questions he's going to put on the test the class before test.  Attendence is mandatory, but have someone sign in for you...DUH!",
+        "course": "CONSC310"
+      },
+      {
+        "index": 39,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Probably the least helpful, and non caring professor ever. He's a jerk.",
+        "course": "HM680"
+      },
+      {
+        "index": 40,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "This class was difficult to do well in.  His lectures are difficult to follow, and what he wants on assignments and tests is never clear.  The worst thing was that he said he would not drop grades for attendance, but he dropped me a whole letter grade for it.  If you take him, go to class!",
+        "course": "CONSC310"
+      },
+      {
+        "index": 41,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "This class sucks!!  He is so hard to listen to.  His stories often do not relate in any way to the topic of discussion.  Both of his classes are all about huge papers that are so repetative you wonder why you are typing them.  Beware...he takes attendance to heart!!  If you miss a lot of class or leave early often he will fail you!!",
+        "course": "CONSC310"
+      },
+      {
+        "index": 42,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "He failed over 50% of the class on the midterm and you need a 60% to pass the class! Then when you go talk to him he is not helpful at all!",
+        "course": "CONSCI310"
+      },
+      {
+        "index": 43,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Assigns groups of 10-15 students for a 10,000 word paper.  RIDICULOUS and UNREALISTIC.  easy class tho, he still sucks.  If you talk in his class he starts telling stories about he moved from his country with just 10 dollars in his hand and then tells you to take the class next quarter",
+        "course": "HM680"
+      },
+      {
+        "index": 44,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "To nice to be teaching!",
+        "course": "TC310"
+      },
+      {
+        "index": 45,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "No interest in helping students learn, more interested in proving numbers attending! Treat us as managers&#63; Hah, doesn't even treat us as customers or staff, only numbers. Book not necessary if go to class. Class not necessary if read book!!! Would avoid this prof.",
+        "course": "FRM310"
+      },
+      {
+        "index": 46,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "He does not treat you like a student&#63; He is not playing with a full deack of card!",
+        "course": "FMRESM310"
+      },
+      {
+        "index": 47,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great class, great teacher very willing to help students.  Class is easy if you do not go and very easy if you go.  Attendance will assure an A on 16 page paper cause you can basically just rewrite the notes.  Have fun in this class it is fun and easy!",
+        "course": "FRM310"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.7,
+    "avgRating": 4.2,
+    "department": "Humanities",
+    "firstName": "Sean",
+    "id": "VGVhY2hlci0xMjIzODY=",
+    "lastName": "Scheiderer",
+    "legacyId": 122386,
+    "numRatings": 6,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Not what I expected. In a good way.",
+        "course": "CS36702"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Funny, laid back, eager to help students understand",
+        "course": "CS367"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Bodybuilding films and diet books the main topics of discussion.",
+        "course": "CS367"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "CS367"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Class is awesome. We studied diet and exercise literature (by Arnold Schwarzenegger) and wrote papers analyzing it. Class was fun, papers weren't hard, and he would tell you what to fix on them for an A in office hours.",
+        "course": "CS36702"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "COMPARATIV"
       }
     ],
     "SEI": []
   },
   {
     "avgDifficulty": 2.3,
-    "avgRating": 2.9,
+    "avgRating": 3.9,
     "department": "Humanities",
-    "firstName": "Fritz",
-    "id": "VGVhY2hlci03MzQyNTA=",
-    "lastName": "Graf",
-    "legacyId": 734250,
+    "firstName": "Kirk",
+    "id": "VGVhY2hlci01NTU0MzU=",
+    "lastName": "Denton",
+    "legacyId": 555435,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He is a very knowledgeable and approachable professor. This class has 1 midterm, 1 final, and 1 paper. There's no homework but you need to read assigned texts before class and participate in class discussions. Participation is important. He is a fair grader, so you'll get a decent grade as long as you put some effort in this class.",
+        "course": "4403"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great professor, really knows his field look at the excellence of his publications..., approachable, cares about his students. He contextualize literature in the political context of that time and I am personally not very interested in the political aspect in such great details. ",
+        "course": "7660"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "The professor knows the material and really pushes the students to think critically about the films.  Show up, participate a little, and use proper grammar on your essays and you will get an A.  The only negative: for a class that deals so heavily with identity politics some of his approaches are problematic.",
+        "course": "EALL346"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "This class was the easiest class I have taken at OSU so far.  If you want an A, then just show up to every class, watch the movie, give your opinion, and when you have to write a paper, put a little effort in to it, making sure you have good grammar usage.  Prof. Denton seemed like a nice guy, very liberal, but still open to opposing views.",
+        "course": "EALL346"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class is very straight forward. Denton is extremely opinionated and can get on your nerves, but gives you everything you need to know for the tests (which are short answer). You can get the main book from a public library and you don't need all of the other books.",
+        "course": "CHIN501"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Kind of uptight, unpleasant and sometimes condescending in one-on-one situations.. And class sure can drag sometimes.",
+        "course": "CH232"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class was interesting if only because we got to see all kinds of Chinese film that's hard to come by otherwise. There wasn't a lot of homework, but attendance was important (if you didn't come, you probably wouldn't understand the films, anyway). Overall, I enjoyed it.",
+        "course": "CHINESE505"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He really knew the material, carried good class conversations, a nice guy.",
+        "course": "EALL346"
+      },
+      {
+        "index": 9,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "His class = naptime. Is more like a history class than a lit class. Reading assignments are light and exams are not difficult though.",
+        "course": "CHINESE503"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "his class is a bore.",
+        "course": "CH502"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "To get an A, must go to every class.  He gives A's to people he sees every class.  Subject material is harder for non-native chinese but make sure you still go even if you just lived in china.  Take notes in class, thats all that is tested on the exam.  Great class!",
+        "course": "CHINESE232"
+      },
+      {
+        "index": 12,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Class isn't too hard. Although he is one teacher who says that participation counts for the grade, and actually takes note of it. Seems interested in teaching, but often boring.",
+        "course": "CH503"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.3,
+    "avgRating": 4.2,
+    "department": "Humanities",
+    "firstName": "Daniel",
+    "id": "VGVhY2hlci0xMTk1MzY=",
+    "lastName": "Reff",
+    "legacyId": 119536,
     "numRatings": 16,
     "Ratings": [
       {
         "index": 1,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "This was one of the most frustrating classes I have ever taken. Absolutely zero organization and awfully boring/tedious lectures. Impossible to get ahold of and randomly canceled class. Ultra specific quizzes that were impossible to study for. Took the entire last half of the semester to grade the midterm. Sweet old guy but should NOT be teaching. ",
-        "course": "3401"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Reff's a great guy. I've had him for two different GECs. His feedback on essays are insightful and he openly gives tips during quizzes. In class, he makes an effort to include everyone in discussions. Quizzes and essays are tedious and hard at first but most people seem to get the hang of it after one or two.  I really can't recommend him enough.",
+        "course": "COMPSTD3606"
       },
       {
         "index": 2,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Professor Graf is a nice guy, but if you don't like long lectures I do not recommend this class. His lectures last the entire class (and sometimes over). That being said, if you are really passionate about Roman religion and want to learn more, take this class! He also grades heavily on about 4-5 quizzes, a midterm, and a final exam. ",
-        "course": "3401"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great professor and even better person. Read a lot of really interesting pieces of literature in this course. No exams, grade consists of attendance and quizzes based on the books. Quizzes are easy if you take the time to read. ",
+        "course": "3606"
       },
       {
         "index": 3,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Lectures are boring and all over the place - hard to follow/can't participate. Slides are confusing and include many typos. Can't learn material. Not communicative about schedule/things in general. Only grades you will receive in this class are from quizzes and 2 essays that are worth 30% of your grade EACH. Nice guy, but difficult to understand.",
-        "course": "3401"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This class requires a lot of reading and attention to detail but there is no finals, or midterms so your grade is based purely on in class quizzes and attendance.",
+        "course": "COMPSTD3606"
       },
       {
         "index": 4,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Bunch of quizzes made up 10%, then a paper was 40% and the final was 50%. Super nice guy who clearly loves what he teaches, but it was very scary to have so much of the grade on a paper he barely talked about/that there wasn't even a rubric for. Classes were super boring with no participation, if he asked questions and discussed it'd be way better",
-        "course": "CLAS2220H"
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Twice as much writing (8 four page papers) than I had to do for my writing class, and lots of reading but it was really interesting. Class is discussion-based, but the discussion was relaxed. He goes off on tangents sometimes, but I recommend the class and professor.",
+        "course": "CMPST524H"
       },
       {
         "index": 5,
         "rating": 4,
         "difficulty": 3,
-        "comment": "The course was fascinating but poorly structured. It could have been a little better put together in terms of grouping topics; possibly into units. The lectures were fun and very interesting, but beware that the readings were very necessary in order to understand the lectures. Fun if you are willing to put the work in.",
-        "course": "CLAS4031"
+        "comment": "Prof Reff is a good teacher. Class discussion was interesting and laid back. Attendance isnt mandatory per say but its important, and classroom participation is crucial. NO EXAMS but a 200pg book and 4 page paper on it basically every week.",
+        "course": "CMPST524H"
       },
       {
         "index": 6,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "very unclear about schedule and due dates. Extremely specific quizzes and unnecessary PowerPoint slides.",
-        "course": "CLAS3304"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Loved this class. Reff's a very funny and laid-back guy. Participation is worth 25% of the grade, so go to class. Other than that, you read the book, take a fill-in-the-blank quiz on it, and that's it. No midterm or final. Almost all of the readings were really good. I definitely recommend this class.",
+        "course": "CMPST306"
       },
       {
         "index": 7,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Fritz is the bomb, very enthusiastic lecturer and clearly loves what he does. His accent can take a while to get used to, but he is very open about having you ask questions if you didn't understand what he said. 1010, would recommend him.",
-        "course": "3401"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very nice, friendly guy. The readings and class discussions were interesting and stimulating, most of the time. Quizzes are easy if you do the readings. Class attendance and participation are graded.",
+        "course": "CSTD367"
       },
       {
         "index": 8,
         "rating": 4,
         "difficulty": 1,
-        "comment": "He is the man! He's so nice and extremely fair. My class was about the Greek gods and we just had to have readings done which weren't that bad at all. The books were interesting, there were a lot of books but I only spent $100, and you could even get away without reading if you don't want to although I recommend it. Overall is exactly what you want",
-        "course": "CLASS327"
+        "comment": "Overall a pretty good professor.  He's really nice and class discussions were okay.  There was a lot of required reading and papers so don't take it if you have a busy schedule.  Unfortunately I did but I still got an A.",
+        "course": "CSTD367"
       },
       {
         "index": 9,
-        "rating": 4,
+        "rating": 2,
         "difficulty": 1,
-        "comment": "I pulled out close to 100% in this class.  Go to class, do the readings, and you can easily get an A.  Minimum effort required, no homework at all, just the weekly quizzes.  If you do the reading and listen to what he says, it should be cake.",
-        "course": "CLASSICS222"
+        "comment": "I liked a lot of the reading, but class discussions were flat, never insightful. I was so excited for this class and I don't feel like I learned anything new or mind blowing. The quiz-only grade structure would is okay, but beware: the quizzes were always subjective and sometimes inaccurate. An easy class, if that's your thing.",
+        "course": "CSTUD306"
       },
       {
         "index": 10,
         "rating": 4,
-        "difficulty": 1,
-        "comment": "He is not bad at all.  If you go to class and take notes, you should get an easy A.  The quiz questions were embarassingly easy sometimes",
-        "course": "222"
+        "difficulty": 2,
+        "comment": "Some of the readings didn't do justice to the topics or were just plain boring.  Four word bank quizzes and four short papers, all of which were cake if you did the readings.  He's easy to get along with and completely reasonable, which isn't always a given.",
+        "course": "COMP202"
       },
       {
         "index": 11,
-        "rating": 1,
+        "rating": 3,
         "difficulty": 4,
-        "comment": "This class was unusually difficult, I had a friend who took H222 and it was easier than this class. The weekly quizzes are very hard, he asks very specific non-important things. His teaching style is not very helpful in learning the material. I would not recommend this course to anyone.",
-        "course": "CLASSICS222"
+        "comment": "Professor Reff was a likeable guy, but I can't approve of the way he taught the class.  The readings were mostly awful.  The class focused almost exclusively on the plight of minorities, women, and gays.  American culture involves a little more than that!  This isn't a criticism of the class, but there was a lot of writing.  This isn't an easy A.",
+        "course": "COMPS367"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Pretty easy class.  7 papers and NO midterm or final!  30% class participation...grades rather subjectively, but is a pretty good teacher.  A lot of reading though.",
+        "course": "CSH20201"
+      },
+      {
+        "index": 13,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "He is an excellent teacher.  He really makes you think on your own and will continue to push you to think for yourself.  It is alot of work for his class, but very enjoyable.",
+        "course": "CS306"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Pretty good instructor, though sometimes goes overboard with telling you his own opinions.  Good with class discussions though.",
+        "course": "CS36701"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Reff is cool, smart and a fair grader.  He's also not into his own B.S. like a lot of profs.  He cares about students first.",
+        "course": "T"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "One of my favorite profs.",
+        "course": "COMP3670"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.6,
+    "avgRating": 4.8,
+    "department": "Humanities",
+    "firstName": "Mike Joseph",
+    "id": "VGVhY2hlci0zOTE0Mjc=",
+    "lastName": "McVicar",
+    "legacyId": 391427,
+    "numRatings": 21,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Mike is such a great lecturer. He knows exactly what he's talking about and really wants to get his students involved in discussions. I HIGHLY recommend.",
+        "course": "CS4875"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "great!",
+        "course": "CS2367"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He is one of the best teachers I've ever had. You can tell he cares about his students. Feedback given on papers was very helpful making me a better, more organized writer. Though some of the content wasn't fun,it was still taught in a way that made it interesting and I learned a lot. He clearly wants all to succeed and it is refreshing.",
+        "course": "CS2367"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor McVicar was excellent at keeping the class engaged. His assignments were fair and not too difficult. He was always available if someone asked a question or needed help in general.",
+        "course": "COMP2370"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "McVicar is a great teacher. He's very laid back but you have to do the reading and participate in class. The class is very comfortable, so speaking up is pretty easy. He really knows his stuff and is interested and teaching the class. Oh, and he's fun to watch, as previously stated: highly attractive",
+        "course": "COMST367"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Incredibly helpful and easy-going, as long as you play by his rules. Do the work, read, speak up in class, and you're assured a good grade. Willing to make exceptions if you give him a good enough reason within decent time. Also, as mentioned by most others, he is very good looking.",
+        "course": "CS367"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Awesome, great guy. He's ridiculously intellegent and makes class interesting and fun. Keep up with the readings, ask a lot of questions, speak up in class, and ask for help if you need it!",
+        "course": "CS515"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I was already interested in the subject before taking the class, but now I love it even more. He's really knowledgeable about religion, and his lectures are fun and informative. It's not too demanding of a class, and I definitely recommend it. It's one of my favorite classes at OSU.",
+        "course": "CS270"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "He is a very helpful and kind mentor. I thought, at first, that the course was going to be boring; however, I ended up looking forward to class. My friend and I decided to sit towards the front on the first day. Then he walked in. How lucky we were!",
+        "course": "CS100"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "He is a very kind and helpful mentor. The class, at first, didn't seem like it was going to be interesting; however, now I look forward to it. My friend and I decided to sit towards the front on the first day. Then he walked in. How lucky we were! :)",
+        "course": "CS100"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dope teacher, will help you on everything he really loves the subject. Go to class, read and you will get an A.",
+        "course": "CS100"
       },
       {
         "index": 12,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "Contrary to what everyone else has said, it is entirely possible to get an A in this class. I have one. All you have to do is got to the lectures, read the readings, and go over the notes for an hour or two before the quiz. Definantly NOT impossible. This is a very interesing class and I highly recommend taking it.",
-        "course": "CLASSICS222"
+        "difficulty": 5,
+        "comment": "Everybody says how hot he is but he is not nearly as cute as Dr. Brandon. He is a bit of a tool but a useful tool like a Leatherman. He really knows his stuff so don't get into an argument about the effects of early American religious practices and their effect on the engineering of Stromberg 97s because you WILL lose.",
+        "course": "COMP367"
       },
       {
         "index": 13,
-        "rating": 1,
+        "rating": 4,
         "difficulty": 3,
-        "comment": "His powerpoint slides seem like they were made by a ten year old. Nothing seems to be very organized in this class. Most times his lectures and the readings barely overlap, so you've got a****load of information to know for each week's 25 question quiz. He also says there will be no curve but I bet few people will get A's if he doesn't.",
-        "course": "CLASSICS222"
+        "comment": "Very good teacher, grades kinda hard. Go to class cause he is a cutie!",
+        "course": "COMP367"
       },
       {
         "index": 14,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Good lecturer, nice guy. Thick accent though, I missed things that he said here and there. This is a very interesting class.",
-        "course": "CLASSICS222"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Awesome class!!! He is genuinely interested in teaching.  His personality is great/hilarious, and he loves to have open discussions about our readings. It is definitely the best class I have ever taken at OSU. If I missed class I was upset. I looked forward attending it at 9:30 a.m.  And I am not a morning person!!!!! Highly Recommended!!!!",
+        "course": "COMP100"
       },
       {
         "index": 15,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very interesting class!  Mr. McVicar is a total babe, which keeps you coming to class. Little intimidating on the first day but is a very laid back, did I mention goodlooking&#63; teacher.",
+        "course": "CSTDS367"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great guy - really interested in subject and in helping students. Totally easy class - Easy A if you show up.",
+        "course": "36701"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "A fantastic instructor! Very interersting, intelligent and energetic. Very willing to help students. Good class discussions. An easy A or B.  Would definitely recommend him to everyone! Pretty cute too!!",
+        "course": "COMPSTD36701"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "tends to be a tool, but great teacher.  always willing to help students with anything.  just make sure to do the readings and go to class, and you should have no problems.  i would suggest anyone take his class",
+        "course": "CS36701"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He's a little touchy with attendance and on the first day is a little frightening, but he warms up to the class and then is sooooo easy going.  Great class and great discussions!",
+        "course": "CS36701"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He may seem weird at times and may seem like a hardass on the first day of class, but he's really good.  If you do the reading and pay attention in class, this class is easy.  You should have no trouble getting an A or B.",
+        "course": "CS100"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "extremely willing to help students,energetic,great discussions...and damn cute.",
+        "course": "CS100"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 2.4,
+    "department": "Humanities",
+    "firstName": "Roy",
+    "id": "VGVhY2hlci02MDUwNDg=",
+    "lastName": "Koenigsnecht",
+    "legacyId": 605048,
+    "numRatings": 17,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Lectures are outdated and presented on an overhead projector. Extensive group projects. Was not present the day before the midterm to answer questions. Not helpful at all! Midterm prep includes chapter outlines and vocab lists from a dozen books from the library. Very inconvenient. You basically teach yourself this class. He doesn't do anything.",
+        "course": "45200020"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "His class is a waste of time. Take your laptop and get other work done while in class. It's not a hard class but it takes a lot of time to do all the projects. He talks about himself constantly but doesn't return emails and gives too many handouts. Basically the class is just a pain in the ass.",
+        "course": "SHS520"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "I ended up getting an A- in the class which isn't too bad. His mid terms if awful, it is entirely essay, and listing things you need to memorize everything. Other than that this class involves alot of group work. Our class did so bad on the mid term that or final was take home. Dr. K is very boring and full of himself, thank god it over!!!",
+        "course": "SPHS540"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "After 2 classes I can say I still can't stand this guy. He said our midterm would be over general ideas of the material and then tested us over specific details. If you aren't going into speech the whole class is worthless, especially the portfolios. He has no interest in getting to know students and would rather talk about himself for two hours.",
+        "course": "SHS520"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Very boring. He loves to talk about himself and if you flatter him enough and show interest in his life, he will like you. Hes a big shot for the department and you should really get in good with him to further your career. Hard class, but he was head of the national speech and hearing association, so he knows his stuff.",
+        "course": "SSDLFLDFS"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I didn't think he was that bad at all. Concerning his ability to be everything but modest, I have definitely had worst profs then him. I enjoyed lecture, and it was a very easy A.",
+        "course": "SHS230"
+      },
+      {
+        "index": 7,
         "rating": 3,
         "difficulty": 1,
-        "comment": "Easy class, Easy Grader.  Once you get past his European accent you'll understand everything.  Highly recommended for those with Liturature GECs!",
-        "course": "CLASSICS222"
+        "comment": "yes, everything that the other comments have said are true: he's incredibly full of himself. it's hard to handle. BUT! stick in there! it turns out his class is much easier than you originally think. and he truly does know what he's talking about, even if he's a little off of his rocker. i ended up loving it and waking up at 8:30 every day to go.",
+        "course": "SPHS230"
+      },
+      {
+        "index": 8,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "This professor is absolutly full of himself. I learned more about his family and genuis status and the 7000 places he was the president of than about communication. at least he never changes his exams from year to year, so it's really easy to get an A",
+        "course": "SHS230"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He really knows what he's talking about. He is a great teacher, may stray from topics sometimes, but i learned a LOT from this guy. Plus he WANTS everyone to do well in his class and he does everything possible for people to get an A.",
+        "course": "SPHR230"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Easily the most INFURIATING professor at osu.  I've never met anyone more arrogant or annoying in my life.  He goes out of his way to make students look stupid and he never shuts up about how wonderful he is and how he's soooo smart etc, etc.  There's no avoiding him if you're a shs major, but otherwise AVOID HIS CLASSES",
+        "course": "SHS230"
+      },
+      {
+        "index": 11,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Although he can go off on random tangents about his personal life pertaining to his kids etc. He is very knowledgeable of the field and can be used as a great reference in the field. The assignments and tests are real easy if you just come to class and pay attention.",
+        "course": "SHS230"
+      },
+      {
+        "index": 12,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "he loves to hear himself talk and his lectures are ridiculously boring. i think he mentioned his 4.0 GPA that he had all through college at least once or twice a class period. hopefully he'll retire before i ever have to have him again.",
+        "course": "SHS230"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I thought he was very knowledgable and informed.  He does ask for busy work, but if you do it, you learn the material.  I recommend him as a connection if you are going to be in the field.",
+        "course": "SHS530"
+      },
+      {
+        "index": 14,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "He absolutly LOVES to hear himself talk and his lectures are really boring",
+        "course": "SHS230"
+      },
+      {
+        "index": 15,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "makes you do two boring group presentations on standardized tests and then do individual checkouts w/ the ta to show you understand how to give the tests. not hard but just a hassle. lectures are unbearably boring - he constantly talks about himself and how great he is. he should retire and save students the grief of having him as a professor.",
+        "course": "SHS520"
       },
       {
         "index": 16,
         "rating": 1,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "SHS230"
+      },
+      {
+        "index": 17,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "I have never met someone who loves to talk about himself more than this man. His class is interesting, but there are a LOT of notes and lots of boring lecturing.",
+        "course": "SHS230"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 0,
+    "avgRating": 0,
+    "department": "Humanities",
+    "firstName": "Douglas",
+    "id": "VGVhY2hlci0xMDA1NjQ5",
+    "lastName": "Dangler",
+    "legacyId": 1005649,
+    "numRatings": 0,
+    "Ratings": [],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.1,
+    "avgRating": 4.9,
+    "department": "Humanities",
+    "firstName": "Rita",
+    "id": "VGVhY2hlci0xMjE5ODcw",
+    "lastName": "Trimble",
+    "legacyId": 1219870,
+    "numRatings": 9,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "It's hard to find a professor at OSU that actually cares about teaching. Such an overall wonderful woman.",
+        "course": "CS214"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Rita is the best! She genuinely cares about her students and wants them to do well in class. She leads great class discussions and works very hard to make sure students understand the material.",
+        "course": "CS214"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She has go to be the nicest professor I have ever had. She is extremely kind, helpful, and passionate about literature. You have to go to class because you have small groups you work in every class. She grades papers pretty easy but her midterm was kind of difficult because I hadn't read half the books.",
+        "course": "CS361"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She tries very hard to make connections with students. I have never had to hesitate about e-mailing her and she has always gotten back to me on time. She grades fairly and always has interesting subject material to read, although sometimes it gets a little overwhelming depending on how fast you can read. No final. One take-home midterm",
+        "course": "COMPS214"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "very kind lady. she gives lots of reading to do, but i barely did any and i still got an a+ in the end. i would take her class again.",
+        "course": "CS214"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This is one of my favorite classes I have ever taken! She is so incredibly kind and friendly and makes learning fun as cheesy as it sounds. Part of it is the class topic but most of it is Trimble. Picked great materials to read, may seem like a lot but there is almost no work for this class. Super easy but very fun. TAKE IT! Or any class she teache",
+        "course": "CS301"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This class is really interesting and Prof Trimble is incredibly clear and helpful! There is a good amount of reading (7 short novels) and work involved. There are 2 response papers, a group presentation and 1 final formal paper. The work load is a little intimidating but if you do the reading and attend class, it's very do-able. LOVED her!",
+        "course": "COMST301"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I agree with the first poster. I took this class in au'08 and enjoyed it. Rita made this class interesting. I learned alot. highly recommend for a 2nd writing course.",
+        "course": "COMP367"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great prof, really takes an interest in getting to know the students and is very helpful when you ask her questions. She is happy to give you ideas and help develop them for papers. Her Comparative American Religions class was by far my favorite of the quarter, and class discussions were lively and interesting. Highly recommended.",
+        "course": "COMP367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.1,
+    "avgRating": 2.2,
+    "department": "Humanities",
+    "firstName": "Julia",
+    "id": "VGVhY2hlci05NTYzMDU=",
+    "lastName": "Watson",
+    "legacyId": 956305,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Prof. is very knowledgeable, but her opinion stands. She will talk down to you if you do not support her opinion. She talks way too much and repeats herself constantly. Projects were very vague. Very  unorganized and knows very little about technology.",
+        "course": "CS2103"
+      },
+      {
+        "index": 2,
+        "rating": 2,
         "difficulty": 3,
-        "comment": "he sucks",
-        "course": "CLASSICS222"
+        "comment": "Prof. Watson was not a great instructor. Very unapproachable. Talked down to students. Unorganized. No room to disagree with Prof. Watson...her opinion stands!",
+        "course": "CS598"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "If you are really shy or don't like talking about yourself, don't take this class. You have to write papers about yourself. Professor is really disorganized and is vague about details of assignments.",
+        "course": "COSTDH203"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This class has a lot of reading. You MUST do it or you will fail. The test and assignments all cover the books she chooses. She talks a lot during &quot;class&quot; discussion. Be careful when expressing your opinion on the topic, she only likes her own and will grade accordingly. Play the game to get the grade. Interesting material, and mandatory attendance",
+        "course": "COSTD203"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Prof. Watson is very nice, but does need to work on keeping to a schedule and being more organized.  Took a long time to get papers and tests graded.  she is smart and good at her subject but i'm not sure if she should be teaching a 300 level GEC for people who are not as interested in it as her.  overall the content of the class was enjoyable.",
+        "course": "CS301"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "I cannot express how much of a HORRIBLE professor this lady is!   She is unorganized and in her own little world.",
+        "course": "CPSTD301"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "The course description sounded very interesting and I thought this was going to be my favorite class...not so much.  She is very scatterbrained and it gets really annoying REALLY fast.  Class is too long/boring and most days she keeps you past the bell.",
+        "course": "COMPS301"
       }
     ],
     "SEI": []
   },
   {
     "avgDifficulty": 3.3,
-    "avgRating": 2.8,
+    "avgRating": 2.4,
     "department": "Humanities",
-    "firstName": "Eugene",
-    "id": "VGVhY2hlci03MjIxMDA=",
-    "lastName": "Holland",
-    "legacyId": 722100,
-    "numRatings": 11,
+    "firstName": "Anastacia",
+    "id": "VGVhY2hlci0zMDY5MzE=",
+    "lastName": "Smirnova",
+    "legacyId": 306931,
+    "numRatings": 4,
     "Ratings": [
       {
         "index": 1,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "He turned a previously graded A+ paper and after following all his advice gave me a C- for the entire class. I have talked to other professors who all agreed that should not have happened. He is by far the worst professor at OSU. Made me give up academics. Extremely pompous and arrogant and otherwise unpleasant to be around.",
-        "course": "COMPSTD4990"
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "The way she explained concepts were sometimes unclear. Easy grader though. Book not really required to get a good grade. (also, she doesn't post grades on Carmen until the end of the course).",
+        "course": "LING201"
       },
       {
         "index": 2,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "The class was enjoyable and applicable to people of all fields of study! There was a good variety of fiction, nonfiction, and film which really made the concepts discussed come full circle. Films were watched and discussed in class and were great bases for the papers written. Participation is essential to the class but also very helpful to you!",
-        "course": "COMPSTD2104"
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I feel bad for Anastasia.  I think she really wanted us to learn, but no one was interested in the material and she seemed to have a really hard time explaining concepts so that we could understand them.  BUT, she is a nice person and VERY nice grader!! So, the class is hard but as long as you get everything done you will probably end up with an A",
+        "course": "LING201"
       },
       {
         "index": 3,
         "rating": 4,
-        "difficulty": 2,
-        "comment": "This class was a good surprise for me as I was not at all into the subject! 3 essay exams that if (I think) you put effort into them, you'll get decent grades. He's not out to trick students; very fair & on the easygoing side. Go to class b/c participation is important & discussion is valuable! Lots of reading but not too difficult, & it pays off.",
-        "course": "COMPSTD2104"
+        "difficulty": 3,
+        "comment": "I only missed one of her classes...as long as you put in the time for this class you should get a lot out of it!  I really enjoyed her class!",
+        "course": "RUS20101"
       },
       {
         "index": 4,
         "rating": 1,
-        "difficulty": 5,
-        "comment": "Avoid at all costs. Unclear on goals and grading system. Poor communication and unapproachable. Unmotivational. I would never recommend.",
-        "course": "COMPSTD4990"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Dr. Holland is extremely intelligent and knowscares a lot about what he is teaching. Assigned readings were difficult, and he attempted to make them clearer but oftentimes had difficulty communicating his thoughts clearly and helping the conversation go in a productive direction. Easy grader, no tests",
-        "course": "CS4661"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Awesome class! Eugene really knew how to engage the students. I actually enjoyed going to class everyday. He is very helpful and funny.",
-        "course": "CS598"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "He's a nice guy, but unless you are really into french history, you won't enjoy this class. He lectures the entire time. He speaks very well for not being a native speaker. Most people get As and Bs on his exams but you definitely have to study for them (they're completely essay). Class isn't impossible, but isn't easy either.",
-        "course": "FR643"
-      },
-      {
-        "index": 8,
-        "rating": 1,
         "difficulty": 4,
-        "comment": "There are ways of making history class fun and interesting. This guy knows none of these. Make sure your french is good before taking this class because he talks the entire hour and 48 minutes without stopping.",
-        "course": "FREN643"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "okay",
-        "course": "COMPST100"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "He has unclear/vague writing promts some of the time. His class was challenging yet fair. He does have a good sense of humor, but make sure the class takes up the full hour and 48 minutes.",
-        "course": "HCOMPSTUDIES"
-      },
-      {
-        "index": 11,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "I had to drop his class because he makes you read too much.  He seems like a nice guy, but I just never understood what he wanted from his students.  I'm not saying you shouldn't take him, but I did think he was hard.",
-        "course": "COMPSTDSH100"
+        "comment": "class with this ta has been very unpleasant, does not teach concepts well and expects fluidity in speaking and composition without proper instruction",
+        "course": "RUS103"
       }
     ],
     "SEI": []
   },
   {
     "avgDifficulty": 2,
-    "avgRating": 5,
+    "avgRating": 3.6,
     "department": "Humanities",
-    "firstName": "Jibril",
-    "id": "VGVhY2hlci0yNTA5Njc1",
-    "lastName": "Mohamed",
-    "legacyId": 2509675,
-    "numRatings": 1,
+    "firstName": "Karen Sue",
+    "id": "VGVhY2hlci00MDQ5Njc=",
+    "lastName": "Jewell",
+    "legacyId": 404967,
+    "numRatings": 11,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "Horrible professor, head so far up in the air that she doesn't want to listen to anyone with view points that differ from her own racially motivated 'victimization' bull crap.",
+        "course": "AFAM101"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Worst professor I've had in college.  She wrote the textbooks and were some of the worst I've seen.  Most of her research is from NPR and when asked for supporting research she tells you to google it.  If you see her on the schedule drop the class.",
+        "course": "AAAS230"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr.Jewell is an excellent teacher and really knows what she is talking about. She does do alot of talking during lectures but for me it was always informative and interesting. I learned soooo much from her class!Stay up with the readings, go to class, discuss from time to time and you'll do very well!!",
+        "course": "AAAS230"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "This class was so easy. I didnt use the textbook all quarter. Just go to class and take notes on her long lectures and you will be fine. The only hard thing was trying to stay during the class because she talks so long so early on the morning. Just go to bed early the day before and you will be find. An easy A",
+        "course": "AFAM121"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "nice lady, don't get me wrong, but i would NEVER recommend this class. She rambles on and on the WHOLE time,always off subject, which is bad because then she tests you on it. The books that you have to buy are written by her and HORRIBLE. During lecture, she uses &quot;big&quot; words just to prove she can, but she misuses them a lot(which is actually funny)",
+        "course": "AAS230"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "She was sooo boring. All she did was talk through the whole hour and 48 minutes. Sometimes she talked about the class, sometimes she didn't. It was so hard to stay awake even if I was fully rested. The material wasn't difficult but there was only 4 grades so if you scrwed up once, that was the end.",
+        "course": "AFA101"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "The content of the course was very interesting, however, the instructor does not let everyone voice their opinion in regards to the material being discussed.  The readings (which she wrote) were EXTREMELY redundant and not an easy read.  I would recommend the class, but I would NEVER recommend the instructor.",
+        "course": "AFAM230"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "No Comments",
+        "course": "AAS101"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "This class is so easy if you actually go and take notes, but this is hard because she's monotonous and boring as hell.  She is a veyr understanding and nice woman though.",
+        "course": "AFAM101"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great instructor and she really knows her stuff. She gives you plenty of opportunities to do well in her class, however she has an uncanny ability of keeping track of those who pretty much blow off the class. Attend class, participate and the course will become interesting/easier! Vice Versa.",
+        "course": "AFAM101"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She is a really great teacher.  She is very informative.  If you go to class you will get a good grade.",
+        "course": "AFAMS101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.3,
+    "avgRating": 4.7,
+    "department": "Humanities",
+    "firstName": "Loren",
+    "id": "VGVhY2hlci02MjU3MjE=",
+    "lastName": "Geistfeld",
+    "legacyId": 625721,
+    "numRatings": 12,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
+        "difficulty": 1,
+        "comment": "I wen to this class twice and just studied the night before and got an A-. he posts everything online, really nice professor class isnt that boring. if you go to class he give bonus quizes.",
+        "course": "CSFRM243"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great guy!  No textbook.  Tests are straight forward -- he wants students to succeed.  Simply look over the notes on Carmen and you'll do great.  Also attending class helps make the info stick, as he gives many examples.  Also, if you are in Business, I recommend taking this class along with your CS&E 200.",
+        "course": "FRM243"
+      },
+      {
+        "index": 3,
+        "rating": 5,
         "difficulty": 2,
-        "comment": "Great professor! He works hard to make sure you succeed in his course.",
-        "course": "SO1101"
+        "comment": "Extremely nice guy.  Test were not too bad.....gives extra credit sometimes if you come to class.  Did not put much effort into class at all and got a B",
+        "course": "FMRES567"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great professor! No textbook or homework. Test are easy and straight foward. Just study notes he post on Carmen and you'll be good to go.",
+        "course": "FRM243"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Really great teacher. Put up slides on Carmen and there wasn't much need to attend class although he did give out random extra credit for those who were there. No need to attend class regularly to get a B.",
+        "course": "FRM243"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This teacher is amazing. He is EXTREMELY nice and treats the class like a 200 level. The exams are very easy and he is very interesting and you can tell he loves his job and his students.",
+        "course": "CONSC243"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "such an incredibly nice, older, laid back guy. i seriously NEVER went to class and half of the class never showed up either except on exam days. actually does have good lectures though because he covers material that is useful and interesting. i would recommend his class any day. all you have to do is study the slides for his tests.",
+        "course": "FRM243"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easy. You don't have to attend class to get an easy B+!!!",
+        "course": "FRM243"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "awesome guy. he didn't try to rail you on the tests he actually tries to teach you stuff that applies in real life. the test are actually easy if you study at all and I probably learned more from him than most other profs Ive had",
+        "course": "FRM243"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "pretty easy class if you go to lecture, print out the notes before-hand and you just fill in the blanks from his powerpoint slides. study those for the tests and you should get at least a B easily, makes class pretty interesting also, one of the best profs i've had in 3 years at ohio state",
+        "course": "FRM243"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "one of the best at ohio state. he is easy but you will learn and want to go to class. one of my favorites.",
+        "course": "FMRES243"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He's a really nice guy and it's an extremely easy class.  Make sure you read the articles online and read your notes before the exams that will help you out a lot.  He doesn't like the class average to be less than a B so expect a curve if that's the case.",
+        "course": "FMRESM300"
       }
     ],
     "SEI": []

@@ -1,332 +1,219 @@
 [
   {
-    "avgDifficulty": 3,
-    "avgRating": 3.8,
-    "department": "Industrial Engineering",
-    "firstName": "Antonio",
-    "lastName": "Conejo-Navarro",
-    "legacyId": 2107577,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 0,
-        "rating": "5.0",
-        "comment": "Great larning experience! Really recommend his class!"
-      },
-      {
-        "index": 1,
-        "rating": "5.0",
-        "comment": "One of the best"
-      },
-      {
-        "index": 2,
-        "rating": "5.0",
-        "comment": "Hi is one of the best professors period."
-      },
-      {
-        "index": 3,
-        "rating": null,
-        "comment": "Avoid this class as an ISE technical elective unless you have a background in and are very interested in electricity. Terrible, boring, and unclear lecturer. You will learn more from the book than from lectures. Homework assignments take a very long time to do and required multiple tries. Exams are easy if you know the material relatively well."
-      },
-      {
-        "index": 4,
-        "rating": null,
-        "comment": "Only has a few homework assignments in the class, but each takes a LONG time. One assignment took a group of five of us over 12 hours to do. Only one midterm, few homeworks, and the final, so each grade matters quite a bit. Clear exams though, just make sure you prepare for them in advance. Just cause they're open notes doesn't mean they're easy."
-      }
-    ]
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 3.8,
-    "department": "Industrial Engineering",
-    "firstName": "Antonio",
-    "id": "VGVhY2hlci0yMTA3NTc3",
-    "lastName": "Conejo-Navarro",
-    "legacyId": 2107577,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Great larning experience! Really recommend his class!",
-        "course": "ECE5043"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "One of the best\n",
-        "course": "ECE5043"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Hi is one of the best professors period. ",
-        "course": "ECE5043"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Avoid this class as an ISE technical elective unless you have a background in and are very interested in electricity. Terrible, boring, and unclear lecturer. You will learn more from the book than from lectures. Homework assignments take a very long time to do and required multiple tries. Exams are easy if you know the material relatively well.",
-        "course": "ISE5043"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Only has a few homework assignments in the class, but each takes a LONG time. One assignment took a group of five of us over 12 hours to do. Only one midterm, few homeworks, and the final, so each grade matters quite a bit. Clear exams though, just make sure you prepare for them in advance. Just cause they're open notes doesn't mean they're easy.",
-        "course": "ECE5043"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.8,
+    "avgDifficulty": 4,
     "avgRating": 5,
     "department": "Industrial Engineering",
-    "firstName": "Michael",
-    "id": "VGVhY2hlci0yNjcxMTMw",
-    "lastName": "Groeber",
-    "legacyId": 2671130,
-    "numRatings": 4,
+    "firstName": "Samantha",
+    "id": "VGVhY2hlci0yNTg1OTkw",
+    "lastName": "Krening",
+    "legacyId": 2585990,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Groeber was my favorite teacher this semester. The 8 am classes were hard to get up for but he made it worth it. He has excellent examples that are relatable. The labs are interesting and hands-on. Many lab reports but it really solidifies the material for the exams. Office hours definitely worth going to! ",
-        "course": "ISE2500"
+        "difficulty": 4,
+        "comment": "Dr. Krening is a spectacular teacher, and maybe it was because the classes were online and it was the lockdown, but I was entranced by her voice. She is so brilliant, she knows what she's talking about, and she has lived it. its such an an exceptional opportunity to learn from her. I hope to get the chance to meet her in person when COVID ends.",
+        "course": "ISE5700"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 4.7,
+    "department": "Industrial Engineering",
+    "firstName": "Guzin",
+    "id": "VGVhY2hlci0yMjc0MjIy",
+    "lastName": "Bayraksan",
+    "legacyId": 2274222,
+    "numRatings": 6,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great professor! Really cares about her students, and even though some of the assignments took a lot of time, she was always available to help explain things clearly. Would definitely recommend!",
+        "course": "ISE4100"
       },
       {
         "index": 2,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "The goat. Top 5 lecturer I've had at OSU. Exams a little more difficult than you would expect but not bad at all. Pretty funny",
-        "course": "ISE2500"
+        "difficulty": 3,
+        "comment": "Guzin is hands down one of the best professors I have had at OSU within the ISE department. She is extremely caring for her students. She is also a fantastic professor; making difficult and complex topics easy to understand and giving ample practice to apply the material and do well on exams. Highly recommend her and all her classes!",
+        "course": "ISE5350"
       },
       {
         "index": 3,
         "rating": 5,
-        "difficulty": 3,
-        "comment": "There cannot possibly be a better professor to teach this class, at least I cannot imagine one. Just an amazing professor. I would list specifics but there is a word limit. ",
-        "course": "ISE2500"
+        "difficulty": 4,
+        "comment": "The overall experience is the best I've had at OSU engineering school. The class is a good balance between theory and practicality. Her lectures are amazing and the subject is her expertise. The assignments are challenging but definitely worth spending time on.",
+        "course": "ISE6290"
       },
       {
         "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "2500 was fairly difficult, but Prof Groeber made the 8ams worth going to. He is incredibly knowledgeable and is always available for help. The exams were not easy and you will need to study. ",
-        "course": "ISE2500"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.7,
-    "avgRating": 5,
-    "department": "Industrial Engineering",
-    "firstName": "Todd",
-    "id": "VGVhY2hlci0yNzY1NjUz",
-    "lastName": "Schneider",
-    "legacyId": 2765653,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "ISE 2400 was only offered in the evening but Todd made it worthwhile. Participating in the in-class activities almost always ensured a good grade in the exams. Todd is caring, patient, and entertaining, not to mention passionate about teaching. His real-life experiences translate well into a learning setting and the group projects are insightful. ",
-        "course": "ISE2400"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Todd is a very solid, funny professor. The content, to me, was actually really interesting, though I don't know if that is the general consensus. The course is pretty easy, but the two midterms and the finals were always a decent bit harder than the lectures and quizzes would make you think they'd be.",
-        "course": "ISE2400"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Schneider was the perfect professor for this class. Very funny guy who enjoys what he teaches. The only downsides are the course time slot and how many assignments there are. He described the course as \"a 4 credit hour class for 7 weeks\" as opposed to a 2 credit hour course for 7 weeks. The work wasn't difficult, but there was a lot.",
-        "course": "ISE2400"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.1,
-    "avgRating": 3.1,
-    "department": "Industrial Engineering",
-    "firstName": "Sam",
-    "id": "VGVhY2hlci0yMjEzODQx",
-    "lastName": "Davanloo Tajbakhsh",
-    "legacyId": 2213841,
-    "numRatings": 8,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "The material of this class can be very difficult, at least to me. I thought Sam was a very passionate professor and really cared about the material he was teaching. Overall I found his lectures helpful and I think he is a good professor. He doesn't respond to emails unfortunately though so you're forced to go to office hours. ",
-        "course": "ISE3230"
-      },
-      {
-        "index": 2,
         "rating": 4,
         "difficulty": 4,
-        "comment": "Sam is helpful but slow to respond to emails. You need to attend class since he doesn't provide slides with notes, and his handwriting is hard to read. Assignments are time-consuming. The course focuses on problem-solving, requiring both patience and attention to detail. Fortunately, exams are straightforward, based on homework and slides.",
-        "course": "ISE3230"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Homeworks are very tough, lectures are not very helpful, exams are ok if you make sure if spend enough time on homeworks. Unfortunately this is the only section so you cant avoid him",
-        "course": "ISE3230"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Can't avoid his class due to only one section and offered only on SP. Very generous grader doesn't mean that you learn a great deal. Homework take your energy and time significantly so be prepared. As long as you get above 90/100 for all your HW, you are guaranteed to get above B.",
-        "course": "ISE3230"
+        "comment": "She is excited about teaching and obviously loves this subject. She is an effective lecturer, and I truly learned a lot from her. Quiz questions, especially on take home quizzes, can be extremely difficult. I don't think that she realizes this until students give her feedback. Assignments are graded hard. She does not give much help in office hours",
+        "course": "ISE5350"
       },
       {
         "index": 5,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Difficult subject with difficult homework and tests. Fair grader (especially considering difficulty of coursework), and extremely interesting material",
-        "course": "ISE3230"
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Probably one of the toughest graders in ISE (after Ramteen &amp; Sink), still pretty solid choice for a lecturer as she knows how to lecture. The labs in this class are the worst organized labs I have ever seen. This class needs a whole curricular overhaul, but Guzin is a decent teacher at that.",
+        "course": "ISE4100"
       },
       {
         "index": 6,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Can be difficult content and his lecturing skills are average on best. Homework and exams are also difficult but he is good one on one and gives you time on your assignments",
-        "course": "ISE3230"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "hes not great at explaining things in lectures, i had a hard time knowing what was going on. the homework is hard and the exams are hard but hes a very generous grader so it makes up for it. overall not a bad choice, just hard to follow along.",
-        "course": "ISE3230"
-      },
-      {
-        "index": 8,
         "rating": 5,
-        "difficulty": 3,
-        "comment": "Sam was awesome. Really really nice dude. Had him in his first semester at OSU. He was always ready to answer questions in or outside of class. He made each student write a short paper about themselves and bring it to his office hours so he could meet each student. Overall really cool dude and good teacher, would recommend.",
-        "course": "ISE3230"
+        "difficulty": 4,
+        "comment": "This is her research field, which means this is her expertise. She explains things in great detail. We do a little of everything, modeling, proofs and computation. The drawback is we don't have enough time to go through some topics. However, you will be able to learn advanced topics and read relevant research paper  by your own after this class.",
+        "course": "ISE6290"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 3.2,
-    "avgRating": 2.5,
+    "avgDifficulty": 4.4,
+    "avgRating": 3,
     "department": "Industrial Engineering",
-    "firstName": "Chen",
-    "id": "VGVhY2hlci0yMzQ3MTgx",
-    "lastName": "Chen",
-    "legacyId": 2347181,
+    "firstName": "Ramteen",
+    "id": "VGVhY2hlci0xOTk0Njg5",
+    "lastName": "Sioshansi",
+    "legacyId": 1994689,
     "numRatings": 13,
     "Ratings": [
       {
         "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "3200 with Prof. Chen was extremely straightforward. 6 homeworks, and 2 midterms. While attendance isn't mandatory, simply showing up and paying attention would be sufficient to easily get a passing grade in the course. While the content may be dry, Chen explains it very clearly and adds his own touch of humor to it. Highly recommend!",
-        "course": "ISE3200"
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Dr.Ramteen is a tough professor. He treats the class like a weed out course. It is almost impossible to get an A in this class. He does not do many example problems and always makes sure that any example he shows in class is not fully finished. He expects the students to know certain concepts which are not very easy to understand. ",
+        "course": "ISE3210"
       },
       {
         "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "His late day policy for homework was really generous, and helped out a ton throughout the semester, as well as recorded lectures. Class was a positive experience, and tied right into the homework and exams.",
-        "course": "ISE3200"
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Ramteen is a good guy at heart, it just takes some time and effort to figure that out and get to know him. Office hours were really helpful, but it's unfortunate that office hours were one of the only places to get practice problem answers. If you put in work and try your best, you'll get a lot out of the class!",
+        "course": "ISE3210"
       },
       {
         "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great guy, cares about teaching. Does not like when people come to his office hours.",
-        "course": "ISE3200"
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Not a great professor, doesn't help you for exams, and comes off as rude",
+        "course": "ISE3210"
       },
       {
         "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I really enjoyed 3200 with Chen... easy class, straightforward, very knowledgeable, and intelligent professor. He taught a lot of material. I see what people mean about office hours though. Still, take him!\n",
-        "course": "ISE3200"
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I was pretty nervous going into this class after hearing all the horror stories but Ramteen did a great job to dispel those myths. Yes it is a difficult class at times, but if you read the book, do the extra practice he gives, and make an effort to go to office hours and tutorials the class is very reasonable. He grades fairly and is always helpful",
+        "course": "ISE3210"
       },
       {
         "index": 5,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Chen's lectures are very hard to follow but at least his exams are open note. Using the notes makes the tests easier but I don't think he's very clear during class. He uses paper, pen, and WHITE OUT to erase his mistakes. Like just use a pencil. Or an ipad.",
-        "course": "ISE3200"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Lectures are clear and fantastic. However, that's not gonna help you pass the exam. You need to read the textbook. All his homework relates a little to exams. He never gives partial credits. I recommend finding passed students to help you with homework instead of his office hour, it's wasting time! Remeber to give him a bad rating in the end!",
+        "course": "ISE3210"
       },
       {
         "index": 6,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "I was nervous about this class because I read previous reviews. Chen's class was honestly a pretty good experience for me (and I assume my classmates as well). I found his lectures pretty interesting. He goes off on \"tangents\" that are real life and relatable to what we're learning. I have 0 complaints about him tbh.",
-        "course": "ISE3200"
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "He can be intense and intimidating, but if you understand what he expects of you then he will be very helpful. Do NOT ask if you are doing something right, he may or may not lecture you on why he's not going to do that, and it's not pleasant if he does (I would know). If you ask genuine questions, pay attention, do the work, you will at least pass.",
+        "course": "ISE3210"
       },
       {
         "index": 7,
         "rating": 1,
         "difficulty": 5,
-        "comment": "You are going to have to teach yourself all of the material",
-        "course": "ISE5200"
+        "comment": "You have no choice, you still have to take ISE 3210 with him if you are an ISE major. Just to let you know how tough he's grading is. The current average is C in the class. There used to be 70 student in his class, and only around 20 of students at the end of semester. He's generous now, but still get an average C in this class.",
+        "course": "ISE3210"
       },
       {
         "index": 8,
-        "rating": 1,
+        "rating": 4,
         "difficulty": 4,
-        "comment": "Very difficult to follow lectures as they are very theoretical, you'll then be hit with homework and test question that you've never seen and don't know how to answer. Very condescending in office if you don't understand something.",
-        "course": "ISE3200"
+        "comment": "Ramteen is cut and dry on grades. This is a math class so there is a right answer and he won't just give it to you. That being said (with the exception of some &quot;general math topics&quot;), he tests what he teaches and he teaches it well. He has a bad rep but has an awesome dry humor and is very helpful. Treat him like a human; he is pretty cool.",
+        "course": "ISE3210"
       },
       {
         "index": 9,
-        "rating": 1,
+        "rating": 4,
         "difficulty": 4,
-        "comment": "Chen is all over the place. Doesn't explain things clearly and his handwriting is illegible so going back in the notes is a lost cause. To top it off he is incredibly unfriendly and demeaning if you dare to try to get extra help in office hours.",
-        "course": "ISE3200"
+        "comment": "You will learn a ton in this class. He is a scary dude in class--try not to be afraid of him because I really don't think he's actually a bad person. He randomly calls on people in class, so always be prepared. READ THE BOOK. REVIEW THE MATH CONCEPTS LIST AT THE BEGINNING OF THE SEMESTER. DO ASSIGNED PRACTICE PROBLEMS. Don't cheat on homework!!!",
+        "course": "ISE3210"
       },
       {
         "index": 10,
-        "rating": 1,
+        "rating": 5,
         "difficulty": 3,
-        "comment": "I really enjoy my major and liked this class, but he kind of ruined for me this past Spring. You can't ask him any questions otherwise he gets offended that you aren't a PhD expert in the subject the minute you walk into the door. I'm sure there are other professors who do a better job at being a professor out there.",
-        "course": "ISE3200"
+        "comment": "Awesome teacher. Very clear and precise in lectures. Also really cares about the students. The content can be a little tough but he's always willing to help.",
+        "course": "ISE3210"
       },
       {
         "index": 11,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "The class itself was interesting, but he is a terrible teacher. He makes you feel really stupid if you ask any questions relating to the class, and its basically pointless to go to him for help. I would advise taking other professors and Im ashamed Ohio state would hire him to be a professor.",
-        "course": "ISE3200"
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Ramteen pretty much is the worst at setting you up for success. He's really unhelpful and unless you know someone who has all the answers from the previous classes, you're screwed. Even if you go to office hours he won't tell you if you're right or wrong. OH, and theres a midterm worth 20% of your grade the first week, so watch out for that.",
+        "course": "ISE3210"
       },
       {
         "index": 12,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Going to class is basically the same as not going to class. Material isn't that hard but you have to teach yourself literally everything. If you have specific questions office hours can be helpful but good luck figuring out what questions to ask",
-        "course": "ISE3200"
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Dont take this class!",
+        "course": "ISE5840"
       },
       {
         "index": 13,
-        "rating": 1,
+        "rating": 4,
         "difficulty": 4,
-        "comment": "Extremely knowledgeable, but can't teach. His in-class slides aren't impossible to understand, but it takes so much time outside of class to understand them, so going to class useless. Just be aware that you are not getting the easiest, nor are you getting the best 3200 professors by taking him. Avoid if you can, you'll still pass regardless.",
-        "course": "ISE3200"
+        "comment": "Ramteen can be really intimidating but if you go to him for help and get over that he is really really helpful. If you want to do well in his class, go to office hours and get help the moment you think you might be behind",
+        "course": "3210"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 2,
+    "department": "Industrial Engineering",
+    "firstName": "Yannis",
+    "id": "VGVhY2hlci0yODI2MDk1",
+    "lastName": "Korkolis",
+    "legacyId": 2826095,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "The course was pretty easy but the content is extremely dry and was nearly impossible to take at 8 in the morning. Was hard to stay awake through the lectures.",
+        "course": "ISE2500"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Industrial Engineering",
+    "firstName": "Katie",
+    "id": "VGVhY2hlci0yNDY2ODA0",
+    "lastName": "Bush",
+    "legacyId": 2466804,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Survey is a great way to get to know campus and engineering at OSU. Katie is patient and encourages her students to do well and get involved. She is easily approachable and will modify assignments and deadlines if students are overwhelmed with other classes.",
+        "course": "ENGR1120"
       }
     ],
     "SEI": []
@@ -335,80 +222,18 @@
     "avgDifficulty": 3,
     "avgRating": 5,
     "department": "Industrial Engineering",
-    "firstName": "William",
-    "id": "VGVhY2hlci0zMDA2Nzc2",
-    "lastName": "Tullos",
-    "legacyId": 3006776,
+    "firstName": "Eli",
+    "id": "VGVhY2hlci0yNDg1NDQ0",
+    "lastName": "Balkin",
+    "legacyId": 2485444,
     "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 3,
-        "comment": "Favorite professor at Ohio State. Class is so fun, professor is clear with what he wants. Not hard to pass the class at all. It is very hands on and he helps you along the way; as long as you're learning.",
-        "course": "3500"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.9,
-    "avgRating": 5,
-    "department": "Industrial Engineering",
-    "firstName": "Tracy",
-    "id": "VGVhY2hlci0yNzc3ODIz",
-    "lastName": "Owens",
-    "legacyId": 2777823,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Tracy is the best professor I have met at OSU, I look forward to taking more classes with him.",
-        "course": "ISE5810"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Tracy Owens is easily the best professor at Ohio State. Just learning from him is worth the extra work of the L&SS capstone program. He cares about each student individually, will match the effort you put in, and goes above & beyond to apply any feedback he is given! I can't speak highly enough of him.",
-        "course": "ISE5810"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "straightforward lectures, great teaching methods, highly recommend.",
-        "course": "ISE5810"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr.Owens is a great professor. He ensures that all the questions that a student has get answered. ",
-        "course": "ISE5810"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "If you can take this course with Professor Owens, do yourself the favor and do it! Tracy balances being hands-off while also walking with you through this course well. He trusted my group's judgment on decisions, but was always willing to help if need be. The experience gained through this course is priceless. Easy choice to get your green belt!",
-        "course": "BUSOBA4251"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This guy puts the ISE department on his back IMO",
-        "course": "ISE5810"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Best professor I've had at OSU! Can definitely tell how much he cares about Six Sigma and genuinely wants to help each student pass the Green Belt certification class. Definitely have to put in the work outside of class and pay attention during, but it is so worth it",
-        "course": "ISE5810"
+        "comment": "Great lecture, very funny. Cool course and content",
+        "course": "ISE3700"
       }
     ],
     "SEI": []
@@ -574,200 +399,688 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 4.4,
-    "avgRating": 3,
+    "avgDifficulty": 3,
+    "avgRating": 5,
     "department": "Industrial Engineering",
-    "firstName": "Ramteen",
-    "id": "VGVhY2hlci0xOTk0Njg5",
-    "lastName": "Sioshansi",
-    "legacyId": 1994689,
-    "numRatings": 13,
+    "firstName": "William",
+    "id": "VGVhY2hlci0zMDA2Nzc2",
+    "lastName": "Tullos",
+    "legacyId": 3006776,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Dr.Ramteen is a tough professor. He treats the class like a weed out course. It is almost impossible to get an A in this class. He does not do many example problems and always makes sure that any example he shows in class is not fully finished. He expects the students to know certain concepts which are not very easy to understand. ",
-        "course": "ISE3210"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Ramteen is a good guy at heart, it just takes some time and effort to figure that out and get to know him. Office hours were really helpful, but it's unfortunate that office hours were one of the only places to get practice problem answers. If you put in work and try your best, you'll get a lot out of the class!",
-        "course": "ISE3210"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Not a great professor, doesn't help you for exams, and comes off as rude",
-        "course": "ISE3210"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I was pretty nervous going into this class after hearing all the horror stories but Ramteen did a great job to dispel those myths. Yes it is a difficult class at times, but if you read the book, do the extra practice he gives, and make an effort to go to office hours and tutorials the class is very reasonable. He grades fairly and is always helpful",
-        "course": "ISE3210"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Lectures are clear and fantastic. However, that's not gonna help you pass the exam. You need to read the textbook. All his homework relates a little to exams. He never gives partial credits. I recommend finding passed students to help you with homework instead of his office hour, it's wasting time! Remeber to give him a bad rating in the end!",
-        "course": "ISE3210"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "He can be intense and intimidating, but if you understand what he expects of you then he will be very helpful. Do NOT ask if you are doing something right, he may or may not lecture you on why he's not going to do that, and it's not pleasant if he does (I would know). If you ask genuine questions, pay attention, do the work, you will at least pass.",
-        "course": "ISE3210"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "You have no choice, you still have to take ISE 3210 with him if you are an ISE major. Just to let you know how tough he's grading is. The current average is C in the class. There used to be 70 student in his class, and only around 20 of students at the end of semester. He's generous now, but still get an average C in this class.",
-        "course": "ISE3210"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Ramteen is cut and dry on grades. This is a math class so there is a right answer and he won't just give it to you. That being said (with the exception of some &quot;general math topics&quot;), he tests what he teaches and he teaches it well. He has a bad rep but has an awesome dry humor and is very helpful. Treat him like a human; he is pretty cool.",
-        "course": "ISE3210"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "You will learn a ton in this class. He is a scary dude in class--try not to be afraid of him because I really don't think he's actually a bad person. He randomly calls on people in class, so always be prepared. READ THE BOOK. REVIEW THE MATH CONCEPTS LIST AT THE BEGINNING OF THE SEMESTER. DO ASSIGNED PRACTICE PROBLEMS. Don't cheat on homework!!!",
-        "course": "ISE3210"
-      },
-      {
-        "index": 10,
         "rating": 5,
         "difficulty": 3,
-        "comment": "Awesome teacher. Very clear and precise in lectures. Also really cares about the students. The content can be a little tough but he's always willing to help.",
-        "course": "ISE3210"
-      },
-      {
-        "index": 11,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Ramteen pretty much is the worst at setting you up for success. He's really unhelpful and unless you know someone who has all the answers from the previous classes, you're screwed. Even if you go to office hours he won't tell you if you're right or wrong. OH, and theres a midterm worth 20% of your grade the first week, so watch out for that.",
-        "course": "ISE3210"
-      },
-      {
-        "index": 12,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Dont take this class!",
-        "course": "ISE5840"
-      },
-      {
-        "index": 13,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Ramteen can be really intimidating but if you go to him for help and get over that he is really really helpful. If you want to do well in his class, go to office hours and get help the moment you think you might be behind",
-        "course": "3210"
+        "comment": "Favorite professor at Ohio State. Class is so fun, professor is clear with what he wants. Not hard to pass the class at all. It is very hands on and he helps you along the way; as long as you're learning.",
+        "course": "3500"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 2,
-    "avgRating": 2,
+    "avgDifficulty": 2.9,
+    "avgRating": 5,
     "department": "Industrial Engineering",
-    "firstName": "Yannis",
-    "id": "VGVhY2hlci0yODI2MDk1",
-    "lastName": "Korkolis",
-    "legacyId": 2826095,
-    "numRatings": 1,
+    "firstName": "Tracy",
+    "id": "VGVhY2hlci0yNzc3ODIz",
+    "lastName": "Owens",
+    "legacyId": 2777823,
+    "numRatings": 7,
     "Ratings": [
       {
         "index": 1,
-        "rating": 2,
+        "rating": 5,
         "difficulty": 2,
-        "comment": "The course was pretty easy but the content is extremely dry and was nearly impossible to take at 8 in the morning. Was hard to stay awake through the lectures.",
+        "comment": "Tracy is the best professor I have met at OSU, I look forward to taking more classes with him.",
+        "course": "ISE5810"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Tracy Owens is easily the best professor at Ohio State. Just learning from him is worth the extra work of the L&SS capstone program. He cares about each student individually, will match the effort you put in, and goes above & beyond to apply any feedback he is given! I can't speak highly enough of him.",
+        "course": "ISE5810"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "straightforward lectures, great teaching methods, highly recommend.",
+        "course": "ISE5810"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr.Owens is a great professor. He ensures that all the questions that a student has get answered. ",
+        "course": "ISE5810"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "If you can take this course with Professor Owens, do yourself the favor and do it! Tracy balances being hands-off while also walking with you through this course well. He trusted my group's judgment on decisions, but was always willing to help if need be. The experience gained through this course is priceless. Easy choice to get your green belt!",
+        "course": "BUSOBA4251"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This guy puts the ISE department on his back IMO",
+        "course": "ISE5810"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Best professor I've had at OSU! Can definitely tell how much he cares about Six Sigma and genuinely wants to help each student pass the Green Belt certification class. Definitely have to put in the work outside of class and pay attention during, but it is so worth it",
+        "course": "ISE5810"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.2,
+    "avgRating": 2.5,
+    "department": "Industrial Engineering",
+    "firstName": "Chen",
+    "id": "VGVhY2hlci0yMzQ3MTgx",
+    "lastName": "Chen",
+    "legacyId": 2347181,
+    "numRatings": 13,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "3200 with Prof. Chen was extremely straightforward. 6 homeworks, and 2 midterms. While attendance isn't mandatory, simply showing up and paying attention would be sufficient to easily get a passing grade in the course. While the content may be dry, Chen explains it very clearly and adds his own touch of humor to it. Highly recommend!",
+        "course": "ISE3200"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "His late day policy for homework was really generous, and helped out a ton throughout the semester, as well as recorded lectures. Class was a positive experience, and tied right into the homework and exams.",
+        "course": "ISE3200"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great guy, cares about teaching. Does not like when people come to his office hours.",
+        "course": "ISE3200"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I really enjoyed 3200 with Chen... easy class, straightforward, very knowledgeable, and intelligent professor. He taught a lot of material. I see what people mean about office hours though. Still, take him!\n",
+        "course": "ISE3200"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Chen's lectures are very hard to follow but at least his exams are open note. Using the notes makes the tests easier but I don't think he's very clear during class. He uses paper, pen, and WHITE OUT to erase his mistakes. Like just use a pencil. Or an ipad.",
+        "course": "ISE3200"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I was nervous about this class because I read previous reviews. Chen's class was honestly a pretty good experience for me (and I assume my classmates as well). I found his lectures pretty interesting. He goes off on \"tangents\" that are real life and relatable to what we're learning. I have 0 complaints about him tbh.",
+        "course": "ISE3200"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "You are going to have to teach yourself all of the material",
+        "course": "ISE5200"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Very difficult to follow lectures as they are very theoretical, you'll then be hit with homework and test question that you've never seen and don't know how to answer. Very condescending in office if you don't understand something.",
+        "course": "ISE3200"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Chen is all over the place. Doesn't explain things clearly and his handwriting is illegible so going back in the notes is a lost cause. To top it off he is incredibly unfriendly and demeaning if you dare to try to get extra help in office hours.",
+        "course": "ISE3200"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "I really enjoy my major and liked this class, but he kind of ruined for me this past Spring. You can't ask him any questions otherwise he gets offended that you aren't a PhD expert in the subject the minute you walk into the door. I'm sure there are other professors who do a better job at being a professor out there.",
+        "course": "ISE3200"
+      },
+      {
+        "index": 11,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "The class itself was interesting, but he is a terrible teacher. He makes you feel really stupid if you ask any questions relating to the class, and its basically pointless to go to him for help. I would advise taking other professors and Im ashamed Ohio state would hire him to be a professor.",
+        "course": "ISE3200"
+      },
+      {
+        "index": 12,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Going to class is basically the same as not going to class. Material isn't that hard but you have to teach yourself literally everything. If you have specific questions office hours can be helpful but good luck figuring out what questions to ask",
+        "course": "ISE3200"
+      },
+      {
+        "index": 13,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Extremely knowledgeable, but can't teach. His in-class slides aren't impossible to understand, but it takes so much time outside of class to understand them, so going to class useless. Just be aware that you are not getting the easiest, nor are you getting the best 3200 professors by taking him. Avoid if you can, you'll still pass regardless.",
+        "course": "ISE3200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3.8,
+    "department": "Industrial Engineering",
+    "firstName": "Antonio",
+    "id": "VGVhY2hlci0yMTA3NTc3",
+    "lastName": "Conejo-Navarro",
+    "legacyId": 2107577,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great larning experience! Really recommend his class!",
+        "course": "ECE5043"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "One of the best\n",
+        "course": "ECE5043"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Hi is one of the best professors period. ",
+        "course": "ECE5043"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Avoid this class as an ISE technical elective unless you have a background in and are very interested in electricity. Terrible, boring, and unclear lecturer. You will learn more from the book than from lectures. Homework assignments take a very long time to do and required multiple tries. Exams are easy if you know the material relatively well.",
+        "course": "ISE5043"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Only has a few homework assignments in the class, but each takes a LONG time. One assignment took a group of five of us over 12 hours to do. Only one midterm, few homeworks, and the final, so each grade matters quite a bit. Clear exams though, just make sure you prepare for them in advance. Just cause they're open notes doesn't mean they're easy.",
+        "course": "ECE5043"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.1,
+    "avgRating": 3.1,
+    "department": "Industrial Engineering",
+    "firstName": "Sam",
+    "id": "VGVhY2hlci0yMjEzODQx",
+    "lastName": "Davanloo Tajbakhsh",
+    "legacyId": 2213841,
+    "numRatings": 8,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "The material of this class can be very difficult, at least to me. I thought Sam was a very passionate professor and really cared about the material he was teaching. Overall I found his lectures helpful and I think he is a good professor. He doesn't respond to emails unfortunately though so you're forced to go to office hours. ",
+        "course": "ISE3230"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Sam is helpful but slow to respond to emails. You need to attend class since he doesn't provide slides with notes, and his handwriting is hard to read. Assignments are time-consuming. The course focuses on problem-solving, requiring both patience and attention to detail. Fortunately, exams are straightforward, based on homework and slides.",
+        "course": "ISE3230"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Homeworks are very tough, lectures are not very helpful, exams are ok if you make sure if spend enough time on homeworks. Unfortunately this is the only section so you cant avoid him",
+        "course": "ISE3230"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Can't avoid his class due to only one section and offered only on SP. Very generous grader doesn't mean that you learn a great deal. Homework take your energy and time significantly so be prepared. As long as you get above 90/100 for all your HW, you are guaranteed to get above B.",
+        "course": "ISE3230"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Difficult subject with difficult homework and tests. Fair grader (especially considering difficulty of coursework), and extremely interesting material",
+        "course": "ISE3230"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Can be difficult content and his lecturing skills are average on best. Homework and exams are also difficult but he is good one on one and gives you time on your assignments",
+        "course": "ISE3230"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "hes not great at explaining things in lectures, i had a hard time knowing what was going on. the homework is hard and the exams are hard but hes a very generous grader so it makes up for it. overall not a bad choice, just hard to follow along.",
+        "course": "ISE3230"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Sam was awesome. Really really nice dude. Had him in his first semester at OSU. He was always ready to answer questions in or outside of class. He made each student write a short paper about themselves and bring it to his office hours so he could meet each student. Overall really cool dude and good teacher, would recommend.",
+        "course": "ISE3230"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 5,
+    "department": "Industrial Engineering",
+    "firstName": "Michael",
+    "id": "VGVhY2hlci0yNjcxMTMw",
+    "lastName": "Groeber",
+    "legacyId": 2671130,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Professor Groeber was my favorite teacher this semester. The 8 am classes were hard to get up for but he made it worth it. He has excellent examples that are relatable. The labs are interesting and hands-on. Many lab reports but it really solidifies the material for the exams. Office hours definitely worth going to! ",
+        "course": "ISE2500"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "The goat. Top 5 lecturer I've had at OSU. Exams a little more difficult than you would expect but not bad at all. Pretty funny",
+        "course": "ISE2500"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "There cannot possibly be a better professor to teach this class, at least I cannot imagine one. Just an amazing professor. I would list specifics but there is a word limit. ",
+        "course": "ISE2500"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "2500 was fairly difficult, but Prof Groeber made the 8ams worth going to. He is incredibly knowledgeable and is always available for help. The exams were not easy and you will need to study. ",
         "course": "ISE2500"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 3.7,
-    "avgRating": 4.7,
+    "avgDifficulty": 1.7,
+    "avgRating": 5,
     "department": "Industrial Engineering",
-    "firstName": "Guzin",
-    "id": "VGVhY2hlci0yMjc0MjIy",
-    "lastName": "Bayraksan",
-    "legacyId": 2274222,
-    "numRatings": 6,
+    "firstName": "Todd",
+    "id": "VGVhY2hlci0yNzY1NjUz",
+    "lastName": "Schneider",
+    "legacyId": 2765653,
+    "numRatings": 3,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 3,
-        "comment": "Great professor! Really cares about her students, and even though some of the assignments took a lot of time, she was always available to help explain things clearly. Would definitely recommend!",
-        "course": "ISE4100"
+        "difficulty": 2,
+        "comment": "ISE 2400 was only offered in the evening but Todd made it worthwhile. Participating in the in-class activities almost always ensured a good grade in the exams. Todd is caring, patient, and entertaining, not to mention passionate about teaching. His real-life experiences translate well into a learning setting and the group projects are insightful. ",
+        "course": "ISE2400"
       },
       {
         "index": 2,
         "rating": 5,
-        "difficulty": 3,
-        "comment": "Guzin is hands down one of the best professors I have had at OSU within the ISE department. She is extremely caring for her students. She is also a fantastic professor; making difficult and complex topics easy to understand and giving ample practice to apply the material and do well on exams. Highly recommend her and all her classes!",
-        "course": "ISE5350"
+        "difficulty": 1,
+        "comment": "Todd is a very solid, funny professor. The content, to me, was actually really interesting, though I don't know if that is the general consensus. The course is pretty easy, but the two midterms and the finals were always a decent bit harder than the lectures and quizzes would make you think they'd be.",
+        "course": "ISE2400"
       },
       {
         "index": 3,
         "rating": 5,
-        "difficulty": 4,
-        "comment": "The overall experience is the best I've had at OSU engineering school. The class is a good balance between theory and practicality. Her lectures are amazing and the subject is her expertise. The assignments are challenging but definitely worth spending time on.",
-        "course": "ISE6290"
+        "difficulty": 2,
+        "comment": "Professor Schneider was the perfect professor for this class. Very funny guy who enjoys what he teaches. The only downsides are the course time slot and how many assignments there are. He described the course as \"a 4 credit hour class for 7 weeks\" as opposed to a 2 credit hour course for 7 weeks. The work wasn't difficult, but there was a lot.",
+        "course": "ISE2400"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.6,
+    "avgRating": 3.7,
+    "department": "Industrial Engineering",
+    "firstName": "Scott",
+    "id": "VGVhY2hlci0xMDY4MTU5",
+    "lastName": "Sink",
+    "legacyId": 1068159,
+    "numRatings": 15,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "I took Dr Sink for 5810 and am currently in his capstone. You will learn more working with the other students in your class than you will from him. He is very difficult to understand but addresses both academic and life lessons. Do not take his capstone unless you are absolutely certain you want to do process improvement and can handle him.",
+        "course": "ISE5810"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Although the class had really good material, Sink's arrogance and treating students like his servants just ruins it",
+        "course": "ISE5810"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "ISE 5810 was the best class I have taken at Ohio State so far. Dr. Sink does a great job of bringing together ISE tools from many other courses. His focus is pushing students out of their comfort zone and encouraging them to treat the course as if it were a professional training. Great professor and mentor!",
+        "course": "ISE5810"
       },
       {
         "index": 4,
         "rating": 4,
-        "difficulty": 4,
-        "comment": "She is excited about teaching and obviously loves this subject. She is an effective lecturer, and I truly learned a lot from her. Quiz questions, especially on take home quizzes, can be extremely difficult. I don't think that she realizes this until students give her feedback. Assignments are graded hard. She does not give much help in office hours",
-        "course": "ISE5350"
+        "difficulty": 5,
+        "comment": "Dr. Sink's teaching methods are based around pushing students \"outside their comfort zones\".  If you want to make the most of your educational experience and don't mind putting in some extra work, he's the right teacher for the job.  Sidenote,Scott realizes class difficulty and grades accordingly (I've never heard of someone getting lower than a B)",
+        "course": "ISE58101112"
       },
       {
         "index": 5,
         "rating": 4,
-        "difficulty": 4,
-        "comment": "Probably one of the toughest graders in ISE (after Ramteen &amp; Sink), still pretty solid choice for a lecturer as she knows how to lecture. The labs in this class are the worst organized labs I have ever seen. This class needs a whole curricular overhaul, but Guzin is a decent teacher at that.",
-        "course": "ISE4100"
+        "difficulty": 5,
+        "comment": "I have learned the most from the class compared to all other classes I have taken. Dr. Sink will push you and teach you things you will use in your careers. The class is tough, but  you will be further ahead than your peers that chose not to take the class.",
+        "course": "ISE58115812"
       },
       {
         "index": 6,
         "rating": 5,
         "difficulty": 4,
-        "comment": "This is her research field, which means this is her expertise. She explains things in great detail. We do a little of everything, modeling, proofs and computation. The drawback is we don't have enough time to go through some topics. However, you will be able to learn advanced topics and read relevant research paper  by your own after this class.",
-        "course": "ISE6290"
+        "comment": "I learned more from Dr. Sink and his courses than I did in all my other courses combined. That being said, his courses are not for the faint of heart, because he runs them like the real world. You must work hard. But the sheer amount of knowledge and skills you gain are worth the time and energy. And his is always there to help, just talk to him!",
+        "course": "ISE58105812"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Dr. Sink is a unique professor that doesn't treat students like a student, but a young professional going into the real world. A lot of students don't like him because of his methods, but I received a job offer based on materials I learned from his class. If you are looking for a easy class do take it, but if you want to learn I urge you to.",
+        "course": "ISE58105812"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "The real deal.  If you?re looking to just skate by this is not the place for you.  If you are ready to really explore your potential and put in the work he will guide you where you want to go.  He is helpful but you will need to be the one to pull the info. The best and most difficult class I have ever taken.  I would like to learn more.",
+        "course": "ISE680"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "makes you work your ass off and scares everyone with terrible &quot;assessments&quot; which we thought were grades. Stay on his good side. Learned a lot from him but was happy to get out of the class.",
+        "course": "ISE500"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "I like what some one said earlier, painful process. Take the class because you learn but be prepared for stress. Go to office hours.",
+        "course": "ISE500"
+      },
+      {
+        "index": 11,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Extremely difficult class and professor, but you will learn more from him about application to real work than in any other class you will take. Put in the time and it will be worth it.",
+        "course": "ISE694S"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "One of the hardest professors youll ever have, but one of the most helpful.  Very interesting to talk to and learn from.  He definitely has a different way of teaching, but can teach you a lot about the real world.  Cannot slack off in any of his classes.  One of the few professors I've actually enjoyed learning from.",
+        "course": "ENG694S"
+      },
+      {
+        "index": 13,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "don't take him at all!or you gonna suffer through your college life..",
+        "course": "ISE608"
+      },
+      {
+        "index": 14,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Go to class.  Also make office hours and ask a lot of direct questions.  Put effort into improvement in writing substance and formatting.  He expects a lot, but will also do a lot to give you direction.",
+        "course": "ISE500"
+      },
+      {
+        "index": 15,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Be ready for the most frustrating class of your college career. He uses colors to grade papers that don't directly correspond to normal grades. Everything in the class is arbitrary. However, you'll learn how to write a technical paper and how to give presentations. He is very helpful out of class and does want to help. But it's a painful process.",
+        "course": "ISE500"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.5,
+    "department": "Industrial Engineering",
+    "firstName": "Michael",
+    "id": "VGVhY2hlci0yMTA3NTcz",
+    "lastName": "Rayo",
+    "legacyId": 2107573,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great guy, interesting class (3700), not too difficult.  Trying to take his tech elective.",
+        "course": "ISE3700"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Rayo is so cool, you play Mario Kart your first day! Just go to class, do the readings, and listen to him, because you can't just rely on his power points to do well (the concepts are too complicated). Overall one of my favorite lecturers, and a really interesting class!",
+        "course": "ISE3700"
       }
     ],
     "SEI": []
   },
   {
     "avgDifficulty": 4,
-    "avgRating": 5,
+    "avgRating": 4.2,
     "department": "Industrial Engineering",
-    "firstName": "Samantha",
-    "id": "VGVhY2hlci0yNTg1OTkw",
-    "lastName": "Krening",
-    "legacyId": 2585990,
-    "numRatings": 1,
+    "firstName": "Marc",
+    "id": "VGVhY2hlci05NjI1MTI=",
+    "lastName": "Posner",
+    "legacyId": 962512,
+    "numRatings": 7,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Posner was great! Although a little disorganized sometimes, he was a good lecturer overall. He's very fair and generous with grading. Go to his office hours, participate in class, show him that you want to learn. He's very patient with students.",
+        "course": "ISE3200"
+      },
+      {
+        "index": 2,
+        "rating": 4,
         "difficulty": 4,
-        "comment": "Dr. Krening is a spectacular teacher, and maybe it was because the classes were online and it was the lockdown, but I was entranced by her voice. She is so brilliant, she knows what she's talking about, and she has lived it. its such an an exceptional opportunity to learn from her. I hope to get the chance to meet her in person when COVID ends.",
-        "course": "ISE5700"
+        "comment": "A hard course. Marc makes his effort to help students understand the material. He uses his own grading system, and it is fair.",
+        "course": "ISE5200"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "fair grading, hard to follow.",
+        "course": "ISE5200"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Hard class but he really tells you what will be on each test. Also offers extra credit. Makes up his own grading system, but over all its really not that bad. Also looks and sounds like Woody Allen.",
+        "course": "ISE533"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "wow , people think ur hard, well w/e no one like this class anyway, its a waste of time",
+        "course": "ENGIN305"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "not Easy Exams, but Fair Grading,",
+        "course": "ISE533"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "he is very clear on what he expects from students and is fair on grading ... it is a difficult class in nature, but overall is not that hard",
+        "course": "ISE523"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 3.8,
+    "department": "Industrial Engineering",
+    "firstName": "David",
+    "id": "VGVhY2hlci0xOTg5NTI4",
+    "lastName": "Woods",
+    "legacyId": 1989528,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Woods brings extensive experience & deep knowledge to the class.  He is incredibly intelligent and thinks 10x faster than the average person so you have to do your reading, listen closely & ask questions. That being said, he is interested in you participating not repeating, so you will learn to think critically & abstractly if you play along.",
+        "course": "ISE5740"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "David is awesome, & pretty much started this field so you're learning from one of the best (when he lectures, he mainly talks from past experience). He speaks a million miles per minute, but he's always willing to meet with you and answer questions if you're confused. Just do the readings and take notes in class and you'll do great!",
+        "course": "ISE5870"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr Woods has decades of research experience and is a leader in the field - so you're learning from one of the best. You better do the reading and pay attention - be ready to answer challenging questions. ",
+        "course": "ISE5870"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "I now understand the meaning of \"speaking without saying anything at all.\" He spent the entire class talking about how to recognize problems of complexity, but didn't offer any useful suggestions for how to combat it. When you ask him a question, he doesn't take the time to process what you said and instead starts rambling about irrelevant things.",
+        "course": "ISE5870"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.3,
+    "avgRating": 2.1,
+    "department": "Industrial Engineering",
+    "firstName": "Taylan",
+    "id": "VGVhY2hlci0xMDMzNDE2",
+    "lastName": "Alton",
+    "legacyId": 1033416,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Boring lecture, some interesting labs.",
+        "course": "ISE350"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "The lab reports and pre-labs are extremely easy, however the exams are very detail-oriented. Be sure you memorize everything in the 8+ chapters you have to read for each exam. About 25 of the 100+ students actually went to lecture, as you soon realize they're worthless. The labs are freaking awesome though! For reference my 77% was curved to a B.",
+        "course": "ISE311"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Crazy guy under who I was a research assistant. Used to make me grade exams etc even though I had no clue about what was going on.",
+        "course": "MECH819"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "May be it was winter time and we had his class at 8:00 in the morning, it was a very boring class. The carmen pre-labs were tough, the lab reports to be submitted were not organised properly and less than 20% students attended his class.Read the text book and the carmen notes and you will score good. anyhting above B is great in his class.",
+        "course": "ISE311"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 4.5,
+    "department": "Industrial Engineering",
+    "firstName": "Simge",
+    "id": "VGVhY2hlci0xNTA0NDM1",
+    "lastName": "Kucukyavuz",
+    "legacyId": 1504435,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Prepared and organized. She's a great teacher. Ask her questions, she's always at her office hours, replies emails, etc. The class subject is hard, but she tries to make it easier to understand. Don't miss classes and do all homeworks",
+        "course": "ISE720"
       }
     ],
     "SEI": []

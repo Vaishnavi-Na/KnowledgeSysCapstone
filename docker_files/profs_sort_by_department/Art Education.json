@@ -1,165 +1,451 @@
 [
   {
-    "avgDifficulty": 2.5,
-    "avgRating": 2,
+    "avgDifficulty": 2,
+    "avgRating": 4.5,
     "department": "Art Education",
-    "firstName": "James",
-    "lastName": "Sanders",
-    "legacyId": 862183,
-    "numRatings": 8,
+    "firstName": "Jessica",
+    "id": "VGVhY2hlci0yMzU1MTYy",
+    "lastName": "Pissini",
+    "legacyId": 2355162,
+    "numRatings": 2,
     "Ratings": [
       {
-        "index": 0,
-        "rating": null,
-        "comment": "Extremely rude and does not know what he is doing. Very apparently not capable of teaching. The class is straightforward but every interaction with the professor is painful."
-      },
-      {
         "index": 1,
-        "rating": null,
-        "comment": "Extremely rude. The only reason he received a 1 is because it's the lowest possible rating. I would never take his class again."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I loved Professor Pissini, extremely understanding and always wants to hear her students feedback. If your on top of the assignments and follow the student examples you'll do well.",
+        "course": "ARTEDUC2520"
       },
       {
         "index": 2,
-        "rating": null,
-        "comment": "He's so arrogant and is VERY rude when you email him. He acts like his students are always in the wrong however he usually is. He will take the stupidest points off for the art and film worksheets and the stuff he takes off for is not even on the rubric. The class is easy but definitely try to get one of the other professors."
-      },
-      {
-        "index": 3,
-        "rating": null,
-        "comment": "I decided to take his online course. It is very very easy, you do the work on time you get a good grade. BUT he is the RUDEST professor I ever had. I emailed him with a question and he told me that its not his job that im not checking my emails. He then proceeded to send a class message out that was the rudest thing ive ever seen a professor send."
-      },
-      {
-        "index": 4,
-        "rating": null,
-        "comment": "Worst class and worst instructor ever. totally irresponsible person and NEVER give one lecture!!!"
-      },
-      {
-        "index": 5,
-        "rating": null,
-        "comment": "Had no idea what he was doing or how to teach the class. Literally learned not a single thing, has no grading scale just goes subjectively off how much he likes you. Never even learned one thing, just sat in class staring at eachother while he did office work on his computer. Pointless class and professor."
-      },
-      {
-        "index": 6,
-        "rating": "5.0",
-        "comment": "No Comments"
-      },
-      {
-        "index": 7,
-        "rating": "5.0",
-        "comment": "He was absolutely helpful and he wears his clothes so well!"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Jessica was a good professor. She allowed students to flex creative muscle and have a fun time in the class.",
+        "course": "ARTEDUC2520"
       }
-    ]
+    ],
+    "SEI": []
   },
   {
-    "avgDifficulty": 1.3,
-    "avgRating": 3.8,
+    "avgDifficulty": 3,
+    "avgRating": 2,
     "department": "Art Education",
-    "firstName": "Clayton",
-    "lastName": "Funk",
-    "legacyId": 233691,
-    "numRatings": 93,
+    "firstName": "Ruth",
+    "id": "VGVhY2hlci0yNzk1MjY5",
+    "lastName": "Smith",
+    "legacyId": 2795269,
+    "numRatings": 1,
     "Ratings": [
       {
-        "index": 0,
-        "rating": "5.0",
-        "comment": "If you need to take a GE lesson, I would recommend this course with no doubt. Funk's lesson is very interesting. Easy to get an A!"
-      },
+        "index": 1,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "She assigns homework over the weekend that you can't start until Saturday morning and is due Sunday night. Doesn't realize that her class is a GE and people don't want to spend an absurd amount of time on it. Much easier professors for this course. Avoid her.",
+        "course": "ARTEDUC2700"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.6,
+    "avgRating": 3.4,
+    "department": "Art Education",
+    "firstName": "Mark",
+    "id": "VGVhY2hlci0yMzk1Mzk0",
+    "lastName": "McGuire",
+    "legacyId": 2395394,
+    "numRatings": 5,
+    "Ratings": [
       {
         "index": 1,
-        "rating": "5.0",
-        "comment": "Very nice guy, very easy class. No complaints at all. If you need to fulfill your LVP Gen Ed Requirement, I absolutely recommend that you take this class."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Mark is a great professor, he has very clear PDFs for all assignments, and is always happen to clarify any questions. His lectures are pretty light, and the information is presented clearly.",
+        "course": "ARTEDUC4300"
       },
       {
         "index": 2,
-        "rating": "5.0",
-        "comment": "He's a cool dude."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I really hate this Professor, he is awful. I dont know why he gives so many heavy papers need to write as a class that do not calculate for GPA. I feel so bad after do my heave major class work and then still need to do his heavy work, awful! Awful! Awful!",
+        "course": "EDUTL5902"
       },
       {
         "index": 3,
-        "rating": "5.0",
-        "comment": "Probably the easiest class at OSU. Professor Funk seems like a nice and caring guy. You aren't required to go to his lectures, but I recommend you do because he has a passion for teaching and displays interesting information. There isn't any difficulty at all in this class, just be consistent with doing the quizzes each week, and the 2 projects."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Mr. Mark is an amazing teacher. His class is very interesting and very fun to attend. I will recommend you to take this class.",
+        "course": "ARTEDUC2250"
       },
       {
         "index": 4,
-        "rating": "5.0",
-        "comment": "Brilliant professor, 2 papers in total and simple weekly online quiz, both are easy."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Nice professor.",
+        "course": "EDUTL1902"
       },
       {
         "index": 5,
-        "rating": "5.0",
-        "comment": "He's probably the easiest professor I ever had. Would recommend him 10/10."
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "too many papers and discussions",
+        "course": "EDUTL1902"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.6,
+    "avgRating": 4.7,
+    "department": "Art Education",
+    "firstName": "Shari",
+    "id": "VGVhY2hlci04MTY1MjA=",
+    "lastName": "Savage",
+    "legacyId": 816520,
+    "numRatings": 10,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Savage is like the mom that pushes you hard and supports you along the way. Helpful tip, the unit plans for her course WILL take a lot of time, be sure to plan and time manage how you'll get it done because it has to be submitted to the dept at the end of the semester. All in all, Dr. Savage deserves the world, and more. She'll always help you!",
+        "course": "ARTED4200"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Sooooooo easy. She is super nice and interesting even though common people know most of the material already. All important things online, including final.",
+        "course": "ARTED160"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Best teacher ever!",
+        "course": "ART101"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "INCREDIBLE!!!!",
+        "course": "ART101"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "great professor! easy A!",
+        "course": "ARTED367"
       },
       {
         "index": 6,
-        "rating": "5.0",
-        "comment": "Very kind Professor and easy class"
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "nice, easy class, pretty unstructured but a great learning environment.  often class discussion went off topic, but overall a fun class.",
+        "course": "ARTED367"
       },
       {
         "index": 7,
-        "rating": "5.0",
-        "comment": "By far one of the easiest classes I have ever taken. Clayton means well and he understands we have lives outside of school. There were no exams or quizzes and very little homework. Throughout the semester its mainly just group work and then three \"albums.\" He grades very easily as long as you put effort into your work."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "shari was fantastic! definitely take this class!",
+        "course": "ARTED367"
       },
       {
         "index": 8,
-        "rating": "5.0",
-        "comment": "Great professor and person! He brightened my day every time during lecture. The class material is interesting and Professor Funk made it even better."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Very good class to take for your second writing class.  She cares about helping each student and it is not hard at all to get an A.  Topics are usually interesting and the 3 papers weren't bad at all.  Highly recommended!!!",
+        "course": "ARTED367"
       },
       {
         "index": 9,
-        "rating": "4.0",
-        "comment": "very easy and chill class"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Amazing course and teaching.. She genuinely cares for every one of her students; wants to change your outlook and get to know you.  Super easy writing course if you even give it a little effort.  :D  Very interesting too!",
+        "course": "ARTED367"
       },
       {
         "index": 10,
-        "rating": "5.0",
-        "comment": "Take this as ur art GE. Dr. Funk was my supervisor & TA's were nice Lectures r interesting. 1 weekly quiz & 2 big projects, all easy. Discussion posts r ur own thoughts & opinions. Learning about different art such as music, installations, & paintings was cool. U get what u put into this class but easy A with about 1 hour max of work a week."
-      },
-      {
-        "index": 11,
-        "rating": "5.0",
-        "comment": "Dr. Funk was probably the best teacher I have had to date at this school, he is passionate about what he does and is a good lecturer. He always blares music over the speakers for whatever generation you are studying, this was one of my favorite things. You can tell he really cares, only really big projects are two simple essays 10/10 class"
-      },
-      {
-        "index": 12,
-        "rating": "5.0",
-        "comment": "Online was easy, spent about 1 hour/wk on class except the two weeks with projects it maybe took 2 hours. Discussion posts, quizzes, and 2 projects are all you have to do. You really don't have to do all of the reading every week (I rarely did any) to take the quizzes. TAs were great and everyone I know got an A."
-      },
-      {
-        "index": 13,
-        "rating": "5.0",
-        "comment": "very easy GE. take this for ur art credit. online version was 100x easier than in-person bc u can take quizzes ahead of time. quizzes were easy and from textbook. the 2 main projects were easy too. u could spend a max of 20mins per week on this class"
-      },
-      {
-        "index": 14,
-        "rating": "5.0",
-        "comment": "Weekly quizzes but very easy, two big assignments, meets only once a week."
-      },
-      {
-        "index": 15,
-        "rating": "5.0",
-        "comment": "He was a very easy and kind prof with lecture slides posted on Carmen! Attendance was not mandatory. He also responds to emails quickly!"
-      },
-      {
-        "index": 16,
-        "rating": "5.0",
-        "comment": "Awesome professor. I took the course over the summer and it was asynchronous and could be done in your own time, I managed to finish it within 2 days and enjoyed it! Definitely made a GE enjoyable!"
-      },
-      {
-        "index": 17,
-        "rating": "5.0",
-        "comment": "Funk is a great professor. gets back to you fast by email and very casual! class is organized very well. EASY discussions almost every week, easy right out the book quizzes each week, and 2 larger analyzing assignments with plenty of time to complete. this is the easiest/fun class to take for your GE. love prof Funk!!!"
-      },
-      {
-        "index": 18,
-        "rating": "5.0",
-        "comment": "Easiest VPA GE at Ohio State. The class consists of quizzes, 2 papers, and discussions (just remember to do them). The quizzes/discussions are easy and can be completed super quickly and are guaranteed A's. The papers require you to write about a piece of art and a movie. As long as you answer the questions and put effort into these should be A's."
-      },
-      {
-        "index": 19,
-        "rating": "5.0",
-        "comment": "Nice professor, easy A."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "this is the best class i have ever taken, shari is an amazing teacher and i enjoyed going to the class each day! i HIGHLY suggest it as anyone's 2nd level writing, probably a lot easier than some other choices, and definitly more fun",
+        "course": "ARTED36701"
       }
-    ]
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4,
+    "department": "Art Education",
+    "firstName": "Ketal",
+    "id": "VGVhY2hlci0yNjYxNDI3",
+    "lastName": "Patel",
+    "legacyId": 2661427,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Even though the class was asynchronous, I felt like Ketal really cared about our success. She gave very clear instructions and graded fairly. However, the weekly readings and viewings can be time consuming and boring, but once I got adjusted to the class structure, they became much easier to complete.",
+        "course": "ARTEDUC236703"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 2,
+    "department": "Art Education",
+    "firstName": "Michelle",
+    "id": "VGVhY2hlci0yNTQ4NjA4",
+    "lastName": "Attias",
+    "legacyId": 2548608,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Michelle seemed like she wanted to be literally anywhere else. She had no grading criteria and then would take points off for stupid stuff you werent aware you needed to say in your reflection. She was very unorganized and the lectures were all pointless.",
+        "course": "ARTEDUC3900"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Good teacher and class was easy. Took it online and finished all the work for the semester in 1 week. Weekly quizzes and 2 work sheet assignments. You won't find an easier class at osu.",
+        "course": "ARTEDUC1600"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Not the online standard instructor OSU is known for. Inconsistent grading criteria with assignments. Did not provide feedback on weekly discussions regardless if you missed some or no points. Final grades posted to Carmen without acknowledging the semester has ended or wishing students success going forward. Very uncaring, and hands-off.",
+        "course": "ARTEDUC1600"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "The entire course consists of weekly discussions/posts, one Art viewing and one Film review assignment. She ONLY provides feedback on your two viewing assignments but none for the discussions, regardless if you earn all points or not. Her email communication style is very dismissive, curt and uncaring.",
+        "course": "ARTEDUC1600"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 2,
+    "department": "Art Education",
+    "firstName": "Joni",
+    "id": "VGVhY2hlci0yNjcxNjMy",
+    "lastName": "Acuff",
+    "legacyId": 2671632,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "This professor is an amazing BLM activist and cares a lot about encouraging teachers to include a pedagogy for abolitionist teaching overall. However, this professor isnt meant to teach in a school setting. All of the grading is done on paper so I still don't have any grades and its week 18. You have to take this class but be aware you wont like it",
+        "course": "ARTEDUC4000"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 5,
+    "department": "Art Education",
+    "firstName": "Jerome",
+    "id": "VGVhY2hlci0xNTk5Mjc1",
+    "lastName": "Socolof",
+    "legacyId": 1599275,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Based on the first video he made, he seems really chill and really funny. The syllabus quiz was so funny I sent some of the answers to my friends. Based on the powerpoint he made that we have to do to introduce ourselves, I like his humor and I think I'll enjoy this class since I want to major in arts management (sophomore), was a CS major 1st.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Super helpful!  I took the class just because it was about TV, but Jerome's enthusiasm for the material ended up making it one of my favorite classes.  Great class, great TA!",
+        "course": "ARTED367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Art Education",
+    "firstName": "Shannon",
+    "id": "VGVhY2hlci0yNjA2MjM3",
+    "lastName": "Cregg",
+    "legacyId": 2606237,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "There were a lot of papers and attendance/participation were necessary, but the class was a super easy A and there was plenty of extra credit. Shannon was a very nice teacher and understood the students' needs a ton, and aimed to make the gen ed as easy as possible, especially since it was during COVID. Take her if you can and get the book online",
+        "course": "ARTEDUC2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 5,
+    "department": "Art Education",
+    "firstName": "James",
+    "id": "VGVhY2hlci0yNDUyODA5",
+    "lastName": "O'Donnell",
+    "legacyId": 2452809,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "James was a great professor. Course content was interesting, and his lecturing on it was far from boring. I felt challenged by this class, but it didn't consume all my time and add stress to my 19 hour course load. He breaks down concepts in a very understandable way, and then when its time for the final papers you've already mastered those skills!",
+        "course": "ARTEDUC2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4.5,
+    "department": "Art Education",
+    "firstName": "Sujin",
+    "id": "VGVhY2hlci0yMjIwMTg1",
+    "lastName": "Kim",
+    "legacyId": 2220185,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This class was very easy. No exams, just weekly homework, discussions, and a couple projects. As long as you followed the rubric for the projects you should do well. Homework/quizzes you read an article and answered questions. Then the discussions were opinion based, so you should get full points. Highly recommend taking this class for your Art.",
+        "course": "ARTEDUC1600"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "It was online so you don't really get to know the teacher, but ARTEDUC 1600 is an easy GE.",
+        "course": "ARTEDUC1600"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.4,
+    "avgRating": 4.1,
+    "department": "Art Education",
+    "firstName": "Cody",
+    "id": "VGVhY2hlci0xMTQ2Mjkz",
+    "lastName": "Henderhan",
+    "legacyId": 1146293,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Cody is young and fun and knowledgeable",
+        "course": "ARTED367"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "This class was in no way organized. The grades tab consisted of atleast 20 grades from previous quarters that we were not responsible for. The book was horrible and disorganized, and the final was really hard. I got an A, you just had to make sure you kept up on everything (8 quizzes, 5 big essays, 1 final, 3 discussion Qs). An A was a 97 or above.",
+        "course": "ARTE160"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "COdy is an awesome guy and was very open to class discussion and presentations. I enjoed his class.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "GOOD PROF AND FUN CLASS!",
+        "course": "ARTED367"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "ARTED367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4,
+    "department": "Art Education",
+    "firstName": "Ava",
+    "id": "VGVhY2hlci0yNDUzNjg3",
+    "lastName": "Morgan",
+    "legacyId": 2453687,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Ava is a straightforward grader, fairly easy, and gives a nice feedback blurb to all of your discussion posts. We had weekly television viewings (usually 2 episodes of a 30 minute show), online editorials analyzing it, and a short post of about 500 words. A midterm and a final paper. Most posts encouraged the use of TV shows of your choice as well.",
+        "course": "ARTEDUC2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3.5,
+    "department": "Art Education",
+    "firstName": "Hilary",
+    "id": "VGVhY2hlci0yMzk5NzYz",
+    "lastName": "Katz",
+    "legacyId": 2399763,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Easy staff if go to every class and finish homework before deadline.",
+        "course": "ARTEDU2367"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Her teaching style is a bit elementary-activities you do and how she lectures. She requires you to talk in class so get ready to share your opinions on certain pieces of art and the media.",
+        "course": "ARTEDUC2367"
+      }
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 1.3,
@@ -169,672 +455,775 @@
     "id": "VGVhY2hlci0yMzM2OTE=",
     "lastName": "Funk",
     "legacyId": 233691,
-    "numRatings": 95,
+    "numRatings": 96,
     "Ratings": [
       {
         "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "lectures are interesting if you're into art and music. only like 10% of the class was showing up by the middle of the semester - attendance isn't mandatory. i never talked with him but he seems like a cool dude who cares about the class and his students. the quizzes can be tough if you didn't go to lecture but you can take them twice so it's fine",
+        "course": "AAEP1600"
+      },
+      {
+        "index": 2,
         "rating": 4,
         "difficulty": 1,
         "comment": "This class was an easy GE. Expect a discussion post each week, and then the following week is a response to I think 6 other students. You have 2 projects that are time-consuming but easy work. Don't procrastinate. My TA was an easy grader; just don't forget the deadlines. You can not get full credit back for assignments ",
         "course": "1600"
       },
       {
-        "index": 2,
+        "index": 3,
         "rating": 5,
         "difficulty": 1,
         "comment": "Such a fun and spunky guy! The lecture was supposed to be an hour and twenty minutes but he always let us out after 40. I stopped coming to lecture super early in the semester and was still able to do well. Everything is very clear and online accessible. He would always come into class and shake all the students hands which was so sweet!",
         "course": "AAEP1600"
       },
       {
-        "index": 3,
+        "index": 4,
         "rating": 5,
         "difficulty": 1,
         "comment": "If you need to take a GE lesson, I would recommend this course with no doubt. Funk's lesson is very interesting. Easy to get an A!  ",
         "course": "ARTEDU1600"
       },
       {
-        "index": 4,
+        "index": 5,
         "rating": 5,
         "difficulty": 1,
         "comment": "Very nice guy, very easy class. No complaints at all. If you need to fulfill your LVP Gen Ed Requirement, I absolutely recommend that you take this class.",
         "course": "1600"
       },
       {
-        "index": 5,
+        "index": 6,
         "rating": 5,
         "difficulty": 1,
         "comment": "He's a cool dude.",
         "course": "1600"
       },
       {
-        "index": 6,
+        "index": 7,
         "rating": 5,
         "difficulty": 1,
         "comment": "Probably the easiest class at OSU. Professor Funk seems like a nice and caring guy. You aren't required to go to his lectures, but I recommend you do because he has a passion for teaching and displays interesting information. There isn't any difficulty at all in this class, just be consistent with doing the quizzes each week, and the 2 projects.",
         "course": "1600"
       },
       {
-        "index": 7,
+        "index": 8,
         "rating": 5,
         "difficulty": 1,
         "comment": "Brilliant professor, 2 papers in total and simple weekly online quiz, both are easy.",
         "course": "1600"
       },
       {
-        "index": 8,
+        "index": 9,
         "rating": 5,
         "difficulty": 1,
         "comment": "He's probably the easiest professor I ever had. Would recommend him 10/10.  ",
         "course": "1600"
       },
       {
-        "index": 9,
+        "index": 10,
         "rating": 5,
         "difficulty": 1,
         "comment": "Very kind Professor and easy class",
         "course": "ARTED1600"
       },
       {
-        "index": 10,
+        "index": 11,
         "rating": 5,
         "difficulty": 1,
         "comment": "By far one of the easiest classes I have ever taken. Clayton means well and he understands we have lives outside of school. There were no exams or quizzes and very little homework. Throughout the semester its mainly just group work and then three \"albums.\" He grades very easily as long as you put effort into your work. ",
         "course": "ARTED2550"
       },
       {
-        "index": 11,
+        "index": 12,
         "rating": 5,
         "difficulty": 1,
         "comment": "Great professor and person! He brightened my day every time during lecture. The class material is interesting and Professor Funk made it even better.",
         "course": "1600"
       },
       {
-        "index": 12,
+        "index": 13,
         "rating": 4,
         "difficulty": 1,
         "comment": "very easy and chill class",
         "course": "1600"
       },
       {
-        "index": 13,
+        "index": 14,
         "rating": 5,
         "difficulty": 1,
         "comment": "Take this as ur art GE. Dr. Funk was my supervisor & TA's were nice Lectures r interesting. 1 weekly quiz & 2 big projects, all easy. Discussion posts r ur own thoughts & opinions. Learning about different art such as music, installations, & paintings was cool. U get what u put into this class but easy A with about 1 hour max of work a week. ",
         "course": "ART1600"
       },
       {
-        "index": 14,
+        "index": 15,
         "rating": 5,
         "difficulty": 1,
         "comment": "Dr. Funk was probably the best teacher I have had to date at this school, he is passionate about what he does and is a good lecturer. He always blares music over the speakers for whatever generation you are studying, this was one of my favorite things. You can tell he really cares, only really big projects are two simple essays 10/10 class ",
         "course": "ARTED1600"
       },
       {
-        "index": 15,
+        "index": 16,
         "rating": 5,
         "difficulty": 1,
         "comment": "Online was easy, spent about 1 hour/wk on class except the two weeks with projects it maybe took 2 hours. Discussion posts, quizzes, and 2 projects are all you have to do. You really don't have to do all of the reading every week (I rarely did any) to take the quizzes. TAs were great and everyone I know got an A.",
         "course": "ARTED1600"
       },
       {
-        "index": 16,
+        "index": 17,
         "rating": 5,
         "difficulty": 1,
         "comment": "very easy GE. take this for ur art credit. online version was 100x easier than in-person bc u can take quizzes ahead of time. quizzes were easy and from textbook. the 2 main projects were easy too. u could spend a max of 20mins per week on this class",
         "course": "ARTED1600"
       },
       {
-        "index": 17,
+        "index": 18,
         "rating": 5,
         "difficulty": 1,
         "comment": "Weekly quizzes but very easy, two big assignments, meets only once a week. ",
         "course": "ARTEDUC1600"
       },
       {
-        "index": 18,
+        "index": 19,
         "rating": 5,
         "difficulty": 1,
         "comment": "He was a very easy and kind prof with lecture slides posted on Carmen! Attendance was not mandatory. He also responds to emails quickly!",
         "course": "ARTEDU1600"
       },
       {
-        "index": 19,
+        "index": 20,
         "rating": 5,
         "difficulty": 1,
         "comment": "Awesome professor. I took the course over the summer and it was asynchronous and could be done in your own time, I managed to finish it within 2 days and enjoyed it! Definitely made a GE enjoyable!",
         "course": "AAEP1600"
       },
       {
-        "index": 20,
+        "index": 21,
         "rating": 5,
         "difficulty": 1,
         "comment": "Funk is a great professor. gets back to you fast by email and very casual! class is organized very well. EASY discussions almost every week, easy right out the book quizzes each week, and 2 larger analyzing assignments with plenty of time to complete. this is the easiest/fun class to take for your GE. love prof Funk!!!",
         "course": "ARTEDU1600"
       },
       {
-        "index": 21,
+        "index": 22,
         "rating": 5,
         "difficulty": 1,
         "comment": "Easiest VPA GE at Ohio State. The class consists of quizzes, 2 papers, and discussions (just remember to do them). The quizzes/discussions are easy and can be completed super quickly and are guaranteed A's. The papers require you to write about a piece of art and a movie. As long as you answer the questions and put effort into these should be A's.",
         "course": "ARTEDUC1600"
       },
       {
-        "index": 22,
+        "index": 23,
         "rating": 5,
         "difficulty": 1,
         "comment": "Nice professor, easy A.",
         "course": "ARTED1600"
       },
       {
-        "index": 23,
+        "index": 24,
         "rating": 5,
         "difficulty": 1,
         "comment": "Best gen ed class ever. Just put some effort into the weekly quizzes and two assignments (one art piece, one movie response) and you'll get an A.",
         "course": "ARTED1600"
       },
       {
-        "index": 24,
+        "index": 25,
         "rating": 5,
         "difficulty": 1,
         "comment": "You could sleep through this class and probably get at least a B. He really emphasizes students exploring different ways to talk about street art and their own place in the world, this class felt more like I was exploring rather than traditionally learning, which is always appreciated. I took it on top of 15 credits and it was very little time/ wk.",
         "course": "ARTED2550"
       },
       {
-        "index": 25,
+        "index": 26,
         "rating": 5,
         "difficulty": 1,
         "comment": "Easiest class there is. Seriously. Weekly discussion, open book quizzes with two attempts, and an art &amp; movie critique. I had an issue with a quiz grade, and Dr. Funk cleared it up immediately. He publishes all of the modules at once, so you can definitely work ahead! Take this class for your GE requirement, especially during a tough semester.",
         "course": "ARTED1600"
       },
       {
-        "index": 26,
+        "index": 27,
         "rating": 5,
         "difficulty": 1,
         "comment": "I thoroughly enjoyed this class. I learned a lot from both the professor and my classmates through discussion boards. There are weekly quizzes that you can knock out at the beginning of the semester, and the worksheets are easy as long as you put some effort in. Overall this class was super easy and I would take it again in a heartbeat.",
         "course": "ART1600"
       },
       {
-        "index": 27,
+        "index": 28,
         "rating": 5,
         "difficulty": 1,
         "comment": "Best gened that OSU offers. Great professor, easy homework, easy quizzes, few papers and no final. It is a 3 credit hour class that you collectively spend 10 hours in.",
         "course": "ARTEDUC1600"
       },
       {
-        "index": 28,
+        "index": 29,
         "rating": 5,
         "difficulty": 1,
         "comment": "Dr. Funk is kind, caring and clear. He makes it clear that he wants you to learn and makes it easy to succeed in the course. Grading criteria is very clear and it was very possible to do well in this class!",
         "course": "ART1600"
       },
       {
-        "index": 29,
+        "index": 30,
         "rating": 5,
         "difficulty": 1,
         "comment": "Easy GE. short &amp; easy discussion posts once a week, then replies due the next week, then repeat. 13 quizzes, knock them out in the beginning (ans on quizlet/course hero, or easy to find in course material). 2 &quot;papers&quot; (on an art and a film), but are really just a bunch of prompts requiring a paragraph. I only missed 1.5 points w minimal effort.",
         "course": "ARTEDUC1600"
       },
       {
-        "index": 30,
+        "index": 31,
         "rating": 5,
         "difficulty": 1,
         "comment": "Super easy class with very interesting content. All you need to do is put in a small amount of effort and youll get a good grade.",
         "course": "ART1600"
       },
       {
-        "index": 31,
+        "index": 32,
         "rating": 4,
         "difficulty": 1,
         "comment": "This class had 13 quizzes that you could do in one day. It has 2 &quot;big&quot; worksheet papers where you go see art for one and go to a movie theater for another and analyze your experience and the art. Then you just have weekly discussions. Do the work and it's a suuuuper easy A.",
         "course": "ARTED1600"
       },
       {
-        "index": 32,
+        "index": 33,
         "rating": 5,
         "difficulty": 1,
         "comment": "If I'm honest, I didn't pay attention for a single second in this class and still got an A. Funk makes the class super easy with online quizzes and easy papers making up all of your grade. He was great about makeup work and just all around very easy-going. Definitely recommend him for an easy art GE.",
         "course": "ARTED1600"
       },
       {
-        "index": 33,
+        "index": 34,
         "rating": 5,
         "difficulty": 1,
         "comment": "Easiest VPA Gen. Ed. either online or in-person. Online quizzes can all be done at once. Six easy, online discussions. Two worksheets on an artwork and film that are easy A's if you put any effort. Save this class for when you have a tough semester.",
         "course": "AAEP1600"
       },
       {
-        "index": 34,
+        "index": 35,
         "rating": 4,
         "difficulty": 1,
         "comment": "Very interesting course, and well taught. There are guided notes for each lecture, go to lecture and fill them out to do well on weekly online quiz. Other than that there are two &quot;papers&quot; that involve visiting a theater and an art gallery. Kind of fun, graded leniently. Best VPA GE to take. Annoying some sections require an iPad next sem, no need.",
         "course": "ARTEDUC1600"
       },
       {
-        "index": 35,
+        "index": 36,
         "rating": 4,
         "difficulty": 1,
         "comment": "Easiest class at Ohio State, kind of interesting. Weekly, 7 Q Quiz online over class notes and reading. 2 Papers, easily graded, take about an hour each. My recommendation is find someone else in class to share notes on alternate days. He posts note outline before class, you just have to fill in blanks.",
         "course": "ARTED1600"
       },
       {
-        "index": 36,
+        "index": 37,
         "rating": 5,
         "difficulty": 1,
         "comment": "One of the best GE's I've ever taken. The material gets more interesting as the course goes on but stays just as trivial. No exams, just two papers and weekly quizzes. Easiest &quot;A&quot; I've ever earned.",
         "course": "ARTED1600"
       },
       {
-        "index": 37,
+        "index": 38,
         "rating": 5,
         "difficulty": 1,
         "comment": "Very easy A! Notes are fill in the blank and as long as you go to class to get the blanks, then you will get 100's on all the quizzes. No exams, just two worksheets that count as a midterm and final. As long as you put some thought and effort into these assignments you will get an A! The easiest GE at ohio state. Professor is also a great guy.",
         "course": "ARTEDU1600"
       },
       {
-        "index": 38,
+        "index": 39,
         "rating": 5,
         "difficulty": 1,
         "comment": "Eaaaaaasy A. Find a friend in the class where you both can alternate who goes to class to get the notes. Gives the answers to the online quizzes word for word in the notes. Nice guy and very passionate about what he teaches. Lectures are pretty fun. Reading the online textbook is not necessary as the quizzes are all based on lecture.",
         "course": "AAEP1600"
       },
       {
-        "index": 39,
+        "index": 40,
         "rating": 5,
         "difficulty": 1,
         "comment": "Eaaaassssy as can be. Gives the answers to the quizzes word for word in class. Only in the class for 30-40 minutes. Easy a",
         "course": "ARTEDU1600"
       },
       {
-        "index": 40,
+        "index": 41,
         "rating": 5,
         "difficulty": 2,
         "comment": "ARTED 1600 with Funk was the only class i looked forward to each week. As long as you put effort into the Art and Film worksheets, you will get an A. Online lecture quizzes were easy. If you need  to take a Art Gen ed, take this class with Clayton Funk.",
         "course": "ARTED1600"
       },
       {
-        "index": 41,
+        "index": 42,
         "rating": 5,
         "difficulty": 1,
         "comment": "Easy online class. If you are not a complete stick in the mud with no imagination, you can easily complete all of the assignments. The hardest one involved describing two red squares. Most of it is opinion and completion.  He gave me near full credit for an assignment I turned in late. You technically have to go to an exhibit, but I didn't.",
         "course": "ART1600"
       },
       {
-        "index": 42,
+        "index": 43,
         "rating": 5,
         "difficulty": 1,
         "comment": "Great Visual Performing Arts General Education Credit  He is super laid back and funny. Lectures are not mandatory but they are interesting and cool so I go. There is one quiz a week and no midterms or finals. There are 2 art worksheets of which you choose a piece of art and analyze it. Fun and simple class.",
         "course": "ARTEDU1600"
       },
       {
-        "index": 43,
+        "index": 44,
         "rating": 5,
         "difficulty": 1,
         "comment": "easiest GE you can take",
         "course": "ART1600"
       },
       {
-        "index": 44,
+        "index": 45,
         "rating": 5,
         "difficulty": 1,
         "comment": "I really love Clayton. I took this class as an easy GE credit but walked away with a larger understanding of art since 1945. Every lecture has corresponding guided notes where you need to fill in blanks missing from the slides. I ended the class with 100%. Two easy \"papers\" where you're required to visit a museum and see a movie in a theater.",
         "course": "ART1600"
       },
       {
-        "index": 45,
+        "index": 46,
         "rating": 2,
         "difficulty": 2,
         "comment": "For the online class he is a hard grader for opinionated papers and discussion posts. If others do not answer the discussion post in time it affects your grade. Really don't recommend this class unless you are truly interested in art.",
         "course": "ARTED1600"
       },
       {
-        "index": 46,
+        "index": 47,
         "rating": 5,
         "difficulty": 1,
         "comment": "Interesting class. Funk made it fun and had music on while entering and exiting class. Weekly quizzes, super easy. Fill in the blank notes in class 2X per week.2 \"projects\", the Art Worksheet where you answer short-answer type questions regarding a piece of art, very simple. Also the Film worksheet, super easy also. Good class to take for easy A.",
         "course": "ART1600"
       },
       {
-        "index": 47,
+        "index": 48,
         "rating": 4,
         "difficulty": 1,
         "comment": "Funk's 1600 class is far and away the easiest course for credit I've taken at Ohio State. Knock all of the quizzes out in the first week (the answers are online and in the powerpoints) and then all you have the rest of the semester are a film and art worksheet, which take about an hour each. Attendance is mandatory, but you can just use your phone.",
         "course": "ARTEDU1600"
       },
       {
-        "index": 48,
+        "index": 49,
         "rating": 3,
         "difficulty": 2,
         "comment": "I took Dr. Funk to fulfill my visual arts GEC. Although I was not excited about the subject, it was interesting enough due to Funk's lectures. Participation points are taken every class, so don't take it if you plan on skipping a lot. Quiz answers are all online. ",
         "course": "ARTEDUC1600"
       },
       {
-        "index": 49,
+        "index": 50,
         "rating": 5,
         "difficulty": 1,
         "comment": "This guy is awesome! Easy class, he is there for you. Class is mandatory, but not horrible as he usually lets you out early.  He is passionate about students learning and loves what he teaches. This makes for a great class. If you go to class and get assignments done, EASY A.  Would take again in a heartbeat. Clayton, you are awesome!",
         "course": "ART1600"
       },
       {
-        "index": 50,
+        "index": 51,
         "rating": 3,
         "difficulty": 1,
         "comment": "EASY A CLASS",
         "course": "ARTEDU1600"
       },
       {
-        "index": 51,
+        "index": 52,
         "rating": 5,
         "difficulty": 1,
         "comment": "This class was entertaining and an easy filler class.  It was nice to have a gened filled with a class that did not require a ton of work because he knew you had more important classes to worry about.  I would strongly reccomend this class.",
         "course": "ARTED1600"
       },
       {
-        "index": 52,
+        "index": 53,
         "rating": 5,
         "difficulty": 1,
         "comment": "Mr. Funk is great. Certain subtopics are interestingamusing. However, SUPER EASY CLASS!! No tests, just online quizzes, which are easy, and 3-4 papers (nothing too difficult). ALWAYS got out 30 minutes early. Attendance is required. TA's grade your papers generously. Easy A. ",
         "course": "1600"
       },
       {
-        "index": 53,
+        "index": 54,
         "rating": 5,
         "difficulty": 1,
         "comment": "Amazing, super cool and fun class. Class gets out usually around 40 mins early almost every time!",
         "course": "1600"
       },
       {
-        "index": 54,
+        "index": 55,
         "rating": 1,
         "difficulty": 1,
         "comment": "By far one of the worst professors ever. Mandatory attendance for a class where attendance is completely unnecessary, as all quizes/ tests are based off of the book and nothing from lecture is covered. His TA's are mostly incompetent and more than half of them are foreign and you can't understand them. Don't take his course if you can.",
         "course": "ARTEDUC1600"
       },
       {
-        "index": 55,
+        "index": 56,
         "rating": 2,
         "difficulty": 1,
         "comment": "Had the great idea of taking attendance in an auditorium of around 250 people. He takes his subject way too seriously. I'm convinced he's a communist and I'm still on the fence as to whether he's gay or not. The work was crazy easy. Everything is online and he says it's open book. He's cool about that.",
         "course": "ARTSINCE1945"
       },
       {
-        "index": 56,
+        "index": 57,
         "rating": 3,
         "difficulty": 3,
         "comment": "Pretty high expectations for a GEC course. Assigned seating in a lecture hall of 300+ annoying. Mandatory attendance policy is ridiculous (i.e. miss one class, get no points for that week). Grade received highly dependent upon which of 5 TAs you're assigned to. Course title sounds appealing but if you can find another course to satisfy requirement.",
         "course": "AAEP1600"
       },
       {
-        "index": 57,
+        "index": 58,
         "rating": 5,
         "difficulty": 1,
         "comment": "Class was super EASY!! Only think that stinks is that attendance is mandatory. I would definitely try to take it online if at all possible. Material learned in lecture is pointless. However, quizzes and final are online. You need his book in order to answer the quiz questions because he doesn't go over that material in class. Easy class and easy A!",
         "course": "ARTEDU1600"
       },
       {
-        "index": 58,
+        "index": 59,
         "rating": 5,
         "difficulty": 1,
         "comment": "Extremely Helpful and Understanding if you reach out to him.  Also an interesting class, Attendance is not mandatory but is worth points.",
         "course": "ART1600"
       },
       {
-        "index": 59,
+        "index": 60,
         "rating": 2,
         "difficulty": 2,
         "comment": "Funk is the worst teacher I've had in OSU. Attendance is mandatory and graded. His quizzes and final are totally based on the textbook. I didn't learn anything from his lectures, and his textbook is based on his interpretations.",
         "course": "ARTEDU1600"
       },
       {
-        "index": 60,
+        "index": 61,
         "rating": 1,
         "difficulty": 1,
         "comment": "The most useless class ever. Attendance is mandatory and worth a lot of your grade. He literally rambles on about nothing. Lectures are based on HIS opinion and not facts. Everything is online, even the final. He does not respond to emails or even grade anything. His TAs do it all. You have to buy his overpriced book. Easy A but awful class.",
         "course": "POPCULT"
       },
       {
-        "index": 61,
+        "index": 62,
         "rating": 3,
         "difficulty": 1,
         "comment": "This class is definitely an easy A, however you do need the textbook. It's pretty cheap, but all the quizzes and midterm/final are based on the textbook. His lectures are extremely boring and he rambles on too much, but attendance is for a grade. Buy the book and you're set.",
         "course": "ARTED160"
       },
       {
-        "index": 62,
+        "index": 63,
         "rating": 4,
         "difficulty": 2,
         "comment": "He rambles and attendence is useless but it is taken for a grade. Get the textbook because all the online quizzes use it as well as the final exam. Try and write down the questions he uses on the quizzes because alot of them will be used on the final.",
         "course": "ARTED160"
       },
       {
-        "index": 63,
+        "index": 64,
         "rating": 2,
         "difficulty": 1,
         "comment": "Very easy class to get an &quot;A&quot; and the teacher was nice. but if you are actually interested in art like I was, and want to take an interesting class, do not take this one. I am very annoyed I wasted money on this class. I did not learn a thing. He teaches his opinions and the book was scattered, jumping all over the place.",
         "course": "ART160"
       },
       {
-        "index": 64,
+        "index": 65,
         "rating": 1,
         "difficulty": 3,
         "comment": "This is the most worthless professor at OSU. He relied on his TA for everything, graded nothing, and NEVER responded to student emails. I mean seriously, this is an online course, how else are we supposed to ask questions&#63; The book that he wrote is 100% necessary, if you don't buy it you WILL fail. Questions are all based on his interpretations.",
         "course": "ARTED160"
       },
       {
-        "index": 65,
+        "index": 66,
         "rating": 3,
         "difficulty": 1,
         "comment": "Book is so poorly edited, yet absolutely necessary and expensive. ($60) Lots of busy work, but easy. No use in taking the non-online class, because lectures are pointless and not helpful, but mandatory. Kind of ridiculous that an A is a 97+; this is the only class @OSU I've heard of that does that. Boost your GPA, and don't expect to learn anything",
         "course": "ARTED160"
       },
       {
-        "index": 66,
+        "index": 67,
         "rating": 3,
         "difficulty": 2,
         "comment": "This class is almost useless.  If you are a hippy and/or love coming to class on LSD you will enjoy this course.  The topics covered are absolutely ridiculous, and have no relevance to reality (Example: talked about how art can take you to to different places while being there at same time).  Just come to class and read the book for an A.",
         "course": "ARTED160"
       },
       {
-        "index": 67,
+        "index": 68,
         "rating": 4,
         "difficulty": 2,
         "comment": "There is quite a bit of work in this class but its not difficult work. everything is open book so quizzes and the final are really easy. Get Mike Bontempo as a TA if possible. Funk's lectures can get frustrating because he jumps around a lot but there is no need to take notes. Simply go to lecture, pay attention, and it will be interesting.",
         "course": "ARTED160"
       },
       {
-        "index": 68,
+        "index": 69,
         "rating": 3,
         "difficulty": 1,
         "comment": "This is the most useless class I've ever taken in my 3 years at OSU. Easy A but frustrating because you're not learning anything. Lots of pointless busy work, attendance is required, an A is 97%+, and you have to buy his poorly edited $70 book. Can you tell I didn't like this class, haha&#63; Take it only if you're desperate for a GPA booster!",
         "course": "ARTED160"
       },
       {
-        "index": 69,
+        "index": 70,
         "rating": 1,
         "difficulty": 2,
         "comment": "You HAVE to get the book because, oddly enough, the answers you may find to the quiz in encyclopedias or other credible sources don't correspond with the &quot;facts&quot; in Dr. Funk's book. Blah.",
         "course": "ARTED160"
       },
       {
-        "index": 70,
+        "index": 71,
         "rating": 1,
         "difficulty": 5,
         "comment": "this teasher was a disaster...if anyone has to take his class, may the good Lord be with you!",
         "course": "ARTED145"
       },
       {
-        "index": 71,
+        "index": 72,
         "rating": 1,
         "difficulty": 1,
         "comment": "Replace Dr. Funk with a monkey and you may not notice a difference.",
         "course": "ARTED160"
       },
       {
-        "index": 72,
+        "index": 73,
         "rating": 1,
         "difficulty": 1,
         "comment": "Classes are completely incomprehensible. Nothing seems to follow any coherent line of reason. Either that, or the material was so dull I was unable to pay attention.  His quizzes are just fill-in-blank word-for-word copied from Funk's book, which you have to buy. Classes are mandatory even though they are pointless. Easy, but really not worth it.",
         "course": "ARTED160"
       },
       {
-        "index": 73,
+        "index": 74,
         "rating": 2,
         "difficulty": 3,
         "comment": "Lecture is pointless. All the quizzes and exams are online and the questions come straight out of the book.You are required to attend and listen to him stroke his ego.I fell asleep everytime I actually went to class and still passed. The essay assignments are a joke as well. No clear directions are given.",
         "course": "ARTED160"
       },
       {
-        "index": 74,
+        "index": 75,
         "rating": 2,
         "difficulty": 2,
         "comment": "he was terrible, his lectures were boring but you were required to come to class and sign in. he put me to sleep everyday but i was still forced to attend his class because class participation is ten percent of your grade. gives busy work and it is an all around worthless class",
         "course": "ARTED160"
       },
       {
-        "index": 75,
+        "index": 76,
         "rating": 5,
         "difficulty": 1,
         "comment": "Fun class, extremely easy but a lot of works. Just take it to boost GPA, its worth it. Other GEC classes can be boring sometimes, but in this class you get to listen to songs, watch videos, we even watched pulp fiction! so its definitely a fun GPA booster",
         "course": "ARTED160"
       },
       {
-        "index": 76,
+        "index": 77,
         "rating": 1,
         "difficulty": 2,
         "comment": "I don't thick professor understood art or history too well, just focused on Mtv and movies and played a bunch of clips in class like south park and Monty Python to waste everyones time and money.  Attending is required but half the students leave right after signing in and he doesn't do anything about it.",
         "course": "ARTED160"
       },
       {
-        "index": 77,
+        "index": 78,
         "rating": 5,
         "difficulty": 2,
         "comment": "Easy VPA credit, but you need a 97% to get an A.  Boring lectures, however all quizzes and tests are online and open book.  You have to submit papers, the easiness is really dependent on your TA.",
         "course": "ARTED160"
       },
       {
-        "index": 78,
+        "index": 79,
         "rating": 3,
         "difficulty": 1,
         "comment": "The online class is easy. I would recommend it but it sucks that he makes you pay $70 for the book that he wrote (you need it though). It really seems like he's trying to make money off students.",
         "course": "ARTED160D"
       },
       {
-        "index": 79,
+        "index": 80,
         "rating": 1,
         "difficulty": 2,
         "comment": "Funk is the worst.  I can't believe people like him get paid for what they do. This is an easy VPA credit, but I would almost rather do more work to avoid his terrible lectures and busy work.",
         "course": "ARTED160"
       },
       {
-        "index": 80,
+        "index": 81,
         "rating": 1,
         "difficulty": 2,
         "comment": "Could be an interesting class but not well organized.  Attendance was taken but I don't think it counted for anything. Worst part was the grading scale, they changed it from the university scale without telling anyone before the class started.  Overall easy class though",
         "course": "ARTED160"
       },
       {
-        "index": 81,
+        "index": 82,
         "rating": 2,
         "difficulty": 3,
         "comment": "I hated this class too. I took the class online, and nearly everything conflicted. The online dates didn't match the syllabus dates. My TA was incompetent and when I brought it to Professor Funk's attention, he did nothing to fix the problem. The book was a joke. The entire class was a waste of time and money.",
         "course": "ARTED160"
       },
       {
-        "index": 82,
+        "index": 83,
         "rating": 3,
         "difficulty": 1,
         "comment": "Terrible professor. Terrible class. Makes you buy his $70 dollar book that he wrote, only to make you go to lectures where  he lectures from the book that he wrote. Not exciting at all, I did not learn a thing. He is simply in this for the money. Avoid at all costs. But an easy GEC depending on your TA who does all the grading.",
         "course": "ARTED160"
       },
       {
-        "index": 83,
+        "index": 84,
         "rating": 3,
         "difficulty": 2,
         "comment": "Passionate about the subject, and motivated to teach. If you enjoy music/pop culture his class is for you. Personally, it was just an easy/boring GEC. Get Mo Smith for a TA- the man is a genius and really chill",
         "course": "ARTED160"
       },
       {
-        "index": 84,
+        "index": 85,
         "rating": 4,
         "difficulty": 1,
         "comment": "I really liked this class, if you went and took notes it was fine.  Mo Smith was an awesome TA.  Not much work, but you just have to do what little work there is.  Final was open book, open note.  I honestly can't believe anyone didn't like this class.",
         "course": "ARTED160"
       },
       {
-        "index": 85,
+        "index": 86,
         "rating": 1,
         "difficulty": 1,
         "comment": "worst put together class ever. he is an idiot",
         "course": "ART160"
       },
       {
-        "index": 86,
+        "index": 87,
         "rating": 2,
         "difficulty": 1,
         "comment": "Weird guy, lectures are really boring and disorganized, but if you have a good TA the class is bearable. Definitely an Easy A, just do the assigned work",
         "course": "ARTED160"
       },
       {
-        "index": 87,
+        "index": 88,
         "rating": 3,
         "difficulty": 1,
         "comment": "Class is somewhat interesting but Clayton is totally whacked and usually quite confusing.  Class is extremely easy if you do the work.  Attendance is taken in lectures, but find a friend to sign you in and you'll only have to go to a few.  Easy A.",
         "course": "ARTEDU160"
       },
       {
-        "index": 88,
+        "index": 89,
         "rating": 2,
         "difficulty": 1,
         "comment": "Very disorganized, interesting class, if you attend lectures and write a few papers it is an EASY A. He can't spell very well and he words questions very weird. MO Smith is a sweet TA though.",
         "course": "ARTED160"
       },
       {
-        "index": 89,
+        "index": 90,
         "rating": 3,
         "difficulty": 1,
         "comment": "Easy A...somewhat interesting but usually not. hes a nice guy but the class is pretty boring. ashley martin is a great TA though! =)",
         "course": "ARTED160"
       },
       {
-        "index": 90,
+        "index": 91,
         "rating": 2,
         "difficulty": 2,
         "comment": "This class is a mess, it is so disorganized and i realize it's his first time teaching it but it's crazy.",
         "course": "160"
       },
       {
-        "index": 91,
+        "index": 92,
         "rating": 4,
         "difficulty": 4,
         "comment": "It was the first time he taught this course and I have to give him credit for his effort and the intriguing articles we were exposed to.",
         "course": "ARTEDUCATION6"
       },
       {
-        "index": 92,
+        "index": 93,
         "rating": 5,
         "difficulty": 1,
         "comment": "Super nice, super easy. Very easy A. He was very accommodating to any problems you have.",
         "course": "ARTEDU160D"
       },
       {
-        "index": 93,
+        "index": 94,
         "rating": 5,
         "difficulty": 1,
         "comment": "ArtEd 367.01 .. Quite possibly one of the best professors at OSU.. His lectures are very interesting and relevant.. Tests/Quizzes/Papers are straight-forward (he'll let you know way ahead of time what youre expected to know for the tests).. 2 Thumbs Up",
         "course": "36701"
       },
       {
-        "index": 94,
+        "index": 95,
         "rating": 5,
         "difficulty": 1,
         "comment": "Take this class, just show up and write clear grammatically correct papers and you are sure to get an A",
         "course": "ARTEDU367"
       },
       {
-        "index": 95,
+        "index": 96,
         "rating": 5,
         "difficulty": 1,
         "comment": "I took him for Art Education 367.01 He is very easy, helpful, and fun too listen too. This course will knock out 2 GEC's. Your 2nd writing course, and your Visual & Preforming Arts. Take it if you can...A++++",
         "course": "ARTEDU"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Art Education",
+    "firstName": "Tamryn",
+    "id": "VGVhY2hlci0yOTE2MjY4",
+    "lastName": "McDermott",
+    "legacyId": 2916268,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Tamryn is an amazing instructor, she provides very good feedback, is accessible over Carmen and email, and is very understanding about extensions.\n\nThe course itself is reading-heavy and you will write a 600-word discussion post every week + 3 responses, 100 words each. In addition to that, 3 essays: 2, 4, and 5 pages respectively.",
+        "course": "ARTEDUC2700"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.8,
+    "avgRating": 4.6,
+    "department": "Art Education",
+    "firstName": "Miranda",
+    "id": "VGVhY2hlci0yMjQ5MjUz",
+    "lastName": "Koffey",
+    "legacyId": 2249253,
+    "numRatings": 9,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Don't be intimidated by the amount of work in the class! I originally was, but Dr. Koffey is a great professor who gives great feedback and her grading criteria is extremely clear. There was never a question of what she expected in her assignments. She's also one of the fastest graders I've ever had, which is a great bonus. Would recommend",
+        "course": "ARTEDUC2700"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This was a fun class but the attendance policy was a bit much. You had to submit proof if you missed class in order to not lose points. That seems reasonable but I'm not going to get a doctor's note every time I'm too sick to go to class. I would definitely take it!",
+        "course": "ARTEDUC3900"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. Koffey is such a cool person! Her class is very laid back and genuinely fun. You get to do a lot of hands-on projects but also listen to lectures. I recommend!!",
+        "course": "ARTEDUC3900"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "easy and great class! literally took minimal effort except for the worksheets. make sure to follow the rubric and prompt 100% and dont leave anything out because she will notice. great prof and great feedback. take this class (also the worksheets are fun u get to watch a movie and review art)",
+        "course": "ARTEDUC1600"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "There are about 13 simple quizzes for this class and one major assignment thats 100 points. She's super nice and clear with what needs to be done. Take this class if you need an art GE credit!",
+        "course": "ARTEDUC1600"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Miranda was so so great! I was not looking forward to taking an art class because I am definitely not an artist, but Miranda is so understanding and makes everyone feel like they can be an artist. Her assignments are fun and her class is very interactive. She has a great personality and I enjoyed having her!",
+        "course": "ARTEDUC3900"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class &amp; professor made me actually enjoy a 2 hour class on thursdays until 4:10! I LOVED Miranda so much. She is so sweet &amp; caring, &amp; she loves art! She makes sure everyone knows that they are capable of being artists &amp; gave me so much confidence. She is super chill &amp; makes class interesting &amp; fun. It was honestly a break from my other classes",
+        "course": "ARTEDUC3900"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "So easy. A few projects but all graded very easily. No tests or quizzes. Only 5 homework assignments the whole semester. If you show up, you'll pass!",
+        "course": "ARTEDUC3900"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She is an awesome teacher! If you're in education and have to take an art class, take it with her. She makes it fun and useful for future teachers. Really cares about her students being able to take something away from this course that they can use in the future.",
+        "course": "EDUTL3900"
       }
     ],
     "SEI": []
@@ -904,6 +1293,46 @@
         "difficulty": 2,
         "comment": "He was absolutely helpful and he wears his clothes so well!",
         "course": "704"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 5,
+    "department": "Art Education",
+    "firstName": "Elle",
+    "id": "VGVhY2hlci0yODAyMTIx",
+    "lastName": "Pierman",
+    "legacyId": 2802121,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "The online version of this class involved a lot of writing but she actually gives very thorough and helpful feedback. there are a few extra credit opportunities which were helpful. this class was a lot of work but not in a bad way, just a pretty decent time commitment. I actually enjoyed this class a lot and she responds quick to emails/questions. ",
+        "course": "2700"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 3,
+    "department": "Art Education",
+    "firstName": "Travis",
+    "id": "VGVhY2hlci0zMDYxMTA4",
+    "lastName": "Deal",
+    "legacyId": 3061108,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "This class felt disorganized with unclear assignments, little feedback, and Dr. Deal being hard to reach. The textbook was unnecessary. However, he handed out 100% generously, even when work didn't meet the unclear rubric. While it fulfilled the GE requirement, it lacked structure. Take this as you will when trying to fulfill this GE and coursework",
+        "course": "ARTEDUC2700"
       }
     ],
     "SEI": []
@@ -1060,46 +1489,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 4,
-    "avgRating": 5,
-    "department": "Art Education",
-    "firstName": "Elle",
-    "id": "VGVhY2hlci0yODAyMTIx",
-    "lastName": "Pierman",
-    "legacyId": 2802121,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "The online version of this class involved a lot of writing but she actually gives very thorough and helpful feedback. there are a few extra credit opportunities which were helpful. this class was a lot of work but not in a bad way, just a pretty decent time commitment. I actually enjoyed this class a lot and she responds quick to emails/questions. ",
-        "course": "2700"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 3,
-    "department": "Art Education",
-    "firstName": "Travis",
-    "id": "VGVhY2hlci0zMDYxMTA4",
-    "lastName": "Deal",
-    "legacyId": 3061108,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "This class felt disorganized with unclear assignments, little feedback, and Dr. Deal being hard to reach. The textbook was unnecessary. However, he handed out 100% generously, even when work didn't meet the unclear rubric. While it fulfilled the GE requirement, it lacked structure. Take this as you will when trying to fulfill this GE and coursework",
-        "course": "ARTEDUC2700"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.3,
     "avgRating": 3.1,
     "department": "Art Education",
@@ -1190,77 +1579,42 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 1.8,
-    "avgRating": 4.6,
+    "avgDifficulty": 3,
+    "avgRating": 4.8,
     "department": "Art Education",
-    "firstName": "Miranda",
-    "id": "VGVhY2hlci0yMjQ5MjUz",
-    "lastName": "Koffey",
-    "legacyId": 2249253,
-    "numRatings": 9,
+    "firstName": "Ramya",
+    "id": "VGVhY2hlci0yMDI0NjU3",
+    "lastName": "Ravisankar",
+    "legacyId": 2024657,
+    "numRatings": 4,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 1,
-        "comment": "Don't be intimidated by the amount of work in the class! I originally was, but Dr. Koffey is a great professor who gives great feedback and her grading criteria is extremely clear. There was never a question of what she expected in her assignments. She's also one of the fastest graders I've ever had, which is a great bonus. Would recommend",
-        "course": "ARTEDUC2700"
+        "difficulty": 4,
+        "comment": "This professor knows her stuff. She was awesome and I actually learned a lot.",
+        "course": "ARTED2520"
       },
       {
         "index": 2,
         "rating": 4,
-        "difficulty": 2,
-        "comment": "This was a fun class but the attendance policy was a bit much. You had to submit proof if you missed class in order to not lose points. That seems reasonable but I'm not going to get a doctor's note every time I'm too sick to go to class. I would definitely take it!",
-        "course": "ARTEDUC3900"
+        "difficulty": 3,
+        "comment": "Fun class. Great TA",
+        "course": "ARTED2520"
       },
       {
         "index": 3,
         "rating": 4,
         "difficulty": 2,
-        "comment": "Dr. Koffey is such a cool person! Her class is very laid back and genuinely fun. You get to do a lot of hands-on projects but also listen to lectures. I recommend!!",
-        "course": "ARTEDUC3900"
+        "comment": "Fun. learned alot. ",
+        "course": "ARTED2520"
       },
       {
         "index": 4,
         "rating": 5,
         "difficulty": 3,
-        "comment": "easy and great class! literally took minimal effort except for the worksheets. make sure to follow the rubric and prompt 100% and dont leave anything out because she will notice. great prof and great feedback. take this class (also the worksheets are fun u get to watch a movie and review art)",
-        "course": "ARTEDUC1600"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "There are about 13 simple quizzes for this class and one major assignment thats 100 points. She's super nice and clear with what needs to be done. Take this class if you need an art GE credit!",
-        "course": "ARTEDUC1600"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Miranda was so so great! I was not looking forward to taking an art class because I am definitely not an artist, but Miranda is so understanding and makes everyone feel like they can be an artist. Her assignments are fun and her class is very interactive. She has a great personality and I enjoyed having her!",
-        "course": "ARTEDUC3900"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This class &amp; professor made me actually enjoy a 2 hour class on thursdays until 4:10! I LOVED Miranda so much. She is so sweet &amp; caring, &amp; she loves art! She makes sure everyone knows that they are capable of being artists &amp; gave me so much confidence. She is super chill &amp; makes class interesting &amp; fun. It was honestly a break from my other classes",
-        "course": "ARTEDUC3900"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "So easy. A few projects but all graded very easily. No tests or quizzes. Only 5 homework assignments the whole semester. If you show up, you'll pass!",
-        "course": "ARTEDUC3900"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She is an awesome teacher! If you're in education and have to take an art class, take it with her. She makes it fun and useful for future teachers. Really cares about her students being able to take something away from this course that they can use in the future.",
-        "course": "EDUTL3900"
+        "comment": "She is awesome! This class was great I learned a lot and I had fun",
+        "course": "2520"
       }
     ],
     "SEI": []
@@ -1269,18 +1623,393 @@
     "avgDifficulty": 3,
     "avgRating": 5,
     "department": "Art Education",
-    "firstName": "Tamryn",
-    "id": "VGVhY2hlci0yOTE2MjY4",
-    "lastName": "McDermott",
-    "legacyId": 2916268,
+    "firstName": "Charles",
+    "id": "VGVhY2hlci0yMTM1MTgz",
+    "lastName": "Calhoun",
+    "legacyId": 2135183,
     "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 3,
-        "comment": "Tamryn is an amazing instructor, she provides very good feedback, is accessible over Carmen and email, and is very understanding about extensions.\n\nThe course itself is reading-heavy and you will write a 600-word discussion post every week + 3 responses, 100 words each. In addition to that, 3 essays: 2, 4, and 5 pages respectively.",
-        "course": "ARTEDUC2700"
+        "comment": "He helped me develop my writing style beyond what previous professors have by encouraging me to think outside the box. Very funny and intelligent, so classes are engaging. Also, he was more understanding than most professors when students encountered personal problems. Some professors at OSU let you get lost in the crowd; he actually cares.",
+        "course": "ARTEDUC2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3,
+    "department": "Art Education",
+    "firstName": "Sonia",
+    "id": "VGVhY2hlci0yMDE2NzUw",
+    "lastName": "Bassheva Manjon",
+    "legacyId": 2016750,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Don't buy the books, you can do it with out them! Just attend, be ready for group project after group project, and don't wait to start your mid term paper.",
+        "course": "ARTEDUC3680"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 3.5,
+    "department": "Art Education",
+    "firstName": "Heather",
+    "id": "VGVhY2hlci0yMDAwNTEz",
+    "lastName": "Kaplan",
+    "legacyId": 2000513,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "She talks SO MUCH. A simple question will turn into a 15 minute discussion. Just prepare to hear her talk A LOT. Besides that, her class is super easy and she's really cool. All readings are on Carmen. She has due dates for assignments but she will take anything for full credit as long as it is turned in before grades are due.",
+        "course": "ARTEDUC3900"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.7,
+    "avgRating": 5,
+    "department": "Art Education",
+    "firstName": "Allison",
+    "id": "VGVhY2hlci0yMDkzOTk2",
+    "lastName": "Paul",
+    "legacyId": 2093996,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Amazing person and fantastic instructor.",
+        "course": "2250S"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I loved this class. I took it in Autumn and we worked with the kids at an elementary school near by. I recommended it to all of my friends. At some points it can be hard if the kids don't listen to you, but overall super easy and I loved her as a teacher.",
+        "course": "2520S"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class will surely open your eyes to the world around you. It is enlightening and refreshing to learn material that is applicable to my every day life.",
+        "course": "2520S"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 2.4,
+    "department": "Art Education",
+    "firstName": "Hyunju",
+    "id": "VGVhY2hlci0yMTI4NDM0",
+    "lastName": "Kim",
+    "legacyId": 2128434,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Can be VERY hard to understand at times. She is not good at communicating what she wants done for projects/homework. Attendance is mandatory. There is a lot of extensive homework that is only for participation points. Doesn't put any grades in until the end, so you have no idea how you're doing.",
+        "course": "ARTEDU2520"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Assignments are easy but you can easily get behind by missing class. Understandable about abscences but you have to communicate with her. Fun class, learned a lot. Good GE to take.",
+        "course": "ARTEDU2520"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "This Professor is extremely difficult to understand and she assumes that you already know how to work things dealing with digital art. She gives little instructions and is confusing on what she wants. This Professor acts like her class is above everything and does not put grades in so you have no idea how you are doing in the class.",
+        "course": "ARTDUC2520"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "The course, Digital Art, is generally easy. There are no actual tests in this class, you will just have 3 assignments and 1 final project. The course goes over Photoshop, iMovie, and some other software. Would be easy if you had some background. Her project descriptions can be VERY vague and confusing. She is somwtimes difficult to understand.",
+        "course": "ARTEDU2520"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.7,
+    "avgRating": 3.9,
+    "department": "Art Education",
+    "firstName": "Brea",
+    "id": "VGVhY2hlci0xNjMxODAx",
+    "lastName": "Heidelberg",
+    "legacyId": 1631801,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "While Brea is an interesting instructor and knows a lot about nonprofit entertainment and arts, she developed an attitude with my class throughout the term. If you take her, do exactly as she says (nothing more, nothing less) and be prepared in case she demands more than she initially states.",
+        "course": "EAM130"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Brea is extremely helpful and the class discussions are interesting and fun. I didn't mind mandatory attendance because you watch TV... Well worth it!",
+        "course": "ARTED367"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Brea is a good teacher. If you put effort into all your work, show up to class you will get a good grade, and learn a lot about TV",
+        "course": "ARTED367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.1,
+    "department": "Art Education",
+    "firstName": "Karen",
+    "id": "VGVhY2hlci0xMjQyNjEy",
+    "lastName": "Hutzel",
+    "legacyId": 1242612,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Amazing research course for art educators! She was passionate about the course and concerned for students success and understanding. I highly recommend her course.",
+        "course": "ARTED705"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Excellent course! It totally changed the way I teach and interact with my students. Dr. H was always available and supportive. The assignments were practical and challenging. I highly recommend the course.",
+        "course": "ARTED767"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very engaging course; caring instructor; challenging and interesting.",
+        "course": "ARTED795"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is passionate and engaged. She is definitely out to help her students. I would recommend her to fellow ArtEd grad students.",
+        "course": "ARTED600"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "She refuses to email back, communication outside is poor at best.  Her attendance policy is ridiculous, and the bookwork for the class is absolutely ridiculous.  The book that was chosen for this class was really horrible and I feel that the majority of my classmates disliked it just as much as I did.  Overall.. absolute nightmare of a class.",
+        "course": "ARTED705"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Definitley one of the best professors in the department. Assignments are clear and while the class can be difficult she is an amazing instructor with clear passion for the field.",
+        "course": "ARTED1"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "She assigns so much work that no one would ever be able to complete it all even if they had no other classes. Its impossible to learn anything from her because you can't focus on any assignment for more than a minute. This sucks because most likely this is going to be your career. And you probably have to take her class...",
+        "course": "AE607"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 3.4,
+    "department": "Art Education",
+    "firstName": "Jennifer",
+    "id": "VGVhY2hlci0xMDY0MzE0",
+    "lastName": "Miller",
+    "legacyId": 1064314,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "learned a lot about diversity, fair trade, and stereotypes. as long as you participate and attend class, it's not too hard to get a good grade.",
+        "course": "AE367"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "I learned a lot. She had an open door policy and cared about her students. Often had field trips.",
+        "course": "AE367"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "jen miller was the worst teacher i've ever had. only talked about her own interests & her stupid native american daughter. made other opinions feel worthless. took up every last minute of her 2 1/2 hours of class. never let out early. also, INCREDIBLY boring. DO NOT TAKE HER.",
+        "course": "AEDU367"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "AE367"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Loved talking about her &quot;Native American&quot; daughter. Need to go to class for a good grade. Never let us out early",
+        "course": "ARTED367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 3.5,
+    "department": "Art Education",
+    "firstName": "Kate",
+    "id": "VGVhY2hlci0xNzgwOTEw",
+    "lastName": "Collins",
+    "legacyId": 1780910,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The class was easy and the expectations were straightforward. The grading was fair and there were many opportunities to earn extra credit. There was, however, a significant amount of homework--lots of readings and about one paper due each week. Professor always took feedback from class and adjusted based on that. Can't say I learned much though.",
+        "course": "ARTEDUC236701"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Kate teaches a GEC ART EDU class. Her expectations for the course are outlandish as are her assignments. Grade gets lowered by a + or - for EVERY unexcused absence. Kate also assigns a paper (sometimes 2) every single week of the semester. She then turns around and grades them unnecessarily hard. She has no concept that this class is GEC. AWFUL",
+        "course": "ARTED2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.6,
+    "department": "Art Education",
+    "firstName": "Curtis",
+    "id": "VGVhY2hlci0xNjMxOTU4",
+    "lastName": "Vance",
+    "legacyId": 1631958,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "very dedicated to work and makes sure that students understand what they are doing, i had a great time with him and always responded to emails.",
+        "course": "CS1101"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "This is the required capstone class for the major, and Professor Vance is a great instructor for the course. Not a lot of material to cover in lectures, but he serves as a good resource in directing you for your final project. ",
+        "course": "PUBAFRS4010"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Vance is a great guy. If you show up to every class and turn in your assignments its an easy A.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "All work is in class , so you must attend to get an A. Vance is a good professor, wiling to work with you. He uses things in the media to discuss societal issues and you have some interesting discussions in class. You have to write papers, do presentations, and have a few in class writing assignments.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Watch a lot of awesome videos in class. Nothing too strenuous as far as material goes. Just group work analyzing cultural symbols etc.",
+        "course": "ARTED367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 1.5,
+    "department": "Art Education",
+    "firstName": "Toni",
+    "id": "VGVhY2hlci0xMTAyOTA3",
+    "lastName": "Smith",
+    "legacyId": 1102907,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "This class was a drag, I didn't like it very much at all.  It was boring but she tried to keep it interesting by playing different music videos but it seemed that she isn't good with technology.  Participation is a must, so show up to class and participate a lot!!",
+        "course": "ARTED1600"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "She assignments due less then twenty-four hours via email. I was fine because I always check but other students didn't until hours or minutes before the class. Extremely unorganized and she takes it out on the class.",
+        "course": "ARTED"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Worst class ever. She seems to want to help but technologically incapable, didn't know the schedule. Late to class, late to office hours (20 min. late!). In class activities are completely different from what she wants in papers (which is most of grade). Extremely unclear. AVOID at all costs.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Really laid back. VERY unclear on what she wants. she uses other teachers syllabus, so she doesn't even know what assignments are due. BORING 2.5 hour classes. NOT recommended!",
+        "course": "ARTED367"
       }
     ],
     "SEI": []
@@ -1289,154 +2018,482 @@
     "avgDifficulty": 2,
     "avgRating": 4.5,
     "department": "Art Education",
-    "firstName": "Jessica",
-    "id": "VGVhY2hlci0yMzU1MTYy",
-    "lastName": "Pissini",
-    "legacyId": 2355162,
+    "firstName": "Katy",
+    "id": "VGVhY2hlci0yMTk5NjY1",
+    "lastName": "Treitmaier",
+    "legacyId": 2199665,
     "numRatings": 2,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 2,
-        "comment": "I loved Professor Pissini, extremely understanding and always wants to hear her students feedback. If your on top of the assignments and follow the student examples you'll do well.",
-        "course": "ARTEDUC2520"
+        "comment": "Katy is great. Young and enthusiastic, it is clear she loves teaching and helping students however she can. Participation heavy class, with lots of TV viewings and reflection afterwards. She is a fair grader, put in effort and you will get an A.",
+        "course": "ARTEDUC2367"
       },
       {
         "index": 2,
         "rating": 4,
         "difficulty": 2,
-        "comment": "Jessica was a good professor. She allowed students to flex creative muscle and have a fun time in the class.",
-        "course": "ARTEDUC2520"
+        "comment": "Katy is awesome. Super laid back and really relatable. We watch new tv shows and talk about them every class. 3 small papers and an easy group presentation. I would definitely take this class and anything else taught by Katy.",
+        "course": "ARTEDUC2367"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 3,
-    "avgRating": 2,
+    "avgDifficulty": 1.8,
+    "avgRating": 4.8,
     "department": "Art Education",
-    "firstName": "Ruth",
-    "id": "VGVhY2hlci0yNzk1MjY5",
-    "lastName": "Smith",
-    "legacyId": 2795269,
-    "numRatings": 1,
+    "firstName": "Insul",
+    "id": "VGVhY2hlci04OTM5OTE=",
+    "lastName": "Kim",
+    "legacyId": 893991,
+    "numRatings": 6,
     "Ratings": [
       {
         "index": 1,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "She assigns homework over the weekend that you can't start until Saturday morning and is due Sunday night. Doesn't realize that her class is a GE and people don't want to spend an absurd amount of time on it. Much easier professors for this course. Avoid her.",
-        "course": "ARTEDUC2700"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 2,
-    "department": "Art Education",
-    "firstName": "Michelle",
-    "id": "VGVhY2hlci0yNTQ4NjA4",
-    "lastName": "Attias",
-    "legacyId": 2548608,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Michelle seemed like she wanted to be literally anywhere else. She had no grading criteria and then would take points off for stupid stuff you werent aware you needed to say in your reflection. She was very unorganized and the lectures were all pointless.",
-        "course": "ARTEDUC3900"
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I am not sure she still teachs this course (i took this course a year ago, lol). She is a total package -super sexy, super intelligent",
+        "course": "AE367"
       },
       {
         "index": 2,
         "rating": 5,
         "difficulty": 1,
-        "comment": "Good teacher and class was easy. Took it online and finished all the work for the semester in 1 week. Weekly quizzes and 2 work sheet assignments. You won't find an easier class at osu.",
-        "course": "ARTEDUC1600"
+        "comment": "Insul is very nice, really helpful and flexible. Course consisted of 3 short quizzes and 3 papers; 2 of which were only 2-3pg and the final was only 5-7. She also had us do 5-10min presentations for 2 of the 3 papers. She's really good about letting you pick any topic that interests you. All the readings are short and easy. I HIGHLY recommend her!",
+        "course": "ARTED367"
       },
       {
         "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Not the online standard instructor OSU is known for. Inconsistent grading criteria with assignments. Did not provide feedback on weekly discussions regardless if you missed some or no points. Final grades posted to Carmen without acknowledging the semester has ended or wishing students success going forward. Very uncaring, and hands-off.",
-        "course": "ARTEDUC1600"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She's really sweet and nice. But the class was so boring it was difficult to get through. The class is super easy, but too boring.",
+        "course": "ARTED367"
       },
       {
         "index": 4,
-        "rating": 1,
+        "rating": 4,
         "difficulty": 1,
-        "comment": "The entire course consists of weekly discussions/posts, one Art viewing and one Film review assignment. She ONLY provides feedback on your two viewing assignments but none for the discussions, regardless if you earn all points or not. Her email communication style is very dismissive, curt and uncaring.",
-        "course": "ARTEDUC1600"
+        "comment": "Really easy class, especially during summer.  If you just do the readings (short, usually), show up, and get your papers done on time, it's an A in the bag.  She's also very nice and helpful if you have trouble with an assignment.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I liked her class. Not very hard, but also very intersting.",
+        "course": "AE367"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "there are required readings for discussion. this class is not difficult. just write your paper on time and show your interest. she is not an easy grader but not tough grader either. i did enjoy this class!",
+        "course": "ART367"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 2,
-    "avgRating": 2,
+    "avgDifficulty": 1,
+    "avgRating": 5,
     "department": "Art Education",
-    "firstName": "Joni",
-    "id": "VGVhY2hlci0yNjcxNjMy",
-    "lastName": "Acuff",
-    "legacyId": 2671632,
+    "firstName": "Gretchen",
+    "id": "VGVhY2hlci0xODk2NDc3",
+    "lastName": "McIntosh",
+    "legacyId": 1896477,
     "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "This professor is an amazing BLM activist and cares a lot about encouraging teachers to include a pedagogy for abolitionist teaching overall. However, this professor isnt meant to teach in a school setting. All of the grading is done on paper so I still don't have any grades and its week 18. You have to take this class but be aware you wont like it",
-        "course": "ARTEDUC4000"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Probably the nicest instructor I've ever had! Very cheerful and very willing to help. The class is interesting and over 75% of the time you'll watch TV in class. Plus she brings snacks for the first and last TV viewings. Take Gretchen's class!!",
+        "course": "ARTEDUC236703"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 2.6,
-    "avgRating": 3.4,
+    "avgDifficulty": 1.4,
+    "avgRating": 4.9,
     "department": "Art Education",
-    "firstName": "Mark",
-    "id": "VGVhY2hlci0yMzk1Mzk0",
-    "lastName": "McGuire",
-    "legacyId": 2395394,
+    "firstName": "Patty",
+    "id": "VGVhY2hlci0xNzg0MTEz",
+    "lastName": "Bode",
+    "legacyId": 1784113,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Bode is an ideal teacher for a GEC. She will make you see the world from a different viewpoint without having to worry about busywork. The other reviews are spot on.",
+        "course": "ARTEDUC2367"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Patty Bode is one of the most amazing professors I've ever had. She is so passionate about teaching and learning and everything she talks about. You can feel 100% safe and comfortable in her classroom and will get excited and inspired about what you are learning.",
+        "course": "AE4000"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Patty is very kind and helpful. She genuinely enjoys teaching and cares about her students. Perhaps the best part was how often she brought in food- cookies, bagels, chips, etc. Her only draw back was the amount of time it took to get papers back. Overall, I would recommend Patty and this course to anyone and everyone.",
+        "course": "ARTED2367"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Patty genuinely cares about all of her students and makes time to help each of them do well. The class is very fun and she goes above and beyond to make the class her own.",
+        "course": "ARTEDUCATION2"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Really good teacher who wants you to get a good grade and know the material. You have to participate in class but shes nice about it and a total of three papers. But if you are taking this course take it from Bode, really good teacher for a GEC!",
+        "course": "ARTED2367"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This teacher is very knowledgeable, cares about her field, and cares about student learning. You do have to participate, but it's not difficult. She made tough and even sad concepts easy to deal with, and her text was easy to consume. Very brilliant teacher",
+        "course": "ARTED4000"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "The class is genuinely easy and fun. There are three total papers for the class... one of which is the final. I can't stress how easy the class is. She was, however, very slow on grading. Nothing to worry about, though. You probably won't watch as much tv in her class. Textbook is almost pointless.",
+        "course": "ARTED2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 5,
+    "avgRating": 1.2,
+    "department": "Art Education",
+    "firstName": "Kristi",
+    "id": "VGVhY2hlci0xNDE4NjI0",
+    "lastName": "Wilcox",
+    "legacyId": 1418624,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Horrible teacher.  If you work hard enough to get an A+, she'll give you a B-.  Toughest grader and least helpful professor ever.  I could rant on and on, but to put it simply: DO NOT TAKE THIS CLASS WITH THIS TEACHER.",
+        "course": "AE160D"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This teacher will not get back to you on email and will not respond in ways that make sense. It is nearly impossible to get ahold of the teacher and you cannot get good feedback from the professor. She will not explain what you did wrong and WILL NOT give you the grade you deserve. DO NOT if at all possible take this class with this professor.",
+        "course": "ART160D"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Horrible teacher! Save your GEC's for a better class with a much better and nicer teacher. She truly sucks! Have to work out a sweat for a B in this class. Stupid and useless exercises. Tried e-mailing her and she returned my e-mail with a nasty response. NO GOOD!!!",
+        "course": "AE160D"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 4.2,
+    "department": "Art Education",
+    "firstName": "Tanisha",
+    "id": "VGVhY2hlci0xMTAxMDA3",
+    "lastName": "Jackson",
+    "legacyId": 1101007,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Didn't have any set lesson plans most of the time, but overall this was an extremely easy second writing course.  I was worried about that because I suck at writing, but I even got an A.",
+        "course": "AFAMA367"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is Cutie Pie first off, that made class easy.  Cool Proff",
+        "course": "ART000"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "easiest class ever. did not miss a single point the entire quarter.  do what's required, and she will be happy.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "One of the most fun, and surely the easiest class I've ever taken.She's pretty liberal and lets it be known through class material and statements, but if you don't have anything wrong with that, you'll have a lot of fun in her classes.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "This class was very easy. You only have to write 4 papers. You can re-write every paper so your almost guaranteed a good grade. Just go to class, participate, write papers and you will do well. Also, there is extra credit in this class too!",
+        "course": "ARTED367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Art Education",
+    "firstName": "Elizabeth",
+    "id": "VGVhY2hlci0xNTQ4NDE1",
+    "lastName": "Kengeter",
+    "legacyId": 1548415,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is such a sweet professor and willing to help and accomodate people in any way she can. This is a second writing class, but it is very exciting. We went on 2 fieldtrips, did a ton of in-class activities, and had many discussions. Attendance is mandatory, and even 1 unexcused absence is half a letter grade deficit. GREAT TEACHER!",
+        "course": "ARTED367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 4.7,
+    "department": "Art Education",
+    "firstName": "Sarah",
+    "id": "VGVhY2hlci0xMzg2MTg0",
+    "lastName": "Cortell",
+    "legacyId": 1386184,
     "numRatings": 5,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 2,
-        "comment": "Mark is a great professor, he has very clear PDFs for all assignments, and is always happen to clarify any questions. His lectures are pretty light, and the information is presented clearly.",
-        "course": "ARTEDUC4300"
+        "comment": "She's a great instructor but you have to participate in class discussions to keep the momentum going. The class period is long but is more than bearable with such a passionate and eye-opening teacher.",
+        "course": "AED367"
       },
       {
         "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "I really hate this Professor, he is awful. I dont know why he gives so many heavy papers need to write as a class that do not calculate for GPA. I feel so bad after do my heave major class work and then still need to do his heavy work, awful! Awful! Awful!",
-        "course": "EDUTL5902"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great GTA! The class is awesome!",
+        "course": "AED367"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Extremely helpful and friendly. She allows the students to guide the class, which is nice.",
+        "course": "AED367"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "She's a pretty good teacher. She keeps the class interesting, even though it's a long class period. She grades very fairly.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Excellent GTA - I'd recommend her.",
+        "course": "AED367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 3.5,
+    "department": "Art Education",
+    "firstName": "Aaron",
+    "id": "VGVhY2hlci0xMjQwMDEz",
+    "lastName": "Knochel",
+    "legacyId": 1240013,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "ARTED252"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4.5,
+    "department": "Art Education",
+    "firstName": "Kendra",
+    "id": "VGVhY2hlci0xMTQwNjgy",
+    "lastName": "Girardot",
+    "legacyId": 1140682,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Very very easy class as long as you attend. All the papers can be rewritten and regraded. No tests. Gives long articles and the book to read, but I never really read any of it. Great teacher too, very helpful.",
+        "course": "ARTED387"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great Teacher, Fun Class. Puts a lot of thought into activities and we watched The Office. Fair grader, provides feedback on papers and brought food for class.  Definitely Recommend.",
+        "course": "AE367"
       },
       {
         "index": 3,
         "rating": 5,
         "difficulty": 1,
-        "comment": "Mr. Mark is an amazing teacher. His class is very interesting and very fun to attend. I will recommend you to take this class.",
-        "course": "ARTEDUC2250"
+        "comment": "Awesome teacher, really fair grader, very nice too.  Makes sure you know what you are doing and that you're not lost.",
+        "course": "AE367"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "She has some really unique activities and definitely puts in a lot of effort to try and make the class fun. She is not difficult, very fair, if you put in the time you will do well. Very helpful and nice too and she gets back to e-mails in a very timely fashion. Really cool teacher.",
+        "course": "AE367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.6,
+    "avgRating": 3.9,
+    "department": "Art Education",
+    "firstName": "Kim-Ping",
+    "id": "VGVhY2hlci04MjAzOTY=",
+    "lastName": "Yim",
+    "legacyId": 820396,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "one of the easiest classes i have had, she has favorites, if you show up to class and do your work, she will give you an A. Class is kinda boring but it is easy, save all your papers because she collects them the last day of class. Also attendance is required, if you miss one class she takes 1/2 letter grade off your final grade.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "I loved this class! She is somewhat challenging.  You won't be able to go to class and just sit there, must participate.  Not to tough of a grader.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "easiest A i have EVER recieved. She had favorites and the class is boring.",
+        "course": "ARTED367"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Class is boring but she is very nice and real easy.",
+        "course": "ARTED36701"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "She was a friendly teacher. Let you rewrite your papers if you're not satisfied with the grade you received.",
+        "course": "ARTEDU36701"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 3,
+    "department": "Art Education",
+    "firstName": "Arron",
+    "id": "VGVhY2hlci0xMjE4Njgx",
+    "lastName": "Knochel",
+    "legacyId": 1218681,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "No clear grading guidelines. Using your own photography became more important than photoshop itself, which isn't even a pre-understood aspect of the class.  He has unclear expectations as to how your projects should look and is a tough grader.  Bad combo, especially in a &quot;subjective&quot; GEC art class for non-art majors.  Take it with someone else.",
+        "course": "ARTED252"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Aaron knows a lot, is really nice, and I learned a lot about photoshop from him, but he is a really tough grader. He looks at everything you do from an artistic standpoint, rather than work/time/effort, when it's a GEC of non-art majors. Enjoyed the class, not necessarily him so much.",
+        "course": "ARTED252"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Unlike other art ed teachers, aaron grades you based on how good at art you are, rather than giving you credit for presenting a project with a sufficient amount of time and effort put into it.  Not a nice guy would not recommend ever. not sure which aaron knochel the guy below me had but i'd like to take his class.",
+        "course": "ARTED252"
       },
       {
         "index": 4,
         "rating": 5,
         "difficulty": 2,
-        "comment": "Nice professor.",
-        "course": "EDUTL1902"
-      },
+        "comment": "Arron, is a great prof. he fully understands his subject matter and is very helpful if you have a specific question.  For this class it says a book is required but, i never used mine and never saw a single one in class, any help you need is online.",
+        "course": "ART252"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Art Education",
+    "firstName": "Mara",
+    "id": "VGVhY2hlci0xMjQ4MDAy",
+    "lastName": "Gross",
+    "legacyId": 1248002,
+    "numRatings": 1,
+    "Ratings": [
       {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "too many papers and discussions",
-        "course": "EDUTL1902"
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Really interesting class, really helpful teacher. Assignments were very clear and you did well as long as you followed the guidelines, which were clear. Attendance is mandatory, but not a class that you would dread going to. Lots of class discussions, videos, and activities. Overall, really great experience and one of the best classes I have taken!",
+        "course": "ARTED367"
       }
     ],
     "SEI": []

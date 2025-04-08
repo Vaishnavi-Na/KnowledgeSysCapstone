@@ -1,5 +1,39 @@
 [
   {
+    "avgDifficulty": 5,
+    "avgRating": 1,
+    "department": "Electrical & Computer Engineering",
+    "firstName": "Haskell",
+    "id": "VGVhY2hlci0yNzI2Mzg5",
+    "lastName": "Fought",
+    "legacyId": 2726389,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Expects professional level work. Goes on a tangent very often, criticism doesn't make sense most of time because he doesn't actually read a full paragraph at times. If you don't reference a specific appendix, expect that to not exist. If you want a hard time, but learn a lot, take this professor, else, don't.",
+        "course": "ECE3905"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "wtf this guy's ego bigger than the headaches I get for this class",
+        "course": "ECE3905"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Don't take his capstone class. He grades harshly on final projects (final dem. stats: mean33% &amp; max62%). If you have another professor, you will get an A or B for the same quality work. His expectations were for a 1-2 year project by a group of 10 professionals,not ECE students on a time crunch. OSU is at fault for not monitoring &amp; stand. classes",
+        "course": "ECE4900"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 3.6,
     "avgRating": 4,
     "department": "Electrical & Computer Engineering",
@@ -284,6 +318,60 @@
     "SEI": []
   },
   {
+    "avgDifficulty": 5,
+    "avgRating": 5,
+    "department": "Electrical & Computer Engineering",
+    "firstName": "Zak",
+    "id": "VGVhY2hlci0yODgyNDkw",
+    "lastName": "Kassas",
+    "legacyId": 2882490,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Kassas teaches 5551 as a graduate level course. You WILL learn and develop a strong understanding of linear state space systems if you keep up and spend time on the homework and with the book. I recommend you review linear algebra before the class. Fantastic professor, but tough. You get out what you put in, and class interaction is rewarded. ",
+        "course": "ECE5551"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "The hardest course I've ever taken but his pragmatism is redeeming. He said something along the lines of: \"I've gotten A's in courses without learning a thing, and I've gotten less desirable grades in courses where I've learned lots. Don't worry about the grade because it is what it is.\"\n",
+        "course": "ECE5551"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3,
+    "department": "Electrical & Computer Engineering",
+    "firstName": "Hongping",
+    "id": "VGVhY2hlci0yNzY2ODMy",
+    "lastName": "Zhao",
+    "legacyId": 2766832,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "ECE 3030 is a joke. The class consists of a textbook with poor explanations and rather just derivatations. Lecture consists of formula derivations with little to no examples. Be careful of weekly pop quizzes. Office hours with the TA can somewhat be helpful however, Professor Zhao usually doesn't appear in her office hours.",
+        "course": "ECE3030"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "If you have the chance to take 3030 with Prof Zhao, do it! 3030 is supposed to be a hard class but she makes it easy to understand. She cares about her students so much and gets happy when she sees us liking the material. Homeworks are hard, but once you understand them the exams are a breeze. Thank you Professor Zhao &lt;3",
+        "course": "ECE3030"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 4.3,
     "avgRating": 1.5,
     "department": "Electrical & Computer Engineering",
@@ -369,94 +457,6 @@
         "difficulty": 4,
         "comment": "Benjamin is one of the most unenthusiastic profs I've ever had. He emphasizes reading the textbook for the course which is incredibly dense and filled with a lot of irrelevant information. Has awful handwriting and is the only prof who doesn't record his lectures so you can't go back and listen to what he writes. He's a decent guy but a bad teacher",
         "course": "ECE-2020"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 5,
-    "avgRating": 5,
-    "department": "Electrical & Computer Engineering",
-    "firstName": "Zak",
-    "id": "VGVhY2hlci0yODgyNDkw",
-    "lastName": "Kassas",
-    "legacyId": 2882490,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Kassas teaches 5551 as a graduate level course. You WILL learn and develop a strong understanding of linear state space systems if you keep up and spend time on the homework and with the book. I recommend you review linear algebra before the class. Fantastic professor, but tough. You get out what you put in, and class interaction is rewarded. ",
-        "course": "ECE5551"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "The hardest course I've ever taken but his pragmatism is redeeming. He said something along the lines of: \"I've gotten A's in courses without learning a thing, and I've gotten less desirable grades in courses where I've learned lots. Don't worry about the grade because it is what it is.\"\n",
-        "course": "ECE5551"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 3,
-    "department": "Electrical & Computer Engineering",
-    "firstName": "Hongping",
-    "id": "VGVhY2hlci0yNzY2ODMy",
-    "lastName": "Zhao",
-    "legacyId": 2766832,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "ECE 3030 is a joke. The class consists of a textbook with poor explanations and rather just derivatations. Lecture consists of formula derivations with little to no examples. Be careful of weekly pop quizzes. Office hours with the TA can somewhat be helpful however, Professor Zhao usually doesn't appear in her office hours.",
-        "course": "ECE3030"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "If you have the chance to take 3030 with Prof Zhao, do it! 3030 is supposed to be a hard class but she makes it easy to understand. She cares about her students so much and gets happy when she sees us liking the material. Homeworks are hard, but once you understand them the exams are a breeze. Thank you Professor Zhao &lt;3",
-        "course": "ECE3030"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 5,
-    "avgRating": 1,
-    "department": "Electrical & Computer Engineering",
-    "firstName": "Haskell",
-    "id": "VGVhY2hlci0yNzI2Mzg5",
-    "lastName": "Fought",
-    "legacyId": 2726389,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Expects professional level work. Goes on a tangent very often, criticism doesn't make sense most of time because he doesn't actually read a full paragraph at times. If you don't reference a specific appendix, expect that to not exist. If you want a hard time, but learn a lot, take this professor, else, don't.",
-        "course": "ECE3905"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "wtf this guy's ego bigger than the headaches I get for this class",
-        "course": "ECE3905"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Don't take his capstone class. He grades harshly on final projects (final dem. stats: mean33% &amp; max62%). If you have another professor, you will get an A or B for the same quality work. His expectations were for a 1-2 year project by a group of 10 professionals,not ECE students on a time crunch. OSU is at fault for not monitoring &amp; stand. classes",
-        "course": "ECE4900"
       }
     ],
     "SEI": []

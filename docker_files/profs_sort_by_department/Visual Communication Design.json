@@ -46,5 +46,46 @@
       }
     ],
     "SEI": []
+  },
+  {
+    "avgDifficulty": 2.3,
+    "avgRating": 3.3,
+    "department": "Visual Communication Design",
+    "firstName": "Asheer",
+    "id": "VGVhY2hlci0xMjI3MDcw",
+    "lastName": "Tashfeen",
+    "legacyId": 1227070,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Best teacher ever!",
+        "course": "DES230"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Very helpful. I enjoyed this class a lot.",
+        "course": "DES230"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Started off pretty easy but then became very unclear because he does not explain things well and don't bother emailing him because he either won't email you back or takes forever to do it. Does not seem like he wants to teach at all. He is a cool person but as a teacher, I would not recommend taking him.",
+        "course": "DSIGN230"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Worst class/professor I've ever had.  Had us purchase a text book we never even opened.  Projects were the dumbest things I've ever been asked to do.  DO NOT take this class",
+        "course": "DSGN230"
+      }
+    ],
+    "SEI": []
   }
 ]

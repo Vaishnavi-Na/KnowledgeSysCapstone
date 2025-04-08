@@ -1,64 +1,268 @@
 [
   {
-    "avgDifficulty": 3.8,
-    "avgRating": 3.3,
+    "avgDifficulty": 2.5,
+    "avgRating": 4,
     "department": "Dance",
-    "firstName": "Hannah",
-    "lastName": "Kosstrin",
-    "legacyId": 941490,
-    "numRatings": 10,
+    "firstName": "Kathryn",
+    "id": "VGVhY2hlci0yMzYxNTc3",
+    "lastName": "Holt",
+    "legacyId": 2361577,
+    "numRatings": 4,
     "Ratings": [
       {
-        "index": 0,
-        "rating": null,
-        "comment": "Not clear directives.  Vague instructions.  No clear demonstrations of techniques."
-      },
-      {
         "index": 1,
-        "rating": null,
-        "comment": "Terrible."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This class was about film and dance history, and it mainly consisted of analyzing previous videos of performances. I enjoyed learning about innovations and changes made and all of the assignments were very easy. She was also great about telling you about the key points you may have missed in a quiz or discussion post.",
+        "course": "DNCE3373"
       },
       {
         "index": 2,
-        "rating": "5.0",
-        "comment": "Very grabby, not that I mind."
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I took Irish Step with Kathryn. I had no previous dance experience, but by the end of the semester I could preform multiple soft shoe, hard shoe, and ceili dances! It was a lot of fun. There were a few papers and discussion posts required in addition to participation in class. She was very kind and understanding. Overall I had a great experience!",
+        "course": "DANCE2190"
       },
       {
         "index": 3,
-        "rating": "5.0",
-        "comment": "Great lecturer. She knows what is being taught and makes the class interesting."
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I would first like to preface this by saying this is obviously a dance class. You learn about dances from different cultures. There are two readings per week and they are usually 60 pages each, along with some writing after. Can be difficult to juggle with the research paper she assigns you. Do not take this if genocide and death are triggering.",
+        "course": "DANCE3402"
       },
       {
         "index": 4,
-        "rating": "5.0",
-        "comment": "Great Professor.  Expects a lot from students, but really knows her stuff, and will help you out if you ask."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Lots of reading in this class, however, Kathryn does a good job with going over them in class in case you didn't understand them. Attendance is taken every class - so you have to go. Weekly reading assignments, 3 (easy) online quizzes, and a lot of small group discussions. Kathryn is really flexible with deadlines and due dates - it's nice!",
+        "course": "DANCE3402"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Dance",
+    "firstName": "Quianna",
+    "id": "VGVhY2hlci0yNjg1Nzgx",
+    "lastName": "Simpson",
+    "legacyId": 2685781,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I absolutely adored Quianna. She was able to take a beginner class and make it both challenging and accessible for both dancers and non-dancers. She was incredibly caring, knowledgable, and passionate. If you're scared to take a dance class but want to, try and take one with her.",
+        "course": "DANCE1101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 4.2,
+    "department": "Dance",
+    "firstName": "Quilan ",
+    "id": "VGVhY2hlci0xOTU4MjQ2",
+    "lastName": "Arnold",
+    "legacyId": 1958246,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Genuinely a terrible class. He gave an unclear syllabus, unclear expectations on what the class is supposed to know, and deadlines, lots of deadlines. There were pop quizzes on info that we never learned. I spent more hours on this class doing homework than I did IN CLASS for all my other classes combined. Please reevaluate assigned workload.",
+        "course": "DANCE1151"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "The professor is a great guy, and I enjoyed learning from him. My biggest critique is all of the outside work has to be turned in on his time. We had assignments due every Sunday, but if we did them on Friday, we still couldn't turn them in until Sunday or sometimes he'd forget and we had to wait until Monday. Other than that, I loved the class!",
+        "course": "DANC106"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Q really emphasized a sense of community through dance. Along with learning the dance itself, we learned about hip hop culture. He is very passionate both on the dance form as well as hip hop's background and meaning. He pushes you to put yourself out there while encouraging classroom support.",
+        "course": "DANCE1151"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Cue was awesome. He cares a lot about his students and wants them to succeed.  He pushed me to try my hardest and was very insistent that anyone can dance, regardless of background and training.  I feel like I got to know myself and my body much better through the class. He fostered a community.  His class was the hi-light of my week.",
+        "course": "DANCE1101"
       },
       {
         "index": 5,
-        "rating": "5.0",
-        "comment": "Very nice! Easy A!"
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Great, passionate teacher, good at instructing. A little scary; he was like a drill sergeant (in a good way), so we always wanted to do our best. And his hotness was occasionally distracting. ",
+        "course": "DANCE1151"
       },
       {
         "index": 6,
-        "rating": null,
-        "comment": "Mean and hurtful in verbal instructions.  Should not be teaching.  Gives the Department of Dance a bad name, and they cannot afford to have this type of bad reputation."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He is very exceptional at what he does. He encourages a community setting and a place to learn. Overall, if you are looking to learn and be a better dancer and gain knowledge, he is the guy.",
+        "course": "DANCE2152"
       },
       {
         "index": 7,
-        "rating": "5.0",
-        "comment": "You can tell that she loves teaching the class. Was always energetic and happy to answer question. She was really harsh on grammatical errors and writing skills. Don't expect to get out of class early, ever. Very strict with attendance and lecture minutes. Lectures could be long and boring, but otherwise and an interesting class."
-      },
-      {
-        "index": 8,
-        "rating": "4.0",
-        "comment": "Its a dance history class but 70% or more of the grade is on your ability to write.  She's also very picky with attendance and details.  The slightest misdetail in a short answer question or essay will mean major points off.  She acts like the class is a 600 level or something, but its just introductory history."
-      },
-      {
-        "index": 9,
-        "rating": null,
-        "comment": "Terrible teacher.  Verbally abusive.  No tact.  No manners."
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Totally fun and educational. He's the most dope and has mad skills. ",
+        "course": "DANCE2152"
       }
-    ]
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.2,
+    "avgRating": 3,
+    "department": "Dance",
+    "firstName": "Rodney Tawanda",
+    "id": "VGVhY2hlci0xODk3NTI1",
+    "lastName": "Chabikwa",
+    "legacyId": 1897525,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Tawanda is a great teacher, but he will make you work for your grade. It's a lot of reading but he assigns it to prepare you for graduate-level work.",
+        "course": "PHIL190"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Took this course during fall 2020/Pandemic. Get ready to read a lot and watch a lot of outside of class videos. For every reading you are expected to write a one page paper about the readings. He starts the class but does expect for everyone to participate and say something. You need to read and watch the videos so you can participate",
+        "course": "DANC3322"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Do not recommend. Most of the classmates are having a hard time in his class.",
+        "course": "DANCE3401"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "He's actually a new professor at UC Merced. Honestly for being a general ed and just a fulfillment for art, it wasn't easy. His work and class was, but hes such a hard grader. And I hated the group project, and the he takes forever to grade.",
+        "course": "GASP076"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.3,
+    "avgRating": 3,
+    "department": "Dance",
+    "firstName": "Alexandra",
+    "id": "VGVhY2hlci0yMDgzMjQ2",
+    "lastName": "Harlig",
+    "legacyId": 2083246,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Al was amazing",
+        "course": "CO126"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Alex takes her job seriously and is passionate about what she taught us. There were only three online exams which were time consuming but not hard. The readings we had for class were long, but I only skimmed them. Class discussions were helpful and interesting. We watched a lot of videos. I enjoyed taking the class and easily got an A.",
+        "course": "DANCE3402"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "After three misses you lose half a letter grade... We have \"readings\" every class, but none of us do them (mainly because they're 20 pages long). Exams are all online, but that doesn't even matter because theres about 5 essays on the tests all 500-750 words... Goodluck getting an A. OH and she's a walking dictionary and you won't understand her.",
+        "course": "DN3402"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Dance",
+    "firstName": "Jazelynn",
+    "id": "VGVhY2hlci0yNDk0NzU5",
+    "lastName": "Goudy",
+    "legacyId": 2494759,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She's awesome! You will learn so much from her! Gives a lot of opportunity for extra credit.",
+        "course": "DANCE2152"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 3,
+    "department": "Dance",
+    "firstName": "Benny",
+    "id": "VGVhY2hlci0yMzM1NDg5",
+    "lastName": "Simon",
+    "legacyId": 2335489,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "took this class thinking it would be an easy online elective and it was not. discussions were so in-depth you could barely understand them if you aren't a dance major. It is almost impossible to get a perfects score on discussion posts because they are graded so precisely. Quizzes answers are not in the notes. do not take this class!",
+        "course": "DANCE3401"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Had Benny for a Dance in pop cultural for in online class. Had weekly discussions, had watch a few dance movies and write a paper on it. then a few quizzes and a group project. He give great feedback.",
+        "course": "DANCE3401"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3,
+    "department": "Dance",
+    "firstName": "Elijah",
+    "id": "VGVhY2hlci0yMzY4MDgz",
+    "lastName": "Palnik",
+    "legacyId": 2368083,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Very unclear in his communication to students regarding expectations. Pretends that he is laid back and willing to be helpful, but actually is terrible at responding to email communications. He is able-ist and unwilling to accommodate students who have registered disabilities.",
+        "course": "DANCE5614"
+      }
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 4,
@@ -102,35 +306,96 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.3,
-    "avgRating": 2,
+    "avgDifficulty": 1.3,
+    "avgRating": 4.7,
     "department": "Dance",
-    "firstName": "Lise",
-    "id": "VGVhY2hlci0yNzczODA0",
-    "lastName": "Worthen-Chaudhari",
-    "legacyId": 2773804,
+    "firstName": "Steven",
+    "id": "VGVhY2hlci0yNTM3NzQz",
+    "lastName": "Ha",
+    "legacyId": 2537743,
     "numRatings": 3,
     "Ratings": [
       {
         "index": 1,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "The class itself wasn't too difficult. I don't think I watched any lectures past the first week and did fine. What does annoy me about this class though is that there were multiple instances we didn't have clear instructions. One week we were told to submit an essay draft Thursday and review groupmates by Sunday, but actually only the draft was due",
-        "course": "HTHRHSC2530"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great writing professor! Expect a lot of writing but it is easier than it first seems and he gives amazing feedback and is very caring and understanding. ",
+        "course": "DANCE2367H"
       },
       {
         "index": 2,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "This class is definitely not an easy course load. However, the material is not horribly difficult, but the exams are very heavy and require preparation on a time limit. Lots of group work and projects, so communication is key to succeeding. Overall, was a 6/10 difficulty and is kind of beneficial for anyone going into the healthcare field. ",
-        "course": "HTHRHSC2530"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Took this as a second level writing course and couldn't have loved him more. He really cares about students beyond just the way they perform in the classroom. He makes himself available and intentionally responds to feedback we gave him about what we liked/disliked with assignments. No tests/quizzes, just writing assignments/reflections but easy.",
+        "course": "DANCE2367H"
       },
       {
         "index": 3,
-        "rating": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Steven was a good professor, and dance 2401 was an easy class. He understands that his students have other classes and activities going on. Only a few graded assignments in the class and the final is a group project.",
+        "course": "DANCE2401"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3,
+    "department": "Dance",
+    "firstName": "Yujie",
+    "id": "VGVhY2hlci0yODE5OTc2",
+    "lastName": "Chen",
+    "legacyId": 2819976,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "There's a lot of reading to provide the information on that week's material. Exams are relatively simple and there are weekly discussions (as expected with an online course). Professor responds quickly and explains her expectations for assignments. There's a final paper and there's no cumulative final (just a quiz with each unit, there are 6 units)",
+        "course": "3401"
+      },
+      {
+        "index": 2,
+        "rating": 2,
         "difficulty": 4,
-        "comment": "She is an extremely tedious grader, none of her coursework is organized. She doesn't record her own lectures, the exams have way too much content and not enough time to finish. Weekly, multiple, group assignments, extra readings, multiple lectures, multiple chapters. Do not take this class with this professor. Take an easier alternative.",
-        "course": "HTHRHSCI2530"
+        "comment": "So much busy work that is toughly graded.",
+        "course": "3401"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "If you're looking for an elective that is not time consuming, I would not recommend this course. The material is interesting, but everything could be a lot more concise. There are definitely easier electives with less time commitment you can take, so I wouldn't waste your time with this course. ",
+        "course": "3401"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 3,
+    "department": "Dance",
+    "firstName": "Harmony",
+    "id": "VGVhY2hlci0yMTk1NDQw",
+    "lastName": "Bench",
+    "legacyId": 2195440,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "she is so white and the class is so dry",
+        "course": "7901"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "just one of the best prof I have ever met",
+        "course": "7901"
       }
     ],
     "SEI": []
@@ -219,96 +484,172 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3,
-    "avgRating": 3,
+    "avgDifficulty": 3.3,
+    "avgRating": 2,
     "department": "Dance",
-    "firstName": "Yujie",
-    "id": "VGVhY2hlci0yODE5OTc2",
-    "lastName": "Chen",
-    "legacyId": 2819976,
+    "firstName": "Lise",
+    "id": "VGVhY2hlci0yNzczODA0",
+    "lastName": "Worthen-Chaudhari",
+    "legacyId": 2773804,
     "numRatings": 3,
     "Ratings": [
       {
         "index": 1,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "There's a lot of reading to provide the information on that week's material. Exams are relatively simple and there are weekly discussions (as expected with an online course). Professor responds quickly and explains her expectations for assignments. There's a final paper and there's no cumulative final (just a quiz with each unit, there are 6 units)",
-        "course": "3401"
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "The class itself wasn't too difficult. I don't think I watched any lectures past the first week and did fine. What does annoy me about this class though is that there were multiple instances we didn't have clear instructions. One week we were told to submit an essay draft Thursday and review groupmates by Sunday, but actually only the draft was due",
+        "course": "HTHRHSC2530"
       },
       {
         "index": 2,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "So much busy work that is toughly graded.",
-        "course": "3401"
-      },
-      {
-        "index": 3,
         "rating": 3,
         "difficulty": 3,
-        "comment": "If you're looking for an elective that is not time consuming, I would not recommend this course. The material is interesting, but everything could be a lot more concise. There are definitely easier electives with less time commitment you can take, so I wouldn't waste your time with this course. ",
-        "course": "3401"
+        "comment": "This class is definitely not an easy course load. However, the material is not horribly difficult, but the exams are very heavy and require preparation on a time limit. Lots of group work and projects, so communication is key to succeeding. Overall, was a 6/10 difficulty and is kind of beneficial for anyone going into the healthcare field. ",
+        "course": "HTHRHSC2530"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "She is an extremely tedious grader, none of her coursework is organized. She doesn't record her own lectures, the exams have way too much content and not enough time to finish. Weekly, multiple, group assignments, extra readings, multiple lectures, multiple chapters. Do not take this class with this professor. Take an easier alternative.",
+        "course": "HTHRHSCI2530"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 3.5,
-    "avgRating": 3,
+    "avgDifficulty": 3,
+    "avgRating": 4,
     "department": "Dance",
-    "firstName": "Harmony",
-    "id": "VGVhY2hlci0yMTk1NDQw",
-    "lastName": "Bench",
-    "legacyId": 2195440,
-    "numRatings": 2,
+    "firstName": "Lyndsey",
+    "id": "VGVhY2hlci0yMTc0NzY2",
+    "lastName": "Vader",
+    "legacyId": 2174766,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
-        "rating": 1,
+        "rating": 4,
         "difficulty": 3,
-        "comment": "she is so white and the class is so dry",
-        "course": "7901"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "just one of the best prof I have ever met",
-        "course": "7901"
+        "comment": "Lyndsey is definitely one of the best professor I have had. She was a graduate student at the time but her class was so fun. She really made a lecture course come to life with the in class activities. She is also really helpful during office hours and is super relatable.",
+        "course": "DANCE2401"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 1.3,
-    "avgRating": 4.7,
+    "avgDifficulty": 2,
+    "avgRating": 4.8,
     "department": "Dance",
-    "firstName": "Steven",
-    "id": "VGVhY2hlci0yNTM3NzQz",
-    "lastName": "Ha",
-    "legacyId": 2537743,
+    "firstName": "Veronica ",
+    "id": "VGVhY2hlci0xOTQ4MjU1",
+    "lastName": "Stanich",
+    "legacyId": 1948255,
     "numRatings": 3,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "Great writing professor! Expect a lot of writing but it is easier than it first seems and he gives amazing feedback and is very caring and understanding. ",
+        "difficulty": 3,
+        "comment": "Dr. Stanich always let you write papers for her twice. After the first she made her comments then let you fix it and turn them in again. I loved going to the lecture of 10 because everyone was close by the end of the semester which made in-class discussions awesome. This class went beyond dance and really changed how I think about the world",
         "course": "DANCE2367H"
       },
       {
         "index": 2,
         "rating": 5,
         "difficulty": 1,
-        "comment": "Took this as a second level writing course and couldn't have loved him more. He really cares about students beyond just the way they perform in the classroom. He makes himself available and intentionally responds to feedback we gave him about what we liked/disliked with assignments. No tests/quizzes, just writing assignments/reflections but easy.",
-        "course": "DANCE2367H"
+        "comment": "Professor Stanich was awesome and made the class so simple through her lectures! If you go and take the notes, you will do well on the exams. They are almost identical. She is a professor that wants her students to do well. There is a participation grade, but if you go to class, you'll be fine.",
+        "course": "DANCE2401"
       },
       {
         "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very genuine and helpful professor. Such an easy class as long as you attend class and do the work. You do have to take notes and study for the exams, but her tests are identical to the lecture notes. She is an awesome professor, definitely a class worth taking for an easy A gen ed! Participation is crucial and so is attendance so make sure you go.",
+        "course": "2401"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.4,
+    "avgRating": 4.8,
+    "department": "Dance",
+    "firstName": "Tami",
+    "id": "VGVhY2hlci0xMjU4NDg2",
+    "lastName": "Thompson",
+    "legacyId": 1258486,
+    "numRatings": 10,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I really enjoyed this class. I took it for fun and Tami is such a great instructor. She really knows the moves and does a great job showing and explaining it to students. She also is very helpful at pointing out mistakes and what might be causing them and how to fix it. Overall a very fun class and a great way to unwind from other classes.",
+        "course": "KNSFHP1152"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is AMAZING and incredibly funny. The class was full of people from different experience levels and she somehow got us all up to speed. Attendence is mandatory but it's well worth it and she gives you the quiz answers ahead of time, so it's just a way to have fun and relieve stress. I'm looking forward to my other classes with her.",
+        "course": "EDUPA152"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is awesome!!! Very fun class~ Interesting and energetic. Great choice for exercise and relax in between heavy academic work.",
+        "course": "PAES15X"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "One of the funnest classes I've ever been in in OSU! Great course for a break from school work. Look forward to it every time the class meets. Tami is awesome fun to be around too! Didn't have any dance experience before this but made it through with her guidance. Just remember to look forward to going to class!",
+        "course": "EDPAES152"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Best class ever!",
+        "course": "EDUPA1002"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Couldn't ask for a better instructor.  I had absolutely no prior dance experience and Tami made the dances very accessible and fun. I go back and help now and I'm still learning from her.  This is a class more students should experience for themselves.",
+        "course": "EDPAEALL"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She somehow takes a class of motley dancers, most with no experience, and teaches them at the same pace, quickly, effectively, and makes it fun. What she accomplishes is pretty impressive and you will look forward to this class every week. You can use what she teaches you for the rest of your life!",
+        "course": "EDUPA152"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Tami is the best teacher there is to offer. She makes dancing more fun than it already is. I had no prior dance experience before this class and now I am there all the time helping out in all of her other classes. I highly recommend taking this class if you want to have fun and meet a lot of fun people and learn how dance :)",
+        "course": "EDPAE152"
+      },
+      {
+        "index": 9,
         "rating": 4,
         "difficulty": 1,
-        "comment": "Steven was a good professor, and dance 2401 was an easy class. He understands that his students have other classes and activities going on. Only a few graded assignments in the class and the final is a group project.",
-        "course": "DANCE2401"
+        "comment": "Easiest class I have ever taken. She goes over the quiz questions and answers prior to you taking the quiz. You aren't stuck with one dance partner and she usually lets you choose. She is funny and has a sense of humor. Attendacnce is mandatory, but I guarantee it will be worth it.",
+        "course": "EDUPA152"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Tami is a really cool, funny dance teacher. She's very good at what she does, and loves teaching dance. I strongly recommend her if you want to take Social Dance 152. It's a really fun, easy class.",
+        "course": "PAES152"
       }
     ],
     "SEI": []
@@ -317,39 +658,387 @@
     "avgDifficulty": 2.5,
     "avgRating": 4,
     "department": "Dance",
-    "firstName": "Kathryn",
-    "id": "VGVhY2hlci0yMzYxNTc3",
-    "lastName": "Holt",
-    "legacyId": 2361577,
-    "numRatings": 4,
+    "firstName": "Katie",
+    "id": "VGVhY2hlci05NDE0OTM=",
+    "lastName": "Teuchtler",
+    "legacyId": 941493,
+    "numRatings": 2,
     "Ratings": [
       {
         "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I took Teuchtler at Capital, not OSU. I was quite hesitant to take Pilates at first, but was quickly impressed with how she catered to multiple ability levels.  A relaxing and fun class that aides in taking busy students' minds off studying for a little while. Plus, she speaks Deutsch.",
+        "course": "HSPTS101"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Good instructor.  Interested in students and their progress.  I have good memories of Katie.",
+        "course": "DANCE102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.4,
+    "avgRating": 2.9,
+    "department": "Dance",
+    "firstName": "Candace",
+    "id": "VGVhY2hlci04MDI5NjI=",
+    "lastName": "Feck",
+    "legacyId": 802962,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "I didn't feel all the other comments were quite accurate. Her TA graded strict but I thought she was pretty fair. She witholds the PP until the end of the lecture. If you're going to rush through the slides without letting people copy them, at least give us a copy of the powerpoint on Carmen or SOMETHING! Also, please take an IT class Ms. Feck!",
+        "course": "DANCE2401"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Absolutely awful. She is so hard to get along with though she remembers everyone's names. The readings are way too long and hard to understand and the way she teaches is annoying. She also knows nothing about technology which is also extremely aggravating. DONT TAKE HER CLASS.",
+        "course": "DANCE0010"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "DO NOT SIGN UP FOR HER CLASS!!! She has ridiculous expectations. The information presented is very interesting, but that is not worth dealing with this woman and her T.A. for an entire quarter. How can you not debate your grades on an opinion piece&#63; She makes this class ridiculously difficult for a 100-level...run for the hills.",
+        "course": "DANCE161"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "TERRIBLE teacher! Makes the class 100 times harder than what it should be. You sign up for a 100 level class and feel like your taking a 500 level course! The quizes and exams were ridiculiously hard! Would not advise it to ANYONE!!",
+        "course": "DANCE161"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I hated this class, she had an assistant professor and they graded very tough and gave tons of notes and it was hard to study and remember them all for the exams",
+        "course": "DANCE161"
+      },
+      {
+        "index": 6,
         "rating": 5,
-        "difficulty": 1,
-        "comment": "This class was about film and dance history, and it mainly consisted of analyzing previous videos of performances. I enjoyed learning about innovations and changes made and all of the assignments were very easy. She was also great about telling you about the key points you may have missed in a quiz or discussion post.",
-        "course": "DNCE3373"
+        "difficulty": 3,
+        "comment": "She is very helpful with her comments and really makes you think about writing and also about dance. It is a lot of information but she is very clear and organized. Even when she changes things it still remains very clearly structured. She gives a lot of personal help and personal attention as well.",
+        "course": "DANCE367"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Has a very annoying voice and constantly is asking for tech help. rushes through powerpoints and gets mad if you want to go back. beware of the pop quizzes - although they are only 2-4 points each, they account for 10% of the grade (which she fails to mention). exams okay as long as you attend lecture and study. plus - she does try to be personal.",
+        "course": "DANCE161"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "The class was very interesting from the prospective of a non-dance major. We spent a lot of time discussing readings, viewing dances and editing our writing. Overall she was very interested in wanting us to improve our dance writing. The class was easy going. Only, having a TA there was annoying because they often didn't grade similarly.",
+        "course": "DANCE367"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Candace was great! She could be VERY cooky at times and a little unorganized, but she taught a very good writing class! You will learn a lot about dance in this GEC, so its kind of like getting a dance history class and a writing GEC in one! Definitely recommend her!",
+        "course": "DANCEH367"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "um, i never once saw this professor during any lecture or anything. The TA's did all the work. Karen Ivy is pretty cool and very helpful if u have questions. You can e-mail her and she will respond quickly.",
+        "course": "DANCE161"
+      },
+      {
+        "index": 11,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "she was the most annoying professor i've ever had.  she would get behind in lectures and rush through powerpoint slides, not giving people the chance to take notes.  she changed the quiz format mid-term because she got the impression that people were using their notes for the online quizzes (DUH!).  inconsistent, annoying lecturer & unfair grader!!",
+        "course": "DANCE161"
+      },
+      {
+        "index": 12,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "She had an attitude problem, she would like yell at the TA's and her lectures were boring. I didn't learn nothin but still got an A-! What!",
+        "course": "DANCE161"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 2.5,
+    "department": "Dance",
+    "firstName": "Melanye",
+    "id": "VGVhY2hlci0xODE3NzA2",
+    "lastName": "Dixon",
+    "legacyId": 1817706,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Terrible class. Terrible instructor. Boring as waiting for a bus, and as useful as an ashtray on a motorcycle.",
+        "course": "DANCE2406"
       },
       {
         "index": 2,
         "rating": 5,
         "difficulty": 3,
-        "comment": "I took Irish Step with Kathryn. I had no previous dance experience, but by the end of the semester I could preform multiple soft shoe, hard shoe, and ceili dances! It was a lot of fun. There were a few papers and discussion posts required in addition to participation in class. She was very kind and understanding. Overall I had a great experience!",
-        "course": "DANCE2190"
+        "comment": "I truly enjoyed this insightful and knowledgeable professor. I think that some students are disrespectful because they do not want to learn about the significance of diversity. She has the protean ability to understand the bi-cultural aspects of world dance in western society and illuminates the historical significance of world dance.",
+        "course": "DANCE2406"
       },
       {
         "index": 3,
         "rating": 1,
+        "difficulty": 5,
+        "comment": "She is an arrogant and pretentious person who prides herself on her absurd PhD. in Dance (yes, those exist). Her slides are unhelpful, her exams are ridiculous and often have nothing to do with the material covered previously. She'll force you to attend idiotic dance performances and read crazy texts. Stay away.",
+        "course": "DANCE2401"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Dance",
+    "firstName": "Katelyn",
+    "id": "VGVhY2hlci0yMDc5NzMw",
+    "lastName": "Sheffield",
+    "legacyId": 2079730,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is very helpful and detailed about her comments on students' papers. Make the class easy. Papers and assignments are also easy. She is definitely not a tough grader",
+        "course": "DANCE2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.4,
+    "department": "Dance",
+    "firstName": "Lindsay",
+    "id": "VGVhY2hlci0xMjU2NTI4",
+    "lastName": "Lapointe",
+    "legacyId": 1256528,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Just plain awesome. Couldn't have asked for a better ballet instructor. Not to mention that she's probably the coolest person you'll ever meet. No lie.",
+        "course": "DANCE201"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Lindsay is wonderful! She really loves dance and this class is alot of fun! The hardest part is the physical demands of hip-hop dance. She is extremely helpful and makes the class SO FUN!! If you can take this with her, do it!! The presentation you do seriously takes like 10 mins to put together!! Should be an easy A!!",
+        "course": "DANCE201"
+      },
+      {
+        "index": 3,
+        "rating": 4,
         "difficulty": 4,
-        "comment": "I would first like to preface this by saying this is obviously a dance class. You learn about dances from different cultures. There are two readings per week and they are usually 60 pages each, along with some writing after. Can be difficult to juggle with the research paper she assigns you. Do not take this if genocide and death are triggering.",
-        "course": "DANCE3402"
+        "comment": "Don't take her class unless you plan on being really committed - lots of written work and sometimes classes feel like they are HOURS long. She is really passionate about dance and teaching though, which is nice. If you take the class with friends it isn't so bad, otherwise, be cautious.",
+        "course": "HIPHOP"
       },
       {
         "index": 4,
         "rating": 5,
+        "difficulty": 4,
+        "comment": "Takes her class too seriously for an elective.  Attendance is mandatory and virtually nothing excuses you EVEN IF YOU HAVE A MIDTERM DURING THE CLASS PERIOD. Some people with intellectually rigorous coursework don't have time to devote to stupid presentations.  If you can, take with Maungsai Somboon- he's a lot more reasonable and understanding.",
+        "course": "DANCE201"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Lindsay is really well-organized! Her course webpage was a nice resource. She takes students' opinions seriously, and corrects mistakes in a non-threatening way. She's great-",
+        "course": "HIPHOP"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.3,
+    "avgRating": 4.9,
+    "department": "Dance",
+    "firstName": "Jenai",
+    "id": "VGVhY2hlci0xMTA5NzM2",
+    "lastName": "Cutcher",
+    "legacyId": 1109736,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Never tapped before, now I love it.  Jenai is a great teacher, and she expects you to work hard, but the class is incredibly fun.  Take this class from her!",
+        "course": "TAP1"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Jenai is absolutely amazing and a privilege to have as a teacher.  She's an incredible tapper and an even more incredible teacher.  If you are a tapper, you NEED to take this class!!",
+        "course": "TAP2"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Excellent professor, awesome class, great fun and challenging at the same time.",
+        "course": "TAP1"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I never looked forward to a class more than this one. Jenai rocks!",
+        "course": "TAP1"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "TAP1"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "TAP1"
+      },
+      {
+        "index": 7,
+        "rating": 5,
         "difficulty": 2,
-        "comment": "Lots of reading in this class, however, Kathryn does a good job with going over them in class in case you didn't understand them. Attendance is taken every class - so you have to go. Weekly reading assignments, 3 (easy) online quizzes, and a lot of small group discussions. Kathryn is really flexible with deadlines and due dates - it's nice!",
-        "course": "DANCE3402"
+        "comment": "No Comments",
+        "course": "TAP1"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.3,
+    "avgRating": 4.5,
+    "department": "Dance",
+    "firstName": "Maungsai",
+    "id": "VGVhY2hlci0xMjMyMTgz",
+    "lastName": "Somboon",
+    "legacyId": 1232183,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Maungsai is a good dance teacher with an interesting background. Dance is his life and if you're into keeping fit and having fun, hip-hop with him is for you. Fairly easy A.",
+        "course": "DANCE201"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Extremely patient and puts a lot of effort and energy in teaching.",
+        "course": "DANCE201"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "He was great!! Really fun! You learn a lot of different routines to different songs and we even spent a couple of classes doing Michael Jackson and I really had fun learning Thriller. Grades are based on effort, participation, one really easy paper, and attendance. And the final dance performance is really fun too!",
+        "course": "DANCE201"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 2,
+    "department": "Dance",
+    "firstName": "Mara",
+    "id": "VGVhY2hlci0xMzcyODEx",
+    "lastName": "Penrose",
+    "legacyId": 1372811,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "don't take her for hip hop. She has ballet and jazz in her background but NO hip hop and it shows. She is extremely nice and cute but I dreaded coming to class because it was just a waste of time. She teaches basic steps that she probably looked on youtube the night before. She is probably a great ballet teacher but not so much with hip hop",
+        "course": "HIPHO101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.5,
+    "department": "Dance",
+    "firstName": "Tina",
+    "id": "VGVhY2hlci05NjQ4MjE=",
+    "lastName": "Custer",
+    "legacyId": 964821,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I took Tina's hip hop class and I absolutely loved it! At the end of every class we get into a circle and have to perform in front of everyone but it is so much fun! She's been dancing hip hop almost her entire life and was even on MTV. lol. She's a lot of fun and made really excited about class every week!",
+        "course": "DANCE201"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.8,
+    "department": "Dance",
+    "firstName": "Susan",
+    "id": "VGVhY2hlci04NDgxNzE=",
+    "lastName": "Hadley",
+    "legacyId": 848171,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "she's a keeper.  smart. funny. and clearly knows why she's teaching what she's teaching.  there are days when she's cranky and she seems burned out.",
+        "course": "DANCE201"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She is the best teacher you will ever have for dance. Her experience and love for dance radiates out through her vibrant energy. She always makes the hardest class so much fun. She makes students want to dance. She has amazing choreography and has the best eye when correcting in class.",
+        "course": "MODERNTECHNIQU"
       }
     ],
     "SEI": []

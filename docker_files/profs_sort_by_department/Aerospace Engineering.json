@@ -1,393 +1,703 @@
 [
   {
-    "avgDifficulty": 3.7,
-    "avgRating": 2.8,
+    "avgDifficulty": 2.2,
+    "avgRating": 4.4,
     "department": "Aerospace Engineering",
-    "firstName": "Mrinal",
-    "lastName": "Kumar",
-    "legacyId": 2284552,
-    "numRatings": 9,
+    "firstName": "Brandon",
+    "id": "VGVhY2hlci0xNzY2NjQ3",
+    "lastName": "Cesul",
+    "legacyId": 1766647,
+    "numRatings": 5,
     "Ratings": [
       {
-        "index": 0,
-        "rating": "5.0",
-        "comment": "Dr. Kumar is a masterclass in teaching an engineering course. A refreshing contrast to monotone lectures from other prof's, his lectures are lively and enthusiastic, keeping my attention and inspiring me to learn the content. Course notes are downright excellent; effectively their own textbook. Exams are fair yet conceptual. Brilliant all around"
-      },
-      {
         "index": 1,
-        "rating": null,
-        "comment": "Not good, just not good. Get ready for his holy bible of astronautics notes that the entire class is based on and that he basically just reads every lecture."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "BT Cesul is an INCREDIBLE professor! He's relatable and doesn't take himself too seriously. He is an excellent resource and although I took him for a required course, I would easily take him again just for fun.",
+        "course": "EDSGN100"
       },
       {
         "index": 2,
-        "rating": null,
-        "comment": "Worst professor I've had. He makes so many mistakes and rude also. Faculty at the university he used to teach at before OSU told him to stop researching astrodynamics....he should have listened"
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Cesul was hired to teach a SENIOR DESIGN CLASS.  He ended up teaching at a FRESHMAN level.  While the alternative air option class turned in a 50 page paper, his space option class final paper had a 4 page MAX limit.  Most of the subject matter covered wasn't in depth enough to be useful and has set us back for the rest of the year.",
+        "course": "AAE4517"
       },
       {
         "index": 3,
-        "rating": null,
-        "comment": "He is incredibly slow at grading anything (roughly 1 month to grade a single midterm). His lectures/notes are completely irrelevant to the homework...there is a huge disconnect between the notes and hw material. He also has a very strange test format."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Wow, just wow.  What an amazing prof for the Aero dept.  He was like a breath of fresh vacuum, to our astronautical minds.  But seriously, he was a very knowledgeable prof who provided us with vast amounts of information, but more than that he instilled motivation in our class to learn.",
+        "course": "AAE4517"
       },
       {
         "index": 4,
-        "rating": null,
-        "comment": "Not good and very mean"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I was fortunate enough to have Dr. Cesul teach my senior design class for a semester. Though it was his first time teaching, he did an excellent job covering a vast quantity of material that none of my other courses had begun to teach. It's obvious he's very knowledgeable on satellite design. I would definitely take another course taught by him.",
+        "course": "AAE4517"
       },
       {
         "index": 5,
-        "rating": "5.0",
-        "comment": "Dr. Kumar is genuinely an amazing professor for orbital mechanics. His exams are fair and graded easily, and he often records solutions to the homework problems. His lecture notes are some of the best I have ever seen (Typed, neat, equations numbered), and he is very approachable. Def. one of the best profs at OSU."
-      },
-      {
-        "index": 6,
-        "rating": "5.0",
-        "comment": "Professor Kumar's class is very difficult because he keeps his exams very conceptual and his homeworks are high level. That being said, i've learned more from him than in most of my other classes. His lectures are very comprehensive and he explains the concepts very well. He asks a lot of you but if you keep up, it is well worth the effort."
-      },
-      {
-        "index": 7,
-        "rating": null,
-        "comment": "this guy is a horrible. He gives you homeworks that super tedious and long and not really helpful for his exams. His online notes are super long and too detailed which is not really helpful as well. He thinks everyone is so smart and understands materials straight forward - which is not true. I suffered a lot, bet u gonna suffer a lot so good luck."
-      },
-      {
-        "index": 8,
-        "rating": "4.0",
-        "comment": "Professor Kumar is exceptional in all regards. He has incredible online notes, but going to class helps out tremendously because he explains everything in a slightly different way than the notes. Homework and tests are conceptually difficult at first, but once you get the hang of it the class isn't bad at all. Would recommend."
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Cesul taught our S/C Design class for the semester. He is very interested in teaching and helping students learn. He was also very willing to help students apply for jobs or graduate school. He went above and beyond just the teaching roll.  Dr. Cesul will be a great addition to any University that is smart enough to hire him.",
+        "course": "AAE4517"
       }
-    ]
+    ],
+    "SEI": []
   },
   {
-    "avgDifficulty": 4.3,
-    "avgRating": 2.6,
+    "avgDifficulty": 3.8,
+    "avgRating": 1.9,
     "department": "Aerospace Engineering",
-    "firstName": "Jack",
-    "lastName": "MacNamara",
-    "legacyId": 1346479,
-    "numRatings": 17,
+    "firstName": "Brian",
+    "id": "VGVhY2hlci0yNjUyMDgw",
+    "lastName": "Ritchie",
+    "legacyId": 2652080,
+    "numRatings": 10,
     "Ratings": [
       {
-        "index": 0,
-        "rating": null,
-        "comment": "His grading scheme is so weird. The homeworks he assigns takes hours cause he does easy problems in class and challenging ones on the homework. Then he puts harder ones on the exam. Horrible class"
-      },
-      {
         "index": 1,
-        "rating": null,
-        "comment": "The dude does not want to teach"
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "He was helpful, supporting and very friendly ",
+        "course": "AE2200"
       },
       {
         "index": 2,
-        "rating": null,
-        "comment": "The material in this class can be super boring and the homeworks he assigns take super long cause he does such simple examples in class which don't relate at all with the homework. Not helpful at all in office hours and treats people like they are stupid. Historically, exams are near impossible but this semester, he made them not too bad."
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "He's great. ",
+        "course": "AERO2200"
       },
       {
         "index": 3,
-        "rating": null,
-        "comment": "Good luck!"
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Dr. Ritchie is easily not only the worst professor but the worst teacher I've ever had. He does not grade crucial material on time, then he blames you for it. He is incredibly lazy; don't expect him to go out of his way to do ANYTHING. Don't bother having a grade dispute, because I have documentation proving he doesn't even follow his own policy.",
+        "course": "AE4510"
       },
       {
         "index": 4,
-        "rating": null,
-        "comment": "Dude is rough"
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Dr. Ritchie is probably one of the worst professors at Ohio State. He is condescending in class, doesn't follow his own grading policy, doesn't meet his own time requirements for grading things, and gives terrible lectures. He fell asleep during my group's final presentation, like come on dude. Labs take way too long to complete and are super vague",
+        "course": "AE4510"
       },
       {
         "index": 5,
-        "rating": null,
-        "comment": "only flight vehicle structures prof in aero program. Material is interesting, but lecture is boring. Osu should probably replace him"
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Actually a ridiculously bad teacher. I've had him for 4 total classes (by far the most out of every professor I've had), and each class is just filled with pointless and vague busy work, terrible and un-instructive lectures, and hostile, lengthy, unhelpful answers to questions... all of which are delivered in a condescending tone by Ritchie.",
+        "course": "AAE4511"
       },
       {
         "index": 6,
-        "rating": null,
-        "comment": "Tough class, cant take it with other profs so you have to deal with him. Avoid if possible."
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Dr. Ritchie will break you. I was an optimist, bordering on happy, until this class. 12 hours in the lab twice a week, 15 assignments over the course of 14 days (a week before graduation) and enough bureaucratic pointless assignments to make a congressman cry. Dr. Ritchie will pit your group against eachother with CATME, and then laugh. Life sucks.",
+        "course": "AAE4512"
       },
       {
         "index": 7,
-        "rating": null,
-        "comment": "Makes tests difficult and assigns a couple HomeWorks a semester which take hours because the examples done in class don't relate to the homework very well. He is open and honest about having horrible test averages. His grading system is very awful. Get ready to be disappointed by this class no matter how many hours you study. Avoid if possible."
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Brian Ritchie was unfit to teach heat transfer b/c: 1. He doesnt know how to teach students 2. He doesnt know heat transfer I would recommend choosing any other professor over him b/c his lectures are unhelpful (just clicks thru textbook slides), his assignments arent even relevant, and to top it off, hes rude and condescending. Avoid him",
+        "course": "ME4510"
       },
       {
         "index": 8,
-        "rating": "5.0",
-        "comment": "Great guy. Lectures can be derivation heavy at times, but he breaks the monotony by cracking a few jokes and going off topic."
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "You will be watching a series of videos each week, and he will just poorly repeat what is in those videos. He wastes a lot of time ranting about things like football, so he ends up skipping a lot of slides about example problems. He seems bored during these lectures and acts rude when asked questions. My TA was much more helpful than him.",
+        "course": "AERO2200"
       },
       {
         "index": 9,
-        "rating": "5.0",
-        "comment": "Best professor at OSU, actually learned something in this class"
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "All he does is read from the slides, I learned more from the videos and my TA then from him. He is also very rude and ignorant sometimes. Maybe, it was because the class was changed to online, but I would not take his class again. I also think he just pretend to care about the student and the course, but in reality doesn't do anything to help us.",
+        "course": "AE2200"
       },
       {
         "index": 10,
-        "rating": "4.5",
-        "comment": "Structures 1 is very out there and much of it makes no sense at all to be honest.  Structures 2 is much more tangible and actually his tests weren't bad.  The final was very fair. I hope he publishes his notes into a textbook someday."
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Dont expect to learn much from lectures youll learn 90% from the pre recorded lectures from the previous professor. Changes exam style last minute for final from other exams. He will help you if you ask for it. I give credit for adapting to online instruction but clicking through pre made slides was not helpful.",
+        "course": "AERO2200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.9,
+    "avgRating": 3.6,
+    "department": "Aerospace Engineering",
+    "firstName": "James",
+    "id": "VGVhY2hlci0xNDc5NTk2",
+    "lastName": "Gregory",
+    "legacyId": 1479596,
+    "numRatings": 24,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I really liked the flipped classroom design because it forced me to take my notes and made sure I paid attention and understood the material. Homework pertained to the videos you watched that week. Mandatory attendance for lectures was dumb. I took him for granted, the 2201 professor is much worse. I miss airplane Jim and wish i had him again.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "His lectures are a major waste of time and he assigns countless assignments which are frequently irrelevant when compared to course material. The labs for this class are lengthy and redundant and his homework assignments are unnecessarily difficult. If you can avoid taking him as a professor do it!",
+        "course": "AERO2200"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "If I could give this man a 0 I would. Going to his lecture was such a waste of time and energy but attendance is taken every morning. He makes you watch countless hours of lecture videos and then repeats everything in lecture just to be redundant. His exams are unnecessarily difficult and he does not give any grading rubrics.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I've been going through quite a few personal issues this semester that affected my ability to do well in class, but he was always accessible and tried as best he could (within his own parameters) to help me succeed. He truly loves aerospace, and it's easy to see that when attending his lectures.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "He is passionate about the subject and seems to know a lot but he over complicates every assignment and doesn't make good use of in class lecture time. You have to watch 1-2 hours of online videos for a quiz and then he repeats it all in class. He wastes too much class time especially for the lectures being everyday at 8am.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This guy knows what he is doing and is a genius in Aerospace. Takes a students love of Aerospace and turns it into a functioning skill. The labs were long, but were rewarding. The homeworks were hard and sucked. The online lectures are mandatory to get a good grade. Some exams were impossible, others easy. The final project is fun and is rewarding",
+        "course": "AERO2200"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "By no means, is Jim a bad professor, however, for some reason, he seems to unnecessarily complicate things. He doesn't give you an equation sheet, despite the entire class being dependent on it. Homework is graded for correctness and is very challenging. The labs are long and tiresome and if you get stuck with a bad group... Good luck Charlie.",
+        "course": "AAE2200"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "His lecture notes don't make sense outside of class without hours of online research.  The course is Matlab heavy despite much of the MatLab not being taught in his class or the intro to MatLab class. But the worst of all was the final project he assigned during finals week that was worth 10% of your final grade and he didn't teach you how to do.",
+        "course": "AAE2200"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Great professor. One of the best I've ever had. Really cares about teaching the subject. Very helpful during office hours also.",
+        "course": "AAE2200"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "VERY good professor, especially compared to some of the third year profs. He said on the first day that he hoped we would have fun through our class and I legitimately did. He did a great job teaching the fundamental concepts of AE. The negative reviews baffle me, must be from the 50% dropout rate in AE -most remaining students thought he was great",
+        "course": "AAE2200"
       },
       {
         "index": 11,
-        "rating": null,
-        "comment": "Very upfront about how hard this class is, which is an understatement. While he was funny and a relatively good teacher, unless you go to every office hour be prepared to do abysmally in the class. Homeworks were a pain in the ass, final was impossible."
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "By far, the BEST professor I've ever had. The material covered in this class was extremely difficult, but I mean, come on, it's aerospace engineering... Dr. Gregory knows his stuff and is able to break down difficult concepts into clear and intuitive notes. I can't say enough about him. I wish every class I take from here on out was taught by him.",
+        "course": "AERO2200"
       },
       {
         "index": 12,
-        "rating": null,
-        "comment": "Very difficult course.  You know the class will be difficult when he tells you the first day that the averages usually range between 40% and 50% and he curves from there.  If you crack some jokes with him and participate in class, things are easier on you."
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Gave us alot of homeworks which should have been worth more than the exams, Lab are overloaded, Exams are impossible to destruction Whenever you ask him a question, most of the time doesn't know the answer to it. Our TA asked him a question nd he didnt give him answer,he just said good question! And that was it.",
+        "course": "AAE2200"
       },
       {
         "index": 13,
-        "rating": "4.0",
-        "comment": "I got an A in the class but I can't say it was easy because I worked my ass off for it. The lectures were a bit boring but he broke it up every once in a while and cracked some jokes. The exams were simple besides his picky T/F and the final question was always extremely hard. Good intro professor, I enjoyed his class and his approach to questions."
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "absolutely the worst professor. I think he hates middle easterns, on a first assignment he took a point of becuase i dont even know the reason, when i asked him why, he replied saying you didnt follow directions, the directions were to upload a pic and decribe your self. I did exactly what was said. He then said my pic was not good.",
+        "course": "AAE2200"
       },
       {
         "index": 14,
-        "rating": null,
-        "comment": "It was his first time teaching AAE 200 (normally teaches jr level or higher). It seemed harder than a 200 level class, but it is aero. His homeworks are nothing like the midterm or final. All he does during lectures is deriving equations."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Dr Gregory was not the best professor. He would not even give you a review sheet or go over what will be on the exam. Totally avoid him.",
+        "course": "AERO2200"
       },
       {
         "index": 15,
-        "rating": "4.5",
-        "comment": "Jack Mc....he went to Michigan"
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Was a very hard class. Intentionally made the exams more difficult after the class did well on the first exam. Not very clear in his notes. Labs are more work then they are worth",
+        "course": "AERO2200"
       },
       {
         "index": 16,
-        "rating": null,
-        "comment": ":/"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Fun guy, super helpful both in and out of class. He spends about ten minutes reviewing the previous lecture every time which really helps the concepts sink in. Exams are very fair, sometimes the homework is hard but it's good preparation.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "The exams are not that bad but the stuff he expected us to do in Matlab for the labs and homework was insane. If you're not skilled with matlab good luck getting above a 60% on the labs and homework",
+        "course": "AERO201"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Great teacher. He's able to engage students and hold their attention. His only weakness seems to be his homework and exams. The homework is complicated with the use of matlab, making it horrendous. 2nd exam problems were nothing like the books, and the review session didn't cover the test well. I'd suggest finding old ones,but that's not allowed.",
+        "course": "AERO201"
+      },
+      {
+        "index": 19,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Great guy but really hard exams and overloads on work on some weeks which sucks, but overall a good teacher",
+        "course": "AERO201"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "He is a very good professor and is very helpful. He grades fairly the exams are not very hard.",
+        "course": "AERO201"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "A great, friendly professor who is passionate about teaching. Homework assignment and labs are great resources. MUST attend lecture to get notes. Midterms and final are challenging but rewarding for those who study and try. Considers students efforts if you come to him for help often. WILL call you out if you are sleeping or texting.",
+        "course": "AERO200"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Great teacher. Teaches well and presents material clearly. He is definitely old-school and will call you out in front of class if your sleeping or texting on your phone, however, its only to keep the students focused. The class is challenging, but you will learn a lot.",
+        "course": "AERO200"
+      },
+      {
+        "index": 23,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Very helpful, always glad to point in the right direction, every question is a good question. Homeworks are relatively hard. Labs are VERY hard.make use of carmen discussion boards.Very enthusiastic/passionate about the subject in general.Derivation lectures are VERY boring but useful in tests.",
+        "course": "AERO200"
+      },
+      {
+        "index": 24,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "AAE405"
       }
-    ]
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 4.2,
-    "avgRating": 2.7,
+    "avgRating": 1.5,
     "department": "Aerospace Engineering",
-    "firstName": "Ken",
-    "lastName": "Gordon",
-    "legacyId": 2130949,
-    "numRatings": 22,
+    "firstName": "Rama",
+    "id": "VGVhY2hlci0xMTI4Njgw",
+    "lastName": "Yedavalli",
+    "legacyId": 1128680,
+    "numRatings": 34,
     "Ratings": [
       {
-        "index": 0,
-        "rating": null,
-        "comment": "Good luck."
-      },
-      {
         "index": 1,
-        "rating": "5.0",
-        "comment": "Good and fair professor, grade tests leniently, just make sure to score high on the first half of this class since that is the easy half."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "You wont have a good grade if you skip class but in the same time, you wont understand being in the class. Either way, you lose.",
+        "course": "AAE3520"
       },
       {
         "index": 2,
-        "rating": null,
-        "comment": "If you have disability services avoid this prof at all costs. He does not respect people with disability services. His lectures suck but if you dont go then you fail. His homework is graded by 5 year olds. There is no consistency in grading. His exams are hard but graded fairly. He really enjoys bulling students for asking questions. HES CANADIAN"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Rama did not tell us how he gave our final grade.",
+        "course": "AAE3520"
       },
       {
         "index": 3,
-        "rating": null,
-        "comment": "This is his ME2040 class which was not available choice. Don't skip class unless you enjoy self-learning. He doesn't have any recorded lectures, only online notes. Regarding exams, his exams are hard. I wish i had the other prof. He also doesn't give practice exams. This class is also not curved but is close to the level of physics."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Super terrible person!",
+        "course": "AAE3520"
       },
       {
         "index": 4,
-        "rating": null,
-        "comment": "he bullies students for asking questions"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Rama tried all the ways to fail you in the class.",
+        "course": "AAE3520"
       },
       {
         "index": 5,
-        "rating": "5.0",
-        "comment": "I honestly wish every professor was like Dr. Gordon. He had the clearest grading criteria for homework I've ever seen! You couldn't miss a requirement, and you didn't have to guess what he wanted: he tells you EXACTLY what he wants on EVERY homework."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Good luck if you have him!",
+        "course": "AAE3520"
       },
       {
         "index": 6,
-        "rating": null,
-        "comment": "Ken Gordon has good intentions but doesnt comprehend the fact that 80% of his students dont understand what he is saying. He teaches concepts by using abstract examples and leaves us more confused than before. Homework takes 6-8 hours and his questions are worded in a very annoying manner. Expects a lot, and exams are horrendously paced."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "The worst class Ive had in my life",
+        "course": "AAE3520"
       },
       {
         "index": 7,
-        "rating": "4.0",
-        "comment": "Ken Gordon is an incredible lecturer. He makes the content clear and you will learn the content. Although you learn the content, it is still very easy to get a poor grade. The assignments are very long and graded harshly, and while the midterms are straightforward, they are graded harshly as well. He is cool but a bit twitchy and passive aggressive"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This person shouldnt teach or grade at all",
+        "course": "AAE3520"
       },
       {
         "index": 8,
-        "rating": null,
-        "comment": "He's just not a very good teacher and doesn't understand how students don't get what he's saying. He expects a lot of his students but is a very harsh grader on even the smallest of assignments."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Emailed him politely about course questions and then he just turned crazy in his reply. This guy needs to see a doctor not teaching a class. If you had him, good luck! Remember just dont interact with him at all to avoid potential brain injuries.",
+        "course": "AAE3520"
       },
       {
         "index": 9,
-        "rating": null,
-        "comment": "Kenny G has some weird vibes like he seems really nice but it's like fake nice. The concept quizzes kind of suck since he only gives you a few minutes to answer some tricky questions. The homework can sometimes take a while since it can be hard to understand how to answer the questions using what he says in lecture. The exams aren't too bad though"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Never knew what he talked about",
+        "course": "AAE3520"
       },
       {
         "index": 10,
-        "rating": "5.0",
-        "comment": "Gordon is a fair professor who clearly explains the course material. Passionate about his subject matter and very knowledgeable. Make sure to understand the homework and concept quizzes and you will be fine."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Wouldve transfer to another school in my senior year if I knew Ill be taught by him.",
+        "course": "AAE3520"
       },
       {
         "index": 11,
-        "rating": null,
-        "comment": "Very enthusiastic, but also a lot harder than needs to be. Likes to ask trick questions. Sometimes says he won't go further on a subject because it's something on our homework and we should learn it on our own."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Screams all the time. If you caught a mistake on his textbook, he started dancing around and turning mad in the class. It makes no difference attending or not attending his class. Youll get bad grades no matter how hard you tried.",
+        "course": "AAE3520"
       },
       {
         "index": 12,
-        "rating": "4.0",
-        "comment": "Ken Gordon is one of the most knowledgeable and well prepared professors I have had the pleasure of learning from. His homeworks, while many, are fair and if you take the time to actually do them they are actually quite helpful. His exams are difficult, but not because he tries to trick you or because he intends them to be."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Just impossible to do well",
+        "course": "AAE3520"
       },
       {
         "index": 13,
-        "rating": null,
-        "comment": "Nice guy, smart, very enthusiastic about subject and seems to care about students. But he isn't always the best at explaining things, and the class is very difficult. Some things seemed to be made more difficult than they needed to be."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Worse than the worst",
+        "course": "AAE3520"
       },
       {
         "index": 14,
-        "rating": null,
-        "comment": "He seems to love the material and is smart, but the pros end there. He has a very petty vibe/ mannerisms, which includes lecture, emails, answering questions, and through the tricky worded tests and HWs. I found this material to be difficult, and his condescending approach and single one hour office hours didn't help. Overall didn't enjoy the class"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Worest professor I've ever had. Would give a 0 if I can. Don't know why the department hasn't replaced him. He gave his textbook and exams with printing and written mistakes which he called remarks. Appeears to be welling to help until you asked him questions, he started yelling at you. Wish I could've avoid it.",
+        "course": "AAE3520"
       },
       {
         "index": 15,
-        "rating": null,
-        "comment": "I fully believe that Ken loves teaching and is insanely smart but he cannot explain anything on a basic, first time seeing the material level (which is what this class is). He makes you feel stupid for asking any questions and then doesn't answer them. The exams honestly weren't bad but the average homework grade was a D after spending hours on it."
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "My group had Yedevalli for Intro to Aero II and Flight Dynamics. In the time we had him, he stated that we were the worst students he had taught. He would not state how he calculated final grades and was consistantly arguing with students in class. He had no prepared lecture notes, only read from his textbook. If you get him, enjoy his circus.",
+        "course": "AAE3520"
       },
       {
         "index": 16,
-        "rating": null,
-        "comment": "I prefer to study myself with aid of textbook and online free sources. He made this course harder than it should be. Heat transfer is no rocket science, I would prefer another lecturer for this course. This dog does not know how to respect students."
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Best professor I've had in my life. Encourages self learning throughout the course by making it hard for his students to listen in class so they are forced to study on their own.",
+        "course": "AAE3520"
       },
       {
         "index": 17,
-        "rating": null,
-        "comment": "I found his lectures and homework assignments to be very confusing. He sent many clarifications for homework as the instructions were hard to understand. Be ready to write long Matlab codes for homework which are strictly graded. When you ask a question in class he doesn't like to give a direct answer which is really frustrating."
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "If there's one word to describe Rama, it is consistent. Over the course of the semester he consistently berated students for misunderstanding material, ranted about how we were failing as engineering students, uploaded incomplete reading material that he calls his &quot;textbook&quot;, and on and on. By far the worst professor I've had at OSU. Stay away.",
+        "course": "AAE3520"
       },
       {
         "index": 18,
-        "rating": null,
-        "comment": "Choose another instructor if you have other options. He makes you lose all your interests to your major, tough grader, boring classes, not posting the grades on Carmen, limit office hours!"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Literally the worst professor Ive ever had.",
+        "course": "AAE3520"
       },
       {
         "index": 19,
-        "rating": "5.0",
-        "comment": "This guy was put on this earth to be a teacher. His class is in no way easy but he doesn't create any roadblocks to you succeeding. If you fail, it's on you. I wish every professor followed his format of teaching."
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Absolutely awful. Stay as far away as possible from him. Terrible teacher and his class was a terrible learning environment. Worst professor Ive ever had and its not even close.",
+        "course": "AAE3520"
+      },
+      {
+        "index": 20,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "By far the worst professor at OSU",
+        "course": "AAE3520"
+      },
+      {
+        "index": 21,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I wish I could give him a 0. One of the most belligerent professors Ive encountered. Expects you to have a deep understanding of the material just by reading his awful book which is riddled with typos and formatting errors.",
+        "course": "AAE3520"
+      },
+      {
+        "index": 22,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "He is confrontational, has anger issues, and refuses to answer most questions. Lectures have zero organization or structure. His custom textbook is beyond useless. You are going to learn controls by watching youtube and googling. The only professor that legitimately wasted my time and money at OSU. He should not be teaching.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 23,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "SCREAMS A LOT. You will want to laugh in his face all the time.  Subj: Great Teaching: Terrible  Wants to help: Yes But does he ? NOPE. Exams will be easy. Just be careful. ",
+        "course": "AAE3520"
+      },
+      {
+        "index": 24,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Very unprofessional. I was not understanding a main topic in the course, I went to his office hours to ask about it. When I asked he got upset I wasn't understanding, and proceeded on to the other student in the room how dumb of a question it was and how stupid I was. His \"book\" is a scanned illegible handwritten copy of his notes. ",
+        "course": "3520"
+      },
+      {
+        "index": 25,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Don't sit front row. He might spit on you while he's yelling at the class. But second row he might call you up to the front of the class. But back row he might yell at you for talking. His lectures are confusing, but he tells you exactly what is going to be on the tests. He really does want to see students succeed. He will help if you ask",
+        "course": "AAE3520"
+      },
+      {
+        "index": 26,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Gets really into some of things he teaches, aka matrices. Likes to yell and jump around, keeps you awake. Really drives in and emphasizes the concepts. Accent isn't too terribly bad. Exams are hard, but if you go to class, study, and read his notes, you'll survive. ",
+        "course": "AAE3521"
+      },
+      {
+        "index": 27,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Don't even get me started... RK will yell at you if you don't know exactly what is going on. Good luck, dudes. Some exams are super easy, others are ridiculous. Unpredictable and not the most helpful. The course content itself is actually pretty awesome, but he doesn't convey it well nor does actually use the textbook you're supposed to buy...",
+        "course": "AAE3521"
+      },
+      {
+        "index": 28,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Truly awful professor. Yells and dances around when the class doesn't understand something. Don't turn your homework in until after his lecture is over; he usually goes through the homework pile, picks a homework where someone didn't get all the right answers, and goes through their homework saying how stupid/silly their answers were. Terrible.",
+        "course": "AAE3520"
+      },
+      {
+        "index": 29,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Spends more time yelling at the class than teaching. Gets angry if the class doesnt have knowledge of a class that isn't a prereq. Views days off as time for an extra assignment. Clearly doesn't look at HW before assigning as they sometimes cover material not in curriculum, or if he made them may be missing data required to solve. Just doesnt care.",
+        "course": "AAE3520"
+      },
+      {
+        "index": 30,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "I literally have no idea what he talked about for the entire class although he did make some pretty funny noises in class.",
+        "course": "AAE3520"
+      },
+      {
+        "index": 31,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Had him for 3520 (flight dynamics), 3521 (controls), and 5626 (orbital mechanics).  He's very, very into what he does and he would go irate if we did bad as a class in 3520.  However, the next semester he took a cue from the SEIs and mellowed out. He was a very great prof from there on out.",
+        "course": "AAE3520"
+      },
+      {
+        "index": 32,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "He speaks with a very strong Indian accent and is very hard to comprehend what he is saying. His tests are not well balanced at all, e.g. our first test was really easy so he made the second test really difficult with a ridiculous point system with little partial credit. He is completely unpredictable and there is no way to judge how you are doing",
+        "course": "AAE580"
+      },
+      {
+        "index": 33,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "He is the matrix guy. Very good teacher, has a great expertise in his field. AAE 621 is a lot on linear algebra and it's application in Controls. He is quite helpful as well.",
+        "course": "AAE621"
+      },
+      {
+        "index": 34,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "one of his better classes",
+        "course": "AAE626"
       }
-    ]
+    ],
+    "SEI": []
   },
   {
-    "avgDifficulty": 5,
+    "avgDifficulty": 2.6,
     "avgRating": 5,
     "department": "Aerospace Engineering",
     "firstName": "John",
-    "lastName": "Cherry",
-    "legacyId": 3006678,
-    "numRatings": 1,
+    "id": "VGVhY2hlci0yMjg2OTY5",
+    "lastName": "Horack",
+    "legacyId": 2286969,
+    "numRatings": 7,
     "Ratings": [
-      {
-        "index": 0,
-        "rating": "5.0",
-        "comment": "great professor overall"
-      }
-    ]
-  },
-  {
-    "avgDifficulty": 2.7,
-    "avgRating": 3.3,
-    "department": "Aerospace Engineering",
-    "firstName": "Ali",
-    "lastName": "Jhemi",
-    "legacyId": 2213129,
-    "numRatings": 21,
-    "Ratings": [
-      {
-        "index": 0,
-        "rating": "4.0",
-        "comment": "A lot of my peers did not like Dr. Jhemi, however I found him to be a good prof all around. I did not miss a lecture and I believe this greatly contributed to my success in the class. The exams often had problems from homework, and quizzes often had MC from the lecture notes. He tells you what questions will be on the exam, easy to pass if you try."
-      },
       {
         "index": 1,
-        "rating": null,
-        "comment": "Talks over slides and diagrams without doing problems or showing how to approach the material, often goes off on tangents unrelated to anything. Only positive was that he communicated grading criteria very clearly. Attendance was taken usually once a week and quizzes were given semi-regularly. Often complained about students performance on tests."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I took a class with him that wasn't for credit in my major just because he was teaching it. I mean, yes, I was interested in the class, but the main reason was that Dr. Horack was the teacher.",
+        "course": "PUBAFRS3620"
       },
       {
         "index": 2,
-        "rating": null,
-        "comment": "Lectures are just rambling over PowerPoint slides, goes very slow, and doesn't cover all the material. Has attendance about once a week and 5 min quizzes every so often. The class would be horrible if the tests weren't easy to learn on your own for. Promised a curve on final grades and did not curve unless your grade was within 0.09%"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Class is build to lecture then discuss leadership. Gives great stories and life advive. He really cares and demostrates unconventional leadership.",
+        "course": "PUBAFRS2130"
       },
       {
         "index": 3,
-        "rating": null,
-        "comment": "Very unorganized and didnt seem to care that this is a pre req for lots of students. We were extremely far behind and instead of catching up, he decided to drop content. He understands the content very well but he is a terrible teacher he only knows how to solve the problems not explain. He also expects you to illegally access the course textbook."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Horack is awesome. He cares about his students, even for online classes. He understands the challenges of students and is willing to adjust the course as needed in light of that. I definitely hope to take another class with Dr. Horack before graduating.",
+        "course": "AVIATN2000"
       },
       {
         "index": 4,
-        "rating": null,
-        "comment": "Jhemi's a great guy and his exams and homeworks are usually straightforward. However, he's probably the most disorganized lecturer I've had. He corrected his own notes mid-class 10-20 times throughout the semester, and reads right off of his derivation-heavy powerpoint slides. Very confusing lectures. Unintentionally hilarious prof. though"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very cool and fun guy; makes lectures fun. Unfortunately he has a lot on his plate, so the second professor for the class gave almost every lecture save for a couple.",
+        "course": "AAE5626"
       },
       {
         "index": 5,
-        "rating": "4.0",
-        "comment": "His lecture slides were very long and very crowded with a bunch of things that were very confusing. He gives us way too much than we need for the homework and it's super hard sometimes to find what we need for the homework. He's really nice and good at explaining things in office hours and the class is pretty fair as long as you put in some effort."
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "One of the best professors at Ohio State. Dr. Horack is extremely enthusiastic about teaching, and as a student in this class, you'll become enthusiastic too. He cares about his students deeply and is also extremely knowledgeable.",
+        "course": "AEROENG5625"
       },
       {
         "index": 6,
-        "rating": null,
-        "comment": "Professor Jhemi mainly read from a PowerPoint. Every now and then he would find a mistake and we would have to wait or help him solve it. He was quite lenient with grading his midterms and often would give you points that the graders wouldn't. The textbook wasn't really needed, since he provided all of the problems for the homework."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Hands down one of the best professors EVER! Usually, I dont like classes that are less structured, but this class is super engaging and you will learn so much in each session. He will teach you so much about leadership; not by some textbook definition, but real, insightful takeaways about character and decision-making. Great class for any major!",
+        "course": "PUBAFRS2130"
       },
       {
         "index": 7,
-        "rating": "5.0",
-        "comment": "Dr. Jhemi was a good professor. He always had examples to assist you in class and was available outside of class, too. The homework was generally simple and great practice for exams. The exams were simple, too, like the homework, and packed with lenient grading. For instance, a FBD granted 60% of the points for a question. Good class, good prof."
-      },
-      {
-        "index": 8,
-        "rating": null,
-        "comment": "Prof. Jhemi has industry experience and clearly is an intelligent person, however, that does not make him a good professor. His lecture slides are disorganized, filled with typos and computational errors. He does not explain the materials well for the exams. He spends too much time going off topic."
-      },
-      {
-        "index": 9,
-        "rating": "4.0",
-        "comment": "Dr. Jhemi is one of my favorite professors. He's not the best teacher, and he makes a lot of spelling errors on all his documents; however, he has fantastic industry experience, is very wise, and his feedback should be followed to the letter. He's also very funny; I enjoy going to his office hours just to talk to him. Highly recommend him!"
-      },
-      {
-        "index": 10,
-        "rating": "5.0",
-        "comment": "He is a good professor, this class just has content that is really hard and you will need to improve on how you view things. 3D thinking when working on problems but he cares and understand and will work with students. I recommend to have him as your professor"
-      },
-      {
-        "index": 11,
-        "rating": "5.0",
-        "comment": "He is a caring and understanding professor, he cares about his students and his exams are exactly as he taught. he will teach you and explain everything clear. mostly his lectures are fun"
-      },
-      {
-        "index": 12,
-        "rating": "5.0",
-        "comment": "Great professor. Just show up to class and he will make sure you know everything you need to know for all the homeworks and exams. If you don't understand something he is very accessible via office hours."
-      },
-      {
-        "index": 13,
-        "rating": "4.0",
-        "comment": "Cares about student learning. I learned a lot from him, brings good industrial experience to the class."
-      },
-      {
-        "index": 14,
-        "rating": null,
-        "comment": "Had Jhemi a couple other times in my academic career and wasn't impressed, but he runs project classes a little better than standard \"test\" classes. Still very unclear about what he wants for things."
-      },
-      {
-        "index": 15,
-        "rating": null,
-        "comment": "His lectures are pointless and makes mistakes and is corrected by the students. His exams vary from a D average to an A- average and are poorly written and he often has to announce to the class what he means on a certain problem DURING the exam. He emails you the day before what's going to be on his exams and even those emails are misleading."
-      },
-      {
-        "index": 16,
-        "rating": null,
-        "comment": "Had Jhemi for Aero 3542 as well as Aero 2201. He is incredibly disorganized and is an awful lecturer. On the bright side, the homeworks are usually very straightforward. He seems incapable of creating a fair test though, as they are extremely long and sometimes filled with errors. Blames the students for doing poorly."
-      },
-      {
-        "index": 17,
-        "rating": null,
-        "comment": "Rambles sometimes about his past and his experience(Apache main rotors if you want to get on his good side). MATLAB Assignment later in semester is very vague, and he expects students to \"experience what he did\" PPT's are mixture of atrocious walls of text, and excellent diagrams"
-      },
-      {
-        "index": 18,
-        "rating": null,
-        "comment": "I took it last sem and it was so bad. Class was easy tbh, but i dont think ive learned anything really useful from him.. anyway yeah i got B+ so thats all it matters  i guess"
-      },
-      {
-        "index": 19,
-        "rating": "4.0",
-        "comment": "The beginning of the semester was rather chaotic, although a good portion of that was not the fault of the professor. Overall, the man knows what he's talking about and you can learn a lot from him if you're willing to put in the effort. Read the material and go to class. The course content itself isn't too bad, if you paid attention in linear alg."
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "If you plan on working in the space industry at all, taking a class from Horack is an absolute must. He literally knows everyone, and can help you at every step of the way. His lectures are interesting and overall a good guy",
+        "course": "AE5626"
       }
-    ]
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 3.2,
+    "department": "Aerospace Engineering",
+    "firstName": "Ran",
+    "id": "VGVhY2hlci0yNDM2MDU1",
+    "lastName": "Dai",
+    "legacyId": 2436055,
+    "numRatings": 6,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Ran Dai is simply the worst professor I have ever had. Although the class is easy enough due to extra credit opportunities, It is the worst academic experience I have had at OSU by far. Dr. Dai is extremely bad at communicating information to students and you will feel lost during pretty much every lecture.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "One of the better aerospace professor at OSU.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Dai actually organized this class pretty well compare to what we had for other aerospace classes last semester.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "One of the good professor in the OSU aerospace department. Its unfortunately that the prerequisite for this class, FVD, was taught by Rama Y before Ran Dai. Otherwise, this class would make much more sense but its still good.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "So the lectures are pointless, she just puts her head down and talk at her iPad. The posted notes are virtually impossible to follow. Be prepared to learn from someone else. Nice person though.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "You will learn nothing from the lectures. Lecture notes pretty useless too. But she's helpful in office hours. Good luck.",
+        "course": "AERO3521"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 5,
+    "department": "Aerospace Engineering",
+    "firstName": "Colin",
+    "id": "VGVhY2hlci0yOTYyNjEw",
+    "lastName": "Trussa",
+    "legacyId": 2962610,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Great lecturer, really interesting material. Colin's handwriting was tricky to follow sometimes, but he was always happy to clarify. \nThe exams were a mix of calculation and conceptual questions.\nShow up to every lecture and pay attention, and you'll do well. It's a tough class - but what did you expect? Highly recommend.",
+        "course": "AEROENG3560"
+      }
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 2.7,
@@ -952,6 +1262,82 @@
     "SEI": []
   },
   {
+    "avgDifficulty": 4.2,
+    "avgRating": 3.5,
+    "department": "Aerospace Engineering",
+    "firstName": "Jeffery",
+    "id": "VGVhY2hlci0xNTUxMzYw",
+    "lastName": "Bons",
+    "legacyId": 1551360,
+    "numRatings": 9,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Really good class",
+        "course": "AE3570"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr Bons is amazing. Yes his class is hard but that's more due to the nature of aerospace engineering. He really peaked my interest in everything related to aerodynamics. Tests are tricky but not unreasonable. He's incredibly knowledgeable and smart and does a great job and effectively communicating the mat",
+        "course": "AE3570"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "The best professor I've had here at OSU, and definitely the best one in the department. His lectures were downright fantastic, and it is evident that he cares a great deal about students. His class is hard (because Aerospace Engineering is hard), but it is very manageable, and certainly worth taking. You'll learn a ton from Dr. Bons, for sure.",
+        "course": "AE3570"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Dr. Bons is an incredible professor. He's probably the smartest person I've ever met, but that is his greatest downfall. He had trouble relaying some of the fundamentals to us undergrads as he is mainly a graduate professor. Homeworks would take days to complete and exams were incredibly difficult, I would recommend only taking him as a grad.",
+        "course": "AAE3560"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "The homeworks were barely relatable to things learned in the course, and the grading guidelines were hard to follow. The exams seemed to be written by a different professor, maybe for a different course entirely. Would not recommend.",
+        "course": "AERO3560"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "His requirements for homework are not very clear, and his test questions are more difficult than you'll expect, no matter how well you prepare. He often gets side-tracked during lectures; he even forgot the semester was shortened by a week, so we did not cover all the material he wanted to. Very difficult undergraduate professor; you will struggle.",
+        "course": "AE3560"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Very confusing as a person, I have no idea how he still works here",
+        "course": "AAE5612"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "He is probably the smartest professor I've had. He is so smart that he has unbelievably high expectations for his students. This is a good thing, but most of the students will not meet his expectations and receive mediocre grades. You must be very proactive in his class and go get help all the time.",
+        "course": "AERO201"
+      },
+      {
+        "index": 9,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "He has very bad handwriting so you should sit in the front of the class. The best way to understand the material would be to read the book right before or right after his lectures. He isn't the best at explaining ideas so talk to your TA's. However, he still is a good teacher",
+        "course": "AERO201"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 2.2,
     "avgRating": 4.5,
     "department": "Aerospace Engineering",
@@ -1235,82 +1621,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 4.2,
-    "avgRating": 3.5,
-    "department": "Aerospace Engineering",
-    "firstName": "Jeffery",
-    "id": "VGVhY2hlci0xNTUxMzYw",
-    "lastName": "Bons",
-    "legacyId": 1551360,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Really good class",
-        "course": "AE3570"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr Bons is amazing. Yes his class is hard but that's more due to the nature of aerospace engineering. He really peaked my interest in everything related to aerodynamics. Tests are tricky but not unreasonable. He's incredibly knowledgeable and smart and does a great job and effectively communicating the mat",
-        "course": "AE3570"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "The best professor I've had here at OSU, and definitely the best one in the department. His lectures were downright fantastic, and it is evident that he cares a great deal about students. His class is hard (because Aerospace Engineering is hard), but it is very manageable, and certainly worth taking. You'll learn a ton from Dr. Bons, for sure.",
-        "course": "AE3570"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "Dr. Bons is an incredible professor. He's probably the smartest person I've ever met, but that is his greatest downfall. He had trouble relaying some of the fundamentals to us undergrads as he is mainly a graduate professor. Homeworks would take days to complete and exams were incredibly difficult, I would recommend only taking him as a grad.",
-        "course": "AAE3560"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "The homeworks were barely relatable to things learned in the course, and the grading guidelines were hard to follow. The exams seemed to be written by a different professor, maybe for a different course entirely. Would not recommend.",
-        "course": "AERO3560"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "His requirements for homework are not very clear, and his test questions are more difficult than you'll expect, no matter how well you prepare. He often gets side-tracked during lectures; he even forgot the semester was shortened by a week, so we did not cover all the material he wanted to. Very difficult undergraduate professor; you will struggle.",
-        "course": "AE3560"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Very confusing as a person, I have no idea how he still works here",
-        "course": "AAE5612"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "He is probably the smartest professor I've had. He is so smart that he has unbelievably high expectations for his students. This is a good thing, but most of the students will not meet his expectations and receive mediocre grades. You must be very proactive in his class and go get help all the time.",
-        "course": "AERO201"
-      },
-      {
-        "index": 9,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "He has very bad handwriting so you should sit in the front of the class. The best way to understand the material would be to read the book right before or right after his lectures. He isn't the best at explaining ideas so talk to your TA's. However, he still is a good teacher",
-        "course": "AERO201"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 2.4,
     "avgRating": 4.1,
     "department": "Aerospace Engineering",
@@ -1428,152 +1738,172 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 4,
-    "avgRating": 5,
+    "avgDifficulty": 4.2,
+    "avgRating": 2.2,
     "department": "Aerospace Engineering",
-    "firstName": "Colin",
-    "id": "VGVhY2hlci0yOTYyNjEw",
-    "lastName": "Trussa",
-    "legacyId": 2962610,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Great lecturer, really interesting material. Colin's handwriting was tricky to follow sometimes, but he was always happy to clarify. \nThe exams were a mix of calculation and conceptual questions.\nShow up to every lecture and pay attention, and you'll do well. It's a tough class - but what did you expect? Highly recommend.",
-        "course": "AEROENG3560"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.8,
-    "avgRating": 1.9,
-    "department": "Aerospace Engineering",
-    "firstName": "Brian",
-    "id": "VGVhY2hlci0yNjUyMDgw",
-    "lastName": "Ritchie",
-    "legacyId": 2652080,
-    "numRatings": 10,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "He was helpful, supporting and very friendly ",
-        "course": "AE2200"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "He's great. ",
-        "course": "AERO2200"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Dr. Ritchie is easily not only the worst professor but the worst teacher I've ever had. He does not grade crucial material on time, then he blames you for it. He is incredibly lazy; don't expect him to go out of his way to do ANYTHING. Don't bother having a grade dispute, because I have documentation proving he doesn't even follow his own policy.",
-        "course": "AE4510"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Dr. Ritchie is probably one of the worst professors at Ohio State. He is condescending in class, doesn't follow his own grading policy, doesn't meet his own time requirements for grading things, and gives terrible lectures. He fell asleep during my group's final presentation, like come on dude. Labs take way too long to complete and are super vague",
-        "course": "AE4510"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Actually a ridiculously bad teacher. I've had him for 4 total classes (by far the most out of every professor I've had), and each class is just filled with pointless and vague busy work, terrible and un-instructive lectures, and hostile, lengthy, unhelpful answers to questions... all of which are delivered in a condescending tone by Ritchie.",
-        "course": "AAE4511"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Dr. Ritchie will break you. I was an optimist, bordering on happy, until this class. 12 hours in the lab twice a week, 15 assignments over the course of 14 days (a week before graduation) and enough bureaucratic pointless assignments to make a congressman cry. Dr. Ritchie will pit your group against eachother with CATME, and then laugh. Life sucks.",
-        "course": "AAE4512"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Brian Ritchie was unfit to teach heat transfer b/c: 1. He doesnt know how to teach students 2. He doesnt know heat transfer I would recommend choosing any other professor over him b/c his lectures are unhelpful (just clicks thru textbook slides), his assignments arent even relevant, and to top it off, hes rude and condescending. Avoid him",
-        "course": "ME4510"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "You will be watching a series of videos each week, and he will just poorly repeat what is in those videos. He wastes a lot of time ranting about things like football, so he ends up skipping a lot of slides about example problems. He seems bored during these lectures and acts rude when asked questions. My TA was much more helpful than him.",
-        "course": "AERO2200"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "All he does is read from the slides, I learned more from the videos and my TA then from him. He is also very rude and ignorant sometimes. Maybe, it was because the class was changed to online, but I would not take his class again. I also think he just pretend to care about the student and the course, but in reality doesn't do anything to help us.",
-        "course": "AE2200"
-      },
-      {
-        "index": 10,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Dont expect to learn much from lectures youll learn 90% from the pre recorded lectures from the previous professor. Changes exam style last minute for final from other exams. He will help you if you ask for it. I give credit for adapting to online instruction but clicking through pre made slides was not helpful.",
-        "course": "AERO2200"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.2,
-    "avgRating": 4.4,
-    "department": "Aerospace Engineering",
-    "firstName": "Brandon",
-    "id": "VGVhY2hlci0xNzY2NjQ3",
-    "lastName": "Cesul",
-    "legacyId": 1766647,
+    "firstName": "Carl",
+    "id": "VGVhY2hlci0xODI1NDQ2",
+    "lastName": "Hartsfield",
+    "legacyId": 1825446,
     "numRatings": 5,
     "Ratings": [
       {
         "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "BT Cesul is an INCREDIBLE professor! He's relatable and doesn't take himself too seriously. He is an excellent resource and although I took him for a required course, I would easily take him again just for fun.",
-        "course": "EDSGN100"
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "I always enjoy going to class because he always has jokes that go along well with the material. The 'airplane of the day' is always cool too. But, don't expect to have a good understanding of the material just because you attended the lecture. Re-reading his slides on Carmen and reading the textbook before exams are a MUST.",
+        "course": "AAE2201"
       },
       {
         "index": 2,
-        "rating": 3,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Probably one of the worst professors I have ever had. Lectures are boring, power points are not clear, and exams are impossible and way too long. ",
+        "course": "AAE2201"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Best part of class is the Aerospace System of the Day. Spends the rest of class deriving or writing formulas on the board with little explanation. You are guaranteed to fall asleep, but may wake back up when he starts talking about industry experiences. AWESOME dude, not the best professor. Take him to the bar, not the lecture hall.",
+        "course": "AAE2201"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Worst lecturer ever. Flew through slides did not explain how to use the formulas. Exams were impossible and not nearly enough time to finish them.",
+        "course": "AAE2201"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "For some reason his online notes were compact and clear, but in class he was the complete opposite. Heat Transfer has a crapton of empirical formulas and you will spend 60 minutes a lecture writing them down with no explanation of what's going on. My final cheat-sheet was literally just a flowchart of formulas to use... worked though.",
+        "course": "AAE3580"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.5,
+    "department": "Aerospace Engineering",
+    "firstName": "Paul",
+    "id": "VGVhY2hlci0xMDM5MjYw",
+    "lastName": "Penko",
+    "legacyId": 1039260,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
         "difficulty": 1,
-        "comment": "Cesul was hired to teach a SENIOR DESIGN CLASS.  He ended up teaching at a FRESHMAN level.  While the alternative air option class turned in a 50 page paper, his space option class final paper had a 4 page MAX limit.  Most of the subject matter covered wasn't in depth enough to be useful and has set us back for the rest of the year.",
-        "course": "AAE4517"
+        "comment": "I am still in touch with Dr. Penko 5 years after graduation. He has great wisdom, industry experience 20 years in NASA and real cares for his students, aside from a dry sense of humor. I am a lifetime learner from Dr. Penko- he is a true educator. ",
+        "course": "AERO571"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Great Prof. prints out notes for you. just do the hw it's easy and you will be ok",
+        "course": "AAE530"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.9,
+    "department": "Aerospace Engineering",
+    "firstName": "Andrew",
+    "id": "VGVhY2hlci0yMDA4ODcx",
+    "lastName": "Schermerhorn",
+    "legacyId": 2008871,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Andrew was the best teacher I had at Ohio State. He is awesome!",
+        "course": "ME2030"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He's actually only a TA, but he's very knowledgeable, friendly, approachable, and helpful. We usually had a quiz every week, that for me was very easy. I actually wish the quizzes were harder in order to prep better for the exams. Some people like the easier points I guess. To each their own.",
+        "course": "MATH1075"
       },
       {
         "index": 3,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "Wow, just wow.  What an amazing prof for the Aero dept.  He was like a breath of fresh vacuum, to our astronautical minds.  But seriously, he was a very knowledgeable prof who provided us with vast amounts of information, but more than that he instilled motivation in our class to learn.",
-        "course": "AAE4517"
+        "difficulty": 4,
+        "comment": "He's very helpful and definitely cares about the students sucess! He is very funny and the class is very interesting and he encourages me to try my best.",
+        "course": "MATH1075"
       },
       {
         "index": 4,
         "rating": 5,
         "difficulty": 3,
-        "comment": "I was fortunate enough to have Dr. Cesul teach my senior design class for a semester. Though it was his first time teaching, he did an excellent job covering a vast quantity of material that none of my other courses had begun to teach. It's obvious he's very knowledgeable on satellite design. I would definitely take another course taught by him.",
-        "course": "AAE4517"
+        "comment": "Let me start by saying I hate math. Andrew makes it way easier to understand this thing we call math and class is actually interesting and pretty funny. He even had office hours that he would work if there was anything you were struggling on. Awesome guy!",
+        "course": "MATH1075"
       },
       {
         "index": 5,
         "rating": 5,
+        "difficulty": 3,
+        "comment": "One of the best math teachers I've had. Always super willing to help everyone! He explains concepts that I've spent 3 hours on and I get it in less then 10 min :) Very personable and hilarious. ",
+        "course": "MATH1075"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Great at explaining concepts! And he's hilarious.",
+        "course": "ME2030"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "The class was pretty tough, in general, but he tried to do the best he could. He did not create the tests or grade anything, but he was helpful in office hours. ",
+        "course": "ME2030"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.7,
+    "avgRating": 3.5,
+    "department": "Aerospace Engineering",
+    "firstName": "Joseph",
+    "id": "VGVhY2hlci05NTczMDE=",
+    "lastName": "Haritonidis",
+    "legacyId": 957301,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "He is a professor.",
+        "course": "AAE69"
+      },
+      {
+        "index": 2,
+        "rating": 3,
         "difficulty": 4,
-        "comment": "Dr. Cesul taught our S/C Design class for the semester. He is very interested in teaching and helping students learn. He was also very willing to help students apply for jobs or graduate school. He went above and beyond just the teaching roll.  Dr. Cesul will be a great addition to any University that is smart enough to hire him.",
-        "course": "AAE4517"
+        "comment": "Wow this guy is ANAL about everything! He actually screams at you for your cell phones.  He just derive equations all through class, you'll learn a lot more from reading the books.  Just a nightmare to sit through his class when he always think he's better than the students",
+        "course": "AERO661"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Don't forget to turn off your cell phone before entering his class, or else you're doomed!",
+        "course": "AAE560"
       }
     ],
     "SEI": []

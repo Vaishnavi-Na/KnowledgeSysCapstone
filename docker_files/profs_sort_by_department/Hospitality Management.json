@@ -1,89 +1,5 @@
 [
   {
-    "avgDifficulty": 2.6,
-    "avgRating": 3.8,
-    "department": "Hospitality Management",
-    "firstName": "Mark",
-    "lastName": "Kelnhofer",
-    "legacyId": 2545798,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 0,
-        "rating": "4.0",
-        "comment": "He is very helpful and straightforward about exam material. I found the homework hard, especially since it was 100% remote, so I recommend taking an accounting class in-person."
-      },
-      {
-        "index": 1,
-        "rating": "4.0",
-        "comment": "Mark's very passionate about accounting. There were 2 pieces of homework every week and 2 lectures a week, with an exam every few weeks that covered a few chapters at a time. Lectures were boring but attendance is 90 points at the end of the semester. Before every exam he covered every question that would be on it, making studying easy."
-      },
-      {
-        "index": 2,
-        "rating": "5.0",
-        "comment": "so so so awesome. It took accounting with him and he wants to set you up for success as best as possible. before the exam he goes through every question and gets as close to giving the answer as possible. he does not want to trick you but make it as simple and clear as possible"
-      },
-      {
-        "index": 3,
-        "rating": null,
-        "comment": "This is the first time OSU has offered this course. Mark talks really slow so it's easy to get bored during lectures. Goes over everything in the book during class time. This class will probably be harder in person."
-      },
-      {
-        "index": 4,
-        "rating": null,
-        "comment": "Very easy and requires minimal effort. Should be an easy A. When you take the quizzes online you don't get to see the questions you missed, and there were several questions that went completely against what was stated in the powerpoints. I inquired about this and he said he would look into it and get back to me but I never heard from him again..."
-      }
-    ]
-  },
-  {
-    "avgDifficulty": 2.6,
-    "avgRating": 3.8,
-    "department": "Hospitality Management",
-    "firstName": "Mark",
-    "id": "VGVhY2hlci0yNTQ1Nzk4",
-    "lastName": "Kelnhofer",
-    "legacyId": 2545798,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "He is very helpful and straightforward about exam material. I found the homework hard, especially since it was 100% remote, so I recommend taking an accounting class in-person.",
-        "course": "CSHSPMG2100"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Mark's very passionate about accounting. There were 2 pieces of homework every week and 2 lectures a week, with an exam every few weeks that covered a few chapters at a time. Lectures were boring but attendance is 90 points at the end of the semester. Before every exam he covered every question that would be on it, making studying easy. ",
-        "course": "CSHSPMG2100"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "so so so awesome. It took accounting with him and he wants to set you up for success as best as possible. before the exam he goes through every question and gets as close to giving the answer as possible. he does not want to trick you but make it as simple and clear as possible",
-        "course": "CSHSPMG2990"
-      },
-      {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "This is the first time OSU has offered this course. Mark talks really slow so it's easy to get bored during lectures. Goes over everything in the book during class time. This class will probably be harder in person.",
-        "course": "CSHSPMG2100"
-      },
-      {
-        "index": 5,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Very easy and requires minimal effort. Should be an easy A. When you take the quizzes online you don't get to see the questions you missed, and there were several questions that went completely against what was stated in the powerpoints. I inquired about this and he said he would look into it and get back to me but I never heard from him again...",
-        "course": "CSHSPMG2990"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 2.4,
     "avgRating": 4.6,
     "department": "Hospitality Management",
@@ -182,6 +98,355 @@
         "difficulty": 4,
         "comment": "Lots of papers. The majority of the your grade is papers and the participation. The lectures are boring and LONG!",
         "course": "CSHPMG3720"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.5,
+    "department": "Hospitality Management",
+    "firstName": "David",
+    "id": "VGVhY2hlci0yNTUyMzk0",
+    "lastName": "Wolf",
+    "legacyId": 2552394,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Chef Wolf is really fun and gives you plenty of opportunities to boost your grade toward the end of the semester! As long as you do your online homework and show up to lab, you'll get an A.",
+        "course": "CSHSPMG2700"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Really nice, respectable guy that really cares for his students. I took the lecture/lab during the fall semester. Make sure you get with a good/reliable lab partner ASAP. Labs were fun and his commentary is hilarious. He goes over a lot during lecture but you wont need to know most of that. Pass ServSafeGolden. He's pretty lax w/ dress code.",
+        "course": "CSHSPMG2700"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4,
+    "department": "Hospitality Management",
+    "firstName": "Qing",
+    "id": "VGVhY2hlci0yMjE2MDc0",
+    "lastName": "Liu",
+    "legacyId": 2216074,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Liu was an excellent professor for this online class. She answers very quickly, gets straight to the point, and the course itself is very easy.",
+        "course": "CSHSPMG4680"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Easy class, a lot of group work. Exams are open note and online.",
+        "course": "CSHSPMG2600"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.3,
+    "avgRating": 4,
+    "department": "Hospitality Management",
+    "firstName": "Mark",
+    "id": "VGVhY2hlci0yNTQ1Nzk4",
+    "lastName": "Kelnhofer",
+    "legacyId": 2545798,
+    "numRatings": 6,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Mark is a genius.",
+        "course": "CSHSPMG2100"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "He is very helpful and straightforward about exam material. I found the homework hard, especially since it was 100% remote, so I recommend taking an accounting class in-person.",
+        "course": "CSHSPMG2100"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Mark's very passionate about accounting. There were 2 pieces of homework every week and 2 lectures a week, with an exam every few weeks that covered a few chapters at a time. Lectures were boring but attendance is 90 points at the end of the semester. Before every exam he covered every question that would be on it, making studying easy. ",
+        "course": "CSHSPMG2100"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "so so so awesome. It took accounting with him and he wants to set you up for success as best as possible. before the exam he goes through every question and gets as close to giving the answer as possible. he does not want to trick you but make it as simple and clear as possible",
+        "course": "CSHSPMG2990"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "This is the first time OSU has offered this course. Mark talks really slow so it's easy to get bored during lectures. Goes over everything in the book during class time. This class will probably be harder in person.",
+        "course": "CSHSPMG2100"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Very easy and requires minimal effort. Should be an easy A. When you take the quizzes online you don't get to see the questions you missed, and there were several questions that went completely against what was stated in the powerpoints. I inquired about this and he said he would look into it and get back to me but I never heard from him again...",
+        "course": "CSHSPMG2990"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 1,
+    "department": "Hospitality Management",
+    "firstName": "Hanna",
+    "id": "VGVhY2hlci0yMDQ1NDc4",
+    "lastName": "Paulose",
+    "legacyId": 2045478,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "Class is easy! Just show up & work on other homework in class. Group Project is the worst along with in class activities at the end of class. She takes attendance. Lecture slides are online. 2 exams are online with lock down browser. Easy A. Just show up & you don't even have to listen. Also she has a major accent, can barely understand, quiet!",
+        "course": "CSHSPMG1600"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 3.5,
+    "department": "Hospitality Management",
+    "firstName": "Marc",
+    "id": "VGVhY2hlci0yMDA4MjY0",
+    "lastName": "Dullin",
+    "legacyId": 2008264,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great guy and instructor! Very helpful and cares for his students. Goes in depth with everything he cooks, everything you cook in class is not too hard and is easy to make at home.",
+        "course": "CSHSPMG2710"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Rude and not that helpful. Very critic ",
+        "course": "2710"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Hospitality Management",
+    "firstName": "Heather",
+    "id": "VGVhY2hlci0yMTE0MjIz",
+    "lastName": "Buck",
+    "legacyId": 2114223,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Heather is definitely an excellent lecturer and real-life trainer. She gave very organized and inspiring lectures. Her commitment and willingness to help students are also remarkable! Take this class and you will learn a lot!",
+        "course": "CSHSPMG4650"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.4,
+    "avgRating": 4.5,
+    "department": "Hospitality Management",
+    "firstName": "Wayne",
+    "id": "VGVhY2hlci0xMzQ2Mjc=",
+    "lastName": "Johnson",
+    "legacyId": 134627,
+    "numRatings": 19,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Lovely man; very approachable and insightful. He loves his job and knows how to structure info well so students can understand. Class attendance not mandatory but takes roll for extra credit. If you don't buy the book, attend the classes. Will call on students randomly to get answers and opinions. Hope to have Professor Johnson again in the future!",
+        "course": "CSHSPMG1600"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Boring. You honestly don't need to go to class as long as you pay attention to the online portion. Most of it is kind of common sense or easily understood. Easy A.",
+        "course": "CSHSPMG1600"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Johnson is a great professor. He doesn't make you buy the book for this course. Material is extremely easy. Class is tempting to skip, but he has us evaluate each others presentations for like four weeks for points. Overall easy A and easy professor. I wish I had him for every class!",
+        "course": "CSHSM0010"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "class is an easy A. go to class,do the online quizzes, and youll get an A.  Lectures are boring.he talks slow...so a two hr lecture could actually be summarized in 30min's if a different teacher was teaching or if he talked faster. he is a nice guy, but this is a class in which you should already know the content of the course before entering",
+        "course": "HSMGT460"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Overall a good professor.  Do not buy the OSU custom edition of the book, it costs a lot more than the regular version and he really does not use the added content.  As noted by another reviewer sometimes he does go off topic but I found the class overall to be very interesting.  He keeps it very lively and dresses very well.",
+        "course": "HM230"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Very nice professor but does talk about pretty random stuff during class instead of the subject. You take a program online which is half your grade and is very easy. Book isn't used but helps to go through the summaries before tests. Class wasn't mandatory and overall is an easy A with minimal work.",
+        "course": "HM230"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Gave out practice midterm..actual midterm in class was the exact same test! Easy 10 point papers each week. Easy A!",
+        "course": "HM230"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Don't need the text book, the powerpoints he uses has everything you'll need. do the work and you'll get an A. the &quot;practice&quot; midterm and final on carmen are almost verbatim the actual tests...",
+        "course": "HSPMG230"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Do the work and you will get an A. Dr. Johnson is a great resource for any student in the Hospitality Department. He is approachable and more than willing to help. Loves to teach! Highly recommended.",
+        "course": "ALLHM"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easy class and a Dr J is a nice guy.  But he is a pushover, his doctorate is in Biochemistry.  As a returning student, with a decent amount of hosp indusrty experience, this guy knows nothing and focuses on all the wrong topics of importance.  Did i mention he is super nice and the the class is easy.",
+        "course": "HM700"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I'm pretty sure this guy has been about everywhere in the world.  As a business major, the class was a not too interesting, but it was an easy A. Dr. Johnson is a very nice guy and was very helpful.",
+        "course": "HOSP230"
+      },
+      {
+        "index": 12,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "a vey broad general and vague talker to say the least.  Always guy smiley happy go lucky not very honest at all",
+        "course": "HM550"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Johnson is a very understanding an kind individual.  He is very knowledgable about all the material, has an endless list of contacts, and does so much for the program.  Just pay attention and show that you care, you will get by with ease!",
+        "course": "HMCLASSES"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "No Comments",
+        "course": "HOSPITALITY"
+      },
+      {
+        "index": 15,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "ALLHMCOURSES"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr Johnson...Go Go go....He is the best teacher ever and he is so helpful with students...Dr Johnson...We love you....everybody loves you..some people don't want to graduate because of you...Thanks for your help and effort and everything you have given...",
+        "course": "HM660"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I will also have to agree with the previous comment.",
+        "course": "HOS700"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Wayne Johnson is the nicest man I have ever met in my life.  The course is cake and he knows it.  However, it was worth the time and i usually found it interesting.",
+        "course": "HM230"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "No Comments",
+        "course": "HOSPMGT2"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4.3,
+    "department": "Hospitality Management",
+    "firstName": "Craig ",
+    "id": "VGVhY2hlci0yMDA4MjY1",
+    "lastName": "Lomonico",
+    "legacyId": 2008265,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Tests are almost all open note which is helpful.  Very fun class and I learned a lot.",
+        "course": "CSHSPMG2700"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Craig is really everything you want in a teacher. He has the hands on experience to back up what he teaches and tells you exactly what you need to know in order to make it. He's super relatable and teaches a great class. I only missed one lecture all semester. He teaches an 8 AM, but you won't hate getting up for this class at all.",
+        "course": "CSHSPMG2700"
       }
     ],
     "SEI": []

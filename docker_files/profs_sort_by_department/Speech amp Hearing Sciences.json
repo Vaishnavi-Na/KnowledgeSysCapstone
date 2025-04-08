@@ -1,5 +1,45 @@
 [
   {
+    "avgDifficulty": 5,
+    "avgRating": 1,
+    "department": "Speech amp Hearing Sciences",
+    "firstName": "Evelyn",
+    "id": "VGVhY2hlci0yMjgyMzIz",
+    "lastName": "Hougland",
+    "legacyId": 2282323,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She's not great at helping those in SLDS, was actually quite rude when speaking about the need for it. Zooms through the material without much explanation. Huge project at the end that involves interviews and is mainly exam-based. Do not take it, it's not worth it.",
+        "course": "4430"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Speech amp Hearing Sciences",
+    "firstName": "Victoria",
+    "id": "VGVhY2hlci0yNzcxMTUy",
+    "lastName": "Sevich",
+    "legacyId": 2771152,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Victoria is an absolute angel.  The content can get a bit difficult at times (as is the nature of any anatomy course), but she gives you plenty of opportunities to gain points outside of the exams and boost your grade if needed.  She is positive, caring, funny, and understanding, and I would recommend her in a heartbeat.",
+        "course": "SPHHRNG4440"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 2.8,
     "avgRating": 5,
     "department": "Speech amp Hearing Sciences",
@@ -43,46 +83,6 @@
         "difficulty": 3,
         "comment": "Dr. Lundine is one of my favorite professors at OSU! The class was relatively straightforward with 3 exams and a couple written assignments, and Dr. Lundine is very approachable if you have any questions. Not only is she at the top of her field, but she enjoys teaching and welcomes student discussion/feedback. 10/10 recommend taking her class!",
         "course": "SPHHRNG3330"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Speech amp Hearing Sciences",
-    "firstName": "Victoria",
-    "id": "VGVhY2hlci0yNzcxMTUy",
-    "lastName": "Sevich",
-    "legacyId": 2771152,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Victoria is an absolute angel.  The content can get a bit difficult at times (as is the nature of any anatomy course), but she gives you plenty of opportunities to gain points outside of the exams and boost your grade if needed.  She is positive, caring, funny, and understanding, and I would recommend her in a heartbeat.",
-        "course": "SPHHRNG4440"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 5,
-    "avgRating": 1,
-    "department": "Speech amp Hearing Sciences",
-    "firstName": "Evelyn",
-    "id": "VGVhY2hlci0yMjgyMzIz",
-    "lastName": "Hougland",
-    "legacyId": 2282323,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "She's not great at helping those in SLDS, was actually quite rude when speaking about the need for it. Zooms through the material without much explanation. Huge project at the end that involves interviews and is mainly exam-based. Do not take it, it's not worth it.",
-        "course": "4430"
       }
     ],
     "SEI": []

@@ -1,69 +1,118 @@
 [
   {
-    "avgDifficulty": 2.6,
-    "avgRating": 3.7,
+    "avgDifficulty": 3,
+    "avgRating": 5,
     "department": "Environ. amp Natural Resources",
-    "firstName": "Vicki",
-    "lastName": "Garrett",
-    "legacyId": 2292494,
-    "numRatings": 11,
+    "firstName": "Sarah",
+    "id": "VGVhY2hlci0yNTUzNjcz",
+    "lastName": "Walton",
+    "legacyId": 2553673,
+    "numRatings": 2,
     "Ratings": [
       {
-        "index": 0,
-        "rating": null,
-        "comment": "Took off random points on assignments, reiterated the same comments when they were inaccurate.  Always found time in lecture to talk about racism and segregation and once ranted about how white men are struggling in society. weird.  soften spoken and the class content is extremely easy."
-      },
-      {
         "index": 1,
-        "rating": "5.0",
-        "comment": "Extremely kind and caring professor. Always very positive and very passionate about what she teaches. Super easy to talk to. Make sure to participate in class. Very forgiving grader."
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This was my favorite class this year, and it is purely because Professor Walton is so good at teaching it. She makes the lectures interesting and engaging by inviting the class to discuss the topic we're on and doing worksheet activities. She's extremely flexible and understanding when it comes to extensions and the pandemic. 10/10 professor",
+        "course": "RURLSOC1500"
       },
       {
         "index": 2,
-        "rating": "5.0",
-        "comment": "I took this course around a year ago and Vicki was an extremely sweet professor. The course itself, personally, was very boring and the work outside of class was very time-consuming (I've ended up switching majors so maybe you'll like it!). There were no exams so it made up for it. Would definitely take her again, just maybe not this course."
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Sarah is literally the BEST professor in SENR. I cannot recommend her or her class enough. She is so caring and if you show up to class and participate you will get an A. You will also want to show up to class because the subject matter is so interesting. Just by showing up to class (with no studying) I got a 95 on the midterm. The textbook is free",
+        "course": "ENR3470"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 3.7,
+    "department": "Environ. amp Natural Resources",
+    "firstName": "Brent",
+    "id": "VGVhY2hlci0yNTE5MDk3",
+    "lastName": "Sohngen",
+    "legacyId": 2519097,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Damn this class is hard. Brent treats lectures more like he's just talking to you rather than teaching you. It's nice how chill it is but you have to work so hard to actually absorb and learn what he's telling you because of his delivery. Quizzes are very specific and difficult, homework takes hours, overall I wouldn't take this class or this prof",
+        "course": "AEDE4320"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "If you don't know much about the energy sector or aren't interested in it this isn't the class for you. The quizzes are hard and there's one just about every week. The homeworks take hours and they aren't graded with feedback at all so you don't know how to do better on the next one. Would not recommend if you don't have to take it.",
+        "course": "AEDECON4320"
       },
       {
         "index": 3,
-        "rating": "4.0",
-        "comment": "I enjoyed Professor Garrett's class. She is very understanding and helpful and seems to be passionate about what she teaches. Be prepared to put a decent bit of work into writing and other projects, as she's pretty specific with the rubric/expectations. Overall, it was a great class and I honestly would love to take a class with her again!"
-      },
-      {
-        "index": 4,
-        "rating": null,
-        "comment": "vicki is so sweet but i could not stand her lectures. i felt like an elementary school kid in that class. the content, which she doesnt entirely control, was too simple and it was frustrating. she also seemed to get lost in her own words quite a bit and it felt like more of a sociology course rather one integrated with natural resources."
-      },
-      {
-        "index": 5,
-        "rating": null,
-        "comment": "Took this class for my second level writing because I was interested in the subject, but would not take again.  There is a lot of work for this class, although it is not hard it gets annoying."
-      },
-      {
-        "index": 6,
-        "rating": "5.0",
-        "comment": "Really amazing and caring professor, and the class is pretty easy/interesting."
-      },
-      {
-        "index": 7,
-        "rating": "5.0",
-        "comment": "Such a sweet person and very helpful if you need something. Sometimes her lectures or notes can be confusing, but is always willing to clarify if you ask. I 100% recommend having her for any ENR class you can. This is for ENR 2300 btw!!"
-      },
-      {
-        "index": 8,
-        "rating": null,
-        "comment": "Lectures were online only and the provided slides had little of the needed information on them.  Unless you took intricate notes of everything said, grader feedback like \"Please include one of the three cognitive fixes mentioned in lecture\" were completely useless. Have to sift through hours of recorded lectures to find two or three sentences."
-      },
-      {
-        "index": 9,
-        "rating": null,
-        "comment": "This class was very chaotic. Professor Garret is very nice but content is extremely all over the place, and lectures are combined with lots of readings and weekly writing assignments that sometimes have little to do with class content and are graded by strict outside graders. The class wasnt too hard but I dont feel that I got much out of it."
-      },
-      {
-        "index": 10,
-        "rating": "4.0",
-        "comment": "Class is super easy. Lots of reading, but really only need to skim. Weekly 250-500 word essays. Weekly quizzes on readings (easy). Attendance taken every class. Prof is a bit of an air head, but passionate about what she teaches, very knowledgeable."
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I had Brent for intro to EEDS and and Energy, Environment and Economy and I really enjoyed both classes. There was quite a bit of reading but there isn't really a large focus on the readings for the exams, I think they are more to help reinforce concepts lectured about. Overall a great professor!!",
+        "course": "INTSTDS4320"
       }
-    ]
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 3,
+    "department": "Environ. amp Natural Resources",
+    "firstName": "Nicole",
+    "id": "VGVhY2hlci0yMzUxNzUz",
+    "lastName": "Sintov",
+    "legacyId": 2351753,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Overall, I thought Dr. Sintov was an unprofessional teacher that ran a condescending and uncomfortable classroom. It made learning difficult. She was one of the worst teachers I've had, and it led to a unenjoyable class, where I learned very little. It became a class I would dread attending. Unfriendly and rigid atmosphere.",
+        "course": "ENR5194"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Had a very good experience with Dr. Sintovs ProEnvironmental Behavior class. If you dont come from a psych background youll have to catch up a bit. At times theres a lot of material but keep up with readings and youll be fine. Expectations are clear and shes very knowledgeable. Also, idk where the pepper option went but shed totally get one",
+        "course": "ENR5400"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.5,
+    "avgRating": 3,
+    "department": "Environ. amp Natural Resources",
+    "firstName": "Daniela",
+    "id": "VGVhY2hlci0yMjg1Nzc2",
+    "lastName": "Miteva",
+    "legacyId": 2285776,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She cares a lot about her student's success, and is very understanding when it comes to extensions and life getting in the way. While she expects you to spend a lot of time on homework, it is valuable and helps you understand the class content.",
+        "course": "AEDE4330"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Talks very fast and lectures are scattered all over the place so it's hard to piece information together. Exams aren't hard, but she is not an easy grader. The first excel homework took me well over 14 hours combined so be very proactive on starting them as soon as they are posted. Lots of homework near exams. Meet with the TA as much as possible.",
+        "course": "AEDECON4330"
+      }
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 2.7,
@@ -163,89 +212,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.1,
-    "avgRating": 1.7,
-    "department": "Environ. amp Natural Resources",
-    "firstName": "Shoshanah",
-    "id": "VGVhY2hlci0yMzM5MDIx",
-    "lastName": "Inwood",
-    "legacyId": 2339021,
-    "numRatings": 10,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Some content was interesting, but so many readings that many people stopped halfway through and discussions became awkward. Fine at lecturing. Assignments were occasionally not based on course content but were still graded to a ridiculously high standard. Feedback was often useless and/or outright rude. ",
-        "course": "RURLSOC5530"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "One of the worst professors I have ever had. It makes me consider contacting the administration. Unrealistic expectations of weekly readings and writing level. Will grade like you are submitting your paper to a journal. Doesn't actually lecture often, just makes you talk about the readings and acts like she knows everything. Avoid this class!",
-        "course": "RURLSOC5530"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Definitely expect a lot of readings in this class, sometimes it can feel overwhelming. However, the assignments are enjoyable and give you a chance to really process what you've read about. The discussions are great, Shoshanah does a good job of facilitating them. Also, if you need help or have any questions, just ask her.",
-        "course": "RURLSOC5530"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "I wrote the review below, it was hasty. There is an insane amount of readings and you have about 5 total grades in the class which is stressful. If you are interested in the subject the class is great. Participation definitely matters through group talks and lectures. Dr. Inwood is a fair grader and always willing to help. Very smart professor.",
-        "course": "RURLSOC5530"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I am a month into this class, the expectations are absolutely ridiculous. This is a 3 credit hour course that has a 17 page syllabus to give an idea. Expect anywhere from 100-200 pages of reading weekly. Taking this during a global pandemic with 4 other classes and trying to have a family while balancing this absolutely insane workload. Depressing.",
-        "course": "RURLSOC5530"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "She is so self absorbed and thinks the entire class loves the topic and thinks she's. Little does she know the entire class goes on and on outside kottman about how pointless and brutal the class and lecture was. If she wasn't so busy taking away phones like a high school teacher maybe we would have learned a thing or two. Curriculum is brutal.",
-        "course": "ENR3500"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "The worst professor I have ever had. Actually makes me consider contacting administration she is so bad. She calls kids out in the middle of lecture for behavior that she doesn't like but was not once actually distracting. She is degrading, rude, and pretentious. Additionally, the content of her lectures could be learned by watching one documentary",
-        "course": "ENR3500"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Dr. Inwood is the worst professor in the state of Ohio. She is pretentious and treats our class as if we were in elementary school. When she lectures, she relies mainly on asking rhetorical questions, which makes me think that she isn't very knowledgeable about the course material. Her insecurity and obsession for authority ruins the class.",
-        "course": "ENR3500"
-      },
-      {
-        "index": 9,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Presents material effectively in lecture, but is very strict and condescending toward student behaviors compared to most profs. Tons of reading assignments and each class involved answering a really obvious/straightforward question and then discussing it with your neighbor for a long time. Grade averages were pretty low compared to equal classes.",
-        "course": "ENR3500"
-      },
-      {
-        "index": 10,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Easily the WORST prof I've had at OSU. She is pretentious, rude, and degrading. Treats her students as if they are incompetent 5 year-olds, taking time out of lectures to go over ridiculous, condescending class policies. Smart woman, horrible professor. Lectures are scatterbrained and you end up teaching yourself the material. Don't take this prof.",
-        "course": "ENR3500"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 2.7,
     "avgRating": 3,
     "department": "Environ. amp Natural Resources",
@@ -335,89 +301,84 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3,
-    "avgRating": 5,
+    "avgDifficulty": 3.1,
+    "avgRating": 1.7,
     "department": "Environ. amp Natural Resources",
-    "firstName": "Sarah",
-    "id": "VGVhY2hlci0yNTUzNjcz",
-    "lastName": "Walton",
-    "legacyId": 2553673,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This was my favorite class this year, and it is purely because Professor Walton is so good at teaching it. She makes the lectures interesting and engaging by inviting the class to discuss the topic we're on and doing worksheet activities. She's extremely flexible and understanding when it comes to extensions and the pandemic. 10/10 professor",
-        "course": "RURLSOC1500"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Sarah is literally the BEST professor in SENR. I cannot recommend her or her class enough. She is so caring and if you show up to class and participate you will get an A. You will also want to show up to class because the subject matter is so interesting. Just by showing up to class (with no studying) I got a 95 on the midterm. The textbook is free",
-        "course": "ENR3470"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.7,
-    "avgRating": 3.7,
-    "department": "Environ. amp Natural Resources",
-    "firstName": "Brent",
-    "id": "VGVhY2hlci0yNTE5MDk3",
-    "lastName": "Sohngen",
-    "legacyId": 2519097,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Damn this class is hard. Brent treats lectures more like he's just talking to you rather than teaching you. It's nice how chill it is but you have to work so hard to actually absorb and learn what he's telling you because of his delivery. Quizzes are very specific and difficult, homework takes hours, overall I wouldn't take this class or this prof",
-        "course": "AEDE4320"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "If you don't know much about the energy sector or aren't interested in it this isn't the class for you. The quizzes are hard and there's one just about every week. The homeworks take hours and they aren't graded with feedback at all so you don't know how to do better on the next one. Would not recommend if you don't have to take it.",
-        "course": "AEDECON4320"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I had Brent for intro to EEDS and and Energy, Environment and Economy and I really enjoyed both classes. There was quite a bit of reading but there isn't really a large focus on the readings for the exams, I think they are more to help reinforce concepts lectured about. Overall a great professor!!",
-        "course": "INTSTDS4320"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.5,
-    "avgRating": 3,
-    "department": "Environ. amp Natural Resources",
-    "firstName": "Nicole",
-    "id": "VGVhY2hlci0yMzUxNzUz",
-    "lastName": "Sintov",
-    "legacyId": 2351753,
-    "numRatings": 2,
+    "firstName": "Shoshanah",
+    "id": "VGVhY2hlci0yMzM5MDIx",
+    "lastName": "Inwood",
+    "legacyId": 2339021,
+    "numRatings": 10,
     "Ratings": [
       {
         "index": 1,
         "rating": 1,
-        "difficulty": 4,
-        "comment": "Overall, I thought Dr. Sintov was an unprofessional teacher that ran a condescending and uncomfortable classroom. It made learning difficult. She was one of the worst teachers I've had, and it led to a unenjoyable class, where I learned very little. It became a class I would dread attending. Unfriendly and rigid atmosphere.",
-        "course": "ENR5194"
+        "difficulty": 3,
+        "comment": "Some content was interesting, but so many readings that many people stopped halfway through and discussions became awkward. Fine at lecturing. Assignments were occasionally not based on course content but were still graded to a ridiculously high standard. Feedback was often useless and/or outright rude. ",
+        "course": "RURLSOC5530"
       },
       {
         "index": 2,
-        "rating": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "One of the worst professors I have ever had. It makes me consider contacting the administration. Unrealistic expectations of weekly readings and writing level. Will grade like you are submitting your paper to a journal. Doesn't actually lecture often, just makes you talk about the readings and acts like she knows everything. Avoid this class!",
+        "course": "RURLSOC5530"
+      },
+      {
+        "index": 3,
+        "rating": 4,
         "difficulty": 3,
-        "comment": "Had a very good experience with Dr. Sintovs ProEnvironmental Behavior class. If you dont come from a psych background youll have to catch up a bit. At times theres a lot of material but keep up with readings and youll be fine. Expectations are clear and shes very knowledgeable. Also, idk where the pepper option went but shed totally get one",
-        "course": "ENR5400"
+        "comment": "Definitely expect a lot of readings in this class, sometimes it can feel overwhelming. However, the assignments are enjoyable and give you a chance to really process what you've read about. The discussions are great, Shoshanah does a good job of facilitating them. Also, if you need help or have any questions, just ask her.",
+        "course": "RURLSOC5530"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I wrote the review below, it was hasty. There is an insane amount of readings and you have about 5 total grades in the class which is stressful. If you are interested in the subject the class is great. Participation definitely matters through group talks and lectures. Dr. Inwood is a fair grader and always willing to help. Very smart professor.",
+        "course": "RURLSOC5530"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I am a month into this class, the expectations are absolutely ridiculous. This is a 3 credit hour course that has a 17 page syllabus to give an idea. Expect anywhere from 100-200 pages of reading weekly. Taking this during a global pandemic with 4 other classes and trying to have a family while balancing this absolutely insane workload. Depressing.",
+        "course": "RURLSOC5530"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "She is so self absorbed and thinks the entire class loves the topic and thinks she's. Little does she know the entire class goes on and on outside kottman about how pointless and brutal the class and lecture was. If she wasn't so busy taking away phones like a high school teacher maybe we would have learned a thing or two. Curriculum is brutal.",
+        "course": "ENR3500"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "The worst professor I have ever had. Actually makes me consider contacting administration she is so bad. She calls kids out in the middle of lecture for behavior that she doesn't like but was not once actually distracting. She is degrading, rude, and pretentious. Additionally, the content of her lectures could be learned by watching one documentary",
+        "course": "ENR3500"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Dr. Inwood is the worst professor in the state of Ohio. She is pretentious and treats our class as if we were in elementary school. When she lectures, she relies mainly on asking rhetorical questions, which makes me think that she isn't very knowledgeable about the course material. Her insecurity and obsession for authority ruins the class.",
+        "course": "ENR3500"
+      },
+      {
+        "index": 9,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Presents material effectively in lecture, but is very strict and condescending toward student behaviors compared to most profs. Tons of reading assignments and each class involved answering a really obvious/straightforward question and then discussing it with your neighbor for a long time. Grade averages were pretty low compared to equal classes.",
+        "course": "ENR3500"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Easily the WORST prof I've had at OSU. She is pretentious, rude, and degrading. Treats her students as if they are incompetent 5 year-olds, taking time out of lectures to go over ridiculous, condescending class policies. Smart woman, horrible professor. Lectures are scatterbrained and you end up teaching yourself the material. Don't take this prof.",
+        "course": "ENR3500"
       }
     ],
     "SEI": []

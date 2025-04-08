@@ -1,6 +1,54 @@
 [
   {
     "avgDifficulty": 3,
+    "avgRating": 3.7,
+    "department": "Jewish Studies",
+    "firstName": "Lynn",
+    "id": "VGVhY2hlci0yMDc2NzI0",
+    "lastName": "Kaye",
+    "legacyId": 2076724,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Kaye is one of my all time favorite professors. Theres a lot of homework, but that is only fair since it was a 5000 level course, and it was still very manageable. Youre required to participate, but shell make sure everyone gets a chance to speak multiple times per class. Shes overall a great professor who cares about her students success.",
+        "course": "HEBREW5100"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Didn't learn a whole lot but she is a nice professor. Tries to grade fairly. Make sure you speak up in class or else you will get a poor participation grade.",
+        "course": "JEWHST2201"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Don't take this class. This was probably the most boring and useless class I've ever taken. Didn't learn anything. I still got a good grade, but she basically makes up your grade at the end of the semester and I know several people got burned. Attendance is part of your grade but you don't get any points by showing up to class. Must participate",
+        "course": "JEWHST2201"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Kaye is an amazing professor. However, don't expect to go into this class, sit in the back,  be quiet, and get an easy A. She requires participation and WILL call on you if you do not actively participate. I feel like I've learned so much from this class. Work hard, listen to her advice, participate, and you'll get a good grade.",
+        "course": "HEB2367"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Kaye is probably my favorite professor. She is extremely knowledgable, and makes you interested in the subject! She instructed my second writing GE. Her class required a lot of homework, but it was well worth it. If you are willing to put in hard work, she is a good professor for you. She gave me great feedback.",
+        "course": "HEBREW2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
     "avgRating": 3.4,
     "department": "Jewish Studies",
     "firstName": "Naomi",
@@ -92,6 +140,47 @@
         "difficulty": 4,
         "comment": "She's a nice person, but gives ridiculous homework assignments. This includes a cooking assignment, which is not the easiest thing for a college student living in a dorm. She also keeps students a few minutes after class ends. It would be nice if there was more consideration of our time. If you're looking for an easy gen ed, avoid her class.",
         "course": "JEWISHST2201"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 3.8,
+    "department": "Jewish Studies",
+    "firstName": "Michael",
+    "id": "VGVhY2hlci0yMDA0MTc5",
+    "lastName": "Biggerstaff",
+    "legacyId": 2004179,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Biggerstaff is wonderful for any faith based class, bringing in lots of perspectives and being extremely helpful and available to all students. If you are at all interested in ancient history or Jewish studies, he is an amazing resource for those ends. He certainly forces you to work, but is straightforward with exams and quizzes.",
+        "course": "HEBREW2703"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Michael is very passionate and knowledgeable about teaching, and if you are taking a class where you really are interested in learning the material, he really nurses that well. He is very very nice and is always more than willing to meet with people or groups. Very reliable and interesting. Learned a lot from this class.",
+        "course": "HEBREW2700"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "For a GE course, the workload is excessive. He knows the material like the back of his hand, but his lectures are long-winded, exams are tricky to study for, and the class is not very interactive. I would hesitate to recommend this course or instructor.",
+        "course": "2700"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "I appreciated Mr. Biggerstaff's passion for the material. However, this was one of the most difficult courses I have taken in my four years at OSU, which was unexpected, given that this is only a 2000-level course. I would not recommend this course (with this professor) to anyone with a full course load or little interest in the material.",
+        "course": "HEBREW2700"
       }
     ],
     "SEI": []

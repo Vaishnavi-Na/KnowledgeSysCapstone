@@ -290,5 +290,39 @@
       }
     ],
     "SEI": []
+  },
+  {
+    "avgDifficulty": 1.7,
+    "avgRating": 4.8,
+    "department": "Food, Agriculture & Bio Eng",
+    "firstName": "Scott",
+    "id": "VGVhY2hlci0xODY1NzY5",
+    "lastName": "Shearer",
+    "legacyId": 1865769,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "A lot of work for a one credit hour class, but he does a lot of it for you. It's helpful to go to class because he spends most of it working out the exact homework problems. I found him to be kind of corny and uninteresting, but he's a nice guy and wants you to do well. Do the practice quizzes/final - they're often exactly the same as the real ones",
+        "course": "FABENG2100"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Shearer is an awesome teacher. He will pretty much do your homework for you. He doesn't have midterms just a final, but he gives quizzes every other week. He gives practices quizzes which are similar (or identical) to the quiz. Being at class isn't mandatory, but when attendance starts to get low he will give bonus points for people there.",
+        "course": "FABENG2100"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He helps so much! Gives answers to homework often and posts good powerpoints on Carmen.",
+        "course": "FABE2100"
+      }
+    ],
+    "SEI": []
   }
 ]

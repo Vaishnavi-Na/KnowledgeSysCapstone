@@ -1,5 +1,45 @@
 [
   {
+    "avgDifficulty": 3,
+    "avgRating": 3,
+    "department": "American Sign Language",
+    "firstName": "Stefanie",
+    "id": "VGVhY2hlci0yNzU3MDAw",
+    "lastName": "Day",
+    "legacyId": 2757000,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Dr Day is very nice and funny, but she gives a ton of homework to do. All tests were outside of class, receptive tests were good but the culture tests were usually hard. She doesn't grade hard which is good, but it can just be a lot sometimes.",
+        "course": "ASL1101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 2,
+    "department": "American Sign Language",
+    "firstName": "Teresa",
+    "id": "VGVhY2hlci0yNjUzNjM2",
+    "lastName": "Brunotte",
+    "legacyId": 2653636,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Her course was mostly easy. However, she didn't care to make the class interactive or engaging. For a class that needs visual interaction to actually learn, this was frustrating. We met 1-2 times a week synchronously. Her class wasn't organized well. She uploaded assignments irregularly and we never knew if we were having class until the last min.",
+        "course": "ASL1102"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 1.5,
     "avgRating": 5,
     "department": "American Sign Language",
@@ -27,49 +67,77 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 1.6,
-    "avgRating": 4.6,
+    "avgDifficulty": 1,
+    "avgRating": 5,
     "department": "American Sign Language",
-    "firstName": "Heidi",
-    "id": "VGVhY2hlci0yODQ0MTk5",
-    "lastName": "Kinnamon",
-    "legacyId": 2844199,
-    "numRatings": 5,
+    "firstName": "Steven",
+    "id": "VGVhY2hlci0yOTIwNDg4",
+    "lastName": "Barabas",
+    "legacyId": 2920488,
+    "numRatings": 9,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "She is an incredible instructor. She is extremely engaging during lessons, provides extra information to make lessons more interesting, and it is clear she has a passion for teaching and helping students. There are a few assignments each unit, but they are very manageable. Only thing to note is that attendance is important to her and your success!",
-        "course": "ASL1101"
+        "difficulty": 1,
+        "comment": "Every day was my favorite. He is engaging, understanding (both of whatever level ASL you are at and personal issues), and the sweetest man alive. I learned a ton more about ASL and deaf culture. He cares that we understand, and will slow down and take any questions you have. I have not met a more caring professor in my time at OSU. PLEASE TAKE!!",
+        "course": "ASL1103"
       },
       {
         "index": 2,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "A fine professor! Conveyed the information well, very organized. My only qualms was a) the expressive tests are done sitting in front of her which just does not make for the most natural comfortable environment...potentially explaining mistakes. and b) her attendance is very very strict. Miss a few classes and your grade will be heavily affected",
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He is amazing! I highly recommend taking Steve's class. Super funny, kind, and willing to help. Easy grader. He is deaf, which makes the class very immersive and engaging. Almost every class consisted of a lecture giving new signs, as well as small group practice. Only a few assignments outside of class. I will miss him, he is truly a great person.",
         "course": "ASL1101"
       },
       {
         "index": 3,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "I LOVE Heidi. She is by far my favorite professor. Not only is she extremely personable but you can tell she loves what she is doing. She made asl so much fun and a new passion of mine. If can get her as your professor, do it!",
+        "difficulty": 1,
+        "comment": "I LOVED HIM SO MUCH!!!! Truly so funny, and I learned so so so much from him in just class. Great personality, so a great class to take if you're interested in simply learning ASL or if you need the GE language credit.",
         "course": "ASL1101"
       },
       {
         "index": 4,
         "rating": 5,
         "difficulty": 1,
-        "comment": "Dr. Kinnamon is such a down to earth and genuine person inside and out of the classroom. She has the most adorable and sweet personality making the classroom feel almost like family. She is also amazing at teaching, always makes content learning fun, realistic and easy. There is never a dull moment with Heidi- she is so hilarious and relatable.\n\n\n\n",
+        "comment": "Steve is the most amazing professor!! He is so kind and caring towards his students and only wants you to succeed. I grew such an appreciation for ASL in his class and learned so much. ",
         "course": "ASL1101"
       },
       {
         "index": 5,
         "rating": 5,
         "difficulty": 1,
-        "comment": "Heidi is my favorite professor so far. She makes learning insanely fun and even for a class that meets four days a week I never found myself not wanting to go. She cares about all of her students a great deal and teaches sign language in such a respectful way for a teacher that is not deaf herself. ",
+        "comment": "I LOVE HIM. He is the sweetest professor I have ever had and makes ASL so fun and easy to learn. He is very understanding towards students and does not want to make your life difficult.",
         "course": "ASL1101"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great professor, and very approachable during and after class. He is also very humorous and an overall sweet guy. ",
+        "course": "ASL1101"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The greatest man I've ever known. Professor Barabas cares so much about his classes and his students, and he's such a great teacher. 10000/10 would recommend.",
+        "course": "ASL1103"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He was amazing, very friendly, engaging, and committed to accommodating students needs in order to best learn.  I 100% recommend taking his class. ",
+        "course": "ASL1103"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Kind and caring. Tried to make class fun . Help deepen my understanding of ASL and deaf culture.",
+        "course": "ASL1103"
       }
     ],
     "SEI": []
@@ -318,96 +386,48 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 1,
-    "avgRating": 5,
+    "avgDifficulty": 1.6,
+    "avgRating": 4.6,
     "department": "American Sign Language",
-    "firstName": "Steven",
-    "id": "VGVhY2hlci0yOTIwNDg4",
-    "lastName": "Barabas",
-    "legacyId": 2920488,
-    "numRatings": 9,
+    "firstName": "Heidi",
+    "id": "VGVhY2hlci0yODQ0MTk5",
+    "lastName": "Kinnamon",
+    "legacyId": 2844199,
+    "numRatings": 5,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 1,
-        "comment": "Every day was my favorite. He is engaging, understanding (both of whatever level ASL you are at and personal issues), and the sweetest man alive. I learned a ton more about ASL and deaf culture. He cares that we understand, and will slow down and take any questions you have. I have not met a more caring professor in my time at OSU. PLEASE TAKE!!",
-        "course": "ASL1103"
+        "difficulty": 2,
+        "comment": "She is an incredible instructor. She is extremely engaging during lessons, provides extra information to make lessons more interesting, and it is clear she has a passion for teaching and helping students. There are a few assignments each unit, but they are very manageable. Only thing to note is that attendance is important to her and your success!",
+        "course": "ASL1101"
       },
       {
         "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "He is amazing! I highly recommend taking Steve's class. Super funny, kind, and willing to help. Easy grader. He is deaf, which makes the class very immersive and engaging. Almost every class consisted of a lecture giving new signs, as well as small group practice. Only a few assignments outside of class. I will miss him, he is truly a great person.",
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "A fine professor! Conveyed the information well, very organized. My only qualms was a) the expressive tests are done sitting in front of her which just does not make for the most natural comfortable environment...potentially explaining mistakes. and b) her attendance is very very strict. Miss a few classes and your grade will be heavily affected",
         "course": "ASL1101"
       },
       {
         "index": 3,
         "rating": 5,
-        "difficulty": 1,
-        "comment": "I LOVED HIM SO MUCH!!!! Truly so funny, and I learned so so so much from him in just class. Great personality, so a great class to take if you're interested in simply learning ASL or if you need the GE language credit.",
+        "difficulty": 2,
+        "comment": "I LOVE Heidi. She is by far my favorite professor. Not only is she extremely personable but you can tell she loves what she is doing. She made asl so much fun and a new passion of mine. If can get her as your professor, do it!",
         "course": "ASL1101"
       },
       {
         "index": 4,
         "rating": 5,
         "difficulty": 1,
-        "comment": "Steve is the most amazing professor!! He is so kind and caring towards his students and only wants you to succeed. I grew such an appreciation for ASL in his class and learned so much. ",
+        "comment": "Dr. Kinnamon is such a down to earth and genuine person inside and out of the classroom. She has the most adorable and sweet personality making the classroom feel almost like family. She is also amazing at teaching, always makes content learning fun, realistic and easy. There is never a dull moment with Heidi- she is so hilarious and relatable.\n\n\n\n",
         "course": "ASL1101"
       },
       {
         "index": 5,
         "rating": 5,
         "difficulty": 1,
-        "comment": "I LOVE HIM. He is the sweetest professor I have ever had and makes ASL so fun and easy to learn. He is very understanding towards students and does not want to make your life difficult.",
-        "course": "ASL1101"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Great professor, and very approachable during and after class. He is also very humorous and an overall sweet guy. ",
-        "course": "ASL1101"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "The greatest man I've ever known. Professor Barabas cares so much about his classes and his students, and he's such a great teacher. 10000/10 would recommend.",
-        "course": "ASL1103"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "He was amazing, very friendly, engaging, and committed to accommodating students needs in order to best learn.  I 100% recommend taking his class. ",
-        "course": "ASL1103"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Kind and caring. Tried to make class fun . Help deepen my understanding of ASL and deaf culture.",
-        "course": "ASL1103"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 3,
-    "department": "American Sign Language",
-    "firstName": "Stefanie",
-    "id": "VGVhY2hlci0yNzU3MDAw",
-    "lastName": "Day",
-    "legacyId": 2757000,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Dr Day is very nice and funny, but she gives a ton of homework to do. All tests were outside of class, receptive tests were good but the culture tests were usually hard. She doesn't grade hard which is good, but it can just be a lot sometimes.",
+        "comment": "Heidi is my favorite professor so far. She makes learning insanely fun and even for a class that meets four days a week I never found myself not wanting to go. She cares about all of her students a great deal and teaches sign language in such a respectful way for a teacher that is not deaf herself. ",
         "course": "ASL1101"
       }
     ],

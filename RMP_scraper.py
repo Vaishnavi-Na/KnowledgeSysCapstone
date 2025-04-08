@@ -115,6 +115,13 @@ def get_reviews(professor_id, j, id):
     url = f"https://www.ratemyprofessors.com/professor/{professor_id}"
     headersProf["referer"] = url
 
+    # Perform a GET request to check if the page exists
+    response = requests.get(url, headers=headersProf)
+    if response.status_code != 200:
+        print(f"Professor page not found: Skipped")
+        return
+
+
     # Initialize the Ratings list if it doesn't exist
     if "Ratings" not in j:
         j["Ratings"] = []
@@ -128,6 +135,8 @@ def get_reviews(professor_id, j, id):
         # Get the current page comments
         prof_data["variables"]["id"] = id
         response = requests.post(graphql_url, headers=headersProf, json=prof_data).json()
+        if(not response or "data" not in response or "node" not in response["data"] or "ratings" not in response["data"]["node"]):
+            return
         # print(response)
         ratings = response["data"]["node"]["ratings"]["edges"]
         if response["data"]["node"]["numRatings"]==0:
@@ -162,7 +171,6 @@ def search_school_professor():
         response = requests.post(graphql_url, headers=headers, json=data).json()   
         #for each professor, get their reviews and add elasticsearch index
         for professor in response["data"]["search"]["teachers"]["edges"]:            
-            #if professor["node"]["numRatings"]==0:   
             print("\n" + professor["node"]["lastName"] + professor["node"]["firstName"])
             get_reviews(professor["node"]["legacyId"],professor["node"],professor["node"]["id"])
             es.index(index='professors', id=professor["node"]["lastName"] + professor["node"]["firstName"], document=professor["node"])

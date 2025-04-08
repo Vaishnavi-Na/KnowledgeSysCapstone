@@ -1,114 +1,534 @@
 [
   {
-    "avgDifficulty": 2,
-    "avgRating": 4.6,
+    "avgDifficulty": 1.7,
+    "avgRating": 4.5,
     "department": "Health Science",
-    "firstName": "Joshua",
-    "lastName": "Bomser",
-    "legacyId": 623203,
-    "numRatings": 84,
+    "firstName": "Robert",
+    "id": "VGVhY2hlci0xNTcxNTI=",
+    "lastName": "Disilvestro",
+    "legacyId": 157152,
+    "numRatings": 74,
     "Ratings": [
       {
-        "index": 0,
-        "rating": "5.0",
-        "comment": "Such a good class and professor! Your grade only consists of 4 online exams open note and labs about every week. Almost every Friday class was moved online. He cares about his students and doesn't act like he's superior because he's the professor. Attendance is optional. Funny to listen to as well."
-      },
-      {
         "index": 1,
-        "rating": "5.0",
-        "comment": "My favorite professor. 4 exams, last one is optional if you're ok with your grade of the first three. there are labs every week but they're pretty simple. Yeah, I just liked the class, he's really cool and funny. He really appreciates people showing up, even though attendance isn't mandatory, so please show up if you're taking his class."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He made the material so interesting and is so passionate about the material that you have to love him. You definitely have to study for this class, but it is an easy A if you attend lecture and study ahead of time.",
+        "course": "HMNTR2210"
       },
       {
         "index": 2,
-        "rating": "5.0",
-        "comment": "My fav professor by far"
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Easy to get an A if you show up to class and take notes. His powerpoints are made up entirely of fragmented sentences, which is why you shouldn't skip class because you won't make any sense of them. He does offer extra credit quizzes after exams if you didn't do so hot. Gives a biography throughout the course of his athletic career and success.",
+        "course": "HMNTR2210"
       },
       {
         "index": 3,
-        "rating": "5.0",
-        "comment": "I looked forward to Professor Bomser's lectures week to week and he genuinely made me care more about my nutrition. I never expected to like a class I took to fulfill a gened so much but Bomser made his lectures really engaging and interesting and he'd actually go into entertaining random tangents about his life. Highly recommend taking his class."
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "I really enjoyed this class. Though the few interactions I had with him he was rude and had an inflated ego, he still gives good lectures and doesn't make his class too difficult for a GE. Would recommend this course overall.",
+        "course": "HMNTR2210"
       },
       {
         "index": 4,
-        "rating": "5.0",
-        "comment": "Fun lectures and all tests open note. Enjoyable class"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. DiSilvestro was amazing. Lecture heavy, but puts the slides online, attendance isn't mandatory, but is highly recommended, because the textbook isn't mandatory and the test and quiz questions are only form lecture. Also make sure you attend the Exam Reviews, and you'll for sure get an A.",
+        "course": "HMNTR2210"
       },
       {
         "index": 5,
-        "rating": "5.0",
-        "comment": "Professor Bomser is not only engaged and interested in the material he teaches, but he goes above and beyond to display care for each and every student in his class. Even in a large lecture setting, I felt cared for and respected by him. He is understanding and down to earth, and truly unlike any professor I've had previously. Would recommend!!"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. D is a fantastic professor and person. He makes clear all semester that he does not want to make the class too hard for us but instead just wants us to learn the material. Quizzes and exams are extremely easy, study the night before and you'll be fine. He loves talking about his businesses in lecture and really tries to learn everyone's names.",
+        "course": "HMNTR2210"
       },
       {
         "index": 6,
-        "rating": "5.0",
-        "comment": "Professor Bomser was a really great professor that was super will to work with me to get where I needed to be. Although lectures are not mandatory I recommend attending, I got a lot out of them and really enjoyed. One thing I would say is beware of the TAs they were big sticklers when grading labs. Overall great option for the natural science GE."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "If you have the chance to take Human Nutrition 2210-- do it! Professor DiSilvestro understands that this is a GE for some people and does everything he can to help students get a good grade. Come to class, take notes, study and you will be fine. Professor DiSilvestro truly knows what he is talking about and knows a lot about nutrition.",
+        "course": "HUMNNUTR210"
       },
       {
         "index": 7,
-        "rating": "5.0",
-        "comment": "By far my favorite professor that I have had at OSU. The content is not always the easiest, but Dr. Bomser is incredible at explaining hard concepts. He genuinely cares about his students and is very personable. I cannot recommend him enough."
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Dr. D is a hilarious guy! He likes to tell stories but I don't mind it. You have to go to class to learn the info that will be on quizzes and exams, but attendance isn't technically mandatory. Quizzes are super easy and exams are pretty easy if you study a little. There is one &quot;assignment&quot;/project in this class but it isn't hard.",
+        "course": "HMNTR2210"
       },
       {
         "index": 8,
-        "rating": "5.0",
-        "comment": "Prof. Bomser was an amazing guy and one of my favorite professors at OSU. He genuinely cares about the material and he is very accessible outside of class. He records and posts all lectures if you are unable to make it to class. He brought us all donuts one day and makes it known he appreciates us showing up to class. Tests are straightforward."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Fun class, pretty easy if you put in the work. Quizzes require basic preparation. Slides are posted, but you wont understand unless you go and take detailed notes. 3 non-cumulative exams, easy assignment with extra credit opportunity. Lots of extra credit after each exam. Good Science course. Good professor, nice, wants you to do well.",
+        "course": "HMNTR2210"
       },
       {
         "index": 9,
-        "rating": "5.0",
-        "comment": "Silly guy. Class was overall very easy as long as you pay attention... if you do have any questions, he is happy to help & very easy to talk to. Made my semester a breeze."
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Attendance isn't technically mandatory, and he does put the slides on Carmen, but you get more info from the actual lectures. He tells lots of little stories, which I personally find helpful because they break up the information and make certain things easier to remember. Not a difficult class, but it really does help if you actually show up.",
+        "course": "HMNTR2210"
       },
       {
         "index": 10,
-        "rating": "5.0",
-        "comment": "I love Josh."
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "This professor cannot be bothered to even write coherent sentences on his slides. His slides are filled with grammatical errors and question marks. He loves to tell unfunny stories, and goes on a ridiculous amount of tangents. He advised us not to buy the textbook, but questions on his quizzes/tests are sometimes not on the slides.",
+        "course": "HMNTR2210"
       },
       {
         "index": 11,
-        "rating": "5.0",
-        "comment": "Super nice, caring professor. Posts lectures, online labs, and 4 exams (open note, your worst score exam gets dropped at end of semester). He loves to answer questions in class and values people's attendance. Very knowledgeable and funny. Easy class if you do your work"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He posts the slides after class so attendance isn't mandatory. A few quizzes which were pretty easy, lowest dropped. Overall, not much work. He laughs at his own jokes and loves to tell stories about his college volleyball days, he's pretty funny.",
+        "course": "HMNTR2210"
       },
       {
         "index": 12,
-        "rating": "5.0",
-        "comment": "GOAT Prof BOMSER"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This professor is one of my favorites. You can tell he loves what he does and makes sure that his students come first. His lectures are very interesting and he throws in some humor. 10/10 recommend taking this class with DiSilvestro if you get the chance.",
+        "course": "HMNTR2210"
       },
       {
         "index": 13,
-        "rating": "5.0",
-        "comment": "Dr. Bomser is very chill and a good teacher.  Class isn't madatory and all lectures are posted online, but it's worth it to go in person.  He doesn't make you buy the textbook.  4 exams, 6 labs.  All labs are online and super easy.  Love this guy!"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class is an easy A. There is a ton of extra credit and the tests are simply multiple choice. You don't need to buy the textbook, just show up to class and study the slides and you'll get an A. The professor is caring, likes to tell stories, and he wants you to pass.",
+        "course": "HUMNTR210"
       },
       {
         "index": 14,
-        "rating": "5.0",
-        "comment": "Dr. Bomser is the best professor I have ever had. He is caring, funny, accessible and he teaches the material in such a way that makes it fun and easy to understand. He is very clear on what you need to know. I genuinely wish I could take every class with him."
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Dr. DiSilvestro was the goofiest professor I have ever met. He was insanely easy and as long as you look at the slides online and do the old practice exam the night before each test you'll get an A or B. When he isn't teaching he's either bragging about his business or how he played volleyball in grad school. Easy class for a science credit.",
+        "course": "HMNTR2210"
       },
       {
         "index": 15,
-        "rating": "5.0",
-        "comment": "Very easy class, online exams that are open note open book and labs are online as well."
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Nice guy, relaxed lectures, super easy exams. Lecture slides are posted online, making getting an A easy even if you don't go to class",
+        "course": "HUMNNTR3506"
       },
       {
         "index": 16,
-        "rating": "5.0",
-        "comment": "Professor Bomser is the best professor I have ever had at OSU.  I was excited to attend his lectures every morning.  We didn't need a textbook; everything we needed to know was covered in lecture.  Not only that, but all the lectures were recorded so we could go back and watch them whenever.  I am so grateful to have taken this class."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Class is lecture heavy as a textbook is not required, but he puts slides on Carmen for every class. He's super sweet and tries to get to know everyone in the huge lecture. Quizzes are easy -- can pick and choose what questions to answer. Gets off track a lot with funny stories about his work and family, but they make lecture easier to sit through",
+        "course": "HMNTR2210"
       },
       {
         "index": 17,
-        "rating": "5.0",
-        "comment": "I loved professor Bomser! His lectures were really enjoyable and he always uploaded them online. There aren't too many assignments but if you pay attention you'll be fine. Overall, this was a great class and If I was a nutrition major I would definitely take him again."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "If you study the night before and right before a quiz or exam you'll do fine. He makes the class super easy and I recommend this class for anyone who's taking harder classes and wants at least an easy A. Plus he tells funny stories throughout the course.",
+        "course": "HMNTR2210"
       },
       {
         "index": 18,
-        "rating": "5.0",
-        "comment": "One of my favorite professors! However, take your time studying and taking his exams as there are few assignments throughout the semester - but they are not difficult. Cares about his students in and outside the classroom. Always ready to answer any questions you have."
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Always willing to help after class although during lectures he tends to get sidetracked by telling stories that barely relate to lecture which can be a waste of time but still funny.",
+        "course": "HMNTR210"
       },
       {
         "index": 19,
-        "rating": "4.0",
-        "comment": "Not much outside of lectures (20-40 minutes). No required readings. Tests are closed book and a bit tricky. Interesting content though."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. DiSilvestro's anecdotes made him appear very approachable and made class fun.  I appreciated that his quizzes allowed for a little wiggle room; we were able to pick and choose which questions we wanted to answer. His tests, I thought, were written very well.  ",
+        "course": "HMNNTR2210"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Very easy class. DiSilvestro is dedicated to his work and is a good instructor. Study for quizzes and exams the night before and you'll be fine",
+        "course": "HMNTR2210"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He really knows what his stuff! Little to no use of textbook. Going to class isn't mandatory but if you don't go, you'll miss all the test information. All of his test material is based off of lecture. His humor can get a little much at times, but I'd much rather have that than a boring prof! Highly recommended!",
+        "course": "HMN210"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. D may is certainly one of my favorite professors.  He makes the class interesting and as long as you know the information on the in-class slides you will get an A.",
+        "course": "HMNTR3506"
+      },
+      {
+        "index": 23,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Beware robert doesn't teach 210. His son David does. David is not as good or as organized.",
+        "course": "HN210"
+      },
+      {
+        "index": 24,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Loved him! Super funny, and very helpful. I really enjoyed this class and would recommend!",
+        "course": "NUTR210"
+      },
+      {
+        "index": 25,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Awesome professor!! He really knows what he's talking about.8 quizzes-drops the lowest 2 and every quiz has extra credit and that's what the book is used for. Go to class because he will tell you stuff that's not in the book at all that you need to know.",
+        "course": "HUNU210"
+      },
+      {
+        "index": 26,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Good professor, thinks he's funny. No need for the book unless you want the bonus questions on quiz.",
+        "course": "HUNU210"
+      },
+      {
+        "index": 27,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Class was an easy A plus you get to learn some interesting things. You only need the book for the bonus questions on the quizzes. He doesn't post notes so you have to go to class and this will result in your email filling up with annoying people sending out mass emails asking for the notes. Definitely take it if he is teaching.",
+        "course": "NUTR210"
+      },
+      {
+        "index": 28,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Really easy class. Study an hour before the exams, do the assignment early to get the extra credit and you'll get an A.",
+        "course": "HMNUT210"
+      },
+      {
+        "index": 29,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This class was cake. I took it just so I could balance my upper level science courses because I heard it was extremely easy...and it was. I probably studied around half an hour for the exams and I started the assignment the day it was due and managed an A w/ no problem. Book not necessary, but go to lecture since he practically takes &#63;s from notes.",
+        "course": "HMN210"
+      },
+      {
+        "index": 30,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Fun Class! But he is not very helpful after class, during office hours. I visited him twice about lectures, and was very unfriendly, and even worse of very little help. First Exam is very tough, but the last two are very straight foward. Useful class",
+        "course": "HNUT210"
+      },
+      {
+        "index": 31,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. D was a great prof. Class was very straightforward and material was relevant and interesting. Weekly quizzes were easy. Do not need to buy the book to succeed in the class: bonus book question on quiz is easy and takes common sense more than anything. Tests were easy as well...study the study guide! Great GEC to cover Science Requirement!",
+        "course": "NUTRI210"
+      },
+      {
+        "index": 32,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Ditto on what everyone else said. He is hilarious..I actually looked forward to going to class, and I had it at 8:30 in the morning. If you're lookin for a science GEC and you're not a science person-take this class. Its easy, but you learn stuff that you can use in your day to day life too!",
+        "course": "HUMAN210"
+      },
+      {
+        "index": 33,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Easiest class I have ever had. I would literally study for an hour for every exam and get an A. Quizes are super easy and so are bonus questions. You should consider dropping out of college if you fail this class.",
+        "course": "NUT210"
+      },
+      {
+        "index": 34,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Disilvestro is awesome! VERY easy class...keeps notes in his office so you can go copy them down if you don't want to go to class. You take the best 5/8 quizes..and easy bonus questions on them. Exams are EASY. Rarely went to class and got an A...but always got the notes from his office. He's hilarious and probably the best prof i've had at osu",
+        "course": "HMNTR210"
+      },
+      {
+        "index": 35,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This was one of my favorite classes! The information is interesting and practical. It definitely applies to everyday life. Plus, Dr. D is funny & really helpful during office hours. Go to class & take notes, and you'll do fine! Quizzes, exams, and project are straightforward and relatively simple. I highly recommend this class!",
+        "course": "NTR210"
+      },
+      {
+        "index": 36,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Very entertaining and informative.  There is no way anyone can fail this class if they show up. He harldy uses the book and when he does he tells you the pages he will test from.",
+        "course": "NUTR210"
+      },
+      {
+        "index": 37,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great class and great prof!  Class can be boring at 9am, but it's worth it bc dr. d tells you everything that will be on the quizzes/exams.  final assignment is easy and if you turn it in early you can get up to like 8 extra credit points.",
+        "course": "NUTRI210"
+      },
+      {
+        "index": 38,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. D was awesome! I would recommend taking him! He is entertaining to say the least.",
+        "course": "HUNU211"
+      },
+      {
+        "index": 39,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Looking past my difficulty dealing with his raspy voice at 9 in the morning, DiSilvestro is one of the best professors that I have had.  The info. covered is extremely interesting and important for anyone to know and he makes it fun with stories and comics.  Do not buy the book, it is not necessary.  Easy exams/quizzes.  All around great professor!",
+        "course": "NUT210"
+      },
+      {
+        "index": 40,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "What an awesome prof. really knows what he's talking about and gives a lot of practical information. also, he understands that 210 is a typical GEC class and doesn't act like you have no other classes than his like some profs. also, he's hilarious. good guy. anyone would like him",
+        "course": "HN210"
+      },
+      {
+        "index": 41,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The Best Prof.I had at OSU. Very helpful during office hrs. Keeps lectures entertaining with his hilarious tangents. A very entertaining course yet I still learned a lot from this professor. Definitely take DiSilvestro for this class.",
+        "course": "HMNTR210"
+      },
+      {
+        "index": 42,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "cool guy. funny, real random at times but keeps on topic. lots of extra credit too.",
+        "course": "HN201"
+      },
+      {
+        "index": 43,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "One of the greatest professors I've ever had.  Basically the last two posters were on the money, except I would highly advise going to class, I think when you copy the overheads, they don't make a whole lot of sense...Do the project early, it took me a half hour and kicked myself for waiting til the last minute.",
+        "course": "HUMN210"
+      },
+      {
+        "index": 44,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Quizes: Read class notes and book (small parts) and you'll do fine. Tests: Dito. Pros: He offers extra credit on quizes and project, he's funny!, he knows his material. Cons: He touches his nose, pants, and self A LOT during lectures, which can be distracting and weird. Summary: TAKE HIM ALREADY, what are you waiting for&#63;",
+        "course": "HMNTR210"
+      },
+      {
+        "index": 45,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This guy is great.  Everything a GEC is supposed to be somewhat interesting and an easy class.  You don't even have to go to class if your willing to go to his office hours and copy the notes.  Quizes and Tests are not hard.  Project is gimme points.  TURN IT IN EARLY AND GET THE EXTRA CREDIT POINTS.",
+        "course": "HMNTR210"
+      },
+      {
+        "index": 46,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Easy but your need to go to friday lectures! Funny stories actually help you remember!",
+        "course": "210"
+      },
+      {
+        "index": 47,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Good teacher, throws in some humor. If you go to class you should do well. He was thinking about leaving but is probably coming back so take the opportunity to take this class",
+        "course": "NUTRITION210"
+      },
+      {
+        "index": 48,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "funny man. good class. easy. GO TO FRIDAY LECTURES! :)  take this class if it's an option!",
+        "course": "NUTRITION210"
+      },
+      {
+        "index": 49,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "LOVED this class! Disilvestro is by far, one of the best professors that I have had at Ohio State. He made class interesting and funny- with jokes. Tests and quizes are not hard if you study the material given. Going to class helps- because he gives you hints to remember things! Take this class and get Dilsilvestro as your prof!",
+        "course": "HUMANNUTRITION"
+      },
+      {
+        "index": 50,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "HUMNUT210"
+      },
+      {
+        "index": 51,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "If you're taking notes, use his slides as a key word reference, because what he puts up is usually loosly connected thoughts that guide him through the lecture. I think he really needs these the most because he gets way too ADHD to stay on topic. not that that is a bad thing because it's usually entertaining. That being said, he's a good professor.",
+        "course": "HUMNNUTR210"
+      },
+      {
+        "index": 52,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Umm don't think because he puts up notes on the overhead that you'll understand them to study for quizzes and tests. My mistake for the first week or so. If you take good notes, take advantage of his extra credit oppurtunities (like with the nutrition analysis assigned), and study a bit, you shouldn't need to read even for the quizzes, to get an A.",
+        "course": "HUMNNUTR310"
+      },
+      {
+        "index": 53,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "He is a nice guy but also a braggart.  He loves to talk about himself and how much of an expert he is in the field.  He tells a lot of stories which are nothing to do with the class.  They may be entertaining IF I hadn't already worked all day.  The content itself is not that difficult.  He does give extra credit and bonuses.",
+        "course": "NUTRITION310"
+      },
+      {
+        "index": 54,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "by far the best teaching ive had.  the guy is a genius.  a real nice guy, pretty entertaining. class was never boring. highly recommend him ill look to schedule classes with him in the future",
+        "course": "310"
+      },
+      {
+        "index": 55,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "The professor is awesome. and the fact that the class is esay is only because the professor is so nice and give us tons of extra credit. absolute the best.Go class, study, should get A",
+        "course": "HUMANNUT210"
+      },
+      {
+        "index": 56,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Really easy class if you just go and take notes. He has an annoying voice, and often talks waaay to much when he could just present the notes in a straight-forward manner. Overall, he is a nice guy and the class is super easy",
+        "course": "HUMANNUT210"
+      },
+      {
+        "index": 57,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "First off, this class is really easy if you just go to class and study the notes. Second, Disilvestro is a really nice guy. He's not only a good teacher and very clear about the material, but he is really funny. His tangents are classic.",
+        "course": "HUMNUT210"
+      },
+      {
+        "index": 58,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Good class & teacher, take this is your second bio course!",
+        "course": "HUMANNTR210"
+      },
+      {
+        "index": 59,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He was great. Go to class and you will get an A",
+        "course": "HUMANNUTR210"
+      },
+      {
+        "index": 60,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. D is my favorite professor I've had so far at OSU..he's a NUT!  definitely hilarious yet teaches well..not to mention the class is very interesting..I would definitely recommend taking this class",
+        "course": "HUMANNUTR210"
+      },
+      {
+        "index": 61,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Probably the best prof. ive had yet. A surprisingly interesting and easy(if u get/take notes) class that i recommend to anyone needing a bio class",
+        "course": "HUMNUTR210"
+      },
+      {
+        "index": 62,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Great teacher. Don't miss the class, take notes, and you'll get good grade. Don't really have to read the textbook. Give hints on the exams and quizes. The class is interesting.",
+        "course": "HNT210"
+      },
+      {
+        "index": 63,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Easy to follow. Makes a boring subject interesting and fun!",
+        "course": "HUMNT210"
+      },
+      {
+        "index": 64,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. D was a great teacher.  You have to go to every lecture or you will miss exam questions.  He is very clear, but does like to go off on tangents.  Most of his stories have a point, but some are just funny.  I enjoyed this class more than any other.",
+        "course": "210"
+      },
+      {
+        "index": 65,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "very helpful, very very smart guy, and he adds humour to his class. I highly recommend this guy! He's an A++++ teacher!",
+        "course": "HNT210"
+      },
+      {
+        "index": 66,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Really easy! Mostly memorizing functions of vitamins and weight loss plans. Fun class!",
+        "course": "210"
+      },
+      {
+        "index": 67,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easy class! The teacher is fun and adds humor to his teaching. He's very very smart and has done tons of research and publications. The test come straight from the notes. I highly recommend the class! Dr. D is awesome!",
+        "course": "NURT210"
+      },
+      {
+        "index": 68,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Nice guy.  Slightly unorganized, but tells you almost exactly what to expect on the exam.",
+        "course": "HMNNUT210"
+      },
+      {
+        "index": 69,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. D was one of my favorite teachers! He's great!",
+        "course": "HNT210"
+      },
+      {
+        "index": 70,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "HUMNTR210"
+      },
+      {
+        "index": 71,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. D is a great Prof.",
+        "course": "HUMANNUTR"
+      },
+      {
+        "index": 72,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "I loved this guy, for human nutrion 210... he does go off on alot of tangents but it keeps the class interesting... i would definitely recomend taking him for this class it is extremely easy",
+        "course": "210"
+      },
+      {
+        "index": 73,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "This guy goes off on so many tangents you start to wonder what actually counts as course material.",
+        "course": "210"
+      },
+      {
+        "index": 74,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Really nice guy..very useful class..would be very easy if he was slightly more organized",
+        "course": "HUMNTR210"
       }
-    ]
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 2,
@@ -1063,6 +1483,95 @@
         "difficulty": 1,
         "comment": "The class was extremely easy. Unfortunately, she takes attendance at the end of a 3-hour lecture in order to keep everyone there. Tests don't take very long, because there are only 3 choices for 100 multiple-choice questions. No one should get below an A in this class.",
         "course": "HIMS500"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 1.8,
+    "department": "Health Science",
+    "firstName": "Prasanna",
+    "id": "VGVhY2hlci05MTMzMzk=",
+    "lastName": "Gurumurthy",
+    "legacyId": 913339,
+    "numRatings": 8,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "This prof is horrible.  She is not helpful and actually added more points to the already 1000 point class. An online class is supposed to be convenient and it felt more like punishment. She made exam timeframes instead of opening it up for a day and NEVER got back to you or the class in a timely manner.  She is miserable and unhappy and makes you know it. ",
+        "course": "PATHOPHYSIOLOGY"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "This class had the chance to be fun but instead she talked about how hard her life was. She also had no clue what she was talking about. It is an easy A but not worth it. So boring!!!",
+        "course": "PAES204"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Awful professor. Doesn't know anything about the subject matter outside of the PowerPoint slides. Also told us not to purchase text book and said all exam questions would be on slides, but there were plenty of exam questions from the book (a book we didn't have access to because the library didn't put it on reserve). Overall just a poor prof.",
+        "course": "PAES312"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "For a 3 hour class, there were 5 papers and 2 online exams which the class averaged about a 70%.  Did not grade the papers til the last day of the quarter.  Tough grader.  Not clear.  Very unhelpful.",
+        "course": "PAES204"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "One of the worst instructors I have ever had... Don't take this class it is a waste of time.",
+        "course": "EDUPA204"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Trivial information with a prof that only talks about herself. She talks about her pregnancy more than the class material. There are 6 papers in this class which she takes about 5 weeks per paper to grade. Going into finals week you will still be waiting for 5 papers to be graded. She is useless as an instructor and has no business in the classroom",
+        "course": "PAES204"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "This class was Sexuality and Health and had the potential to be very fun and interesting but she RUINED IT. She is a horrible teacher! She taught straight from the book and didnt know ANYTHING that wasnt in the book. If we asked her a question, 9 times out of 10 she had to look up the answer herself! She also had a horrible attitude.",
+        "course": "EDU204"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She is HORRIBLE!! that's all there is to it!",
+        "course": "HEALT1"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 1,
+    "department": "Health Science",
+    "firstName": "Susan",
+    "id": "VGVhY2hlci03Mzc4NTc=",
+    "lastName": "Patton",
+    "legacyId": 737857,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "DON'T TAKE HER. TAKE THE CLASS ONLINE. SHE SUCKS AND DOESN'T EXPLAIN ANYTHING. FORGET ABOUT ASKING ANY QUESTIONS, SHE WON'T ANSWER THEM. READS TOTALLY OFF POWER POINT WITH LITTLE OR NO EXPLANATION.",
+        "course": "HUMNUTRTN210"
       }
     ],
     "SEI": []

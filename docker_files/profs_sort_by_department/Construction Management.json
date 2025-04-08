@@ -1,60 +1,129 @@
 [
   {
     "avgDifficulty": 2,
-    "avgRating": 4.3,
+    "avgRating": 5,
     "department": "Construction Management",
-    "firstName": "Brad",
-    "lastName": "Nadolson",
-    "legacyId": 2716001,
-    "numRatings": 3,
+    "firstName": "Mark",
+    "id": "VGVhY2hlci0yNDUyODQ2",
+    "lastName": "Banta",
+    "legacyId": 2452846,
+    "numRatings": 1,
     "Ratings": [
       {
-        "index": 0,
-        "rating": null,
-        "comment": "Eh. He is a good guy who cares about the subject. Attendance is mandatory even though you do not learn much in lecture. Usually full of guest speakers. Exams and Quizzes are online not in class. BUY THE BOOK it will save your grade and make quizzes and exams easy. The questions are pulled straight from the book for all homework, quizzes, and exams."
-      },
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "The CSM program at Ohio State could use a lot of work still, but Mark's class I would say is the best class to prepare you for what you will be faced with when you become a project manager. Class is really easy and great to follow. \n",
+        "course": "4641"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 5,
+    "department": "Construction Management",
+    "firstName": "Adrienne",
+    "id": "VGVhY2hlci0yODI4MTA2",
+    "lastName": "Sraver",
+    "legacyId": 2828106,
+    "numRatings": 2,
+    "Ratings": [
       {
         "index": 1,
-        "rating": "5.0",
-        "comment": "Great guy. Great class to take for learning projects . Writing review after he bought everyone in class a cup of coffee"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Professor Sraver is one of the best professors at OSU. She's very helpful when you ask any questions and responds quick to emails. Alot of professors tell you they want you to succeed but with professor Sraver you can tell she actually cares.",
+        "course": "CONSYSM2205"
       },
       {
         "index": 2,
-        "rating": "5.0",
-        "comment": "This class definitely wasn't easy, but he was thorough in his lectures and always offered explanations. Quiz heavy course with detailed labs."
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Class material is easy to follow along with",
+        "course": "CONSYSM2205"
       }
-    ]
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 2,
-    "avgRating": 4.3,
+    "avgRating": 5,
     "department": "Construction Management",
-    "firstName": "Brad",
-    "id": "VGVhY2hlci0yNzE2MDAx",
-    "lastName": "Nadolson",
-    "legacyId": 2716001,
-    "numRatings": 3,
+    "firstName": "Mark",
+    "id": "VGVhY2hlci0yNDUyODQ3",
+    "lastName": "Scott",
+    "legacyId": 2452847,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Eh. He is a good guy who cares about the subject. Attendance is mandatory even though you do not learn much in lecture. Usually full of guest speakers. Exams and Quizzes are online not in class. BUY THE BOOK it will save your grade and make quizzes and exams easy. The questions are pulled straight from the book for all homework, quizzes, and exams.",
-        "course": "3451"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Super awesome teacher.",
+        "course": "CONSYSM4642"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.4,
+    "avgRating": 1.4,
+    "department": "Construction Management",
+    "firstName": "Michael",
+    "id": "VGVhY2hlci0yMjAzNDQ4",
+    "lastName": "Brown",
+    "legacyId": 2203448,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Absolute joke. Has never showed up to class on time, and when we ask questions he treats us like idiots. The topics of the course are relatively difficult topics, but the way he teaches makes them even harder. Does not provide a lot of practice problems, and tests always have some sort of element we haven't discussed before.",
+        "course": "CONSYSM3545"
       },
       {
         "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great guy. Great class to take for learning projects . Writing review after he bought everyone in class a cup of coffee ",
-        "course": "3451"
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Professor Brown is the worst teacher I have ever had. Constantly shows up late, yet complains that &quot;we're so far behind.&quot; Didn't let us know what was on a test until the night before, contradicts the book, and mocks students who ask questions in class. Brown is unorganized, unprofessional, unwilling to help, and unable to actually teach a class.",
+        "course": "CONSYSM3545"
       },
       {
         "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This class definitely wasn't easy, but he was thorough in his lectures and always offered explanations. Quiz heavy course with detailed labs. ",
-        "course": "3451"
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "The course material is challenging, but interesting. My problem with the class is the lecturer. He really has no experience in education, and thus has no idea how to teach/administrate a class and sees no wrong with his teaching methods/skills and appears to not consider suggestions on ways to improve when they are given, because nothing changes.",
+        "course": "CSM3546"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "A lot of the comments you will read are very over dramatic. Yes, Mr. Brown teaches a hard class in our major. Well guess what? Welcome to college people! Mr. Brown is new teaching so obviously he does not have everything figured out. But he is trying and I believe he is doing a fine job. I enjoy having Mr. Brown as a teacher. Good guy & means well.",
+        "course": "CSM3546"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This course was extremely hard and it seemed as though the teaching didn't help much. Lucky for you that this course has to be taken for your major. Lectures are long and FULL of content. Labs are just a longer lecture. Make sure you have enough green engineering paper for this course. Overall, I wouldn't recommend this to a friend..",
+        "course": "CSM3545"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Worst professor I have had during my entire college career and has no business in education. Extremely disappointed that OSU would hire such an individual, and then ignore student complaints. Lectures are ridiculous, and labs are just another lecture. Extremely wasteful, disorganized, and unreasonable with the position&time that he has been given.",
+        "course": "CONSYSM3545"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "The worst professor / teacher I have ever come in contact with. He shows up late to class everyday, then proceeds to try and keep students after. He is never prepared to begin class and never has papers ready to hand out. He is not respected, liked, admired, or paid attention to. He is the dust left on the floor that you can't sweep up",
+        "course": "CON3546"
       }
     ],
     "SEI": []
@@ -82,6 +151,68 @@
         "difficulty": 1,
         "comment": "She bribes students to take SEI's for extra credit and at the end does not give any. She takes points off for basic things. Doesn't reply to emails. Basic points were taken off of projects.",
         "course": "CSM2305"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.4,
+    "avgRating": 3.4,
+    "department": "Construction Management",
+    "firstName": "Larry",
+    "id": "VGVhY2hlci0xMjU2NzQw",
+    "lastName": "Heckendorn",
+    "legacyId": 1256740,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "One of two instructors who were very 'real world' about teaching and grading projects.  If not done right, try again.  I love that.",
+        "course": "CSM240"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Very dry. Very outdated, doesn't use Carmen to keep grades updated. Inconsistent with grading. Absolutely acts like a jerk if you ask a question or for help with anything in the lab. He takes his dear sweet time getting to lecture and expects you to stay over. Same thing with Labs and the end of the semester is a total rush and very sloppy.",
+        "course": "CSM2240"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Fairly poor in lectures, try not to have him too early or your more likely to fall asleep. You can get by without really going to class, just dont miss labs. Get your labs done quickly if possible and do the extra lab items. AND chances are you won't be building this structure because every class falls behind.",
+        "course": "CSM240"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Larry was a great professor! He is extremely passionate about what he teaches and incredibly helpful. I wish he taught more classes at OSU.",
+        "course": "CSM240"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "larry's great. dry and dull as can be. real laid back, doesn't really explain things too well. moves at a slow pace, but is just great to be around. if he goes off on you in a lab, you probably deserve it. it's welding, it's not plant science. there's a lot of safety involved. good guy, cool class.",
+        "course": "CSM240"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "He's crazy. Get really mad about little things. He went off on someone in each of my labs. I really didn't like him....&quot;Watch your eyes&quot;",
+        "course": "CSM240"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "larry is hilarious. crazy about safety (memorize the expiration dates on the fire extinguishers because he WILL ask you) knows more about welding than anybody and makes sure you know that you can kick out the vent grate and escape if all the doors are blocked by fire.",
+        "course": "CSM240"
       }
     ],
     "SEI": []
@@ -176,130 +307,123 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 2.4,
-    "avgRating": 3.4,
+    "avgDifficulty": 2,
+    "avgRating": 4.3,
     "department": "Construction Management",
-    "firstName": "Larry",
-    "id": "VGVhY2hlci0xMjU2NzQw",
-    "lastName": "Heckendorn",
-    "legacyId": 1256740,
-    "numRatings": 7,
+    "firstName": "Brad",
+    "id": "VGVhY2hlci0yNzE2MDAx",
+    "lastName": "Nadolson",
+    "legacyId": 2716001,
+    "numRatings": 3,
     "Ratings": [
       {
         "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "One of two instructors who were very 'real world' about teaching and grading projects.  If not done right, try again.  I love that.",
-        "course": "CSM240"
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Eh. He is a good guy who cares about the subject. Attendance is mandatory even though you do not learn much in lecture. Usually full of guest speakers. Exams and Quizzes are online not in class. BUY THE BOOK it will save your grade and make quizzes and exams easy. The questions are pulled straight from the book for all homework, quizzes, and exams.",
+        "course": "3451"
       },
       {
         "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Very dry. Very outdated, doesn't use Carmen to keep grades updated. Inconsistent with grading. Absolutely acts like a jerk if you ask a question or for help with anything in the lab. He takes his dear sweet time getting to lecture and expects you to stay over. Same thing with Labs and the end of the semester is a total rush and very sloppy.",
-        "course": "CSM2240"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great guy. Great class to take for learning projects . Writing review after he bought everyone in class a cup of coffee ",
+        "course": "3451"
       },
       {
         "index": 3,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "Fairly poor in lectures, try not to have him too early or your more likely to fall asleep. You can get by without really going to class, just dont miss labs. Get your labs done quickly if possible and do the extra lab items. AND chances are you won't be building this structure because every class falls behind.",
-        "course": "CSM240"
-      },
-      {
-        "index": 4,
-        "rating": 4,
+        "rating": 5,
         "difficulty": 3,
-        "comment": "Larry was a great professor! He is extremely passionate about what he teaches and incredibly helpful. I wish he taught more classes at OSU.",
-        "course": "CSM240"
-      },
-      {
-        "index": 5,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "larry's great. dry and dull as can be. real laid back, doesn't really explain things too well. moves at a slow pace, but is just great to be around. if he goes off on you in a lab, you probably deserve it. it's welding, it's not plant science. there's a lot of safety involved. good guy, cool class.",
-        "course": "CSM240"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "He's crazy. Get really mad about little things. He went off on someone in each of my labs. I really didn't like him....&quot;Watch your eyes&quot;",
-        "course": "CSM240"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "larry is hilarious. crazy about safety (memorize the expiration dates on the fire extinguishers because he WILL ask you) knows more about welding than anybody and makes sure you know that you can kick out the vent grate and escape if all the doors are blocked by fire.",
-        "course": "CSM240"
+        "comment": "This class definitely wasn't easy, but he was thorough in his lectures and always offered explanations. Quiz heavy course with detailed labs. ",
+        "course": "3451"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 2.5,
-    "avgRating": 5,
+    "avgDifficulty": 2.3,
+    "avgRating": 3.9,
     "department": "Construction Management",
-    "firstName": "Adrienne",
-    "id": "VGVhY2hlci0yODI4MTA2",
-    "lastName": "Sraver",
-    "legacyId": 2828106,
+    "firstName": "Eric",
+    "id": "VGVhY2hlci0xMjE1MDY4",
+    "lastName": "Desmond",
+    "legacyId": 1215068,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "This was an Small Engines class.  He wasn't very prepared but a good guy and knew what he was talking about.  Fairly easy class with few assignments.",
+        "course": "AGSYSMT3232"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Desmond is a great guy. He's fun to talk to and he likes to get involved in the department clubs. The engines class was average when it comes to hardness level. Even if you know very little about engines, you could probably study a decent amount and participate in classlabs and still get an A. If he is your advisor, get your schedule lock off asap",
+        "course": "ASM3232"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "took CSM 345 and 440 with Eric. Learned alot and had fun. Great teacher.",
+        "course": "CSM345"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Eric really makes csm 345 and 440 easy and fun.  Awesome guy, lots of fun...",
+        "course": "CSM345"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4.5,
+    "department": "Construction Management",
+    "firstName": "Mac",
+    "id": "VGVhY2hlci0xNDE2MTQ2",
+    "lastName": "Ware",
+    "legacyId": 1416146,
     "numRatings": 2,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Sraver is one of the best professors at OSU. She's very helpful when you ask any questions and responds quick to emails. Alot of professors tell you they want you to succeed but with professor Sraver you can tell she actually cares.",
-        "course": "CONSYSM2205"
+        "difficulty": 1,
+        "comment": "Easy going guy, knows his****",
+        "course": "HVAC440"
       },
       {
         "index": 2,
-        "rating": 5,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Cool, calm, collected, but a collection of students feel her purposely destroyed our grades with the final.",
+        "course": "CSM345"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4,
+    "department": "Construction Management",
+    "firstName": "Tom",
+    "id": "VGVhY2hlci0xNDg3OTU4",
+    "lastName": "Marshall",
+    "legacyId": 1487958,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
         "difficulty": 3,
-        "comment": "Class material is easy to follow along with",
-        "course": "CONSYSM2205"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Construction Management",
-    "firstName": "Mark",
-    "id": "VGVhY2hlci0yNDUyODQ2",
-    "lastName": "Banta",
-    "legacyId": 2452846,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "The CSM program at Ohio State could use a lot of work still, but Mark's class I would say is the best class to prepare you for what you will be faced with when you become a project manager. Class is really easy and great to follow. \n",
-        "course": "4641"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Construction Management",
-    "firstName": "Mark",
-    "id": "VGVhY2hlci0yNDUyODQ3",
-    "lastName": "Scott",
-    "legacyId": 2452847,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Super awesome teacher.",
-        "course": "CONSYSM4642"
+        "comment": "Lots of information crammed into this class, wish they could break it up a little better. Other than that this guy is great!  He really knows what he's talking about and is extremely passionate about the construction industry. Labs would be really tough if you didn't have groups. He brings you cookies and food from his farm occasionally too.",
+        "course": "CSM205"
       }
     ],
     "SEI": []

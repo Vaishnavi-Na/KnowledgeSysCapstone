@@ -1,82 +1,575 @@
 [
   {
-    "avgDifficulty": 1.5,
-    "avgRating": 4,
+    "avgDifficulty": 1,
+    "avgRating": 5,
     "department": "Medicine",
-    "firstName": "Martin",
-    "lastName": "Fitzgerald",
-    "legacyId": 2897897,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 0,
-        "rating": "5.0",
-        "comment": "The class had weekly readings and every class could have a pop quiz. The pop quizzes were easy, only 3 questions and if you read the reading you should be able to pass it. For example the reading could be about a disease and a question would ask what disease it was. Loved the lectures and was very good at explaining topics and answering questions."
-      },
-      {
-        "index": 1,
-        "rating": null,
-        "comment": "Only homework was the readings, but readings were a lot. Only grades were pop quizzes, attendance, and exams. Pop quizzes were annoying because you didn't know how many there would be, but he only kept the top 9 scores. As long as you email him before the lecture missing class won't affect your grade."
-      }
-    ]
-  },
-  {
-    "avgDifficulty": 1.5,
-    "avgRating": 4,
-    "department": "Medicine",
-    "firstName": "Martin",
-    "id": "VGVhY2hlci0yODk3ODk3",
-    "lastName": "Fitzgerald",
-    "legacyId": 2897897,
+    "firstName": "Gabriel",
+    "id": "VGVhY2hlci0yNzgzNjU0",
+    "lastName": "Alain",
+    "legacyId": 2783654,
     "numRatings": 2,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 1,
-        "comment": "The class had weekly readings and every class could have a pop quiz. The pop quizzes were easy, only 3 questions and if you read the reading you should be able to pass it. For example the reading could be about a disease and a question would ask what disease it was. Loved the lectures and was very good at explaining topics and answering questions.",
-        "course": "BIOETHC2010"
+        "comment": "He is by far one of my favorite professors on campus! He cares about you doing well outside of his class, he has helped me find research by connecting me with some of his colleagues and he cares a lot about your wellbeing. Only a couple of quizzes throughout the semester and they were all open note and straight from the slides/ book. Very easy!",
+        "course": "HTHRHSC3500"
       },
       {
         "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Overall, loved this dude. I skipped a couple classes, but the class is super easy to pass. As of when I took this class, there were no exams, just 1 quiz every couple weeks. All the information you need to do well are in the slides and in the textbook. The quizzes were also open note. The only complaint would be lectures might be dry sometimes.",
+        "course": "HTHRHSC3500"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.4,
+    "avgRating": 2.6,
+    "department": "Medicine",
+    "firstName": "Jennifer",
+    "id": "VGVhY2hlci0zMjIxNTA=",
+    "lastName": "Whetstone",
+    "legacyId": 322150,
+    "numRatings": 52,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I'm honestly incredibly confused by the reviews I've read so far. Dr. Whetstone has been one of the most accommodating and understanding professors I've had thus far. She mentions several things in lectures and is sure to reiterate them so that students know what exactly she's going to test on. She handled the shift to online classes very well too!",
+        "course": "PHR3200"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "I loved professor Whetstone ! Her class is extremely hard, but she is very repetitive on her material. Its very fast paced but you will do well if you study every night. She is very caring and always willing to help. She never makes you feel like you have to answer a question. You can always pass :)",
+        "course": "PHR3200"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I've taken both PHR3200 and PHR4210 with Dr. Whetstone and i cannot emphasize enough how misrepresenting her rating is here. She is hands down THE best and most enthusiastic professor i have ever had in my entire 4 years of college. She will always go out of her way to help you understand material and succeed. Truly an inspirational.",
+        "course": "PHR4210H"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "You will hear a lot about PHR 3200 &amp; it will be the hardest class you will ever take. I also think that Whetstone is the best professor for this class. She is enthusiastic and although it is a big class she is always more than happy to help you. She will provide you with everything you need to be successful- so use it! She really is a great teacher",
+        "course": "PHR3200"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Whetstone is probably one of the most organized and understanding professors I have ever had! She is always willing to help students succeed, and will make time to meet with them! Shes also great on personal level :)",
+        "course": "PHR3200"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Take this if you have a passion for deepening your understanding of biochemistry &amp; applying that knowledge to the real world! Dr. Whetstone is well-organized and shows faith in all of her students that they are able to solve complex cases. I don't know another professor who is as friendly or willing to dedicate time to students outside of class.",
+        "course": "PHR4210H"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Tough course so be prepared to put in work. The topics may seem very dense, but she's an amazing lecturer and displays the concepts in a way that is easily understood. She repeats/emphasizes important details so it really sticks in your head. Student success is her main focus so take time to go to office hours &amp; discover her kind and caring nature!",
+        "course": "PHR3200"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Tough course, but Dr. Whetstone kept our classes interesting and encouraged us to attend her office hours,which were very helpful. Can't go into this class expecting an easy A bc the material is heavy and takes time to understand. Each of the assignments is crucial to understanding material. Cares a lot about her students and is an incredible prof.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I had Dr. Whetstone for Biochem (PHR3200) in Fall 2016, and also for Pharm Lab (PHR4600) in Spring 2019. She is so bubbly and energetic, which really helps keep you interested during class! She is SO willing to talk with you and work with you through whatever you need help with. She wants the best for her students and will push you to get there.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I've seen all the negative feedback on this professor and I really do not believe it. Dr. Whetstone teaches difficult material but she does her best to make sure students learn. She has always helped me during her office hours and made sure I learn the material rather than just memorize it. She is very friendly and caring towards her students.",
+        "course": "PHR4200"
+      },
+      {
+        "index": 11,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I changed my major because of her. She made me feel like I shouldn't be in her class.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 12,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "Pharm undergrad can't avoid her. To get an A, memorize every single tiny detail on her notes, especially ones she says won't be tested. She is condescending, pedantic, racist, high-strung, &amp; repetitive. If you have issues, approach with caution, since she isn't receptive to criticism and she won't show understanding. Class is actually worth points.",
+        "course": "PHR4000"
+      },
+      {
+        "index": 13,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Don't ask question she will embarrass you. She will make you feel stupid and mean to her students and other students. She overreacted while another class was play music and said something to them to stop. To many assignments, quizzes, and exams. She lies about not giving more then 100 on the exams but she gives above 100. WARNING MEAN AND RUDE!!!",
+        "course": "PHR3200"
+      },
+      {
+        "index": 14,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "One of the worst teachers I have ever had. Rude to her students and is truly unfair. She will say something and mean the opposite. Lectures are rushed and has extremally high expectation on her exams. Which are hard and unfair. Try to get out of this class. Try the best to get out of her class she is an unfair and rude person to students.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 15,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She is rude to her students. Her lectures are overwhelming and she says things are on the exam but then it isnt. You have 6 exams in a 15 week period and full of assignments. She is the worst professor I have ever had.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 16,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "The worst professor I've ever had in my 4 years of school. If you're reading this switch majors to avoid her class. She assigns something almost every day, there are 6 exams, a bunch of quizzes. She is very rude when you ask her a question and tries to make you feel stupid. The exam questions are not fair at all and there's only an hour to finish.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 17,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "think you alrd had the rudest and worst prof of ur life? nuh uh, enters Whetstone. she really wants you to learn, but can she do it in a less mean and condescending way? i'm scared of her to death and can never ask any question w/o being afraid of being made fun of",
+        "course": "PHR3200"
+      },
+      {
+        "index": 18,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "One of the worst professors I have had at OSU. This class is not easy, but she makes it a lot harder than it should be. She makes you do a lot of unnecessary assignments and watch many videos. The exams are a lot to finish in 55 minutes and they are every 2-3 weeks. She is also very rude, careless, and condescending towards students.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 19,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "High expectations and a lot of homework and videos.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 20,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Exams are every two weeks. 4-5 chapter for each exam. To much information needed to memorize. Do not go to office hours. Has to much problems on her exam that she expect you to finish in 55 mins",
+        "course": "PHR3200"
+      },
+      {
+        "index": 21,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This class isnt overwhelming. To much homework before and after an exam. Her expectations is that her class is most priority than the classes. She is mean and doesnt answer youre question.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Whetstone is the quintessential modern professor. Her expectations are high, but she provides lots of practice material for every topic she covers. Furthermore, Dr. Whetstone doesn't dwell on the minutiae. Rather, she covers and tests her students on big-picture concepts and ideas. She's an excellent lecturer and truly cares about her students.",
+        "course": "PHR4010"
+      },
+      {
+        "index": 23,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "The class shouldnt be as hard as it is, but Whetstone is quite possibly the meanest professor Ive ever encountered. If you ask her any kind of question she is guaranteed to make fun of you or talk down to you. For example, when asking about a missed quiz question, she would not give any explanation of how to get the right answer, instead make fun",
+        "course": "PHR3200"
+      },
+      {
+        "index": 24,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She doesn't care about her students. She puts her problems in the class. Rude and doesn't teach. Very rude and doesn't want to teach. Hard on testing and the class.",
+        "course": "PHARM410"
+      },
+      {
+        "index": 25,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Whetstone is awesome! Not only does she know her biochem, but she really cares about how you are personally doing outside of class! She records all of her lectures, and posts videos online so if you miss a few classes you aren't far behind. I still recommend going to class for activity points, quizzes, and hints for exam questions. Do the JW ?s",
+        "course": "PHR3200"
+      },
+      {
+        "index": 26,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Biochem is a ton of work and a hard class. However, Dr. Whetstone is very accessible in office hours and understanding of any conflicts that come up. She can be somewhat extra to say the least, but she definitely cares about her students. You have to work every day to do well in this class, but at least a B is manageable.",
+        "course": "BIOCHEM3200"
+      },
+      {
+        "index": 27,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Definitely a tough class - you get out of it what you put in. Over the course of the semester my critical thinking skills improved as well as my knowledge of biochemistry. Whetstone is very helpful and will take the time to talk through tough material w/her students. I started off getting Cs and was getting As on tests by the end of the semester.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 28,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Her notes is detailed and helpful. She gives a lot of practice questions which may appear on her exams. If you study hard, you will get good grade.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 29,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She attends every lab period. Ask questions and keeps asking you the question in a condemning tone. As if that'll help me magically get the answers. Never explains things make you redo everything. You'll never be prepared to her standards. Lecture is all group work and does not help with all the lab calculations at all.",
+        "course": "PHR4600"
+      },
+      {
+        "index": 30,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Redundant, anxious, unnecessary, and unfair. Kind and has good intentions, but  has very unclear criteria (\"tentative syllabus\"),  lists of assignments that change on weekly basis, and generally unfair in terms of expected course work (relative to number of credit hours) and exams.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 31,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Hardest class Ive taken in college. midterms are every other week. quizzes are random. I thought tests were extremely hard. Give you \"fill- in notes\" with one fill in the black in the packet. Gives you an insane amount of notes and you must know everything in them. get ready for the hardest course of your college career. take buffer classes w/ this",
+        "course": "PHARM3200"
+      },
+      {
+        "index": 32,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Absolutely horrible. Rushed lectures. We went through a little over 7 chapters the last 2 weeks of class, so about 8 class days, and she wants you to know every single detail of them. She assigns an insane amount of assignments, none of which are actually helpful. This class is extremely stressful. See if you can take BIOCHEM 4511 instead of this.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 33,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "When she decides she doesn't want to lecture, she makes you watch 2 hours of videos of her lecturing and then the next class all you do is work on practice problems you have no idea how to do. If she does lecture, it's super rushed and you're expected to understand everything she says when she says it. Awful.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 34,
         "rating": 3,
+        "difficulty": 5,
+        "comment": "The exam cutoff was the 7th. The exam was on the 9th. 1/3 of it was what we learned on the 7th which was the steps/structures of Glycolysis. The notes/book didn't have structures. Exams ever 2 weeks. Random chapter quizzes. Rushed lectures. Study the homework, it'll help some.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 35,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I have never had so many assignments in a semester + she will make you watch 7+ videos of her lecturing outside of class, she gives a lot of quizzes, midterms every other week, and we go through info-dense chapters every 1-2 days. And, yes, you have to know every detail of them! Her assignments don't reinforce lecture material, either. Good luck.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 36,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "In a 3 week period, she gave us 2 midterms, 3 quizzes, and 8 assignments. She is scatterbrained and she makes very many mistakes during lecture. She expects her students to have her knowledge of biochemistry and she looks down on students who can't keep up. She is the worst professor I have had during college and I would avoid her at all costs.",
+        "course": "PHARM3200"
+      },
+      {
+        "index": 37,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "There is so much homework in this class and outside busy work. Over fall break, she made us watch 7 videos of her lecturing and read a bunch of scientific papers, on top of more assignments due the day we got back. Everyone always asks how to keep up in this class, but when you have other classes AND a job, it's not possible.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 38,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Her powerpoints are clear and she makes sure to explain them. She provides plenty of out of class activities to help you learn and asks for feedback to make sure those methods are working. Her and her TA's are extremely willing to help. As long as you keep up with class, assignments, and recitation, then this class/professor is just fine.",
+        "course": "PHR3200"
+      },
+      {
+        "index": 39,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I can see her being difficult in a higher level course, but she was very fair in 4200. She outlined exactly what was going to be on the exams and gave you examples of test questions. Going to her for help is a must if you don't understand. She's more willing to explain in her office hours instead of in class. Tough, but fair.",
+        "course": "PHR4200"
+      },
+      {
+        "index": 40,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She is rude and not helpful, neither in the class nor during her office hours. What she talks about is way too different from what she asks in the exams. She tends to make frequent mistakes in her notes and during the lectures. Lecture materials   are not chosen appropriately and not really helpful for pharmacists.",
+        "course": "PHARM602"
+      },
+      {
+        "index": 41,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Poor quality of teaching. Big expectations.",
+        "course": "PHARM602"
+      },
+      {
+        "index": 42,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Not helpful.",
+        "course": "PHA661"
+      },
+      {
+        "index": 43,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Worst thing I've ever gone through.",
+        "course": "PHARM602"
+      },
+      {
+        "index": 44,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Though she only taught about 1/3 of the quarter, her 3 weeks were my least favorite. We get it... you like estrogen. She was disorganized and condescending. Tests were poorly written and, in my opinion, focused on minor details at the expense of the more major points...which is NOT the purpose of an INTRO med chem class.",
+        "course": "PHARM410"
+      },
+      {
+        "index": 45,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "She is probably a nice person but good God she needs to relax in class. She is way to jacked up for lecture and talks really fast.  Ive taken 4 years of pharmacy classes and never had a teacher expect me to know more.  Some of the material is down right ridiculous for an undergrad class.  She should do everyone a favor and stick to PharmD classes.",
+        "course": "PHARM410"
+      },
+      {
+        "index": 46,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "No Comments",
+        "course": "PHAR601"
+      },
+      {
+        "index": 47,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Makes many mistakes in notes and during lecture and holds students responsible for information.  Her and her TA are rude.  Tests include information which is not covered in class.  A small contingency of people seem to like her most people dislike her.",
+        "course": "PHARM606"
+      },
+      {
+        "index": 48,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I loved her as a prof, thought she was very fair and definitely cared about her students.",
+        "course": "PHARM461"
+      },
+      {
+        "index": 49,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She talks too fast and her lectures are not organized nor detailed enough to prepare you for the exams, which are so difficult! You'll have to study your butt off for this class. I mean it!",
+        "course": "PHR461"
+      },
+      {
+        "index": 50,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Hardest class I've ever taken.  You have to keep up.",
+        "course": "PRM461"
+      },
+      {
+        "index": 51,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "condescending",
+        "course": "PHARMACY601"
+      },
+      {
+        "index": 52,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "PHR461"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 5,
+    "department": "Medicine",
+    "firstName": "Courtney",
+    "id": "VGVhY2hlci0yMTUxNTk5",
+    "lastName": "Thiele",
+    "legacyId": 2151599,
+    "numRatings": 8,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Prof Thiele really wants you to find her material interesting and succeed. While the class did include two lengthy exams and a long (7-8pg) essay, almost every other assignment is graded for completion and acts as a nice cushion for your grade. Use the study guide &amp; attend the short lectures and you will do good. Prof Thiele is a gem!!!",
+        "course": "BIOETHCS3000"
+      },
+      {
+        "index": 2,
+        "rating": 5,
         "difficulty": 2,
-        "comment": "Only homework was the readings, but readings were a lot. Only grades were pop quizzes, attendance, and exams. Pop quizzes were annoying because you didn't know how many there would be, but he only kept the top 9 scores. As long as you email him before the lecture missing class won't affect your grade.",
-        "course": "BIOETHC2010"
+        "comment": "Thiele is an AMAZING professor. She's thorough and gives plenty info on exams. She is such an easy grader but she did struggle on getting back our midterms on time but she gives amazing feedback and more than enough material to study for on the exams. The final and midterm were online and when I got was unable to take the final she gladly helped me",
+        "course": "BIOETHC3000"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This was a great class! Professor Thiele is an amazing teacher and it was a great opportunity to take her class. The material is very interesting and the class discussions are insightful. Overall great experience, classwork and grading were very manageable.",
+        "course": "BIOETHICS3000"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Bioethics 3000 was easily my favorite class I've taken at OSU. The class size is small so it's mostly discussion-based. The discussion questions on Carmen are really manageable. The exams aren't bad either and she prepares you well. Read as much as possible, it will enhance discussion and it's genuinely interesting. Great class, great teacher",
+        "course": "BIOETHICS3000"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great professor, this is my second time taking a class with her and I really enjoy her teaching style.",
+        "course": "BIOETH4000"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "really great professor that loves her students and tries to make the class interesting. she really wants people to think and it def made me love bioethics even more. 10/10 recommend",
+        "course": "BIOETHICS3000"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This was such a great class, despite it being the first time it's offered. I really like Courtney and her laid-back teaching style. She is so passionate about what she does and she really cares for her students. There is a lot of reading but the class is called \"Readings in Bioethics\". One of the best professors I've had!!!",
+        "course": "BIOETH4000"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great professor who is both knowledgeable and unbiased",
+        "course": "BIOETHICS3000"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.6,
+    "avgRating": 4.4,
+    "department": "Medicine",
+    "firstName": "Richard",
+    "id": "VGVhY2hlci01MTE1MA==",
+    "lastName": "Fertel",
+    "legacyId": 51150,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This man is just a great prof overall, does not give tests that often and he is laid back. ",
+        "course": "DENTDENT"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Great Professor,extremely prepared for class- clear about what exams cover. Only tests off material he writes down and projects on an overhead projector while he's lecturing. Explains relevant but complicated physiological and biochemical processes extremely  clearly and concisely- You can just tell he put a lot of effort into preparing the course",
+        "course": "DENT6571"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Excellent professor. He writes his notes out on an overhead, so you know he'll not lecture too fast. He tells stories to assist in remembering and often provides mnemonics. His class and exams are not easy but if you know the material you need not worry. He never tries to trick you though he'll make you think. Go to class; this man truly teaches.",
+        "course": "GENERALPHARM"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Best Teacher at OSU that I've had.",
+        "course": "DENTDENT"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "PHARM"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 5,
+    "department": "Medicine",
+    "firstName": "George",
+    "id": "VGVhY2hlci0xNDQzNzk=",
+    "lastName": "Hinkle",
+    "legacyId": 144379,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Great man",
+        "course": "ECON238"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He definitely knows what he is talking abou, and is really helpfull if you have any trouble with anything. He is an all around nice guy and will challenge you to a racquet ball game if you play.",
+        "course": "PHARMACY616"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "awesome prof... knows his stuff and knows how to teach it !",
+        "course": "PHR"
       }
     ],
     "SEI": []
   },
   {
     "avgDifficulty": 3,
-    "avgRating": 4.3,
+    "avgRating": 4,
     "department": "Medicine",
-    "firstName": "Pamela",
-    "id": "VGVhY2hlci0zMDA0MTYw",
-    "lastName": "Rafferty-Semon",
-    "legacyId": 3004160,
-    "numRatings": 3,
+    "firstName": "Holly",
+    "id": "VGVhY2hlci0yNDg0MTg0",
+    "lastName": "Estes",
+    "legacyId": 2484184,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
         "rating": 4,
-        "difficulty": 2,
-        "comment": "Instructions can be very unclear more often than not, but she's very easy to work with, very nice, 10/10",
-        "course": "HTHRHSC2500"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "First off, Prof. Semon is a highly intellectually curios person. She is so kind and great at teaching. See sends out kind reminders and truly cares about each of her students. This class is extremely difficult to get an A in but because of Prof. Semon's help, I was able to. I would take this class again just because of her kindness to her students.",
-        "course": "HTHRHSC2500"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great professor, she was always ready to help if needed. The class had a decent amount of reading and work but was very manageable if you spread it out across the week. ",
-        "course": "HTHRHSC2500"
+        "difficulty": 3,
+        "comment": "Class was interesting, but lectures could tend to be a bit long. Only had 2 midterms, 2 assignments, and a final. Only 300 points total In the class. Though, not hard just follow the study guides that are given! Have to take good notes though as she does not post completed slides. And there is no use of electronics at all. Overall not a bad class!",
+        "course": "HTHRHSC4530"
       }
     ],
     "SEI": []
@@ -284,76 +777,597 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.6,
-    "avgRating": 4.4,
+    "avgDifficulty": 1.5,
+    "avgRating": 4,
     "department": "Medicine",
-    "firstName": "Richard",
-    "id": "VGVhY2hlci01MTE1MA==",
-    "lastName": "Fertel",
-    "legacyId": 51150,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This man is just a great prof overall, does not give tests that often and he is laid back. ",
-        "course": "DENTDENT"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Great Professor,extremely prepared for class- clear about what exams cover. Only tests off material he writes down and projects on an overhead projector while he's lecturing. Explains relevant but complicated physiological and biochemical processes extremely  clearly and concisely- You can just tell he put a lot of effort into preparing the course",
-        "course": "DENT6571"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Excellent professor. He writes his notes out on an overhead, so you know he'll not lecture too fast. He tells stories to assist in remembering and often provides mnemonics. His class and exams are not easy but if you know the material you need not worry. He never tries to trick you though he'll make you think. Go to class; this man truly teaches.",
-        "course": "GENERALPHARM"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Best Teacher at OSU that I've had.",
-        "course": "DENTDENT"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "PHARM"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 5,
-    "department": "Medicine",
-    "firstName": "Gabriel",
-    "id": "VGVhY2hlci0yNzgzNjU0",
-    "lastName": "Alain",
-    "legacyId": 2783654,
+    "firstName": "Martin",
+    "id": "VGVhY2hlci0yODk3ODk3",
+    "lastName": "Fitzgerald",
+    "legacyId": 2897897,
     "numRatings": 2,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 1,
-        "comment": "He is by far one of my favorite professors on campus! He cares about you doing well outside of his class, he has helped me find research by connecting me with some of his colleagues and he cares a lot about your wellbeing. Only a couple of quizzes throughout the semester and they were all open note and straight from the slides/ book. Very easy!",
-        "course": "HTHRHSC3500"
+        "comment": "The class had weekly readings and every class could have a pop quiz. The pop quizzes were easy, only 3 questions and if you read the reading you should be able to pass it. For example the reading could be about a disease and a question would ask what disease it was. Loved the lectures and was very good at explaining topics and answering questions.",
+        "course": "BIOETHC2010"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Only homework was the readings, but readings were a lot. Only grades were pop quizzes, attendance, and exams. Pop quizzes were annoying because you didn't know how many there would be, but he only kept the top 9 scores. As long as you email him before the lecture missing class won't affect your grade.",
+        "course": "BIOETHC2010"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.3,
+    "department": "Medicine",
+    "firstName": "Pamela",
+    "id": "VGVhY2hlci0zMDA0MTYw",
+    "lastName": "Rafferty-Semon",
+    "legacyId": 3004160,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Instructions can be very unclear more often than not, but she's very easy to work with, very nice, 10/10",
+        "course": "HTHRHSC2500"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "First off, Prof. Semon is a highly intellectually curios person. She is so kind and great at teaching. See sends out kind reminders and truly cares about each of her students. This class is extremely difficult to get an A in but because of Prof. Semon's help, I was able to. I would take this class again just because of her kindness to her students.",
+        "course": "HTHRHSC2500"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great professor, she was always ready to help if needed. The class had a decent amount of reading and work but was very manageable if you spread it out across the week. ",
+        "course": "HTHRHSC2500"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 4.3,
+    "department": "Medicine",
+    "firstName": "Marshall",
+    "id": "VGVhY2hlci04MzcxMTI=",
+    "lastName": "Williams",
+    "legacyId": 837112,
+    "numRatings": 8,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Be prepared for this class to be your major focus. If you can't make it that, don't take it. Tests: truefalse (correct the falses), fill in the blank, but mostly \"multiple choice\" (ALL 5 CHOICES CAN BE CORRECT, YOU HAVE TO SELECT  ALL CORRECT ONES). The last exam is ambiguously \"semicomprehensive.\" Grading scale is WEIRD (eg. A-  88-95)",
+        "course": "MICRO5149"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Good, not great, professor. The class is challenging, but spend time with the material and getting an A is not impossible at all (it definitely takes a good amount of time though). He can be difficult to understand, and doesn't answer questions all that directly. Sitting close to the front helps a lot because he moves quickly.",
+        "course": "MICRO649"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Truly great guy and a good professor to have, this was one of my favorite classes so far in microbiology.  If you have issues with understanding his southern accent try sitting closer to the front of the class, it helps a lot.",
+        "course": "MICRO649"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Nice guy; tries to make class interactive. The material was not difficult but the exam format made exams difficult. I was usually a couple of points above the average on exams and ended up with a B in the class. Willing to meet and help you learn. Downside: a bit confusing powerpoints and lightening-fast lecturer. Attendance is necessary to do well",
+        "course": "MICRO649"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This class was super interesting! The tests actually werent that bad (a little tricky) once you understood the material...but the hard part is actually understanding everything. The book is pretty much useless. You definitely need to go to class. He is so willing to help people and knows SO much...he talks about the subject like its so easy! Ha!",
+        "course": "MICRO649"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "really tough class but not impossible. i really learned a lot and dr. williams is a great teacher",
+        "course": "VIROL649"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "VIROLOGY649"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Man this guy is cool but his tests will kick your ass! His class was super interesting and he knows everything you could possibly ask him- which is probably why he expects a lot out of his students. Study study study and you should probably pass- just kidding you'll do fine. bonus: he went out with us after each exam! coolest prof. ever!",
+        "course": "VIROLOGY649"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 4.5,
+    "department": "Medicine",
+    "firstName": "Susan",
+    "id": "VGVhY2hlci01MTE4Mg==",
+    "lastName": "Turner",
+    "legacyId": 51182,
+    "numRatings": 47,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Dr Turner is a clear professor and writes fair and clear exams. The majority of students do very well (median~95%), because she clearly tells you what you need to learn and how to study. The class is intended as a preparation for professional school in medicine, dentistry, or allied health.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Turner seems like a nice person.  Although about halfway through the quarter she randomly starts taking attendance&#63; Not really amazing as a professor, her lectures tend to be dull and repetitive.  She repeats herself A LOT. But go to class and get through it, and make sure to memorize the book.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I absolutely love Dr. Turner! She exemplifies everything that is great about OSU. She cares about her students, and is willing to help in any way possible. Work hard and you will learn a lot. I highly recommend!",
+        "course": "ANAT200"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easy class if you pay attention.  She is pretty predictable on lab practicals, if you pay attention to what she stresses in class you can basically figure out what she will tag.  Written exams are straightforward and pretty easy.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This class was not worth the 6 credits you get for it.  I took it relatively late in my undergraduate career, but it was really a piece of cake.  As long as you do your coloring and reading in your work book and spend time in lab you should do fine.  Definitely not as bad as some people on here made it out to be. Easy A IMHO.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I wish she was my grandma. She is the nicest prof I've ever had at ohio state and very willing to help. great class!",
+        "course": "ANAT200"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great professor, makes everything crystal clear. This class isn't &quot;hard&quot; per-se, it just requires daily studying and attendance. If you go to lecture and lab, and keep up with the material, you'll do well; if you try to cram, you won't. Dr. Turner is very accessible and willing to help in any way possible. Highly recommended.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "This class is very time consuming and you have to study a lot, but if you put the time in you can do well. Go to lecture and lab, they are very important. Do the exercises in the book, the unit reviews, her quizzes on Carmen and the Anatlab cd that comes with the book and the tests are not too bad.Those will prepare you well and don't get behind.",
+        "course": "ANA200"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "VERY HARD CLASS. NEED TO COME TO CLASS EVERY DAY. TESTS ARE EXTREMELY DIFFICULT AND NOT VERY MANY POINTS IN CLASS WITH NO CURVE UNLESS YOU COME TO CLASS A TON. STUDY VERY HARD.",
+        "course": "ANA200"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Dr Turner is a very nice pleasant woman. She has by far the hardest class I have ever taken. I had to withdraw the first time and take it over. I would recommend taking Anatomy 199 at Columbus State. Dr. Turner's tests consist of A-E which means 4 completely differnt answers, all of the above or none of the above. Memorize every single tiny detail!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "I took this class a year ago and I still remember her. Extremely pleasant woman & always smiling. Follow everything she says: do online practice quizzes, read what she tells you to, do end of chapter reviews, and go to the review sessions. Trust her advice, and you will get an A.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 12,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Dr. Turner makes this class extremely tough for a 200 level course. No matter how much you study, she will always test you on tiny, insignificant details. Her midterms are HARD no matter how much you know. She asks really random questions and emphasizes that you know things that never show up on the exams. I would recommend a different professor.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Straightforward. Lacking a lot of clinical applications. The book was more like class notes than a text. Dr. Turner is very clear and very nice. The unit reviews at the end of the chapter are worth doing.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Very challenging class. I learned A LOT, but it was very hard and a lot of information to cram into 10 weeks. I think she does a good job drilling things into your head, but you can never really tell what she will test on, so good luck!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 15,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Awesome professor!  Very Helpful",
+        "course": "ANAT199"
+      },
+      {
+        "index": 16,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Annoying. She drills things into the ground then barely qizzes on them. Midterms are hard as hell and nothing is worded the way it should be. She makes this class harder than it needs to be.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 17,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Susan was so helpful! I have some extra circumstances that I need help with, and she was more than willing to work with me! I would definitely recommend taking this class with her!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Take Anatomy 199 with her! There is A LOT to learn in this class, but it is a human anatomy class, so of course you will need to study. She presents the information well in class so you need to go to every lecture and pay attention! She cares about her students, and she is a great teacher!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 19,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "She is adorable!  There is a lot of information to be learned.  Turner is pretty good about teaching the material clearly though, which is always a plus.  I would recommend taking her.  She doesn't make the final cumulative, which is always nice when you have that much material to learn!",
+        "course": "ANT199"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She is amazing teacher. She is very understanding and just overall sweet!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 21,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "She is a good teacher, her enthusiam and smiles are very contagious. Her personality really contributes to the learning environment. She goes over everything plenty and is interested in helping all of her students get the best grades possible. If you don't study ALOT, you'll hate it. If you study pretty much every night, it's an enjoyable class.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 22,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Keep up with this course work and you'll do well. You are going to need to devote at least an hour of concentrated study to this course. I suggest getting a Netter's Atlas the black and white pages in the text assigned aren't very helpful at all.",
+        "course": "ANATO200"
+      },
+      {
+        "index": 23,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "This class is just like everyone says.  It is extremely hard-do not take with a large course load.  Take this class seriously from day one.  There is no curve at ALL.  Go to class. She randomly takes attendance in lecture.  The CD ROM for the book is very helpful. This class moves FAST.  If you put in the effort it is so worth it. Great teacher!",
+        "course": "ANAT200"
+      },
+      {
+        "index": 24,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Turner is the best professor I've had so far she goes over everything about 10 times before each test. There's no final but four midterms. This class isn't bad if you go to all the lectures/labs and just study each night you just get used to it...But Dr. Turner was awesome!",
+        "course": "ANAT200"
+      },
+      {
+        "index": 25,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She is a wonderful teacher.  Probably the best one I've had at Ohio State",
+        "course": "ANAT199"
+      },
+      {
+        "index": 26,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "she is the best professor to get if you have to take anatomy. So much better then all of the others.",
+        "course": "ANATO199"
+      },
+      {
+        "index": 27,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "i took this class when taking a total of 20 credit hours....big mistake!  study every night for AT LEAST 1 hour or you will fail!  go to class...i was on the border of an A- and an A and she gave me the A!",
+        "course": "ANAT19903"
+      },
+      {
+        "index": 28,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Class was insanely difficult, I've never studied more for anything in my life. it's not her fault - the amount of material anat teachers have to cover is crazy. plan on studying at least an hour a night, every night, or you'll fall behind. i had to drop this and retake it to get a passing grade, there's no room for procrastinating in this class!!",
+        "course": "ANATOMY199"
+      },
+      {
+        "index": 29,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This is a very time consuming class. I studied a lot for it. Best advice: go to Prior health library to the computer lab on floor 3 and do the anat lab cd....it helps ALOT!! Very interesting class, especially if you like dead people ;) (cadavers smell like formaldehyde!!) NO Curve!!",
+        "course": "ANATOMY200"
+      },
+      {
+        "index": 30,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Very clear and knowledgable which helped, but the class is early in the morning, 8 classes a week and if you ever ask her a question in which she thinks she has answered at some point she makes you feel like an idiot. Good class, good prof, but very time consuming",
+        "course": "ANAT200"
+      },
+      {
+        "index": 31,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Liked her, but it was hard. You MUST work to get a good grade.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 32,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "I spent more time studying for this class than I did any of my other classes combined all year long.  Billions of things to memorize and put together.  Dr. Turner is good at explaining everything, but there is so much that needs to be explained.  NO CURVE!!  I got a B- barely, but I thought it was the most interesting, but hardest class I've taken!",
+        "course": "ANAT19904"
+      },
+      {
+        "index": 33,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Class is not really hard. Plan to study at least 2 hours though a night. Test are easy, quizzes are harder because you have to know proper spelling. Other than that, you shouldn't get less than a B.",
+        "course": "ANAT19904"
+      },
+      {
+        "index": 34,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great teacher! She does everything possible to help you out--puts extra quizzes online, has review sessions, gives helpful hints, etc. Best advice: Do the online quizzes OVER AND OVER. I did each one till I could get a perfect score, and that plus doing AnatLabs helped me get an A. GO TO CLASS & LAB too. That is, IF you want a good grade.BestTA=LIZ",
+        "course": "ANAT19901"
+      },
+      {
+        "index": 35,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Everything is clearly laid out for you and there are enough resources to help you learn the material.  It takes a lot of time and effort but she is eager to help and is very knowledgable",
+        "course": "ANATOMY199"
+      },
+      {
+        "index": 36,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "You definitely have to EARN your grade in this class.  I worked really hard for my B, and I learned a lot.  Lectures made me sleepy quite often, so try to sit up front to stay awake and pay attention.  I used highlighters to color-code stuff in my book, and that helped a lot.",
+        "course": "ANATOMY199"
+      },
+      {
+        "index": 37,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "You have to devote A LOT of time to this class.  If you don't, then you're going to do crummy.  Do the unit reviews, they help a lot.  Don't buy a supplemental manual.  Don't bother going to office hourse because she'll just tell you to do Anat Lab and the Unit Review.  Best of luck :)",
+        "course": "ANATOMY19903"
+      },
+      {
+        "index": 38,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "She makes the class easy by repeating the subject over and over.. her review is good.. the exams are not very hard. if u do the anatlab and go to her review you will be fine,, she is a great prof",
+        "course": "ANAT199"
+      },
+      {
+        "index": 39,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "She is an awesome prof and very nice.  She explained the stuff great and had review sessions. There is a lot of material to cover so be prepared to study long and hard. Go to all the classes and labs!",
+        "course": "ANATOMY200"
+      },
+      {
+        "index": 40,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "WOW HARD TEACHER! Is very clear, but does not have a good attitude. Moves at an INSANELY fast pace. Most people will end up dropping her class. Tests are Very hard! Best advice- STUDY! class helps somewhat, but if you write slow- don't bother going...",
+        "course": "ANAT19903"
+      },
+      {
+        "index": 41,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Turner is really a great professor!  She is always willing to help her students, and she always makes her office hours available.  She explained the material in great detail and the material was easy to comprehend.  She's a great woman!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 42,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Susan is one of the nicest prof's I've EVER had!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 43,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "ANAT200"
+      },
+      {
+        "index": 44,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "ANAT199"
+      },
+      {
+        "index": 45,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "ANAT199"
+      },
+      {
+        "index": 46,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "very good teacher...explains well...prepares students for exams",
+        "course": "ANAT199"
+      },
+      {
+        "index": 47,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "ANAT1990"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.9,
+    "avgRating": 4.9,
+    "department": "Medicine",
+    "firstName": "Roger A.",
+    "id": "VGVhY2hlci05Mjg4MzY=",
+    "lastName": "Dashner",
+    "legacyId": 928836,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Dashner is the best professor I have ever had in any course anywhere! He is exceptionally well organized, absolutely hilarious and just a super nice guy in general.  It is crystal clear that he cares deeply about the success of his students and he does a phenomenal job of teaching a course that I was scared to death of taking until I met him.",
+        "course": "DENT6512"
       },
       {
         "index": 2,
         "rating": 5,
+        "difficulty": 3,
+        "comment": "Very good teacher he makes the class both interesting and fun.  I really learned a lot and had no expectations coming into the class.  If you don't go to the lectures you might get by with a C and if you don't go to labs, don't even bother taking the class.  But if you go to both, you'll get an A or B.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Dashner is an outstanding professor. His lectures are hilarious and his clinical references make the material even more interesting. Lectures and labs aren't mandatory but I would highly recommend attending. The class requires some studying, but the material is straightforward and the tests are fair. I wish he taught more undergrad courses!!!",
+        "course": "ANAT200"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Dashner is the only reason I ever attended lectures. They were not required, but he was not only helpful by telling us pretty much everything we needed to know (even though it was pretty much right out of the book) but also by relating everything clinically. He was quite chipper for morning lectures and &quot;The Other End&quot; slides were hilarious!",
+        "course": "ANATO200"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Dashner was extremely knowledgable, professional, and helpful.  His lectures were the best in the course -- well organized, succinct, and even humorous.   Highly recommended.",
+        "course": "MED1"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "MED1"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Dashner was fantastic!!! He was absolutely the best teacher in our team-taught anatomy course! He was great in the labs, his handouts were well-organized and his lectures were hilarious! More importantly, he emphasized the clinically relevant material that we really needed to know and presented it in a way that made it easy to learn and retain.",
+        "course": "MEDI"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.9,
+    "avgRating": 4.9,
+    "department": "Medicine",
+    "firstName": "Ben",
+    "id": "VGVhY2hlci0xNjg2Njc2",
+    "lastName": "Wallace",
+    "legacyId": 1686676,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
         "difficulty": 1,
-        "comment": "Overall, loved this dude. I skipped a couple classes, but the class is super easy to pass. As of when I took this class, there were no exams, just 1 quiz every couple weeks. All the information you need to do well are in the slides and in the textbook. The quizzes were also open note. The only complaint would be lectures might be dry sometimes.",
-        "course": "HTHRHSC3500"
+        "comment": "Great teacher who is willing to go the extra mile to help you out.  Easy to understand.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Awesome teacher. Lets you know everything you need for tests, will hold personal and group tutoring if you are having trouble, and just an overall helpful guy. He knows the cadavers like the back of his hand so you can trust that your getting the right information. He likes to make jokes too. Love him and anatomy!",
+        "course": "ANAT200"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This prof is one of the best I've ever had. He's passionate about what he's teaching, truly knows everything & is willing to go the extra mile & then some, to make sure his students understand & really learn the material. A+++",
+        "course": "ANAT200"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "He says things like &quot;To write with a broken pencil is pointless.&quot; I wrote that down. But, overall was a great teacher.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Looks like a skin head but he's easy to understand and enjoys teaching.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Awesome teacher.  Makes understanding the human body seem simple.",
+        "course": "ANAT200"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This guy is very legit.  He really knows his stuff, and is always willing to help students do the best they can in the class.",
+        "course": "ANAT200"
       }
     ],
     "SEI": []
@@ -362,67 +1376,377 @@
     "avgDifficulty": 2.5,
     "avgRating": 5,
     "department": "Medicine",
-    "firstName": "Courtney",
-    "id": "VGVhY2hlci0yMTUxNTk5",
-    "lastName": "Thiele",
-    "legacyId": 2151599,
-    "numRatings": 8,
+    "firstName": "Laura",
+    "id": "VGVhY2hlci01ODAzNzE=",
+    "lastName": "Harris",
+    "legacyId": 580371,
+    "numRatings": 10,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 3,
-        "comment": "Prof Thiele really wants you to find her material interesting and succeed. While the class did include two lengthy exams and a long (7-8pg) essay, almost every other assignment is graded for completion and acts as a nice cushion for your grade. Use the study guide &amp; attend the short lectures and you will do good. Prof Thiele is a gem!!!",
-        "course": "BIOETHCS3000"
+        "comment": "Very good teacher and keeps the lecture interesting. She relates the material in lecture to actual events. The pop quizzes tripped me up because I didn't review materials regularly. Exams are relatively easy with studying. Overall a very fun course.",
+        "course": "AT2000"
       },
       {
         "index": 2,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "Thiele is an AMAZING professor. She's thorough and gives plenty info on exams. She is such an easy grader but she did struggle on getting back our midterms on time but she gives amazing feedback and more than enough material to study for on the exams. The final and midterm were online and when I got was unable to take the final she gladly helped me",
-        "course": "BIOETHC3000"
+        "difficulty": 3,
+        "comment": "She is great! She was funny and kept class interesting, while still teaching and challenging you. Best class and professor I have had.",
+        "course": "AT303"
       },
       {
         "index": 3,
         "rating": 5,
         "difficulty": 2,
-        "comment": "This was a great class! Professor Thiele is an amazing teacher and it was a great opportunity to take her class. The material is very interesting and the class discussions are insightful. Overall great experience, classwork and grading were very manageable.",
-        "course": "BIOETHICS3000"
+        "comment": "Great teacher! She made the class interesting and was really helpful. Only class I've ever actually looked forward to attending.",
+        "course": "AT303"
       },
       {
         "index": 4,
         "rating": 5,
         "difficulty": 2,
-        "comment": "Bioethics 3000 was easily my favorite class I've taken at OSU. The class size is small so it's mostly discussion-based. The discussion questions on Carmen are really manageable. The exams aren't bad either and she prepares you well. Read as much as possible, it will enhance discussion and it's genuinely interesting. Great class, great teacher",
-        "course": "BIOETHICS3000"
+        "comment": "awesome teacher, best I've had yet.  watch out for the pop quizes though-they might take me from an A to a B....there are 3 @ 50 pts each and they are only 5 questions...so you have to keep up with the material every day! but other than that she's funny and interesting to learn from",
+        "course": "AT303"
       },
       {
         "index": 5,
         "rating": 5,
-        "difficulty": 3,
-        "comment": "Great professor, this is my second time taking a class with her and I really enjoy her teaching style.",
-        "course": "BIOETH4000"
+        "difficulty": 2,
+        "comment": "shes a great teacher and shes fun to learn from",
+        "course": "AT303"
       },
       {
         "index": 6,
         "rating": 5,
-        "difficulty": 3,
-        "comment": "really great professor that loves her students and tries to make the class interesting. she really wants people to think and it def made me love bioethics even more. 10/10 recommend",
-        "course": "BIOETHICS3000"
+        "difficulty": 2,
+        "comment": "This class was very enjoyable. Best teacher I've had at the university so far. I'll miss her when the quarter is over.",
+        "course": "AT303"
       },
       {
         "index": 7,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "This was such a great class, despite it being the first time it's offered. I really like Courtney and her laid-back teaching style. She is so passionate about what she does and she really cares for her students. There is a lot of reading but the class is called \"Readings in Bioethics\". One of the best professors I've had!!!",
-        "course": "BIOETH4000"
+        "difficulty": 3,
+        "comment": "Best teacher I have ever had!",
+        "course": "AT303"
       },
       {
         "index": 8,
         "rating": 5,
         "difficulty": 3,
-        "comment": "Great professor who is both knowledgeable and unbiased",
-        "course": "BIOETHICS3000"
+        "comment": "great teacher. the best I have had yet. she is very quick witted and funny. enjoyed going to every class.",
+        "course": "AT303"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "My favorite teacher I have ever had.  She is a lot of fun in class while she is teaching. I think I learned the most in her class compared to any of my other college classes.  Really nice and approachable.",
+        "course": "AT303"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Awesome teacher really excited about what she was talking about.  Funny and humerous made the class more enjoyable.  Lots of memorizing and very long class but made easier by Laura.  Could relate to students and didn't treat us like little kids.  Big props to her and best professor yet.",
+        "course": "AT303"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 4.5,
+    "department": "Medicine",
+    "firstName": "Jen",
+    "id": "VGVhY2hlci0xNDE3NTIy",
+    "lastName": "Lucas",
+    "legacyId": 1417522,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Challenging class, but very concise professor. Everything you need to know will be on her lecture slides. I highly recommend printing them off to write on during class. Fair exams and know within a few hours on how you did. Though her lectures are dense, you will learn something from her!",
+        "course": "PHYSI6101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 4.1,
+    "department": "Medicine",
+    "firstName": "Mark",
+    "id": "VGVhY2hlci04MDk5MTU=",
+    "lastName": "Terrell",
+    "legacyId": 809915,
+    "numRatings": 15,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "The class is challenging, but if you go and study as much as you should it isn't very hard to get a good grade. I think my class average was around a B.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This was an intense class, but I feel that I really learned and retained knowledge. I would recommend taking this professor if you really want to learn. I heard the woman teaching this class was somewhat ditsy.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I found his tests and quizzes to be moderately difficult, but he is more than willing to help any student. His lecture notes are FAR better than what's offered in the textbook, attending lecture and lab is crucial to doing well",
+        "course": "ANAT199"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "this class was hard! pay attention!!!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very helpful and clear, tests are not difficult with moderate studying.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great professor. Teaches the class well and is willing to help outside of class. Quizzes seem to be harder than the test but the test aren't too bad. I agree with everyone else that as long as you keep up with the material and pay attention to his notes you'll do well in the class. I got a B and that was with slight effort",
+        "course": "ANAT199"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "If you keep up with the notes he provides in class, you are quaranteed to get an A in his class.  The exams are so straight forward that you can't go wrong if you study his notes.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Dr. Terrell is a fine instructor. He made it easy to digest a boatload of material. No doubt that if you put the time into studying for quizzes/exams, you will do well. But studying a little most days of the week is necessary.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I have no idea why the previous poster said that he's not willing to help.  Everytime I have asked him a question, he has answered it in a very clear manner and always willing to help.  His tests are really easy.  Yes you do have to keep up but isn't that what you're suppose to do anyways&#63;  Lastly he's very good at what he does. Well organized.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I agree, he shouldn't be teaching an anatomy class.  With most of the class being nursing majors, we needed all the help we could get and he didn't give it to us. Take it from the other lady who is teaching the class if she still is.  I heard she was a lot better.  He is quite boring and he reads from his powerpoint.  Tests are somewhat difficult.",
+        "course": "ANATO199"
+      },
+      {
+        "index": 11,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I thought he was great. He organizes the info so well, which really makes it easier to learn. Go to class and study your notes",
+        "course": "ANATOMY199"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "People need to understand that anatomy is all about how much time you want to put into it. I think Mark did a good job of putting the information out there and it's the students job to put a lot of time and effort into the class. If you memorize your notes, you'll get an A. If you don't take the time to do that then you won't do good in this class.",
+        "course": "199"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "There really isn't any way to make anatomy 'fun.'  Dr. Terrell is willing to help.  Attend office hours.  He let's you get the notes you missed in class.  If you still don't understand something he'll work with you.  The tests are difficult and are based solely from his notes.  Attend lectures.",
+        "course": "ANATOMY19901"
+      },
+      {
+        "index": 14,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "This class is hard. And he isn't a good teacher. But if you take the notes and study A BUNCH you'll be fine. But it sucks because you basically teach yourself",
+        "course": "ANATOMY199"
+      },
+      {
+        "index": 15,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "His degree is actually in education, and he spends all his time reading from his outline. Tests and quizzes are difficult because you have to teach yourself most of it. Nice guy, but shouldn't be teaching an anatomy class.",
+        "course": "ANATOMY199"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.1,
+    "department": "Medicine",
+    "firstName": "Pal",
+    "id": "VGVhY2hlci01MTU1MA==",
+    "lastName": "Vaghy",
+    "legacyId": 51550,
+    "numRatings": 11,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Great Professor :)",
+        "course": "MOLBI311"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Good professor once you learn how to decipher his accent.  He tries to make class interesting even though some of the topics are very boring.  Puts a lot of the sample questions on the exam and gave a few opportunities for bonus points on the Carmen quizzes.",
+        "course": "MBC311"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Dr. Vaghy is actually a pretty bad lecturer, but his exams are directly off of the study guide, so use those. The hard part is when your exams are half vaghy/half sanford, which her part requires that you know what was taught and understand it, and his is pretty much did you memorize what the study guide told you to&#63; Overall, easy chem class.",
+        "course": "MBC311"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He's hard to understand and can be really boring sometimes but the tests are pretty easy and a lot of the questions are on the sample questions he give you before. The book isn't used at all. Good class among the Chemistry courses",
+        "course": "BIOCH312"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He is Really good instructor , try his best to help , follow his study guide , attend his lecture you will get A , make chemistry lot easier .",
+        "course": "CHM113"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Very good instructor.  Has a thick accent but is understandable and pretty funny.  Class is interactive and is kept interesting.",
+        "course": "MOLBI312"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He is the best chem teacher I have ever had. Better than any teacher actually. He makes chemistry fun and interesting. He really wants people to learn it and he makes it a lot easier than most teachers. Plus he is just adorable!",
+        "course": "MOLBIOCHEM311"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "i love this guy..im pulling A's in chem",
+        "course": "MOLBIOCHEM"
+      },
+      {
+        "index": 9,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "He was nice most of the time, put degraded me when I missed a question on one of his exams. His people skills obviously need work.",
+        "course": "MOLBIOCH"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. Vaghy is awesome.  He's funny, welcomes questions, encourges discussion and is basically open to anything.  He wants you to learn, not just memorize but he facilitates the process.  He made molec. biochem my favorite class...and I HATE chem.",
+        "course": "MOLECBIO"
+      },
+      {
+        "index": 11,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "MOLBIOCHEM"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 2.3,
+    "department": "Medicine",
+    "firstName": "Kevin",
+    "id": "VGVhY2hlci02MzAwNTQ=",
+    "lastName": "Evans",
+    "legacyId": 630054,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "he is the director of the radsci program. terrible professor. he is unorganized, illogical, and rude.  i was an A student and never had problems with anyone, ever! he acts one way in front of people, then changes when there isn't an audience. he used the term retarded in a derogatory way multiple times which is extremely awful in the med field.",
+        "course": "RADSCIPROGRAM"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Boringg. All you have to do is go to class and write 2 2-page papers. The papers are very easy to write just make sure to pick a simple topic. He's a good guy interested in what he does but you have a guest lecturer every day.",
+        "course": "RADSC200"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. Evans is a nice man and is helpful as long as you seek him out and are persistant.  Rad Tech 200 was a really easy class as long as you do the writings assigned.  You won't have any trouble with this man.",
+        "course": "RADTE200"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I worked in Xray for 8 years and decided to go to OSU to get my BS. He failed me in 1 cr hr class due to family emergency. He has absolutely no sympathy and works in medical field. VERY DISAPPOINTING...I have since changed majors because I want nothing to",
+        "course": "RADTECH200"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "He knows the subject, but doesn't know how to teach.  He only wants you to be like him. Very boring to listen to.  He is a hard grader",
+        "course": "RADTECH560"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 5,
+    "department": "Medicine",
+    "firstName": "Donald",
+    "id": "VGVhY2hlci0xMjM2NjY3",
+    "lastName": "Batisky",
+    "legacyId": 1236667,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "A class favorite!  Missed very much.",
+        "course": "MED3"
       }
     ],
     "SEI": []

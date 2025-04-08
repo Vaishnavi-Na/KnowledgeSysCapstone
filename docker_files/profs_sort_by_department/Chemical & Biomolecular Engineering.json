@@ -1,183 +1,5 @@
 [
   {
-    "avgDifficulty": 3.7,
-    "avgRating": 2.4,
-    "department": "Chemical & Biomolecular Engineering",
-    "firstName": "Eduardo",
-    "lastName": "Reategui",
-    "legacyId": 2609328,
-    "numRatings": 10,
-    "Ratings": [
-      {
-        "index": 0,
-        "rating": "4.0",
-        "comment": "Challenging class, but very enjoyable with this instructor."
-      },
-      {
-        "index": 1,
-        "rating": null,
-        "comment": "Professor Reategui as a person is a nice person. He is poor at communicating in lecture as he doesn't annunciate his words very clearly. The TA's grading lacked feedback and had some mistakes. Exams are fair. He goes through example problems similar to exam questions. Notation can be hard to differentiate and often makes mistakes during lecture"
-      },
-      {
-        "index": 2,
-        "rating": "5.0",
-        "comment": "I would do anything you can to get a class with Dr.Reategui. He was the nicest and most understanding teacher I have had. He grades tough but it is for the best with his great feedback. The class itself is rather difficult, but he makes it enjoyable and easier to comprehend. My favorite teacher I have had so far!"
-      },
-      {
-        "index": 3,
-        "rating": null,
-        "comment": "This guy sucks"
-      },
-      {
-        "index": 4,
-        "rating": null,
-        "comment": "Very bad professor. What I \"learned\" came from the TA's and outside note taking. Lectures only consist of copying down notes that are already available online, no explanations. Mumbles and talks to himself, not good at enunciating. No reason to come to class; just look at the notes online and ask the TA's. Avoid if at all possible."
-      },
-      {
-        "index": 5,
-        "rating": null,
-        "comment": "horrible teaching methods and very boring lecturer. He does not annunciate his words when he speaks, very difficult to understand. Very bad at explaining things."
-      },
-      {
-        "index": 6,
-        "rating": "4.0",
-        "comment": "Dr. Reategui is an excellent teacher. It was a difficult class, but I manage to get a good grade. You have to work hard for a good grade, but worth it."
-      },
-      {
-        "index": 7,
-        "rating": null,
-        "comment": "Dr. Reategui really cares about students and he is very fair. His class is boring sometimes, but transport is math after all. I will take a class with him again."
-      },
-      {
-        "index": 8,
-        "rating": null,
-        "comment": "Reategui seems like a super nice guy but his lectures are so dry. If you have an option to take another prof for Transport 1, please do."
-      },
-      {
-        "index": 9,
-        "rating": null,
-        "comment": "Dr. Reategui didn't seem to like thermo either. He seemed unsure of himself at times. He relied heavily on the resources of a different prof, which wasn't a bad thing, but his quizzes/exams were unpredictable. I don't think he curved (I took it P/F in Spring 2020 due to COVID). I can't say I learned a whole lot, but he tried. Avoid if possible."
-      }
-    ]
-  },
-  {
-    "avgDifficulty": 3.7,
-    "avgRating": 2.4,
-    "department": "Chemical & Biomolecular Engineering",
-    "firstName": "Eduardo",
-    "id": "VGVhY2hlci0yNjA5MzI4",
-    "lastName": "Reategui",
-    "legacyId": 2609328,
-    "numRatings": 10,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Challenging class, but very enjoyable with this instructor.",
-        "course": "CBE2420"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Professor Reategui as a person is a nice person. He is poor at communicating in lecture as he doesn't annunciate his words very clearly. The TA's grading lacked feedback and had some mistakes. Exams are fair. He goes through example problems similar to exam questions. Notation can be hard to differentiate and often makes mistakes during lecture",
-        "course": "CBE2420"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "I would do anything you can to get a class with Dr.Reategui. He was the nicest and most understanding teacher I have had. He grades tough but it is for the best with his great feedback. The class itself is rather difficult, but he makes it enjoyable and easier to comprehend. My favorite teacher I have had so far!",
-        "course": "CBE3508"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "This guy sucks",
-        "course": "CBE3508"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Very bad professor. What I &#34;learned&#34; came from the TA&#39;s and outside note taking. Lectures only consist of copying down notes that are already available online, no explanations. Mumbles and talks to himself, not good at enunciating. No reason to come to class; just look at the notes online and ask the TA&#39;s. Avoid if at all possible. ",
-        "course": "CBE2420"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "horrible teaching methods and very boring lecturer. He does not annunciate his words when he speaks, very difficult to understand. Very bad at explaining things.",
-        "course": "CBE2420"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Dr. Reategui is an excellent teacher. It was a difficult class, but I manage to get a good grade. You have to work hard for a good grade, but worth it.",
-        "course": "CBE2420"
-      },
-      {
-        "index": 8,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Dr. Reategui really cares about students and he is very fair. His class is boring sometimes, but transport is math after all. I will take a class with him again.",
-        "course": "CBE2420"
-      },
-      {
-        "index": 9,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Reategui seems like a super nice guy but his lectures are so dry. If you have an option to take another prof for Transport 1, please do.",
-        "course": "CBE2420"
-      },
-      {
-        "index": 10,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Dr. Reategui didn't seem to like thermo either. He seemed unsure of himself at times. He relied heavily on the resources of a different prof, which wasn't a bad thing, but his quizzes/exams were unpredictable. I don't think he curved (I took it P/F in Spring 2020 due to COVID). I can't say I learned a whole lot, but he tried. Avoid if possible.",
-        "course": "CBE3508"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Chemical & Biomolecular Engineering",
-    "firstName": "Joel",
-    "id": "VGVhY2hlci0yNjE4NTU3",
-    "lastName": "Paulson",
-    "legacyId": 2618557,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Great professor. Very good at lecturing and provides great notes. HW is hard but lots of office hours to help out. Exams are straightforward and the averages are normally high. ",
-        "course": "CBE4624"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Paulson is a great lecturer and I am disappointed I won't have the opportunity to take a class with him again. He might be one of the top professors in the CBE department. Lecture material was straightforward. Homeworks prepared you well for the exams and nothing was too much of a surprise. He was helpful over email and very engaging in class. ",
-        "course": "CBE4760"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "One of the best if not the best professor I've had. Really helpful and I learned a great deal from him ",
-        "course": "CBE4760"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.4,
     "avgRating": 1.5,
     "department": "Chemical & Biomolecular Engineering",
@@ -263,6 +85,123 @@
         "difficulty": 5,
         "comment": "Many people dropped this class after the first class. I don't know what's the reason. But smart as you, you can figure it out why! Good Luck if you have him.",
         "course": "CHBE765"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Chemical & Biomolecular Engineering",
+    "firstName": "Joel",
+    "id": "VGVhY2hlci0yNjE4NTU3",
+    "lastName": "Paulson",
+    "legacyId": 2618557,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great professor. Very good at lecturing and provides great notes. HW is hard but lots of office hours to help out. Exams are straightforward and the averages are normally high. ",
+        "course": "CBE4624"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Paulson is a great lecturer and I am disappointed I won't have the opportunity to take a class with him again. He might be one of the top professors in the CBE department. Lecture material was straightforward. Homeworks prepared you well for the exams and nothing was too much of a surprise. He was helpful over email and very engaging in class. ",
+        "course": "CBE4760"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "One of the best if not the best professor I've had. Really helpful and I learned a great deal from him ",
+        "course": "CBE4760"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 2.4,
+    "department": "Chemical & Biomolecular Engineering",
+    "firstName": "Eduardo",
+    "id": "VGVhY2hlci0yNjA5MzI4",
+    "lastName": "Reategui",
+    "legacyId": 2609328,
+    "numRatings": 10,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Challenging class, but very enjoyable with this instructor.",
+        "course": "CBE2420"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Professor Reategui as a person is a nice person. He is poor at communicating in lecture as he doesn't annunciate his words very clearly. The TA's grading lacked feedback and had some mistakes. Exams are fair. He goes through example problems similar to exam questions. Notation can be hard to differentiate and often makes mistakes during lecture",
+        "course": "CBE2420"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I would do anything you can to get a class with Dr.Reategui. He was the nicest and most understanding teacher I have had. He grades tough but it is for the best with his great feedback. The class itself is rather difficult, but he makes it enjoyable and easier to comprehend. My favorite teacher I have had so far!",
+        "course": "CBE3508"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "This guy sucks",
+        "course": "CBE3508"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Very bad professor. What I &#34;learned&#34; came from the TA&#39;s and outside note taking. Lectures only consist of copying down notes that are already available online, no explanations. Mumbles and talks to himself, not good at enunciating. No reason to come to class; just look at the notes online and ask the TA&#39;s. Avoid if at all possible. ",
+        "course": "CBE2420"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "horrible teaching methods and very boring lecturer. He does not annunciate his words when he speaks, very difficult to understand. Very bad at explaining things.",
+        "course": "CBE2420"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Dr. Reategui is an excellent teacher. It was a difficult class, but I manage to get a good grade. You have to work hard for a good grade, but worth it.",
+        "course": "CBE2420"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Dr. Reategui really cares about students and he is very fair. His class is boring sometimes, but transport is math after all. I will take a class with him again.",
+        "course": "CBE2420"
+      },
+      {
+        "index": 9,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Reategui seems like a super nice guy but his lectures are so dry. If you have an option to take another prof for Transport 1, please do.",
+        "course": "CBE2420"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Dr. Reategui didn't seem to like thermo either. He seemed unsure of himself at times. He relied heavily on the resources of a different prof, which wasn't a bad thing, but his quizzes/exams were unpredictable. I don't think he curved (I took it P/F in Spring 2020 due to COVID). I can't say I learned a whole lot, but he tried. Avoid if possible.",
+        "course": "CBE3508"
       }
     ],
     "SEI": []

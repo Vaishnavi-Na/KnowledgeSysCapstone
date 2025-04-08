@@ -26,7 +26,6 @@ def demo_search_course(subject: str, courseNum: str):
                             ]
                         }
                     },
-                    # {"match": {"Ratings.index": "300"}} # Gets all professors with over 300 ratings
                     {"match": {"Ratings.course": subject.upper()+courseNum}} # Gets all professors that have taught the course
                 ],
                 "minimum_should_match": 1 # Course should be listed in RMP OR SEI

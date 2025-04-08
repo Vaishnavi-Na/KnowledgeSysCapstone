@@ -1,89 +1,407 @@
 [
   {
     "avgDifficulty": 3.3,
-    "avgRating": 3.9,
+    "avgRating": 3.1,
     "department": "Slavic Languages",
-    "firstName": "Andrea",
-    "lastName": "Sims",
-    "legacyId": 1230369,
-    "numRatings": 15,
+    "firstName": "Helena",
+    "id": "VGVhY2hlci0xNTcwODY4",
+    "lastName": "Goscilo",
+    "legacyId": 1570868,
+    "numRatings": 16,
     "Ratings": [
       {
-        "index": 0,
-        "rating": null,
-        "comment": "I have a disability and she was very disrespectful and awful about it, they also made me very uncomfortable on multiple occasions with the way they spoke to me. Avoid her if you have any kind of disability, She is also terrible with accommodations pertaining to mental health, and can be pretty nasty to students."
-      },
-      {
         "index": 1,
-        "rating": null,
-        "comment": "chooses to not care about students struggling about mental health"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She never answer my email. I have a trouble of connection when I take the exam, finally I felt it but I ask her if I can redo it. She didnt answer me. She said Retaking an exam that is multiple choice is against university rules, for good reason, I should contact an technical support but she said, she cant do any on it, I just felt it .please dont",
+        "course": "SLAVIC3310"
       },
       {
         "index": 2,
-        "rating": "5.0",
-        "comment": "Professor Sims is very passionate about what she teaches, and you can tell by her lectures. If you are interested in the content of the class, she is wonderful. If you are just taking it for a GE credit, you may not like the lectures as much. Participation in lectures was important every day."
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She never answer my email. I have a trouble of connection when I take the exam, finally I felt it but I ask her if I can redo it. She didnt answer me. She said Retaking an exam that is multiple choice is against university rules, for good reason, I should contact an technical support but she said, she cant do any on it, I just felt it .",
+        "course": "SLAVIC3310"
       },
       {
         "index": 3,
-        "rating": null,
-        "comment": "Sims is not accommodating when it comes to absences, illnesses, etc. She is very strict to the syllabus, difficult to approach, and not flexible. Made me feel like she was doing me a favor when I requested more than reasonable accommodations. She is very intelligent, but I wouldnt take another course with her. Only Slavic prof I wouldnt recommend"
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "I decided to take her class as a GE to fulfill a visual and performing arts class because I had heard good things about the class, but that was when there was a different professor. Her tests are completely subjective to what her opinions are and if you dont remember tiny details from the readings/movies, youre screwed on a 1/4 of the test.",
+        "course": "SLAV3310"
       },
       {
         "index": 4,
-        "rating": "5.0",
-        "comment": "Dr. Sims has a vast wealth of knowledge on the subject, and it's obvious that the lectures barely scratch the surface despite the density. Her required readings are difficult, but not horrible once you get into the rhythm. She relishes in questions in class, and will launch into immensely informative tangents. 10/10, would recommend"
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She does not provide the discussion participation grades. The exam questions were very subjective and were very misleading. She is probably one of the worst professors I've had at OSU.",
+        "course": "SLAVIC3310"
       },
       {
         "index": 5,
-        "rating": "5.0",
-        "comment": "Professor Sims is really knowledgable of Slavic studies. She is an anthropologist which adds to it. Her class is definitely geared for upperclassmen and I don't recommend it for GE credits or underclassmen. It is also a thinking/comprehension class, not really about memorizing material. Be prepared to be called on and work hard for the grade."
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "She refused to provide our discussion participation grades, which was 20% of our grade. Students could not know how they were doing in the class. Exam heavy, they were all multiple choice opinions. so you had to pay attention to her opinions and memorize them to get answers right.",
+        "course": "WGSST3310"
       },
       {
         "index": 6,
-        "rating": "5.0",
-        "comment": "Professor Sims is one of the best professors I've ever had. Not only is she absolutely brilliant, but she is an extremely skilled instructor. You will work hard, yes, so if you're not willing to put in the work don't bother, but if you do, it's so worth it. She's amazing!"
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Awful experience. Never responded to emails. The class was supposed to be over zoom but she changed it last second. The tests are next to impossible and have multiple choice opinion questions. All of the other questions are worded in gibberish. She makes no sense and shes rude in everything shes said. Dont take.",
+        "course": "WGSST3310"
       },
       {
         "index": 7,
-        "rating": null,
-        "comment": "She is a very intelligent women. If your major is Linguists or Slavic languages, I would recommend her. If you are taking her as a GE class Professor, I wouldn't advise it. She treats everyone in the class like they're taking this as a major class, and makes it hard to comprehend and understand a lot of things. The class was also boring and dry."
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Helena was absolutely great for Russian Film. I really enjoyed her insights and the films she picked. She is one of my favorite teachers in the Russian department. She genuinely cares about student success.",
+        "course": "RUSSIAN3460"
       },
       {
         "index": 8,
-        "rating": "5.0",
-        "comment": "Dr. Sims is great at engaging the class. Her discussions are always interesting and do not feel like they are too controlled by the student or the professor. I appreciate the balance. She gives plenty of extra credit, not too much homework, and the quizzes aren't too bad either. The semester long project was a bummer though."
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Is a very nice woman and clearly enjoys teaching. The exams and quizzes are relatively easy (as long as you're going to class) but participation is 25% of your grade so you need to make sure you speak and she knows your name. In my experience is bad at responding to emails",
+        "course": "WGSS3310"
       },
       {
         "index": 9,
-        "rating": "5.0",
-        "comment": "So knowledgable and enthusiastic and facilitates great discussion in class. Very passionate about what she does and available to help students often. Lots of material covered and fairly heavy papers/projects, but if you put in the effort and pay attention it's a very enjoyable course."
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "She's very entertaining and interesting in lecture. She's also quite witty. She did seem, however, to pick favorites based on participation. If you don't speak up in class, she'll eventually call you out. Her quiz questions were very subjective, in my opinion. I did almost all the readings and still struggled with her little 5 point quizzes.",
+        "course": "RUSSIAN2345"
       },
       {
         "index": 10,
-        "rating": "4.5",
-        "comment": "Great professor. Very enthusiastic and knowledgable. Heavy workload for the GE credit, but not too unbearable. She is pretty approachable, and worked with my schedule to accommodate meeting me outside of class. I would definitely take a class with her again. Be prepared to do a lot of reading, with occasional pop quizzes."
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Helena was a great teacher who was always full of energy and enthusiasm during her lectures. While the tests are tough, she's always willing to help the people who participate a lot in her class. She gives \"pop\" quizzes, but always told us the class beforehand if she was going to quiz us over certain material. Good class, but you have to work hard!",
+        "course": "RUSSIAN3460"
       },
       {
         "index": 11,
-        "rating": null,
-        "comment": "Very nice person, tough material. Uses big words and strong vocabulary makes it tough to keep along with lecture."
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "A very nice, funny lady. It's one of those classes that you can't really study for. Pay attention to what she says in class and hope you remember everything. The films weren't very good, and she posts long readings to do on carmen (which I didn't do). But she's very animated so the class is kinda fun.",
+        "course": "3460"
       },
       {
         "index": 12,
-        "rating": "5.0",
-        "comment": "Simply one of the best professors I've ever had. A total powehouse. Extremely interesting class very well taught."
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Class was graded on 3 exams 8 quizzes and particpation. She says she gives pop quizzes, but she will tell you the class before if she is giving one. The quizzes are based on readings and films. You have to write down everything she says to do well on the exams and readings are really long, but the class is not too bad. Also, shes very funny. ",
+        "course": "RUSSIAN3460"
       },
       {
         "index": 13,
-        "rating": "4.5",
-        "comment": "Took as a GEC class, ended up super interested! lots of discussion, she leads you to her points, very helpful!"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Absolutely loved this class! Such a worthwhile GEC...so glad I took it! Helena is a fantastic woman- she is hilarious, always makes class interesting, is extremely approachable, and encourages class discussion. The movies she chose were really good and relevant and tests were not hard at all. I highly recommend this class to everyone!",
+        "course": "R360"
       },
       {
         "index": 14,
-        "rating": "5.0",
-        "comment": "Andrea is very skilled at walking people through theory, and she cares about helping people get through the material. Her labs are useful and related, and she stimulates a lot of conversation based on the book."
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "She is hilarious and so knowledgeable. Tests were multiple choice and she encouraged a lot of class participation and discussion but also provided an alternative way to earn participation points which was great. I'm glad I chose it as my GEC. She is an awesome professor!",
+        "course": "RUSS360"
+      },
+      {
+        "index": 15,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Prof. Goscilo is full of sarcasm and wit which makes class very enjoyable to go to. The movies she chooses are enjoyable and discussions are generally lively. She truly creates an environment where you can feel comfortable interacting with her and other students. A very worthwhile GEC.",
+        "course": "RUSS360"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Amazing professor. Razor sharp woman with a sense of humor. Would recommend for any class, especially Russian Folklore. Took the time to confront the obnoxious pack of girls chattering at the back of a packed lecture hall, much to mine (and everyone else's) delight. In a GEC class of 70, no easy feat.",
+        "course": "RUS360"
       }
-    ]
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Slavic Languages",
+    "firstName": "Viktoria",
+    "id": "VGVhY2hlci0yNTUxOTkx",
+    "lastName": "Kim",
+    "legacyId": 2551991,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very kind, entertaining, and well-organized instructor who was excellent at conveying the course content and did so in involved and exciting ways. Though there was homework every night, it was weighed fairly and did cover the course content well. Great experience overall.",
+        "course": "1101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 5,
+    "department": "Slavic Languages",
+    "firstName": "Daniel",
+    "id": "VGVhY2hlci0yMDgyNjI2",
+    "lastName": "Pratt",
+    "legacyId": 2082626,
+    "numRatings": 8,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Pratt is an energetic, enthusiastic professor and a great lecturer. He combines and analyzes culture and history really well. Have 4 homework, 1 map quiz, 1 midterm and 1 final paper. The homeworks require short answers to make sure you get his idea in class and slides. Easy A and inspirational.",
+        "course": "SLAV2230"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Pratt was hands-down one of the greatest professors I've had at OSU, and outside the classroom he is equally as enjoyable. If you have serious concerns about the class, questions on material, or you just want to chat with him, he's always approachable and helpful.",
+        "course": "SLAVIC2797"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Show up to class and take the few online quizzes and you will pass. Doesnt quiz over the movies or verify that you watched them or did the readings, he just creates inspirational discussion about it so its worth doing the work so you can add to his ideas. He is so passionate and energetic and fun and open and i just loved his class. Best teacher.",
+        "course": "SLAVIC3360"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Pratt is my favorite faculty at Ohio State. He has a genuine excitement about everything he talks about, and can make any topic engaging and interesting. Classroom discussions are stimulating and he teaches you how to think critically. Fabulous instructor.",
+        "course": "SLAVIC4250H"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Literally the greatest professor I've ever had.",
+        "course": "RUSSIAN2250"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "One of my favorite classes at OSU. Very small class size but had him his first semester here at OSU and seemed to be a tough grader. Only 2 papers and a presentation but many books to read.  Very philosophical class.",
+        "course": "SLAVIC2367"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Awesome professor! By far my favorite class this semester. He makes class fun and very interesting, because he delves into culture, history, and other topics during discussion. There are two papers to write and a presentation you give. Very easy class, as long as you're prepared to read!",
+        "course": "SLAVIC2345"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Small class with maybe 10-15 other students.  Be talkative and read the readings and you will love the class and get an easy A.  Only grades are 3 small papers, one 7.5 min presentation and participation.  All worth 20% so get B+'s and A's and its easy.  Gotta enjoy history a little for this class though, other than that take it. ",
+        "course": "SLAV2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.3,
+    "avgRating": 3.7,
+    "department": "Slavic Languages",
+    "firstName": "Hope",
+    "id": "VGVhY2hlci0yMjA2MDE3",
+    "lastName": "Wilson",
+    "legacyId": 2206017,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Hope is an excellent professor that really cares about her students. If you put in the effort, you will be fine!",
+        "course": "RUS3460"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Had her for a vampire GE class which I expected to be easy. Her teaching style was very repetitive, and it was hard to pay attention to her due to her redundancy. Also I had more writing to do in this class than my writing course which I was not pleased in. Her grading is not consistent, and on the final exam she did not provide a rubric.",
+        "course": "SLAVIC2230"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Hope Wilson was amazing to have! I took her Vampires, Monstrosities, and Evil class. There were a lot of readings and little assignments but they were so easy to do and she was very lenient with deadlines. It was super easy to get an A in her class! She made class entertaining and I genuinely enjoyed being there. Perfect class for GE.",
+        "course": "SLAVIC2230"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Slavic Languages",
+    "firstName": "Helen",
+    "id": "VGVhY2hlci0yMjczMzY1",
+    "lastName": "Myers",
+    "legacyId": 2273365,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Helen is a native Russian speaker. She has a strong understanding of both Russian and English grammar (I think she studied linguistics?) She's available after class to meet if you need help. She also gives extra credit if you go to Russian table, Slavic movie night, kapustnik, etc. Be ready for vocab quizes at the beginning of each chapter.",
+        "course": "RUSSIAN3102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 4,
+    "department": "Slavic Languages",
+    "firstName": "Izolda",
+    "id": "VGVhY2hlci0xODQwNzg5",
+    "lastName": "Wolski-Moskoff",
+    "legacyId": 1840789,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "She is nice, but she will assign you very long articles to read. Like 20 page articles that are often very boring, but there will also be short stories which are a little less boring, but still a lot. The class was focused on having group discussions, but if you didn't read the assigned text that was not easy.",
+        "course": "SLAVIC2345"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Pani Izolda is a truly sweet and caring teacher. She truly cares about the Polish language and tries her best to make sure everyone understands. Polish is an extremely difficult language, but her lecture videos do a good job of explaining the material and her in class exercises are fun and helpful",
+        "course": "POLISH1101"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Izolda is very nice but I found this course a bit boring. Films are really depressing and difficult to understand. You have to watch them to pass the class, and the few articles that she assigns are way too long (90 pages) But if you watch the films it's an easy A, and it satisfies Visual & Performing arts and upper-division credit requirements.",
+        "course": "SLAVIC3360"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Really sweet and an easy grader.   You can tell she's excited to share her language with you.   Polish is a difficult language but shes always there if you have any questions.  Great teacher!",
+        "course": "POLISH1101"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "She is very sweet and she has an adorable accent. Its very obvious she is knowledgeable on the subject, and very excited about it too. Some of the films we watch are depressing, but they are still very well made. A lot of reading but hardly any writing. Its a very interesting subject, I'd highly recommend it.",
+        "course": "33600010"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Slavic Languages",
+    "firstName": "Epp",
+    "id": "VGVhY2hlci0yMzY3NzQ0",
+    "lastName": "Annus",
+    "legacyId": 2367744,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Yes, you will have to read the material in this class. If you just do the homework and show up/get on the Zoom calls youll pass easily. The homework is easy and the quizzes are not bad. She is very understanding and will help you with grades if you just ask. You do have to write some essays, but she grades pretty fairly.",
+        "course": "COMPSTD2102"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "You are going to have to read the material in this class to do well but other than the reading work, there isn't a lot of assignments. She is a nice and caring teacher that will not be hard on you if you put in effort.",
+        "course": "RUS2250"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.3,
+    "avgRating": 4.8,
+    "department": "Slavic Languages",
+    "firstName": "Cretu",
+    "id": "VGVhY2hlci0xNTUzNTkw",
+    "lastName": "Andrei",
+    "legacyId": 1553590,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Interesting course content, interesting professor. Towards the end of the class you're expected to read and watch some novels or movies about vampires, but it isn't too bad.",
+        "course": "SLAVIC2230"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great professor, very responsive and engaging. Class material is very intriguing and provides modern/relatable information. This was a brand new class, graded by discussion boards (easy), small language quizzes (pretty easy), and a final speaking and final essay (manageable). Take him!",
+        "course": "RUSSIAN2200"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I also had him for 101 and have him for 111. Pretty cool guy and easy classes.",
+        "course": "ROM102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Slavic Languages",
+    "firstName": "Yana",
+    "id": "VGVhY2hlci0yMzU4MTM2",
+    "lastName": "Hashamova",
+    "legacyId": 2358136,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class was great. Not too much work but I feel like I did learn a lot about Russia. Most of the assignments are watching Russian movements/reading short stories or going though presentations and taking quizzes on them.",
+        "course": "RUSSIAN233599"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Directions for quizzes are simple and she keeps things short. The class itself is really interesting. The media (movies) required for the course is entertaining but be ready to read. At first glance the readings seem daunting but the quiz that follows is usually easy.",
+        "course": "RUSSIAN2335"
+      }
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 3.3,
@@ -266,146 +584,96 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 2,
-    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "avgRating": 4.8,
     "department": "Slavic Languages",
-    "firstName": "Viktoria",
-    "id": "VGVhY2hlci0yNTUxOTkx",
-    "lastName": "Kim",
-    "legacyId": 2551991,
-    "numRatings": 1,
+    "firstName": "Lejla",
+    "id": "VGVhY2hlci0xODA5NDU0",
+    "lastName": "Bilal",
+    "legacyId": 1809454,
+    "numRatings": 2,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 2,
-        "comment": "Very kind, entertaining, and well-organized instructor who was excellent at conveying the course content and did so in involved and exciting ways. Though there was homework every night, it was weighed fairly and did cover the course content well. Great experience overall.",
+        "comment": "Loved Lejla! Very passionate about BCS and for her students to learn! Participation is mandatory for learning; very helpful with preparing for tests and there is homework every night!!",
         "course": "1101"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Lejla is very passionate about BCS and wants her students to succeed. She explains things often and urges students to come to office hours. However, her mood shifts a lot; some days she was really good and helpful, and others she seemed very frustrated with the class, and had an attitude. Also, she gives homework almost EVERY night, for points.",
+        "course": "BCS11011103"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 3.3,
-    "avgRating": 3.1,
+    "avgDifficulty": 3,
+    "avgRating": 2,
     "department": "Slavic Languages",
-    "firstName": "Helena",
-    "id": "VGVhY2hlci0xNTcwODY4",
-    "lastName": "Goscilo",
-    "legacyId": 1570868,
-    "numRatings": 16,
+    "firstName": "Katerina",
+    "id": "VGVhY2hlci0yMjM3MDI3",
+    "lastName": "Rouzina",
+    "legacyId": 2237027,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "She never answer my email. I have a trouble of connection when I take the exam, finally I felt it but I ask her if I can redo it. She didnt answer me. She said Retaking an exam that is multiple choice is against university rules, for good reason, I should contact an technical support but she said, she cant do any on it, I just felt it .please dont",
-        "course": "SLAVIC3310"
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Katerina Rouzina, was a consistantly disappointing teacher...  to give you an idea of why I would say that, here's a list. She spent 3 weeks teaching my class Russian cursive (easy), and taught us tough grammatical rules two days before a test. If you have any question you need to ask her after class, she will insist you email her  etc etc",
+        "course": "RUS25589"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.4,
+    "department": "Slavic Languages",
+    "firstName": "Jessie",
+    "id": "VGVhY2hlci0xMjI1NTY4",
+    "lastName": "Labov",
+    "legacyId": 1225568,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Teaches the material well, you can tell that she has been in the field for a while. There is a ton of reading but most of it is pretty interesting. Pretty easy class.",
+        "course": "INTSTDS2251"
       },
       {
         "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "She never answer my email. I have a trouble of connection when I take the exam, finally I felt it but I ask her if I can redo it. She didnt answer me. She said Retaking an exam that is multiple choice is against university rules, for good reason, I should contact an technical support but she said, she cant do any on it, I just felt it .",
-        "course": "SLAVIC3310"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Very helpful and understanding. The class is designed so as to not take up too much of your study time. Be prepared for a lot of reading assignments. No exams, just a midterm and final project. Definitely recommended.",
+        "course": "SLAVIC4520H"
       },
       {
         "index": 3,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "I decided to take her class as a GE to fulfill a visual and performing arts class because I had heard good things about the class, but that was when there was a different professor. Her tests are completely subjective to what her opinions are and if you dont remember tiny details from the readings/movies, youre screwed on a 1/4 of the test.",
-        "course": "SLAV3310"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Interesting class.learned a great deal about polish lit,history & culture. She is extremely knowledgeable  of the subject and fluent in many languages.",
+        "course": "POLIS9226"
       },
       {
         "index": 4,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "She does not provide the discussion participation grades. The exam questions were very subjective and were very misleading. She is probably one of the worst professors I've had at OSU.",
-        "course": "SLAVIC3310"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Relatively easy as long as you show some enthusiasm. Read the books and you'll do great. 3 papers to do in class, 2 are short. She got me somewhat interested in literature.",
+        "course": "SLAV245"
       },
       {
         "index": 5,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "She refused to provide our discussion participation grades, which was 20% of our grade. Students could not know how they were doing in the class. Exam heavy, they were all multiple choice opinions. so you had to pay attention to her opinions and memorize them to get answers right.",
-        "course": "WGSST3310"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Awful experience. Never responded to emails. The class was supposed to be over zoom but she changed it last second. The tests are next to impossible and have multiple choice opinion questions. All of the other questions are worded in gibberish. She makes no sense and shes rude in everything shes said. Dont take.",
-        "course": "WGSST3310"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Helena was absolutely great for Russian Film. I really enjoyed her insights and the films she picked. She is one of my favorite teachers in the Russian department. She genuinely cares about student success.",
-        "course": "RUSSIAN3460"
-      },
-      {
-        "index": 8,
         "rating": 4,
         "difficulty": 2,
-        "comment": "Is a very nice woman and clearly enjoys teaching. The exams and quizzes are relatively easy (as long as you're going to class) but participation is 25% of your grade so you need to make sure you speak and she knows your name. In my experience is bad at responding to emails",
-        "course": "WGSS3310"
-      },
-      {
-        "index": 9,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "She's very entertaining and interesting in lecture. She's also quite witty. She did seem, however, to pick favorites based on participation. If you don't speak up in class, she'll eventually call you out. Her quiz questions were very subjective, in my opinion. I did almost all the readings and still struggled with her little 5 point quizzes.",
-        "course": "RUSSIAN2345"
-      },
-      {
-        "index": 10,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Helena was a great teacher who was always full of energy and enthusiasm during her lectures. While the tests are tough, she's always willing to help the people who participate a lot in her class. She gives \"pop\" quizzes, but always told us the class beforehand if she was going to quiz us over certain material. Good class, but you have to work hard!",
-        "course": "RUSSIAN3460"
-      },
-      {
-        "index": 11,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "A very nice, funny lady. It's one of those classes that you can't really study for. Pay attention to what she says in class and hope you remember everything. The films weren't very good, and she posts long readings to do on carmen (which I didn't do). But she's very animated so the class is kinda fun.",
-        "course": "3460"
-      },
-      {
-        "index": 12,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Class was graded on 3 exams 8 quizzes and particpation. She says she gives pop quizzes, but she will tell you the class before if she is giving one. The quizzes are based on readings and films. You have to write down everything she says to do well on the exams and readings are really long, but the class is not too bad. Also, shes very funny. ",
-        "course": "RUSSIAN3460"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Absolutely loved this class! Such a worthwhile GEC...so glad I took it! Helena is a fantastic woman- she is hilarious, always makes class interesting, is extremely approachable, and encourages class discussion. The movies she chose were really good and relevant and tests were not hard at all. I highly recommend this class to everyone!",
-        "course": "R360"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "She is hilarious and so knowledgeable. Tests were multiple choice and she encouraged a lot of class participation and discussion but also provided an alternative way to earn participation points which was great. I'm glad I chose it as my GEC. She is an awesome professor!",
-        "course": "RUSS360"
-      },
-      {
-        "index": 15,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Prof. Goscilo is full of sarcasm and wit which makes class very enjoyable to go to. The movies she chooses are enjoyable and discussions are generally lively. She truly creates an environment where you can feel comfortable interacting with her and other students. A very worthwhile GEC.",
-        "course": "RUSS360"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Amazing professor. Razor sharp woman with a sense of humor. Would recommend for any class, especially Russian Folklore. Took the time to confront the obnoxious pack of girls chattering at the back of a packed lecture hall, much to mine (and everyone else's) delight. In a GEC class of 70, no easy feat.",
-        "course": "RUS360"
+        "comment": "Very good teacher, very intelligent. Pretty laid back and just looks for people to show some level of interest. 3 response papers that were very flexible and reasonable and 1 10 pg final paper that wasn't horrible considering its length",
+        "course": "SLAV245"
       }
     ],
     "SEI": []

@@ -1,238 +1,41 @@
 [
   {
-    "avgDifficulty": 1.5,
+    "avgDifficulty": 2.8,
     "avgRating": 4.8,
-    "department": "Pharmacology",
-    "firstName": "Kelly",
-    "lastName": "Speirs",
-    "legacyId": 2898374,
-    "numRatings": 15,
-    "Ratings": [
-      {
-        "index": 0,
-        "rating": "5.0",
-        "comment": "Every week there's a discussion board and a quiz. Super easy. Gives extra credit. tip: enter transcript into AI and you'll have an easier time. there's NO reason you should have lower than a B-. Just stay on top of everything. once a week, take about 2 hours of your day to do everything. It's easy for students to fall off, so stay consistent."
-      },
-      {
-        "index": 1,
-        "rating": "5.0",
-        "comment": "I took the course completely asynchronously and still thoroughly enjoyed this class. Dr Speirs really cares about her students and is passionate about what she is teaching. Information is clearly laid out, and the workload is light. Weekly, there are discussion posts and responses and a few short essays throughout the semester. I highly recommend."
-      },
-      {
-        "index": 2,
-        "rating": "5.0",
-        "comment": "GOAT. She genuinely cares about students success which is reflected in her responses, grades, and comments. 10/10 would take every class she offers."
-      },
-      {
-        "index": 3,
-        "rating": "5.0",
-        "comment": "Dr. Speirs is an angel professor. She takes care of every student. The course setting is very reasonable. It could make sure students really learn the knowledge points, but also make sure that students do not work overload. There are lots of chance to get extra credit which makes me get an A!"
-      },
-      {
-        "index": 4,
-        "rating": "5.0",
-        "comment": "Dr. Speirs is an angel professor. She takes care to every students. The amount of work is appropriate, which can make sure that we can really learn the knowledge but not work overload!"
-      },
-      {
-        "index": 5,
-        "rating": "5.0",
-        "comment": "I like Dr. Speirs very well. She is an angel professor. The course setting is very simple, and the woman is very kind. The grading is not very strict, so getting an A is not difficult."
-      },
-      {
-        "index": 6,
-        "rating": "5.0",
-        "comment": "Kelly Speirs is a very amazing woman. Her course is very simple. The amount of task is appropriate, which could make sure we can learn the knowledge but not overload."
-      },
-      {
-        "index": 7,
-        "rating": null,
-        "comment": "The professor was very good, but her homework set was always very complicated, and the TA was very eager to find a place to deduct points every time in my homework, and as a 3 point GE class, he really didn't deserve it"
-      },
-      {
-        "index": 8,
-        "rating": "5.0",
-        "comment": "I learned a lot in this course. I would recommend it to anyone who is trying to fulfil a GE requirement, a major requirement, or is just looking to become more knowledgeable more about drugstore products."
-      },
-      {
-        "index": 9,
-        "rating": "5.0",
-        "comment": "Literally the best professor ever. Lets you submit assignments anytime during the semester, just make sure its before finals week. Super fun, super creative and funny. It was the only class I looked forward to."
-      },
-      {
-        "index": 10,
-        "rating": "5.0",
-        "comment": "A great professor, content is clear and straightforward, lots of extra credit as well"
-      },
-      {
-        "index": 11,
-        "rating": "5.0",
-        "comment": "She is one of the best professors I have ever had! She offers extra credit and is very helpful. If you view each lecture, you'll do great!"
-      },
-      {
-        "index": 12,
-        "rating": "5.0",
-        "comment": "She was very helpful when I needed help. It was for a course I needed to fulfill a GE, and I felt her course dove deep into the course content, a bit more than what I cared for. Not too difficult of a course but just be ready to write a bit. Memes added some character lol"
-      },
-      {
-        "index": 13,
-        "rating": "5.0",
-        "comment": "she was an amazing professor and had great memes"
-      },
-      {
-        "index": 14,
-        "rating": "5.0",
-        "comment": "She's amazing and has good humor.  Communicates material quickly and effectively.  Has good memes."
-      }
-    ]
-  },
-  {
-    "avgDifficulty": 2.7,
-    "avgRating": 5,
     "department": "Pharmacology",
     "firstName": "Terry",
     "id": "VGVhY2hlci0yNTk0NTQ3",
     "lastName": "Elton",
     "legacyId": 2594547,
-    "numRatings": 3,
+    "numRatings": 4,
     "Ratings": [
       {
         "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Very interesting class! You watch two lectures a week, take a quiz, and a discussion post. His lectures can be boring sometimes but the class is very interesting. Make sure you study for the exams, but if you took behavioral neuro the class is similar to that! I would highly recommend this class, its very easy and stimulating to learn about!!!",
+        "course": "PHR2400"
+      },
+      {
+        "index": 2,
         "rating": 5,
         "difficulty": 2,
         "comment": "Easy GE with some work. Lectures recorded and must watch for points. Discussion boards, and some quizzes, 3 exams (no final). Exams are fair but obvi need to watch lecs and take notes to understand material. Kind professor, very accessible through email.",
         "course": "PHR2400"
       },
       {
-        "index": 2,
+        "index": 3,
         "rating": 5,
         "difficulty": 3,
         "comment": "By far one of the nicest professors I have had at OSU. My section was online, but he was very understanding and caring when reaching out to him. His modules are very organized and easy to keep up with, especially since the class was online. ",
         "course": "PHR2400"
       },
       {
-        "index": 3,
+        "index": 4,
         "rating": 5,
         "difficulty": 3,
         "comment": "Great professor, gives quiz answers in class, expects you to know your stuff for exams though. Writing assignments are not terrible. Very fair difficulty for a 2 credit hour class.",
         "course": "PHR2400"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.5,
-    "avgRating": 4.8,
-    "department": "Pharmacology",
-    "firstName": "Kelly",
-    "id": "VGVhY2hlci0yODk4Mzc0",
-    "lastName": "Speirs",
-    "legacyId": 2898374,
-    "numRatings": 15,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Every week there's a discussion board and a quiz. Super easy. Gives extra credit. tip: enter transcript into AI and you'll have an easier time. there's NO reason you should have lower than a B-. Just stay on top of everything. once a week, take about 2 hours of your day to do everything. It's easy for students to fall off, so stay consistent.",
-        "course": "2410"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I took the course completely asynchronously and still thoroughly enjoyed this class. Dr Speirs really cares about her students and is passionate about what she is teaching. Information is clearly laid out, and the workload is light. Weekly, there are discussion posts and responses and a few short essays throughout the semester. I highly recommend.",
-        "course": "PHR2367"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "GOAT. She genuinely cares about students success which is reflected in her responses, grades, and comments. 10/10 would take every class she offers.",
-        "course": "PHR2367"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Speirs is an angel professor. She takes care of every student. The course setting is very reasonable. It could make sure students really learn the knowledge points, but also make sure that students do not work overload. There are lots of chance to get extra credit which makes me get an A!",
-        "course": "PHR2367"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Speirs is an angel professor. She takes care to every students. The amount of work is appropriate, which can make sure that we can really learn the knowledge but not work overload!",
-        "course": "PHR2367"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I like Dr. Speirs very well. She is an angel professor. The course setting is very simple, and the woman is very kind. The grading is not very strict, so getting an A is not difficult.",
-        "course": "PHR2367"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Kelly Speirs is a very amazing woman. Her course is very simple. The amount of task is appropriate, which could make sure we can learn the knowledge but not overload.",
-        "course": "PHR2367"
-      },
-      {
-        "index": 8,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "The professor was very good, but her homework set was always very complicated, and the TA was very eager to find a place to deduct points every time in my homework, and as a 3 point GE class, he really didn't deserve it",
-        "course": "PHR2367"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I learned a lot in this course. I would recommend it to anyone who is trying to fulfil a GE requirement, a major requirement, or is just looking to become more knowledgeable more about drugstore products. ",
-        "course": "2410"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Literally the best professor ever. Lets you submit assignments anytime during the semester, just make sure its before finals week. Super fun, super creative and funny. It was the only class I looked forward to.",
-        "course": "2410"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "A great professor, content is clear and straightforward, lots of extra credit as well",
-        "course": "2410"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She is one of the best professors I have ever had! She offers extra credit and is very helpful. If you view each lecture, you'll do great! ",
-        "course": "2410"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She was very helpful when I needed help. It was for a course I needed to fulfill a GE, and I felt her course dove deep into the course content, a bit more than what I cared for. Not too difficult of a course but just be ready to write a bit. Memes added some character lol",
-        "course": "2410"
-      },
-      {
-        "index": 14,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "she was an amazing professor and had great memes ",
-        "course": "37393"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "She's amazing and has good humor.  Communicates material quickly and effectively.  Has good memes.  ",
-        "course": "37393"
       }
     ],
     "SEI": []
@@ -365,6 +168,124 @@
         "difficulty": 4,
         "comment": "Molly is a great professor and is always willing to email back and forth to help. There are A LOT of assignments but they are not hard; lots of busy work. Mainly discussion posts. She gives great instructions and tells you exactly what to do to receive a good grade.",
         "course": "PHR2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4.8,
+    "department": "Pharmacology",
+    "firstName": "Kelly",
+    "id": "VGVhY2hlci0yODk4Mzc0",
+    "lastName": "Speirs",
+    "legacyId": 2898374,
+    "numRatings": 15,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Every week there's a discussion board and a quiz. Super easy. Gives extra credit. tip: enter transcript into AI and you'll have an easier time. there's NO reason you should have lower than a B-. Just stay on top of everything. once a week, take about 2 hours of your day to do everything. It's easy for students to fall off, so stay consistent.",
+        "course": "2410"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I took the course completely asynchronously and still thoroughly enjoyed this class. Dr Speirs really cares about her students and is passionate about what she is teaching. Information is clearly laid out, and the workload is light. Weekly, there are discussion posts and responses and a few short essays throughout the semester. I highly recommend.",
+        "course": "PHR2367"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "GOAT. She genuinely cares about students success which is reflected in her responses, grades, and comments. 10/10 would take every class she offers.",
+        "course": "PHR2367"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Speirs is an angel professor. She takes care of every student. The course setting is very reasonable. It could make sure students really learn the knowledge points, but also make sure that students do not work overload. There are lots of chance to get extra credit which makes me get an A!",
+        "course": "PHR2367"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Speirs is an angel professor. She takes care to every students. The amount of work is appropriate, which can make sure that we can really learn the knowledge but not work overload!",
+        "course": "PHR2367"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I like Dr. Speirs very well. She is an angel professor. The course setting is very simple, and the woman is very kind. The grading is not very strict, so getting an A is not difficult.",
+        "course": "PHR2367"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Kelly Speirs is a very amazing woman. Her course is very simple. The amount of task is appropriate, which could make sure we can learn the knowledge but not overload.",
+        "course": "PHR2367"
+      },
+      {
+        "index": 8,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "The professor was very good, but her homework set was always very complicated, and the TA was very eager to find a place to deduct points every time in my homework, and as a 3 point GE class, he really didn't deserve it",
+        "course": "PHR2367"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I learned a lot in this course. I would recommend it to anyone who is trying to fulfil a GE requirement, a major requirement, or is just looking to become more knowledgeable more about drugstore products. ",
+        "course": "2410"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Literally the best professor ever. Lets you submit assignments anytime during the semester, just make sure its before finals week. Super fun, super creative and funny. It was the only class I looked forward to.",
+        "course": "2410"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "A great professor, content is clear and straightforward, lots of extra credit as well",
+        "course": "2410"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is one of the best professors I have ever had! She offers extra credit and is very helpful. If you view each lecture, you'll do great! ",
+        "course": "2410"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She was very helpful when I needed help. It was for a course I needed to fulfill a GE, and I felt her course dove deep into the course content, a bit more than what I cared for. Not too difficult of a course but just be ready to write a bit. Memes added some character lol",
+        "course": "2410"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "she was an amazing professor and had great memes ",
+        "course": "37393"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She's amazing and has good humor.  Communicates material quickly and effectively.  Has good memes.  ",
+        "course": "37393"
       }
     ],
     "SEI": []
