@@ -53,9 +53,11 @@ def calculate_remaining_courses(transcript: dict, course: str) -> list[list[str]
     }
     res = es.search(index = "osu_courses", body = query)
     docs = res["hits"]["hits"]
+    if not docs: # Nothing found in elasticsearch
+        return []
     source = docs[0]['_source']
     course_reqs = source["prereqs"]
-    print(source["description"])
+    # print(source["description"])
     # course_reqs = next((item["prereqs"] for item in prereq_info if item["course"] == course), None)
     if not course_reqs:
         return []  # no prerequisites, course can be taken

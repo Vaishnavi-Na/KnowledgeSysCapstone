@@ -172,6 +172,7 @@ export default function SearchPage() {
                       <span className="text-xs text-gray-500 mb-1">AND Group {colIndex + 1}</span>
                       {orGroup.map(course => (
                         <button
+                          key={course}
                           onClick={() => handleSecondaryCourseClick(course)}
                           className="bg-red-100 text-red-800 px-2 py-1 rounded mb-1 text-xs text-center"
                         >
