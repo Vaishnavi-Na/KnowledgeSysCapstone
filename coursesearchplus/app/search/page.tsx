@@ -10,10 +10,15 @@ export default function SearchPage() {
   const [remainingGroups, setRemainingGroups] = useState<string[][]>([]);
   const [selectedCourse, setSelectedCourse] = useState<string | null>(null); // Main selected course
   const [prereqStructure, setPrereqStructure] = useState<string[][]>([]); // Main prereq struc
-  const [page, setPage] = useState(0);
-  const groupsPerPage = 6;
   const [secondaryCourse, setSecondaryCourse] = useState<string | null>(null); // Secondary selected course
   const [secondaryPrereqStructure, setSecondaryPrereqStructure] = useState<string[][]>([]); // Secondary prereq struc
+  const [page, setPage] = useState(0);
+  const groupsPerPage = 6;
+  const maxPage = Math.ceil(remainingGroups.length / groupsPerPage);
+  const pagedGroups = remainingGroups.slice(
+    page * groupsPerPage,
+    (page + 1) * groupsPerPage
+  );
 
   useEffect(() => {
     const transcript = localStorage.getItem('transcript');
@@ -67,13 +72,6 @@ export default function SearchPage() {
         setSecondaryPrereqStructure(data);
       });
   };
-
-  const maxPage = Math.ceil(remainingGroups.length / groupsPerPage);
-
-  const pagedGroups = remainingGroups.slice(
-    page * groupsPerPage,
-    (page + 1) * groupsPerPage
-  );
   
   return (
     <>
@@ -122,6 +120,9 @@ export default function SearchPage() {
                 >
                   ◀ Prev
                 </button>
+                <span className="text-gray-700">
+                  Page {page + 1} / {maxPage}
+                </span>
                 <button
                   className="px-3 py-1 bg-gray-200 rounded disabled:opacity-50"
                   disabled={page >= maxPage - 1}
