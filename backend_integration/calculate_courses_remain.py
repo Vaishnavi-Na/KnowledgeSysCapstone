@@ -24,7 +24,7 @@ def get_remaining_groups(transcript: dict) -> list[list[str]]:
     specialization: str = transcript.get('special', '')
 
     # Combine general and specialization-specific courses
-    curriculum: list[list[str]] = major_curriculum["general"]
+    curriculum: list[list[str]] = major_curriculum["MajorCore"]
     curriculum.extend(major_curriculum.get(specialization, [[]]))
 
     remaining_groups: list[list[str]] = []
