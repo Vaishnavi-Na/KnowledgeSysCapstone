@@ -4,7 +4,7 @@ from fastapi.responses import JSONResponse
 from calculate_courses_remain import calculate_remaining_courses, get_remaining_groups
 from scraper_json import scrap_from_adv_rep
 from search_in_RMP import demo_search_lte_rating, demo_search_desc_department
-from query import demo_search_course
+# from query import demo_search_course
 
 app = FastAPI()
 

@@ -155,7 +155,7 @@ export default function UploadPage() {
     // Split into department code and course number
     const parts = trimmedCourse.split(/\s+/);
     
-    // Validate format: [UPPERCASE LETTERS] [4-DIGIT NUMBER]
+    // Validate format: [LETTERS] [4-DIGIT NUMBER]
     if (parts.length !== 2) {
       setCourseError('Course code must be in the format "DEPT 1234"');
       return;
@@ -165,8 +165,8 @@ export default function UploadPage() {
     const courseNumber = parts[1];
     
     // Check if department code is all uppercase letters
-    if (!/^[A-Z]+$/.test(deptCode)) {
-      setCourseError('Department code must be all uppercase letters (e.g., CSE)');
+    if (!/^[a-zA-Z]+$/.test(deptCode)) {
+      setCourseError('Department code must be all letters (e.g., CSE)');
       return;
     }
     
@@ -577,7 +577,7 @@ export default function UploadPage() {
                   </div>
                 </div>
                 <p className="text-sm text-gray-500 mt-2 text-left">
-                  Note: Enter the complete course code as it appears on your transcript (e.g., CSE 3901, MATH 1151)
+                  Note: Enter the complete course code as it appears on your transcript (e.g., CSE 3901, Math 1151)
                 </p>
               </div>
             )}
