@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from calculate_courses_remain import calculate_remaining_courses, get_remaining_groups
 from scraper_json import scrap_from_adv_rep
+from get_course_professors import search_course
 from search_in_RMP import demo_search_lte_rating, demo_search_desc_department
 # from query import demo_search_course
 
@@ -74,3 +75,10 @@ async def calc_remain(transcript: dict, course: str):
     unmet_groups = calculate_remaining_courses(transcript, course)
 
     return unmet_groups
+
+@app.post("/courses/get_course_professors")
+async def search_course(subject: str, courseNum: str):
+
+    professors = search_course(subject, courseNum)
+
+    return professors
