@@ -62,7 +62,7 @@ export default function SearchPage() {
         <div className="max-w-5xl w-full text-center mt-12 font-mono text-sm">
           <h1 className="text-4xl font-bold mb-6">Course Search</h1>
 
-          {/* Search Section */}
+          {/* --- Search Section --- */}
           <section className="bg-gray-100 p-6 rounded-lg shadow-md text-left">
             <h2 className="text-2xl font-semibold mb-4">Search for Courses</h2>
             <p className="text-lg leading-relaxed mb-6">
@@ -84,82 +84,87 @@ export default function SearchPage() {
             </div>
           </section>
 
-          {/* --- Requirement Group Panel --- */}
-          <section className="flex w-full gap-6 mt-8">
-            {/* Left: Requirement Groups */}
-            <div className="w-3/5">
-              <div className="flex justify-between items-center mb-4">
-                <h2 className="text-2xl font-semibold">Courses You Can Take</h2>
-                <div className="space-x-2">
-                  <button
-                    className="px-3 py-1 bg-gray-200 rounded disabled:opacity-50"
-                    disabled={page === 0}
-                    onClick={() => setPage(p => Math.max(p - 1, 0))}
-                  >
-                    ◀ Prev
-                  </button>
-                  <button
-                    className="px-3 py-1 bg-gray-200 rounded disabled:opacity-50"
-                    disabled={page >= maxPage - 1}
-                    onClick={() => setPage(p => Math.min(p + 1, maxPage - 1))}
-                  >
-                    Next ▶
-                  </button>
-                </div>
-              </div>
+          {/* Removed Back to Home Link */}
+        </div>
 
-              <div className="grid grid-cols-1 gap-4">
-                {pagedGroups.map((group, idx) => (
-                  <div key={idx} className="border rounded-lg p-4 shadow bg-white">
-                    <h3 className="font-bold mb-2">
-                      Requirement Group {page * groupsPerPage + idx + 1}
-                    </h3>
-                    <div className="flex gap-3 flex-wrap">
-                      {group.map(course => (
-                        <button
-                          key={course}
-                          onClick={() => handleCourseClick(course)}
-                          className="bg-blue-100 hover:bg-blue-200 px-3 py-1 rounded text-blue-800 text-sm"
-                        >
-                          {course}
-                        </button>
-                      ))}
-                    </div>
-                  </div>
-                ))}
+        {/* --- Requirement Group Panel --- */}
+        <section className="flex w-full max-w-screen-xl mx-auto gap-6 mt-8 px-8">
+          {/* Left: Requirement Groups */}
+          <div className="w-3/5">
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-2xl font-semibold">Courses You Can Take</h2>
+              <div className="space-x-2">
+                <button
+                  className="px-3 py-1 bg-gray-200 rounded disabled:opacity-50"
+                  disabled={page === 0}
+                  onClick={() => setPage(p => Math.max(p - 1, 0))}
+                >
+                  ◀ Prev
+                </button>
+                <button
+                  className="px-3 py-1 bg-gray-200 rounded disabled:opacity-50"
+                  disabled={page >= maxPage - 1}
+                  onClick={() => setPage(p => Math.min(p + 1, maxPage - 1))}
+                >
+                  Next ▶
+                </button>
               </div>
             </div>
 
-            {/* Right: Prerequisites */}
-            <div className="w-2/5 bg-yellow-50 rounded-lg p-4 shadow-inner h-full">
-              <h2 className="text-xl font-semibold mb-3">Course Prerequisites</h2>
-              {selectedCourse ? (
-                <>
-                  <h3 className="text-lg font-bold mb-2">{selectedCourse}</h3>
-                  <div className="flex gap-4 overflow-x-auto">
-                    {prereqStructure.map((orGroup, colIndex) => (
-                      <div key={colIndex} className="flex flex-col items-center bg-white p-2 rounded shadow min-w-[120px]">
-                        <span className="text-xs text-gray-500 mb-1">AND Group {colIndex + 1}</span>
-                        {orGroup.map(course => (
-                          <span
-                            key={course}
-                            className="bg-red-100 text-red-800 px-2 py-1 rounded mb-1 text-xs text-center"
-                          >
-                            {course}
-                          </span>
-                        ))}
-                      </div>
+            <div className="grid grid-cols-1 gap-4">
+              {pagedGroups.map((group, idx) => (
+                <div key={idx} className="border rounded-lg p-4 shadow bg-white">
+                  <h3 className="font-bold mb-2">
+                    Requirement Group {page * groupsPerPage + idx + 1}
+                  </h3>
+                  <div className="flex gap-3 flex-wrap">
+                    {group.map(course => (
+                      <button
+                        key={course}
+                        onClick={() => handleCourseClick(course)}
+                        className="bg-blue-100 hover:bg-blue-200 px-3 py-1 rounded text-blue-800 text-sm"
+                      >
+                        {course}
+                      </button>
                     ))}
                   </div>
-                </>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* Right: Prerequisites */}
+          <div className="w-2/5 bg-yellow-50 rounded-lg p-4 shadow-inner h-full">
+            <div className="mb-3">
+              <h2 className="text-xl font-semibold">Course Prerequisites</h2>
+              {selectedCourse && (
+                <h3 className="text-lg font-bold mt-1">{selectedCourse}</h3>
+              )}
+            </div>
+
+            <div className="overflow-x-auto mt-2">
+              {selectedCourse ? (
+                <div className="flex gap-4">
+                  {prereqStructure.map((orGroup, colIndex) => (
+                    <div key={colIndex} className="flex flex-col items-center bg-white p-2 rounded shadow min-w-[120px]">
+                      <span className="text-xs text-gray-500 mb-1">AND Group {colIndex + 1}</span>
+                      {orGroup.map(course => (
+                        <span
+                          key={course}
+                          className="bg-red-100 text-red-800 px-2 py-1 rounded mb-1 text-xs text-center"
+                        >
+                          {course}
+                        </span>
+                      ))}
+                    </div>
+                  ))}
+                </div>
               ) : (
                 <p className="text-gray-500 italic">Click a course to view prerequisites.</p>
               )}
             </div>
-          </section>
-
-          {/* Removed Back to Home Link */}
-        </div>
+          </div>
+        </section>
       </main>
     </>
   );
