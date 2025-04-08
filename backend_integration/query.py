@@ -14,6 +14,7 @@ def demo_search_course(subject: str, courseNum: str):
         "count": 0,
         "matched_professors": {}
     }
+    result = {}
     query = {
         "query": {
             "bool": {
@@ -36,12 +37,19 @@ def demo_search_course(subject: str, courseNum: str):
 
     # A simple demonstration
     res = es.search(index = "professors", body=query)
-    for doc in res["hits"]["hits"]:
-        source = doc['_source']
-        demo_result["count"] = demo_result["count"] + 1
-        demo_result["matched_professors"][source['legacyId']] = {"name": f"{source['firstName']} {source['lastName']}", "avg_rating": source['avgRating']}
+    for result in res["hits"]["hits"]:
+        source = result['_source']
+
+        demo_result["matched_professors"][result['_id']] = {"name": f"{source['firstName']} {source['lastName']}", "avg_rating": source['avgRating'], "difficulty": source['avgDifficulty'], "SEI": source['SEI']}
 
     # print(demo_result)
     return demo_result
 
-print(demo_search_course("math", "1148"))
+results = demo_search_course("math", "1148")
+for result in results["matched_professors"]:
+    print(results["matched_professors"][result])
+    print("Name:", results["matched_professors"][result]['name'])
+    print("Average Rating:", results["matched_professors"][result]['avg_rating'])
+    print("Average Difficulty:", results["matched_professors"][result]['difficulty'])
+    print("SEI:", results["matched_professors"][result]['SEI'])
+    print()
