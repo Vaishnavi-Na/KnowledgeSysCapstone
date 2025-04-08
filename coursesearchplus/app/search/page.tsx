@@ -6,11 +6,34 @@ import { useEffect, useState } from 'react';
 
 const server_endpoint = 'http://localhost:8000'
 
+function SendToSearchButton({
+  buttonText, 
+  onCourseClick, 
+  variant = "green", 
+}: { 
+  buttonText: string; 
+  onCourseClick: () => void;
+  variant?: "green" | "blue";
+}) {
+  const baseClasses = "px-4 py-2 rounded-lg transition-colors text-white";
+  const colorClasses =
+    variant === "green"
+      ? "bg-green-500 hover:bg-green-600"
+      : "bg-blue-500 hover:bg-blue-600";
+
+  return (
+    <button className={`${baseClasses} ${colorClasses}`} onClick={onCourseClick}>
+      {buttonText}
+    </button>
+  );
+
+}
+
 export default function SearchPage() {
   const [remainingGroups, setRemainingGroups] = useState<string[][]>([]);
-  const [selectedCourse, setSelectedCourse] = useState<string | null>(null); // Main selected course
-  const [prereqStructure, setPrereqStructure] = useState<string[][]>([]); // Main prereq struc
-  const [secondaryCourse, setSecondaryCourse] = useState<string | null>(null); // Secondary selected course
+  const [mainSelectedCourse, setMainSelectedCourse] = useState<string | null>(null); // Main selected course
+  const [mainPrereqStructure, setMainPrereqStructure] = useState<string[][]>([]); // Main prereq struc
+  const [secondarySelectedCourse, setSecondarySelectedCourse] = useState<string | null>(null); // Secondary selected course
   const [secondaryPrereqStructure, setSecondaryPrereqStructure] = useState<string[][]>([]); // Secondary prereq struc
   const [page, setPage] = useState(0);
   const groupsPerPage = 6;
@@ -19,6 +42,7 @@ export default function SearchPage() {
     page * groupsPerPage,
     (page + 1) * groupsPerPage
   );
+  const [searchInput, setSearchInput] = useState('');
 
   useEffect(() => {
     const transcript = localStorage.getItem('transcript');
@@ -48,11 +72,11 @@ export default function SearchPage() {
     })
       .then(res => res.json())
       .then(data => {
-        setSelectedCourse(course);
+        setMainSelectedCourse(course);
         // console.log('Received from calc_remain API:', data);
-        setPrereqStructure(data);
+        setMainPrereqStructure(data);
         // Reset secondary course selected
-        setSecondaryCourse(null);
+        setSecondarySelectedCourse(null);
         setSecondaryPrereqStructure([])
       });
   };
@@ -68,7 +92,7 @@ export default function SearchPage() {
     })
       .then(res => res.json())
       .then(data => {
-        setSecondaryCourse(course);
+        setSecondarySelectedCourse(course);
         setSecondaryPrereqStructure(data);
       });
   };
@@ -77,11 +101,11 @@ export default function SearchPage() {
     <>
       <NavbarElse />
       <main className="flex min-h-screen flex-col items-center p-10">
-        {/* Main Content */}
+        {/* --- Main Content --- */}
         <div className="max-w-5xl w-full text-center mt-12 font-mono text-sm">
           <h1 className="text-4xl font-bold mb-6">Course Search</h1>
 
-          {/* --- Search Section --- */}
+          {/* Search Section */}
           <section className="bg-gray-100 p-6 rounded-lg shadow-md text-left">
             <h2 className="text-2xl font-semibold mb-4">Search for Courses</h2>
             <p className="text-lg leading-relaxed mb-6">
@@ -94,6 +118,8 @@ export default function SearchPage() {
             <div className="flex gap-4">
               <input 
                 type="text"
+                value={searchInput}
+                onChange={e => setSearchInput(e.target.value)}
                 placeholder="Search courses..."
                 className="flex-1 p-2 border border-gray-300 rounded-lg focus:outline-none focus:border-red-500"
               />
@@ -102,8 +128,6 @@ export default function SearchPage() {
               </button>
             </div>
           </section>
-
-          {/* Removed Back to Home Link */}
         </div>
 
         {/* --- Requirement Group Panel --- */}
@@ -159,16 +183,25 @@ export default function SearchPage() {
           <div className="w-2/5 bg-yellow-50 rounded-lg p-4 shadow-inner h-full">
             <div className="mb-3">
               <h2 className="text-xl font-semibold">Course Prerequisites</h2>
-              {selectedCourse && (
-                <h3 className="text-lg font-bold mt-1">{selectedCourse}</h3>
+              {mainSelectedCourse && (
+                <div className="flex items-center justify-between">
+                  <h3 className="text-lg font-bold">{mainSelectedCourse}</h3>
+                  {mainPrereqStructure.length !== 0 && (
+                    <SendToSearchButton 
+                      buttonText="Send to Search"
+                      onCourseClick={() => setSearchInput(mainSelectedCourse)}
+                      variant="blue"
+                    />
+                  )}
+              </div>
               )}
             </div>
 
             <div className="overflow-x-auto mt-2">
               {/* Main selected course panel */}
-              {selectedCourse ? (
+              {mainSelectedCourse ? (
                 <div className="flex gap-4">
-                  {prereqStructure.map((orGroup, colIndex) => (
+                  {mainPrereqStructure.map((orGroup, colIndex) => (
                     <div key={colIndex} className="flex flex-col items-center bg-white p-2 rounded shadow min-w-[120px]">
                       <span className="text-xs text-gray-500 mb-1">AND Group {colIndex + 1}</span>
                       {orGroup.map(course => (
@@ -188,9 +221,18 @@ export default function SearchPage() {
               )}
 
               {/* Secondary selected course panel */}
-              {secondaryCourse && (
+              {secondarySelectedCourse && (
                 <div className="mt-8">
-                  <h3 className="text-lg font-bold mb-2">Prerequisites for {secondaryCourse}</h3>
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-bold mb-2">Prerequisites for {secondarySelectedCourse}</h3>
+                    {secondaryPrereqStructure.length !== 0 && (
+                      <SendToSearchButton 
+                        buttonText="Send to Search"
+                        onCourseClick={() => setSearchInput(secondarySelectedCourse)}
+                        variant="blue"
+                      />
+                    )}
+                  </div>
                   <div className="overflow-x-auto">
                     <div className="flex gap-4">
                       {secondaryPrereqStructure.map((orGroup, colIndex) => (
@@ -211,6 +253,24 @@ export default function SearchPage() {
                   </div>
                 </div>
               )}
+
+              {mainSelectedCourse && mainPrereqStructure.length === 0 && (
+                <div className="mt-4">
+                  <SendToSearchButton 
+                    buttonText={"Ready to Take: "+mainSelectedCourse} 
+                    onCourseClick={() => setSearchInput(mainSelectedCourse)}
+                  />
+                </div>
+              )}
+              {secondarySelectedCourse && secondaryPrereqStructure.length === 0 && (
+                <div className="mt-4">
+                  <SendToSearchButton 
+                    buttonText={"Ready to Take: "+secondarySelectedCourse} 
+                    onCourseClick={() => setSearchInput(secondarySelectedCourse)}
+                  />
+                </div>
+              )}
+
             </div>
           </div>
         </section>
