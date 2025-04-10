@@ -1,5 +1,122 @@
 [
   {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Managerial Science",
+    "firstName": "Alec",
+    "id": "VGVhY2hlci0yNTc0NDE5",
+    "lastName": "Talanca",
+    "legacyId": 2574419,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Alec is a great TA for 3230, he knows a lot about the subject and will answer any questions in class. Not very accessible outside of class though",
+        "course": "BUSMGT3230"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.1,
+    "avgRating": 3.4,
+    "department": "Managerial Science",
+    "firstName": "David",
+    "id": "VGVhY2hlci0xODk1MDA5",
+    "lastName": "Veech",
+    "legacyId": 1895009,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I took the online version of this course. I would recommend doing the same if you are able. The Carmen page is well organized and the content is easy to comprehend if you attend the recitation on Zoom. Professor Veech was very kind and quick in his responses to my emails.",
+        "course": "BUSMGT3230"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Veech seemed like a nice guy but his tests are structured horribly. There is barely any time and it is heavy on math. And it sucks taking a math test online! Half the time I would have to draw out the chart on my screen which was a waste of time.  Take another professor for now, or wait until you hear the online version has gotten more organized. ",
+        "course": "BUSMGT3230"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Final grade is too heavily weighted on exams. Content was pretty dry and I didn't feel there was much effort to engage students. Too much emphasis on qualitative problems instead of the conceptual topics that were tested more frequently. Discussion board questions weren't always answered in a timely manner - not great for a 100% online class.",
+        "course": "BUSMGT3230"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. Veech truly cares about his students and wants them to succeed. He is very flexible when it comes to deadlines but will be tough enough to ensure you actually try. He responds to emails and carmen messages and is always willing to meet outside of class. Groups are selected randomly, and you work with them throughout the whole semester. ",
+        "course": "BUSMGT4239"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Veech is very passionate for teaching. I was fortunate to have him for 4239. No exams. Group projects and workload is very manageable. ",
+        "course": "BUSMGT4239"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Good teacher. Great real-life experience.",
+        "course": "3230"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Take it He class is easy",
+        "course": "BUSMGT4239"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This course has been very boring and ineffective. He tells jokes but not fun. He cannot give you anything related to the course content. I don't know what I have learnt so far. Be careful and ready to study by yourself!",
+        "course": "3230"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Attendance is not required but his class is relaxing and interesting. A very nice professor and does enjoy his job in teaching. ",
+        "course": "3230"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "He is a humorous person who loves to make jokes. He really likes this job of being a professor and has passion to teach. He is not so helpful on the cases, though, because he will only give you vague answers.",
+        "course": "BUSMGT3230"
+      },
+      {
+        "index": 11,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Professor Veech is the absolute man.. He is so understanding if you have a problem and helps you. He hates seeing people fail so he gives strong curves. He is really good at lecturing! Definitely cares about the class. Ya the work isn't the easiest, a lot of reading but overall I liked him a lot!",
+        "course": "BUSMGT3230"
+      },
+      {
+        "index": 12,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Going to the class and learn nothing but something unrelated. I would not come to the class but study alone at home if not for the 5% attendance point. Assigned lots of reading but not telling you what is important and aimed at - wasting all your time. Picky on the case grading. DO NOT EVEN KNOW WHAT HAVE LEARNED IN THE END OF THE SEMESTER!!!!!!",
+        "course": "BUSMGT3230"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 3.9,
     "avgRating": 4.1,
     "department": "Managerial Science",
@@ -225,103 +342,6 @@
         "difficulty": 4,
         "comment": "Read Learning to See, go to class. All sections of 630 have the same exams, so choose your professor wisely.",
         "course": "MGT630"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.1,
-    "avgRating": 3.4,
-    "department": "Managerial Science",
-    "firstName": "David",
-    "id": "VGVhY2hlci0xODk1MDA5",
-    "lastName": "Veech",
-    "legacyId": 1895009,
-    "numRatings": 12,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I took the online version of this course. I would recommend doing the same if you are able. The Carmen page is well organized and the content is easy to comprehend if you attend the recitation on Zoom. Professor Veech was very kind and quick in his responses to my emails.",
-        "course": "BUSMGT3230"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "Veech seemed like a nice guy but his tests are structured horribly. There is barely any time and it is heavy on math. And it sucks taking a math test online! Half the time I would have to draw out the chart on my screen which was a waste of time.  Take another professor for now, or wait until you hear the online version has gotten more organized. ",
-        "course": "BUSMGT3230"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Final grade is too heavily weighted on exams. Content was pretty dry and I didn't feel there was much effort to engage students. Too much emphasis on qualitative problems instead of the conceptual topics that were tested more frequently. Discussion board questions weren't always answered in a timely manner - not great for a 100% online class.",
-        "course": "BUSMGT3230"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Dr. Veech truly cares about his students and wants them to succeed. He is very flexible when it comes to deadlines but will be tough enough to ensure you actually try. He responds to emails and carmen messages and is always willing to meet outside of class. Groups are selected randomly, and you work with them throughout the whole semester. ",
-        "course": "BUSMGT4239"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Professor Veech is very passionate for teaching. I was fortunate to have him for 4239. No exams. Group projects and workload is very manageable. ",
-        "course": "BUSMGT4239"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Good teacher. Great real-life experience.",
-        "course": "3230"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Take it He class is easy",
-        "course": "BUSMGT4239"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "This course has been very boring and ineffective. He tells jokes but not fun. He cannot give you anything related to the course content. I don't know what I have learnt so far. Be careful and ready to study by yourself!",
-        "course": "3230"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Attendance is not required but his class is relaxing and interesting. A very nice professor and does enjoy his job in teaching. ",
-        "course": "3230"
-      },
-      {
-        "index": 10,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "He is a humorous person who loves to make jokes. He really likes this job of being a professor and has passion to teach. He is not so helpful on the cases, though, because he will only give you vague answers.",
-        "course": "BUSMGT3230"
-      },
-      {
-        "index": 11,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Professor Veech is the absolute man.. He is so understanding if you have a problem and helps you. He hates seeing people fail so he gives strong curves. He is really good at lecturing! Definitely cares about the class. Ya the work isn't the easiest, a lot of reading but overall I liked him a lot!",
-        "course": "BUSMGT3230"
-      },
-      {
-        "index": 12,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Going to the class and learn nothing but something unrelated. I would not come to the class but study alone at home if not for the 5% attendance point. Assigned lots of reading but not telling you what is important and aimed at - wasting all your time. Picky on the case grading. DO NOT EVEN KNOW WHAT HAVE LEARNED IN THE END OF THE SEMESTER!!!!!!",
-        "course": "BUSMGT3230"
       }
     ],
     "SEI": []

@@ -1,0 +1,43 @@
+[
+  {
+    "avgDifficulty": 4,
+    "avgRating": 5,
+    "department": "Respiratory Therapy",
+    "firstName": "Herb",
+    "id": "VGVhY2hlci0xMjQ5MzY5",
+    "lastName": "Douce",
+    "legacyId": 1249369,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "An excellent teacher, great at what he does, always willing to help and a pleasure to be around",
+        "course": "RESPTHER"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Herb is a great teacher and has passion for what he does.",
+        "course": "RESPIA"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Great professor, best source of info",
+        "course": "RT420"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Awesome teacher",
+        "course": "RESP430"
+      }
+    ],
+    "SEI": []
+  }
+]

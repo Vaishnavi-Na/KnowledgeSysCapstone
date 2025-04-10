@@ -60,5 +60,53 @@
       }
     ],
     "SEI": []
+  },
+  {
+    "avgDifficulty": 3.2,
+    "avgRating": 3.6,
+    "department": "Hebrew",
+    "firstName": "Tyler",
+    "id": "VGVhY2hlci0xNzc2NzY3",
+    "lastName": "Yoder",
+    "legacyId": 1776767,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "If you want an easy class this is not for you. He expects a lot from his students so expect to work nonstop on his class. His exams are all fill in the blank and his review sheets are way to long to actually help you. He's a nice guy and means well but honestly his class is the worst.",
+        "course": "HEBREW2703"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Don't take his class if you just want an easy ge course. He grades papers/exams strictly and requires footnote format. There are multiple texts/books to read and the lectures are boring and unnecessarily complicated. The exam has many questions don't list the story making it difficult since you read around 4-8 stories a week.",
+        "course": "NELC3700"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Tyler is a nice guy and cares about what he teaches. However, his lectures a very boring and the work he gives is often just busy work. He makes the class much harder than it needs to be. The class is a lot of work, don't take it if you're looking for an easy class to fulfill a requirement",
+        "course": "HEB2700"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Tyler is the nicest guy ever. He is a fantastic teacher! The class is a ton of work but it's really rewarding. If you put in the time and effort to do the reading assignments the class is an easy A. He curves the midterm and final a lot. The daily quizzes help bring up your grade. I would definitely recommend Tyler as a teacher!",
+        "course": "HEB2700"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Tyler is great teacher! He presents the material extremely well and is so helpful! The class is a lot of work but so worth it. It is also very possible to get an A if you just complete the homeworks and study for the midterm and final. I would definitely recommend this class and Tyler to anyone!",
+        "course": "HEB2700"
+      }
+    ],
+    "SEI": []
   }
 ]

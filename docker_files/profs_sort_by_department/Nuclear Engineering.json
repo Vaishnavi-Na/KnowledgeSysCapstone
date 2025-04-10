@@ -1,5 +1,67 @@
 [
   {
+    "avgDifficulty": 4.8,
+    "avgRating": 1.4,
+    "department": "Nuclear Engineering",
+    "firstName": "Carol",
+    "id": "VGVhY2hlci0xNTUxNDMx",
+    "lastName": "Smidts",
+    "legacyId": 1551431,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I did my graduate degree (master's) under this professor and would not recommend anyone to do the same. She has no idea about the direction of research and changes research projects based on wherever she can find her funding from which simply proves she is not passionate about what she is doing.",
+        "course": "ME776"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I'm giving this professor a bad rating, and not because she gave me a B while I had straight As in every other single class during my Masters program, but due to the fact that she was really a bad lecturer who gave an impossible final with few questions that nobody in the class could solve. Avoid at all cost.",
+        "course": "ME6665"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Pathetic! I am going to drop the class",
+        "course": "ME776"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Though she has no interest in taking class and teaching, I got a good recommendation. Breeze!",
+        "course": "NE716"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Totally waste of time!",
+        "course": "ME776"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "She is incomprehensible and isn't able to solve her own assignment questions if you catch her off guard. She doesn't even seem to care less for teaching. You will be asked to make presentations in the class which I guess saves her from teaching.",
+        "course": "NE716"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "This prof is least interested in teaching but when it comes to setting exam paper she want to show that she is more smarter than others. Homeworks are tough and she'll ask her grad students to help you rather than doing herself. I don't think she cares about this class as she is full professor. Even though I got an A-, I wouldn't recommend anyone.",
+        "course": "ME776"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 3,
     "avgRating": 5,
     "department": "Nuclear Engineering",

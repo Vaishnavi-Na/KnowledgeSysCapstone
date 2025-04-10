@@ -1,114 +1,1002 @@
 [
   {
-    "avgDifficulty": 2.3,
-    "avgRating": 4.1,
+    "avgDifficulty": 3.5,
+    "avgRating": 3.5,
     "department": "Public Health",
-    "firstName": "Randall",
-    "lastName": "Harris",
-    "legacyId": 1028987,
-    "numRatings": 32,
+    "firstName": "Maria",
+    "id": "VGVhY2hlci0yMzI5Nzk1",
+    "lastName": "Gallo",
+    "legacyId": 2329795,
+    "numRatings": 2,
     "Ratings": [
       {
-        "index": 0,
-        "rating": "5.0",
-        "comment": "Very sweet old man who gave me a good foundation of what Epidemiology is."
-      },
-      {
         "index": 1,
-        "rating": "4.0",
-        "comment": "This was honestly one of the easiest classes I've ever taken... i went to class the first 4 times and then never again lol. Theres 4 tests but they are all online and he posts his notes , easy group writing projects due every 2-3 weeks but my group split it up to make it easy, he is nice but just stands on a podium and yaps...hence me not going"
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Dr. Gallo is not patient or inviting when it comes to students questions. She responds in quite a defensive and irritated manner. She is also very contradictory. She says she is not trying to trick you and writes her tests/assignments in a very technical way. ",
+        "course": "6431"
       },
       {
         "index": 2,
-        "rating": "5.0",
-        "comment": "I've had him for two epi classes, one online and this one in person.  In this blended grad-undergrad course, he let us be responsible for getting as much or as little out of class as we wanted,. There were no tests or exams, just weekly participation assignments and a final presentation. He clearly enjoys teaching and is good at it"
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She is a tough grader, but she intends well. She wants to make sure you’re prepared and that you know your material. The book for the class is arduous, but her lectures really help concepts come to life and the homeworks help make those concepts more concrete. I would highly recommend her!",
+        "course": "6431"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 2.1,
+    "department": "Public Health",
+    "firstName": "Judith",
+    "id": "VGVhY2hlci0yMDQ0NTE2",
+    "lastName": "Schwartzbaum",
+    "legacyId": 2044516,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "There were only 3 graded assignments, but no tests. She did a great job recruiting experts to talk about epidemiology, climate, and other subjects as well as lecturing on diverse topics herself. She trusts the expertise of her students and discussions often involved the undergrad backgrounds of classmates. The only drawback is disorganization",
+        "course": "PUBHLTH6000"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I would not recommend this class to ANYONE. This prof does not interact with the class at all and relies heavily on her TA's which is fine, but she is the one writing the exams. So, most of the material on the exams was not covered by the TA making this class unnecessarily difficult. Avoid this professor if possible!",
+        "course": "PUBHEPI2410"
       },
       {
         "index": 3,
-        "rating": "5.0",
-        "comment": "Great professor! Online zoom class but he also posts his recordings. Quizzes and tests are very straight forward and if you pay attention on zoom, class is super easy."
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Avoid this professor if you can. She was not interested in helping or interacting with the class at all. Calculations appeared on the exam that were never covered during classes or in the textbook. Good luck if you have to suffer through this class for your degree.",
+        "course": "PUBHEPI2410"
       },
       {
         "index": 4,
-        "rating": "4.0",
-        "comment": "his lectures were very repetitive and made little sense, i dont recommend if you need to actually learn the coursework, but he is okay if you just need a GE credit, three midterms and 3/4 quizzes and the final are the only things graded. the class is based off of 100 points and every point is 1% of your final grade, very weird guy overall"
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "She re-used other instructors material without first familiarizing herself with material and when other instructor material wasn't available she used YouTube videos. I was pretty underwhelmed especially considering this should have been graduate level. Because of her reliance on others the homework wasn't always based on lecture materials.",
+        "course": "PUBHEPI6410"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4,
+    "department": "Public Health",
+    "firstName": "Amanda",
+    "id": "VGVhY2hlci0yNzU2MjM1",
+    "lastName": "Luff",
+    "legacyId": 2756235,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Class was asynchronous so she offered office hours 4 times a week. Her lecture videos were extremely long and very dry content. There were 2 big assignments that made up a large portion of the final grade: a creative endeavor and a research paper. No exams just weekly quizzes. Overall good GE class!",
+        "course": "PUBHLTH2010"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.2,
+    "avgRating": 3.3,
+    "department": "Public Health",
+    "firstName": "Stanley",
+    "id": "VGVhY2hlci05NjQ2NzA=",
+    "lastName": "Lemeshow",
+    "legacyId": 964670,
+    "numRatings": 6,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Lemeshow is a good guy, super smart. Hes not a great teacher. He expects everyone to be a statistician and teaches over our heads often. The class isnt unfair, but he just reads from his notes and spits out statistical jargon. He sometime tells fun stories though that help.",
+        "course": "PUBHBIO7220"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Goes very quickly but explains things well and gives partial credit on tests.",
+        "course": "PUBHBIO6210"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Boss dog was AWESOME. Dr. Lemeshow is a seasoned statistician with amazing stories from his past experiences.",
+        "course": "PUBHBIO7220"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Dr.Lemeshow feels annoyed when asked to clarify. He is a a great scientist but his teaching is not clear. He is very fast and does not explain everything needed.",
+        "course": "PUBHBIO7220"
       },
       {
         "index": 5,
-        "rating": "4.0",
-        "comment": "Dr. Harris was a kind man, however, it can be difficult to be engaged in his lectures. I almost never attended his class meetings on Zoom and I got a good grade. He only rounds up by half percentages, so I could not convince him to round a 92 to an A."
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Very difficult- I flew through 701 but almost didnt pass this course. Notes seem fairly straightforward but tests can seem overwhelming. Be sure to understand the notes instead of just memorizing or you'll be out of luck on the exams. Failed a large portion of the class.",
+        "course": "BIO702"
       },
       {
         "index": 6,
-        "rating": "5.0",
-        "comment": "Literally never went to class and only watched the review lectures. Super easy class and super smart guy"
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Lemeshow is more brilliant than I will ever be. I sucked in the class. However, he is not as good an instructor as  Drs. Burr and Shen. Both of them left OSU, under Lemeshow as the Dean. Didn't suck up to him enough, perhaps&#63; He should be in a purely research role; not an administrator, not a teaching faculty member.",
+        "course": "BIOS999"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 5,
+    "department": "Public Health",
+    "firstName": "William",
+    "id": "VGVhY2hlci0yNjE4OTg0",
+    "lastName": "Miller",
+    "legacyId": 2618984,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Miller is the best. Very intelligent, yet a great teacher as well. Learned a lot from him",
+        "course": "PUBHEPI5411"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Bill is both a great guy and a great professor. He is a certified genius in his field but doesn't come off as a know it all. He cares a lot about both the course content and his students and wants you to do well while actually learning. The outbreak investigation is a good amount of work, but that hard and actually pretty fun overall.",
+        "course": "PUBHEPI5411"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.7,
+    "avgRating": 4.5,
+    "department": "Public Health",
+    "firstName": "Randi",
+    "id": "VGVhY2hlci05NzMxMTQ=",
+    "lastName": "Love",
+    "legacyId": 973114,
+    "numRatings": 11,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Love is among the most extraordinarily capable, knowledgeable and personable professors and professionals with whom I had the honor to learn about this topic.",
+        "course": "AIDS697"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "There are some issues with the quizzes, their wording and the right answers that sometimes just not match up with the lecture or reading material content. A appreciated the mixture of utilized media though as well the knowledge provided. Regarding the book, while interesting to read, I do not fully understand the need for it. Great class!",
+        "course": "SW5002"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Aids class was interesting. This specific professor had many quizzes, which were open book, but often times tricky. I felt they were not a true reflection of the student knowledge. Good class for an elective for MSW program.",
+        "course": "SW5002"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Randi is the nicest professor! The only issue with the class is that there are only 100 points in the class so every point counts. Also, during finals week you are responsible for 50/100 of the points. There is on one exam, the final, so it is an easy class until finals week.",
+        "course": "PUBHL3510"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I love Dr. Love she is so sweet and caring. I wish I could take the rest of my classes with her shes AWESOME. She just wants all her students to pass. Offers to help in any way she can. Material is straight forward and not difficult",
+        "course": "PUBHL3510"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Total of 6 quizzes, no tests or exams. Really enjoyed this course and the instructor. Very helpful, sweet, and knowledgeable. Responds to emails quickly! Easy A, but there is some work. Lot of videos in this AIDS course, but very interesting.",
+        "course": "5002"
       },
       {
         "index": 7,
-        "rating": "5.0",
-        "comment": "Professor Harris was great! His lectures were very interesting. He only graded based off of tests and quizzes, so you have to do well on those to pass the class. As long as you pay attention in lectures, especially review lectures, you should do well."
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "This class was a total joke. Randi just read off of pre-prepared slides, and every other day we watched movies in class. Its possible to do the assignments the night before they're due. She gives everyone a 100% on everything. She isn't the most professional person, which makes it hard to take her seriously.",
+        "course": "PUBHL3510"
       },
       {
         "index": 8,
-        "rating": "5.0",
-        "comment": "Professor Harris is very nice and I found the class decently interesting just very repetitive. The review lectures prep you for quizzes and tests very well. Very organized in the online format and very little work to do. Just 5 quizzes and 2 tests are graded."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Love is a very fun and entertaining professor.  I learned a lot from her class and we mostly watched cool documentaries.  I'm taking her final tomorrow, hopefully she doesn't make it too hard.",
+        "course": "PHHBP520"
       },
       {
         "index": 9,
-        "rating": "5.0",
-        "comment": "Watch the lectures and you will do fine on the tests. The glass is graded on 2 midterms, 5 quizzes, and a final so you need to do well on those but it's very attainable if you watch the lectures and his review lecture."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great class, she is hilarious and very entertaining- the subjects covered are quite depressing sometimes but that's the nature of AIDS social work. You watch lots of movies, but they are all interesting. Take this class!",
+        "course": "AIDS697"
       },
       {
         "index": 10,
-        "rating": "5.0",
-        "comment": "Just do the assignments and you'll be cool, they're not hard."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is cool!",
+        "course": "MPHEXP"
       },
       {
         "index": 11,
-        "rating": "5.0",
-        "comment": "Harris was great! Very accessible and funny. You don't need a textbook and honestly don't need to go to class unless it's a review day. Tests determine grade, but they aren't impossible. Studying review slides and not going to class will get you an A- or A"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "PUBHL520"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 5,
+    "department": "Public Health",
+    "firstName": "Gia",
+    "id": "VGVhY2hlci0yODc3Mjkw",
+    "lastName": "Barboza-Salerno",
+    "legacyId": 2877290,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I loved this class with Gia. They are so enthusiastic and have so much experience to share. There is a good amount of reading that I struggled to keep up with but it rarely impacted my ability to participate. Participating in their class is so thought-provoking and you can really get a lot out of it. Gia will challenge you, and it rocks!",
+        "course": "PUBHHBP7542"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Gia is one of those professors I will never forget. Not only are they well educated in the topic they are lecturing on, but it is very apparent that they are passionate about it as well. Their lectures are very fast paced, but that just further illustrates that they love what they do. I would take them again in a heart beat!",
+        "course": "PUBHHBP7542"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Public Health",
+    "firstName": "Sara",
+    "id": "VGVhY2hlci0yNzI1ODA0",
+    "lastName": "Anderson",
+    "legacyId": 2725804,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She gives every opportunity to do well in this class and to communicate with her as an instructor. Highly recommend!",
+        "course": "PUBHEPI6410"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.7,
+    "avgRating": 3.7,
+    "department": "Public Health",
+    "firstName": "Amy",
+    "id": "VGVhY2hlci0yMTg5NDU0",
+    "lastName": "Ferketich",
+    "legacyId": 2189454,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I literally switched my major to public health after this class. I would say that the time in class is not productive, and most of the homework out of class takes some time to do (1 page writing and 1 easy quiz a week for the most part), but the content is very interesting. We read novels relating to public health. Loved this class and professor",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Not difficult but not particularly interesting. Seems generally nice but came off as very condescending in emails and one-ones. ",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "A nice enough professor, but not very engaging and often comes across as condescending ",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Class consisted of asynchronously watching a lecture and videos each week and then 1 page reflections about what you watch. In person meetings were a lot of cool guest lecturers and discussions about topics. Not very much work, no tests. 1 group research paper and 1 \"final\" project that is really easy",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I took case studies in epidemiology my freshman year and loved having Dr. Ferketich. Even though the class was 3 hours long and in the evenings, I always looked forward to it. She gave group projects, but they were interesting and actually helped us learn the material. She also brought snacks every week.",
+        "course": "PUBHEPI3410H"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "I heard amazing things about this class, but with the way it is set up I was super disappointed. A different TA teaches each module and each quiz is written completely differently making them hard to study for. Her rubrics and syllabus are extremely vague on projects as well, and asking for clarity from her or the TAs was not helpful at all.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "The best class I've taken at Ohio State so far. Small class, about 15 people and totally focused on case studies. For older students, great way to apply what you've learned in other classes. For freshmen, great opportunity to learn from her and students that have been in the program",
+        "course": "PUBHEPI3410H"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.3,
+    "department": "Public Health",
+    "firstName": "Brent",
+    "id": "VGVhY2hlci0yNzUxMzEw",
+    "lastName": "Emerson",
+    "legacyId": 2751310,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Brent definitely cares about his students. Any time I have attended office hours, he has gone above and beyond to explain the material in a way I understand, never made me feel dumb about asking a basic question, and took the time to really make sure that all my concerns with the assignment and class were addressed. Easily one of the best TAs here.",
+        "course": "PUBHHBP3510"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "He does not really seem likes he cares about teaching the material. He is only there for the paycheck. He just reads through the slides and that is it. Would be better if he showed more passion for the material. \n\nHe also kept the course online even after saying he would move it in person.",
+        "course": "PUBHHBP3510"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Brent was my TA for this course and was by far (BY FAR) the greatest TA I have had in my four years of college. Any time I had a question or wanted to review before exams, he was happy to schedule a meeting and answer anything with great explanations. If you put in a good amount of effort on the homework, an A is easily achievable. Brent is 10/10!",
+        "course": "PUBHHBP3510"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.7,
+    "avgRating": 4.8,
+    "department": "Public Health",
+    "firstName": "Paul",
+    "id": "VGVhY2hlci0yMzAwNjc1",
+    "lastName": "Reiter",
+    "legacyId": 2300675,
+    "numRatings": 6,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Reiter is one of the BEST professors and faculty at OSU! He is very professional, caring, and willing to help students pass his course(s). His teaching style and compassion for students makes attending OSU worthwhile. He certainly had a positive impact on my graduate school experience. I highly recommend him! Dr. Reiter rocks!",
+        "course": "PUBHHBP7520"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Reiter has a ton of cool experience he brings to the course. I think for some the material could be dry, but he made it so interesting. I found his lectures so useful, interesting, clear, and concises that I sent them to my former health research coworkers. This was the most useful course of my MPH so far, & his expertise is critical to that.",
+        "course": "PUBHHBP7520"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Reiter was great. This class was my second time having him and while he is a little monotoned, his lectures show that he a professional in his field. I learned a lot from him, and I will say that is very receptive to any and all feedback whether it be content from lectures or how the class is structured!",
+        "course": "PUBHHBP7520"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Good guy, wants you to learn in fun ways. Doesnt just push tests or massive papers.",
+        "course": "PUBHLTH3410H"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "this class was super interesting and I really enjoyed it! Easy A if you do the work!!! I would say I spent an average of 30 min per week on this class and got an A. The actual class sessions are super easy and lowkey. Paul is very kind and understanding and knowledgeable in his field. Guest lectures are usually very good as well. Class can be long",
+        "course": "3140H"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Reiter makes this class so much fun! If you don't have an interest in PubH, don't take it. There's a paper every week, 3 short answer questions every other week, and one 3-hour presentation (not as bad as it sounds). If you do the work and put in effort, you'll get the A. But it's a lot of work",
+        "course": "PUBHLTH3410H"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.4,
+    "avgRating": 4.2,
+    "department": "Public Health",
+    "firstName": "Rebecca",
+    "id": "VGVhY2hlci0yNDA4NjUz",
+    "lastName": "Andridge",
+    "legacyId": 2408653,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "My favorite professor to learn from in 6 years at OSU. The lectures are so clear, so well thought out. The organization of the courses is fantastic. It does involve a good amount of work, but I never felt it was a waste of time or busy work. She makes me regret not choosing epidemiology or biostats as my focus for grad school.",
+        "course": "PUBHLTH6001"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "My favorite professor to learn from in 6 years at Ohio State (undergrad + grad school). Her lectures are so clear, her organization is unbeatable, and I genuinely came away from this class feeling confident in everything she taught me. Makes me regret not doing epidemiology. There is a lot of work with the course, but nothing you don't learn from.",
+        "course": "PUBHLTH6001"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "My experience with Dr.Andridge was very positive. I really appreciate how she teaches (you do a weekly lab and quizzes and assignments ) so you get plenty of practice before exams. She will also take time to explain concepts and make sure that you understand it by the end of her explanation. I would highly recommend taking any course with her. ",
+        "course": "PUBHLTH6001"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Dr. Andridge is a very difficult professor to work with and does not respect her students. When difficult situations arise in the classroom she's been shown to handle them extremely unfairly and without respect and careful consideration. If you're looking for fair treatment and respect from your professor I would not recommend Dr. Andridge.",
+        "course": "PUBHLTH6001"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She is a great professor; gives extremely good feedback. If you work for it, you can easily get an A",
+        "course": "PUBHLTH6001"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.1,
+    "avgRating": 2,
+    "department": "Public Health",
+    "firstName": "Ayaz",
+    "id": "VGVhY2hlci0yMjE3NTE3",
+    "lastName": "Hyder",
+    "legacyId": 2217517,
+    "numRatings": 19,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I really don't understand the hate for Ayaz. This obviously isn't the most fun class, but it isn't hard either. Attendance is mandatory, but you pay to go to school here so just show up. He is happy to help with questions but can be a little hard to reach at times. The final isn't bad, there are no &quot;right&quot; answers so just back up your responses.",
+        "course": "PUBHEHS3310"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Dr. Hyder, along with the other head professor for this class, did not support students well throughout the semester. The class felt very disorganized. He was also not very accessible through e-mail or through direct messaging through the course.",
+        "course": "PUBHEHS3310"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Do not take public health data analytics. It was unclear and unorganized, though it was made sure that attendance was taken every class. They assume everyone who takes this class knows R and has the background knowledge of a math major. Those who do not meet those criteria will struggle immensely, and you will not get help when you ask questions.",
+        "course": "PH5015"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "There are not enough characters to complain about how horrible this class was. Attendance every day, which forced you to sit through boring lectures when the slides are posted online anyways. Group projects are assigned by Dr. Hyder, and are groups of 10-11 people, which was impossible to coordinate. Grading is hard and instructions are vague.",
+        "course": "PHEHS3310"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Dr. Hyder cares a lot about environmental health and it shows in lectures. Speaking of lectures, they are boring but you need to go for attendance. Quizzes are online and pretty easy but you better hope your group is responsive because mine sucked and I had to do a lot of the work for those four projects",
+        "course": "PUBHLTH3310"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "You can tell he is a caring and nice person, but this is one of the most unorganized courses I have taken. The lecture slides either have overwhelming amounts of information or barely anything other than key terms. Unclear criteria for the assignments and paper as well. Pretty easy to pass but not a great time.",
+        "course": "PUBHEHS3310"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Lecture and attendance are important because the slides seem super random. Although if you miss classes its not a big deal, you just wont get points. Didnt feel like I learned anything. Exam was easy but didnt feel it pertained to much of what we learned",
+        "course": "PUBHEHS3310"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Horrible, very unorganized, tough grader, he's friendly, but I really wouldn't recommend him.",
+        "course": "PUBH3310"
+      },
+      {
+        "index": 9,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "It is evident that Dr. Hyder has a really good heart and is very knowledgeable on the subject of environmental health, but he doesn't do a great job translating this knowledge in an understandable manner to his students. Don't let this scare you, because it's not hard to do well in the class, but beware that you probably wont learn much from him.",
+        "course": "PUB3310"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Just Ridiculous, he makes his quizzes and tests based on things that aren't even discussed in the slides or lecture (???????). Everything about him and his class is so unorganized. I don't even know how or why OSU hired him. Just b/c someone has a Ph.D.. it doesn't mean they will be a good professor.",
+        "course": "PBH3310"
+      },
+      {
+        "index": 11,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Not a hard class but insanely boring and unorganized.",
+        "course": "PUBHEHS3310"
       },
       {
         "index": 12,
-        "rating": "5.0",
-        "comment": "Dr. Harris is a wonderful man with a lot of experience in epidemiology. He made it very easy to meet with him outside of class and his review sessions went over basically everything on the exam. Going to lectures isn't required or necessary, but it definitely helps with comprehension! It's an easy A if you study."
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "He is not that great of a professor, but also not that bad of a professor, but his class is very easy if you attend and take notes, so do that and you're set.",
+        "course": "PUBHEHS3310"
       },
       {
         "index": 13,
-        "rating": null,
-        "comment": "This class only included quizzes and tests for the grade which made it a bit difficult but he does care about students and tries to help as much as he can."
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "He has gotten SO much better this first semester at Ohio State. Don't pay attention to his past reviews. No tests and no textbook. All quizzes are online and straightforward for the most part. The papers can be annoying but he will help you through them. Not hard to get an A, just attend class on TopHat days aka Fridays.",
+        "course": "PH3310"
       },
       {
         "index": 14,
-        "rating": "5.0",
-        "comment": "Dr Harris MD PHD is the BEST of the BEST! Clinical fellowships are awarded to students who HONOR the GOLDEN RULE, not whining complainers. Do not be short-sighted and point-fixated. Students with lower Grades get nomination for Clinical promotion fellowships. Whining students with higher grades can write themselves recommendation letters."
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "I'm going to be more lenient because I was in the first class he ever taught. He clearly knows a lot about the subject, but struggles to deliver lectures (at the end he got better about involving us. My biggest complaint is that he was not very responsive to family emergencies/has very strict due dates. He also didn't ever have office hours.",
+        "course": "PUBHEHS3310"
       },
       {
         "index": 15,
-        "rating": null,
-        "comment": "I started with over a 100% after the first exam, and ended with an A- because its only out of 100 points so every single question on the three tests matters heavily. You don't need to go to lecture because the powerpoints are online. There are a few online quizzes that should be automatic 100s."
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Wouldn't recommend taking this class with him. His lectures are boring and unclear. The papers are a large part of your grade, but are graded very arbitrarily. He's condescending  and rude when spoken to in person. Makes it clear he doesn't want students to succeed. I learned nothing from this class and am avoiding any future classes taught by him.",
+        "course": "PUBHEHS3310"
       },
       {
         "index": 16,
-        "rating": "4.0",
-        "comment": "Dr. Harris definitely cares about his students success. The quizzes were easy and online. But the tests could be tricky. Just make sure to know the material well and this class should be an easy A. The lectures could be boring, but that happens with any subject."
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Class grade is based off of online quizzes over lecture material and two papers. The papers are very easy and graded generously, however the quizzes often included details from lecture that were barely mentioned making it difficult. He was extremely boring but the guest lecturers were much more interesting and provided more straight forward content",
+        "course": "PUBHEHS3310"
       },
       {
         "index": 17,
-        "rating": null,
-        "comment": "Prof. Harris's class is just all about lectures. He's a very chill man, maybe a little too chill. If you have no interest in Epidemiology, you will likely find this class super boring. Review his PowerPoints and you will do fine on your exams. Epidemiology isn't of my interest, so it's not really for me. He's a helpful man though."
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Content has potential to be very interesting, but the lectures are very boring. About 1/4 of the class shows up to lecture each time. Quizzes often didn't make sense at all, but papers were graded generously.",
+        "course": "PUBHEHS3310"
       },
       {
         "index": 18,
-        "rating": "5.0",
-        "comment": "review power points and you'll be fine. Boring lecture but great professor"
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "This is his first semester teaching here. He is not as bad as the previous review. Need to take notes, slides are posted online but notes are needed to get decent grades on quizzes. No tests!",
+        "course": "PUBHEHS3310"
       },
       {
         "index": 19,
-        "rating": "4.0",
-        "comment": "You don't need to attend lectures or read the book. I am an epidemiology minor and even I found his lectures to be boring. Attend the review session and read over the review slides and you'll do well. He is very kind, but boring."
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Failed quizzes from lectures given by him, and a's on those given by guest lecturers. The lectures make little sense and are supplemented by power points that are little help. Guest lecturers make up probably a little less than half of the classes. No tests, only quizzes and two papers.",
+        "course": "PUBHEHES3310"
       }
-    ]
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4,
+    "department": "Public Health",
+    "firstName": "Kurt",
+    "id": "VGVhY2hlci0yMzUyNTc5",
+    "lastName": "Stevenson",
+    "legacyId": 2352579,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Kurt has an impressive career and I find him to be endearing. The lectures can be dry, but if you are passionate about public health / disease, you will love the info. The midterm and final are mc / tf questions that are very easy. Cheat sheet for the final. A group presentation and a final research paper are graded very leniently by a TA as well.",
+        "course": "PUBHEPI5412"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.2,
+    "avgRating": 4.7,
+    "department": "Public Health",
+    "firstName": "Tasleem",
+    "id": "VGVhY2hlci0yMTE1ODg2",
+    "lastName": "Padamsee",
+    "legacyId": 2115886,
+    "numRatings": 6,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Padamsee is probably one of the greatest professors that I have had at OSU. She genuinely cares about her students and is very knowledgeable about what she teaches. I have definitely learned more in this class than any other class I have taken and enjoyed it thoroughly. Lots of work, an A takes a lot of effort, but a fantastic class.",
+        "course": "PUBHHMP4650"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Padamsee was an incredibly knowledgeable, kind, and passionate professor. This class requires some effort, but she explains the content in a thorough and understandable manner, but will readily reiterate confusing information if necessary. She truly, truly cares about her students and is doing some incredible research outside of the classroom!",
+        "course": "PUB4650"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "While Professor Padamsee is a fantastic person, her class was too hard and too boring sadly. She's great but I can't find anything interesting about Medicaid, Medicare, etc. And it was also the hardest course I've taken at OSU. Dont skip class. Attendance is important. Pay attention to guest lectures on exams.",
+        "course": "PUBHHMP4650"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This was my favorite class taken so far - the information is useful outside of the course and Prof. Padamsee was very engaging and encouraged discussions in class. However, watch out for the group paper/video at the end. Groups are assigned and it is a lot more work than it may seem!",
+        "course": "PUBHHMP4650"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "In all honesty, the content for this class can be boring especially in an 1 hour 20 minute lecture. But I must say, Dr. Padamsee took the time to help me not only with coursework but with life issues. She cares about her students and her role at Ohio State. I will forever be thankful for Dr. Padamsee and recommend her if you have the option.",
+        "course": "PUBHHMP4650"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Good teacher, but topic was sort of dull. She gives attendance quizzes and grades tough but overall I had a great experience and learned a lot!",
+        "course": "PUBHHMP4650"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 4,
+    "department": "Public Health",
+    "firstName": "Brenda",
+    "id": "VGVhY2hlci0yNDQ4OTcy",
+    "lastName": "Clark",
+    "legacyId": 2448972,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "This is a great and interesting class. You are not graded on many things, there are 3 exams and homework grades. There is a lot of group participation and you should go to class. All of the slides are posted online and marked with importance. Great professor!",
+        "course": "PUBHEHS3320"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 5,
+    "department": "Public Health",
+    "firstName": "Qinghua",
+    "id": "VGVhY2hlci0yNDgyODkz",
+    "lastName": "Sun",
+    "legacyId": 2482893,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Sun is super laid back. You have a ton of time to finish each module and can honestly get it all done on the due date if you really want to. The course content is interesting and definitely important, and the discussion posts on the content are interesting. If you have a pulse and at least two brain cells, you will get an A in this class.",
+        "course": "PUBHEHS5320"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class was super interesting and Prof Sun set it up really well. It was easy to understand and I learned a lot. Definitely recommend!",
+        "course": "PUBHEHS5320"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Sun is amazing and it is very evident that he cares! Take PUBHEHS 5320 online with him!! His class is an easy A if you do your assignments. There are 4 modules and you just have to turn in all the assignments by the module due date so you can pace on your own. Dr. Sun also gives a lot of extra credit! I have over a 100% in his class!",
+        "course": "PUBHEHS5320"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great, easy class for undergrads. Lots of notes and quizzes, but easy. Keep in mind old quiz questions when taking final exam. Discussion boards, movie tests, and final paper very graded on participation. No textbook. Worst part was he turned off the final grade on carmen so you don't know your grade or &quot;what-if&quot;",
+        "course": "PUBHEHS5320"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4,
+    "department": "Public Health",
+    "firstName": "Andrew",
+    "id": "VGVhY2hlci0yNjM0NjUx",
+    "lastName": "Miller",
+    "legacyId": 2634651,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Great professor. Great content. The class was required for my major, it was a very interesting class despite taking it online because of the pandemic. As long as you attend class and participate it will take you far in the class. Sometimes a tough grader, just be sure to stray from any potential bias in your writings and you will be fine.",
+        "course": "PUBHEHS3310"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 3.3,
+    "department": "Public Health",
+    "firstName": "Susan",
+    "id": "VGVhY2hlci0yMjU2OTM3",
+    "lastName": "Olivo-Marston",
+    "legacyId": 2256937,
+    "numRatings": 11,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Olivo-Marston was a great professor! The class was based off of straightforward quizzes every 2 weeks, group presentation and paper, and lots of extra credit opportunities. Lectures were pretty interesting and I didn't put a ton of work in the class. Learned a ton and ended with over 100%. Great class!",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Dr. Susan Olivo-Marston does not teach the class, the TA does. The lectures are poorly delivered and makes no sense. The in class quizzes quiz you on things that are not taught in class. Dr. Susan Olivo-Marston is a TOUGH grader and expects perfections. She'll take off points for little things. For an intro class, there's a lot of work involved.",
+        "course": "PH2010"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Olivo-Marston is a super nice lady. 90% of class is her lecturing, which can be a bit boring, but overall the class is super easy. TONS of extra credit throughout the semester. Quizzes arent hard if you study 20-30 mins the night before. Id take this class and her again. Easy A or B+ with average to little amount of work.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "I took Dr. Marston's class (AU19) and she is a fantastic professor. She takes sporadic attendance, but it was only three times throughout the entire semester. She's very helpful and funny in a cool mom sort of way. She doesn't post notes, but her class is interesting, so sitting through the class was never an issue. She is truly a fashion icon.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "The class is an easy-A but Susan was just annoying. She put unnecessary blanks in the slides so you had to go and she rarely showed up to class but wouldn't cancel. Group projects and module quizzes determine grade",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Didn't teach her own class. First day says she got complaints about the format in the past, but changed nothing. She is a good lecturer and the class would have been much easier had she been the teacher instead of a PhD student that hardly spoke English. Pay no attention to study guides and pray you get a good group for your projects",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great professor. Easy class, she even gives extra credit and rounds up final grades",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Marston is extremely kind and would do absolutely anything to help. The class was a bit boring at times, but she keeps it interesting by inviting guest lecturers for various modules. The class is very straightforward in what is required and nothing is very difficult. The quizzes were a bit unfair, definitely don't follow the study guide.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Dr. Marston runs a very inviting atmosphere to her classes. There's a decent amount of work hidden in the midterm and final project, so don't put those off. Otherwise, the weekly quizzes are incredibly straightforward. Her background education is very interesting to hear about as well as her research interests. Would recommend!",
+        "course": "PUBHLTH2410"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Dr. Olivo-Marston doesn't actually teach the class. It's taught by TA's. This class was incredibly disorganized with some of the TA's not showing up. Also they really expect a lot out of you even though it's an intro class, but they don't really give you any guidance at all. I expected more out of this class and am incredibly disappointed.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 11,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Lots of TAs teaching instead, guest lecture every week",
+        "course": "PUBHLTH2010"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.5,
+    "avgRating": 1,
+    "department": "Public Health",
+    "firstName": "Darryl",
+    "id": "VGVhY2hlci0yMjEzODY2",
+    "lastName": "Hood",
+    "legacyId": 2213866,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Terrible. Dr. Hood was all over the place. Basically memorize everything.",
+        "course": "PUBHEHS5315"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Worst teacher I've ever had. He didn't put any effort at all into the class but expected us to go above and beyond. The material wasn't relevant to our program, and the test wasn't relevant to the material.",
+        "course": "PUBHEHS6300"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Public Health",
+    "firstName": "Joyce",
+    "id": "VGVhY2hlci0yNTQ2NjAw",
+    "lastName": "Rudy",
+    "legacyId": 2546600,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Joyce is amazing! I had her as my TA for PUBHLTH 2010 and now she is my prof for PUBHEPI 2410 online! This class is an easy A if you do the work! This class is very manageable and I would 100% recommend taking her class. I hope she teaches other classes in the future so I can take them :) She is also very accessible outside of class!!",
+        "course": "PUBHEPI2410"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 2.5,
+    "department": "Public Health",
+    "firstName": "Tiffany",
+    "id": "VGVhY2hlci0yNDQzMjUz",
+    "lastName": "Thomson",
+    "legacyId": 2443253,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Does not take attendance but will give random in-class quizzes and assignments. She isn't woke and taught soc of global health and illness like the traditional white savior, suggesting that global health issues are only global if they happen in developing countries. The number of maps of Africa that we saw in class was disappointing.",
+        "course": "SOC5450"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Her class is only graded out of 100 points and we had assignments every week which were consistently easy. We had two tests and at the end she bumps your final exam grade in order to help bump your grade.",
+        "course": "PUBHHBP3510"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 5,
+    "department": "Public Health",
+    "firstName": "Evan",
+    "id": "VGVhY2hlci0yNDY2NDY5",
+    "lastName": "Goldstein",
+    "legacyId": 2466469,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Really great teacher who clearly cares about the material and conveying it to others. This class was a lot of work with lots of assignments but Evan did his best to make it more manageable. He is also funny, which helped make the lectures more interesting.",
+        "course": "PH4650"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "One of the best professors at OSU.I can't say enough good things about Professor Goldstein. I had health problems throughout the semester, but he worked with me and helped me get caught up. He is very nice, helpful and funny and always there to help you understand the material. Take him and you will enjoy every subject in public health.",
+        "course": "PUB4650"
+      }
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 3,
@@ -133,6 +1021,354 @@
         "difficulty": 2,
         "comment": "Not the worst, but the discussion post are lowkey hell, along with the CHPP assignments, but other than that, pretty nice. She's pretty considerate of others time and pushes back due dates. Response to emails pretty quickly as well. I'd recommend taking this course online.",
         "course": "PUBHHMP3610"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 1.9,
+    "department": "Public Health",
+    "firstName": "Marika",
+    "id": "VGVhY2hlci0yNzI4NzI5",
+    "lastName": "Paul",
+    "legacyId": 2728729,
+    "numRatings": 10,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "She was really passionate about the material and you could tell. Some of the assignments were harshly graded and the exams were pretty tough. I liked her as a professor but the grades given back to me did not reflect the work I put in.",
+        "course": "PUBHHMP3610"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. Paul is a very good professor and her class is pretty easy and not much work! She does her best to make a boring topic fun. Final project is a bit overwhelming but she is always willing to look it over early on and she is good about responding to questions in her email. ",
+        "course": "PUBHHMP3610"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Drones on and on during lectures, I could not go 5 minutes without getting distracted by something like the color of the ceiling or how many blackboards there were (4). Reads off the slides for the entire time I don't think she knows how to use Canvas.",
+        "course": "PUBHHMP3610"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "This class is absolutely awful. I was very excited to learn this stuff and in theory this class should be interesting  but it's not. I think she's obsessed with assigning things to students even if there is no merit to it. Truly not sure how she managed to make such a great topic so awful and daunting.",
+        "course": "PUBHHMP3610"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Dr. Paul is not a good professor. The content is interesting but not enjoyable since you have to remember every single detail or you will fail. She also is a horrible responder to emails. The class does not let you show how much you know or have learned, it feels as though she is constantly trying to find ways to dock your grade. ",
+        "course": "PUBHHMP3610"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Before this semester I looked Dr. Paul up and became very scared due to the reviews. However she made many adjustments to the course this semester to improve the class. The final project seems daunting and time consuming, however I feel like it was very valuable to my future career in public health. Overall she is a great professor. ",
+        "course": "PUBHHMP3610"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Tis class had so many components to it. Dr. Paul made assignments harder than they needed to be and she graded just as harder or even harder. We had a huge group project and our honestly did really well but she graded us harshly and a lot of people's grades drop at the end. The public health classes are easy but this one was hard for no reason.",
+        "course": "PUBHHMP3610"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Test questions were based off of arbitrary facts briefly mentioned within lectures. This class was made so much harder than it needed to be. Major grade-changing projects were required to be completed in groups (even with the pandemic). Not accommodating.",
+        "course": "PUBHHMP3610"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Do not take this class with Dr. Paul. The material of the class is not difficult, however, she makes quizzes/exams much more difficult than they need to be. Her lectures are dry and you must be paying attention 100% of the time to get the needed material for quizzes/exams otherwise you will not find it in the textbook/anywhere else.",
+        "course": "PUBHHMP3610"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "She is the worst professor I have ever had. She makes the content of this class way harder than it has to be. She gives no slack on grading. Very limited instructions and does not allow room for error even when she is at fault. Grades extremely hard, even discussion posts. Your best effort still will not be enough.",
+        "course": "PUBHHMP3610"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 2.3,
+    "department": "Public Health",
+    "firstName": "Kaleb",
+    "id": "VGVhY2hlci0yODgzMTIz",
+    "lastName": "Masterson",
+    "legacyId": 2883123,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Kaleb was a great professor. Do not start assignments last minute. \nThe class in my opinion was easy and interesting.\nHe offers extra credit here and there. \nYou have one week to complete assignments, and he was always there to answer questions over email. \nHe gave great feedback. No tests. Small quizzes each week. One large project, and a paper.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Terrible.",
+        "course": "139987"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "DO NOT take this class unless you are ready to put more work into this online class than your major courses, as most people were taking this class for a GE Credit. Halfway through the semester, the head of the course had to cut down the work because it was too much. She told me that they had already cut down the course before that... don't take:)",
+        "course": "139987"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.1,
+    "avgRating": 3.9,
+    "department": "Public Health",
+    "firstName": "James",
+    "id": "VGVhY2hlci0yNDc4MTU1",
+    "lastName": "Odei",
+    "legacyId": 2478155,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Odei is an *excellent* professor that truly cares about his students and his profession. He consistently makes himself available, whether it be via email or via office hours. I had quite a few issues, personal and academic and he helped me through him. My advice is to start early, ask questions, and reach out to him! ",
+        "course": "PUBHBIO2210"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "A quiz per week on a video lecture online, then an activity and lab per week. Super organized. Doesn't really teach in person but somehow I learned a lot. Group project and individual paper are big parts of grade. Exams are not bad if you look at the study guides. I had 0 experience coding before this class and now I feel like I have a strong base",
+        "course": "PUBHBIO2210"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Probably the worst professor I've had at OSU. He does not seem to care about his students. Grading unclear at times. Does not respond to emails within an expected timeframe. Belittles in office hours. The actual course material was not too bad, but he makes it hard somehow. Take someone else if you can, your grade and mental health will be better.",
+        "course": "PUBHBIO2210"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Amazing professor!!! I absolutely loved taking his course. For me, it was challenging, but he is there encouraging you to find the answer for yourself. It also helps that he has a great sense of humor and I really appreciate him and what he has taught me. He is a professor who cares for his students and is very welcoming.",
+        "course": "6270"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I am currently taking Dr. Odei for 2210 (online and asynch). I am amazed at what a caring professor he is, he is super quick at replying to emails and addressing concerns with the group project. He is extremely nice during office hours and his course is a lot of work but I LOVE him- not enough good things to say about him. ",
+        "course": "PUBHBIO2210"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Odei is a really cool dude if you talk to him outside of class, the assignments aren't hard once you realize they all build on each other and are repetitive. Midterms and finals are open book.",
+        "course": "PUBHBIO3310"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Grading criteria unclear at times. Somewhat belittling in office hours; prepare to get talked over. Lecture due every Monday, usually 1-2 group project activities a week, and a lab due every Thursday. He's knowledgable though and will try to help you understand the concepts. The 2 exams aren't that difficult, open notes and online.",
+        "course": "PUBHBIO2210"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3,
+    "department": "Public Health",
+    "firstName": "Courtney",
+    "id": "VGVhY2hlci0yNzk0ODQ2",
+    "lastName": "Lynch",
+    "legacyId": 2794846,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class was so interesting and fun. Dr. Lynch made sure that all assignments and readings were meaningful, no busy work or unnecessary assignments. Enjoyed the lectures a lot as well, and the guest speakers we had.",
+        "course": "PUBHEPI6440"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "The class was not difficult, but boring. She does grade hard on one of the assignments, this will determine your grade. Literally reads off lecture slides to teach. condescending during email communication. Poses vague writing prompts, then grades hard when you misinterpret. I feel I was treated poorly by her. Dr. Klebanoff(coteacher) is better.",
+        "course": "PUBHEPI6440"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 2.5,
+    "department": "Public Health",
+    "firstName": "Shibani",
+    "id": "VGVhY2hlci0yOTE4MzE3",
+    "lastName": "Chettri",
+    "legacyId": 2918317,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Professor Chettri is a great professor, There was a ton of work, but imo it offset other assignments. Weekly quizzes open-note, one 3ish page creative paper, one research paper, discussion boards, and some small web-interactive assignments. I read the other review on her and yes it is a lot of work but I did it taking more than a full course load.",
+        "course": "PUBHTLH2010"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "This professor was unorganized and unresponsive. She assigned more material than most 5 hour graduate classes (this is a 3 hour undergrad), but made many contradictory statements between assignment descriptions and rubrics and took over a WEEK to respond to questions. Clearly used recycled material that she was completely unfamiliar with.The worst.",
+        "course": "PUBHTLH2010"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4,
+    "department": "Public Health",
+    "firstName": "Megan",
+    "id": "VGVhY2hlci0yNDUzODIw",
+    "lastName": "Roberts",
+    "legacyId": 2453820,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Easy grader and clearest grading criteria of all time. Lecture heavy but with application practice every day. Lots of group work but not bad. Definitely would take her class again. She was extremely helpful when I had a conflict with the final exam. I took it for my major, but I know it counts for a GE and I would definitely recommend it. ",
+        "course": "PUBHHBP3510"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Exams are slightly hard but not ridiculous. She's a decent professor and topics are actually interesting.",
+        "course": "PUBHHBP3510"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "The class was a positive experience, but could get dry sometimes. She read pretty much directly off the slides, but attendance was a must because we would have surprise in-class assignments which counted as an attendance grade. Grading criteria for her assignments could have been a bit clearer, but she was friendly and responsive to emails.",
+        "course": "PH3510"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.7,
+    "avgRating": 4,
+    "department": "Public Health",
+    "firstName": "Julianna",
+    "id": "VGVhY2hlci0yMjM5MzQ4",
+    "lastName": "Nemeth",
+    "legacyId": 2239348,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Nemeth is fantastically qualified to teach this course and has an extensive network that makes this class feel so applicable to the real world. The material is very challenging, both academically and emotionally, but she does an incredible job translating it to practice with you. There is a LOT of reading, but most of it is very much needed.",
+        "course": "PUBHHBP6520"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "This class is very easy - follow the detailed directions on the homework and you'll do fine, and the tests aren't weighted heavily. I felt like I could have gotten a lot more out of this class, but the material was broad, and the professor was sometimes condescending. Overall, its easy.",
+        "course": "PUBHHBP3510"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "She is really nice and is a good lecturer. There are weekly assignments and she gives great directions and sources to help you complete the assignment. Midterm and Final aren't weighted heavily which is nice for people who are good test takers.",
+        "course": "PUBHHBP3510"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Public Health",
+    "firstName": "JaNelle",
+    "id": "VGVhY2hlci0yOTkxMTUz",
+    "lastName": "Ricks",
+    "legacyId": 2991153,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Ricks has so much expertise to share and does so very well. She is one of the few professors I've found who gives you concise reading assignments that never feel like busy work. The semester long project was challenging, but extremely manageable and really teaches you a lot. She's an excellent professor!",
+        "course": "PUBHHBP7564"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.5,
+    "avgRating": 1,
+    "department": "Public Health",
+    "firstName": "Shawnita",
+    "id": "VGVhY2hlci0yOTQwNDgx",
+    "lastName": "Sealy-Jefferson",
+    "legacyId": 2940481,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Good luck ",
+        "course": "4410"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This professor was completely unwilling to hear out my concerns about this class. She said nothing could be done to help my success in the class. Does not care about her students and is very performative with little substance. ",
+        "course": "4410"
       }
     ],
     "SEI": []
@@ -402,6 +1638,124 @@
     "SEI": []
   },
   {
+    "avgDifficulty": 1.8,
+    "avgRating": 3.3,
+    "department": "Public Health",
+    "firstName": "Paul",
+    "id": "VGVhY2hlci0yNzA2NTk4",
+    "lastName": "Rosile",
+    "legacyId": 2706598,
+    "numRatings": 15,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Rosile was an amazing professor. Even though attendance was mandatory he made you want to come to class because he was really engaging with the students and made everything we were learning applicable to our everyday lives.",
+        "course": "PUBHEHS3310"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Nice guy and an understanding professor but his lecture style is so boring. He often drones on instead of teaching material in a meaningful way. The class is set up in an unnecessarily complicated way and there's a lot of work/ assignments. Probably don't take this class as a GE. ",
+        "course": "PUBEHS3310"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Professor Paul Rosile was an amazing professor. He cared a lot for his students. If you explain your situation he is very understanding professor, matter of fact he will help you out if you need additional help. Yes this class  has a lot of work some are hard and some are easy but if you don't understand the assignment he will help you. ",
+        "course": "PUBEHS3310"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Dr. Rosile clearly cares about his students and the course material, but assignments are extremely repetitive and do not facilitate learning. Directions are always very long, complicated, and confusing. The course is focused on evaluating research rather than learning more directly about climate change's impact on human health.",
+        "course": "PUBHEHS4325"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "I love Dr. Rosile, but do not take PUBHEHS4325, as the course is more about random scientific articles and research than it is about climate change and human health.",
+        "course": "PUBHEHS4325"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Honestly do not take a class with this professor. There is a lot of homework and he does not know how to teach the material. You will have to learn everything outside of the designated lecture period because he drones on about the same thing for weeks. The flipped classroom style is a mess and he grades as if he is teaching us the material.",
+        "course": "PUBHEHS3310"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easy except for the final group project. It was ok but not the best. Classes were 80% lecture and 20% prof trying to get people to participate. He is very nice and very knowledgeable. Flipped classroom style didn't really work because he would just go over it all again during class. Got over 100% in the class because he offers extra credit ",
+        "course": "PUBHEHS3310"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Dr. Rosile is very passionate about what he teaches and some of the material is very interesting, but the lectures are so painful to get through. He's trying a flipped classroom style but doesn't have enough information to fill out the time slot, so he just drones on for most of the time. Overall, he's a very nice person and the class is easy.",
+        "course": "PUBHEHS3310"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Very kind professor that is very passionate about his work. Not only that, but he is very communicative and is always accepting of feedback.",
+        "course": "PUBEHS3310"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class takes effort. Attendance is important and its a lot of work. But, Dr. Rosile puts in the effort to make the class interesting. He is passionate about the subject and cares that his students are experiencing this passion too. He encouraged my interests and helped me explore EHS careers. put in the effort and you'll be fine",
+        "course": "PUBHEHS3310"
+      },
+      {
+        "index": 11,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "After experiencing both Covid and depression and receiving a doctors note for both of these issues, Dr.Rosile would not unlock the current modules so that I could catch up and stay current in the course. Instead he forced me to continue doing them in order, even though each module is unrelated to the others. Doesn't seem to care about the students.",
+        "course": "PUBEHS3310"
+      },
+      {
+        "index": 12,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "This was a course more about finding scientific resources and interpreting at scientific information than it was about climate change and human health (the title of the course). It felt fairly disorganized, with difficult to interpret instructions for homework and a heavy load of busy work.",
+        "course": "PUBHEHS4327"
+      },
+      {
+        "index": 13,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "This class is easy and there are no exams or quizzes. You basically work on a semester long project with your group every week. There are homework assignments and journals. The assignments are very easy they both took me no longer than an hour at best. Everyone ends up with an A. I ended with a 99% A.",
+        "course": "PUBEHS3310"
+      },
+      {
+        "index": 14,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "This class at its roots is easy. There are no exams and your grade is based mainly around a semester-long group video project. The topics are interesting and Dr. Rosile is very passionate about his field. However, the class is not organized well and is heavy in &quot;busy work&quot;.",
+        "course": "PUBHLTH3310"
+      },
+      {
+        "index": 15,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Dr. Rosile is scrambled most of the time and the entire class is busy work and one meaningless group project. It is extremely easy, just follow the rubric and turn in assignments. Each week there is a reflection, homework, learning activity, and group project stuff due. It's not a lot I swear, it's super easy no exams. Turn stuff in and participate",
+        "course": "PUBHEHS3310"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 3.8,
     "avgRating": 1.8,
     "department": "Public Health",
@@ -528,124 +1882,6 @@
         "difficulty": 3,
         "comment": "Dr. Jones online class is a mess. Dates and assignments are frequently wrong/ unpublished. She also does not post what is due for the week's module until Monday, which means that you can never plan ahead for this class (due dates are on the Sunday of that week). Takes forever to grade and provides very little feedback. ",
         "course": "3610"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.8,
-    "avgRating": 3.3,
-    "department": "Public Health",
-    "firstName": "Paul",
-    "id": "VGVhY2hlci0yNzA2NTk4",
-    "lastName": "Rosile",
-    "legacyId": 2706598,
-    "numRatings": 15,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Rosile was an amazing professor. Even though attendance was mandatory he made you want to come to class because he was really engaging with the students and made everything we were learning applicable to our everyday lives.",
-        "course": "PUBHEHS3310"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Nice guy and an understanding professor but his lecture style is so boring. He often drones on instead of teaching material in a meaningful way. The class is set up in an unnecessarily complicated way and there's a lot of work/ assignments. Probably don't take this class as a GE. ",
-        "course": "PUBEHS3310"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Professor Paul Rosile was an amazing professor. He cared a lot for his students. If you explain your situation he is very understanding professor, matter of fact he will help you out if you need additional help. Yes this class  has a lot of work some are hard and some are easy but if you don't understand the assignment he will help you. ",
-        "course": "PUBEHS3310"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "Dr. Rosile clearly cares about his students and the course material, but assignments are extremely repetitive and do not facilitate learning. Directions are always very long, complicated, and confusing. The course is focused on evaluating research rather than learning more directly about climate change's impact on human health.",
-        "course": "PUBHEHS4325"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "I love Dr. Rosile, but do not take PUBHEHS4325, as the course is more about random scientific articles and research than it is about climate change and human health.",
-        "course": "PUBHEHS4325"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Honestly do not take a class with this professor. There is a lot of homework and he does not know how to teach the material. You will have to learn everything outside of the designated lecture period because he drones on about the same thing for weeks. The flipped classroom style is a mess and he grades as if he is teaching us the material.",
-        "course": "PUBHEHS3310"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Easy except for the final group project. It was ok but not the best. Classes were 80% lecture and 20% prof trying to get people to participate. He is very nice and very knowledgeable. Flipped classroom style didn't really work because he would just go over it all again during class. Got over 100% in the class because he offers extra credit ",
-        "course": "PUBHEHS3310"
-      },
-      {
-        "index": 8,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Dr. Rosile is very passionate about what he teaches and some of the material is very interesting, but the lectures are so painful to get through. He's trying a flipped classroom style but doesn't have enough information to fill out the time slot, so he just drones on for most of the time. Overall, he's a very nice person and the class is easy.",
-        "course": "PUBHEHS3310"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Very kind professor that is very passionate about his work. Not only that, but he is very communicative and is always accepting of feedback.",
-        "course": "PUBEHS3310"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This class takes effort. Attendance is important and its a lot of work. But, Dr. Rosile puts in the effort to make the class interesting. He is passionate about the subject and cares that his students are experiencing this passion too. He encouraged my interests and helped me explore EHS careers. put in the effort and you'll be fine",
-        "course": "PUBHEHS3310"
-      },
-      {
-        "index": 11,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "After experiencing both Covid and depression and receiving a doctors note for both of these issues, Dr.Rosile would not unlock the current modules so that I could catch up and stay current in the course. Instead he forced me to continue doing them in order, even though each module is unrelated to the others. Doesn't seem to care about the students.",
-        "course": "PUBEHS3310"
-      },
-      {
-        "index": 12,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "This was a course more about finding scientific resources and interpreting at scientific information than it was about climate change and human health (the title of the course). It felt fairly disorganized, with difficult to interpret instructions for homework and a heavy load of busy work.",
-        "course": "PUBHEHS4327"
-      },
-      {
-        "index": 13,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "This class is easy and there are no exams or quizzes. You basically work on a semester long project with your group every week. There are homework assignments and journals. The assignments are very easy they both took me no longer than an hour at best. Everyone ends up with an A. I ended with a 99% A.",
-        "course": "PUBEHS3310"
-      },
-      {
-        "index": 14,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "This class at its roots is easy. There are no exams and your grade is based mainly around a semester-long group video project. The topics are interesting and Dr. Rosile is very passionate about his field. However, the class is not organized well and is heavy in &quot;busy work&quot;.",
-        "course": "PUBHLTH3310"
-      },
-      {
-        "index": 15,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "Dr. Rosile is scrambled most of the time and the entire class is busy work and one meaningless group project. It is extremely easy, just follow the rubric and turn in assignments. Each week there is a reflection, homework, learning activity, and group project stuff due. It's not a lot I swear, it's super easy no exams. Turn stuff in and participate",
-        "course": "PUBHEHS3310"
       }
     ],
     "SEI": []
@@ -797,548 +2033,292 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.7,
-    "avgRating": 1.9,
-    "department": "Public Health",
-    "firstName": "Marika",
-    "id": "VGVhY2hlci0yNzI4NzI5",
-    "lastName": "Paul",
-    "legacyId": 2728729,
-    "numRatings": 10,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "She was really passionate about the material and you could tell. Some of the assignments were harshly graded and the exams were pretty tough. I liked her as a professor but the grades given back to me did not reflect the work I put in.",
-        "course": "PUBHHMP3610"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Dr. Paul is a very good professor and her class is pretty easy and not much work! She does her best to make a boring topic fun. Final project is a bit overwhelming but she is always willing to look it over early on and she is good about responding to questions in her email. ",
-        "course": "PUBHHMP3610"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Drones on and on during lectures, I could not go 5 minutes without getting distracted by something like the color of the ceiling or how many blackboards there were (4). Reads off the slides for the entire time I don't think she knows how to use Canvas.",
-        "course": "PUBHHMP3610"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "This class is absolutely awful. I was very excited to learn this stuff and in theory this class should be interesting  but it's not. I think she's obsessed with assigning things to students even if there is no merit to it. Truly not sure how she managed to make such a great topic so awful and daunting.",
-        "course": "PUBHHMP3610"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Dr. Paul is not a good professor. The content is interesting but not enjoyable since you have to remember every single detail or you will fail. She also is a horrible responder to emails. The class does not let you show how much you know or have learned, it feels as though she is constantly trying to find ways to dock your grade. ",
-        "course": "PUBHHMP3610"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Before this semester I looked Dr. Paul up and became very scared due to the reviews. However she made many adjustments to the course this semester to improve the class. The final project seems daunting and time consuming, however I feel like it was very valuable to my future career in public health. Overall she is a great professor. ",
-        "course": "PUBHHMP3610"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Tis class had so many components to it. Dr. Paul made assignments harder than they needed to be and she graded just as harder or even harder. We had a huge group project and our honestly did really well but she graded us harshly and a lot of people's grades drop at the end. The public health classes are easy but this one was hard for no reason.",
-        "course": "PUBHHMP3610"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Test questions were based off of arbitrary facts briefly mentioned within lectures. This class was made so much harder than it needed to be. Major grade-changing projects were required to be completed in groups (even with the pandemic). Not accommodating.",
-        "course": "PUBHHMP3610"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Do not take this class with Dr. Paul. The material of the class is not difficult, however, she makes quizzes/exams much more difficult than they need to be. Her lectures are dry and you must be paying attention 100% of the time to get the needed material for quizzes/exams otherwise you will not find it in the textbook/anywhere else.",
-        "course": "PUBHHMP3610"
-      },
-      {
-        "index": 10,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "She is the worst professor I have ever had. She makes the content of this class way harder than it has to be. She gives no slack on grading. Very limited instructions and does not allow room for error even when she is at fault. Grades extremely hard, even discussion posts. Your best effort still will not be enough.",
-        "course": "PUBHHMP3610"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 3,
-    "department": "Public Health",
-    "firstName": "Courtney",
-    "id": "VGVhY2hlci0yNzk0ODQ2",
-    "lastName": "Lynch",
-    "legacyId": 2794846,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This class was so interesting and fun. Dr. Lynch made sure that all assignments and readings were meaningful, no busy work or unnecessary assignments. Enjoyed the lectures a lot as well, and the guest speakers we had.",
-        "course": "PUBHEPI6440"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "The class was not difficult, but boring. She does grade hard on one of the assignments, this will determine your grade. Literally reads off lecture slides to teach. condescending during email communication. Poses vague writing prompts, then grades hard when you misinterpret. I feel I was treated poorly by her. Dr. Klebanoff(coteacher) is better.",
-        "course": "PUBHEPI6440"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.7,
-    "avgRating": 4,
-    "department": "Public Health",
-    "firstName": "Julianna",
-    "id": "VGVhY2hlci0yMjM5MzQ4",
-    "lastName": "Nemeth",
-    "legacyId": 2239348,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr. Nemeth is fantastically qualified to teach this course and has an extensive network that makes this class feel so applicable to the real world. The material is very challenging, both academically and emotionally, but she does an incredible job translating it to practice with you. There is a LOT of reading, but most of it is very much needed.",
-        "course": "PUBHHBP6520"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "This class is very easy - follow the detailed directions on the homework and you'll do fine, and the tests aren't weighted heavily. I felt like I could have gotten a lot more out of this class, but the material was broad, and the professor was sometimes condescending. Overall, its easy.",
-        "course": "PUBHHBP3510"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "She is really nice and is a good lecturer. There are weekly assignments and she gives great directions and sources to help you complete the assignment. Midterm and Final aren't weighted heavily which is nice for people who are good test takers.",
-        "course": "PUBHHBP3510"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Public Health",
-    "firstName": "JaNelle",
-    "id": "VGVhY2hlci0yOTkxMTUz",
-    "lastName": "Ricks",
-    "legacyId": 2991153,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Ricks has so much expertise to share and does so very well. She is one of the few professors I've found who gives you concise reading assignments that never feel like busy work. The semester long project was challenging, but extremely manageable and really teaches you a lot. She's an excellent professor!",
-        "course": "PUBHHBP7564"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.5,
-    "avgRating": 1,
-    "department": "Public Health",
-    "firstName": "Shawnita",
-    "id": "VGVhY2hlci0yOTQwNDgx",
-    "lastName": "Sealy-Jefferson",
-    "legacyId": 2940481,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Good luck ",
-        "course": "4410"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "This professor was completely unwilling to hear out my concerns about this class. She said nothing could be done to help my success in the class. Does not care about her students and is very performative with little substance. ",
-        "course": "4410"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 2.5,
-    "department": "Public Health",
-    "firstName": "Shibani",
-    "id": "VGVhY2hlci0yOTE4MzE3",
-    "lastName": "Chettri",
-    "legacyId": 2918317,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Professor Chettri is a great professor, There was a ton of work, but imo it offset other assignments. Weekly quizzes open-note, one 3ish page creative paper, one research paper, discussion boards, and some small web-interactive assignments. I read the other review on her and yes it is a lot of work but I did it taking more than a full course load.",
-        "course": "PUBHTLH2010"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "This professor was unorganized and unresponsive. She assigned more material than most 5 hour graduate classes (this is a 3 hour undergrad), but made many contradictory statements between assignment descriptions and rubrics and took over a WEEK to respond to questions. Clearly used recycled material that she was completely unfamiliar with.The worst.",
-        "course": "PUBHTLH2010"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 4,
-    "department": "Public Health",
-    "firstName": "Megan",
-    "id": "VGVhY2hlci0yNDUzODIw",
-    "lastName": "Roberts",
-    "legacyId": 2453820,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Easy grader and clearest grading criteria of all time. Lecture heavy but with application practice every day. Lots of group work but not bad. Definitely would take her class again. She was extremely helpful when I had a conflict with the final exam. I took it for my major, but I know it counts for a GE and I would definitely recommend it. ",
-        "course": "PUBHHBP3510"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Exams are slightly hard but not ridiculous. She's a decent professor and topics are actually interesting.",
-        "course": "PUBHHBP3510"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "The class was a positive experience, but could get dry sometimes. She read pretty much directly off the slides, but attendance was a must because we would have surprise in-class assignments which counted as an attendance grade. Grading criteria for her assignments could have been a bit clearer, but she was friendly and responsive to emails.",
-        "course": "PH3510"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
+    "avgDifficulty": 4.3,
     "avgRating": 2.3,
     "department": "Public Health",
-    "firstName": "Kaleb",
-    "id": "VGVhY2hlci0yODgzMTIz",
-    "lastName": "Masterson",
-    "legacyId": 2883123,
-    "numRatings": 3,
+    "firstName": "Russell",
+    "id": "VGVhY2hlci0xODYzNDMy",
+    "lastName": "Savage",
+    "legacyId": 1863432,
+    "numRatings": 4,
     "Ratings": [
       {
         "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Kaleb was a great professor. Do not start assignments last minute. \nThe class in my opinion was easy and interesting.\nHe offers extra credit here and there. \nYou have one week to complete assignments, and he was always there to answer questions over email. \nHe gave great feedback. No tests. Small quizzes each week. One large project, and a paper.",
-        "course": "PUBHLTH2010"
-      },
-      {
-        "index": 2,
         "rating": 1,
         "difficulty": 5,
-        "comment": "Terrible.",
-        "course": "139987"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "DO NOT take this class unless you are ready to put more work into this online class than your major courses, as most people were taking this class for a GE Credit. Halfway through the semester, the head of the course had to cut down the work because it was too much. She told me that they had already cut down the course before that... don't take:)",
-        "course": "139987"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.1,
-    "avgRating": 3.9,
-    "department": "Public Health",
-    "firstName": "James",
-    "id": "VGVhY2hlci0yNDc4MTU1",
-    "lastName": "Odei",
-    "legacyId": 2478155,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Odei is an *excellent* professor that truly cares about his students and his profession. He consistently makes himself available, whether it be via email or via office hours. I had quite a few issues, personal and academic and he helped me through him. My advice is to start early, ask questions, and reach out to him! ",
-        "course": "PUBHBIO2210"
+        "comment": "I will avoid taking a class with this prof again. Not only is he not qualified for this class, he is incredibly frustrating to work with. Never got back one of our exams, he will skip lectures to go to seminars and then tell you that the class is strictly \"big picture\". Be prepared to know obscure specifics. ",
+        "course": "PUBHEHS6310"
       },
       {
         "index": 2,
         "rating": 3,
         "difficulty": 4,
-        "comment": "A quiz per week on a video lecture online, then an activity and lab per week. Super organized. Doesn't really teach in person but somehow I learned a lot. Group project and individual paper are big parts of grade. Exams are not bad if you look at the study guides. I had 0 experience coding before this class and now I feel like I have a strong base",
-        "course": "PUBHBIO2210"
+        "comment": "Worst class I've taken at OSU. Dr. Savage started the semester by saying that he wasn't qualified to teach this class. As such, there are many guest lecturers. Tests are full of very detailed questions instead of applying concepts to real-world situations. This is essentially a self-taught class. ",
+        "course": "PUBHEHS6310"
       },
       {
         "index": 3,
-        "rating": 1,
+        "rating": 3,
         "difficulty": 4,
-        "comment": "Probably the worst professor I've had at OSU. He does not seem to care about his students. Grading unclear at times. Does not respond to emails within an expected timeframe. Belittles in office hours. The actual course material was not too bad, but he makes it hard somehow. Take someone else if you can, your grade and mental health will be better.",
-        "course": "PUBHBIO2210"
+        "comment": "Lecture three days a week with a ton of information in each day's ppt, and many guest lecturers. The class is usually empty because he puts slides online. But exams are difficult, even if you study because it is detailed. Good luck with this one.",
+        "course": "PUBHEHS3310"
       },
       {
         "index": 4,
-        "rating": 5,
+        "rating": 3,
         "difficulty": 4,
-        "comment": "Amazing professor!!! I absolutely loved taking his course. For me, it was challenging, but he is there encouraging you to find the answer for yourself. It also helps that he has a great sense of humor and I really appreciate him and what he has taught me. He is a professor who cares for his students and is very welcoming.",
-        "course": "6270"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I am currently taking Dr. Odei for 2210 (online and asynch). I am amazed at what a caring professor he is, he is super quick at replying to emails and addressing concerns with the group project. He is extremely nice during office hours and his course is a lot of work but I LOVE him- not enough good things to say about him. ",
-        "course": "PUBHBIO2210"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Professor Odei is a really cool dude if you talk to him outside of class, the assignments aren't hard once you realize they all build on each other and are repetitive. Midterms and finals are open book.",
-        "course": "PUBHBIO3310"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Grading criteria unclear at times. Somewhat belittling in office hours; prepare to get talked over. Lecture due every Monday, usually 1-2 group project activities a week, and a lab due every Thursday. He's knowledgable though and will try to help you understand the concepts. The 2 exams aren't that difficult, open notes and online.",
-        "course": "PUBHBIO2210"
+        "comment": "He has many guest lecturers. Class is really dry but helpful. The book isn't important. Exams are pretty difficult (C averages) with tricky, random information rather than big concepts. The short DQ papers are easy.",
+        "course": "PUBHEHS3310"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 2.7,
-    "avgRating": 3.7,
-    "department": "Public Health",
-    "firstName": "Amy",
-    "id": "VGVhY2hlci0yMTg5NDU0",
-    "lastName": "Ferketich",
-    "legacyId": 2189454,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I literally switched my major to public health after this class. I would say that the time in class is not productive, and most of the homework out of class takes some time to do (1 page writing and 1 easy quiz a week for the most part), but the content is very interesting. We read novels relating to public health. Loved this class and professor",
-        "course": "PUBHLTH2010"
-      },
-      {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Not difficult but not particularly interesting. Seems generally nice but came off as very condescending in emails and one-ones. ",
-        "course": "PUBHLTH2010"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "A nice enough professor, but not very engaging and often comes across as condescending ",
-        "course": "PUBHLTH2010"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Class consisted of asynchronously watching a lecture and videos each week and then 1 page reflections about what you watch. In person meetings were a lot of cool guest lecturers and discussions about topics. Not very much work, no tests. 1 group research paper and 1 \"final\" project that is really easy",
-        "course": "PUBHLTH2010"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I took case studies in epidemiology my freshman year and loved having Dr. Ferketich. Even though the class was 3 hours long and in the evenings, I always looked forward to it. She gave group projects, but they were interesting and actually helped us learn the material. She also brought snacks every week.",
-        "course": "PUBHEPI3410H"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "I heard amazing things about this class, but with the way it is set up I was super disappointed. A different TA teaches each module and each quiz is written completely differently making them hard to study for. Her rubrics and syllabus are extremely vague on projects as well, and asking for clarity from her or the TAs was not helpful at all.",
-        "course": "PUBHLTH2010"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "The best class I've taken at Ohio State so far. Small class, about 15 people and totally focused on case studies. For older students, great way to apply what you've learned in other classes. For freshmen, great opportunity to learn from her and students that have been in the program",
-        "course": "PUBHEPI3410H"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 4.3,
-    "department": "Public Health",
-    "firstName": "Brent",
-    "id": "VGVhY2hlci0yNzUxMzEw",
-    "lastName": "Emerson",
-    "legacyId": 2751310,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Brent definitely cares about his students. Any time I have attended office hours, he has gone above and beyond to explain the material in a way I understand, never made me feel dumb about asking a basic question, and took the time to really make sure that all my concerns with the assignment and class were addressed. Easily one of the best TAs here.",
-        "course": "PUBHHBP3510"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "He does not really seem likes he cares about teaching the material. He is only there for the paycheck. He just reads through the slides and that is it. Would be better if he showed more passion for the material. \n\nHe also kept the course online even after saying he would move it in person.",
-        "course": "PUBHHBP3510"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Brent was my TA for this course and was by far (BY FAR) the greatest TA I have had in my four years of college. Any time I had a question or wanted to review before exams, he was happy to schedule a meeting and answer anything with great explanations. If you put in a good amount of effort on the homework, an A is easily achievable. Brent is 10/10!",
-        "course": "PUBHHBP3510"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.7,
+    "avgDifficulty": 2.6,
     "avgRating": 4.8,
     "department": "Public Health",
-    "firstName": "Paul",
-    "id": "VGVhY2hlci0yMzAwNjc1",
-    "lastName": "Reiter",
-    "legacyId": 2300675,
-    "numRatings": 6,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Reiter is one of the BEST professors and faculty at OSU! He is very professional, caring, and willing to help students pass his course(s). His teaching style and compassion for students makes attending OSU worthwhile. He certainly had a positive impact on my graduate school experience. I highly recommend him! Dr. Reiter rocks!",
-        "course": "PUBHHBP7520"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Reiter has a ton of cool experience he brings to the course. I think for some the material could be dry, but he made it so interesting. I found his lectures so useful, interesting, clear, and concises that I sent them to my former health research coworkers. This was the most useful course of my MPH so far, & his expertise is critical to that.",
-        "course": "PUBHHBP7520"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Dr. Reiter was great. This class was my second time having him and while he is a little monotoned, his lectures show that he a professional in his field. I learned a lot from him, and I will say that is very receptive to any and all feedback whether it be content from lectures or how the class is structured!",
-        "course": "PUBHHBP7520"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Good guy, wants you to learn in fun ways. Doesnt just push tests or massive papers.",
-        "course": "PUBHLTH3410H"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "this class was super interesting and I really enjoyed it! Easy A if you do the work!!! I would say I spent an average of 30 min per week on this class and got an A. The actual class sessions are super easy and lowkey. Paul is very kind and understanding and knowledgeable in his field. Guest lectures are usually very good as well. Class can be long",
-        "course": "3140H"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Reiter makes this class so much fun! If you don't have an interest in PubH, don't take it. There's a paper every week, 3 short answer questions every other week, and one 3-hour presentation (not as bad as it sounds). If you do the work and put in effort, you'll get the A. But it's a lot of work",
-        "course": "PUBHLTH3410H"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.4,
-    "avgRating": 4.2,
-    "department": "Public Health",
-    "firstName": "Rebecca",
-    "id": "VGVhY2hlci0yNDA4NjUz",
-    "lastName": "Andridge",
-    "legacyId": 2408653,
+    "firstName": "Taleed",
+    "id": "VGVhY2hlci0yMTU4NTM4",
+    "lastName": "El-Sabawi",
+    "legacyId": 2158538,
     "numRatings": 5,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 3,
-        "comment": "My favorite professor to learn from in 6 years at OSU. The lectures are so clear, so well thought out. The organization of the courses is fantastic. It does involve a good amount of work, but I never felt it was a waste of time or busy work. She makes me regret not choosing epidemiology or biostats as my focus for grad school.",
-        "course": "PUBHLTH6001"
+        "comment": "I loved her class! She gives great insight into the way things really world, especially since she has experience outside of a classroom. Although you have to go to class, most students don't really pay attention and do other work during it. All exams were open book and taken at home online, but still somewhat difficult because of the material.",
+        "course": "PUBHHMP4650"
       },
       {
         "index": 2,
         "rating": 5,
-        "difficulty": 3,
-        "comment": "My favorite professor to learn from in 6 years at Ohio State (undergrad + grad school). Her lectures are so clear, her organization is unbeatable, and I genuinely came away from this class feeling confident in everything she taught me. Makes me regret not doing epidemiology. There is a lot of work with the course, but nothing you don't learn from.",
-        "course": "PUBHLTH6001"
+        "difficulty": 2,
+        "comment": "One of the best teachers I have taken at OSU over the summer course. Pretty straight forward, and concrete teaching style. Nice class discussions, with weekly assignments as long as you stay on top of it you'll do just fine.",
+        "course": "PUBHHMP4650"
       },
       {
         "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "My experience with Dr.Andridge was very positive. I really appreciate how she teaches (you do a weekly lab and quizzes and assignments ) so you get plenty of practice before exams. She will also take time to explain concepts and make sure that you understand it by the end of her explanation. I would highly recommend taking any course with her. ",
-        "course": "PUBHLTH6001"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. El-Sabawi is an extremely intelligent professor, especially pertaining to health policy, law, and addiction. She's able to be quite flexible on dates and questions, and is very understanding. The tests and quizzes are pretty easy, and based out of the book. The only conflict is the lectures are long and fairly irrelevant to any of the grades.",
+        "course": "PUBHHMP4650"
       },
       {
         "index": 4,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Dr. Andridge is a very difficult professor to work with and does not respect her students. When difficult situations arise in the classroom she's been shown to handle them extremely unfairly and without respect and careful consideration. If you're looking for fair treatment and respect from your professor I would not recommend Dr. Andridge.",
-        "course": "PUBHLTH6001"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "AMAZING PROFESSOR! She rearranged and adjusted the curriculum of the class to make it focus more on factors such as socioeconomic factors that affect healthcare and health policies. If you want to know more about health policies, I suggest this class. Easy to get an A and to learn so much, and she's a great human being all in all!",
+        "course": "PUBHHMP4650"
       },
       {
         "index": 5,
         "rating": 5,
-        "difficulty": 4,
-        "comment": "She is a great professor; gives extremely good feedback. If you work for it, you can easily get an A",
-        "course": "PUBHLTH6001"
+        "difficulty": 3,
+        "comment": "Taleed is awesome! She is a lawyer getting her PhD in Public Heath Policy and does addiction research. Knowledgeable and understanding. Midterm paper (3-5 pages) + 5 min presentation  and final paper (up to 10 pages). Weekly assignments based on reading and participation points. Good rubrics and comments on assignments. Wants you to succeed !",
+        "course": "PUBHHMP4650"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.1,
+    "avgRating": 5,
+    "department": "Public Health",
+    "firstName": "Amy",
+    "id": "VGVhY2hlci0xODYzNDMw",
+    "lastName": "Acton",
+    "legacyId": 1863430,
+    "numRatings": 27,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is AMAZING! She makes everyone want to go out and change the world.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Acton is an inspiration to anyone who takes her class, she is incredibly brilliant and really cares that you're passionate. She always has a smile, and cares about your interests. It's one of the easiest classes I've taken, and if you show up you'll pass.",
+        "course": "PUB2010"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Life-changing class. Easily the best class I have taken in college, Dr. Acton is amazing and will inspire you to find what you're passionate about.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Ms. Acton is a heart warming teacher that is very inspirational. The class is not difficult at all. I would recommend as a GE. Barely any test or quizzes. No exams. Just group project, a  2 quizzes on 2 reading that aren't that bad, and a small 4 minute TED talk you have to do in front of the class on a topic related to public health.",
+        "course": "PUBH2010"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I would absolutely recommend this class to anyone and everyone! She is so amazing and welcoming and really makes you feel comfortable coming to class! I always looked forward to coming to class, as it has been my most enjoyable and stress-free course. Very inspirational professor, and one of the sweetest people!",
+        "course": "PUBHEALTH2010"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "so wonderful, would recommend to anyone, a true asset to the college",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Amy Acton's global public health class I took my first semester of freshmen year is by far the best class I've taken at OSU. Her passion for public health, personal teaching style and inspirational life story makes it easy to be engaged in the class. You don't have to read the books to get an A but you should! Just go to class and you'll be fine.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Acton is incredibly smart and inspiring.  Her class is truly interesting and thought provoking and she does everything she can do get to know each and every one of her students, which was very refreshing.  There is minimal work, only a couple projects.  I would recommend any one from any major to take this class.",
+        "course": "PUBH2010"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Acton is one of the most amazing professors and women I have ever met. Her lectures are inspirational and interesting, and there was virtually no homework. Would absolutely take again.",
+        "course": "PUB2010"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Acton is an incredible professor. The class was so interesting and she really inspires her students to be better people. There aren't exams in this class really, it's more project based and the projects are also really awesome because she leaves the topics super open so you can pick something that interests you. LOVED this class.",
+        "course": "PUBH2010"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Acton is such a genuine, good hearted person. She really loves her job and works to get to know each of her students. I loved this class because of her! ",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Dr. Acton is an amazing professor. Her class inspires me to be a better person and care about others every day. This was the best class I could have chosen to take my first semester of my Freshman year because it will lay the foundation for the rest of my college career. I definitely recommend taking Dr. Acton's Public Health class. ",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is such an inspiration. Her stories are extremely motivating and she uses her class for us to have a break between our harder classes. She always has a smiling face, no matter what and I always left her class feeling happier. Such a kind-hearted person and learned a lot more than just public health from taking her class. ",
+        "course": "2210"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Open discussion class and will sometimes call on people at random to hear their opinions. He truly loves his job and being with students. He is very funny and brings up interesting topics. Test are easy. Would recommend looking over the reading material, it is on the exams. ",
+        "course": "2210"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The best professor I have ever had! Always in a good mood and smiling. She is so passionate about her job and is such an inspiration. Gets to know all of her students even in big lecture classes. Great person inside and out! Take her class even if you are not a public health major!",
+        "course": "2010"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Inspirational",
+        "course": "PUB2010"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Acton is probably the best public health professor I have ever had. She is awesome, funny, and willing to meet you outside of class to discuss things about life in general and about the class.  She says that its hard not to pass the class so you should have no problem at all with this class. ",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She's an absolute sweetheart. Very passionate and willing to help. She makes it very apparent that she genuinely wants to learn about her students. Highly, highly, HIGHLY recommend. ",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I love Dr. Acton, she is a fantastic woman with so much enthusiasm and care for students. Definitely, definitely, definitely take her!!!",
+        "course": "PUBHEALTH2010"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Oh Dr. Acton. I can honestly say she is my first real teacher crush. I want her to teach every one of my classes. She cares so much for her students and their success. She really tried hard to guid them into their career \"callings\". There is a real sense of community within the class. I wish she was my mother, or aunt or something! 3 for ever",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I loved Dr. Acton! Best professor I have came across at OSU. I sincerely wish she could teach me every class. She is very pleasant and concerned for her students. You can tell she cares about her students and them actually learning. OSU needs to find more professors like her! ",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Absolutely loved this class! One of my favorites at Ohio State. Dr. Acton is so nice, and very helpful. I highly recommend taking this course!",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 23,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Acton is the best professor I have yet at Ohio State. She genuinely cares about her students and is really passionate about what she does. She's extremely willing to meet with you too! She's awesome",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 24,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great teacher and great class! Changed my outlook on public health and life in general.",
+        "course": "PUBH2010"
+      },
+      {
+        "index": 25,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Extremely enthusiastic and understanding professor. She empowers students to explore topics and gives tons of encouragement. You need to take her class.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 26,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Best professor I have ever had. So inspiring and genuinely interested in her students, and helping them find their own passions. Go to office hours! It is so amazing having such a successful professor who is still concerned about meeting and talking individually. Left the class inspired and in a great mood every time.",
+        "course": "PUBHLTH2010"
+      },
+      {
+        "index": 27,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Fantastic professor. Very engaged in the class and full of knowledge. She takes great interest in her students, go to her office hours!",
+        "course": "PUBHLTH2010"
       }
     ],
     "SEI": []
@@ -1347,215 +2327,167 @@
     "avgDifficulty": 4,
     "avgRating": 5,
     "department": "Public Health",
-    "firstName": "Gia",
-    "id": "VGVhY2hlci0yODc3Mjkw",
-    "lastName": "Barboza-Salerno",
-    "legacyId": 2877290,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "I loved this class with Gia. They are so enthusiastic and have so much experience to share. There is a good amount of reading that I struggled to keep up with but it rarely impacted my ability to participate. Participating in their class is so thought-provoking and you can really get a lot out of it. Gia will challenge you, and it rocks!",
-        "course": "PUBHHBP7542"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Gia is one of those professors I will never forget. Not only are they well educated in the topic they are lecturing on, but it is very apparent that they are passionate about it as well. Their lectures are very fast paced, but that just further illustrates that they love what they do. I would take them again in a heart beat!",
-        "course": "PUBHHBP7542"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Public Health",
-    "firstName": "Sara",
-    "id": "VGVhY2hlci0yNzI1ODA0",
-    "lastName": "Anderson",
-    "legacyId": 2725804,
+    "firstName": "Alison",
+    "id": "VGVhY2hlci0xODExNjcy",
+    "lastName": "Norris",
+    "legacyId": 1811672,
     "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 3,
-        "comment": "She gives every opportunity to do well in this class and to communicate with her as an instructor. Highly recommend!",
-        "course": "PUBHEPI6410"
+        "difficulty": 4,
+        "comment": "This professor was absolutely amazing. If you are interested in Public Health, or in taking a class with a respectful, driven, caring, and enthusiastic professor, then take this course. I took this course right before USMLE step 1 as a medical student and it was still worth every second.  Amazing course, and really amazing professor.",
+        "course": "PUBHLTH7000"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 3.5,
-    "avgRating": 3.5,
+    "avgDifficulty": 4,
+    "avgRating": 2.2,
     "department": "Public Health",
-    "firstName": "Maria",
-    "id": "VGVhY2hlci0yMzI5Nzk1",
-    "lastName": "Gallo",
-    "legacyId": 2329795,
-    "numRatings": 2,
+    "firstName": "Naomi ",
+    "id": "VGVhY2hlci0yMDcwNTg1",
+    "lastName": " Adaniya",
+    "legacyId": 2070585,
+    "numRatings": 3,
     "Ratings": [
       {
         "index": 1,
         "rating": 2,
-        "difficulty": 3,
-        "comment": "Dr. Gallo is not patient or inviting when it comes to students questions. She responds in quite a defensive and irritated manner. She is also very contradictory. She says she is not trying to trick you and writes her tests/assignments in a very technical way. ",
-        "course": "6431"
+        "difficulty": 4,
+        "comment": "She obviously knows what she is talking about in regards to the class. However, students did not know that much, and she was not super clear in what was expected. Multiple times I got points taken off for things I would have done if I would have been told to do so. Also, attendance \"wasn't mandatory\", but she did random attendance checks.",
+        "course": "PUBHHMP4650"
       },
       {
         "index": 2,
-        "rating": 5,
+        "rating": 2,
         "difficulty": 4,
-        "comment": "She is a tough grader, but she intends well. She wants to make sure you’re prepared and that you know your material. The book for the class is arduous, but her lectures really help concepts come to life and the homeworks help make those concepts more concrete. I would highly recommend her!",
-        "course": "6431"
+        "comment": "She's clear as mud when it comes to everything--almost as if she is writing her dissertation on academic vagueness. Lectures are not mandatory but she throws in all sorts of attendance checks and participation activities, so you better attend. I was excited for the group project but I was stuck doing all of the work and it really dragged on.",
+        "course": "PUBHHMP4650"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Very unreasonable and harsh with grading group work. She would basically laugh us off when we went to her for help/clarification. She's absolutely brilliant and dedicated to her studies  but I don't think she understood that her students aren't at the same level of knowledge as she is. She's moving to DC so luckily you probably won't have her. ",
+        "course": "PUBHHMP4650"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 3,
-    "avgRating": 4,
+    "avgDifficulty": 5,
+    "avgRating": 5,
     "department": "Public Health",
-    "firstName": "Amanda",
-    "id": "VGVhY2hlci0yNzU2MjM1",
-    "lastName": "Luff",
-    "legacyId": 2756235,
+    "firstName": "Mickey",
+    "id": "VGVhY2hlci0yMjE0NTEw",
+    "lastName": "Marotti",
+    "legacyId": 2214510,
     "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Class was asynchronous so she offered office hours 4 times a week. Her lecture videos were extremely long and very dry content. There were 2 big assignments that made up a large portion of the final grade: a creative endeavor and a research paper. No exams just weekly quizzes. Overall good GE class!",
-        "course": "PUBHLTH2010"
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "If you don't go to class, DAWN PATROL BIG FELLA. He is very similar to professor Urban Meyer. He is loud and energetic and will work you until you are puking!",
+        "course": "KNSFHP1196"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 4.2,
-    "avgRating": 3.3,
+    "avgDifficulty": 1,
+    "avgRating": 3,
     "department": "Public Health",
-    "firstName": "Stanley",
-    "id": "VGVhY2hlci05NjQ2NzA=",
-    "lastName": "Lemeshow",
-    "legacyId": 964670,
-    "numRatings": 6,
+    "firstName": "Kate",
+    "id": "VGVhY2hlci0yMjEwMDkz",
+    "lastName": "King",
+    "legacyId": 2210093,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
         "rating": 3,
-        "difficulty": 5,
-        "comment": "Lemeshow is a good guy, super smart. Hes not a great teacher. He expects everyone to be a statistician and teaches over our heads often. The class isnt unfair, but he just reads from his notes and spits out statistical jargon. He sometime tells fun stories though that help.",
-        "course": "PUBHBIO7220"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Goes very quickly but explains things well and gives partial credit on tests.",
-        "course": "PUBHBIO6210"
-      },
-      {
-        "index": 3,
-        "rating": 5,
         "difficulty": 1,
-        "comment": "Boss dog was AWESOME. Dr. Lemeshow is a seasoned statistician with amazing stories from his past experiences.",
-        "course": "PUBHBIO7220"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Dr.Lemeshow feels annoyed when asked to clarify. He is a a great scientist but his teaching is not clear. He is very fast and does not explain everything needed.",
-        "course": "PUBHBIO7220"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "Very difficult- I flew through 701 but almost didnt pass this course. Notes seem fairly straightforward but tests can seem overwhelming. Be sure to understand the notes instead of just memorizing or you'll be out of luck on the exams. Failed a large portion of the class.",
-        "course": "BIO702"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Lemeshow is more brilliant than I will ever be. I sucked in the class. However, he is not as good an instructor as  Drs. Burr and Shen. Both of them left OSU, under Lemeshow as the Dean. Didn't suck up to him enough, perhaps&#63; He should be in a purely research role; not an administrator, not a teaching faculty member.",
-        "course": "BIOS999"
+        "comment": "This was an online course, but she gave discussion posts and a handful of projects. Doesn't seem to be very organized. Had two sources for assignment deadlines with conflicting info. Gave me 100% on something that was a week late, even after she stated it would be accepted at a reduced grade. Not complaining, but it doesn't make her look good.",
+        "course": "ESWDE5635"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 3.5,
-    "avgRating": 5,
+    "avgDifficulty": 2,
+    "avgRating": 2.5,
     "department": "Public Health",
-    "firstName": "William",
-    "id": "VGVhY2hlci0yNjE4OTg0",
-    "lastName": "Miller",
-    "legacyId": 2618984,
+    "firstName": "Randi",
+    "id": "VGVhY2hlci0xNjk5MjUy",
+    "lastName": "Foraker",
+    "legacyId": 1699252,
     "numRatings": 2,
     "Ratings": [
       {
         "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr. Miller is the best. Very intelligent, yet a great teacher as well. Learned a lot from him",
-        "course": "PUBHEPI5411"
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Overall good professor. The class is very easy. There are no big tests or papers; it's more project-based.",
+        "course": "PUBHLTH2010"
       },
       {
         "index": 2,
-        "rating": 5,
+        "rating": 1,
         "difficulty": 3,
-        "comment": "Bill is both a great guy and a great professor. He is a certified genius in his field but doesn't come off as a know it all. He cares a lot about both the course content and his students and wants you to do well while actually learning. The outbreak investigation is a good amount of work, but that hard and actually pretty fun overall.",
-        "course": "PUBHEPI5411"
+        "comment": "this teacher does many strange things to minimize her work hours and to make her job lighter and easier.",
+        "course": "SPH"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 3.5,
-    "avgRating": 2.1,
+    "avgDifficulty": 3.6,
+    "avgRating": 1.2,
     "department": "Public Health",
-    "firstName": "Judith",
-    "id": "VGVhY2hlci0yMDQ0NTE2",
-    "lastName": "Schwartzbaum",
-    "legacyId": 2044516,
-    "numRatings": 4,
+    "firstName": "Mira",
+    "id": "VGVhY2hlci05OTc2NDM=",
+    "lastName": "Katz",
+    "legacyId": 997643,
+    "numRatings": 5,
     "Ratings": [
       {
         "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "There were only 3 graded assignments, but no tests. She did a great job recruiting experts to talk about epidemiology, climate, and other subjects as well as lecturing on diverse topics herself. She trusts the expertise of her students and discussions often involved the undergrad backgrounds of classmates. The only drawback is disorganization",
-        "course": "PUBHLTH6000"
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Good luck. I have never had a worse professor. She is smart, but definitely not a effective teacher.",
+        "course": "PUBHEALTH"
       },
       {
         "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I would not recommend this class to ANYONE. This prof does not interact with the class at all and relies heavily on her TA's which is fine, but she is the one writing the exams. So, most of the material on the exams was not covered by the TA making this class unnecessarily difficult. Avoid this professor if possible!",
-        "course": "PUBHEPI2410"
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Condescending.Always acts like she is 'out to get you'. She is smart, I'll give you that. But its gone to her head a bit. Being smart doesn't matter if you can't communicate effectively with your students.",
+        "course": "PUBHHBP7562"
       },
       {
         "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Avoid this professor if you can. She was not interested in helping or interacting with the class at all. Calculations appeared on the exam that were never covered during classes or in the textbook. Good luck if you have to suffer through this class for your degree.",
-        "course": "PUBHEPI2410"
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "good luck w this one",
+        "course": "PHHB000"
       },
       {
         "index": 4,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "She re-used other instructors material without first familiarizing herself with material and when other instructor material wasn't available she used YouTube videos. I was pretty underwhelmed especially considering this should have been graduate level. Because of her reliance on others the homework wasn't always based on lecture materials.",
-        "course": "PUBHEPI6410"
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "She is definitely a bully.  I have never had an instructor who treated students as terribly as she does.  Individuals quit the program specifically because of her.",
+        "course": "PHHBHP"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "If she decides she doesn't like you, watch out; it will be her mission to make your life miserable.  If she really does not like you, her criticism and discrimination will continue after you have completed her course because she will make sure to tell everyone in the department how terrible she thinks you are. She is a bully.",
+        "course": "PUBHLHBHP"
       }
     ],
     "SEI": []

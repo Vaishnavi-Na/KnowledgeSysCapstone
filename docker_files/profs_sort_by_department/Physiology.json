@@ -1,208 +1,197 @@
 [
   {
-    "avgDifficulty": 4.4,
-    "avgRating": 2.9,
+    "avgDifficulty": 2,
+    "avgRating": 5,
     "department": "Physiology",
-    "firstName": "Cynthia",
-    "lastName": "Bronson",
-    "legacyId": 2022261,
-    "numRatings": 158,
+    "firstName": "Harpreet",
+    "id": "VGVhY2hlci0yNjkwMDc4",
+    "lastName": "Singh",
+    "legacyId": 2690078,
+    "numRatings": 2,
     "Ratings": [
       {
-        "index": 0,
-        "rating": "4.0",
-        "comment": "Tbh I had to take this class twice since I got a C the first time. That class was extremely difficult, but I learned more in Dr. Bronson's class than I have anywhere else. The quizzes are really tough, but she gives so much extra credit that if you get an 18/30 for all of them you'll still get an A. I know she gets a bad rep, but I respect her."
-      },
-      {
         "index": 1,
-        "rating": null,
-        "comment": "Don't take"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very cool professor with lots of interesting stories as examples.",
+        "course": "PHYSIO3200"
       },
       {
         "index": 2,
-        "rating": null,
-        "comment": "DO NOT TAKE THIS CLASS. Dr. Bronson is the worst professor I've ever had in my life. Tests EVERY week and questions are made to trick you. I would rather run 5 marathons than take this class ever again. You can put in hours and hours of studying for the weekly tests and still fail."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Singh was a great physiology professor. He structured the class well and ensured that as many students succeeded as possible. Lectures were often shorter than the class time as well. Minimal homework and fair exam questions.",
+        "course": "PHYSIO3200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Physiology",
+    "firstName": "Ran",
+    "id": "VGVhY2hlci0yNjc3MDg4",
+    "lastName": "Zhou",
+    "legacyId": 2677088,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The easiest class I've ever taken. Online unproctored exams are open all weekend so you can take them at your leisure. There are hardly any assignments, and no quizzes, so just do the work and you'll definitely pass. Filling out the guided notes will help, as well as making flashcards, and showing up to lectures.",
+        "course": "PSYCH1100"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 3.7,
+    "department": "Physiology",
+    "firstName": "Leslie",
+    "id": "VGVhY2hlci0yMzQ3MjU3",
+    "lastName": "Rudy",
+    "legacyId": 2347257,
+    "numRatings": 10,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "The BEST professor I've had. So engaging, so clear, really kind and encourages participation. Class notes were posted for extra credit, so attendance wasn't mandatory, but was really helpful. ",
+        "course": "PSYCH3551"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I love Dr. Rudy. She's my favorite professor at OSU. Attend classes, read the textbook, and you'll do great!",
+        "course": "PSYCH3550"
       },
       {
         "index": 3,
-        "rating": null,
-        "comment": "Do not take her under ANY circumstances. I literally pray on my way to her class (AT SIX IN THE MORNING) that an act of god strikes me down so that I don't have to attend."
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Rudy is an awesome lecturer. Her lecture slides have everything you need to know for the exams, so if you don't read the textbook there is still a lot of chance to get a good grade. There are a lot of extra credit opportunities and she makes class fun. I am taking PSYCH 3551 with her next semester and I would recommend you do the same!",
+        "course": "PSYCH3331"
       },
       {
         "index": 4,
-        "rating": "5.0",
-        "comment": "Dr. B is the best professor I have had here at tOSU. You will never learn more in a course than you do with her. The exams can be challenging but there is so much room for growth and extra credit. The information you learn will stick with you and you are given all the tools tou need and more. Highly recommend you take this course!!"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "The course is informative and she is really easy to approach. The online course is easy to interact with and I have learned a lot. When I was faced with a family issue she was helpful and caring, but also made it easy to stay up to date. I love this course and would recommend it to everyone. Definitely need to be self-sufficient and study though!",
+        "course": "PSYCH3340"
       },
       {
         "index": 5,
-        "rating": null,
-        "comment": "genuinely such an unempathetic human being. I would rather take the MCAT 10 times over than take her class again. exams are impossible and she has no respect for her TAs"
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Dr. Rudy is an unfair grader if you have a medical emergency. She has the authority to give you the chance to earn full credit, but she won't. I missed a midterm due to an anaphylactic reaction, and she let me take it at half credit. Even if I got a 100% I would have failed. She's albeist and quite frankly rude. Lots of busywork in the course.",
+        "course": "PSYCH3331"
       },
       {
         "index": 6,
-        "rating": null,
-        "comment": "Do \"not\" take this class unless you absolutely have to.  If you take it, I guarantee it will be the most stressful experience of your life.  You will know the material inside and out, and still struggle with the way she words her questions.  It is sadistic.  Dr. B has business teaching this class for so long at OSU."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Lots of presentations and projects, but no exams! She's an amazing lecturer and you can tell she really wants to help us. Attendance is definitely a must though or you won't do well. She's a pretty generous grader and is generally very understanding. Worth noting: she handled the COVID-19 situation amazingly and was very clear &amp; open about changes.",
+        "course": "PSYCH3331H"
       },
       {
         "index": 7,
-        "rating": "4.0",
-        "comment": "Dr. Bronson's class was very hard, lots of studying and while lectures are not mandatory, they are needed to pass the class. No homework just weekly quizzes (half of which are dropped) and a midterm and final exam. Her class can be hard to follow at times so WRITE DOWN EVERYTHING! Go to the party room if you are confused and find a study buddy."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Shes definitely one of the best lecturers Ive ever had. She makes you really want to engage with the material and it is insanely easy to get an A. Youll hate her if youre the type to not show up to class since its mostly designed around participation and in-class work. Ive taken other courses she teaches and I very strong recommend them too.",
+        "course": "PSYCH3551"
       },
       {
         "index": 8,
-        "rating": "4.0",
-        "comment": "Dr. B has a bad rep on rate my professor. Her class isn't easy, but if you put in the work to understand the concepts you will do fine. The mid terms and finals re-use questions from the weekly quizzes so you know what will be coming. Go to the party room, pay attention to the references she makes, there's a lot of extra credit hidden there."
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Rudy is the best professor I have come across. Her lectures are heavy and she doesn't post lecture slides or study guides for the exams. She gives extra credit opportunities if you have an idea for one. She also has some pop quizzes now and then which are quite easy, frankly but be ready to attend all the lectures. I personally love her.",
+        "course": "PSYCH3331"
       },
       {
         "index": 9,
-        "rating": "4.0",
-        "comment": "Despite the stories I had heard before class, Cynthia Bronson was very kind. If I could go back in time I would tell myself... Read the syllabus for extra credit on the first exam, pass the first 8 exams with good grades or do every other week, study the exams after completing them, and look through conversations through Carmen to get extra credit"
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "took psych 2367.02 and she made it entirely too difficult. tough grader on all papers. participation AND attendance affect your grade, so skipping class hurts you twice. not worth it for a second year english class. the final is with other sections. she didnt prepare well for it.",
+        "course": "PSYCH2367"
       },
       {
         "index": 10,
-        "rating": null,
-        "comment": "She made everything difficult. Doesn't post the slides, 6:50 am Wednesday lectures, and the wording on exams will trip you over. Gladly, the extra credits secured my A for this class, the less evil thing about this class."
-      },
-      {
-        "index": 11,
-        "rating": null,
-        "comment": "I will die and be reborn again before retaking this class. She does not post lecture slides online, so if you have to miss class, best of luck getting notes from other people in class. Our were grades locked the entire semester, so if you want to know your grade, it had be calculated by hand. The exams were very hard and meant to trick you. 0/5!"
-      },
-      {
-        "index": 12,
-        "rating": "5.0",
-        "comment": "The exams are hard and worded to trick  you, but you get to drop half of them. She is amazing at explaining the content and is obviously very prepared for each lecture. If you miss class try to get a recording from someone, or at least go to the party room to make up the notes. There is SO much extra credit."
-      },
-      {
-        "index": 13,
-        "rating": "5.0",
-        "comment": "She offers generous extra credit on each weekly exam and an enormous amount on the final. The weekly exams are tricky, but this class provides the tools needed to succeed. There is a tutor (party) room and weekly review session with TAs open to questions. If you put the work in, then there's no reason you can't do well."
-      },
-      {
-        "index": 14,
-        "rating": null,
-        "comment": "If you take this class, PLEASE BE AWARE, you should absolutely prioritize the midterm and final, because they are worth half of the entire course points. Do decently well on the weekly exams, but do NOT underestimate the midterm and final. Also, go to the party room, they will have answer keys for the weekly exams that your midterm/final are over."
-      },
-      {
-        "index": 15,
-        "rating": "4.0",
-        "comment": "Seeing these reviews made me very nervous about taking this class. Seeing the professor on the first day of class was very intimidating and she is very serious about her class. This class is hard and is meant to weed kids out but overall this class made me a very productive and efficient person. The 6:50 am class time will force you to be mature."
-      },
-      {
-        "index": 16,
-        "rating": null,
-        "comment": "Attendance isn't mandatory but you need to go to lectures to do okay in the class. Lecture slides are very vague so listen to what she's actually saying not just the board. I realized that the weekly exams mean nothing because the midterm and final were half of the total points for the class. You can only get out what you put into this class."
-      },
-      {
-        "index": 17,
-        "rating": null,
-        "comment": "Tons of extra credit = the only reason you can do well in this class. Tricky questions on quizzes/exams that are meant to mix you up. Does not post slides so you have to go to lecture. Study a lot! Overall a caring professor and willing to help. Take notes on random things mentioned during lecture (they will most likely be extra credit questions)."
-      },
-      {
-        "index": 18,
-        "rating": "4.0",
-        "comment": "Bronson's class is challenging, but manageable with dedication. Attend lectures, take detailed notes, and utilize resources like unstuck ai and review sessions to succeed. The workload is heavy, but the extra credit opportunities make it worthwhile."
-      },
-      {
-        "index": 19,
-        "rating": null,
-        "comment": "why did she have to make sure the only class available was at 8 then 6:45 am on wednesday. With about 10 ‘phys fabs' to help you, and when you message the professor she didn't help with note during having covid. asked for me to consolidate with my peers, but they also didn't send me notes. so what am i ment to do to pass this class without the help"
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Lots of papers, super picky grader. Midterm was too hard for a GE. Didn't seem to be too happy when lots of questions asked",
+        "course": "PSYCH2307"
       }
-    ]
+    ],
+    "SEI": []
   },
   {
-    "avgDifficulty": 3.8,
-    "avgRating": 4.5,
+    "avgDifficulty": 2,
+    "avgRating": 4,
     "department": "Physiology",
-    "firstName": "Mark",
-    "id": "VGVhY2hlci0xOTI3OTI3",
-    "lastName": "Ziolo",
-    "legacyId": 1927927,
-    "numRatings": 12,
+    "firstName": "Jidong",
+    "id": "VGVhY2hlci0yNjkwMDgw",
+    "lastName": "Fu",
+    "legacyId": 2690080,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. Fu was a great lecturer. He covered what would be on the exam well, and had questions throughout to ensure each student understood his points. He wanted his students to understand what was important, but also expanded on his teachings to better students who want to go into the medical field.",
+        "course": "PHYSIO3200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3,
+    "department": "Physiology",
+    "firstName": "Megan",
+    "id": "VGVhY2hlci0yNDczMjI5",
+    "lastName": "Ackermann",
+    "legacyId": 2473229,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
         "rating": 3,
         "difficulty": 3,
-        "comment": "I don't know how many more lectures I can sit through listening to this man whose sense of humor is just making fun of his ex-wife.",
+        "comment": "Dr. Ackermann is extremely accessible and is the course director for Physio 3200. The material she lectures over is pretty boring but if you go to class she gives you feedback on what is important for exams.",
+        "course": "PHYSIO3200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 2.5,
+    "department": "Physiology",
+    "firstName": "Loren",
+    "id": "VGVhY2hlci0yNDczMjMz",
+    "lastName": "Wold",
+    "legacyId": 2473233,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Arrogant, egotistical, and a total lack of real world knowledge. The total cliche of a college professor lives in Dr. Wold. Do not take a course by this guy.",
         "course": "PHYSIO3200"
       },
       {
         "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "So funny! I actually enjoyed his lectures because of his jokes. Best professor of the course!",
-        "course": "PHYSIO3200"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "very attention-grabbing, funny, does not read directly off slides. seriously knows what he's talking about and can tell he's passionate ",
-        "course": "PHYSIO3200"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "AMAZING DUDE! SO funny and the best physio professor by far this semester :) WE LOVE YOU ",
-        "course": "3200"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I had Dr. Ziolo for physio 3200 and now I have him for physio 3203, the lab. I absolutely love him. He is super chill and really has a light hearted attitude. You have one assignment outside of class and everything else is done in class. Labs don't take the whole time and it Is really interesting. Wish I could have him for more classes.",
-        "course": "PHYSIO3200"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr. Ziolo is by far my favorite professor in the course series. He explains course content really well and is clear about what material will be covered on the exam. His jokes and delivery make the class more enjoyable.",
-        "course": "PHYSIO3200"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "This guy is the best professor so far in phys 3200. He's the only one that clearly explains the material, and was real with you when you asked if you needed to know certain topics or details. He was very funny and his lectures were fun. I hate this class, but I genuinely loved this prof.",
-        "course": "PHYSIO3200"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Approachable and funny. Homework can be done in a day. Gives extra credit so be sure to show up to class. Of course the class is taught by several professors, but as long as you study consistently you will be fine.",
-        "course": "PHYSIO3200"
-      },
-      {
-        "index": 9,
         "rating": 4,
         "difficulty": 3,
-        "comment": "Different professors for the entire course is disorienting because by the time I figured out their teaching style, there was a new one. Overall the course had good information and with studying (10-15 hours per exam) I scored over 100% in the class. If you put in the work, you can get an A.  Ziolo wasn't always there for office hours though. ",
+        "comment": "Dr. Wold is one of my favorite lecturers for Physio 3200. His material is kind of complicated but he is friendly, approachable and makes lecture more interesting. Go to class because he will tell you what's important to know for the exam!",
         "course": "PHYSIO3200"
-      },
-      {
-        "index": 10,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "9 different professors, all of them are boring, every lecture is a power point that has over 30 slides (so you have to study sometimes over 300 slides for an exam), doesn't give extra credit cause he says that class is too big which makes no sense,only 5 exams for the class, don't take this class,Why give a new prof almost every week?",
-        "course": "3200"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "I LOVE THIS GUY!!!",
-        "course": "ENG3U1"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "This class has 9 different professors for one semester. Dr. Ziolo is the best, by far. He only teaches the cardiovascular system for a total of 10 lectures, but he makes lecture interesting and teaches you exactly what you need to know. The material and tests are tough,  but fair (which can't always be said for the rest of the class).",
-        "course": "3200"
       }
     ],
     "SEI": []
@@ -1369,6 +1358,103 @@
     "SEI": []
   },
   {
+    "avgDifficulty": 3.8,
+    "avgRating": 4.5,
+    "department": "Physiology",
+    "firstName": "Mark",
+    "id": "VGVhY2hlci0xOTI3OTI3",
+    "lastName": "Ziolo",
+    "legacyId": 1927927,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "I don't know how many more lectures I can sit through listening to this man whose sense of humor is just making fun of his ex-wife.",
+        "course": "PHYSIO3200"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "So funny! I actually enjoyed his lectures because of his jokes. Best professor of the course!",
+        "course": "PHYSIO3200"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "very attention-grabbing, funny, does not read directly off slides. seriously knows what he's talking about and can tell he's passionate ",
+        "course": "PHYSIO3200"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "AMAZING DUDE! SO funny and the best physio professor by far this semester :) WE LOVE YOU ",
+        "course": "3200"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I had Dr. Ziolo for physio 3200 and now I have him for physio 3203, the lab. I absolutely love him. He is super chill and really has a light hearted attitude. You have one assignment outside of class and everything else is done in class. Labs don't take the whole time and it Is really interesting. Wish I could have him for more classes.",
+        "course": "PHYSIO3200"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Ziolo is by far my favorite professor in the course series. He explains course content really well and is clear about what material will be covered on the exam. His jokes and delivery make the class more enjoyable.",
+        "course": "PHYSIO3200"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This guy is the best professor so far in phys 3200. He's the only one that clearly explains the material, and was real with you when you asked if you needed to know certain topics or details. He was very funny and his lectures were fun. I hate this class, but I genuinely loved this prof.",
+        "course": "PHYSIO3200"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Approachable and funny. Homework can be done in a day. Gives extra credit so be sure to show up to class. Of course the class is taught by several professors, but as long as you study consistently you will be fine.",
+        "course": "PHYSIO3200"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Different professors for the entire course is disorienting because by the time I figured out their teaching style, there was a new one. Overall the course had good information and with studying (10-15 hours per exam) I scored over 100% in the class. If you put in the work, you can get an A.  Ziolo wasn't always there for office hours though. ",
+        "course": "PHYSIO3200"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "9 different professors, all of them are boring, every lecture is a power point that has over 30 slides (so you have to study sometimes over 300 slides for an exam), doesn't give extra credit cause he says that class is too big which makes no sense,only 5 exams for the class, don't take this class,Why give a new prof almost every week?",
+        "course": "3200"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I LOVE THIS GUY!!!",
+        "course": "ENG3U1"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This class has 9 different professors for one semester. Dr. Ziolo is the best, by far. He only teaches the cardiovascular system for a total of 10 lectures, but he makes lecture interesting and teaches you exactly what you need to know. The material and tests are tough,  but fair (which can't always be said for the rest of the class).",
+        "course": "3200"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 2,
     "avgRating": 4.6,
     "department": "Physiology",
@@ -1459,178 +1545,75 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 2.5,
-    "avgRating": 2.5,
-    "department": "Physiology",
-    "firstName": "Loren",
-    "id": "VGVhY2hlci0yNDczMjMz",
-    "lastName": "Wold",
-    "legacyId": 2473233,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "Arrogant, egotistical, and a total lack of real world knowledge. The total cliche of a college professor lives in Dr. Wold. Do not take a course by this guy.",
-        "course": "PHYSIO3200"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Dr. Wold is one of my favorite lecturers for Physio 3200. His material is kind of complicated but he is friendly, approachable and makes lecture more interesting. Go to class because he will tell you what's important to know for the exam!",
-        "course": "PHYSIO3200"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
+    "avgDifficulty": 3,
     "avgRating": 5,
     "department": "Physiology",
-    "firstName": "Harpreet",
-    "id": "VGVhY2hlci0yNjkwMDc4",
-    "lastName": "Singh",
-    "legacyId": 2690078,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Very cool professor with lots of interesting stories as examples.",
-        "course": "PHYSIO3200"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Singh was a great physiology professor. He structured the class well and ensured that as many students succeeded as possible. Lectures were often shorter than the class time as well. Minimal homework and fair exam questions.",
-        "course": "PHYSIO3200"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.8,
-    "avgRating": 3.7,
-    "department": "Physiology",
-    "firstName": "Leslie",
-    "id": "VGVhY2hlci0yMzQ3MjU3",
-    "lastName": "Rudy",
-    "legacyId": 2347257,
-    "numRatings": 10,
+    "firstName": "Anasuya",
+    "id": "VGVhY2hlci0yMzEzMTkw",
+    "lastName": "Sarkar",
+    "legacyId": 2313190,
+    "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 3,
-        "comment": "The BEST professor I've had. So engaging, so clear, really kind and encourages participation. Class notes were posted for extra credit, so attendance wasn't mandatory, but was really helpful. ",
-        "course": "PSYCH3551"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I love Dr. Rudy. She's my favorite professor at OSU. Attend classes, read the textbook, and you'll do great!",
-        "course": "PSYCH3550"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Rudy is an awesome lecturer. Her lecture slides have everything you need to know for the exams, so if you don't read the textbook there is still a lot of chance to get a good grade. There are a lot of extra credit opportunities and she makes class fun. I am taking PSYCH 3551 with her next semester and I would recommend you do the same!",
-        "course": "PSYCH3331"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "The course is informative and she is really easy to approach. The online course is easy to interact with and I have learned a lot. When I was faced with a family issue she was helpful and caring, but also made it easy to stay up to date. I love this course and would recommend it to everyone. Definitely need to be self-sufficient and study though!",
-        "course": "PSYCH3340"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Dr. Rudy is an unfair grader if you have a medical emergency. She has the authority to give you the chance to earn full credit, but she won't. I missed a midterm due to an anaphylactic reaction, and she let me take it at half credit. Even if I got a 100% I would have failed. She's albeist and quite frankly rude. Lots of busywork in the course.",
-        "course": "PSYCH3331"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Lots of presentations and projects, but no exams! She's an amazing lecturer and you can tell she really wants to help us. Attendance is definitely a must though or you won't do well. She's a pretty generous grader and is generally very understanding. Worth noting: she handled the COVID-19 situation amazingly and was very clear &amp; open about changes.",
-        "course": "PSYCH3331H"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Shes definitely one of the best lecturers Ive ever had. She makes you really want to engage with the material and it is insanely easy to get an A. Youll hate her if youre the type to not show up to class since its mostly designed around participation and in-class work. Ive taken other courses she teaches and I very strong recommend them too.",
-        "course": "PSYCH3551"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Dr. Rudy is the best professor I have come across. Her lectures are heavy and she doesn't post lecture slides or study guides for the exams. She gives extra credit opportunities if you have an idea for one. She also has some pop quizzes now and then which are quite easy, frankly but be ready to attend all the lectures. I personally love her.",
-        "course": "PSYCH3331"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "took psych 2367.02 and she made it entirely too difficult. tough grader on all papers. participation AND attendance affect your grade, so skipping class hurts you twice. not worth it for a second year english class. the final is with other sections. she didnt prepare well for it.",
-        "course": "PSYCH2367"
-      },
-      {
-        "index": 10,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Lots of papers, super picky grader. Midterm was too hard for a GE. Didn't seem to be too happy when lots of questions asked",
-        "course": "PSYCH2307"
+        "comment": "Dr. Sarkar is the course director for this class. She comes off at first as a tough cookie, but she genuinely cares about students success and is willing to help you develop the study skills needed to do well in the course. She is looking out for your best interest, and if you seek her out, you will not regret it. Wonderful lady!",
+        "course": "PHYSIO3200"
       }
     ],
     "SEI": []
   },
   {
     "avgDifficulty": 1,
-    "avgRating": 5,
+    "avgRating": 4.8,
     "department": "Physiology",
-    "firstName": "Ran",
-    "id": "VGVhY2hlci0yNjc3MDg4",
-    "lastName": "Zhou",
-    "legacyId": 2677088,
-    "numRatings": 1,
+    "firstName": "Lyn",
+    "id": "VGVhY2hlci0xNjI2NTU5",
+    "lastName": "Jakeman",
+    "legacyId": 1626559,
+    "numRatings": 2,
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
         "difficulty": 1,
-        "comment": "The easiest class I've ever taken. Online unproctored exams are open all weekend so you can take them at your leisure. There are hardly any assignments, and no quizzes, so just do the work and you'll definitely pass. Filling out the guided notes will help, as well as making flashcards, and showing up to lectures.",
-        "course": "PSYCH1100"
+        "comment": "Great Prof. Has very comprehensive and understandable  slides. The notes provided are so good class is not really necessary. I usually went but had to miss a good stretch for med school interviews. I highly recommend her and this class series over the EEOB physiology",
+        "course": "PHYSIO3101"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Dr. Jakeman is an enthusiastic professor who is willing to help.  She teaches very straightforward and you just have to fill out fill in the blank notes.  The midterm exam was fair and the information in the class isn't too difficult.",
+        "course": "PHYS311"
       }
     ],
     "SEI": []
   },
   {
-    "avgDifficulty": 2,
-    "avgRating": 4,
+    "avgDifficulty": 2.5,
+    "avgRating": 5,
     "department": "Physiology",
-    "firstName": "Jidong",
-    "id": "VGVhY2hlci0yNjkwMDgw",
-    "lastName": "Fu",
-    "legacyId": 2690080,
-    "numRatings": 1,
+    "firstName": "Laura",
+    "id": "VGVhY2hlci0yMTkwNjQ1",
+    "lastName": "Wallace",
+    "legacyId": 2190645,
+    "numRatings": 2,
     "Ratings": [
       {
         "index": 1,
-        "rating": 4,
+        "rating": 5,
         "difficulty": 2,
-        "comment": "Dr. Fu was a great lecturer. He covered what would be on the exam well, and had questions throughout to ensure each student understood his points. He wanted his students to understand what was important, but also expanded on his teachings to better students who want to go into the medical field.",
-        "course": "PHYSIO3200"
+        "comment": "She's the best teacher I've had since middle school. She reviews a ton and actually cares about you and your grade. Three exams, easy if you study. A couple projects, automatic A if you do them on time and correctly. She's a cutie and I hope I get her for another class.",
+        "course": "PSYCH3325"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "One of the best professor I ever had.  The course material and her way of teaching is very pedagogic, and her genuine interest in social psychology easily rubs off. I highly recommend taking any of her classes.",
+        "course": "PSYCH3325"
       }
     ],
     "SEI": []

@@ -1,5 +1,32 @@
 [
   {
+    "avgDifficulty": 4,
+    "avgRating": 5,
+    "department": "Speech  Hearing Sciences",
+    "firstName": "Eric",
+    "id": "VGVhY2hlci0yMTQwNzE3",
+    "lastName": "Healy",
+    "legacyId": 2140717,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He made complicated subject matter straightforward and interesting. Engaging lectures and truly invested in his students' success.",
+        "course": "SPHHRNG7825"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "So his class is pretty straightforward. Three tests worth 20% each and the final is worth 40%. That sounds scary, but if you go to class and go over the PowerPoint slides very well, you'll do fine. There was a chance to earn up to two percentage points of extra credit. His tests are mostly multiple choice, with some labeling.",
+        "course": "SPHHRNG4440"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 4.3,
     "avgRating": 3.8,
     "department": "Speech  Hearing Sciences",
@@ -391,6 +418,60 @@
         "difficulty": 2,
         "comment": "Pretty interesting class and nice professor. She is very clear with her notes and explanations. Going to class isn't mandatory but really helpful, because she adds a lot of information to her PowerPoints during class. Study the review sheets for exams.",
         "course": "SHS3330"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4.8,
+    "department": "Speech  Hearing Sciences",
+    "firstName": "Amy",
+    "id": "VGVhY2hlci0yMTI3NDkx",
+    "lastName": "Pratt",
+    "legacyId": 2127491,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Amy was probably one of the easiest professors I have every had. Her test reviews are EXACTLY like her tests. Attendance isn't necessary but you should definitely try to go the class before you have an exam.",
+        "course": "SPHHRNG2230"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Amy is the sweetest professor I've had. She actually wants the students in her class to do well and get A's on the Exams. 75% of your grade are exams and 25% is a project but if you go to class, get notes, study, and put in effort you'll get an A. Many guest speakers come in which is an amazing experience.",
+        "course": "INTROCOMDIS2230"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 5,
+    "department": "Speech  Hearing Sciences",
+    "firstName": "Brittney",
+    "id": "VGVhY2hlci0yMjQ3NDcw",
+    "lastName": "Carter",
+    "legacyId": 2247470,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Brittney is an absolutely amazing lecturer and teacher. She is extremely knowledgable on the subject and communicates material efficiently and clearly. She is straightforward in her lectures and in her feedback. She is always prepared and organized. You need to go to class in order to do well, but she makes interesting.",
+        "course": "SHS4440"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I cannot give Brittney enough praise, she's fantastic. The material in this course can be difficult but it is extremely apparent that she wants to do whatever she can to help the class learn it, she takes lots of questions and won't move on until we understand. The tests are fair and straightforward. You NEED to go to lecture and you will do well.",
+        "course": "SHS4440"
       }
     ],
     "SEI": []

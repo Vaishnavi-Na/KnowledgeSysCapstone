@@ -1,114 +1,106 @@
 [
   {
-    "avgDifficulty": 2.6,
-    "avgRating": 4.4,
+    "avgDifficulty": 1.7,
+    "avgRating": 2.7,
     "department": "Latin",
-    "firstName": "William",
-    "lastName": "Little",
-    "legacyId": 1940243,
-    "numRatings": 25,
+    "firstName": "Gemma",
+    "id": "VGVhY2hlci0yNTg4MTA2",
+    "lastName": "Storti",
+    "legacyId": 2588106,
+    "numRatings": 3,
     "Ratings": [
       {
-        "index": 0,
-        "rating": null,
-        "comment": "Professor Little is very knowledgeable and kind, though his lectures can be quite long and dense. The homework for the class is typical for an honors course, and the exams are relatively easy since he gives you a lot of information ahead of time."
-      },
-      {
         "index": 1,
-        "rating": "5.0",
-        "comment": "Dr. Little cares about his students gaining knowledge of the course content. His lectures are incredibly engaging, and his knowledge of the subject is always demonstrated throughout. While there is a lot of reading, just dedicate an hour a day and you'll be good. Fantastic professor."
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "good course content, but a bit unprofessional",
+        "course": "LATIN1103"
       },
       {
         "index": 2,
-        "rating": "5.0",
-        "comment": "Lots of long reading and is sometimes hard to digest. Two discussions a week abt reading and 10 question mc quiz abt topics in lecture. His lecture is long but really interesting.  Three exams but no final. Exams are the mc questions from quizzes, short response questions (topics given in study guide), and essay but prompt already given before exam"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Gemma is a wonderful person and an even better lecturer! She really cares about her students, sometimes even to a fault. She is quite easy to get to know outside of class. She is flexible with her students as well which made the class less stressful.",
+        "course": "LATIN1103"
       },
       {
         "index": 3,
-        "rating": null,
-        "comment": "Do not take this class if you're looking for an easy GenEd. Class is extremely difficult if you have any life at all. Homework consists of quizzes that are extremely easy and discussions posts that are graded kinda harsh. Discussions posts are on long readings, some consists of boring reads that are over 80 pages long. Exams are kinda difficult."
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Really not professional with the students... too many red flag boundaries crossed with some students while she taught the class. It made learning really uncomfortable",
+        "course": "LATIN1102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 4.7,
+    "department": "Latin",
+    "firstName": "Joseph",
+    "id": "VGVhY2hlci0xMTA1NTU3",
+    "lastName": "Danielewicz",
+    "legacyId": 1105557,
+    "numRatings": 8,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He's cool",
+        "course": "LATIN101"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "10/10 great teacher. Would love to take his classes again, but I'm not in that field anymore. Definitely passionate about teaching, and someone who will help you if need be!",
+        "course": "LATIN103"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I had this professor all through my Greek language series. He is great at making things clear and you can tell he really loves teaching. He is always willing to help when you are struggling. I would highly recommend!",
+        "course": "GREEK103"
       },
       {
         "index": 4,
-        "rating": "5.0",
-        "comment": "This professor is extremely entertaining and genuinely makes learning enjoyable. The readings are sometimes long and take a while to get through, but most of them are entertaining. No part of this class was not enjoyable, and this professor made me love going to his class."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He's a very clear lecture that emphasizes the themes of the stories very clearly. Lectures not mandatory, but helpful. MAKE SURE YOU KEEP UP WITH THE READINGS! Very overwhelming if you fall behind. Ten 10-question MC tests each week in recitation, one easy paper, easy exams. Just make sure you keep up with the material or you will be doomed.",
+        "course": "CLSCS101"
       },
       {
         "index": 5,
-        "rating": "5.0",
-        "comment": "easy and fun to attend lectures."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Vibrant lecturer that has a passion for the Greek literature. Good at analyzing the themes of the book which appear on the midterm and final. Very approachable, doesn't mind helping students. Class involves a lot of reading and weekly quizzes will test your comprehension of the books. Midterm, paper, and final are manageable if you attend class.",
+        "course": "CLASS101"
       },
       {
         "index": 6,
-        "rating": "5.0",
-        "comment": "Make sure you pay attention in his class because many of the questions on quizzes and exams are from what he's said! Awesome professor with amazing energy each day of class. Never failed to make us students smile!"
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He's a super nice guy and genuinely wants to help you learn the material. There are A LOT of quizzes, and the homework can be overwhelming, but he is a pretty generous grader. Would definately recommend.",
+        "course": "GREEK101"
       },
       {
         "index": 7,
-        "rating": "5.0",
-        "comment": "He is really down to Earth, and willing to work with you on assignments. I wouldn't skip lecture because sometimes the slides are picture heavy. Re read over your notes after class and use the quizzes for review and you should be fine. You can tell Dr.Little is really into his work."
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I've had all through the Latin 10x series and he's done a great job. Very interested in classics and teaching latin and actually made the sequence (did not want to take!) interesting. Quizzes and homework daily, so attendance is pretty important, but the class is pretty easy and he gives extra credit on the exams. Definitely recommend!",
+        "course": "LATIN103"
       },
       {
         "index": 8,
-        "rating": "4.0",
-        "comment": "His lectures are very boring and long. You have weekly quizzes that are taken from the slides and you can take them twice. Exams are just questions from the quizzes. 4-6 response questions every other week that go off the readings, but the readings are often hard to understand and the questions can be very vague a lot of the time."
-      },
-      {
-        "index": 9,
-        "rating": "5.0",
-        "comment": "One of the best profs I've ever had. Turns grades around very fast and does a good job facilitating discussions about the material. I found the subject matter very interesting. Since he switches up the readings every semester, it never felt like he was just rehashing stuff from previous semesters. Entertaining and accessible."
-      },
-      {
-        "index": 10,
-        "rating": "5.0",
-        "comment": "Probably the most kind and caring professor I've ever had. Cares deeply about the material and how you do in his class. Very approachable and material isn't very hard. Would definitely recommend"
-      },
-      {
-        "index": 11,
-        "rating": "4.0",
-        "comment": "All the assignments you will need to read papers on, he usually goes over them though so they're not too difficult to understand. Weekly quizzes are super easy as you get 2 attempts! Kind professor and there is a midterm and one final all based on quiz questions."
-      },
-      {
-        "index": 12,
-        "rating": "5.0",
-        "comment": "Dr. Lil is an amazing professor, it is very  evident that he cares about the material he is teaching. The lecture recordings are available online so if you miss anything I need to go back is always there. The midterm and final take the quiz material directly. Genuinely going to miss having him as a professor :(("
-      },
-      {
-        "index": 13,
-        "rating": "5.0",
-        "comment": "Class was simple and well laid-out. I felt I learnt a lot and also felt like Professor Little genuinely cared. He was funny and empathetic. If I could take all my classes with him, I would."
-      },
-      {
-        "index": 14,
-        "rating": "5.0",
-        "comment": "Dr. Little is very passionate about what he teaches and it shows! His lectures are very interesting and engaging, just make sure to go to them as he explains the material you need to know for the written response questions. Assignments are easy if you go to lecture, just make sure to participate at least once per week. Definitely would take again!"
-      },
-      {
-        "index": 15,
-        "rating": "5.0",
-        "comment": "Very passionate about the subject and made classes fun. Classes are usually laid back and he really focuses on us and what we need, not just an agenda. Awesome professor to communicate with. Just be sure to keep up with the work!"
-      },
-      {
-        "index": 16,
-        "rating": "5.0",
-        "comment": "It was obvious that Prof. Little cared deeply about the topic, and his passion for it makes him much more engaging as a professor. His lectures were interesting, and we were tested mostly on lecture content. There were also written assignments every few weeks that required a lot of reading. While there was a lot of work an reading, I do recommend."
-      },
-      {
-        "index": 17,
-        "rating": "4.0",
-        "comment": "Dr. Little is very passionate about his subject matter and it shows in his lectures. The quizzes and tests are easy if you paid attention in class, and the response questions require a lot of reading but its manageable and he answers any questions you have. If Ancient Greece is something youre interested in learning about I cant recommend enough"
-      },
-      {
-        "index": 18,
-        "rating": "5.0",
-        "comment": "Professor Little has been an excellent professor throughout the semester. When I ask for help, he always makes time to respond without having to wait days on end without a response. Really nice professor to chat with as well. There is a lot of work and reading, but it is incredibly manageable."
-      },
-      {
-        "index": 19,
-        "rating": "5.0",
-        "comment": "Fantastic lecturer, the best I've had at OSU. Clear, engaging and extremely knowledgeable. Very approachable and takes students suggestions into account. Great choice for Greek civ."
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Class attendance part of grade- quizzes and homework very important- would have gotten an A if went daily, missed some quizzes and didn't. Overall easy class- nice quirky prof.",
+        "course": "LATIN101"
       }
-    ]
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 2.6,
@@ -299,35 +291,546 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 1.7,
-    "avgRating": 2.7,
+    "avgDifficulty": 3,
+    "avgRating": 4,
     "department": "Latin",
-    "firstName": "Gemma",
-    "id": "VGVhY2hlci0yNTg4MTA2",
-    "lastName": "Storti",
-    "legacyId": 2588106,
-    "numRatings": 3,
+    "firstName": "Marion",
+    "id": "VGVhY2hlci0xNDM2MDUx",
+    "lastName": "Kruse",
+    "legacyId": 1436051,
+    "numRatings": 20,
     "Ratings": [
       {
         "index": 1,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "good course content, but a bit unprofessional",
-        "course": "LATIN1103"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Marion was awesome. I took an honors roman civ class with him, and it was honestly the highlight of my day. He made the info so interesting. He takes forever to grade papers and quizzes, but I ended up with like a 98% in the class, so it wasn't a big deal.",
+        "course": "CLAS2202H"
       },
       {
         "index": 2,
         "rating": 5,
-        "difficulty": 1,
-        "comment": "Gemma is a wonderful person and an even better lecturer! She really cares about her students, sometimes even to a fault. She is quite easy to get to know outside of class. She is flexible with her students as well which made the class less stressful.",
-        "course": "LATIN1103"
+        "difficulty": 3,
+        "comment": "Marion is definitely one of the most knowledgeable people I have ever met. You can tell he loves what he is teaching. His lectures are engaging and he can be funny when he wants to be. He takes awhile to grade papers but his grading is fair and never strays from the rubrics. He is too tough of a grader in Latin courses, but not in Classics courses.",
+        "course": "CLAS2202H"
       },
       {
         "index": 3,
-        "rating": 1,
+        "rating": 5,
         "difficulty": 3,
-        "comment": "Really not professional with the students... too many red flag boundaries crossed with some students while she taught the class. It made learning really uncomfortable",
-        "course": "LATIN1102"
+        "comment": "Great teacher. Quizzes everyday to make sure you aren't cramming and are actually learning, but he gives you a review and lets you know EXACTLY what the quiz will entail. The day before test is a review of any material you want, and he will explain it thoroughly for you. He'll also allow you to make up quizzes if you ask. Offers a retake of final.",
+        "course": "LATIN101"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "I found his teaching style impossibly tough to learn from. Going to class every day and participating isn't enough to learn. If possibly, avoid taking Latin with Marion unless you're willing to study most every night--it's the only way you'll do well.",
+        "course": "LATIN1101"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Not the easiest of the Latin teachers, but clearly knows his stuff and is willing to help out each student until they master the material. Would recommend to future students",
+        "course": "LATIN1103"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He acknowledged that we were honors students and took our feedback seriously. He altered the syllabus to our suggestions. We only had a few papers, and the word counts were small, but you still had to support your argument with a lot of evidence. I think his grading was more than fair. He's clearly passionate, super funny and super easy on the eyes",
+        "course": "CLAS2220H"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Dr. Kruse was very enjoyable to work with, his lectures were illuminating and you can tell he is passionate about his subject.  Class consisted of 4 position papers (that were 500 words or so) Myth Analyses (1000 words max) and a Counter Myth  paper. No final but  it was an honors course. Make sure to go to class as  attendance matters!!",
+        "course": "CLAS2220H"
+      },
+      {
+        "index": 8,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "He doesn't know what he's doing. If you want an A take someone else because you literally have to be perfect to get an A. No bonuses, no class schedules, he has trouble with technology, and it's overly difficult for a GE course. Only freshmen would find a hobbit attractive. ",
+        "course": "LATIN101"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Kruse is a great professor who truly wants his students to succeed.  He explains things well and will review whatever you need, even the basic concepts of Latin.  He takes the class at a pace right for you which is great.  Tests are not easy but doable.  Would recommend",
+        "course": "LATIN1103"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Harsh grader. If you're not perfect you'll never get an A. He seems nice and willing to help in class but is somewhat 2 faced when it comes to grading and assignments. Never gives any hints to what might be on the test, expects you to memorize 17 paragraphs, 46 vocab words for a quiz , etc. Very unorganized. ",
+        "course": "LATIN1103"
+      },
+      {
+        "index": 11,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Definitely a funny guy and very willing to help outside of lecture. Makes class interesting at 8 in the morning and is good at getting people talking. Absolutely rough on the grading, but if you put in that extra effort towards your papers you can get pretty close to getting full credit. Good class.",
+        "course": "CLAS2220"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "He is hilarious in a nerdy way. Great personality. He graded the paper so roughly for this class; You need a perfect thesis to get an A, and what you think is perfect may not meet his standards. He is willing to help however. His grading still sucked for papers no matter how hard you tried",
+        "course": "CLAS2220"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I did not read but attended class regularly and received an A. If you pay attention during lecture the class is easy. The papers are tough, but if your thesis is strong and you have some evidence you should receive a B on the papers.",
+        "course": "CLAS110101"
+      },
+      {
+        "index": 14,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Extremely difficult for a GE course. He grades papers and tests way harder than your TA. If you don't do the readings very difficult to get an A. Also a lot of work for a GE course.",
+        "course": "CLASSICS1101"
+      },
+      {
+        "index": 15,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "He graded extremely hard for a GE course. Sometimes it was unclear what he wanted. My TA and him graded completely different so it was very confusing.",
+        "course": "CLAS1101"
+      },
+      {
+        "index": 16,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "If you do not know about the history of the whole world please do not take this class. If your not a genius that can memorize the littlest of details dont take this class. I have never been in a class so poorly taught and ran. They grade like your in grad school trying to get your phd. HORRIBLE!!",
+        "course": "CLASSIC"
+      },
+      {
+        "index": 17,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Although he is good-looking, he grades pretty hard and is sometimes unclear about what he wants for response papers. Graded my paper way harder and was looking for completely different things than my TA. Class was a lot more effort than a GEC should be, and it's  hard to get an A, even with much effort put into it.",
+        "course": "CLAS1101"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Awesome teacher. Willing to help. Nice. Understanding. Fun. Not bad to look at at 8:30 in the morning. Go to class and be willing to learn and you'll do fine.",
+        "course": "GRK101"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He is a great teacher. Made Greek fun super early in the morning. Was more than willing to help with problems and was super understanding about things. He isn't bad morning eye candy either.",
+        "course": "GREEK101"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Marion is just the coolest dude ever.  Waking up at going to Latin at 8:30 in the morning is probably the best thing that's ever happened to me and class is just like a party five days a week.  Only negative is that Marion won't be your friend on facebook.",
+        "course": "LATIN101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.4,
+    "avgRating": 5,
+    "department": "Latin",
+    "firstName": "Chelsea",
+    "id": "VGVhY2hlci0xNTg5MzA2",
+    "lastName": "Bowden",
+    "legacyId": 1589306,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Absolutely fantastic teacher, it's clear that she loves both teaching, as well as the subject material. Also she has some great stories",
+        "course": "CLSX210"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Chelsea is a great teacher. She's knowledgeable, hilarious, and helpful. She made Latin easy. I've never had a teacher more willing to work with students to help them get A's. She let us retake every quiz if we wanted to, and to resubmit online homework as many times as needed. If you put in work, she'll help you.",
+        "course": "LAT104"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "On of the coolest TA's I have ever had. Actually made classics fun to learn while students with other TA's hate classics 222. Chelsea, keep it up girl!",
+        "course": "CLASSICS"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "My favorite teacher this quarter. Class is pretty simple, and she's hilarious. Makes sure you get a fair chance at a good grade, and is always willing to help if you don't understand. We get to play vocab pictionary, too! Overall, if you're stuck taking Latin, definitely take it with her.",
+        "course": "LATIN103"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Chelsea is a fantastic teacher. She constantly creates new ways to teach the material and will take as much time as you need for her to take to make sure that you learn the material. She deserves 500 gold stars.",
+        "course": "LATIN102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 4,
+    "department": "Latin",
+    "firstName": "Elizabeth",
+    "id": "VGVhY2hlci0yMzM1NDIy",
+    "lastName": "Neely",
+    "legacyId": 2335422,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I had Neely for three straight semesters of Latin. Great at challenging students, and will make sure you know your stuff. If you want to breeze through your language requirement, do not take. Homework every day, constant participation in class. Exams hard but offers chance for partial credit. Occasionally unorganized but overall strong professor.",
+        "course": "LATIN1103"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 3,
+    "department": "Latin",
+    "firstName": "Adam",
+    "id": "VGVhY2hlci0xNTQ3OTg5",
+    "lastName": "Rappold",
+    "legacyId": 1547989,
+    "numRatings": 29,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Yeah...I thought this class would give me an intro to mythology and it did the very opposite. He went into so much detail about things that were not in the book or on the slides. So the exams were tough and you never fully felt like you understood anything. He takes attendance at end of class",
+        "course": "CLASSICS2220"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "As a whole, he's a great teacher. He was very passionate and posts powerpoints online. I never read, but went to class and did well on the quizzes. Sometimes he'll even give extra points if the class doesn't do well. The midterms and exams have a lot of parts but paying attention in class and reviewing vocab will at least give you a B on them.",
+        "course": "CLASSICS2201"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "I liked Adam a lot. Yes, he is very wordy and there is a lot of reading. I thought this class was interesting. Sometimes he makes it more difficult than it needs to be. Pretty lenient, if the whole class complains about something he'll usually change it.",
+        "course": "CLASS2220H"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "This class wasn't as interesting as I thought it would be. He is pretty wordy. TONS of reading, but honestly I read chapter summaries online & they did the trick. Pretty lenient if enough people complain about grades. Exams were pretty straight forward besides the essay that made you read a random myth & interpret it creatively. Graded attendance.",
+        "course": "CLAS2220"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "DO NOT take this class with this man. He is the most confused and awful professor I have had thus far at OSU. I received an  A but this is because the class and  the midterms were curved, and he ended up dropping the lowest midterm.  Attendance is mandatory and hopefully if you plan not taking this course you like to read 200 pages of myth a week",
+        "course": "CLASSICS2220"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "There were readings that needed to be read from the VERY dry textbook by every class. There are attendance quizzes every class. The tests are hard and there are a few questions where he will deliberately try to trick you. He gave a lot of extra credit and dropped the lowest test which helped. If you are looking for an easy GE do not take this class",
+        "course": "CLASS2220"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This class seemed like a lot of work at first, but got a better with time. The midterms are pretty easy if you read over the study guides, and they are curved generously. The papers each had very specific instructions on what to write. I only used the book when writing the papers and looking up answers for the quizzes.",
+        "course": "CLASSICS2220"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Attendance quiz every class, quizzes every week, three papers and four exams in total. Too much for a GE class, which has more than 700 people. Do not take this class if you want to get a A without very hard-working.",
+        "course": "CLAS2220"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Weekly quizzes that are mostly online. Midterms were really easy and required minimal studying. Papers graded by a TA were graded really fairly.",
+        "course": "CLASSICS2200"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Very lenient with assignments and gives pretty big curves on exams. Understanding and wants everyone to do well. Quizzes every week but you get two attempts and can use your notes. 3 papers that are short. Need textbook but dont need to do full reading assigments",
+        "course": "CLASSICS1101"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Adam is by far my favorite professor so far. You need to be attentive in class, but other than that, it isn't difficult. He is passionate about what he teaches and I find that makes the course more interesting. He is amazingly lenient with almost all assignments, usually curving tests, extending essay time, etc.",
+        "course": "CLAS2220"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "The reading is reasonable for a literature class, roughly 100 pages a week. As long as you do the reading and have a decent grasp on analyzing literature it's an easy class.",
+        "course": "CLASSICS2202"
+      },
+      {
+        "index": 13,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Class is very heavy in reading from the book. His lectures go along with the book pretty well but you must attend lecture to pass this class. He gives attendance quizzes almost every class and a quiz at the end of every week. You have 3 papers for the class along with 3 exams. The exams are very specific but he does  curve.",
+        "course": "CLASSICS1101"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "He makes us read about 100 pages per week, which does not seem unfair for a literature course, GE or not. Most of the reading is from the textbook which is pretty easy to understand. The test questions, while specific, are from the book. Papers are the hardest because he makes his expectations so unclear. Just do the reading, you'll be fine.",
+        "course": "CLASSICS1101"
+      },
+      {
+        "index": 15,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Attendance is only mandatory if you don't have a friend to give you the word of the day for the quizzes. Have to write 3 \"creative\" assignments that are really just mini-essays. Knows about the subject, but often puts really specific questions on tests that nobody gets. Expects a bit too much from a class that most people are taking for GE credit.",
+        "course": "CLASSICS2220"
+      },
+      {
+        "index": 16,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "In midterm he gives us a short answer problem with 2 pages of requirements. I think this should be an essay not a short answer. We have to sign attendance. The average of midterm was around 75. He has very strict grading rules on assignments. Avoid his class if you are not in methodology major.",
+        "course": "CLAS2220"
+      },
+      {
+        "index": 17,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "He was very helpful with papers.",
+        "course": "CLAS2220H"
+      },
+      {
+        "index": 18,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "This class requires you to read 3 Ancient Greek texts (not super fun). The tests are passage IDs (pick 2 of 5) and then an essay which you can prepare for ahead of time. Your grade will reflect how much effort you put in, but he can be a harsh grader on papers.",
+        "course": "CLASSICS1101"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very invested in what he teaches. The reading is heavy, but he told us at the beginning that if several students reported having trouble keeping up he would adjust it. Lectures are very detailed. For each of the 3 epics, there is a 2+ page paper, an exam, and a few seminars with very short writing assignments.",
+        "course": "CLASSICS1101"
+      },
+      {
+        "index": 20,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "At first I was worried about taking this class, precisely because of the negative reviews on this site, but the reviews don't align with my experience. Rappold is incredibly insightful, and helpful. The only way this class could be hard is if you don't keep up on the reading, or don't attend. It's exactly what a simple classics class should be.",
+        "course": "CLASSICS1101"
+      },
+      {
+        "index": 21,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Don't take this class. This professor expects graduate level analysis in my opinion. I was trying to take this class as a GE credit, but was very disappointed. His essay prompts are essays themselves and questions on quizzes and midterms are extremely difficult. Don't take this class unless you already know a lot about mythology and/or love reading",
+        "course": "2220H"
+      },
+      {
+        "index": 22,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Very hard grader. Very Hard tests. If you're looking for an easy GE do not take this course. It took up more time than any of the other classes I took this semester.",
+        "course": "CLASSICS1101"
+      },
+      {
+        "index": 23,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "DO NOT TAKE THIS CLASS. Unless you love to read every night and do advanced analysis of historical tests. His tests are the worst. You pretty much have to write a book in 55 minutes. Please trust me and do not take it. This is an ENTRY level class and he expects graduate level responses. Top 5 worst decision of my life taking this class. ",
+        "course": "1101"
+      },
+      {
+        "index": 24,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Way too difficult and intense for an introductory literature course. Half of the people in the class are there just because they need the GE requirement but he thinks that we all want to be literature graduate students. That's not he case Adam. His instructions are always unclear and his midterms consists of writing a book in  under 55 minutes. ",
+        "course": "1101"
+      },
+      {
+        "index": 25,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Do not take this class unless you genuinely love reading and analyzing literature at a graduate level. He has no idea what is actually reasonable for students to do for assignments. He's helpful when you ask but his directions are always very unclear. This class is insanely difficult for being a GE. I promise it's not worth it.",
+        "course": "CLASSICS1101"
+      },
+      {
+        "index": 26,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Truly cares about the class, but the writing assignments and exam essays are ridiculously hard.  He was you read at least 40 pages a night.  It seems like it is much harder than an introductory class should be. ",
+        "course": "1101"
+      },
+      {
+        "index": 27,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "For an entry level classics class this guy expects advanced analysis that should be done in graduate classes of historical books that are very long and boring to read. His lectures are drawn out and sleep worthy. Midterm is ridiculous in amount of analysis needed to get a good grade. Take it easy guy, this is an entry level class.  ",
+        "course": "CLASSICS1101"
+      },
+      {
+        "index": 28,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "His class might as well be a writing class instead of history because that's all you do in there. The assignments are creative and kind of fun but the midterm and final are HARD. He demands that we write 6 essays with 12-15 citations each for the test and only 2 are on the actual test. He's a good professor but the workload is overwhelming.",
+        "course": "2201"
+      },
+      {
+        "index": 29,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "He definitely knows what he is talking about. He gives a manageable work load and makes it easy to get a good grade.",
+        "course": "LAT102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Latin",
+    "firstName": "Abby",
+    "id": "VGVhY2hlci0xNjc3NTYy",
+    "lastName": "Lambert",
+    "legacyId": 1677562,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is great! Really nice and helpful! Very smart.",
+        "course": "LATIN101"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is super sweet, super nice and very patient. very straight forward. Class is mandatory but you are allowed 3 unexcused absences. She helps you a lot and is quick with emails. Always positive and never tells you you are wrong, instead she walks you thru it. Id take her class again. As long as you try you'll get at least a B+. offers Ex Credit",
+        "course": "LATIN8292"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Super nice and helpful, class was fun even though the subject is sort of boring.",
+        "course": "LATIN101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.5,
+    "department": "Latin",
+    "firstName": "Brittany",
+    "id": "VGVhY2hlci0xODYzNDI5",
+    "lastName": "Lauber",
+    "legacyId": 1863429,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "She is very helpful and understanding. Wants you to do well but the material moves quickly.",
+        "course": "LATIN110155"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 5,
+    "department": "Latin",
+    "firstName": "Sam",
+    "id": "VGVhY2hlci0xMjY2OTA1",
+    "lastName": "Flores",
+    "legacyId": 1266905,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The class is easy if you do the minimal work required! He's a nice guy who will help you with anything you need! Recommended.",
+        "course": "LATIN104"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Sam is a really great teacher.  He makes Latin interesting and is good at explaining everything clearly.  I have had him all through the Latin 10x series and he has been great thus far.  Latin is never completely easy but Sam IS a lot easier than some of the other Latin teachers so if he is an option for you, choose him! :)",
+        "course": "LATIN104"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 2.5,
+    "department": "Latin",
+    "firstName": "Michael",
+    "id": "VGVhY2hlci0xNTQzNDM0",
+    "lastName": "Munsey",
+    "legacyId": 1543434,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Michael is a pretty nice guy, he just needs to improve his teaching skills. He is obviously new to the game and just needs some time to figure it out. If you are taking Latin for the very first time, you probably shouldn't take his class, but if you know what you're doing and are taking the class for review, you might as well give it a shot.",
+        "course": "LATIN101"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Nice guy. Totally inexperienced as a teacher. If you can't learn the material on your own and need a helpful instructor, try someone else.",
+        "course": "LATIN101"
       }
     ],
     "SEI": []

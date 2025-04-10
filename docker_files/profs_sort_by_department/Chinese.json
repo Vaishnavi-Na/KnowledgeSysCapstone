@@ -1,74 +1,110 @@
 [
   {
-    "avgDifficulty": 2.2,
-    "avgRating": 3.2,
+    "avgDifficulty": 2,
+    "avgRating": 4,
     "department": "Chinese",
-    "firstName": "Zhiguo",
-    "lastName": "Xie",
-    "legacyId": 1775352,
-    "numRatings": 12,
+    "firstName": "Xiaobin",
+    "id": "VGVhY2hlci0yNzk2NTQy",
+    "lastName": "Jian",
+    "legacyId": 2796542,
+    "numRatings": 1,
     "Ratings": [
       {
-        "index": 0,
-        "rating": null,
-        "comment": "he would take your phone without reasons."
-      },
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He is a nice professor passionate about the subject. You have to practice writing chinese calligraphy a lot (but they are only graded for completion). I am a native chinese speaker so it is relatively easy for me. Final project is 2 papers + a chinese calligraphy work. Overall easy but require some work. ",
+        "course": "CHINESE2283"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 5,
+    "department": "Chinese",
+    "firstName": "Qianqian",
+    "id": "VGVhY2hlci0yMzI2ODMw",
+    "lastName": "Zhang",
+    "legacyId": 2326830,
+    "numRatings": 2,
+    "Ratings": [
       {
         "index": 1,
-        "rating": null,
-        "comment": "特别喜欢查ai"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "You must prepare for an hour or two for to get the most out of her class. She knows how to teach to students who still have lower Chinese abilities, but she will also challenge you, moreso in writing than in-class speaking. If you're learning properly, you won't have any issues keeping up with the material as the course progresses.",
+        "course": "CHINESE2151"
       },
       {
         "index": 2,
-        "rating": null,
-        "comment": "Helll nahhhh"
-      },
-      {
-        "index": 3,
-        "rating": null,
-        "comment": "Don't doze off, hell call on you randomly and you will lose points for not knowing the answer, worse, he'll ask you if you know what the question was. 90% when he probes class, either extremely embarassing or one of the three white kids speaks for the 1000th time. Easy A, didn't learn much, constantly at risk of COAM. Be careful in this class."
-      },
-      {
-        "index": 4,
-        "rating": "5.0",
-        "comment": "Xie laoshi is a great lecturer. He's funny, takes questions/comments well and makes you feel smart every time you talk. Class is long but he makes it enjoyable. Biggest thing is to do the readings, because the quizzes are rough and will hit your grade hard. Very fair on all other assignments. Lectures don't cover the readings, you have to know both"
-      },
-      {
-        "index": 5,
-        "rating": null,
-        "comment": "Nothing but easy A. Sometimes I don't think he understanding what he said by himself. Go to class, read Powerpoint, finish homework, that's all."
-      },
-      {
-        "index": 6,
-        "rating": "4.0",
-        "comment": "All tests and quizzes are open note so you don't really have to actually read, midterm was take home too. Class itself is pretty boring and I did other HW during class, you have to go because he grades participation/attendance, and you only have 2 skips. Unless you're super into Chinese culture I wouldn't take this as a GE unless you have to."
-      },
-      {
-        "index": 7,
-        "rating": "5.0",
-        "comment": "Xie Laoshi was a really good teacher. I learned a lot from his class and the work was very very easy. Everything is open notes!"
-      },
-      {
-        "index": 8,
-        "rating": "5.0",
-        "comment": "Professor Xie is very nice, engaging, sometimes humorous. He is willing to share his own personal experience in relation to Chinese culture. Attendance is taken every class,  but he is generous in other grading and gives a lot of bonus opportunities. I feel I learned quite a lot about things I did not know or understand."
-      },
-      {
-        "index": 9,
-        "rating": null,
-        "comment": "If you can understand each syllabus he utters, then his English is excellent. I showed up to every single lecture, which was 1 hr and 20 min long and he gave me 14/15 participation pts, but a mere 12 hrs later... it was changed to a 13.5! o.o Anyway, I got an A. Super GPA booster class: take home midterm + open notes final. Generous guys he is."
-      },
-      {
-        "index": 10,
-        "rating": null,
-        "comment": "Xie laoshi was great! He had a hard time sometimes explaining things bc English isn't his first language, however, he always did what he could to make sure you understood. Extremely nice guy, gave us candy on Valentines day and Chinese New Year, I hope I can take another one of his classes."
-      },
-      {
-        "index": 11,
-        "rating": "4.5",
-        "comment": "Class was super easy. Sometimes interesting, sometimes boring. Mid-term is open book and notes. No final. I don't speak any Chinese and I easily got an A in the course."
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Zhang Laoshi is an amazing teacher. The highly interactive aspect of the class was extremely helpful in learning Chinese.",
+        "course": "CHINESE1101"
       }
-    ]
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Chinese",
+    "firstName": "Wei",
+    "id": "VGVhY2hlci0yNDg5Nzkz",
+    "lastName": "Liu",
+    "legacyId": 2489793,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Liu Laoshi is an amazing teacher! A lot of work is required to pass the class but the material is fairly easy. Having Liu Laoshi as a teacher this year has been great.",
+        "course": "CHINESE2102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Chinese",
+    "firstName": "Yawei",
+    "id": "VGVhY2hlci0yNDg5Nzk3",
+    "lastName": "Li",
+    "legacyId": 2489797,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Everyone loves Li Laoshi! She is an amazing Chinese teacher! I've had her for 4 semesters now and I plan on taking Chinese from her again next semester.",
+        "course": "CHINESE2102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Chinese",
+    "firstName": "Hunter",
+    "id": "VGVhY2hlci0yNTMxMjI2",
+    "lastName": "Klie",
+    "legacyId": 2531226,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "A phenomenal teacher. You can tell that he's applying things he learns from his pedagogy classes. And since he's a former theater kid his acting skills are great, encouraging us to add zest to our performances of the dialogue.",
+        "course": "CHINESE2141"
+      }
+    ],
+    "SEI": []
   },
   {
     "avgDifficulty": 3.3,
@@ -158,83 +194,55 @@
     "Ratings": [
       {
         "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "he would take your phone without reasons.",
-        "course": "CHNS2231"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "&#29305;&#21035;&#21916;&#27426;&#26597;ai",
-        "course": "CHNS2231"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Helll nahhhh",
-        "course": "CHNS2231"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "Don't doze off, hell call on you randomly and you will lose points for not knowing the answer, worse, he'll ask you if you know what the question was. 90% when he probes class, either extremely embarassing or one of the three white kids speaks for the 1000th time. Easy A, didn't learn much, constantly at risk of COAM. Be careful in this class.",
-        "course": "CHNS2231"
-      },
-      {
-        "index": 5,
         "rating": 5,
         "difficulty": 3,
         "comment": "Xie laoshi is a great lecturer. He's funny, takes questions/comments well and makes you feel smart every time you talk. Class is long but he makes it enjoyable. Biggest thing is to do the readings, because the quizzes are rough and will hit your grade hard. Very fair on all other assignments. Lectures don't cover the readings, you have to know both",
         "course": "CHNS2231"
       },
       {
-        "index": 6,
+        "index": 2,
         "rating": 3,
         "difficulty": 2,
         "comment": "Nothing but easy A. Sometimes I don't think he understanding what he said by himself. Go to class, read Powerpoint, finish homework, that's all.",
         "course": "CHNS2231"
       },
       {
-        "index": 7,
+        "index": 3,
         "rating": 4,
         "difficulty": 2,
         "comment": "All tests and quizzes are open note so you don't really have to actually read, midterm was take home too. Class itself is pretty boring and I did other HW during class, you have to go because he grades participation/attendance, and you only have 2 skips. Unless you're super into Chinese culture I wouldn't take this as a GE unless you have to.",
         "course": "CHNS2231"
       },
       {
-        "index": 8,
+        "index": 4,
         "rating": 5,
         "difficulty": 1,
         "comment": "Xie Laoshi was a really good teacher. I learned a lot from his class and the work was very very easy. Everything is open notes!",
         "course": "CHNS2231"
       },
       {
-        "index": 9,
+        "index": 5,
         "rating": 5,
         "difficulty": 3,
         "comment": "Professor Xie is very nice, engaging, sometimes humorous. He is willing to share his own personal experience in relation to Chinese culture. Attendance is taken every class,  but he is generous in other grading and gives a lot of bonus opportunities. I feel I learned quite a lot about things I did not know or understand.",
         "course": "CHNS2231"
       },
       {
-        "index": 10,
+        "index": 6,
         "rating": 3,
         "difficulty": 1,
         "comment": "If you can understand each syllabus he utters, then his English is excellent. I showed up to every single lecture, which was 1 hr and 20 min long and he gave me 14/15 participation pts, but a mere 12 hrs later... it was changed to a 13.5! o.o Anyway, I got an A. Super GPA booster class: take home midterm + open notes final. Generous guys he is.",
         "course": "CHIN4380"
       },
       {
-        "index": 11,
+        "index": 7,
         "rating": 3,
         "difficulty": 1,
         "comment": "Xie laoshi was great! He had a hard time sometimes explaining things bc English isn't his first language, however, he always did what he could to make sure you understood. Extremely nice guy, gave us candy on Valentines day and Chinese New Year, I hope I can take another one of his classes. ",
         "course": "CHIN4383"
       },
       {
-        "index": 12,
+        "index": 8,
         "rating": 4,
         "difficulty": 1,
         "comment": "Class was super easy. Sometimes interesting, sometimes boring. Mid-term is open book and notes. No final. I don't speak any Chinese and I easily got an A in the course.",
@@ -244,21 +252,123 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 2,
-    "avgRating": 4,
+    "avgDifficulty": 4,
+    "avgRating": 5,
     "department": "Chinese",
-    "firstName": "Xiaobin",
-    "id": "VGVhY2hlci0yNzk2NTQy",
-    "lastName": "Jian",
-    "legacyId": 2796542,
+    "firstName": "Chenxing",
+    "id": "VGVhY2hlci0yMjAxNzA1",
+    "lastName": "Jin",
+    "legacyId": 2201705,
     "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "The class is full-immersion so it's pretty challenging. The book is followed perfectly, down to every drill. She makes a day-to-day schedule for each class at the beginning of the semester and sticks to it.  She's very knowledgeable and conveys cultural and language information clearly. This is a great class and she's a great teacher.",
+        "course": "CHINESE1101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.8,
+    "avgRating": 4.6,
+    "department": "Chinese",
+    "firstName": "Heather",
+    "id": "VGVhY2hlci0xMjEwODI5",
+    "lastName": "Inwood",
+    "legacyId": 1210829,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Inwood is a passionate professor who shares her love for Chinese culture with her class. She does an excellent job in conveying the information to her students while encouraging us to formulate our own opinions.",
+        "course": "CHN232"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I have had Dr. Inwood for several of my required Chinese classes. I have taken pop culture (506), Poetry (501), and Culture (232) with her. She makes lectures very interesting is always including students in the discussions, loves to hear what others have to say, and is extremely helpful. By far one of my FAVORITE professors at OSU!",
+        "course": "CHI506"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "While other new instructors act like business people for their &quot;evaluation&quot; by students, she is more interested in &quot;quality&quot; of lectures. She's a &quot;conscientious instructor&quot; compared to other newly hired and relatively new DEALL instructors who rely on smoke-screen tactics: cheap jokes, neglecting students' eating snack during class, etc.",
+        "course": "C231"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Heather's accent and British slang was enough for me to take this class. However, she revamped the course to make it more history and essay based. It's supposed to be an elementary GEC culture class but she took it to the top. Take the class if you have genuine interest in it--you will definitely learn a lot from her. She's dedicated, good natured.",
+        "course": "CHN232"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 3.8,
+    "department": "Chinese",
+    "firstName": "Chunsheng",
+    "id": "VGVhY2hlci05NTUzOTQ=",
+    "lastName": "Yang",
+    "legacyId": 955394,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
         "rating": 4,
-        "difficulty": 2,
-        "comment": "He is a nice professor passionate about the subject. You have to practice writing chinese calligraphy a lot (but they are only graded for completion). I am a native chinese speaker so it is relatively easy for me. Final project is 2 papers + a chinese calligraphy work. Overall easy but require some work. ",
-        "course": "CHINESE2283"
+        "difficulty": 4,
+        "comment": "Yang laoshi is cool as hell. It takes a while to get to know him, but by second or third quarter you realize he is just as good as the other teachers and is definitely more willing to help students. He's a good teacher and I would recommend him.",
+        "course": "CHIN103"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Chinese101- Honestly he is TERRIBLE.I have 4 other teachers, and he is the worst. Strict grader.Only expects fluent Chinese. I have no idea how he has ANY good ratings. Does not understand that it is an INTRO course. I hate starting off Mondays with this guy.Stellato/Li/Zheng are much better teachers,he is just useless compared to them",
+        "course": "CHIN101"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Truly great.",
+        "course": "CHINII"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "A++",
+        "course": "CHI102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Chinese",
+    "firstName": "Jia",
+    "id": "VGVhY2hlci0xMjYzNTkz",
+    "lastName": "Yang",
+    "legacyId": 1263593,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "CHI101"
       }
     ],
     "SEI": []
