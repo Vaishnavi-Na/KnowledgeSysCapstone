@@ -74,3 +74,8 @@ async def calc_remain(transcript: dict, course: str):
     unmet_groups = calculate_remaining_courses(transcript, course)
 
     return unmet_groups
+
+@app.post("/courses/professors")
+async def search_prof(course: str, sort_princ: str = "avg_rating"):
+
+    return
