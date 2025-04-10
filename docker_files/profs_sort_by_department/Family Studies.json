@@ -1,0 +1,49 @@
+[
+  {
+    "avgDifficulty": 3,
+    "avgRating": 2,
+    "department": "Family Studies",
+    "firstName": "Patrick",
+    "id": "VGVhY2hlci0yMzUzMjc0",
+    "lastName": "Bortz",
+    "legacyId": 2353274,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "I only had this class one day/week. The class was extremely boring, and sometimes he wasn't prepared or would ramble on and be confusing. He also occasionally made inappropriate comments and made students feel inferior. Overall, if you do the work, you'll get a good grade in the class.",
+        "course": "HDFS3200"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Some days he wasnt prepared to teach. Very confusing sometimes. Be ready work work hard and show up to class.",
+        "course": "HDFS3200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Family Studies",
+    "firstName": "Joanna",
+    "id": "VGVhY2hlci0yMzEyNzY3",
+    "lastName": "Wu",
+    "legacyId": 2312767,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This class was super easy even though the lectures are very boring. Understanding her might be difficult at times due to her accent but her powerpoints are clear and easy. Hands out a TON of extra credit, you'd have to work hard to get below an A. 2 Midterms, 1 Paper, Final and attendance.",
+        "course": "HDFS2410"
+      }
+    ],
+    "SEI": []
+  }
+]

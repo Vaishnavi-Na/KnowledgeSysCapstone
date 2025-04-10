@@ -2,6 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
+from dotenv import load_dotenv
+import ssl
+import os
+from elasticsearch import Elasticsearch
 
 
 url = "https://osu.bluera.com/osubpi/fbview-WebService.asmx/getFbvGrid"
@@ -49,6 +53,57 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15",
     "X-Requested-With": "XMLHttpRequest"
 }
+
+#Elasticsearch setup
+ctx = ssl.create_default_context()
+ctx.load_verify_locations("http_ca.crt")
+ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
+load_dotenv()
+es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
+
+def updateIndex(name, professor):
+    # Search for: professor with matching last and first name
+    query = {
+        "query": {
+            "bool":{
+                "must": [
+                    {"match": {"lastName": name["lastName"] }},
+                    {"match": {"firstName": name["firstName"]}}
+                ]
+            }
+        }
+    }
+    es.indices.refresh(index="professors")
+    res = es.search(index='professors', body=query)
+
+    # If no entry for the professor currently exists, add to index
+    if not res["hits"]["hits"]: 
+        name["SEI"] = [professor]
+        name["RMP"] = []
+        
+        print("\nProfessor not found: ", name["lastName"] + name["firstName"])
+        es.index(index='professors', id=name["lastName"] + name["firstName"], document=name)
+        print(name)
+    # Else append to current professor index
+    else:
+        # Get the doc for the professor
+        doc = res["hits"]["hits"][0]
+        source = doc['_source']
+        docID = doc['_id']
+
+        print("\n appending: " + name["lastName"] + name["firstName"])
+
+        # If there are currently no SEI entries, add to doc
+        # Append the new SEI review to the professor SEI entries
+        if "SEI" not in source:
+            source["SEI"] = [professor]
+            print("\nSEI not in source")         
+        else: source["SEI"].append(professor)    
+
+        # Update the elasticsearch index 
+        es.index(index='professors', id=docID, document=source)
+        
+    return
 
 for subject in subjects:
     print(f"scraping: {subject}...")
@@ -99,9 +154,11 @@ for subject in subjects:
                 if len(cols) < 14:  
                     print(f"⚠️ Skipping row with insufficient columns in subject {subject}")
                     continue  
+                name = {
+                    "lastName": cols[0].text.strip(),
+                    "firstName": cols[1].text.strip(),
+                }
                 professor = {
-                    "Last Name": cols[0].text.strip(),
-                    "First Name": cols[1].text.strip(),
                     "Subject": cols[2].text.strip(),
                     "Catalog": cols[3].text.strip(),
                     "Class Name": cols[4].text.strip(),
@@ -115,6 +172,8 @@ for subject in subjects:
                     "Responses": cols[12].text.strip(),
                     "Rating": cols[13].text.strip(),
                 }
+                print("\nNew entry----------------------------------")
+                updateIndex(name, professor)
                 all_data.append(professor)
 
             print(f"finish {subject}  {page} ，total {len(rows)} datas")
@@ -122,7 +181,6 @@ for subject in subjects:
                 print(f" No data found for subject {subject}, skipping...")
                 break  # Skip this subject and continue to the next one
 
-        
             if len(rows) < 20:
                 break
 

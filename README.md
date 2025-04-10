@@ -21,7 +21,7 @@ capstone\Scripts\activate
 # or
 .venv\Scripts\activate
 
-# on Linux/MacOS, 
+# on Linux/MacOS,
 source venv/bin/activate
 ```
 

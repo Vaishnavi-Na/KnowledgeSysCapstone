@@ -1,0 +1,96 @@
+[
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4,
+    "department": "Biostatistics",
+    "firstName": "Kellie",
+    "id": "VGVhY2hlci0yNDU2OTY2",
+    "lastName": "Archer",
+    "legacyId": 2456966,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Archer is very kind and makes an effort to get to know all of the students. She's very interested in helping students, and the class is easy enough if you do all the assignments. There are online lectures weekly that are used for the quizzes, and a final poster project that builds throughout the semester. I would recommend taking Dr. Archer.",
+        "course": "PUBHBIO2210"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 3,
+    "department": "Biostatistics",
+    "firstName": "Michael",
+    "id": "VGVhY2hlci0yNDAxMjQ5",
+    "lastName": "Pennell",
+    "legacyId": 2401249,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr Pennell is a nice professor. His teaching is clear and notes are organized. He is open to his class and open to many questions. Even if you haven't registered the class for some reason but still want to go to the class for some topics, he is still OK with that. A really responsible instructor.",
+        "course": "PUBHBIO8235"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Be alert if you are going to work with him. He is not reasonable to talk and does not trust students for what they said. He is not nice and supportive when it comes to any help. He also complains and say something unfair about his student in the presence of other professors. So, Good luck!",
+        "course": "STAT7755"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 3.5,
+    "department": "Biostatistics",
+    "firstName": "Richard",
+    "id": "VGVhY2hlci0yNDk1Njk1",
+    "lastName": "Linder",
+    "legacyId": 2495695,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Strict, no-nonsense prof. but really helps you understand the math behind the stats. Likes to apply stats to biology examples. Helpful during office hours. Quite proud, though (makes a lot of typos or other mistakes in class but doesn't like to admit them . . .), which I guess was intimidating for some students",
+        "course": "STAT5302"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "He is very caring of his students and wants his students to learn. This is a project class and graded by few things. Little to do outside of class, and class is mandatory unless you don't mind making up in class labs and activities. Good Professor",
+        "course": "PUBHBIO2210"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 1,
+    "department": "Biostatistics",
+    "firstName": "Jason",
+    "id": "VGVhY2hlci05NTk5MTQ=",
+    "lastName": "Hsu",
+    "legacyId": 959914,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I don't think Dr. Hsu is fit to teach a course like this. He just slaps random material together from all kinds of sources, making it impossible to take proper notes (Usually I can get 3 to 4 pages a day, but here I can only get half a page). AVOID AT ALL COSTS",
+        "course": "STAT615"
+      }
+    ],
+    "SEI": []
+  }
+]

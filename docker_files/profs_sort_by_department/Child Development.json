@@ -1,0 +1,69 @@
+[
+  {
+    "avgDifficulty": 4,
+    "avgRating": 2,
+    "department": "Child Development",
+    "firstName": "Lori",
+    "id": "VGVhY2hlci0yNjk1MDI0",
+    "lastName": "Fitzgerald",
+    "legacyId": 2695024,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "This class was... hard. The way Lori set up her grading system is that homework is worth 0.57 points and tests are worth 15+. Homework will NOT help your grade and doing poorly on a test will bump you down multiple letter grades, I went from a high A, to a D- after one test. I would try a different teacher. 2/10 would not take again.",
+        "course": "EDUTL5468"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.5,
+    "department": "Child Development",
+    "firstName": "Jessica",
+    "id": "VGVhY2hlci0yNTM0Nzc2",
+    "lastName": "Phillips",
+    "legacyId": 2534776,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "There are several opportunities for extra credit in this course. Don't count on them though, because there aren't that many points in the class overall. Stay on top of your due dates to do well in this class. Several discussion posts, and preparation for the final project.",
+        "course": "HDFS2410"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This is an online class, so I haven't actually had much interaction with Phillips, but I have emailed her a few times and she is always quick to reply and answers my questions clearly. Also, she has good grading feedback and clear expectations. The structure of the class is very easy to understand as well.",
+        "course": "HDFS2410"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.5,
+    "department": "Child Development",
+    "firstName": "Christin",
+    "id": "VGVhY2hlci0xODI1MjE5",
+    "lastName": "Carotta",
+    "legacyId": 1825219,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Ms. Carotta was a great teacher. She showed obvious enthusiasm and interest in the material she was teaching. The exam questions were taken directly from the power points, so as long as you studied at least a little bit, the tests weren't that difficult. I would definitely recommend taking her class.",
+        "course": "HDFS2410"
+      }
+    ],
+    "SEI": []
+  }
+]
