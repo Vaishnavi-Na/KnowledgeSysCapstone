@@ -1,5 +1,292 @@
 [
   {
+    "avgDifficulty": 2.5,
+    "avgRating": 4,
+    "department": "Landscape Architecture & Regional Planning",
+    "firstName": "Justin",
+    "id": "VGVhY2hlci0yODE3NjI1",
+    "lastName": "Parscher",
+    "legacyId": 2817625,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Justin Parscher provides interesting lectures which would be far better if they were offered in-person. Because of the online structure and repetitive assignments the class becomes pretty boring near the end of the semester, saved only by the fact that once you earn 93 points you aren't required to complete anymore assignments. ",
+        "course": "LARCH2600"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Justin is the only person who could make the history of Landscape Architecture entertaining. Every lecture was interesting and engaging and he cares about his students on a personal level, as well! Excels as a studio professor and as a lecturer. No notes, I would take him for every class if I could!",
+        "course": "2367"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "LARCH",
+        "Catalog": "2600",
+        "Class Name": "Outlines of Landscape Architecture: Visual Literacy in the Built Environment",
+        "Class Number": "11026",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "85",
+        "Rating": "4.54"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "5194",
+        "Class Name": "Group Studies in Landscape Architecture",
+        "Class Number": "36489",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "5194.01",
+        "Class Name": "Group Studies in Landscape Architecture",
+        "Class Number": "35934",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "N/A",
+        "Class Name": "Outlines of Landscape Architecture: Visual Literacy in the Built Environment",
+        "Class Number": "29756",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "4960",
+        "Class Name": "Design Studio VI: Urbanism",
+        "Class Number": "29665",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "7780",
+        "Class Name": "Research Methods in Landscape Architecture",
+        "Class Number": "26384",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "5"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "2600",
+        "Class Name": "Outlines of Landscape Architecture: Visual Literacy in the Built Environment",
+        "Class Number": "36135",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "6600",
+        "Class Name": "Outlines of Landscape Architecture: Visual Literacy in the Built Environment",
+        "Class Number": "8182",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "6920",
+        "Class Name": "Design Studio II: Dynamic Systems",
+        "Class Number": "7975",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "2600",
+        "Class Name": "Outlines of Landscape Architecture: Visual Literacy in the Built Environment",
+        "Class Number": "12486",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "2600E",
+        "Class Name": "Outlines of Landscape Architecture: Visual Literacy in the Built Environment",
+        "Class Number": "8279",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "16",
+        "Rating": "4.13"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "6920",
+        "Class Name": "Design Studio II: Dynamic Systems",
+        "Class Number": "7991",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.4,
+    "avgRating": 4.2,
+    "department": "Landscape Architecture & Regional Planning",
+    "firstName": "Harley",
+    "id": "VGVhY2hlci0yOTc1MTA0",
+    "lastName": "Etienne",
+    "legacyId": 2975104,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Dr. Etienne is a very intelligent professor and clearly knows what he's talking about, but he would rush through every single lecture just for an entire day of class each week to be devoted to needless discussion. The textbook is also not needed at all. The lecture slides are either ripped straight from it or are not even mentioned. ",
+        "course": "CRPLAN2000"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Professor Etienne is such a smart and likable guy, his lectures are very informative, however it can feel a little rushed sometimes. He did not give many grades but the quizzes/final we did have were online and open note so it was not of much concern. He has been very helpful when I have asked him questions and he is funny too.",
+        "course": "CRPLAN2000"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Best prof I've had here at OSU. Very passionate, experienced, and knowledgeable about his field and it shows in his lectures. Assignments are engaging and real world applicable. Available outside of class and very helpful. I switched out of the CRP program but would def take a class with him again.",
+        "course": "CRPLAN2000"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Prof. Etienne is very intelligent, and very passionate about city planning. His lectures were always engaging, but sometimes his instructions were unclear and expectations were too high for an intro class. Great professor, would take again, but sometimes difficult.",
+        "course": "CRPLAN2000"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Professor Etienne is a super intelligent guy, but that also means he's super busy. It's hard to catch him outside of class and it often takes him a bit to post files/grades. Other than that, show up to class and participate in discussions, he seems to like creating personal connections with his students. Overall, he's a great guy and professor!",
+        "course": "CRPLAN2000"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "2000",
+        "Class Name": "Introduction to City and Regional Planning",
+        "Class Number": "36030",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "6194",
+        "Class Name": "Group Studies in City and Regional Planning",
+        "Class Number": "36040",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "6300",
+        "Class Name": "Law and Planning I: Land Use",
+        "Class Number": "37564",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.75"
+      }
+    ]
+  },
+  {
     "avgDifficulty": 2.3,
     "avgRating": 4.2,
     "department": "Landscape Architecture & Regional Planning",
@@ -52,7 +339,204 @@
         "course": "CRPLAN2100"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "6916",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "30",
+        "Rating": "4.61"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "4707",
+        "Term": "SU 20",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "7799",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "4691",
+        "Term": "SU 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.61"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "32443",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "30",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "26185",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "33",
+        "Rating": "4.61"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "4946",
+        "Term": "SU 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "10681",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.28"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "7866",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "10653",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3500",
+        "Class Name": "The Socially Just City",
+        "Class Number": "7901",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5595",
+        "Class Name": "Social Enterprise",
+        "Class Number": "34287",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5595",
+        "Class Name": "Social Enterprise",
+        "Class Number": "35043",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5595",
+        "Class Name": "Nonprofit Social Enterprise",
+        "Class Number": "6138",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 4.3,
@@ -84,6 +568,319 @@
         "difficulty": 5,
         "comment": "The only thing I want from Karla Trott is to be able to Trott right out of her class",
         "course": "ARCH2300"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ARCH",
+        "Catalog": "2310",
+        "Class Name": "Introduction to Design",
+        "Class Number": "9837",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "ARCH",
+        "Catalog": "2310",
+        "Class Name": "Introduction to Design",
+        "Class Number": "7095",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.2"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "2310",
+        "Class Name": "Introduction to Design",
+        "Class Number": "10267",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.4"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "4410",
+        "Class Name": "Advanced Landscape Technologies Seminar",
+        "Class Number": "10252",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "3940",
+        "Class Name": "Design Studio IV: Landscape Ecology & Planning",
+        "Class Number": "29664",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "4450",
+        "Class Name": "Advanced Landscape Media Seminar",
+        "Class Number": "34707",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "7450",
+        "Class Name": "Advanced Landscape Media Seminar",
+        "Class Number": "34852",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "4410",
+        "Class Name": "Advanced Landscape Technologies Seminar",
+        "Class Number": "26319",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "3940",
+        "Class Name": "Design Studio IV: Landscape Ecology & Planning",
+        "Class Number": "8093",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "4450",
+        "Class Name": "Advanced Landscape Media Seminar",
+        "Class Number": "11832",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "2930",
+        "Class Name": "Design Studio III: Social Dynamics",
+        "Class Number": "8033",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "33",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "4410",
+        "Class Name": "Advanced Landscape Technologies Seminar",
+        "Class Number": "8044",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "4450",
+        "Class Name": "Advanced Landscape Media Seminar",
+        "Class Number": "11741",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "2930",
+        "Class Name": "Design Studio III: Social Dynamics",
+        "Class Number": "37534",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "2"
+      },
+      {
+        "Subject": "LARCH",
+        "Catalog": "4410",
+        "Class Name": "Advanced Landscape Technologies Seminar",
+        "Class Number": "8056",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.6"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.6,
+    "avgRating": 3.4,
+    "department": "Landscape Architecture & Regional Planning",
+    "firstName": "Mattijs",
+    "id": "VGVhY2hlci0yNDgxMjA4",
+    "lastName": "Van Maasakkers",
+    "legacyId": 2481208,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I took CRP 3300 which was not listed. He is a VERY smart guy, and is very willing to help. Lectures can be hard to follow, and sometimes he is hard to understand because of the advanced language he uses. Tons of reading. Great professor, tough class.",
+        "course": "CRPLAN2110"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Nice guy, lots of small group discussion, easy grader if you follow the rubric. Gives feedback in Carmen comments after every assignment. Only bad part of the class is the MULTIPLE 1-2+ mile walks FOR EVERY UNIT so you can \"see the city\" and they never end where they start so you have to find (fund) your own way back",
+        "course": "CRPLAN2110"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "I actually had him for 3300, not 6400. I disliked this class. Expectations were always unclear yet he was a very tough grader. Grading was super nitpicky, I always received points off for minor things not mentioned in the rubric. It is almost entirely group work so if your group is bad good luck getting a good grade. ",
+        "course": "CRPN6400"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "CRP 3300. Half of the class is focused on a group project with high expectations and minimal guidance. He is willing to talk to you and help, but does contradict himself frequently. Midterm is very difficult. This is one of the harder classes for the CRP major. He does a good job of making class relevant to real life. ",
+        "course": "CRPN6400"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "You hear horror stories about the difficulty of the midterm, and it isn't as bad as you think it is. The class is interesting and he brings in guest lecturers throughout the first half of the class. The lab is fine, but can be unforgiving if you are new to the software used. Extra Credit isn't much, but any little bit helps.",
+        "course": "CRPN6400"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.3,
+    "avgRating": 5,
+    "department": "Landscape Architecture & Regional Planning",
+    "firstName": "Gala",
+    "id": "VGVhY2hlci0yODY0ODQ5",
+    "lastName": "Korniyenko",
+    "legacyId": 2864849,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Cares a lot about her students and is always willing to accommodate different needs. No assignments are super challenging and she is always willing to help. One midterm, and a final project/paper. Optional fieldtrips to cool places around Columbus. Sometimes lectures can be a little boring, but overall a great class. ",
+        "course": "CRP2100"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Prof. Korniyenko is highly recommended. The course consists of highly engaging lectures, of which note-taking is crucial for assignments. There are write-ups peppered throughout and an individual semester project in the background (so, no final exam). She is super responsive, helpful, and passionate about what she does.",
+        "course": "CRP2100"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Prof. Korniyenko is an incredibly knowledgeable professor who will go out of her way to ensure everyone gains something from the course. She knows that everyone comes from different academic backgrounds and will provide resources to help students grow as individual learners, rather than just to meet the requirements for the class.",
+        "course": "CRP2100"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Landscape Architecture & Regional Planning",
+    "firstName": "Saba",
+    "id": "VGVhY2hlci0zMDEyODU2",
+    "lastName": "Maleki",
+    "legacyId": 3012856,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She was very nice and supportive. She helped me greatly during class activities and always constructively commented on my assignments. ",
+        "course": "CRPLAN-2110"
       }
     ],
     "SEI": []
@@ -217,184 +1014,190 @@
         "course": "LARCH457"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.6,
-    "avgRating": 3.4,
-    "department": "Landscape Architecture & Regional Planning",
-    "firstName": "Mattijs",
-    "id": "VGVhY2hlci0yNDgxMjA4",
-    "lastName": "Van Maasakkers",
-    "legacyId": 2481208,
-    "numRatings": 5,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I took CRP 3300 which was not listed. He is a VERY smart guy, and is very willing to help. Lectures can be hard to follow, and sometimes he is hard to understand because of the advanced language he uses. Tons of reading. Great professor, tough class.",
-        "course": "CRPLAN2110"
+        "Subject": "CRPLAN",
+        "Catalog": "2210",
+        "Class Name": "Sustainable Urbanism",
+        "Class Number": "11298",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "3.68"
       },
       {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Nice guy, lots of small group discussion, easy grader if you follow the rubric. Gives feedback in Carmen comments after every assignment. Only bad part of the class is the MULTIPLE 1-2+ mile walks FOR EVERY UNIT so you can \"see the city\" and they never end where they start so you have to find (fund) your own way back",
-        "course": "CRPLAN2110"
+        "Subject": "CRPLAN",
+        "Catalog": "3200",
+        "Class Name": "Place Making",
+        "Class Number": "6914",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "3.27"
       },
       {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "I actually had him for 3300, not 6400. I disliked this class. Expectations were always unclear yet he was a very tough grader. Grading was super nitpicky, I always received points off for minor things not mentioned in the rubric. It is almost entirely group work so if your group is bad good luck getting a good grade. ",
-        "course": "CRPN6400"
+        "Subject": "CRPLAN",
+        "Catalog": "3200",
+        "Class Name": "Place Making",
+        "Class Number": "33315",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.25"
       },
       {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "CRP 3300. Half of the class is focused on a group project with high expectations and minimal guidance. He is willing to talk to you and help, but does contradict himself frequently. Midterm is very difficult. This is one of the harder classes for the CRP major. He does a good job of making class relevant to real life. ",
-        "course": "CRPN6400"
+        "Subject": "CRPLAN",
+        "Catalog": "6430",
+        "Class Name": "Urban Design",
+        "Class Number": "33313",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
       },
       {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "You hear horror stories about the difficulty of the midterm, and it isn't as bad as you think it is. The class is interesting and he brings in guest lecturers throughout the first half of the class. The lab is fine, but can be unforgiving if you are new to the software used. Extra Credit isn't much, but any little bit helps.",
-        "course": "CRPN6400"
+        "Subject": "CRPLAN",
+        "Catalog": "3200",
+        "Class Name": "Place Making",
+        "Class Number": "32441",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "6430",
+        "Class Name": "Urban Design",
+        "Class Number": "32557",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "N/A",
+        "Class Name": "Place Making",
+        "Class Number": "33543",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3200",
+        "Class Name": "Place Making",
+        "Class Number": "33542",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "5798",
+        "Class Name": "Planning Study Abroad",
+        "Class Number": "6325",
+        "Term": "SU 22",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "2210",
+        "Class Name": "Sustainable Urbanism",
+        "Class Number": "10799",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "6430",
+        "Class Name": "Urban Design",
+        "Class Number": "36563",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "CRPLAN",
+        "Catalog": "3200",
+        "Class Name": "Place Making",
+        "Class Number": "36798",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Knowlton Sch of Architecture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "3.85"
+      },
+      {
+        "Subject": "SPANISH",
+        "Catalog": "5461",
+        "Class Name": "Latino Urbanism and the Reinvention of the American City",
+        "Class Number": "23393",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4"
       }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.3,
-    "avgRating": 5,
-    "department": "Landscape Architecture & Regional Planning",
-    "firstName": "Gala",
-    "id": "VGVhY2hlci0yODY0ODQ5",
-    "lastName": "Korniyenko",
-    "legacyId": 2864849,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Cares a lot about her students and is always willing to accommodate different needs. No assignments are super challenging and she is always willing to help. One midterm, and a final project/paper. Optional fieldtrips to cool places around Columbus. Sometimes lectures can be a little boring, but overall a great class. ",
-        "course": "CRP2100"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Prof. Korniyenko is highly recommended. The course consists of highly engaging lectures, of which note-taking is crucial for assignments. There are write-ups peppered throughout and an individual semester project in the background (so, no final exam). She is super responsive, helpful, and passionate about what she does.",
-        "course": "CRP2100"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Prof. Korniyenko is an incredibly knowledgeable professor who will go out of her way to ensure everyone gains something from the course. She knows that everyone comes from different academic backgrounds and will provide resources to help students grow as individual learners, rather than just to meet the requirements for the class.",
-        "course": "CRP2100"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Landscape Architecture & Regional Planning",
-    "firstName": "Saba",
-    "id": "VGVhY2hlci0zMDEyODU2",
-    "lastName": "Maleki",
-    "legacyId": 3012856,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She was very nice and supportive. She helped me greatly during class activities and always constructively commented on my assignments. ",
-        "course": "CRPLAN-2110"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.4,
-    "avgRating": 4.2,
-    "department": "Landscape Architecture & Regional Planning",
-    "firstName": "Harley",
-    "id": "VGVhY2hlci0yOTc1MTA0",
-    "lastName": "Etienne",
-    "legacyId": 2975104,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Dr. Etienne is a very intelligent professor and clearly knows what he's talking about, but he would rush through every single lecture just for an entire day of class each week to be devoted to needless discussion. The textbook is also not needed at all. The lecture slides are either ripped straight from it or are not even mentioned. ",
-        "course": "CRPLAN2000"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Etienne is such a smart and likable guy, his lectures are very informative, however it can feel a little rushed sometimes. He did not give many grades but the quizzes/final we did have were online and open note so it was not of much concern. He has been very helpful when I have asked him questions and he is funny too.",
-        "course": "CRPLAN2000"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Best prof I've had here at OSU. Very passionate, experienced, and knowledgeable about his field and it shows in his lectures. Assignments are engaging and real world applicable. Available outside of class and very helpful. I switched out of the CRP program but would def take a class with him again.",
-        "course": "CRPLAN2000"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Prof. Etienne is very intelligent, and very passionate about city planning. His lectures were always engaging, but sometimes his instructions were unclear and expectations were too high for an intro class. Great professor, would take again, but sometimes difficult.",
-        "course": "CRPLAN2000"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Professor Etienne is a super intelligent guy, but that also means he's super busy. It's hard to catch him outside of class and it often takes him a bit to post files/grades. Other than that, show up to class and participate in discussions, he seems to like creating personal connections with his students. Overall, he's a great guy and professor!",
-        "course": "CRPLAN2000"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.5,
-    "avgRating": 4,
-    "department": "Landscape Architecture & Regional Planning",
-    "firstName": "Justin",
-    "id": "VGVhY2hlci0yODE3NjI1",
-    "lastName": "Parscher",
-    "legacyId": 2817625,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Justin Parscher provides interesting lectures which would be far better if they were offered in-person. Because of the online structure and repetitive assignments the class becomes pretty boring near the end of the semester, saved only by the fact that once you earn 93 points you aren't required to complete anymore assignments. ",
-        "course": "LARCH2600"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Justin is the only person who could make the history of Landscape Architecture entertaining. Every lecture was interesting and engaging and he cares about his students on a personal level, as well! Excels as a studio professor and as a lecturer. No notes, I would take him for every class if I could!",
-        "course": "2367"
-      }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 2.6,

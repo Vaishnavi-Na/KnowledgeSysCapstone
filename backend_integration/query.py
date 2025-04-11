@@ -12,10 +12,10 @@ es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elast
 def search_professors_sort(subject: str, courseNum: str, sort_by: str = None, order: str = 'desc', comment_keywords: str = None):
     demo_result = {
         "count": 0,
-        "matched_professors": {}
+        "matched_professors": []
     }
 
-    valid_sort_fields = ['SEI', 'avg_rating', 'difficulty', 'comments_relevance']
+    valid_sort_fields = ['sei', 'avg_rating', 'difficulty', 'comments_relevance']
     if sort_by and sort_by not in valid_sort_fields:
         raise ValueError(f"Invalid sort_by field: {sort_by}. Valid options are {valid_sort_fields}")
 
@@ -64,32 +64,33 @@ def search_professors_sort(subject: str, courseNum: str, sort_by: str = None, or
     # Perform the search
     res = es.search(index="professors", body=query)
 
-    matched = {}
+    matched_list = []
     for result in res["hits"]["hits"]:
         source = result['_source']
-        matched[result['_id']] = {
+        matched_list.append({
+            "id": result['_id'],
             "name": f"{source['firstName']} {source['lastName']}",
             "avg_rating": source.get('avgRating'),
             "difficulty": source.get('avgDifficulty'),
             "SEI": source.get('SEI'),
             "comments_overview": source.get("comments_overview", ""),
             "score": result.get('_score')  # Save score for relevance sorting
-        }
+        })
 
     # Sort locally by ES relevance if sorting by comments_relevance
     if sort_by == "comments_relevance":
         reverse = (order == 'desc')
-        matched = dict(sorted(matched.items(), key=lambda item: item[1].get("score", 0), reverse=reverse))
+        matched_list.sort(key=lambda prof: prof.get("score", 0), reverse=reverse)
 
-    demo_result["matched_professors"] = matched
-    demo_result["count"] = len(matched)
+    demo_result["matched_professors"] = matched_list
+    demo_result["count"] = len(matched_list)
     return demo_result
 
-# results = demo_search_course("math", "1148")
-# for result in results["matched_professors"]:
-#     print(results["matched_professors"][result])
-#     print("Name:", results["matched_professors"][result]['name'])
-#     print("Average Rating:", results["matched_professors"][result]['avg_rating'])
-#     print("Average Difficulty:", results["matched_professors"][result]['difficulty'])
-#     print("SEI:", results["matched_professors"][result]['SEI'])
-#     print()
+results = search_professors_sort("math", "1148")
+for result in results["matched_professors"]:
+    print(result)
+    print(f"Name:{result['name']}")
+    print(f"Average Rating:{result['avg_rating']}")
+    print(f"Average Difficulty:{result['difficulty']}")
+    print(f"SEI:{result['SEI']}")
+    print()

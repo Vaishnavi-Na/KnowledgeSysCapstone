@@ -261,6 +261,63 @@
         "course": "AMS600"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "AGSYSMT",
+        "Catalog": "5600",
+        "Class Name": "Agricultural Safety and Health",
+        "Class Number": "31260",
+        "Term": "SP 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "AGSYSMT",
+        "Catalog": "5600",
+        "Class Name": "Agricultural Safety and Health",
+        "Class Number": "8613",
+        "Term": "SP 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "18",
+        "Rating": "4.61"
+      },
+      {
+        "Subject": "AGSYSMT",
+        "Catalog": "5600",
+        "Class Name": "Agricultural Safety and Health",
+        "Class Number": "31617",
+        "Term": "SP 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "15",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "AGSYSMT",
+        "Catalog": "5600",
+        "Class Name": "Agricultural Safety and Health",
+        "Class Number": "32481",
+        "Term": "SP 24",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.44"
+      }
+    ]
   }
 ]

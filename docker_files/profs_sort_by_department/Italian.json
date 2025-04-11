@@ -1,743 +1,5 @@
 [
   {
-    "avgDifficulty": 2.9,
-    "avgRating": 3.9,
-    "department": "Italian",
-    "firstName": "Ted",
-    "id": "VGVhY2hlci0xMzg0MDc0",
-    "lastName": "Emery",
-    "legacyId": 1384074,
-    "numRatings": 24,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Took Modern Media with him. He made activities packets to go with the movies, focused on vocabulary, grammar and discussion questions. Interesting films, and my Italian improved a lot.",
-        "course": "ITALIAN3332"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Worst Professor Ive had. Takes pleasure in making fun of students in a condescending manner. Called me out in front of the whole class for making a mistake on one of the homework assignments. Literally hated coming to his class.",
-        "course": "ITALIAN1101"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Ted is a bad instructor, and what makes it worse is that he thinks that he's a great instructor. I can't recommend taking classes with him",
-        "course": "ITALIAN1103"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Seemed like a great guy at first, but often called students out in front of whole class to humiliate them. Homework is done through textbook. Tests are pretty easy and lets you retake if you do bad, great class, but instructor not so much.",
-        "course": "ITALIAN1101"
-      },
-      {
-        "index": 5,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "prof Emery knew the subject matter and was professional about it, he was a tremendously hard grader, and sometimes unprofessional. I felt he had a personal vendetta against me, which I never say about professors. Week and week I was trying to put more work into the class, and he kept giving me poor participation points when I was doing the most.",
-        "course": "ITALIAN1102"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Emery is my favorite professor that I've had in college even though I have never really liked foreign language classes. He makes class interesting and is generally lenient.",
-        "course": "ITALIAN1103"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Ted is an amazing professor! I had him for Italian 1101 and he made the class interesting and very easy to get an A in.",
-        "course": "ITALIAN1101"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "If you have to take Italian please take Prof. Emery. He is the sweetest professor I've ever had. He truly knows how to effectively teach and he cares about his students. If you need help, he will gladly help. I do not have any complaints about the class or his teaching methods at all.",
-        "course": "IT5101"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I cannot say enough good things about Professor Emery. You can tell he cares so much about the subject matter and about all of his students. Besides that, his teaching style is great. He makes things easy to follow and, if you have problems catching on, he makes himself available almost every day if you need extra help. Such a great teacher!",
-        "course": "ITAL1101"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Prof Emery is the best language teacher I have ever had. He is so enthusiastic and you can tell he loves teaching and wants us to do well.  He is a fair grader, and as long as you come to class and do homework passing with a decent grade is easy. Seriously would take every italian class with him if I could.",
-        "course": "ITALIAN1102"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Emery is the best OSU Italian teacher. He is so helpful, knows what he is talking about, and he cares about you learning. Do the work and study and you will pass. I would take all my Italian classes with him if I could.",
-        "course": "ITALIAN3332"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Prof Emery is extremely enthusiastic about Italian, and made me love the language even more than I already did. He is very willing to help and makes participating in class fun. ",
-        "course": "1101"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great professor, extremely knowledgeable, energetic, and always ready to help his students. His class is definitely more demanding than some other language professors, but I learned a ton and still really enjoyed going to class every day. He does expect you to understand the topic to be covered in class before each class, so prepare.",
-        "course": "ITALIAN1102"
-      },
-      {
-        "index": 14,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Dr. Emery was the only professor I had for the Italian series (1101-1103) who made it completely not fun and made me feel like I hated to go every day. He calls on you even if you don't know the answer a question. He's extremely smart, but I felt like I was in a graduate course half the time because it was such an intense and fast paced class.",
-        "course": "ITALIAN1102"
-      },
-      {
-        "index": 15,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "He did not behave professionally and almost always had something negative to say when people volunteered to speak. It was not encouraging. Most activities felt drill-like, were useless and a waste of time and I felt I had to do all the work on my own at home. He speaks well, is learned and entertaining, but I did not enjoy the way he taught.",
-        "course": "IT5101"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Mr. Emery is one of the best professors at OSU. He keeps you challenged, but if you genuinely want to learn Italian, his methods work very well.",
-        "course": "ITALIAN1103"
-      },
-      {
-        "index": 17,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Excellent professor!  He is incredibly knowledgeable of the subject.  He's very kind and always willing to help.",
-        "course": "ITA402"
-      },
-      {
-        "index": 18,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Amazing professor. Great at teaching - he's funny and entertaining. If you study and are decent at speaking Italian, you should do well. However, the class is taught almost completely in Italian so this may trip some people up.",
-        "course": "ITAL104"
-      },
-      {
-        "index": 19,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Prof Emery can be intimidating first but I found him to be extremely helpful and knowledgeable. He really cares about teaching the material and is always charismatic and pleasant.",
-        "course": "ITALI102"
-      },
-      {
-        "index": 20,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Professor Emery is a highly educated and extremely talented professor.  You may be slightly intimidated by him, but don't be!  His classes are very informative and should be taken if you really want to learn the language (believe me, you'll most definitely learn!).  His lessons are fun as he tries to keep things both interesting and informative.",
-        "course": "ITA425"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Ted Emery is a quality prof. He does cover a lot of material during class and expects you to do your homework, but do not be intimidated. If you attend class and try, you will get a descent grade. I am not an Italian major and he always understood this and helped me when I needed it. He is also very approachable in office hours.",
-        "course": "ITAL425"
-      },
-      {
-        "index": 22,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "I think Prof. Emery is a great teacher. While he does try to get you to figure things out on your own, he can tell when you just don't know and will help. He cares a ton about his students and goes to the trouble of making study guides for each test and giving you a sample final exam to practice. No other teachers do this. Take Prof. Emery.",
-        "course": "ITAL103"
-      },
-      {
-        "index": 23,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Mr. Emery is not a difficult teacher, but in an effort to make you understand the material, he tries to make you figure it out on your own, causing frustration and confusion.",
-        "course": "ITA102"
-      },
-      {
-        "index": 24,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "He is not necessarily difficult, but expect tedious and unhelpful work in and out of class. Class is typically too fast to grasp the concept, yet too slow that you check the clock constantly (and you will never get out early or on time for that matter). He has an attitude that's &quot;his way or the highway.&quot;",
-        "course": "ITA401"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Italian",
-    "firstName": "Samanta",
-    "id": "VGVhY2hlci0yMzE1ODkx",
-    "lastName": "Buffa",
-    "legacyId": 2315891,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I had Samanta for Italian 1101 and she was amazing. She was extremely understanding and genuinely wants you to learn and understand the language as well as having fun doing so. She is very funny and upbeat which a lot of professors seemingly lack. If you have the choice I would take her in a hearbeat.",
-        "course": "IT1103"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She was really good about getting everyone to participate and by the end of the semester, I really felt that I understood three semesters worth of material and could have a conversation relatively easily without struggling. She explains concepts really well in terms of the language itself.",
-        "course": "ITALIAN5101"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Caring, accessible, and funny professor. Always prepared, willing to answer questions. I looked forward to every class. Truly helped me learn Italian. Overall, an excellent professor.",
-        "course": "IT1103"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 2,
-    "department": "Italian",
-    "firstName": "Harry",
-    "id": "VGVhY2hlci0yNjIzNzc2",
-    "lastName": "Kashdan",
-    "legacyId": 2623776,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Do not take this class for a GE way too much work it is not worth was recommended to take by another professor because they couldn't fill the class and there is a reason for that. Participation is too much of the grade and you have discussions every week from books that you have to buy. The exams are huge written response questions. Do not take.",
-        "course": "FRIT2061"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Way more work than a 3 credit hour GE should be do not take this class if you aren't going to come to lecture and participate. You should have to expect to have a couple of hours of reading each week of different books that you have to buy for the course. The grading on the weekly discussion posts is poor and unfair the feedback given is bad.",
-        "course": "FRIT2061"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Italian",
-    "firstName": "Jonathan",
-    "id": "VGVhY2hlci0yNzU4NTM4",
-    "lastName": "Mullins",
-    "legacyId": 2758538,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I only took this class to fulfill a GE requirement, but it quickly became one of my favorites, thanks in part to Professor Mullins. His lectures are very interesting and engaging, and his in-lecture discussions will really make you think. If you study, his exams are a breeze. Just be ready to write. He also gives out a good amount of extra credit.",
-        "course": "ITA2056"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This class is extremely easy if you put the time into it. It's not too much work but definitely takes time to watch the movies. He is an amazing professor and doesn't force you to answer if you don't want to talk. The lecture is very engaging and I would totally recommend this as a GE!",
-        "course": "ITA2056"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Prof Mullins is understanding, kind, &amp; always available for help. I would recommend this class to anyone because if you show up, watch the movies, complete the easy assignments, and take good notes it's not hard at all to get an A. The exams are heavily weighted: good if you miss other work, bad if you don't know the material. 10/10, just study!",
-        "course": "ITA2056"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.2,
-    "avgRating": 4.5,
-    "department": "Italian",
-    "firstName": "Carla",
-    "id": "VGVhY2hlci05ODA3NDc=",
-    "lastName": "Onorato Wysokinski",
-    "legacyId": 980747,
-    "numRatings": 6,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Super helpful and understanding",
-        "course": "ITAL103"
-      },
-      {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "Very unorganized. The syllabus and zoom link are nearly impossible to find on carmen. She doesn't use modules at all and posts all the assignments on carmen at once, so you have to comb through to see what is due every week. Doesn't lecture in class, and puts us in breakout rooms 5 times every class with barely enough time to finish work",
-        "course": "ITALI101"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Awesome!",
-        "course": "ITAL5101"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great teacher! Very helpful, kind, and makes class fun. Follows the syllabus, and explains things clearly. I've had four different Italian teachers and she is by far my favorite. Take her if you can!",
-        "course": "ITAL104"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "She's a wonderful teacher! Makes you feel very comfortable in the classroom. Never makes people feel dumb when they can't remember words or pronounce things wrong. Very funny and understanding. 101 is an easy class and she makes it enjoyable. Definitely recommend taking her classes!!",
-        "course": "ITALI101"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "she's an excellent teacher, and a very warm, natural and funny person. she's easy on the eyes too, a very hot Italian lady from Rome. take her class if you can, you won't regret it.",
-        "course": "ITAL103"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.2,
-    "avgRating": 5,
-    "department": "Italian",
-    "firstName": "Mattia",
-    "id": "VGVhY2hlci0xNDQ0MTgy",
-    "lastName": "Beghelli",
-    "legacyId": 1444182,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Absolutely fantastic professor. By far the most fun I've ever had in an Italian class (and probably in any college class). This is the only class I've ever done all the reading for for the whole semester. Really engaging, funny, and all around a really nice guy.",
-        "course": "ITAL3640"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "What a great guy. He has lots of energy and a great sense of humor. He makes sure that everyone of his students feel comfortable with the material and is very approachable. The class is very straightforward, just do the work and you will be fine. On the last day he made us all Tiramisu! Whatever he is teaching, take his class!",
-        "course": "ITAL231"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He's the best. All you need to know.",
-        "course": "ITAL231"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "All the rumors are true, Mattia is the best.  Very energetic, funny, and friendly.  He wants his students to learn and he is a great teacher.",
-        "course": "ITALIAN231"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Mattia is awesome!! He is super funny but still extremely helpful at the same time. He moved our class along faster than the other sections of Italian 101 but it wasn't overwhelming. He is the best teacher I've had at U of M and a fantastic start to my Italian career!",
-        "course": "ITAL5"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Awesome teacher! He is really funny and VERY helpful. He truly wants you to succeed. Unfortunately for us, he has left OSU to pursue his doctorate degree.",
-        "course": "ITAL103"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Great teacher. He's hilarious and genuinely cares about teaching. Just do the online homework, study, participate in class, and you'll be fine.",
-        "course": "ITAL102"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Mattia is the best Italian teacher you will find. If you can take a class with him, do it. I promise you that you will not regret it. Not only will you learn Italian but you will have so much fun doing it.",
-        "course": "ITAL103"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I had Mattia for both 102 and 103, and he is truly the best teacher I have had at Ohio State. I've never had an instructor more willing to help and ensure you understand the material. It's hard to believe this was his first year teaching, because he's so unbelievably natural in front of a classroom, not to mention, full of energy and jokes.",
-        "course": "ITA103"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.2,
-    "avgRating": 5,
-    "department": "Italian",
-    "firstName": "Christina",
-    "id": "VGVhY2hlci0yMDk0Mzkw",
-    "lastName": "Steele",
-    "legacyId": 2094390,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Great, genuine teacher. She clearly wants her students to learn and is thorough with her lessons. She sets her students up well for the next level they will take. Would definitely recommend taking her for Italian!",
-        "course": "ITALIAN1"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I loved taking Italian with Christina Steele. She is an amazing professor that genuinely cares about getting her students to learn the language. I felt thoroughly prepared for the next level of Italian after taking her class.",
-        "course": "ITALIAN1101"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She was super great. She made Italian extremely easy and she genuinely wanted us to learn the language. I wish she was more easily accessible outside of class, but that's really my only complaint.",
-        "course": "ITAL1103"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She was such an amazing teacher and even persuaded me to go beyond 1103 and become an Italian minor. She was available at all times, willing to work with you, helpful, and very caring. I would recommend her to anyone and would definitely take again. Her grading is fair and she really cares about her students and their performance in her class.",
-        "course": "ITAL1103"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "She's one of the best professors I have had at Ohio State. Her classes are very well organized and she makes sure we all understand the material before proceeding. There is homework every night, however it really does help in the long run with quizzes . I highly recommend her class if you're looking to take Italian at OSU!",
-        "course": "ITAL1101"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "She is the most amazing teacher I have had in the language department at osu. She is always trying to help us learn better and is available anytime and anywhere to help her students. I would recommend her to anyone!",
-        "course": "ITAL1103"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Christina was the best professor I have had at OSU. She is nice, helpful and hilarious! She wants her student to learn and incorporates a lot of learning aspects so Italian does not become stressful!",
-        "course": "ITAL1101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.7,
-    "avgRating": 3.6,
-    "department": "Italian",
-    "firstName": "Anna-Anita",
-    "id": "VGVhY2hlci05OTY5MzI=",
-    "lastName": "Cesnjevar",
-    "legacyId": 996932,
-    "numRatings": 11,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Worst college experience to date. If you arent somehow an expert in the language good luck. She belittles, she demeans, she focuses all of her attention on students that already grasp the material. She will not work with you if youve had any illnesses or fall behind instead she constantly encouraged me to drop. She shames and discourages.",
-        "course": "FREN1101"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "I had her for BCS 2104 and she's a really good professor that tries her best to make class fun and interesting. For BCS we had a couple of Midterms and a final along with two oral presentations. If you have the chance to have her as a professor, I suggest taking it.",
-        "course": "BCS2104"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "I took her class as a CCP student, I'm 15. She genuinely cares about the class and is extremely kind. She grades tough but fair, and sometimes it felt like she treated the class like middle school, but overall I really enjoyed her class. She is completely willing to spend time helping you understand things you don't. There's lots of homework though",
-        "course": "ITALI101"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Strict, but she genuinely cares about your understanding of Italian. She makes you speak everyday whether you want to or not, which ended up really helping for the tests/exams/essays. She tries to do different activities and keep everyone engaged, but almost always went over the time limit for class.",
-        "course": "ITALI101"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "She is a very good teacher. A little strict (expects you to come prepared), but that's not a bad thing. Tries to make class fun. The Italian department makes the quizzes and final, but she does a good job of preparing you for them. Time management isn't her strength though. Went over the allotted time seemingly every class.",
-        "course": "ITALIAN1101"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Anna is the best language teacher I've ever had. Her class itself is a lot of work but she doesn't expect perfection and is willing to help you understand the material. She is very enthusiastic and lively, and truly cares about her class.",
-        "course": "ITAL1101"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She's a great teacher and offers to help with whatever time she can manage with her busy schedule. She doesn't expect you to be a master in Italian, grades accordingly, is fair and clearly teaches what will be tested on. If you don't understand something she will go over it with you and explain it in other ways so that you can. Very lively and kind",
-        "course": "ITAL103"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Probably the most frustrating prof I've had in school.  She does care about her students.  But is completely unreasonable. Assigns long tedious homework assignments that don't help. Hard to understand. Doesn't consider what's best for the student.  Treats students like they're in Junior high. Avoid if you can. ",
-        "course": "ITAL103"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "The best!",
-        "course": "ITAL103"
-      },
-      {
-        "index": 10,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "too worried about herself",
-        "course": "ITAL103"
-      },
-      {
-        "index": 11,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "VERY helpful. Enjoyed both of my classes with her. Speaks over 6 languages, and is wonderful with Italian. Tough but fair grader and will take time out to help you if you are struggling. Use her office hours if you're having trouble. Overall, wonderful teacher and would love to take a class with her again.",
-        "course": "ITALI101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.4,
-    "avgRating": 5,
-    "department": "Italian",
-    "firstName": "Stefani",
-    "id": "VGVhY2hlci0yNzU5MDA5",
-    "lastName": "Scimeca",
-    "legacyId": 2759009,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Stefani is definitely one of the best professors I have ever had. Her lectures are amazing, and she is just a vivacious person. Attendance is mandatory. You will lose points off your final grade for each additional absence you have from the 'grace' period. Show up to class and be ready to participate. Stefani makes class fun and easy to participate",
-        "course": "ITAL1101"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I had Stefani for Italian 1102 and she was amazing, surely my favorite professor I've had. One of the very few professors who was genuinely caring. The class is a little homework heavy but nothing too substantial. Definitely recommend her to anyone looking to take 1102.",
-        "course": "ITAL1101"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I had Stefani for Italian 1102 and she's awesome! Very caring and wants students to succeed. Lots of Connect homework and quizzes but classes are engaging.",
-        "course": "ITAL1101"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Stefani is the best! So nice and helpful, I was dreading taking a language but it turned out to be my favorite class of the semester thanks to her.",
-        "course": "ITAL1101"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Fabulous professor! I can't wait to take more Italian thanks to her class! Grazie !",
-        "course": "ITAL1101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.7,
-    "avgRating": 4.6,
-    "department": "Italian",
-    "firstName": "Jonathan",
-    "id": "VGVhY2hlci0yMzI5ODY3",
-    "lastName": "Combs-Schilling",
-    "legacyId": 2329867,
-    "numRatings": 11,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "RUN!!! Had him for Italian 1102. His first time teaching the language and god was it awful and a hilarious train wreck. We had 5 midterms, a final, speaking exams, etc. He graded none of it lmao. He knew he was terrible, so he gave everyone an A because he only graded two assignments in total from first week of class. Screwed for Italian 1103 now. ",
-        "course": "ITALIAN2051"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I took 1102. He cares about every student and wants everyone to succeed. While he did fall behind in lectures and is very slow to grade, he is very accessible for help and prioritizes the learning of the language. He is very funny and respectful, and is willing to be very flexible to accommodate anything you may need. Absolutely take his classes!",
-        "course": "ITALIAN2051"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Combs-Schilling was an amazing professor. He turned something that I had absolutely no interest in into something really fun! He is extremely passionate about his work and is super nice and understanding. 12/10 would recommend this class to anyone looking for the GE requirement. Not too much work at all. Just a lot of reading and a few papers",
-        "course": "ITALIAN2051"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "By far my favorite professor at Ohio State. The class is very lecture heavy with weekly quizzes, but he is the best lecturer I've ever had. If you do the readings and share your thoughts, you will thoroughly enjoy the class. In addition, Dr. Combs-Schilling is extremely outgoing and still keeps in touch with my entire class from over a year ago!",
-        "course": "ITALIAN2051"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Amazing teacher!!",
-        "course": "ITALIAN2051"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Awesome teacher.",
-        "course": "ITALIAN2051"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Best class I've taken at OSU. He is very passionate about teaching and made what should have been boring topics extremely interesting. Attendance is mandatory, but he makes going to lecture worth it. There is a lot of reading (shocking because it's a literature class), but it's extremely manageable and you are often allowed to skip chapters.",
-        "course": "ITALIAN2051"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "He is an amazing professor and is super passionate about what he takes. He is also very understanding in course load. If it's too much he'll shorten. He is more interested in the class than following a rubric. Excellent!!!",
-        "course": "ITALIAN3051"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Taking his class was so refreshing. He's very passionate about teaching and shows it by making sure all of us understand how past history has influenced literature travel. 100% recommended. He encourages everyone to go to his office hours and is always happy to help",
-        "course": "ITALIAN2051"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I didn't really care for Italian literature until taking this class. Jonathan is extremely passionate about it. Lectures were long for me, but he makes it interesting by getting the class involved. Two papers and A LOT of reading. Pay attention in class and you can get away with not reading. Also participating in class is rewarded with bonus.",
-        "course": "ITALIAN2051"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great! Is clearly super passionate about the subject he is teaching and is well knowledge on it. He was very approachable and is constantly encouraging the use of his office hours . His lectures were genuinely interesting and you basically learned anything and everything you needed to know for quizzes just by listening.",
-        "course": "ITALIAN2051"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.8,
-    "avgRating": 4.5,
-    "department": "Italian",
-    "firstName": "Demetrio",
-    "id": "VGVhY2hlci0yNTQyMzAy",
-    "lastName": "Antolini",
-    "legacyId": 2542302,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Antolini is somewhat shy, but always very friendly and always willing to help students learn! I like his lecture style where participation is encouraged, but not necessary. Also, I enjoyed hearing his stories about living in Italy and sharing cultural differences. The textbook quizzes are difficult, but you will not regret taking his class! ",
-        "course": "ITALIAN1102"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "amazing amazing amazing!!!! he is so so nice and understanding. he truely wants his students to do well he is awesome ",
-        "course": "ITALIAN1101"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Signor Antolini is a caring teacher. He is laid-back and relatable. He available often outside of his class for questions and is good with emails. He is an decent teacher, but nothing spectacular. Most of the learning consists of doing the homework and reading the textbook, and then practicing speaking in class.",
-        "course": "ITALIAN1101"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Had him for Italian 1101.03 and he was the best. Super chill and relatable. He cares about his students and want you to succeed. Highly recommend.",
-        "course": "ITALIAN1101"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.2,
     "avgRating": 3.1,
     "department": "Italian",
@@ -1014,41 +276,218 @@
         "course": "ITAL2102"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.7,
-    "avgRating": 4.3,
-    "department": "Italian",
-    "firstName": "Lauren",
-    "id": "VGVhY2hlci0yNjA2MDIy",
-    "lastName": "De Camilla",
-    "legacyId": 2606022,
-    "numRatings": 3,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Excellent.  Well-qualified.  Exceedingly kind and caring.  Creative.  Friendly.  Intelligent.",
-        "course": "ITAL2055"
+        "Subject": "ITALIAN",
+        "Catalog": "2053",
+        "Class Name": "Introduction to Italian Cinema",
+        "Class Number": "23201",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
       },
       {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "nice person and very kind ",
-        "course": "ITAL2055"
+        "Subject": "ITALIAN",
+        "Catalog": "4224",
+        "Class Name": "Survey of Italian Literature",
+        "Class Number": "34096",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
       },
       {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Dr. Lauren is a nice person. Attending class seemed like hanging out with a friend. She never created that Professor - student boundary. She was not very organized to say the least. You basically have to work for everything. This was supposed to be a fun class, but stress took the fun out of it. The powerpoints will not be available on Carmen.",
-        "course": "ITAL2055"
+        "Subject": "ITALIAN",
+        "Catalog": "2053",
+        "Class Name": "Introduction to Italian Cinema",
+        "Class Number": "29886",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "54",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2055",
+        "Class Name": "Mafia Movies",
+        "Class Number": "22179",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "28",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2055",
+        "Class Name": "Mafia Movies",
+        "Class Number": "34887",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "239",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2053",
+        "Class Name": "Introduction to Italian Cinema",
+        "Class Number": "34557",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "30",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2055",
+        "Class Name": "Mafia Movies",
+        "Class Number": "19254",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2055",
+        "Class Name": "Mafia Movies",
+        "Class Number": "27803",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "184",
+        "Rating": "4.17"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2053",
+        "Class Name": "Introduction to Italian Cinema",
+        "Class Number": "29961",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.84"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "19301",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.03",
+        "Class Name": "Italian III Blended",
+        "Class Number": "29685",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2055",
+        "Class Name": "Mafia Movies",
+        "Class Number": "29692",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "73",
+        "Rating": "4.12"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "27919",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2053",
+        "Class Name": "Introduction to Italian Cinema",
+        "Class Number": "29177",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "4225",
+        "Class Name": "Italian Identities",
+        "Class Number": "36124",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
       }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 2.2,
@@ -1446,7 +885,22 @@
         "course": "ITAL221"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2055",
+        "Class Name": "Mafia Movies",
+        "Class Number": "34093",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "248",
+        "Rating": "4.57"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -1599,7 +1053,232 @@
         "course": "ITALIAN1103"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "FRIT",
+        "Catalog": "3054",
+        "Class Name": "The 21st-Century Skill: Intercultural Competence for Global Citizenship",
+        "Class Number": "38013",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "43",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.03",
+        "Class Name": "Italian II Blended",
+        "Class Number": "25500",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3332",
+        "Class Name": "The Sounds of Italian",
+        "Class Number": "34095",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.02",
+        "Class Name": "Italian II Hybrid",
+        "Class Number": "33478",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "17",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3223",
+        "Class Name": "The Regions of Italy",
+        "Class Number": "33484",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103",
+        "Class Name": "Italian III Blended",
+        "Class Number": "34870",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "17",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2102",
+        "Class Name": "Contemporary Italian Society",
+        "Class Number": "13899",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "17",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "19459",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "19461",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.03",
+        "Class Name": "Italian III Blended",
+        "Class Number": "27793",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.03",
+        "Class Name": "Italian II Blended",
+        "Class Number": "29958",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1198.71",
+        "Class Name": "Italian on the Ground",
+        "Class Number": "35027",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.36"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "19301",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "28894",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2102",
+        "Class Name": "Contemporary Italian Society",
+        "Class Number": "35657",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.33"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1198.71",
+        "Class Name": "Italian on the Ground",
+        "Class Number": "30139",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.5"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.5,
@@ -1624,6 +1303,1512 @@
         "difficulty": 4,
         "comment": "Prof Bertossa is a great teacher. She is from Italy so at first (as an easily intimidated freshman), I was scared due to how little English is spoken in this class. But, I found this made my Italian so much better. Being encouraged to speak it at all times helped me grow immensely. She is so sweet and very devoted to helping her students learn.",
         "course": "1102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.4,
+    "avgRating": 5,
+    "department": "Italian",
+    "firstName": "Stefani",
+    "id": "VGVhY2hlci0yNzU5MDA5",
+    "lastName": "Scimeca",
+    "legacyId": 2759009,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Stefani is definitely one of the best professors I have ever had. Her lectures are amazing, and she is just a vivacious person. Attendance is mandatory. You will lose points off your final grade for each additional absence you have from the 'grace' period. Show up to class and be ready to participate. Stefani makes class fun and easy to participate",
+        "course": "ITAL1101"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I had Stefani for Italian 1102 and she was amazing, surely my favorite professor I've had. One of the very few professors who was genuinely caring. The class is a little homework heavy but nothing too substantial. Definitely recommend her to anyone looking to take 1102.",
+        "course": "ITAL1101"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I had Stefani for Italian 1102 and she's awesome! Very caring and wants students to succeed. Lots of Connect homework and quizzes but classes are engaging.",
+        "course": "ITAL1101"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Stefani is the best! So nice and helpful, I was dreading taking a language but it turned out to be my favorite class of the semester thanks to her.",
+        "course": "ITAL1101"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Fabulous professor! I can't wait to take more Italian thanks to her class! Grazie !",
+        "course": "ITAL1101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.7,
+    "avgRating": 4.6,
+    "department": "Italian",
+    "firstName": "Jonathan",
+    "id": "VGVhY2hlci0yMzI5ODY3",
+    "lastName": "Combs-Schilling",
+    "legacyId": 2329867,
+    "numRatings": 11,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "RUN!!! Had him for Italian 1102. His first time teaching the language and god was it awful and a hilarious train wreck. We had 5 midterms, a final, speaking exams, etc. He graded none of it lmao. He knew he was terrible, so he gave everyone an A because he only graded two assignments in total from first week of class. Screwed for Italian 1103 now. ",
+        "course": "ITALIAN2051"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I took 1102. He cares about every student and wants everyone to succeed. While he did fall behind in lectures and is very slow to grade, he is very accessible for help and prioritizes the learning of the language. He is very funny and respectful, and is willing to be very flexible to accommodate anything you may need. Absolutely take his classes!",
+        "course": "ITALIAN2051"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Combs-Schilling was an amazing professor. He turned something that I had absolutely no interest in into something really fun! He is extremely passionate about his work and is super nice and understanding. 12/10 would recommend this class to anyone looking for the GE requirement. Not too much work at all. Just a lot of reading and a few papers",
+        "course": "ITALIAN2051"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "By far my favorite professor at Ohio State. The class is very lecture heavy with weekly quizzes, but he is the best lecturer I've ever had. If you do the readings and share your thoughts, you will thoroughly enjoy the class. In addition, Dr. Combs-Schilling is extremely outgoing and still keeps in touch with my entire class from over a year ago!",
+        "course": "ITALIAN2051"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Amazing teacher!!",
+        "course": "ITALIAN2051"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Awesome teacher.",
+        "course": "ITALIAN2051"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Best class I've taken at OSU. He is very passionate about teaching and made what should have been boring topics extremely interesting. Attendance is mandatory, but he makes going to lecture worth it. There is a lot of reading (shocking because it's a literature class), but it's extremely manageable and you are often allowed to skip chapters.",
+        "course": "ITALIAN2051"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He is an amazing professor and is super passionate about what he takes. He is also very understanding in course load. If it's too much he'll shorten. He is more interested in the class than following a rubric. Excellent!!!",
+        "course": "ITALIAN3051"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Taking his class was so refreshing. He's very passionate about teaching and shows it by making sure all of us understand how past history has influenced literature travel. 100% recommended. He encourages everyone to go to his office hours and is always happy to help",
+        "course": "ITALIAN2051"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I didn't really care for Italian literature until taking this class. Jonathan is extremely passionate about it. Lectures were long for me, but he makes it interesting by getting the class involved. Two papers and A LOT of reading. Pay attention in class and you can get away with not reading. Also participating in class is rewarded with bonus.",
+        "course": "ITALIAN2051"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great! Is clearly super passionate about the subject he is teaching and is well knowledge on it. He was very approachable and is constantly encouraging the use of his office hours . His lectures were genuinely interesting and you basically learned anything and everything you needed to know for quizzes just by listening.",
+        "course": "ITALIAN2051"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "FRIT",
+        "Catalog": "8602",
+        "Class Name": "Comparative French and Italian Studies",
+        "Class Number": "25511",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "FRIT",
+        "Catalog": "8602",
+        "Class Name": "Comparative French and Italian Studies",
+        "Class Number": "28362",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2051",
+        "Class Name": "Fictions of Italy: Medieval and Renaissance Literature and Society",
+        "Class Number": "23732",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "32",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3798.01",
+        "Class Name": "The Italian City",
+        "Class Number": "18810",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3051",
+        "Class Name": "Italian Romances",
+        "Class Number": "27419",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3798.01",
+        "Class Name": "The Italian City",
+        "Class Number": "18778",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3051",
+        "Class Name": "Italian Romances",
+        "Class Number": "21541",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.97"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3798.01",
+        "Class Name": "The Italian City",
+        "Class Number": "18904",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2051",
+        "Class Name": "Italian Journeys",
+        "Class Number": "35360",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3051",
+        "Class Name": "Italian Romances",
+        "Class Number": "27370",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3220",
+        "Class Name": "Italian Culture Through the Ages",
+        "Class Number": "34983",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3798.01",
+        "Class Name": "The Italian City",
+        "Class Number": "18832",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.27"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "4224",
+        "Class Name": "Survey of Italian Literature",
+        "Class Number": "35659",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.03",
+        "Class Name": "Italian II Blended",
+        "Class Number": "29175",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.83"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1.8,
+    "avgRating": 4.5,
+    "department": "Italian",
+    "firstName": "Demetrio",
+    "id": "VGVhY2hlci0yNTQyMzAy",
+    "lastName": "Antolini",
+    "legacyId": 2542302,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Antolini is somewhat shy, but always very friendly and always willing to help students learn! I like his lecture style where participation is encouraged, but not necessary. Also, I enjoyed hearing his stories about living in Italy and sharing cultural differences. The textbook quizzes are difficult, but you will not regret taking his class! ",
+        "course": "ITALIAN1102"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "amazing amazing amazing!!!! he is so so nice and understanding. he truely wants his students to do well he is awesome ",
+        "course": "ITALIAN1101"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Signor Antolini is a caring teacher. He is laid-back and relatable. He available often outside of his class for questions and is good with emails. He is an decent teacher, but nothing spectacular. Most of the learning consists of doing the homework and reading the textbook, and then practicing speaking in class.",
+        "course": "ITALIAN1101"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Had him for Italian 1101.03 and he was the best. Super chill and relatable. He cares about his students and want you to succeed. Highly recommend.",
+        "course": "ITALIAN1101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.7,
+    "avgRating": 4.3,
+    "department": "Italian",
+    "firstName": "Lauren",
+    "id": "VGVhY2hlci0yNjA2MDIy",
+    "lastName": "De Camilla",
+    "legacyId": 2606022,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Excellent.  Well-qualified.  Exceedingly kind and caring.  Creative.  Friendly.  Intelligent.",
+        "course": "ITAL2055"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "nice person and very kind ",
+        "course": "ITAL2055"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Dr. Lauren is a nice person. Attending class seemed like hanging out with a friend. She never created that Professor - student boundary. She was not very organized to say the least. You basically have to work for everything. This was supposed to be a fun class, but stress took the fun out of it. The powerpoints will not be available on Carmen.",
+        "course": "ITAL2055"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2053",
+        "Class Name": "Introduction to Italian Cinema",
+        "Class Number": "23240",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.27"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2102",
+        "Class Name": "Contemporary Italian Society",
+        "Class Number": "19565",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.9,
+    "avgRating": 3.9,
+    "department": "Italian",
+    "firstName": "Ted",
+    "id": "VGVhY2hlci0xMzg0MDc0",
+    "lastName": "Emery",
+    "legacyId": 1384074,
+    "numRatings": 24,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Took Modern Media with him. He made activities packets to go with the movies, focused on vocabulary, grammar and discussion questions. Interesting films, and my Italian improved a lot.",
+        "course": "ITALIAN3332"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Worst Professor Ive had. Takes pleasure in making fun of students in a condescending manner. Called me out in front of the whole class for making a mistake on one of the homework assignments. Literally hated coming to his class.",
+        "course": "ITALIAN1101"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Ted is a bad instructor, and what makes it worse is that he thinks that he's a great instructor. I can't recommend taking classes with him",
+        "course": "ITALIAN1103"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Seemed like a great guy at first, but often called students out in front of whole class to humiliate them. Homework is done through textbook. Tests are pretty easy and lets you retake if you do bad, great class, but instructor not so much.",
+        "course": "ITALIAN1101"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "prof Emery knew the subject matter and was professional about it, he was a tremendously hard grader, and sometimes unprofessional. I felt he had a personal vendetta against me, which I never say about professors. Week and week I was trying to put more work into the class, and he kept giving me poor participation points when I was doing the most.",
+        "course": "ITALIAN1102"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Professor Emery is my favorite professor that I've had in college even though I have never really liked foreign language classes. He makes class interesting and is generally lenient.",
+        "course": "ITALIAN1103"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Ted is an amazing professor! I had him for Italian 1101 and he made the class interesting and very easy to get an A in.",
+        "course": "ITALIAN1101"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "If you have to take Italian please take Prof. Emery. He is the sweetest professor I've ever had. He truly knows how to effectively teach and he cares about his students. If you need help, he will gladly help. I do not have any complaints about the class or his teaching methods at all.",
+        "course": "IT5101"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I cannot say enough good things about Professor Emery. You can tell he cares so much about the subject matter and about all of his students. Besides that, his teaching style is great. He makes things easy to follow and, if you have problems catching on, he makes himself available almost every day if you need extra help. Such a great teacher!",
+        "course": "ITAL1101"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Prof Emery is the best language teacher I have ever had. He is so enthusiastic and you can tell he loves teaching and wants us to do well.  He is a fair grader, and as long as you come to class and do homework passing with a decent grade is easy. Seriously would take every italian class with him if I could.",
+        "course": "ITALIAN1102"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Emery is the best OSU Italian teacher. He is so helpful, knows what he is talking about, and he cares about you learning. Do the work and study and you will pass. I would take all my Italian classes with him if I could.",
+        "course": "ITALIAN3332"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Prof Emery is extremely enthusiastic about Italian, and made me love the language even more than I already did. He is very willing to help and makes participating in class fun. ",
+        "course": "1101"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great professor, extremely knowledgeable, energetic, and always ready to help his students. His class is definitely more demanding than some other language professors, but I learned a ton and still really enjoyed going to class every day. He does expect you to understand the topic to be covered in class before each class, so prepare.",
+        "course": "ITALIAN1102"
+      },
+      {
+        "index": 14,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Dr. Emery was the only professor I had for the Italian series (1101-1103) who made it completely not fun and made me feel like I hated to go every day. He calls on you even if you don't know the answer a question. He's extremely smart, but I felt like I was in a graduate course half the time because it was such an intense and fast paced class.",
+        "course": "ITALIAN1102"
+      },
+      {
+        "index": 15,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "He did not behave professionally and almost always had something negative to say when people volunteered to speak. It was not encouraging. Most activities felt drill-like, were useless and a waste of time and I felt I had to do all the work on my own at home. He speaks well, is learned and entertaining, but I did not enjoy the way he taught.",
+        "course": "IT5101"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Mr. Emery is one of the best professors at OSU. He keeps you challenged, but if you genuinely want to learn Italian, his methods work very well.",
+        "course": "ITALIAN1103"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Excellent professor!  He is incredibly knowledgeable of the subject.  He's very kind and always willing to help.",
+        "course": "ITA402"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Amazing professor. Great at teaching - he's funny and entertaining. If you study and are decent at speaking Italian, you should do well. However, the class is taught almost completely in Italian so this may trip some people up.",
+        "course": "ITAL104"
+      },
+      {
+        "index": 19,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Prof Emery can be intimidating first but I found him to be extremely helpful and knowledgeable. He really cares about teaching the material and is always charismatic and pleasant.",
+        "course": "ITALI102"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Emery is a highly educated and extremely talented professor.  You may be slightly intimidated by him, but don't be!  His classes are very informative and should be taken if you really want to learn the language (believe me, you'll most definitely learn!).  His lessons are fun as he tries to keep things both interesting and informative.",
+        "course": "ITA425"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Ted Emery is a quality prof. He does cover a lot of material during class and expects you to do your homework, but do not be intimidated. If you attend class and try, you will get a descent grade. I am not an Italian major and he always understood this and helped me when I needed it. He is also very approachable in office hours.",
+        "course": "ITAL425"
+      },
+      {
+        "index": 22,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I think Prof. Emery is a great teacher. While he does try to get you to figure things out on your own, he can tell when you just don't know and will help. He cares a ton about his students and goes to the trouble of making study guides for each test and giving you a sample final exam to practice. No other teachers do this. Take Prof. Emery.",
+        "course": "ITAL103"
+      },
+      {
+        "index": 23,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Mr. Emery is not a difficult teacher, but in an effort to make you understand the material, he tries to make you figure it out on your own, causing frustration and confusion.",
+        "course": "ITA102"
+      },
+      {
+        "index": 24,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "He is not necessarily difficult, but expect tedious and unhelpful work in and out of class. Class is typically too fast to grasp the concept, yet too slow that you check the clock constantly (and you will never get out early or on time for that matter). He has an attitude that's &quot;his way or the highway.&quot;",
+        "course": "ITA401"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "26022",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "26023",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "26024",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "26025",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "36577",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "36579",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "36580",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "26030",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "26031",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "28456",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "29236",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "29238",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "33481",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "28457",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "29241",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "23525",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "24044",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "36430",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102",
+        "Class Name": "Italian II Blended",
+        "Class Number": "34864",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102",
+        "Class Name": "Italian II Blended",
+        "Class Number": "34867",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.03",
+        "Class Name": "Italian III Blended",
+        "Class Number": "34556",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2102",
+        "Class Name": "Contemporary Italian Society",
+        "Class Number": "13693",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3222",
+        "Class Name": "Modern Italian Media",
+        "Class Number": "36508",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "3.31"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Italian",
+    "firstName": "Samanta",
+    "id": "VGVhY2hlci0yMzE1ODkx",
+    "lastName": "Buffa",
+    "legacyId": 2315891,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I had Samanta for Italian 1101 and she was amazing. She was extremely understanding and genuinely wants you to learn and understand the language as well as having fun doing so. She is very funny and upbeat which a lot of professors seemingly lack. If you have the choice I would take her in a hearbeat.",
+        "course": "IT1103"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She was really good about getting everyone to participate and by the end of the semester, I really felt that I understood three semesters worth of material and could have a conversation relatively easily without struggling. She explains concepts really well in terms of the language itself.",
+        "course": "ITALIAN5101"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Caring, accessible, and funny professor. Always prepared, willing to answer questions. I looked forward to every class. Truly helped me learn Italian. Overall, an excellent professor.",
+        "course": "IT1103"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 2,
+    "department": "Italian",
+    "firstName": "Harry",
+    "id": "VGVhY2hlci0yNjIzNzc2",
+    "lastName": "Kashdan",
+    "legacyId": 2623776,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Do not take this class for a GE way too much work it is not worth was recommended to take by another professor because they couldn't fill the class and there is a reason for that. Participation is too much of the grade and you have discussions every week from books that you have to buy. The exams are huge written response questions. Do not take.",
+        "course": "FRIT2061"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Way more work than a 3 credit hour GE should be do not take this class if you aren't going to come to lecture and participate. You should have to expect to have a couple of hours of reading each week of different books that you have to buy for the course. The grading on the weekly discussion posts is poor and unfair the feedback given is bad.",
+        "course": "FRIT2061"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "FRIT",
+        "Catalog": "2061",
+        "Class Name": "Mediterranean Food Culture",
+        "Class Number": "29790",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "47",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "FRIT",
+        "Catalog": "3053",
+        "Class Name": "The Black Mediterranean",
+        "Class Number": "35465",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Italian",
+    "firstName": "Jonathan",
+    "id": "VGVhY2hlci0yNzU4NTM4",
+    "lastName": "Mullins",
+    "legacyId": 2758538,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I only took this class to fulfill a GE requirement, but it quickly became one of my favorites, thanks in part to Professor Mullins. His lectures are very interesting and engaging, and his in-lecture discussions will really make you think. If you study, his exams are a breeze. Just be ready to write. He also gives out a good amount of extra credit.",
+        "course": "ITA2056"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class is extremely easy if you put the time into it. It's not too much work but definitely takes time to watch the movies. He is an amazing professor and doesn't force you to answer if you don't want to talk. The lecture is very engaging and I would totally recommend this as a GE!",
+        "course": "ITA2056"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Prof Mullins is understanding, kind, &amp; always available for help. I would recommend this class to anyone because if you show up, watch the movies, complete the easy assignments, and take good notes it's not hard at all to get an A. The exams are heavily weighted: good if you miss other work, bad if you don't know the material. 10/10, just study!",
+        "course": "ITA2056"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "FILMSTD",
+        "Catalog": "7001",
+        "Class Name": "Advanced Theory Seminar: Methods and Applications",
+        "Class Number": "33399",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "FRIT",
+        "Catalog": "8602",
+        "Class Name": "Comparative French and Italian Studies",
+        "Class Number": "37110",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "FRIT",
+        "Catalog": "8601",
+        "Class Name": "Theory and Practice",
+        "Class Number": "37343",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2056",
+        "Class Name": "Love and Difference on the Italian Screen",
+        "Class Number": "23517",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2053",
+        "Class Name": "Introduction to Italian Cinema",
+        "Class Number": "22433",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "35",
+        "Rating": "4.49"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3798.01",
+        "Class Name": "The Italian City",
+        "Class Number": "35249",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.47"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2056",
+        "Class Name": "Love on the Italian Screen",
+        "Class Number": "37205",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "49",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2056",
+        "Class Name": "Love on the Italian Screen",
+        "Class Number": "37211",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "4225",
+        "Class Name": "Italian Identities",
+        "Class Number": "24370",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2056",
+        "Class Name": "Love on the Italian Screen",
+        "Class Number": "28387",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "49",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "4223",
+        "Class Name": "Italian Cinema",
+        "Class Number": "35359",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "5194",
+        "Class Name": "Group Studies",
+        "Class Number": "35457",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "3798.01",
+        "Class Name": "The Italian City",
+        "Class Number": "18832",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "2056",
+        "Class Name": "Love on the Italian Screen",
+        "Class Number": "30006",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.47"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "4225",
+        "Class Name": "Italian Identities",
+        "Class Number": "36124",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "4"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 5,
+    "department": "Italian",
+    "firstName": "Mattia",
+    "id": "VGVhY2hlci0xNDQ0MTgy",
+    "lastName": "Beghelli",
+    "legacyId": 1444182,
+    "numRatings": 9,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Absolutely fantastic professor. By far the most fun I've ever had in an Italian class (and probably in any college class). This is the only class I've ever done all the reading for for the whole semester. Really engaging, funny, and all around a really nice guy.",
+        "course": "ITAL3640"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "What a great guy. He has lots of energy and a great sense of humor. He makes sure that everyone of his students feel comfortable with the material and is very approachable. The class is very straightforward, just do the work and you will be fine. On the last day he made us all Tiramisu! Whatever he is teaching, take his class!",
+        "course": "ITAL231"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He's the best. All you need to know.",
+        "course": "ITAL231"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "All the rumors are true, Mattia is the best.  Very energetic, funny, and friendly.  He wants his students to learn and he is a great teacher.",
+        "course": "ITALIAN231"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Mattia is awesome!! He is super funny but still extremely helpful at the same time. He moved our class along faster than the other sections of Italian 101 but it wasn't overwhelming. He is the best teacher I've had at U of M and a fantastic start to my Italian career!",
+        "course": "ITAL5"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Awesome teacher! He is really funny and VERY helpful. He truly wants you to succeed. Unfortunately for us, he has left OSU to pursue his doctorate degree.",
+        "course": "ITAL103"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great teacher. He's hilarious and genuinely cares about teaching. Just do the online homework, study, participate in class, and you'll be fine.",
+        "course": "ITAL102"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Mattia is the best Italian teacher you will find. If you can take a class with him, do it. I promise you that you will not regret it. Not only will you learn Italian but you will have so much fun doing it.",
+        "course": "ITAL103"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I had Mattia for both 102 and 103, and he is truly the best teacher I have had at Ohio State. I've never had an instructor more willing to help and ensure you understand the material. It's hard to believe this was his first year teaching, because he's so unbelievably natural in front of a classroom, not to mention, full of energy and jokes.",
+        "course": "ITA103"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.2,
+    "avgRating": 5,
+    "department": "Italian",
+    "firstName": "Christina",
+    "id": "VGVhY2hlci0yMDk0Mzkw",
+    "lastName": "Steele",
+    "legacyId": 2094390,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great, genuine teacher. She clearly wants her students to learn and is thorough with her lessons. She sets her students up well for the next level they will take. Would definitely recommend taking her for Italian!",
+        "course": "ITALIAN1"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I loved taking Italian with Christina Steele. She is an amazing professor that genuinely cares about getting her students to learn the language. I felt thoroughly prepared for the next level of Italian after taking her class.",
+        "course": "ITALIAN1101"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She was super great. She made Italian extremely easy and she genuinely wanted us to learn the language. I wish she was more easily accessible outside of class, but that's really my only complaint.",
+        "course": "ITAL1103"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She was such an amazing teacher and even persuaded me to go beyond 1103 and become an Italian minor. She was available at all times, willing to work with you, helpful, and very caring. I would recommend her to anyone and would definitely take again. Her grading is fair and she really cares about her students and their performance in her class.",
+        "course": "ITAL1103"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She's one of the best professors I have had at Ohio State. Her classes are very well organized and she makes sure we all understand the material before proceeding. There is homework every night, however it really does help in the long run with quizzes . I highly recommend her class if you're looking to take Italian at OSU!",
+        "course": "ITAL1101"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She is the most amazing teacher I have had in the language department at osu. She is always trying to help us learn better and is available anytime and anywhere to help her students. I would recommend her to anyone!",
+        "course": "ITAL1103"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Christina was the best professor I have had at OSU. She is nice, helpful and hilarious! She wants her student to learn and incorporates a lot of learning aspects so Italian does not become stressful!",
+        "course": "ITAL1101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 3.6,
+    "department": "Italian",
+    "firstName": "Anna-Anita",
+    "id": "VGVhY2hlci05OTY5MzI=",
+    "lastName": "Cesnjevar",
+    "legacyId": 996932,
+    "numRatings": 11,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Worst college experience to date. If you arent somehow an expert in the language good luck. She belittles, she demeans, she focuses all of her attention on students that already grasp the material. She will not work with you if youve had any illnesses or fall behind instead she constantly encouraged me to drop. She shames and discourages.",
+        "course": "FREN1101"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I had her for BCS 2104 and she's a really good professor that tries her best to make class fun and interesting. For BCS we had a couple of Midterms and a final along with two oral presentations. If you have the chance to have her as a professor, I suggest taking it.",
+        "course": "BCS2104"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I took her class as a CCP student, I'm 15. She genuinely cares about the class and is extremely kind. She grades tough but fair, and sometimes it felt like she treated the class like middle school, but overall I really enjoyed her class. She is completely willing to spend time helping you understand things you don't. There's lots of homework though",
+        "course": "ITALI101"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Strict, but she genuinely cares about your understanding of Italian. She makes you speak everyday whether you want to or not, which ended up really helping for the tests/exams/essays. She tries to do different activities and keep everyone engaged, but almost always went over the time limit for class.",
+        "course": "ITALI101"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "She is a very good teacher. A little strict (expects you to come prepared), but that's not a bad thing. Tries to make class fun. The Italian department makes the quizzes and final, but she does a good job of preparing you for them. Time management isn't her strength though. Went over the allotted time seemingly every class.",
+        "course": "ITALIAN1101"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Anna is the best language teacher I've ever had. Her class itself is a lot of work but she doesn't expect perfection and is willing to help you understand the material. She is very enthusiastic and lively, and truly cares about her class.",
+        "course": "ITAL1101"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She's a great teacher and offers to help with whatever time she can manage with her busy schedule. She doesn't expect you to be a master in Italian, grades accordingly, is fair and clearly teaches what will be tested on. If you don't understand something she will go over it with you and explain it in other ways so that you can. Very lively and kind",
+        "course": "ITAL103"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Probably the most frustrating prof I've had in school.  She does care about her students.  But is completely unreasonable. Assigns long tedious homework assignments that don't help. Hard to understand. Doesn't consider what's best for the student.  Treats students like they're in Junior high. Avoid if you can. ",
+        "course": "ITAL103"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "The best!",
+        "course": "ITAL103"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "too worried about herself",
+        "course": "ITAL103"
+      },
+      {
+        "index": 11,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "VERY helpful. Enjoyed both of my classes with her. Speaks over 6 languages, and is wonderful with Italian. Tough but fair grader and will take time out to help you if you are struggling. Use her office hours if you're having trouble. Overall, wonderful teacher and would love to take a class with her again.",
+        "course": "ITALI101"
       }
     ],
     "SEI": []
@@ -1865,7 +3050,596 @@
         "course": "ITAL202"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "26026",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "26028",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "26029",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "36074",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "36581",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "36582",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "28455",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "3"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "29229",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "29230",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "29232",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "29233",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "33480",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "29242",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "35483",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "22525",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "22526",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "22524",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "24047",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "24048",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "23527",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "36422",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "36424",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "22576",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "23355",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "23356",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "2.67"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "22577",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "23363",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "22578",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "23367",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "23368",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "26952",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "3"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "37936",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "3"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "26670",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "26955",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "26956",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "28219",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "28211",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.71",
+        "Class Name": "Italian Distance Learning I",
+        "Class Number": "28750",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "28755",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "34996",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "28756",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.71",
+        "Class Name": "Italian Distance Learning III",
+        "Class Number": "28757",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 1.7,

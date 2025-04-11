@@ -43,6 +43,10 @@ export default function SearchPage() {
     (page + 1) * groupsPerPage
   );
   const [searchInput, setSearchInput] = useState('');
+  const [keywordInput, setKeywordInput] = useState('');
+  const [sortOption, setSortOption] = useState('avg_rating-desc');
+  const [searchResults, setSearchResults] = useState([]); // placeholder to store fetched results
+
 
   useEffect(() => {
     const transcript = localStorage.getItem('transcript');
@@ -96,6 +100,33 @@ export default function SearchPage() {
         setSecondaryPrereqStructure(data);
       });
   };
+
+  const handleSearchClick = () => {
+    if (!searchInput.includes(" ")) {
+      alert("Please enter course in format 'SUBJECT NUMBER' (e.g., CSE 3901)");
+      return;
+    }
+  
+    const [sortBy, order] = sortOption.split("-");
+    const query = new URLSearchParams({
+      course: searchInput,
+      sort_by: sortBy,
+      order: order,
+      comment_keywords: keywordInput,
+    }).toString();
+  
+    fetch(`http://127.0.0.1:8000/courses/professors?${query}`, {
+      method: 'POST',
+    })
+      .then(res => res.json())
+      .then(data => {
+        console.log('Search results:', data);
+        setSearchResults(data);
+      })
+      .catch(err => {
+        console.error('Search failed:', err);
+      });
+  };
   
   return (
     <>
@@ -115,15 +146,45 @@ export default function SearchPage() {
             </p>
             
             {/* Search Input */}
-            <div className="flex gap-4">
-              <input 
+            <div className="flex flex-col gap-4">
+              {/* Course code input */}
+              <input
                 type="text"
                 value={searchInput}
                 onChange={e => setSearchInput(e.target.value)}
-                placeholder="Search courses..."
-                className="flex-1 p-2 border border-gray-300 rounded-lg focus:outline-none focus:border-red-500"
+                placeholder="Search by course (e.g., CSE 3901)"
+                className="p-2 border border-gray-300 rounded-lg focus:outline-none focus:border-red-500"
               />
-              <button className="bg-red-500 text-white px-6 py-2 rounded-lg hover:bg-red-600 transition-colors">
+
+              {/* Comment keyword input */}
+              <input
+                type="text"
+                value={keywordInput}
+                onChange={e => setKeywordInput(e.target.value)}
+                placeholder="Keyword in professor reviews (e.g., flipped classroom)"
+                className="p-2 border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"
+              />
+
+              {/* Sort dropdown */}
+              <select
+                value={sortOption}
+                onChange={e => setSortOption(e.target.value)}
+                className="p-2 border border-gray-300 rounded-lg focus:outline-none focus:border-gray-500"
+              >
+                <option value="sei-desc">SEI Score ↓</option>
+                <option value="sei-asc">SEI Score ↑</option>
+                <option value="avg_rating-desc">Avg Rating ↓</option>
+                <option value="avg_rating-asc">Avg Rating ↑</option>
+                <option value="difficulty-asc">Difficulty ↑</option>
+                <option value="difficulty-desc">Difficulty ↓</option>
+                <option value="comments_relevance-desc">Comments Relevance ↓</option>
+              </select>
+
+              {/* Search button */}
+              <button
+                className="bg-red-500 text-white px-6 py-2 rounded-lg hover:bg-red-600 transition-colors"
+                onClick={handleSearchClick}
+              >
                 Search
               </button>
             </div>

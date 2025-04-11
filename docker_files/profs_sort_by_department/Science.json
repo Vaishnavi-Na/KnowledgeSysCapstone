@@ -444,7 +444,36 @@
         "course": "BIO114"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "BIOLOGY",
+        "Catalog": "3401",
+        "Class Name": "Integrated Biology",
+        "Class Number": "13211",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Introductory Biology",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "108",
+        "Rating": "4.05"
+      },
+      {
+        "Subject": "EEOB",
+        "Catalog": "2270",
+        "Class Name": "Parasites and Evolution: How Worms, Mosquitoes, etc. Manage Their/Our World",
+        "Class Number": "27639",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Evolution, Ecology & Org Bio",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "50",
+        "Rating": "4.55"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.6,
@@ -660,7 +689,106 @@
         "course": "BIO113"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "BIOLOGY",
+        "Catalog": "3401",
+        "Class Name": "Integrated Biology",
+        "Class Number": "21538",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Introductory Biology",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "67",
+        "Rating": "4.12"
+      },
+      {
+        "Subject": "BIOPHYS",
+        "Catalog": "7600",
+        "Class Name": "First-Year Student Orientation",
+        "Class Number": "11357",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Division Of Sensory Biophysics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "BIOPHYS",
+        "Catalog": "7600",
+        "Class Name": "First-Year Student Orientation",
+        "Class Number": "15483",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Division Of Sensory Biophysics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "MCDBIO",
+        "Catalog": "7600",
+        "Class Name": "First-Year Student Orientation",
+        "Class Number": "14723",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "3.83"
+      },
+      {
+        "Subject": "MICRBIO",
+        "Catalog": "7600",
+        "Class Name": "First Year Student Orientation",
+        "Class Number": "18596",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Microbiology",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "1",
+        "Rating": "3"
+      },
+      {
+        "Subject": "OSBP",
+        "Catalog": "7600",
+        "Class Name": "First-Year Student Orientation",
+        "Class Number": "1429",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Graduate School Admin",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "OSBP",
+        "Catalog": "7600",
+        "Class Name": "First-Year Student Orientation",
+        "Class Number": "1578",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Graduate School Admin",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "3",
+        "Rating": "4.33"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.8,
@@ -883,7 +1011,106 @@
         "course": "ASTRON162"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1102",
+        "Class Name": "From Planets to the Cosmos (No Lab)",
+        "Class Number": "22883",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "66",
+        "Rating": "4.02"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1141",
+        "Class Name": "Life in the Universe",
+        "Class Number": "11110",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "80",
+        "Rating": "4.36"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1102",
+        "Class Name": "From Planets to the Cosmos (No Lab)",
+        "Class Number": "21659",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "63",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1141",
+        "Class Name": "Life in the Universe",
+        "Class Number": "15237",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "76",
+        "Rating": "4.47"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1141",
+        "Class Name": "Life in the Universe",
+        "Class Number": "17484",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "47",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1143",
+        "Class Name": "Cosmology: History of the Universe",
+        "Class Number": "18161",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "2141",
+        "Class Name": "Life in the Universe",
+        "Class Number": "18159",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.59"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.4,
@@ -966,7 +1193,106 @@
         "course": "PHYSICS26"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "5300",
+        "Class Name": "Theoretical Mechanics",
+        "Class Number": "23084",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "8820",
+        "Class Name": "Special Topics",
+        "Class Number": "19507",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "5300",
+        "Class Name": "Theoretical Mechanics",
+        "Class Number": "17210",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "7501",
+        "Class Name": "Quantum Mechanics 1",
+        "Class Number": "20510",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "5300",
+        "Class Name": "Theoretical Mechanics",
+        "Class Number": "23267",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "7701",
+        "Class Name": "Analytic and Numeric Methods of Physics",
+        "Class Number": "23096",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "8820",
+        "Class Name": "Special Topics",
+        "Class Number": "23773",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.88"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.4,
@@ -1259,7 +1585,288 @@
         "course": "MOLGEN500"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500",
+        "Class Name": "General Genetics",
+        "Class Number": "23196",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "40",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "21968",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "25347",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "27756",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500",
+        "Class Name": "General Genetics",
+        "Class Number": "21219",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "41",
+        "Rating": "3.41"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "19991",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "19471",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "21877",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.44"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500.01",
+        "Class Name": "General Genetics",
+        "Class Number": "24735",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.18"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500.01",
+        "Class Name": "General Genetics",
+        "Class Number": "34889",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "83",
+        "Rating": "2.61"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "23629",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.43"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "7890",
+        "Class Name": "Molecular Genetics Seminar",
+        "Class Number": "19186",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "25394",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "27654",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.2"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500.01",
+        "Class Name": "General Genetics",
+        "Class Number": "30438",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "60",
+        "Rating": "3.55"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "26103",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "7890",
+        "Class Name": "Molecular Genetics Seminar",
+        "Class Number": "21990",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500.01",
+        "Class Name": "General Genetics",
+        "Class Number": "24927",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "47",
+        "Rating": "3.85"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "25316",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "27450",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.5"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.8,
@@ -1678,7 +2285,64 @@
         "course": "PHY132"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "1250H",
+        "Class Name": "Honors Physics: Mechanics and Conservation Laws; Special Relativity",
+        "Class Number": "18442",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "N/A",
+        "Class Name": "Honors Physics: Mechanics and Conservation Laws; Special Relativity",
+        "Class Number": "16466",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "2300",
+        "Class Name": "Intermediate Mechanics I",
+        "Class Number": "20267",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "31",
+        "Rating": "4.07"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "2300",
+        "Class Name": "Intermediate Mechanics I",
+        "Class Number": "22881",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "36",
+        "Rating": "3.86"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.5,
@@ -2708,6 +3372,1109 @@
         "difficulty": 3,
         "comment": "very interesting person, enjoyable class",
         "course": "ASTRON161"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.4,
+    "avgRating": 4.6,
+    "department": "Science",
+    "firstName": "John",
+    "id": "VGVhY2hlci00Mzk5Mw==",
+    "lastName": "Wenzel",
+    "legacyId": 43993,
+    "numRatings": 87,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "He's funny and intelligent",
+        "course": "BIO101"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He makes lecture interesting to attend and is funny.",
+        "course": "BIO101"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Made the information in lecture interesting. Was told that if you go to lecture and take notes you'd excel on the tests. Did the above, studied, understood concepts, but found test material was worded differently than presented in class--even contradicting. Didn't expect questions exactly from the notes, but presentation on tests was confusing",
+        "course": "BIO101"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "WARNING!!! This professor is awesome!  If you don't like one sentence questions on exams that are extremely straight forward DO NOT TAKE HIM! Also, if you prefer a boring class that you dread going to DO NOT TAKE WENZEL! Every class is enjoyable and he makes learning the material fun.  If you go to lecture and never study you will get at least a B.",
+        "course": "BIO101"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. Wenzel is funny, knowledgeable, and a quality professor. I took the class thinking, &quot;eww bugs&quot; but he presents the material in an amusing and very intriguing way. Highly recommended!!",
+        "course": "ENTH444"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Like everyone said, amazing professor! VERY FUNNY and makes class interesting. Also, the book is not required (wouldn't even buy it) which is good. I would definitely recommend his class, especially if you aren't that interested in biology because he makes it fun to learn. Also, has a lot of personal experience with things and tells funny stories.",
+        "course": "BIO101"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Wenzel is the most fun Professor I have ever had.  His lectures are interesting, fun, informative and make me want to do more biology.  His lectures are very important though, so go!",
+        "course": "BIO101"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. Wenzel is an excelent lecturer!  He makes biology interesting and I think he's really funny.  The labs were kind of dumb, but that's not his fault.  He understands that we are not science majors, so he tries to make biology relevant to our lives and interesting.",
+        "course": "BIO101"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Wenzel is a very intelligent, fun guy. He is extremely interested in helping students who want to help themselves. He adds humor to his class and he is an all around awesome dude!! I hope to take another class of his someday! You won't regret taking his class...that's a promise!! He's the first to make Biology fun for me!! Take his classes!!",
+        "course": "BIO101"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Makes lecture really intersting",
+        "course": "BIO101"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "dude was great",
+        "course": "BIO101"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No reason to buy the book with this good of lecturer. The tests come from lecture anyway. Lectures are pretty good considering that I don't really care about biology and he keeps me interested/awake. I would defiantly recommend him.",
+        "course": "BIO101"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "An incredible teacher. Very witty and humourous. There wasn't a single lecture I didn't laugh in. I had to miss labs due to a family member's funeral and he PERSONALLY made sure I was able to make them up without having to do something extreme like showing a death certificate. I'm going to take his Entomology 333 class. Best prof. I had so far.",
+        "course": "BIOL101"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Awesome teacher.  Very good at talking to a group of 500 college kids.  Lights fritos on fire on the occasion. =)",
+        "course": "BIO101"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Wenzel is hilarious! His lectures are very interesting. Attendance isn't mandatory but midterms and finals are 90% from the lectures. The book is hardly ever used, I wouldn't buy it. I definitely laugh outloud everyday. He makes his class enjoyable to go to and can relate easily to college students! :)",
+        "course": "BIO101"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Amazing teacher. Lecture was very fun and interesting. He makes things funny and relates to college students. I laughed everyday in lecture.",
+        "course": "BIO101"
+      },
+      {
+        "index": 17,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Makes Bio very interesting and fun. very witty guy. lecture attendance isn't mandatory but I HIGHLY recommend it. exams rely heavily on lectures, not really on books (I wouldn't get it unless you need a lot of visual help understanding things). Definately take Wenzel if he is teaching Bio.",
+        "course": "BIO101"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Quality professor",
+        "course": "ENTOH444"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I took this class years ago after having Wenzel's Bio 101.  Love this professor.  Very passionate and knowledgeable, made every lesson phenomenal.  He wrote a letter of rec. for me even though bio was not my major.  Now, as an English grad student, I look back on his classes as my definite favorite.  This is a good man and a great teacher.",
+        "course": "ENTM444"
+      },
+      {
+        "index": 20,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "I liked Wenzel a lot....he's a funny guy and I was interested in Biology, which he taught well.  The labs weren't all that great, but he didn't teach those.  I would suggest taking this course from him because he deals with the large crowd very well.  He's very intelligent...a little biased about bugs but thats beside the point;)  I enjoyed him.",
+        "course": "BIO101"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Most interesting class I've ever had! He's beyond great, one of the few professors that actually care about students. He listens to your needs and is very flexible about things. Going to class is actually very enjoyable. Quizzes are easy, midterm and finals are a bit harder, but if you study, it'd be real hard not to do well.",
+        "course": "ENTH444"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I had Dr. Wenzel for Bio 101 and I liked him so much I decided to take his Entemology class to complete my Bio reqs, even though I'm a psych major and I HATE bugs. And, even though I hate bugs, I like going to his class because he makes it so interesting and fun and easy! And, his tests are very fair.",
+        "course": "ENTEMOLOGYH444"
+      },
+      {
+        "index": 23,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "so much fun, wants you to learn, very good professor.",
+        "course": "BIO101"
+      },
+      {
+        "index": 24,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Good GEC class.",
+        "course": "BIO101"
+      },
+      {
+        "index": 25,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This professor is amazing! You learn so much more then most GEC's and his lecture's are not boring! The only thing you must keep in mind in taking this class with him is his midterms and final. The lectures are easy but the tests are hard if you don't study.",
+        "course": "BIO101"
+      },
+      {
+        "index": 26,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "well organized and mostly interesting lectures.  took questions before exams, which was very helpful (although he always seemed stressed/pissed on exam days, which i found curious).  wears what i think were cowboy boots sometimes which is lame but other than that a great prof.",
+        "course": "BIO101"
+      },
+      {
+        "index": 27,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class was a breath of fresh air after my chem classes. Dr Wenzel knows his stuff and is more than willing to help out his students. Lectures are entertaining and he brings in new research and his own experience as well as textbook material (so you don't need the book). An easy class, easy lab, hopefully easy A. :)",
+        "course": "BIO101"
+      },
+      {
+        "index": 28,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Very enjoyable class. Really makes you forget you're taking an entry level Bio class. Makes lecture interesting with personal stories from around the world. This man should still be doing research!",
+        "course": "BIO101"
+      },
+      {
+        "index": 29,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This class was really fun and I learned a lot too. His lectures were so interesting and all the test questions came from material covered in lecture.",
+        "course": "BIO101"
+      },
+      {
+        "index": 30,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "DUDE..i am IN LOVE with this man.  he is an awesome teacher and his way of teaching makes me want to go to lecture everyday!  he is absolutly hilarious and he has the best stories that make learning bio soo much better.  His tests have a lot to do with lecture..so go!! it is a very interesting class with him and i really enjoyed it.  best teach eve",
+        "course": "BIO101"
+      },
+      {
+        "index": 31,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Cool guy. Funny and class was enoyable.",
+        "course": "BIO101"
+      },
+      {
+        "index": 32,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "GREAT TEACHER!",
+        "course": "BIO101"
+      },
+      {
+        "index": 33,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "One of the best!!!!!!!!! Many people have said he's easy, he's not, he's just an excellent teacher, hence it seams easy.",
+        "course": "H444"
+      },
+      {
+        "index": 34,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Cool dude, always enjoyed going to his class.",
+        "course": "BIO101"
+      },
+      {
+        "index": 35,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I thought the class was very easy, professor is very humorous, a good guy, tells a lot of good stories, we got cool guest speakers in class, overall one of the best classes I've taken at OSU so far.",
+        "course": "ENTH444"
+      },
+      {
+        "index": 36,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "awesome teacher and awesome class!",
+        "course": "BIO101"
+      },
+      {
+        "index": 37,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great teacher.  Very funny.  Very laid back.  Pretty easy class too.  He is sensitive to needs of students and he always takes time to explain things (even if it's right before a test).  Takes his class outside on the nice days to catch bugs!!  Highly Recommended.",
+        "course": "ENTOMOLOGYH444"
+      },
+      {
+        "index": 38,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Actually made going to class fun.",
+        "course": "BIO101"
+      },
+      {
+        "index": 39,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Excellent teacher. Always worked at keeping you interested. Straight forward in what you need to study for exams. Highly recommend",
+        "course": "BIO101"
+      },
+      {
+        "index": 40,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He is HOT!!!!",
+        "course": "BIOLOGY101"
+      },
+      {
+        "index": 41,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He makes learning fun!  He is always trying to keep the students interested by cracking jokes.",
+        "course": "BIO101"
+      },
+      {
+        "index": 42,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He's a great teacher and actually makes biology fun. Very entertaining. Don't be fooled, this class is not SUPER easy, midterm avgs were in the 70s so be prepared to work a little!",
+        "course": "BIO101"
+      },
+      {
+        "index": 43,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great Prof, definately the best i have had at OSU so far, very funny, easy midterms. his lectures are great, never dull or boring!!!!!",
+        "course": "BIO101"
+      },
+      {
+        "index": 44,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Hilarious, he'll keep you entertained while learning a not too thrilling topic",
+        "course": "BIO101"
+      },
+      {
+        "index": 45,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Terrific lecturer, funny, smart, etc. I actually thought that his exams were hard as all get out, he even says that half of the questions he doesn't expect people to know because they weren't discussed. That's total crap, in my opinion, but other than that he rules the school.",
+        "course": "BIO101"
+      },
+      {
+        "index": 46,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "awesome prof, funny guy who will keep your attention, makes learning interesting, very easy midterms",
+        "course": "101"
+      },
+      {
+        "index": 47,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great Professor, he helps make Bio not so terribly boring and he's a goofy guy who keeps your attention for the entire class. I would recommend to all.",
+        "course": "BIO101"
+      },
+      {
+        "index": 48,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Wenzel was pretty awesome. Kept it simple.",
+        "course": "BIO101"
+      },
+      {
+        "index": 49,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Hilarious",
+        "course": "BIOLOGY101"
+      },
+      {
+        "index": 50,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Definitely one of the best professors I've had here, would reccomend him to anyone. He literally GIVES answers away before the tests, because he doesnt care what grade you get (&quot;If it were up to me there would only be 2 grades: groovy and bummer&quot;)",
+        "course": "BIO101"
+      },
+      {
+        "index": 51,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Keeps a persons atention because he is very funny.",
+        "course": "BIOLOGY"
+      },
+      {
+        "index": 52,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Definitely the best teacher I've ever had at OSU he really made Bio 101 fun, and that's not easy to do. The man was meant to teach. Our lecture hall housed about 400 students, and was filled almost everytime.  I don't like bugs, but I was considering taking an entemology class to have him as a prof.",
+        "course": "BIOLOGY101"
+      },
+      {
+        "index": 53,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "By far the greatest teacher I've ever had.  He always made class incredibly fun and interesting, you regret missing his lectures.  Moreover, his exciting and interesting examples are great stories that are hard to forget.",
+        "course": "EEOB410ENT444"
+      },
+      {
+        "index": 54,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "The best teacher I have ever had.",
+        "course": "EEOB400"
+      },
+      {
+        "index": 55,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Fabulous personality, will always make you laugh.  Loves what he does and it shows.",
+        "course": "ENTH444"
+      },
+      {
+        "index": 56,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very good, animated, energetic, and interesting. I've taken several of his courses because I enjoy his lecures.",
+        "course": "EEOB400"
+      },
+      {
+        "index": 57,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great teacher, don't take intro to Bio unless you have him.",
+        "course": "BIO101"
+      },
+      {
+        "index": 58,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Wenzel was my favorite professor at Ohio State this far, he was hilarious and a good teacher.",
+        "course": "BIO101"
+      },
+      {
+        "index": 59,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "great guy",
+        "course": "ENT444"
+      },
+      {
+        "index": 60,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "BIO101"
+      },
+      {
+        "index": 61,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He's the best professor I've had at OSU, in a large class. Always entertaining, I regretted missing any of his classes.",
+        "course": "BI0101"
+      },
+      {
+        "index": 62,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very humorous...made class fun.  Excellent teacher!",
+        "course": "BIOLOGY10"
+      },
+      {
+        "index": 63,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Wenzel is super cool, and extremely intelligent. I wish I had him every quarter.",
+        "course": "BIO101"
+      },
+      {
+        "index": 64,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Funny but fair.  Definately go to lecture or else you won't do well in class.  Lecture notes are on WebCT which is a plus!",
+        "course": "BIO101"
+      },
+      {
+        "index": 65,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "BEST TEACHER EVER!!!! Not only is he hilarious person but he teaches in a way that is fun. He made me interested in science again. Wenzel RULES",
+        "course": "BIOEEOB"
+      },
+      {
+        "index": 66,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He was really funny and a good teacher. He made the class interesting.",
+        "course": "BIO101"
+      },
+      {
+        "index": 67,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "You have to attend lecture to do well, but he's an excellent teacher. Very cool, not uptight, funny, but serious about what matters; learning.",
+        "course": "EEOB400"
+      },
+      {
+        "index": 68,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Professor Wenzel is the best!  Now i remeber why i decided to major in Biology.  He is funny, helpul and really nice.  Always gets you laughing, but teaches the material very well.  He has the whole teaching is fun thing down to a T",
+        "course": "EEOB400"
+      },
+      {
+        "index": 69,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "A fun teacher.  Very knowledgeable.  Good class.",
+        "course": "BIO101"
+      },
+      {
+        "index": 70,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "No Comments",
+        "course": "BIO101"
+      },
+      {
+        "index": 71,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very entertaining/interesting.  Always has a good story, I guarentee you will end of laughing, lecture on sexual selection is the best.  get wenzel if you can, he rocks!  Tests are tough but fair, multiple choice answers often have a joke answer",
+        "course": "BIO101"
+      },
+      {
+        "index": 72,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Plays music before class and is very entertaining...you will enjoy this class!!!",
+        "course": "BIO101"
+      },
+      {
+        "index": 73,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "BIO101"
+      },
+      {
+        "index": 74,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "BIO101"
+      },
+      {
+        "index": 75,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Lots of goofy stories to tell.  Multiple choice tests always have one joke answer.  He really seems to like what he does.",
+        "course": "BIO101"
+      },
+      {
+        "index": 76,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "No Comments",
+        "course": "BIO101"
+      },
+      {
+        "index": 77,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great Teacher, very lively and energetic. He will keep you interested",
+        "course": "BIO101"
+      },
+      {
+        "index": 78,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Wenzel is great and he is soooo funny.",
+        "course": "BIO101"
+      },
+      {
+        "index": 79,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "very interesting and funny, tests are tough but fair",
+        "course": "101"
+      },
+      {
+        "index": 80,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "BIO101"
+      },
+      {
+        "index": 81,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Wenzel rules the school.",
+        "course": "BIO101"
+      },
+      {
+        "index": 82,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "keeps you interested",
+        "course": "BIO101"
+      },
+      {
+        "index": 83,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great teacher.. Hate Bio, but he made it interesting. Fun teacher",
+        "course": "BIO101"
+      },
+      {
+        "index": 84,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Goofy",
+        "course": "BIO101"
+      },
+      {
+        "index": 85,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "is not boring",
+        "course": "BIO101"
+      },
+      {
+        "index": 86,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Made lectures interesting",
+        "course": "BIO101"
+      },
+      {
+        "index": 87,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Do all you can to avoid this professor.",
+        "course": "BIO101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.9,
+    "avgRating": 2.6,
+    "department": "Science",
+    "firstName": "Garry",
+    "id": "VGVhY2hlci03MjE3Nw==",
+    "lastName": "McKenzie",
+    "legacyId": 72177,
+    "numRatings": 21,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "The WORST professor I have ever had.  I can not believe I paid for this joke of a class.",
+        "course": "GEO105"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "this teacher is absolutely ridiculous...none of his lectures have any structure and he makes no sense whatsoever.  The people below me have it right, if you want to do well, don't buy the book, just use Google and Wikipedia.  He expects everyone in the class to have taken a Geology class prior to his and doesn't understand when people don't get it",
+        "course": "GEO105"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "The other GEO105 posting are dead-on..Its a complete waste of a class. His lectures contain no substance and then he tests on the lectures..STAY AWAY unless you know a lot about geology or prepared to work EXTREMELY hard to know what he is talking about...should have dropped while I could have.",
+        "course": "GEO105"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Garry, I believe has a good heart. But the class is a complete joke. Absolutely no structure for topics. It is impossible to articulate the uselessness his lectures are. Better off simply reading the book. The T.A. stopped coming to lecture stating,&quot;I don't know what's going on in here, so I don't come.&quot;",
+        "course": "EARTH105"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Absolutely the worst prof i have ever had. He is unclear and random in lectures. You will learn nothing in class and will have to google everything for tests. Don't go if you want a good grade.",
+        "course": "GEO105"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Awful. Literally the worst professor I have ever had.  Completely and utterly ridiculous.  IF YOU HAVE A CHOICE STAY AWAY FROM THIS MAN.  He expects you to already know everything about geology.  He talks to you as if you were one of his colleagues.  Quizzes feel like midterms and the midterms are way to hard for a GEC class.  AWFUL.",
+        "course": "GEO105"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Garry isn't that great. Hard to follow in lecture, and his exams are ridiculously hard and specific.  For a 200 level GEC he doesn't make it the easy A it should be. He just mails in every lecture, and I'd encourage you to mail in this class as well-I did and somehow wound up w/ a B b/c i think he generously curves the class at the end.",
+        "course": "ES203"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "McKenzie is allright, but the class is a joke. Almost seemed like everyone, including him, was just going through the motions.  The class requires almost no effort.",
+        "course": "GEO203"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Typical geology professor, but more interesting to listen to than usual.  Focuses alot on actual events (in class and on tests) which make the information at least seem relevant.  Nice guy.",
+        "course": "GEOL203"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "I had Dr. McKenzie for a freshman seminar class and really enjoyed it. He really tries to help you learn.",
+        "course": "PEAKOIL"
+      },
+      {
+        "index": 11,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "He's a good guy. His lectures aren't thrilling, but the subject matter is definitely interesting and worthwhile.  Tests aren't too bad, just study previous quizzes and midterms before the final.  I got an A without too much work.",
+        "course": "GEOL203"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Good teacher. To my surprise, I actually found some of the course really interesting. Could be really boring at times though. The exams were pretty easy, got an A without much effort- only crammed the night before and the morning of for exams.",
+        "course": "GEO203"
+      },
+      {
+        "index": 13,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Class can be very boring at times. But McKenzie is very passionate about the subject matter. My only real complaint other than being bored at times is that he is quite disorganized. But I would say all in all he isn't bad.",
+        "course": "GEOSCI100"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Garry is an extremely nice guy.  He gave us cookies during our final.  The subject matter and the lecs were very interesting.  Yes, he was a little dissorganized, but that didn't really matter since he made it clear what topics were important to focus on for tests and such.  Thumbs up for this cool Canadian!",
+        "course": "GEOSCI550"
+      },
+      {
+        "index": 15,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Not a real hard class.  His final was directly from previous midterm questions.  Got B+ but not sure how. Thought that I should have done better but would not email me back after I emailed him twice. frustrating",
+        "course": "GEO100"
+      },
+      {
+        "index": 16,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Classes were kind of boring but they were tolerable. Most of the material somewhat interesting. Pretty straight foward with what he wants. Go to most classes, read the chapters, and go to labs and you will do good in the class. Seems like a pretty cool guy.",
+        "course": "GEOLSCI100"
+      },
+      {
+        "index": 17,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Good teacher, disorganized notes...made the subject material interesting and changed the mind of a conservative on enviornmentalist issues",
+        "course": "GLG203"
+      },
+      {
+        "index": 18,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "i liked him, i became interested as class went on.",
+        "course": "GEOLOGY100"
+      },
+      {
+        "index": 19,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "GEOLSCI2"
+      },
+      {
+        "index": 20,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Bring a pillow and hope he doesn't test you on who led his 15 expedition into the artic....",
+        "course": "GEOSCI"
+      },
+      {
+        "index": 21,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Difficult to follow lectures, unsure if extra info or actual facts for tests.",
+        "course": "GEOSCI"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.6,
+    "avgRating": 4.1,
+    "department": "Science",
+    "firstName": "Ralph",
+    "id": "VGVhY2hlci02NTczOQ==",
+    "lastName": "Boerner",
+    "legacyId": 65739,
+    "numRatings": 44,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Great, hilarious guy. GO TO LECTURES. You must not even miss one. He goes over everything on the test in his lectures. Study them word for word and you will do fine on tests. His class is extremely interesting and he makes it enjoyable. Very helpful and knowledgeable. Recommend him to anyone! No need to even purchase the book. take good notes!",
+        "course": "EEOB503"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "awesome prof. go to class, take notes, do review questions and memorize those questions. questions are what make up the test. guaranteed A-. let's you argue unfair grading. doesnt make it difficult. seminars are annoying for scheduling, but easy way to cushion your grade. i had a 96. interesting too. take this class!",
+        "course": "EEOB503"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "He's a professor who knows his stuff. His slides are what are important. Go to class because that's what you'll be tested on.  He uses a lot of graphs, so I'd advise getting the book, b/c some graphs are in their.  Good guy, wants his students to succeed.",
+        "course": "EEOB413"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Interesting guy, quality professor. It's important to go to lecture if you want to do well on the tests. The book wasn't very helpful (except citing examples of what we were discussing), but his review questions were. Studying in groups for exams is VERY helpful because of the focus on lecture materials on the test.",
+        "course": "EEOB413"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "In the class I had, he gave quizes every week. The quizes were tricky but reasonable (study in advance and you'll do fine/don't procrastinate bc he could give the quiz at the beginning of class). The labs are easy for the most part but the TA may take off some points. He gives extra credit = life saver if you get them all right.",
+        "course": "BIO101"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Exams are difficult, show up to every class helps alot because notes are tough to understand if you don't go.  Does preach is liberal views alot when he says he's talking from both point of views.",
+        "course": "BIO101"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "SUCH a good teacher.  I hate bio, and he really made lectures interesting!  His exams are kind of difficult, but it really isn't that hard to get an A in the class.  Would recommend him to anyone!!!",
+        "course": "BIO101"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "not too difficult of a class, but the tests are full of trick questions so be sure to know the material.  DO NOT need the book, nor do you need a paid subscription to the Times (articles online).  at one point preached his political views which i was not happy with, but other than that not a bad guy",
+        "course": "BIO101"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Test were ridiculous because of the purposefully tricky wording, but the class itself is not difficult. Go to lecture (and lab of course) and you'll get a decent grade. I cannot stress enough - DO NOT BUY THE BOOK. You might as well flush your cash down the toliet.",
+        "course": "BIO101"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Easy labs, clear lectures, no required attendance.  The problem is that his test are extremely difficult.  He has tons of questions that are worded for the purpose of tricking people and as a result one of the exam averages was 62%.  He also tends to get a bit preachy at times and only likes to discuss his way of thinking.",
+        "course": "BIO101"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "His tests are really hard and he complains a lot about stuents not being at lecture but doesn't do anything about it. He is good at explaining things but it is difficult to judge what he might use on a test, so as a result the tests have pretty low averages. He makes up for it by having easy labs (even if they are elementary.",
+        "course": "BIO101"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Interesting and funny teacher. Bio 101 may suck but if you have to take it this guy is not bad. His lectures are actually pretty interesting at times. Exams are difficult; make sure you read the NYT articles. Lab grades will help you out a lot. Do NOT buy the book!",
+        "course": "BIO101"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I loved going to lectures because he makes them really interesting. He makes jokes and does animal impressions which is always worth seeing.  Definately take him and do not buy the book. Go to the lectures and you won't have to spend much time studying for exams.",
+        "course": "BIO101"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "teaches definitions, tests on application...very difficult quizzes, hope for a good TA to keep your points up",
+        "course": "BIO101"
+      },
+      {
+        "index": 15,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "He has a weird sense of humor and tries to keep the lecture interesting. A lot of the tests are conceptually based but if you attend lecture you should be able to handle it. He gives take home essays for each exam which really helps to boost your grade if you need it.",
+        "course": "H116"
+      },
+      {
+        "index": 16,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "If you have to take Bio 101...take it with Ralph Boerner!! He is very easy. I literally never studied for a quiz until I got to his class during lectures...and his quizzes covered the materials only covered in class and the New York Times Articles. You don't need a book for the class because you will NEVER use it.",
+        "course": "BIO101"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very fun and entertaining lectures.  Multiple choice exam portion is theoretical and confusing.  Come to lecture.  Majority if not all of the material is from lecture.  Very funny guy.  Take this class if you have to do fulfill your biology requirement.  He'll assure you do well in his course.",
+        "course": "BIOH116"
+      },
+      {
+        "index": 18,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "He seems to care a lot about teaching; class interesting and challenging, learned a lot.  He knows his material, for sure. A bit partial to some students he obviously likes, which is offputting to the rest of us.  High quality teacher.",
+        "course": "COMMECO510"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Ok some of his jokes aren't nearly as funny as he thinks they are, but his constant sarcasm and goofiness make the lectures way more interesting. Also, this is hands down the easiest class I've had since probably middle school. I only went the once a week there was a quiz, and to study I just printed the notes off and studied in class right before ",
+        "course": "BIO101"
+      },
+      {
+        "index": 20,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He's a bit of a jerk and thinks he's really funny. Got mad that people didn't show up so he started making the class harder.",
+        "course": "BIO101"
+      },
+      {
+        "index": 21,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Everyone in my class thought that the exams were harder than they should have been for a 101 course.  Lectures sometimes were very boring and he tends to take up all of the class period.",
+        "course": "BIO101"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This man is amazing.  Somehow he makes an 600 person lecture hall feel like an intimate small biology seminar.  He is enthusiastic, relevant, and exciting.  This was the only class I took this quarter where attendance was not compulsory, and yet I attended every class.  Ohio State should be proud of Ralph Boerner.",
+        "course": "BIO101"
+      },
+      {
+        "index": 23,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Yes, his jokes are corny and he's a little off the wall, but he makes biology extremely interesting. He finds a way to tie in introductory biology material into real world events that affect the way we live. Also, the class is extremely easy and he offers plenty of bonus. The whole not-taking-a-midterm-or-exam thing is pretty nice too.",
+        "course": "BIO101"
+      },
+      {
+        "index": 24,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "He is very annoying and thinks he is funny, but really isnt at all.  Everyone in my class thought that the quizzes were harder than they should have been for bio 101.  He was interesting at some points, but was more annoying and should retire.",
+        "course": "BIO101"
+      },
+      {
+        "index": 25,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I loved this class! You really have to come to lectures and study to do well, but it's interesting and Dr. Boerner is a great teacher. The only annoying thing is having to attend seminars and turn in summaries, but it's still not too bad. Highly recommend this class and this prof!",
+        "course": "EEOB413"
+      },
+      {
+        "index": 26,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "VERY easy class, a joke in fact. But attend lectures and skim the readings and there is NO reason not to get an A. Labs are long, but if you explain your logic, they never took off.",
+        "course": "BIO101"
+      },
+      {
+        "index": 27,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easy class.  He's a lil out there, but I'd take another class with him in a second.",
+        "course": "BIO101"
+      },
+      {
+        "index": 28,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "It's a fairly simple class.  He's a good teacher.  You have to go to all of the lectures if you want to get an A.  Even tho he has the notes online, it doesn't help to skip lectures and read them.  Take my advice, I did this and got a C+ in the class.",
+        "course": "BIO101"
+      },
+      {
+        "index": 29,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "A fun class.  If you read the book and go to class, the quizzes aren't bad at all.",
+        "course": "BIO101"
+      },
+      {
+        "index": 30,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Very easy class and he's interesting to listen to. He really knows what he's talking about, but he explains things well. Take his class. He's much better than the other bio teachers.",
+        "course": "BIO101"
+      },
+      {
+        "index": 31,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "great professor; it's nice to have no midterms, but quizes are difficult.  He makes lecture interesting because he jokes about almost everything without making the class a joke.  Class is very easy and very interesting.  Great Prof!  TAKE HIS CLASS!",
+        "course": "BIO101"
+      },
+      {
+        "index": 32,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easiest class ever, boring but somewhat entertaining for an A.",
+        "course": "BIO101"
+      },
+      {
+        "index": 33,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "fun to listen to, if you read the book and go to lecture the quizes are very fair",
+        "course": "BIO101"
+      },
+      {
+        "index": 34,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "He makes lecutres fun. I  loved the idea of no major studying for a midterm or final!! But still makes you use your brain on quizes, so no getting off the hook really ;-)",
+        "course": "BIO101"
+      },
+      {
+        "index": 35,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "made the class entertaining and enjoyable",
+        "course": "BIO101"
+      },
+      {
+        "index": 36,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "quizes are all lecture based.  Very fair with material on the quizes.",
+        "course": "BIO101"
+      },
+      {
+        "index": 37,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "BIO101"
+      },
+      {
+        "index": 38,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Only quiz's. no exams but it isnt a walk in the park and no curve at the end!",
+        "course": "BIO101"
+      },
+      {
+        "index": 39,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Nice guy...seemed like no exams would be nice but the quizes aren't that easy",
+        "course": "BIO101"
+      },
+      {
+        "index": 40,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Laid back lecturer.  Very knowledgable.  Interesting to listen to.  Learned much",
+        "course": "EEOB4130"
+      },
+      {
+        "index": 41,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "BIO101"
+      },
+      {
+        "index": 42,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "His quizzes are super hard, meaning his relaxed lectures aren't what they seem..",
+        "course": "BIO101"
+      },
+      {
+        "index": 43,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Yes he's easy-going but you never know what's important & what's just rambling!",
+        "course": "BIO101"
+      },
+      {
+        "index": 44,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Really easy going. It's not bad going to the big lectures.",
+        "course": "BIO101"
       }
     ],
     "SEI": []
@@ -4225,1109 +5992,6 @@
         "difficulty": 4,
         "comment": "No Comments",
         "course": "BIOCHEM61"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.4,
-    "avgRating": 4.6,
-    "department": "Science",
-    "firstName": "John",
-    "id": "VGVhY2hlci00Mzk5Mw==",
-    "lastName": "Wenzel",
-    "legacyId": 43993,
-    "numRatings": 87,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "He's funny and intelligent",
-        "course": "BIO101"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "He makes lecture interesting to attend and is funny.",
-        "course": "BIO101"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Made the information in lecture interesting. Was told that if you go to lecture and take notes you'd excel on the tests. Did the above, studied, understood concepts, but found test material was worded differently than presented in class--even contradicting. Didn't expect questions exactly from the notes, but presentation on tests was confusing",
-        "course": "BIO101"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "WARNING!!! This professor is awesome!  If you don't like one sentence questions on exams that are extremely straight forward DO NOT TAKE HIM! Also, if you prefer a boring class that you dread going to DO NOT TAKE WENZEL! Every class is enjoyable and he makes learning the material fun.  If you go to lecture and never study you will get at least a B.",
-        "course": "BIO101"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Dr. Wenzel is funny, knowledgeable, and a quality professor. I took the class thinking, &quot;eww bugs&quot; but he presents the material in an amusing and very intriguing way. Highly recommended!!",
-        "course": "ENTH444"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Like everyone said, amazing professor! VERY FUNNY and makes class interesting. Also, the book is not required (wouldn't even buy it) which is good. I would definitely recommend his class, especially if you aren't that interested in biology because he makes it fun to learn. Also, has a lot of personal experience with things and tells funny stories.",
-        "course": "BIO101"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Wenzel is the most fun Professor I have ever had.  His lectures are interesting, fun, informative and make me want to do more biology.  His lectures are very important though, so go!",
-        "course": "BIO101"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Dr. Wenzel is an excelent lecturer!  He makes biology interesting and I think he's really funny.  The labs were kind of dumb, but that's not his fault.  He understands that we are not science majors, so he tries to make biology relevant to our lives and interesting.",
-        "course": "BIO101"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Wenzel is a very intelligent, fun guy. He is extremely interested in helping students who want to help themselves. He adds humor to his class and he is an all around awesome dude!! I hope to take another class of his someday! You won't regret taking his class...that's a promise!! He's the first to make Biology fun for me!! Take his classes!!",
-        "course": "BIO101"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Makes lecture really intersting",
-        "course": "BIO101"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "dude was great",
-        "course": "BIO101"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "No reason to buy the book with this good of lecturer. The tests come from lecture anyway. Lectures are pretty good considering that I don't really care about biology and he keeps me interested/awake. I would defiantly recommend him.",
-        "course": "BIO101"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "An incredible teacher. Very witty and humourous. There wasn't a single lecture I didn't laugh in. I had to miss labs due to a family member's funeral and he PERSONALLY made sure I was able to make them up without having to do something extreme like showing a death certificate. I'm going to take his Entomology 333 class. Best prof. I had so far.",
-        "course": "BIOL101"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Awesome teacher.  Very good at talking to a group of 500 college kids.  Lights fritos on fire on the occasion. =)",
-        "course": "BIO101"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Wenzel is hilarious! His lectures are very interesting. Attendance isn't mandatory but midterms and finals are 90% from the lectures. The book is hardly ever used, I wouldn't buy it. I definitely laugh outloud everyday. He makes his class enjoyable to go to and can relate easily to college students! :)",
-        "course": "BIO101"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Amazing teacher. Lecture was very fun and interesting. He makes things funny and relates to college students. I laughed everyday in lecture.",
-        "course": "BIO101"
-      },
-      {
-        "index": 17,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Makes Bio very interesting and fun. very witty guy. lecture attendance isn't mandatory but I HIGHLY recommend it. exams rely heavily on lectures, not really on books (I wouldn't get it unless you need a lot of visual help understanding things). Definately take Wenzel if he is teaching Bio.",
-        "course": "BIO101"
-      },
-      {
-        "index": 18,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Quality professor",
-        "course": "ENTOH444"
-      },
-      {
-        "index": 19,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I took this class years ago after having Wenzel's Bio 101.  Love this professor.  Very passionate and knowledgeable, made every lesson phenomenal.  He wrote a letter of rec. for me even though bio was not my major.  Now, as an English grad student, I look back on his classes as my definite favorite.  This is a good man and a great teacher.",
-        "course": "ENTM444"
-      },
-      {
-        "index": 20,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "I liked Wenzel a lot....he's a funny guy and I was interested in Biology, which he taught well.  The labs weren't all that great, but he didn't teach those.  I would suggest taking this course from him because he deals with the large crowd very well.  He's very intelligent...a little biased about bugs but thats beside the point;)  I enjoyed him.",
-        "course": "BIO101"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Most interesting class I've ever had! He's beyond great, one of the few professors that actually care about students. He listens to your needs and is very flexible about things. Going to class is actually very enjoyable. Quizzes are easy, midterm and finals are a bit harder, but if you study, it'd be real hard not to do well.",
-        "course": "ENTH444"
-      },
-      {
-        "index": 22,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I had Dr. Wenzel for Bio 101 and I liked him so much I decided to take his Entemology class to complete my Bio reqs, even though I'm a psych major and I HATE bugs. And, even though I hate bugs, I like going to his class because he makes it so interesting and fun and easy! And, his tests are very fair.",
-        "course": "ENTEMOLOGYH444"
-      },
-      {
-        "index": 23,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "so much fun, wants you to learn, very good professor.",
-        "course": "BIO101"
-      },
-      {
-        "index": 24,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Good GEC class.",
-        "course": "BIO101"
-      },
-      {
-        "index": 25,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This professor is amazing! You learn so much more then most GEC's and his lecture's are not boring! The only thing you must keep in mind in taking this class with him is his midterms and final. The lectures are easy but the tests are hard if you don't study.",
-        "course": "BIO101"
-      },
-      {
-        "index": 26,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "well organized and mostly interesting lectures.  took questions before exams, which was very helpful (although he always seemed stressed/pissed on exam days, which i found curious).  wears what i think were cowboy boots sometimes which is lame but other than that a great prof.",
-        "course": "BIO101"
-      },
-      {
-        "index": 27,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This class was a breath of fresh air after my chem classes. Dr Wenzel knows his stuff and is more than willing to help out his students. Lectures are entertaining and he brings in new research and his own experience as well as textbook material (so you don't need the book). An easy class, easy lab, hopefully easy A. :)",
-        "course": "BIO101"
-      },
-      {
-        "index": 28,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Very enjoyable class. Really makes you forget you're taking an entry level Bio class. Makes lecture interesting with personal stories from around the world. This man should still be doing research!",
-        "course": "BIO101"
-      },
-      {
-        "index": 29,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This class was really fun and I learned a lot too. His lectures were so interesting and all the test questions came from material covered in lecture.",
-        "course": "BIO101"
-      },
-      {
-        "index": 30,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "DUDE..i am IN LOVE with this man.  he is an awesome teacher and his way of teaching makes me want to go to lecture everyday!  he is absolutly hilarious and he has the best stories that make learning bio soo much better.  His tests have a lot to do with lecture..so go!! it is a very interesting class with him and i really enjoyed it.  best teach eve",
-        "course": "BIO101"
-      },
-      {
-        "index": 31,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Cool guy. Funny and class was enoyable.",
-        "course": "BIO101"
-      },
-      {
-        "index": 32,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "GREAT TEACHER!",
-        "course": "BIO101"
-      },
-      {
-        "index": 33,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "One of the best!!!!!!!!! Many people have said he's easy, he's not, he's just an excellent teacher, hence it seams easy.",
-        "course": "H444"
-      },
-      {
-        "index": 34,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Cool dude, always enjoyed going to his class.",
-        "course": "BIO101"
-      },
-      {
-        "index": 35,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I thought the class was very easy, professor is very humorous, a good guy, tells a lot of good stories, we got cool guest speakers in class, overall one of the best classes I've taken at OSU so far.",
-        "course": "ENTH444"
-      },
-      {
-        "index": 36,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "awesome teacher and awesome class!",
-        "course": "BIO101"
-      },
-      {
-        "index": 37,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great teacher.  Very funny.  Very laid back.  Pretty easy class too.  He is sensitive to needs of students and he always takes time to explain things (even if it's right before a test).  Takes his class outside on the nice days to catch bugs!!  Highly Recommended.",
-        "course": "ENTOMOLOGYH444"
-      },
-      {
-        "index": 38,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Actually made going to class fun.",
-        "course": "BIO101"
-      },
-      {
-        "index": 39,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Excellent teacher. Always worked at keeping you interested. Straight forward in what you need to study for exams. Highly recommend",
-        "course": "BIO101"
-      },
-      {
-        "index": 40,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "He is HOT!!!!",
-        "course": "BIOLOGY101"
-      },
-      {
-        "index": 41,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "He makes learning fun!  He is always trying to keep the students interested by cracking jokes.",
-        "course": "BIO101"
-      },
-      {
-        "index": 42,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He's a great teacher and actually makes biology fun. Very entertaining. Don't be fooled, this class is not SUPER easy, midterm avgs were in the 70s so be prepared to work a little!",
-        "course": "BIO101"
-      },
-      {
-        "index": 43,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great Prof, definately the best i have had at OSU so far, very funny, easy midterms. his lectures are great, never dull or boring!!!!!",
-        "course": "BIO101"
-      },
-      {
-        "index": 44,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Hilarious, he'll keep you entertained while learning a not too thrilling topic",
-        "course": "BIO101"
-      },
-      {
-        "index": 45,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Terrific lecturer, funny, smart, etc. I actually thought that his exams were hard as all get out, he even says that half of the questions he doesn't expect people to know because they weren't discussed. That's total crap, in my opinion, but other than that he rules the school.",
-        "course": "BIO101"
-      },
-      {
-        "index": 46,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "awesome prof, funny guy who will keep your attention, makes learning interesting, very easy midterms",
-        "course": "101"
-      },
-      {
-        "index": 47,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Great Professor, he helps make Bio not so terribly boring and he's a goofy guy who keeps your attention for the entire class. I would recommend to all.",
-        "course": "BIO101"
-      },
-      {
-        "index": 48,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Wenzel was pretty awesome. Kept it simple.",
-        "course": "BIO101"
-      },
-      {
-        "index": 49,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Hilarious",
-        "course": "BIOLOGY101"
-      },
-      {
-        "index": 50,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Definitely one of the best professors I've had here, would reccomend him to anyone. He literally GIVES answers away before the tests, because he doesnt care what grade you get (&quot;If it were up to me there would only be 2 grades: groovy and bummer&quot;)",
-        "course": "BIO101"
-      },
-      {
-        "index": 51,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Keeps a persons atention because he is very funny.",
-        "course": "BIOLOGY"
-      },
-      {
-        "index": 52,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Definitely the best teacher I've ever had at OSU he really made Bio 101 fun, and that's not easy to do. The man was meant to teach. Our lecture hall housed about 400 students, and was filled almost everytime.  I don't like bugs, but I was considering taking an entemology class to have him as a prof.",
-        "course": "BIOLOGY101"
-      },
-      {
-        "index": 53,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "By far the greatest teacher I've ever had.  He always made class incredibly fun and interesting, you regret missing his lectures.  Moreover, his exciting and interesting examples are great stories that are hard to forget.",
-        "course": "EEOB410ENT444"
-      },
-      {
-        "index": 54,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "The best teacher I have ever had.",
-        "course": "EEOB400"
-      },
-      {
-        "index": 55,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Fabulous personality, will always make you laugh.  Loves what he does and it shows.",
-        "course": "ENTH444"
-      },
-      {
-        "index": 56,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Very good, animated, energetic, and interesting. I've taken several of his courses because I enjoy his lecures.",
-        "course": "EEOB400"
-      },
-      {
-        "index": 57,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great teacher, don't take intro to Bio unless you have him.",
-        "course": "BIO101"
-      },
-      {
-        "index": 58,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Wenzel was my favorite professor at Ohio State this far, he was hilarious and a good teacher.",
-        "course": "BIO101"
-      },
-      {
-        "index": 59,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "great guy",
-        "course": "ENT444"
-      },
-      {
-        "index": 60,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "No Comments",
-        "course": "BIO101"
-      },
-      {
-        "index": 61,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He's the best professor I've had at OSU, in a large class. Always entertaining, I regretted missing any of his classes.",
-        "course": "BI0101"
-      },
-      {
-        "index": 62,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Very humorous...made class fun.  Excellent teacher!",
-        "course": "BIOLOGY10"
-      },
-      {
-        "index": 63,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Wenzel is super cool, and extremely intelligent. I wish I had him every quarter.",
-        "course": "BIO101"
-      },
-      {
-        "index": 64,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Funny but fair.  Definately go to lecture or else you won't do well in class.  Lecture notes are on WebCT which is a plus!",
-        "course": "BIO101"
-      },
-      {
-        "index": 65,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "BEST TEACHER EVER!!!! Not only is he hilarious person but he teaches in a way that is fun. He made me interested in science again. Wenzel RULES",
-        "course": "BIOEEOB"
-      },
-      {
-        "index": 66,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "He was really funny and a good teacher. He made the class interesting.",
-        "course": "BIO101"
-      },
-      {
-        "index": 67,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "You have to attend lecture to do well, but he's an excellent teacher. Very cool, not uptight, funny, but serious about what matters; learning.",
-        "course": "EEOB400"
-      },
-      {
-        "index": 68,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Wenzel is the best!  Now i remeber why i decided to major in Biology.  He is funny, helpul and really nice.  Always gets you laughing, but teaches the material very well.  He has the whole teaching is fun thing down to a T",
-        "course": "EEOB400"
-      },
-      {
-        "index": 69,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "A fun teacher.  Very knowledgeable.  Good class.",
-        "course": "BIO101"
-      },
-      {
-        "index": 70,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "No Comments",
-        "course": "BIO101"
-      },
-      {
-        "index": 71,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Very entertaining/interesting.  Always has a good story, I guarentee you will end of laughing, lecture on sexual selection is the best.  get wenzel if you can, he rocks!  Tests are tough but fair, multiple choice answers often have a joke answer",
-        "course": "BIO101"
-      },
-      {
-        "index": 72,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Plays music before class and is very entertaining...you will enjoy this class!!!",
-        "course": "BIO101"
-      },
-      {
-        "index": 73,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "BIO101"
-      },
-      {
-        "index": 74,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "No Comments",
-        "course": "BIO101"
-      },
-      {
-        "index": 75,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Lots of goofy stories to tell.  Multiple choice tests always have one joke answer.  He really seems to like what he does.",
-        "course": "BIO101"
-      },
-      {
-        "index": 76,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "No Comments",
-        "course": "BIO101"
-      },
-      {
-        "index": 77,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great Teacher, very lively and energetic. He will keep you interested",
-        "course": "BIO101"
-      },
-      {
-        "index": 78,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Wenzel is great and he is soooo funny.",
-        "course": "BIO101"
-      },
-      {
-        "index": 79,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "very interesting and funny, tests are tough but fair",
-        "course": "101"
-      },
-      {
-        "index": 80,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "No Comments",
-        "course": "BIO101"
-      },
-      {
-        "index": 81,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Wenzel rules the school.",
-        "course": "BIO101"
-      },
-      {
-        "index": 82,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "keeps you interested",
-        "course": "BIO101"
-      },
-      {
-        "index": 83,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great teacher.. Hate Bio, but he made it interesting. Fun teacher",
-        "course": "BIO101"
-      },
-      {
-        "index": 84,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Goofy",
-        "course": "BIO101"
-      },
-      {
-        "index": 85,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "is not boring",
-        "course": "BIO101"
-      },
-      {
-        "index": 86,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Made lectures interesting",
-        "course": "BIO101"
-      },
-      {
-        "index": 87,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Do all you can to avoid this professor.",
-        "course": "BIO101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.9,
-    "avgRating": 2.6,
-    "department": "Science",
-    "firstName": "Garry",
-    "id": "VGVhY2hlci03MjE3Nw==",
-    "lastName": "McKenzie",
-    "legacyId": 72177,
-    "numRatings": 21,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "The WORST professor I have ever had.  I can not believe I paid for this joke of a class.",
-        "course": "GEO105"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "this teacher is absolutely ridiculous...none of his lectures have any structure and he makes no sense whatsoever.  The people below me have it right, if you want to do well, don't buy the book, just use Google and Wikipedia.  He expects everyone in the class to have taken a Geology class prior to his and doesn't understand when people don't get it",
-        "course": "GEO105"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "The other GEO105 posting are dead-on..Its a complete waste of a class. His lectures contain no substance and then he tests on the lectures..STAY AWAY unless you know a lot about geology or prepared to work EXTREMELY hard to know what he is talking about...should have dropped while I could have.",
-        "course": "GEO105"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Garry, I believe has a good heart. But the class is a complete joke. Absolutely no structure for topics. It is impossible to articulate the uselessness his lectures are. Better off simply reading the book. The T.A. stopped coming to lecture stating,&quot;I don't know what's going on in here, so I don't come.&quot;",
-        "course": "EARTH105"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Absolutely the worst prof i have ever had. He is unclear and random in lectures. You will learn nothing in class and will have to google everything for tests. Don't go if you want a good grade.",
-        "course": "GEO105"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Awful. Literally the worst professor I have ever had.  Completely and utterly ridiculous.  IF YOU HAVE A CHOICE STAY AWAY FROM THIS MAN.  He expects you to already know everything about geology.  He talks to you as if you were one of his colleagues.  Quizzes feel like midterms and the midterms are way to hard for a GEC class.  AWFUL.",
-        "course": "GEO105"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Garry isn't that great. Hard to follow in lecture, and his exams are ridiculously hard and specific.  For a 200 level GEC he doesn't make it the easy A it should be. He just mails in every lecture, and I'd encourage you to mail in this class as well-I did and somehow wound up w/ a B b/c i think he generously curves the class at the end.",
-        "course": "ES203"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "McKenzie is allright, but the class is a joke. Almost seemed like everyone, including him, was just going through the motions.  The class requires almost no effort.",
-        "course": "GEO203"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Typical geology professor, but more interesting to listen to than usual.  Focuses alot on actual events (in class and on tests) which make the information at least seem relevant.  Nice guy.",
-        "course": "GEOL203"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "I had Dr. McKenzie for a freshman seminar class and really enjoyed it. He really tries to help you learn.",
-        "course": "PEAKOIL"
-      },
-      {
-        "index": 11,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "He's a good guy. His lectures aren't thrilling, but the subject matter is definitely interesting and worthwhile.  Tests aren't too bad, just study previous quizzes and midterms before the final.  I got an A without too much work.",
-        "course": "GEOL203"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Good teacher. To my surprise, I actually found some of the course really interesting. Could be really boring at times though. The exams were pretty easy, got an A without much effort- only crammed the night before and the morning of for exams.",
-        "course": "GEO203"
-      },
-      {
-        "index": 13,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Class can be very boring at times. But McKenzie is very passionate about the subject matter. My only real complaint other than being bored at times is that he is quite disorganized. But I would say all in all he isn't bad.",
-        "course": "GEOSCI100"
-      },
-      {
-        "index": 14,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Garry is an extremely nice guy.  He gave us cookies during our final.  The subject matter and the lecs were very interesting.  Yes, he was a little dissorganized, but that didn't really matter since he made it clear what topics were important to focus on for tests and such.  Thumbs up for this cool Canadian!",
-        "course": "GEOSCI550"
-      },
-      {
-        "index": 15,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "Not a real hard class.  His final was directly from previous midterm questions.  Got B+ but not sure how. Thought that I should have done better but would not email me back after I emailed him twice. frustrating",
-        "course": "GEO100"
-      },
-      {
-        "index": 16,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Classes were kind of boring but they were tolerable. Most of the material somewhat interesting. Pretty straight foward with what he wants. Go to most classes, read the chapters, and go to labs and you will do good in the class. Seems like a pretty cool guy.",
-        "course": "GEOLSCI100"
-      },
-      {
-        "index": 17,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Good teacher, disorganized notes...made the subject material interesting and changed the mind of a conservative on enviornmentalist issues",
-        "course": "GLG203"
-      },
-      {
-        "index": 18,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "i liked him, i became interested as class went on.",
-        "course": "GEOLOGY100"
-      },
-      {
-        "index": 19,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "No Comments",
-        "course": "GEOLSCI2"
-      },
-      {
-        "index": 20,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Bring a pillow and hope he doesn't test you on who led his 15 expedition into the artic....",
-        "course": "GEOSCI"
-      },
-      {
-        "index": 21,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Difficult to follow lectures, unsure if extra info or actual facts for tests.",
-        "course": "GEOSCI"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.6,
-    "avgRating": 4.1,
-    "department": "Science",
-    "firstName": "Ralph",
-    "id": "VGVhY2hlci02NTczOQ==",
-    "lastName": "Boerner",
-    "legacyId": 65739,
-    "numRatings": 44,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Great, hilarious guy. GO TO LECTURES. You must not even miss one. He goes over everything on the test in his lectures. Study them word for word and you will do fine on tests. His class is extremely interesting and he makes it enjoyable. Very helpful and knowledgeable. Recommend him to anyone! No need to even purchase the book. take good notes!",
-        "course": "EEOB503"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "awesome prof. go to class, take notes, do review questions and memorize those questions. questions are what make up the test. guaranteed A-. let's you argue unfair grading. doesnt make it difficult. seminars are annoying for scheduling, but easy way to cushion your grade. i had a 96. interesting too. take this class!",
-        "course": "EEOB503"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "He's a professor who knows his stuff. His slides are what are important. Go to class because that's what you'll be tested on.  He uses a lot of graphs, so I'd advise getting the book, b/c some graphs are in their.  Good guy, wants his students to succeed.",
-        "course": "EEOB413"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Interesting guy, quality professor. It's important to go to lecture if you want to do well on the tests. The book wasn't very helpful (except citing examples of what we were discussing), but his review questions were. Studying in groups for exams is VERY helpful because of the focus on lecture materials on the test.",
-        "course": "EEOB413"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "In the class I had, he gave quizes every week. The quizes were tricky but reasonable (study in advance and you'll do fine/don't procrastinate bc he could give the quiz at the beginning of class). The labs are easy for the most part but the TA may take off some points. He gives extra credit = life saver if you get them all right.",
-        "course": "BIO101"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Exams are difficult, show up to every class helps alot because notes are tough to understand if you don't go.  Does preach is liberal views alot when he says he's talking from both point of views.",
-        "course": "BIO101"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "SUCH a good teacher.  I hate bio, and he really made lectures interesting!  His exams are kind of difficult, but it really isn't that hard to get an A in the class.  Would recommend him to anyone!!!",
-        "course": "BIO101"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "not too difficult of a class, but the tests are full of trick questions so be sure to know the material.  DO NOT need the book, nor do you need a paid subscription to the Times (articles online).  at one point preached his political views which i was not happy with, but other than that not a bad guy",
-        "course": "BIO101"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Test were ridiculous because of the purposefully tricky wording, but the class itself is not difficult. Go to lecture (and lab of course) and you'll get a decent grade. I cannot stress enough - DO NOT BUY THE BOOK. You might as well flush your cash down the toliet.",
-        "course": "BIO101"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Easy labs, clear lectures, no required attendance.  The problem is that his test are extremely difficult.  He has tons of questions that are worded for the purpose of tricking people and as a result one of the exam averages was 62%.  He also tends to get a bit preachy at times and only likes to discuss his way of thinking.",
-        "course": "BIO101"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "His tests are really hard and he complains a lot about stuents not being at lecture but doesn't do anything about it. He is good at explaining things but it is difficult to judge what he might use on a test, so as a result the tests have pretty low averages. He makes up for it by having easy labs (even if they are elementary.",
-        "course": "BIO101"
-      },
-      {
-        "index": 12,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Interesting and funny teacher. Bio 101 may suck but if you have to take it this guy is not bad. His lectures are actually pretty interesting at times. Exams are difficult; make sure you read the NYT articles. Lab grades will help you out a lot. Do NOT buy the book!",
-        "course": "BIO101"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I loved going to lectures because he makes them really interesting. He makes jokes and does animal impressions which is always worth seeing.  Definately take him and do not buy the book. Go to the lectures and you won't have to spend much time studying for exams.",
-        "course": "BIO101"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "teaches definitions, tests on application...very difficult quizzes, hope for a good TA to keep your points up",
-        "course": "BIO101"
-      },
-      {
-        "index": 15,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "He has a weird sense of humor and tries to keep the lecture interesting. A lot of the tests are conceptually based but if you attend lecture you should be able to handle it. He gives take home essays for each exam which really helps to boost your grade if you need it.",
-        "course": "H116"
-      },
-      {
-        "index": 16,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "If you have to take Bio 101...take it with Ralph Boerner!! He is very easy. I literally never studied for a quiz until I got to his class during lectures...and his quizzes covered the materials only covered in class and the New York Times Articles. You don't need a book for the class because you will NEVER use it.",
-        "course": "BIO101"
-      },
-      {
-        "index": 17,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Very fun and entertaining lectures.  Multiple choice exam portion is theoretical and confusing.  Come to lecture.  Majority if not all of the material is from lecture.  Very funny guy.  Take this class if you have to do fulfill your biology requirement.  He'll assure you do well in his course.",
-        "course": "BIOH116"
-      },
-      {
-        "index": 18,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "He seems to care a lot about teaching; class interesting and challenging, learned a lot.  He knows his material, for sure. A bit partial to some students he obviously likes, which is offputting to the rest of us.  High quality teacher.",
-        "course": "COMMECO510"
-      },
-      {
-        "index": 19,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Ok some of his jokes aren't nearly as funny as he thinks they are, but his constant sarcasm and goofiness make the lectures way more interesting. Also, this is hands down the easiest class I've had since probably middle school. I only went the once a week there was a quiz, and to study I just printed the notes off and studied in class right before ",
-        "course": "BIO101"
-      },
-      {
-        "index": 20,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "He's a bit of a jerk and thinks he's really funny. Got mad that people didn't show up so he started making the class harder.",
-        "course": "BIO101"
-      },
-      {
-        "index": 21,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Everyone in my class thought that the exams were harder than they should have been for a 101 course.  Lectures sometimes were very boring and he tends to take up all of the class period.",
-        "course": "BIO101"
-      },
-      {
-        "index": 22,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This man is amazing.  Somehow he makes an 600 person lecture hall feel like an intimate small biology seminar.  He is enthusiastic, relevant, and exciting.  This was the only class I took this quarter where attendance was not compulsory, and yet I attended every class.  Ohio State should be proud of Ralph Boerner.",
-        "course": "BIO101"
-      },
-      {
-        "index": 23,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Yes, his jokes are corny and he's a little off the wall, but he makes biology extremely interesting. He finds a way to tie in introductory biology material into real world events that affect the way we live. Also, the class is extremely easy and he offers plenty of bonus. The whole not-taking-a-midterm-or-exam thing is pretty nice too.",
-        "course": "BIO101"
-      },
-      {
-        "index": 24,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "He is very annoying and thinks he is funny, but really isnt at all.  Everyone in my class thought that the quizzes were harder than they should have been for bio 101.  He was interesting at some points, but was more annoying and should retire.",
-        "course": "BIO101"
-      },
-      {
-        "index": 25,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I loved this class! You really have to come to lectures and study to do well, but it's interesting and Dr. Boerner is a great teacher. The only annoying thing is having to attend seminars and turn in summaries, but it's still not too bad. Highly recommend this class and this prof!",
-        "course": "EEOB413"
-      },
-      {
-        "index": 26,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "VERY easy class, a joke in fact. But attend lectures and skim the readings and there is NO reason not to get an A. Labs are long, but if you explain your logic, they never took off.",
-        "course": "BIO101"
-      },
-      {
-        "index": 27,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Easy class.  He's a lil out there, but I'd take another class with him in a second.",
-        "course": "BIO101"
-      },
-      {
-        "index": 28,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "It's a fairly simple class.  He's a good teacher.  You have to go to all of the lectures if you want to get an A.  Even tho he has the notes online, it doesn't help to skip lectures and read them.  Take my advice, I did this and got a C+ in the class.",
-        "course": "BIO101"
-      },
-      {
-        "index": 29,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "A fun class.  If you read the book and go to class, the quizzes aren't bad at all.",
-        "course": "BIO101"
-      },
-      {
-        "index": 30,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Very easy class and he's interesting to listen to. He really knows what he's talking about, but he explains things well. Take his class. He's much better than the other bio teachers.",
-        "course": "BIO101"
-      },
-      {
-        "index": 31,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "great professor; it's nice to have no midterms, but quizes are difficult.  He makes lecture interesting because he jokes about almost everything without making the class a joke.  Class is very easy and very interesting.  Great Prof!  TAKE HIS CLASS!",
-        "course": "BIO101"
-      },
-      {
-        "index": 32,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Easiest class ever, boring but somewhat entertaining for an A.",
-        "course": "BIO101"
-      },
-      {
-        "index": 33,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "fun to listen to, if you read the book and go to lecture the quizes are very fair",
-        "course": "BIO101"
-      },
-      {
-        "index": 34,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "He makes lecutres fun. I  loved the idea of no major studying for a midterm or final!! But still makes you use your brain on quizes, so no getting off the hook really ;-)",
-        "course": "BIO101"
-      },
-      {
-        "index": 35,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "made the class entertaining and enjoyable",
-        "course": "BIO101"
-      },
-      {
-        "index": 36,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "quizes are all lecture based.  Very fair with material on the quizes.",
-        "course": "BIO101"
-      },
-      {
-        "index": 37,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "BIO101"
-      },
-      {
-        "index": 38,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Only quiz's. no exams but it isnt a walk in the park and no curve at the end!",
-        "course": "BIO101"
-      },
-      {
-        "index": 39,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Nice guy...seemed like no exams would be nice but the quizes aren't that easy",
-        "course": "BIO101"
-      },
-      {
-        "index": 40,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Laid back lecturer.  Very knowledgable.  Interesting to listen to.  Learned much",
-        "course": "EEOB4130"
-      },
-      {
-        "index": 41,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "No Comments",
-        "course": "BIO101"
-      },
-      {
-        "index": 42,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "His quizzes are super hard, meaning his relaxed lectures aren't what they seem..",
-        "course": "BIO101"
-      },
-      {
-        "index": 43,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Yes he's easy-going but you never know what's important & what's just rambling!",
-        "course": "BIO101"
-      },
-      {
-        "index": 44,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Really easy going. It's not bad going to the big lectures.",
-        "course": "BIO101"
       }
     ],
     "SEI": []

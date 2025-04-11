@@ -1,607 +1,5 @@
 [
   {
-    "avgDifficulty": 1,
-    "avgRating": 5,
-    "department": "Earth Sciences",
-    "firstName": "Brandi",
-    "id": "VGVhY2hlci0yNzQwMTUx",
-    "lastName": "Lenz",
-    "legacyId": 2740151,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Attendance isn't mandatory but there are a few random pop quizzes that usually aren't announced, but are sometimes hinted at. Isn't a difficult class to pass, just don't miss those pop quizzes.",
-        "course": "EARTHSCI2203"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Professor Lenz is an absolute gem. Never met a Prof who was more helpful, more kind, so passionate in lectures! I was in her first class she ever lectured and workload is completely fair, she prepares students well for exams, and she is always MORE than willing to help. &lt;3 her.",
-        "course": "EARTHSCI2203"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 3,
-    "department": "Earth Sciences",
-    "firstName": "Elizabeth",
-    "id": "VGVhY2hlci0yNjA5ODM3",
-    "lastName": "Griffith",
-    "legacyId": 2609837,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "She is very kind and genuinely wants her students to succeed. Lectures are somewhat hard to follow because she gives you lots of extra info, so I often was left confused sifting through the info I needed to actually know. Go to office hours, where she explains everything more clearly. Go to class because of pop quizzes and explaining the homework",
-        "course": "EARTHSC5621"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.9,
-    "avgRating": 5,
-    "department": "Earth Sciences",
-    "firstName": "Benjamin",
-    "id": "VGVhY2hlci0yNjM3OTUw",
-    "lastName": "Grier",
-    "legacyId": 2637950,
-    "numRatings": 14,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This was my second semester of having Ben and he is an amazing professor. He is very understanding and encouraging and he is very approachable. Genuinely great guy and I'm sad I won't be able to take any more classes with him.",
-        "course": "ENGR1282"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "A very good teacher. Clear lectures, great at answering questions, very accessible outside of class. Was good at focusing on the important content and skimming through the irrelevant stuff. My only complaint is that the lab reports for the class are a pain, but if you don't do them all the day before like I did they shouldn't be too bad.",
-        "course": "ENGR1281"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Ben was a great teacher, one of the best I've ever had. He genuinely cares about and respects students and tries to create a fun and inclusive class environment.",
-        "course": "ENGR1281"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Ben is amazing, he keeps his lectures pretty short and gives us a ton of time to work on our assignments in class. This class does have a decent amount of work, but his teaching helps to make it easier! He genuinely cares about his students and goes out of his way to get to know us",
-        "course": "ENGR1281"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Absolutely amazing professor for a very difficult class. The workload would not be doable if not for him being knowledgeable and approachable. 3 credit hours is extremely misleading, the class requires much more time in and out of class than is stated",
-        "course": "ENGR1282"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Grier was great. Really appreciated how responsive he was to students throughout the length of the course, and he was incredibly caring for all his students. ENGR 1282.01H is a difficult class in the sense that it is incredibly time consuming (more similar to a 5 CH class), but Ben made it substantially easier. Take him, he's great!",
-        "course": "ENGR1282"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Ben was fantastic as an instructor. However this class has the workload of a 10 credit hour class despite only being 3 hours. Take this class with caution, since you will be dedicating a lot of time outside of class on the robot. Ben is the best instructor to choose from though, so if you want to take this class, he is your guy",
-        "course": "ENGR1282"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Ben is one of my favorite professors so far at school. He is a real personable guy that takes the time to get to know you and earn your respect. Reading isn't required and if you have previous coding knowledge, not really necessary. His class is engaging and the structure allows for most work to be done in class.",
-        "course": "ENGR1281"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Ben is a great lecturer and is always happy to help you learn the material. It's pretty obvious he wants you to love the content of FEH as much as he does, and this strategy oftentimes works. The class itself isn't terrible (other than labs), and you will do well on the tests with a little studying (or none if you already know how to code).",
-        "course": "ENGR1281"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "I loved Dr. Grier. Loved him so much, I took him next semester for 1182. This was a fun class but get ready to work. I thought I finished with an A but the final exam killed me. This course material sucked because 95% of it was programming on MATLAB so if you arnt CSE, good luck trying to get an A.",
-        "course": "ENGR1181"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "He made 1181 a pleasure to go to, although the class does require more than two credit hours of work. He's very peppy, and very open to help students. The TA grading was fair, not harsh, and I'm saying that as someone who did not do half the application assignments (don't be afraid to ask questions, I was in the beginning bc of ass groupmates).",
-        "course": "ENGR1181"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Best professor I had for the semester. Grading is tough but it is pretty much going to be the same with any other professor for the course.",
-        "course": "ENGR1181"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Grier is a fantastic professor, he's super involved and fun in class, but is also really invested in his students learning the material. The TAs are brutal graders but this is by design as it's a &quot;weed-out&quot; course for engineers. Material is very easy but but you'll have to put in way more than 2 credit hours of work for an A in this class.",
-        "course": "ENGR1181"
-      },
-      {
-        "index": 14,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Was very chill and respectable, the TAs were tough graders but the class wasn't too terribly difficult.",
-        "course": "ENGR1181"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 5,
-    "department": "Earth Sciences",
-    "firstName": "David",
-    "id": "VGVhY2hlci0yNzc2NDMw",
-    "lastName": "Cole",
-    "legacyId": 2776430,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Love the way he does his tests, makes everything less stressful. ",
-        "course": "EARTHSC2203"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I just finished up taking Earth Sci 2203 with Professor Cole and he was amazing! This was one of my first in person experiences since the start of covid and I absolutely loved him. He was friendly, funny and lenient in terms of grading. I highly recommend taking him for this course.",
-        "course": "EARTHSC2203"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.1,
-    "avgRating": 2.1,
-    "department": "Earth Sciences",
-    "firstName": "Mackenzie",
-    "id": "VGVhY2hlci0yNTQwMjU3",
-    "lastName": "Taylor",
-    "legacyId": 2540257,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Before registering for this class I had read on RMP that he overcomplicates stuff. I thought they were exaggerating. They were not. This is the first time I ever get a B in anything. Avoid this professor.",
-        "course": "EARTHSCI1100"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "He appears to think that the students taking his class are getting their Ph.D. in earth science. Class is way harder than it should be but manageable if you study extensively for his exams. If you want an easy GE avoid this professor at all costs.",
-        "course": "GEO1100"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "So, this class was honestly a joke. Mack Taylor expects you to grind every day at the 100 point slides every lecture and uses the most intrinsic details on the exams. The first exam the class average was a D or F, 2 out of 250 kids got an A, 19 B, rest C,D,F. Be ready to work harder than expected for this intro course. Hard A, especially after E1.",
-        "course": "GEO1100"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Lectures aren't difficult, but if you don't attend class don't expect to do well on exams. Attend lectures, take notes, and ask questions, and you should be fine. He offers office hours after class and chat sessions before exams, which can be super helpful if you're not understanding a concept",
-        "course": "EARTHSC1100"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Everyone in this class is on their laptops trying to copy everything the lecturer says word-to-word. I spent most of my time just listening to him explaining the topics in class and filling in the exam outline after going through the lecture slides before every exam. An A is easily achievable if you focus in class and do the exam outlines.",
-        "course": "ES1100"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Mackenzie Taylor teaches such a basic course at OSU but thinks his class is your entire life. Everyone in the 250 person class bombed the first test, making it nearly impossible to get an A. Does top hat nearly every lecture. The class is doable but definitely not what one expects when trying to get a GE out of the way.",
-        "course": "ES1100"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Dont take this class with him if you are looking for an easy GE. Mack Taylor was a new professor this year and made this class 10 times harder than it was supposed to be. His tests are ridiculously hard and the majority of the class got an F on the first test. I strongly suggest avoiding it.",
-        "course": "EARTHSC1100"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.2,
-    "avgRating": 2.3,
-    "department": "Earth Sciences",
-    "firstName": "Vibhor",
-    "id": "VGVhY2hlci0yMzYxNTc4",
-    "lastName": "Agarwal",
-    "legacyId": 2361578,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "He will never explain anything. He just assumes you already knew what you were supposed to do and will not help. Also, when I had personal interactions with him, he was rude.",
-        "course": "ETHSC1105"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "He is a lab TA that will make you more confused than you even were. If you have a question he will just yell it back at you. He grades the labs harshly and will tell you do to them a certain way and then penalize you for it.",
-        "course": "EARTHSC1100"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Vibhor was my lab TA for Earth Science 1110, and after some time I grew to really enjoy him. He constantly walks around during each lab and asks if you need any help. Just take your time on the labs and actually put in a little effort and he will give you a good grade. Worst lab grade I got was a 96. Vibhor's a nice guy, take him if you can!",
-        "course": "EARTHSC1110"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Led the lab component of Earth Science",
-        "course": "EARTHSC1100"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 3.4,
-    "department": "Earth Sciences",
-    "firstName": "David",
-    "id": "VGVhY2hlci0yMjA4NDAw",
-    "lastName": "Young",
-    "legacyId": 2208400,
-    "numRatings": 13,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Young's lectures aren't the best, but I've had much worse. All quizzes and exams are online and open note. Almost all quiz answers are in the powerpoint but those who didn't download them couldn't find the answers (he told us how to find the answers during a lecture). Extra credit is tophat taken randomly in lecture. Exams are EXTREMELY specific.",
-        "course": "EARTHSC1100"
-      },
-      {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "The course is lecture heavy. He makes PowerPoints that are unhelpful because there are nothing but pictures on them. The exams are open note but he makes them extremely difficult because of that and the slides wont help you. Emailing him is a waste of time. He doesn't know how to work carmen well, so your grade might be off &amp; he wont fix it.",
-        "course": "EARTHSC1100"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Young is not a great lecturer, to be honest. But this course is relatively easy to get an A. Easy, leniently graded lab session, open book quizzes, top hat bonus percent, open book mid and final, non-cumulative final etc etc. Just show up the lab, skim through materials a day before the exam, you will get an A score decisively.",
-        "course": "EARTHSC1100"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "David is a great guy. Tries his best to make lectures bearable but Intro to Earth Science isn't the most interesting subject. What I loved about his class is that everything besides his labs are online. Quizzes, one midterm, and final are all taken online which makes them a lot less stressful. His tests are difficult, but an A should be easy!",
-        "course": "EARTHSC1110"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Always said the quizzes and exams were based solely on lecture material, that's a lie. I attended every lecture and there were several times that I came across info that wasn't given in lecture. Not easily accessible outside of class.",
-        "course": "EARTHSC1100"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He's a great guy that is genuinely interested in the material. The midterm is online and curved but it is extremely specific and difficult. He puts up quizzes on Carmen almost every week that will require you to really search through the power points he uploads. The labs make you feel like you're in 6th grade. No required textbook.",
-        "course": "EARTHSC1100"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "He is a great professor, but the course itself is a bit difficult for a GE. It's manageable, but I would only recommend taking this class if you're genuinely interested in earth sciences to a certain extent. I learned a great deal of fascinating information from this prof, but the exams and quizzes could be pretty tricky at times.",
-        "course": "EARTHSC1100"
-      },
-      {
-        "index": 8,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "This is a GE heres some topics covered that shouldn't be in introductory level Earth Science adiabatic process, thermal expansion, relative humidity, aphelion, thermohaline circulation. This list could go on forever. Dont teach high level science at introductory level when you haven't even touched base on the basics.",
-        "course": "EARTHSCI1100"
-      },
-      {
-        "index": 9,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "This class is fine but the professor has such poor writing skills. His way of speaking is ultra specific and ultra hard to understand. Were supposed to be learning introductory earth science dude chill out.",
-        "course": "EARTHSCI1100"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Really lecture heavy and overall boring lecturer. He expects you to always attend and pay attention in class. Tests are difficult and specific so a lot of studying is required. Labs are super easy and he gives open note online quizzes which help with grade. He uses TopHat occasionally to take attendance and used this to give us extra credit.",
-        "course": "EARTHSC1100"
-      },
-      {
-        "index": 11,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Paid little attention in lecture but reviewed slides after and glanced over optional textbook and easily understood material. Couple nights of prep and the tests were easy A's. Nice enough guy, answers his email quickly. If you put in a little work an A is within grasps.",
-        "course": "ES1100"
-      },
-      {
-        "index": 12,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "His accent is amazing and can make lecture more interesting to listen to. I found the exams to have very specific questions on the most minute details we never even went over in class. The labs definitely help hold your grade up. This is supposed to be the easiest lab ge but I found it to be incredibly difficult with this professor.",
-        "course": "EARTHSC1100"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I'm in his class right now and I think it's great!! I HATE science and for the first time I'm actually interested in everything he's saying!!! Plus he has an Australian accent so I could listen to him all day haha.. I emailed him about getting into his class and he was super nice. Highly recommend.",
-        "course": "EARTHSC1100"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 4,
-    "department": "Earth Sciences",
-    "firstName": "Renato",
-    "id": "VGVhY2hlci0yNDk1NzAw",
-    "lastName": "Frasson",
-    "legacyId": 2495700,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "He such a nice professor, the class can be boring though as lectures are dry with information. Pay attention to the study guides given at the end of each section and review all slides before exams. Some activities are unannounced in class and are graded but he will allow for make ups. Graded by few things but not a hard class.",
-        "course": "EARTHSC2204"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 3,
-    "department": "Earth Sciences",
-    "firstName": "Che-Kwan",
-    "id": "VGVhY2hlci0yNDU0MDQ2",
-    "lastName": "Shum",
-    "legacyId": 2454046,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Professor Shum is a really nice guy who is knowledgable about earth science. The expectations that he and his co-lecturer had for this introductory course were super easy and I enjoyed learning from him. It was pretty much all powerpoints all year, but he cared about the class and there were plenty of opportunities to get extra credit.",
-        "course": "EARTHSC2203"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 3,
-    "department": "Earth Sciences",
-    "firstName": "Alan",
-    "id": "VGVhY2hlci0yNDU0MDUy",
-    "lastName": "Saalfeld",
-    "legacyId": 2454052,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Professor Saalfeld is a super nice guy who tries to make earth science interesting. His presentations were at times a little boring but he clearly cared and gave students opportunities to speak in class and ask questions. This class had so many extra credit opportunities that there is no excuse to not get an A. Overall, easy-going guy.",
-        "course": "EARTHSC2203"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 4,
-    "department": "Earth Sciences",
-    "firstName": "Myles",
-    "id": "VGVhY2hlci0yNDM5NTQ4",
-    "lastName": "Moore",
-    "legacyId": 2439548,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Good class. The only reason to go to class is because he does &quot;pop quizzes.&quot; All of them combined only amounted to 9 points. Therefore, you could just review powerpoints online. Lab is easy; just show up. That is a large part of the grade. Go to the review class sessions!! He tells you exactly what to study.",
-        "course": "EARTHSC1100"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.7,
-    "avgRating": 4.3,
-    "department": "Earth Sciences",
-    "firstName": "Melisa",
-    "id": "VGVhY2hlci0zMDM4NDM1",
-    "lastName": "Diaz",
-    "legacyId": 3038435,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Oceanography was a very easy lived environments gen ed class. If you read the textbook with attending the lectures the tests will be easy.  There are four tests, but the lowest of them is dropped and there are some extra credit questions at the end. She's always willing to give extra assistance if you need it.",
-        "course": "EARTHSC2206"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Prof Diaz cares a lot about her work and is very knowledgeable about the subject she teaches. It's a lecture heavy class and although she assigns readings, I never did them and did fine on the exams. The homework assignments are also simple and there are only a few of them. It's a great course to take if you love the ocean and need a theme course.",
-        "course": "EARTHSC2206"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Diaz is obviously passionate about her field and puts that into her class. Attendance is checked on Acadly for credit. Homework assignments are simple, but be prepared to have them assigned over breaks/holidays. Pay attention to the personal info she shares as this is used as extra credit on exams. Read the textbook and you'll do fine on the exam.",
-        "course": "EARTHSC2206"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 2,
-    "department": "Earth Sciences",
-    "firstName": "Susan",
-    "id": "VGVhY2hlci0yOTkwMjU1",
-    "lastName": "Welch",
-    "legacyId": 2990255,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "You can tell that Dr. Welch cares about what she's teaching, however she's very quiet and a little boring. Her TA was what made this class awful. She graded things as if this wasn't a GE class, made the tests impossible and was on a complete power trip even though she's the same age as most of her students. Every test average was a C.",
-        "course": "2206"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.3,
-    "avgRating": 1.9,
-    "department": "Earth Sciences",
-    "firstName": "Douglas",
-    "id": "VGVhY2hlci0yODYzNTQ5",
-    "lastName": "Alsdorf",
-    "legacyId": 2863549,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Look at the good comments, in the same time...while in that time, Spring and summer semesters end for a long time. The good comments from Douglas himself I think. He rates himself, what a mean, and bad professor. ",
-        "course": "ES1121"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "The quiz from the professor of this class makes it difficult for you to cope.",
-        "course": "ES1121"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "This teacher's quiz waits until the class can't be changed. This leads to students having no idea how difficult the class is.",
-        "course": "ES1121"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "If you just want the credits for GE physical, plz go to earthscience 1105, Dr. Casey. She is a good professor, with good quiz. If you choosed this class, you will cryyyyyyyyyyyyy",
-        "course": "ES1121"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Bad class, bad quiz, even you can use your book, it cannot help you. ",
-        "course": "ES1121"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Don't believe the good coments... they just want you to choose this terrible class",
-        "course": "ES1121"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Don't believe that 2 guy who gave the high score. It is diffiuclt!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! The e-book for you it is too diffiuclt to fine the answer. ",
-        "course": "ES1121"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "ES1121 was a hybrid course that allowed for lecture attendance, or purely remote access. Professor Alsdorf is very comfortable in how he teaches the class, and was not afraid to have fun with his lectures and it made them much better. For remote study I highly recommend using the recorded lectures over the presentations.",
-        "course": "ES1121"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Alsdorf had great lectures that were engaging and full of helpful information. He made the class intriguing and mostly easy to follow, despite the material being a bit dry. I Definitely recommend taking this class if you need earth science credit.",
-        "course": "ES1121"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 1.3,
     "avgRating": 4.9,
     "department": "Earth Sciences",
@@ -897,6 +295,2071 @@
         "difficulty": 1,
         "comment": "The kindest professor I've ever had. The course was only graded on guided notes for the lectures and weekly quizzes (unlimited attempts and time). She was so understanding and aware of student's feelings toward her class and if work load or life just became too much, and would accommodate work/deadlines if needed. Can't recommend her enough.",
         "course": "EARTHSC1105"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1105",
+        "Class Name": "Geology of the National Parks",
+        "Class Number": "18501",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "23",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "19098",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "19304",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "14961",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "70",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1105",
+        "Class Name": "Geology of the National Parks",
+        "Class Number": "24992",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1105",
+        "Class Name": "Geology of the National Parks",
+        "Class Number": "22133",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "50",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1151",
+        "Class Name": "Natural Hazards",
+        "Class Number": "13016",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "121",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1105",
+        "Class Name": "Geology of the National Parks",
+        "Class Number": "12827",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "218",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "13300",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1105",
+        "Class Name": "Geology of the National Parks",
+        "Class Number": "19251",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "59",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1105",
+        "Class Name": "Geology of the National Parks",
+        "Class Number": "16969",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "229",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1105",
+        "Class Name": "Geology of the National Parks",
+        "Class Number": "19321",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "176",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29215",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29218",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29749",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.27"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29751",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29754",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "34373",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "34375",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.86"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "34377",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "3"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "34379",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "34382",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "3.25"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1105",
+        "Class Name": "Geology of the National Parks",
+        "Class Number": "19110",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "37",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "19747",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "22598",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1105",
+        "Class Name": "Geology of the National Parks",
+        "Class Number": "19834",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "145",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29645",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29647",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29649",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29651",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29653",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "4"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "30233",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "30558",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "30560",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "30562",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "30564",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "30565",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "35681",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1105",
+        "Class Name": "Geology of the National Parks",
+        "Class Number": "19659",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "153",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1151",
+        "Class Name": "Natural Hazards",
+        "Class Number": "19649",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "57",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "28670",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "28672",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29056",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.17"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29058",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29060",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29062",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29981",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29983",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29986",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29988",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.33"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1.7,
+    "avgRating": 4.3,
+    "department": "Earth Sciences",
+    "firstName": "Melisa",
+    "id": "VGVhY2hlci0zMDM4NDM1",
+    "lastName": "Diaz",
+    "legacyId": 3038435,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Oceanography was a very easy lived environments gen ed class. If you read the textbook with attending the lectures the tests will be easy.  There are four tests, but the lowest of them is dropped and there are some extra credit questions at the end. She's always willing to give extra assistance if you need it.",
+        "course": "EARTHSC2206"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Prof Diaz cares a lot about her work and is very knowledgeable about the subject she teaches. It's a lecture heavy class and although she assigns readings, I never did them and did fine on the exams. The homework assignments are also simple and there are only a few of them. It's a great course to take if you love the ocean and need a theme course.",
+        "course": "EARTHSC2206"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Diaz is obviously passionate about her field and puts that into her class. Attendance is checked on Acadly for credit. Homework assignments are simple, but be prepared to have them assigned over breaks/holidays. Pay attention to the personal info she shares as this is used as extra credit on exams. Read the textbook and you'll do fine on the exam.",
+        "course": "EARTHSC2206"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 2,
+    "department": "Earth Sciences",
+    "firstName": "Susan",
+    "id": "VGVhY2hlci0yOTkwMjU1",
+    "lastName": "Welch",
+    "legacyId": 2990255,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "You can tell that Dr. Welch cares about what she's teaching, however she's very quiet and a little boring. Her TA was what made this class awful. She graded things as if this wasn't a GE class, made the tests impossible and was on a complete power trip even though she's the same age as most of her students. Every test average was a C.",
+        "course": "2206"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "2206",
+        "Class Name": "Principles of Oceanography",
+        "Class Number": "19652",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "26",
+        "Rating": "3.77"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 4.3,
+    "avgRating": 1.9,
+    "department": "Earth Sciences",
+    "firstName": "Douglas",
+    "id": "VGVhY2hlci0yODYzNTQ5",
+    "lastName": "Alsdorf",
+    "legacyId": 2863549,
+    "numRatings": 9,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Look at the good comments, in the same time...while in that time, Spring and summer semesters end for a long time. The good comments from Douglas himself I think. He rates himself, what a mean, and bad professor. ",
+        "course": "ES1121"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "The quiz from the professor of this class makes it difficult for you to cope.",
+        "course": "ES1121"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This teacher's quiz waits until the class can't be changed. This leads to students having no idea how difficult the class is.",
+        "course": "ES1121"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "If you just want the credits for GE physical, plz go to earthscience 1105, Dr. Casey. She is a good professor, with good quiz. If you choosed this class, you will cryyyyyyyyyyyyy",
+        "course": "ES1121"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Bad class, bad quiz, even you can use your book, it cannot help you. ",
+        "course": "ES1121"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Don't believe the good coments... they just want you to choose this terrible class",
+        "course": "ES1121"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Don't believe that 2 guy who gave the high score. It is diffiuclt!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! The e-book for you it is too diffiuclt to fine the answer. ",
+        "course": "ES1121"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "ES1121 was a hybrid course that allowed for lecture attendance, or purely remote access. Professor Alsdorf is very comfortable in how he teaches the class, and was not afraid to have fun with his lectures and it made them much better. For remote study I highly recommend using the recorded lectures over the presentations.",
+        "course": "ES1121"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Professor Alsdorf had great lectures that were engaging and full of helpful information. He made the class intriguing and mostly easy to follow, despite the material being a bit dry. I Definitely recommend taking this class if you need earth science credit.",
+        "course": "ES1121"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1138",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "36901",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1138.13",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "37152",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1138.06",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "37610",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "18654",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "175",
+        "Rating": "4.22"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1121",
+        "Class Name": "The Dynamic Earth",
+        "Class Number": "18669",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "231",
+        "Rating": "4.51"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1121",
+        "Class Name": "The Dynamic Earth",
+        "Class Number": "19781",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "191",
+        "Rating": "4.46"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12782",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "101",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12783",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12785",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12786",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12787",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12788",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12789",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12791",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.27"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12792",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12793",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "18960",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "23799",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "24150",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5194",
+        "Class Name": "Group Studies",
+        "Class Number": "36591",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1121",
+        "Class Name": "The Dynamic Earth",
+        "Class Number": "34902",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "84",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1121",
+        "Class Name": "The Dynamic Earth",
+        "Class Number": "35104",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "185",
+        "Rating": "4.48"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1121",
+        "Class Name": "The Dynamic Earth",
+        "Class Number": "19304",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "37",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1121",
+        "Class Name": "The Dynamic Earth",
+        "Class Number": "34232",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "190",
+        "Rating": "4.52"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1121",
+        "Class Name": "The Dynamic Earth",
+        "Class Number": "30449",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1121",
+        "Class Name": "The Dynamic Earth",
+        "Class Number": "30531",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "108",
+        "Rating": "4.43"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Earth Sciences",
+    "firstName": "Brandi",
+    "id": "VGVhY2hlci0yNzQwMTUx",
+    "lastName": "Lenz",
+    "legacyId": 2740151,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Attendance isn't mandatory but there are a few random pop quizzes that usually aren't announced, but are sometimes hinted at. Isn't a difficult class to pass, just don't miss those pop quizzes.",
+        "course": "EARTHSCI2203"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Lenz is an absolute gem. Never met a Prof who was more helpful, more kind, so passionate in lectures! I was in her first class she ever lectured and workload is completely fair, she prepares students well for exams, and she is always MORE than willing to help. &lt;3 her.",
+        "course": "EARTHSCI2203"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "2203",
+        "Class Name": "Environmental Geoscience",
+        "Class Number": "13017",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "42",
+        "Rating": "4.45"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 3,
+    "department": "Earth Sciences",
+    "firstName": "Elizabeth",
+    "id": "VGVhY2hlci0yNjA5ODM3",
+    "lastName": "Griffith",
+    "legacyId": 2609837,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "She is very kind and genuinely wants her students to succeed. Lectures are somewhat hard to follow because she gives you lots of extra info, so I often was left confused sifting through the info I needed to actually know. Go to office hours, where she explains everything more clearly. Go to class because of pop quizzes and explaining the homework",
+        "course": "EARTHSC5621"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5206",
+        "Class Name": "Advanced Oceanography",
+        "Class Number": "15002",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5206",
+        "Class Name": "Advanced Oceanography",
+        "Class Number": "15021",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "2206S",
+        "Class Name": "Principles of Oceanography (Service-Learning)",
+        "Class Number": "29880",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5194",
+        "Class Name": "Group Studies",
+        "Class Number": "36154",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5621",
+        "Class Name": "Introduction to Geochemistry",
+        "Class Number": "13027",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5621",
+        "Class Name": "Introduction to Geochemistry",
+        "Class Number": "13046",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "3.43"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "N/A",
+        "Class Name": "Principles of Oceanography (Service-Learning)",
+        "Class Number": "24013",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "2000",
+        "Class Name": "Preparation for Thesis and Careers in the Earth Sciences",
+        "Class Number": "27699",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5206",
+        "Class Name": "Advanced Oceanography",
+        "Class Number": "16983",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5242",
+        "Class Name": "Exploring the Natural History of The Bahamas",
+        "Class Number": "34503",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5242",
+        "Class Name": "Exploring the Natural History of The Bahamas",
+        "Class Number": "36270",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5621",
+        "Class Name": "Introduction to Geochemistry",
+        "Class Number": "19845",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.46"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1200",
+        "Class Name": "Introduction to Earth Science Laboratory",
+        "Class Number": "29988",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5242",
+        "Class Name": "Exploring the Natural History of The Bahamas",
+        "Class Number": "30050",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.43"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.9,
+    "avgRating": 5,
+    "department": "Earth Sciences",
+    "firstName": "Benjamin",
+    "id": "VGVhY2hlci0yNjM3OTUw",
+    "lastName": "Grier",
+    "legacyId": 2637950,
+    "numRatings": 14,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This was my second semester of having Ben and he is an amazing professor. He is very understanding and encouraging and he is very approachable. Genuinely great guy and I'm sad I won't be able to take any more classes with him.",
+        "course": "ENGR1282"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "A very good teacher. Clear lectures, great at answering questions, very accessible outside of class. Was good at focusing on the important content and skimming through the irrelevant stuff. My only complaint is that the lab reports for the class are a pain, but if you don't do them all the day before like I did they shouldn't be too bad.",
+        "course": "ENGR1281"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Ben was a great teacher, one of the best I've ever had. He genuinely cares about and respects students and tries to create a fun and inclusive class environment.",
+        "course": "ENGR1281"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Ben is amazing, he keeps his lectures pretty short and gives us a ton of time to work on our assignments in class. This class does have a decent amount of work, but his teaching helps to make it easier! He genuinely cares about his students and goes out of his way to get to know us",
+        "course": "ENGR1281"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Absolutely amazing professor for a very difficult class. The workload would not be doable if not for him being knowledgeable and approachable. 3 credit hours is extremely misleading, the class requires much more time in and out of class than is stated",
+        "course": "ENGR1282"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Grier was great. Really appreciated how responsive he was to students throughout the length of the course, and he was incredibly caring for all his students. ENGR 1282.01H is a difficult class in the sense that it is incredibly time consuming (more similar to a 5 CH class), but Ben made it substantially easier. Take him, he's great!",
+        "course": "ENGR1282"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Ben was fantastic as an instructor. However this class has the workload of a 10 credit hour class despite only being 3 hours. Take this class with caution, since you will be dedicating a lot of time outside of class on the robot. Ben is the best instructor to choose from though, so if you want to take this class, he is your guy",
+        "course": "ENGR1282"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Ben is one of my favorite professors so far at school. He is a real personable guy that takes the time to get to know you and earn your respect. Reading isn't required and if you have previous coding knowledge, not really necessary. His class is engaging and the structure allows for most work to be done in class.",
+        "course": "ENGR1281"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Ben is a great lecturer and is always happy to help you learn the material. It's pretty obvious he wants you to love the content of FEH as much as he does, and this strategy oftentimes works. The class itself isn't terrible (other than labs), and you will do well on the tests with a little studying (or none if you already know how to code).",
+        "course": "ENGR1281"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "I loved Dr. Grier. Loved him so much, I took him next semester for 1182. This was a fun class but get ready to work. I thought I finished with an A but the final exam killed me. This course material sucked because 95% of it was programming on MATLAB so if you arnt CSE, good luck trying to get an A.",
+        "course": "ENGR1181"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He made 1181 a pleasure to go to, although the class does require more than two credit hours of work. He's very peppy, and very open to help students. The TA grading was fair, not harsh, and I'm saying that as someone who did not do half the application assignments (don't be afraid to ask questions, I was in the beginning bc of ass groupmates).",
+        "course": "ENGR1181"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Best professor I had for the semester. Grading is tough but it is pretty much going to be the same with any other professor for the course.",
+        "course": "ENGR1181"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Grier is a fantastic professor, he's super involved and fun in class, but is also really invested in his students learning the material. The TAs are brutal graders but this is by design as it's a &quot;weed-out&quot; course for engineers. Material is very easy but but you'll have to put in way more than 2 credit hours of work for an A in this class.",
+        "course": "ENGR1181"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Was very chill and respectable, the TAs were tough graders but the class wasn't too terribly difficult.",
+        "course": "ENGR1181"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Earth Sciences",
+    "firstName": "David",
+    "id": "VGVhY2hlci0yNzc2NDMw",
+    "lastName": "Cole",
+    "legacyId": 2776430,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Love the way he does his tests, makes everything less stressful. ",
+        "course": "EARTHSC2203"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I just finished up taking Earth Sci 2203 with Professor Cole and he was amazing! This was one of my first in person experiences since the start of covid and I absolutely loved him. He was friendly, funny and lenient in terms of grading. I highly recommend taking him for this course.",
+        "course": "EARTHSC2203"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "2210",
+        "Class Name": "Energy, Mineral Resources, and Society",
+        "Class Number": "35894",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "2203",
+        "Class Name": "Environmental Geoscience",
+        "Class Number": "24866",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "2203",
+        "Class Name": "Environmental Geoscience",
+        "Class Number": "18990",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "2210",
+        "Class Name": "Energy, Mineral Resources, and Society",
+        "Class Number": "35343",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5675",
+        "Class Name": "Scanning Electron Microscopy",
+        "Class Number": "35344",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "5675",
+        "Class Name": "Scanning Electron Microscopy",
+        "Class Number": "35347",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "2203",
+        "Class Name": "Environmental Geoscience",
+        "Class Number": "24938",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "2203",
+        "Class Name": "Environmental Geoscience",
+        "Class Number": "24860",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "23",
+        "Rating": "4.39"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 4.1,
+    "avgRating": 2.1,
+    "department": "Earth Sciences",
+    "firstName": "Mackenzie",
+    "id": "VGVhY2hlci0yNTQwMjU3",
+    "lastName": "Taylor",
+    "legacyId": 2540257,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Before registering for this class I had read on RMP that he overcomplicates stuff. I thought they were exaggerating. They were not. This is the first time I ever get a B in anything. Avoid this professor.",
+        "course": "EARTHSCI1100"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "He appears to think that the students taking his class are getting their Ph.D. in earth science. Class is way harder than it should be but manageable if you study extensively for his exams. If you want an easy GE avoid this professor at all costs.",
+        "course": "GEO1100"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "So, this class was honestly a joke. Mack Taylor expects you to grind every day at the 100 point slides every lecture and uses the most intrinsic details on the exams. The first exam the class average was a D or F, 2 out of 250 kids got an A, 19 B, rest C,D,F. Be ready to work harder than expected for this intro course. Hard A, especially after E1.",
+        "course": "GEO1100"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Lectures aren't difficult, but if you don't attend class don't expect to do well on exams. Attend lectures, take notes, and ask questions, and you should be fine. He offers office hours after class and chat sessions before exams, which can be super helpful if you're not understanding a concept",
+        "course": "EARTHSC1100"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Everyone in this class is on their laptops trying to copy everything the lecturer says word-to-word. I spent most of my time just listening to him explaining the topics in class and filling in the exam outline after going through the lecture slides before every exam. An A is easily achievable if you focus in class and do the exam outlines.",
+        "course": "ES1100"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Mackenzie Taylor teaches such a basic course at OSU but thinks his class is your entire life. Everyone in the 250 person class bombed the first test, making it nearly impossible to get an A. Does top hat nearly every lecture. The class is doable but definitely not what one expects when trying to get a GE out of the way.",
+        "course": "ES1100"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Dont take this class with him if you are looking for an easy GE. Mack Taylor was a new professor this year and made this class 10 times harder than it was supposed to be. His tests are ridiculously hard and the majority of the class got an F on the first test. I strongly suggest avoiding it.",
+        "course": "EARTHSC1100"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12841",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "39",
+        "Rating": "3.54"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "12994",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "3.56"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "21611",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "EARTHSC",
+        "Catalog": "1100",
+        "Class Name": "Planet Earth: How It Works",
+        "Class Number": "21612",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "School of Earth Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 2.3,
+    "department": "Earth Sciences",
+    "firstName": "Vibhor",
+    "id": "VGVhY2hlci0yMzYxNTc4",
+    "lastName": "Agarwal",
+    "legacyId": 2361578,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "He will never explain anything. He just assumes you already knew what you were supposed to do and will not help. Also, when I had personal interactions with him, he was rude.",
+        "course": "ETHSC1105"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "He is a lab TA that will make you more confused than you even were. If you have a question he will just yell it back at you. He grades the labs harshly and will tell you do to them a certain way and then penalize you for it.",
+        "course": "EARTHSC1100"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Vibhor was my lab TA for Earth Science 1110, and after some time I grew to really enjoy him. He constantly walks around during each lab and asks if you need any help. Just take your time on the labs and actually put in a little effort and he will give you a good grade. Worst lab grade I got was a 96. Vibhor's a nice guy, take him if you can!",
+        "course": "EARTHSC1110"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Led the lab component of Earth Science",
+        "course": "EARTHSC1100"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3.4,
+    "department": "Earth Sciences",
+    "firstName": "David",
+    "id": "VGVhY2hlci0yMjA4NDAw",
+    "lastName": "Young",
+    "legacyId": 2208400,
+    "numRatings": 13,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Young's lectures aren't the best, but I've had much worse. All quizzes and exams are online and open note. Almost all quiz answers are in the powerpoint but those who didn't download them couldn't find the answers (he told us how to find the answers during a lecture). Extra credit is tophat taken randomly in lecture. Exams are EXTREMELY specific.",
+        "course": "EARTHSC1100"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "The course is lecture heavy. He makes PowerPoints that are unhelpful because there are nothing but pictures on them. The exams are open note but he makes them extremely difficult because of that and the slides wont help you. Emailing him is a waste of time. He doesn't know how to work carmen well, so your grade might be off &amp; he wont fix it.",
+        "course": "EARTHSC1100"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Young is not a great lecturer, to be honest. But this course is relatively easy to get an A. Easy, leniently graded lab session, open book quizzes, top hat bonus percent, open book mid and final, non-cumulative final etc etc. Just show up the lab, skim through materials a day before the exam, you will get an A score decisively.",
+        "course": "EARTHSC1100"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "David is a great guy. Tries his best to make lectures bearable but Intro to Earth Science isn't the most interesting subject. What I loved about his class is that everything besides his labs are online. Quizzes, one midterm, and final are all taken online which makes them a lot less stressful. His tests are difficult, but an A should be easy!",
+        "course": "EARTHSC1110"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Always said the quizzes and exams were based solely on lecture material, that's a lie. I attended every lecture and there were several times that I came across info that wasn't given in lecture. Not easily accessible outside of class.",
+        "course": "EARTHSC1100"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He's a great guy that is genuinely interested in the material. The midterm is online and curved but it is extremely specific and difficult. He puts up quizzes on Carmen almost every week that will require you to really search through the power points he uploads. The labs make you feel like you're in 6th grade. No required textbook.",
+        "course": "EARTHSC1100"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "He is a great professor, but the course itself is a bit difficult for a GE. It's manageable, but I would only recommend taking this class if you're genuinely interested in earth sciences to a certain extent. I learned a great deal of fascinating information from this prof, but the exams and quizzes could be pretty tricky at times.",
+        "course": "EARTHSC1100"
+      },
+      {
+        "index": 8,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "This is a GE heres some topics covered that shouldn't be in introductory level Earth Science adiabatic process, thermal expansion, relative humidity, aphelion, thermohaline circulation. This list could go on forever. Dont teach high level science at introductory level when you haven't even touched base on the basics.",
+        "course": "EARTHSCI1100"
+      },
+      {
+        "index": 9,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "This class is fine but the professor has such poor writing skills. His way of speaking is ultra specific and ultra hard to understand. Were supposed to be learning introductory earth science dude chill out.",
+        "course": "EARTHSCI1100"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Really lecture heavy and overall boring lecturer. He expects you to always attend and pay attention in class. Tests are difficult and specific so a lot of studying is required. Labs are super easy and he gives open note online quizzes which help with grade. He uses TopHat occasionally to take attendance and used this to give us extra credit.",
+        "course": "EARTHSC1100"
+      },
+      {
+        "index": 11,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Paid little attention in lecture but reviewed slides after and glanced over optional textbook and easily understood material. Couple nights of prep and the tests were easy A's. Nice enough guy, answers his email quickly. If you put in a little work an A is within grasps.",
+        "course": "ES1100"
+      },
+      {
+        "index": 12,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "His accent is amazing and can make lecture more interesting to listen to. I found the exams to have very specific questions on the most minute details we never even went over in class. The labs definitely help hold your grade up. This is supposed to be the easiest lab ge but I found it to be incredibly difficult with this professor.",
+        "course": "EARTHSC1100"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I'm in his class right now and I think it's great!! I HATE science and for the first time I'm actually interested in everything he's saying!!! Plus he has an Australian accent so I could listen to him all day haha.. I emailed him about getting into his class and he was super nice. Highly recommend.",
+        "course": "EARTHSC1100"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4,
+    "department": "Earth Sciences",
+    "firstName": "Renato",
+    "id": "VGVhY2hlci0yNDk1NzAw",
+    "lastName": "Frasson",
+    "legacyId": 2495700,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "He such a nice professor, the class can be boring though as lectures are dry with information. Pay attention to the study guides given at the end of each section and review all slides before exams. Some activities are unannounced in class and are graded but he will allow for make ups. Graded by few things but not a hard class.",
+        "course": "EARTHSC2204"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 3,
+    "department": "Earth Sciences",
+    "firstName": "Che-Kwan",
+    "id": "VGVhY2hlci0yNDU0MDQ2",
+    "lastName": "Shum",
+    "legacyId": 2454046,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Professor Shum is a really nice guy who is knowledgable about earth science. The expectations that he and his co-lecturer had for this introductory course were super easy and I enjoyed learning from him. It was pretty much all powerpoints all year, but he cared about the class and there were plenty of opportunities to get extra credit.",
+        "course": "EARTHSC2203"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 3,
+    "department": "Earth Sciences",
+    "firstName": "Alan",
+    "id": "VGVhY2hlci0yNDU0MDUy",
+    "lastName": "Saalfeld",
+    "legacyId": 2454052,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Professor Saalfeld is a super nice guy who tries to make earth science interesting. His presentations were at times a little boring but he clearly cared and gave students opportunities to speak in class and ask questions. This class had so many extra credit opportunities that there is no excuse to not get an A. Overall, easy-going guy.",
+        "course": "EARTHSC2203"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4,
+    "department": "Earth Sciences",
+    "firstName": "Myles",
+    "id": "VGVhY2hlci0yNDM5NTQ4",
+    "lastName": "Moore",
+    "legacyId": 2439548,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Good class. The only reason to go to class is because he does &quot;pop quizzes.&quot; All of them combined only amounted to 9 points. Therefore, you could just review powerpoints online. Lab is easy; just show up. That is a large part of the grade. Go to the review class sessions!! He tells you exactly what to study.",
+        "course": "EARTHSC1100"
       }
     ],
     "SEI": []

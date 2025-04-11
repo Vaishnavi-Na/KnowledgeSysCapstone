@@ -1,5 +1,74 @@
 [
   {
+    "avgDifficulty": 2.2,
+    "avgRating": 3.2,
+    "department": "Chinese",
+    "firstName": "Zhiguo",
+    "id": "VGVhY2hlci0xNzc1MzUy",
+    "lastName": "Xie",
+    "legacyId": 1775352,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Xie laoshi is a great lecturer. He's funny, takes questions/comments well and makes you feel smart every time you talk. Class is long but he makes it enjoyable. Biggest thing is to do the readings, because the quizzes are rough and will hit your grade hard. Very fair on all other assignments. Lectures don't cover the readings, you have to know both",
+        "course": "CHNS2231"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Nothing but easy A. Sometimes I don't think he understanding what he said by himself. Go to class, read Powerpoint, finish homework, that's all.",
+        "course": "CHNS2231"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "All tests and quizzes are open note so you don't really have to actually read, midterm was take home too. Class itself is pretty boring and I did other HW during class, you have to go because he grades participation/attendance, and you only have 2 skips. Unless you're super into Chinese culture I wouldn't take this as a GE unless you have to.",
+        "course": "CHNS2231"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Xie Laoshi was a really good teacher. I learned a lot from his class and the work was very very easy. Everything is open notes!",
+        "course": "CHNS2231"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Xie is very nice, engaging, sometimes humorous. He is willing to share his own personal experience in relation to Chinese culture. Attendance is taken every class,  but he is generous in other grading and gives a lot of bonus opportunities. I feel I learned quite a lot about things I did not know or understand.",
+        "course": "CHNS2231"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "If you can understand each syllabus he utters, then his English is excellent. I showed up to every single lecture, which was 1 hr and 20 min long and he gave me 14/15 participation pts, but a mere 12 hrs later... it was changed to a 13.5! o.o Anyway, I got an A. Super GPA booster class: take home midterm + open notes final. Generous guys he is.",
+        "course": "CHIN4380"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Xie laoshi was great! He had a hard time sometimes explaining things bc English isn't his first language, however, he always did what he could to make sure you understood. Extremely nice guy, gave us candy on Valentines day and Chinese New Year, I hope I can take another one of his classes. ",
+        "course": "CHIN4383"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Class was super easy. Sometimes interesting, sometimes boring. Mid-term is open book and notes. No final. I don't speak any Chinese and I easily got an A in the course.",
+        "course": "CHNS2231"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 2,
     "avgRating": 4,
     "department": "Chinese",
@@ -15,6 +84,565 @@
         "difficulty": 2,
         "comment": "He is a nice professor passionate about the subject. You have to practice writing chinese calligraphy a lot (but they are only graded for completion). I am a native chinese speaker so it is relatively easy for me. Final project is 2 papers + a chinese calligraphy work. Overall easy but require some work. ",
         "course": "CHINESE2283"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "CHINESE",
+        "Catalog": "5389",
+        "Class Name": "Topics on the Chinese Language",
+        "Class Number": "36427",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "2283",
+        "Class Name": "Chinese Calligraphy",
+        "Class Number": "22068",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "2283",
+        "Class Name": "Chinese Calligraphy",
+        "Class Number": "21934",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.84"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "2283",
+        "Class Name": "Chinese Calligraphy",
+        "Class Number": "22038",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "7655",
+        "Class Name": "Language in China",
+        "Class Number": "12128",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "7660",
+        "Class Name": "Interpersonal Relations and Professional Networking",
+        "Class Number": "12078",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "2283",
+        "Class Name": "Chinese Calligraphy",
+        "Class Number": "16061",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "7615",
+        "Class Name": "Chinese Perspectives on Chinese Civilization",
+        "Class Number": "11758",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "2283",
+        "Class Name": "Chinese Calligraphy",
+        "Class Number": "19213",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "2283",
+        "Class Name": "Chinese Calligraphy",
+        "Class Number": "23615",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "8897",
+        "Class Name": "Departmental Seminar",
+        "Class Number": "27155",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "2283",
+        "Class Name": "Chinese Calligraphy",
+        "Class Number": "22163",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "36",
+        "Rating": "4.61"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "2283",
+        "Class Name": "Chinese Calligraphy",
+        "Class Number": "19076",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "2231",
+        "Class Name": "Traditional Chinese Culture",
+        "Class Number": "35081",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "7655",
+        "Class Name": "Language in China",
+        "Class Number": "35877",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "2283",
+        "Class Name": "Chinese Calligraphy",
+        "Class Number": "22372",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "33",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "7615",
+        "Class Name": "Chinese Perspectives on Chinese Civilization",
+        "Class Number": "34463",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.3,
+    "avgRating": 2.4,
+    "department": "Chinese",
+    "firstName": "Jianqi",
+    "id": "VGVhY2hlci0xMTA2MjIz",
+    "lastName": "Wang",
+    "legacyId": 1106223,
+    "numRatings": 9,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "tremendous professor! He can introduce many many useful and comprehensive knowledge about chinese film and give students another view to see the country China. I will take his class again.",
+        "course": "chinese4405"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "It's a bit surprising how bad of a course the Martial Arts film course is. I'm unsure about his other classes but this course was so unorganized and it seemed like no lesson plan was ever involved during the creation of the course. It's easy enough, but a completely drag. I won't say I didn't learn anything, but if I wouldn't recommend the class.",
+        "course": "chinese4405"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Took the martial arts films class, and was disappointed. Its not hard to get a good grade, but the lectures are disorganized and confusing, and I didn't really learn anything",
+        "course": "chinese4405"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Wang laoshi gets a bad rap from these reviews for lectures being hectic which is true but it's also a little unreasonable to expect a full movie to be played in class every day, and beyond ~2 assignments you don't need to see the whole thing anyway. He's lenient and knowledgeable, and while lecture may be boring to some its not a dealbreaker.",
+        "course": "chinese4405"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "It's hilarious how bad this professor is. I took this course for film studies credit and that was a mistake. Jianqi Wang does not know how to teach and does not understand anything about film. He is not qualified to teach this course and I recommend you don't take it. It is boring and a waste of time and I learned nothing.",
+        "course": "chinese4405"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Simply unbelievable course, confusing and chapterless throughout. Don't pick him.",
+        "course": "chinese4405"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "I do not recommend this class. Although Jianqi seems like a nice person, this class is **extremely** unorganized. Due dates are unclear. Assignment expectations are unclear. Movies are not shown but skipped through, sometimes without english captions. I feel like I learned absolutely nothing. Do not take this class!!!",
+        "course": "chinese4405"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Expectations were a little unclear throughout the entire semester, but he was very easygoing on the grading so that more than made up for it. My Chinese definitely improved a ton in his class.",
+        "course": "CHIN5101"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "zzzzz",
+        "course": "CHIN451"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "CHINESE",
+        "Catalog": "7650",
+        "Class Name": "Negotiating in Chinese Culture",
+        "Class Number": "17610",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "7617",
+        "Class Name": "Analysis of Contemporary Chinese Media",
+        "Class Number": "12072",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "7650",
+        "Class Name": "Negotiating in Chinese Culture",
+        "Class Number": "11738",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "4405",
+        "Class Name": "China in Chinese Film",
+        "Class Number": "34715",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "4405",
+        "Class Name": "China in Chinese Film",
+        "Class Number": "34967",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "3.79"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "4405",
+        "Class Name": "China in Chinese Film",
+        "Class Number": "30347",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "3.38"
+      },
+      {
+        "Subject": "CHINESE",
+        "Catalog": "4405",
+        "Class Name": "China in Chinese Film",
+        "Class Number": "30129",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "3.41"
+      },
+      {
+        "Subject": "EALL",
+        "Catalog": "8701",
+        "Class Name": "Teaching East Asian Languages at the College Level",
+        "Class Number": "14699",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "EALL",
+        "Catalog": "3405",
+        "Class Name": "Introducing East Asia through Martial Arts Cinema",
+        "Class Number": "32999",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "EALL",
+        "Catalog": "8701",
+        "Class Name": "Teaching East Asian Languages at the College Level",
+        "Class Number": "12723",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "3.44"
+      },
+      {
+        "Subject": "EALL",
+        "Catalog": "3405",
+        "Class Name": "Introducing East Asia through Martial Arts Cinema",
+        "Class Number": "33533",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.27"
+      },
+      {
+        "Subject": "EALL",
+        "Catalog": "3405",
+        "Class Name": "Introducing East Asia through Martial Arts Cinema",
+        "Class Number": "35388",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4"
+      },
+      {
+        "Subject": "EALL",
+        "Catalog": "3405",
+        "Class Name": "Introducing East Asia through Martial Arts Cinema",
+        "Class Number": "29650",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "East Asian Languages & Lit",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.71"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 3.8,
+    "department": "Chinese",
+    "firstName": "Chunsheng",
+    "id": "VGVhY2hlci05NTUzOTQ=",
+    "lastName": "Yang",
+    "legacyId": 955394,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Yang laoshi is cool as hell. It takes a while to get to know him, but by second or third quarter you realize he is just as good as the other teachers and is definitely more willing to help students. He's a good teacher and I would recommend him.",
+        "course": "CHIN103"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Chinese101- Honestly he is TERRIBLE.I have 4 other teachers, and he is the worst. Strict grader.Only expects fluent Chinese. I have no idea how he has ANY good ratings. Does not understand that it is an INTRO course. I hate starting off Mondays with this guy.Stellato/Li/Zheng are much better teachers,he is just useless compared to them",
+        "course": "CHIN101"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Truly great.",
+        "course": "CHINII"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "A++",
+        "course": "CHI102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Chinese",
+    "firstName": "Jia",
+    "id": "VGVhY2hlci0xMjYzNTkz",
+    "lastName": "Yang",
+    "legacyId": 1263593,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "CHI101"
       }
     ],
     "SEI": []
@@ -107,151 +735,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.3,
-    "avgRating": 2.4,
-    "department": "Chinese",
-    "firstName": "Jianqi",
-    "id": "VGVhY2hlci0xMTA2MjIz",
-    "lastName": "Wang",
-    "legacyId": 1106223,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "tremendous professor! He can introduce many many useful and comprehensive knowledge about chinese film and give students another view to see the country China. I will take his class again.",
-        "course": "chinese4405"
-      },
-      {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "It's a bit surprising how bad of a course the Martial Arts film course is. I'm unsure about his other classes but this course was so unorganized and it seemed like no lesson plan was ever involved during the creation of the course. It's easy enough, but a completely drag. I won't say I didn't learn anything, but if I wouldn't recommend the class.",
-        "course": "chinese4405"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Took the martial arts films class, and was disappointed. Its not hard to get a good grade, but the lectures are disorganized and confusing, and I didn't really learn anything",
-        "course": "chinese4405"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Wang laoshi gets a bad rap from these reviews for lectures being hectic which is true but it's also a little unreasonable to expect a full movie to be played in class every day, and beyond ~2 assignments you don't need to see the whole thing anyway. He's lenient and knowledgeable, and while lecture may be boring to some its not a dealbreaker.",
-        "course": "chinese4405"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "It's hilarious how bad this professor is. I took this course for film studies credit and that was a mistake. Jianqi Wang does not know how to teach and does not understand anything about film. He is not qualified to teach this course and I recommend you don't take it. It is boring and a waste of time and I learned nothing.",
-        "course": "chinese4405"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Simply unbelievable course, confusing and chapterless throughout. Don't pick him.",
-        "course": "chinese4405"
-      },
-      {
-        "index": 7,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "I do not recommend this class. Although Jianqi seems like a nice person, this class is **extremely** unorganized. Due dates are unclear. Assignment expectations are unclear. Movies are not shown but skipped through, sometimes without english captions. I feel like I learned absolutely nothing. Do not take this class!!!",
-        "course": "chinese4405"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Expectations were a little unclear throughout the entire semester, but he was very easygoing on the grading so that more than made up for it. My Chinese definitely improved a ton in his class.",
-        "course": "CHIN5101"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "zzzzz",
-        "course": "CHIN451"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.2,
-    "avgRating": 3.2,
-    "department": "Chinese",
-    "firstName": "Zhiguo",
-    "id": "VGVhY2hlci0xNzc1MzUy",
-    "lastName": "Xie",
-    "legacyId": 1775352,
-    "numRatings": 12,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Xie laoshi is a great lecturer. He's funny, takes questions/comments well and makes you feel smart every time you talk. Class is long but he makes it enjoyable. Biggest thing is to do the readings, because the quizzes are rough and will hit your grade hard. Very fair on all other assignments. Lectures don't cover the readings, you have to know both",
-        "course": "CHNS2231"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Nothing but easy A. Sometimes I don't think he understanding what he said by himself. Go to class, read Powerpoint, finish homework, that's all.",
-        "course": "CHNS2231"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "All tests and quizzes are open note so you don't really have to actually read, midterm was take home too. Class itself is pretty boring and I did other HW during class, you have to go because he grades participation/attendance, and you only have 2 skips. Unless you're super into Chinese culture I wouldn't take this as a GE unless you have to.",
-        "course": "CHNS2231"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Xie Laoshi was a really good teacher. I learned a lot from his class and the work was very very easy. Everything is open notes!",
-        "course": "CHNS2231"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Professor Xie is very nice, engaging, sometimes humorous. He is willing to share his own personal experience in relation to Chinese culture. Attendance is taken every class,  but he is generous in other grading and gives a lot of bonus opportunities. I feel I learned quite a lot about things I did not know or understand.",
-        "course": "CHNS2231"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "If you can understand each syllabus he utters, then his English is excellent. I showed up to every single lecture, which was 1 hr and 20 min long and he gave me 14/15 participation pts, but a mere 12 hrs later... it was changed to a 13.5! o.o Anyway, I got an A. Super GPA booster class: take home midterm + open notes final. Generous guys he is.",
-        "course": "CHIN4380"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Xie laoshi was great! He had a hard time sometimes explaining things bc English isn't his first language, however, he always did what he could to make sure you understood. Extremely nice guy, gave us candy on Valentines day and Chinese New Year, I hope I can take another one of his classes. ",
-        "course": "CHIN4383"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Class was super easy. Sometimes interesting, sometimes boring. Mid-term is open book and notes. No final. I don't speak any Chinese and I easily got an A in the course.",
-        "course": "CHNS2231"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 4,
     "avgRating": 5,
     "department": "Chinese",
@@ -308,67 +791,6 @@
         "difficulty": 4,
         "comment": "Heather's accent and British slang was enough for me to take this class. However, she revamped the course to make it more history and essay based. It's supposed to be an elementary GEC culture class but she took it to the top. Take the class if you have genuine interest in it--you will definitely learn a lot from her. She's dedicated, good natured.",
         "course": "CHN232"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.8,
-    "avgRating": 3.8,
-    "department": "Chinese",
-    "firstName": "Chunsheng",
-    "id": "VGVhY2hlci05NTUzOTQ=",
-    "lastName": "Yang",
-    "legacyId": 955394,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Yang laoshi is cool as hell. It takes a while to get to know him, but by second or third quarter you realize he is just as good as the other teachers and is definitely more willing to help students. He's a good teacher and I would recommend him.",
-        "course": "CHIN103"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Chinese101- Honestly he is TERRIBLE.I have 4 other teachers, and he is the worst. Strict grader.Only expects fluent Chinese. I have no idea how he has ANY good ratings. Does not understand that it is an INTRO course. I hate starting off Mondays with this guy.Stellato/Li/Zheng are much better teachers,he is just useless compared to them",
-        "course": "CHIN101"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Truly great.",
-        "course": "CHINII"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "A++",
-        "course": "CHI102"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Chinese",
-    "firstName": "Jia",
-    "id": "VGVhY2hlci0xMjYzNTkz",
-    "lastName": "Yang",
-    "legacyId": 1263593,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "No Comments",
-        "course": "CHI101"
       }
     ],
     "SEI": []
