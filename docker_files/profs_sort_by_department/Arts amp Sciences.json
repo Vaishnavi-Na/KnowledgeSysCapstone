@@ -1,59 +1,5 @@
 [
   {
-    "avgDifficulty": 3,
-    "avgRating": 3,
-    "department": "Arts amp Sciences",
-    "firstName": "Hanna",
-    "id": "VGVhY2hlci0yNTczNDMy",
-    "lastName": "Primeau",
-    "legacyId": 2573432,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "This class definitely had a lot of work for an elective class. With that being said, if you do all of the work it is a very easy A. I also liked the professor and she replied very quickly to questions.",
-        "course": "ARTSSCI2120"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "I took this Online class, and I hate it! It has so much homework and quizzes, and they're not regular homework where you have to write something or do a discussion. It's only 2 credits and it's online, no need for all those complicated assignments. The final is also cumulative, but it's open book since it's online. The class should be way easier.",
-        "course": "ARTSSCI2120"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.5,
-    "avgRating": 3,
-    "department": "Arts amp Sciences",
-    "firstName": "Jane",
-    "id": "VGVhY2hlci0yNDc1NjI2",
-    "lastName": "Hammons",
-    "legacyId": 2475626,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I do not think her class is useful and easy. There are plenty of quizs and assignments each week, and they are both time-consuming works. She would strictly grade your assignment. This course is not useful AT ALL!",
-        "course": "ARTSSCI2121"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Had Jane for half semester online information search, evaluation and use. She was so nice! She always emailed me back immediately and was very helpful. She grades things v easy bc she actually wants you to do well in the class. Very easy to do well in her class. Great professor. Would def recommend this class",
-        "course": "ARTSSCI2120"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.7,
     "avgRating": 1.7,
     "department": "Arts amp Sciences",
@@ -237,6 +183,258 @@
         "difficulty": 3,
         "comment": "As a person, Hes easy going very easy to talk to. However when it comes to grading he follows no guidelines what so ever. Your grade depends on his mood for the day. I finished with a B, and I wouldnt not recommend taking again.",
         "course": "SOC3315"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "3302",
+        "Class Name": "Technology and Global Society",
+        "Class Number": "19421",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "37",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "4506",
+        "Class Name": "Drugs and Society",
+        "Class Number": "33932",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.24"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "3302",
+        "Class Name": "Technology and Global Society",
+        "Class Number": "21322",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.32"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "4506",
+        "Class Name": "Drugs and Society",
+        "Class Number": "29789",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "48",
+        "Rating": "3.71"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "3302",
+        "Class Name": "Technology and Global Society",
+        "Class Number": "17445",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "31",
+        "Rating": "3.61"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "5525",
+        "Class Name": "Global Criminology",
+        "Class Number": "17587",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.14"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "3302",
+        "Class Name": "Technology and Global Society",
+        "Class Number": "15450",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.05"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "4506",
+        "Class Name": "Drugs and Society",
+        "Class Number": "23921",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "2.67"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "3302",
+        "Class Name": "Technology and Global Society",
+        "Class Number": "21249",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "3.92"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "4506",
+        "Class Name": "Drugs and Society",
+        "Class Number": "27472",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.37"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "3302",
+        "Class Name": "Technology and Global Society",
+        "Class Number": "21583",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "SOCIOL",
+        "Catalog": "3302",
+        "Class Name": "Technology and Global Society",
+        "Class Number": "23821",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Sociology",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "3.96"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 3,
+    "department": "Arts amp Sciences",
+    "firstName": "Jane",
+    "id": "VGVhY2hlci0yNDc1NjI2",
+    "lastName": "Hammons",
+    "legacyId": 2475626,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I do not think her class is useful and easy. There are plenty of quizs and assignments each week, and they are both time-consuming works. She would strictly grade your assignment. This course is not useful AT ALL!",
+        "course": "ARTSSCI2121"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Had Jane for half semester online information search, evaluation and use. She was so nice! She always emailed me back immediately and was very helpful. She grades things v easy bc she actually wants you to do well in the class. Very easy to do well in her class. Great professor. Would def recommend this class",
+        "course": "ARTSSCI2120"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "2121",
+        "Class Name": "Academic Online Research",
+        "Class Number": "26188",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "2120",
+        "Class Name": "Information Search, Evaluation and Use",
+        "Class Number": "16784",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.7"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3,
+    "department": "Arts amp Sciences",
+    "firstName": "Hanna",
+    "id": "VGVhY2hlci0yNTczNDMy",
+    "lastName": "Primeau",
+    "legacyId": 2573432,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "This class definitely had a lot of work for an elective class. With that being said, if you do all of the work it is a very easy A. I also liked the professor and she replied very quickly to questions.",
+        "course": "ARTSSCI2120"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "I took this Online class, and I hate it! It has so much homework and quizzes, and they're not regular homework where you have to write something or do a discussion. It's only 2 credits and it's online, no need for all those complicated assignments. The final is also cumulative, but it's open book since it's online. The class should be way easier.",
+        "course": "ARTSSCI2120"
       }
     ],
     "SEI": []

@@ -1,5 +1,516 @@
 [
   {
+    "avgDifficulty": 3.4,
+    "avgRating": 2.6,
+    "department": "Education & Human Ecology",
+    "firstName": "Christopher",
+    "id": "VGVhY2hlci0yNTk4OTgw",
+    "lastName": "Wolters",
+    "legacyId": 2598980,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": " Two essays that weren't too difficult, if you put some effort into the weekly homework it shouldn't be tough. Exams online were open note, just have good notes and you will be fine. ",
+        "course": "ESEPSY5401"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Not a bad professor, but take the class with a different professor if you can. Homework heavy class with a chapter each week from the book not including articles and videos each week. Expect to write at least 6 papers and to lose points for the littlest mistakes. The class was not terrible, but I just didn't enjoy it, and the exams were not for me.",
+        "course": "ESEPSY5401"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Wolters might be a good professor but I just didn't like him. A class I dreaded every single time, other people liked him but just he wasn't a bully but just like three steps before that? I don't know how better to describe it. Also he gave just oh my god so many papers plus multiple extensive short answer exams, not bad but not fun.",
+        "course": "ESEPSY5401"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Honestly with the number of papers you write in this class you would think it's a writing class; He assigns 4, 2-3 page, papers and 2, 6-9 page papers, and he'll take points off for the smallest thing. His lectures are pretty boring, and you are expected to read a lot. He's really nice, but take this class with a different professor if you can.",
+        "course": "ESEPSY5401"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "8406",
+        "Class Name": "Self-regulated Learning",
+        "Class Number": "35080",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "5401",
+        "Class Name": "Adolescent Learning and Development in School Contexts",
+        "Class Number": "8371",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.47"
+      },
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "5401",
+        "Class Name": "Adolescent Learning and Development in School Contexts",
+        "Class Number": "33651",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "8403",
+        "Class Name": "Advanced Seminar in Educational Psychology",
+        "Class Number": "34274",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "5401",
+        "Class Name": "Adolescent Learning and Development in School Contexts",
+        "Class Number": "14751",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "5401",
+        "Class Name": "Adolescent Learning and Development in School Contexts",
+        "Class Number": "34882",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.8"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1.4,
+    "avgRating": 4.7,
+    "department": "Education & Human Ecology",
+    "firstName": "Benjamin",
+    "id": "VGVhY2hlci0yNjc2OTg2",
+    "lastName": "Buchanan",
+    "legacyId": 2676986,
+    "numRatings": 11,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Buchanan really cares about his students and always gives a create lecture. Will randomly call on people but just really enjoys hearing students' opinions. Exams online and short answer.",
+        "course": "KNSISM5626"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Goat",
+        "course": "KNSISM5626"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Always enjoy having class with Dr. B. He is a great lecturer, and always keeps class interesting. Not a lot of assignments. Assigns some virtual days as a nice break. Any class with him is worth taking!",
+        "course": "KNSISM4615"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. B is awesome! the course content is interesting, and he gives students a break by having virtual days. Exams are fair and graded lightly, and final project was actually enjoyable! would highly recommend taking his classes to anyone.",
+        "course": "KNSISM5626"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Buchanan is honestly my favorite professor I have had over my 3 years and counting at Ohio State. He has informative lectures, but they are never boring. He brings modern day topics to the conversation and has an organic flow to his lectures. Grading is very very fair. ",
+        "course": "KNSISM5626"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "DR.B is really nice, and the class is pretty much based on discussion of different topic.",
+        "course": "KNSISM4615"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. B was amazing! Good lecturer and always willing to help. One thing to notice in his class is that you might be called to answer a question at any time. Easy to get an A.",
+        "course": "KNSISM5626"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Buchanan is awesome! Take one of his classes any chance you get. He does like to call on people so just be prepared. Go to class and post on the discussion board to get credit. One big project and two exams - nothing crazy. He's super down to earth and really caring. He has great experiences/examples so definitely listen to what he says!",
+        "course": "KNSISM5626"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I loved Prof. Buchanan. Super easy-going and tried to keep every lecture interesting. He does call on people randomly in class so be prepared, but he only calls on people because he genuinely wants to hear their opinion. Show up to lectures for points too. Only two exams and a final paper, all discussions are completed in class. Highly recommend!",
+        "course": "KNSISM4615"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Cares about his students a lot, but man does he love to hear himself talk. I can't even count the amount of times he would cut off a student to reiterate the same exact thing over and over again. Even when you expects you to be writing down an answer, he will loudly repeat &quot;think why?&quot; over and over until you wish you didn't have hearing.",
+        "course": "KNSISM4615"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Former place kicker for the Ohio State football team, Benjamin (Ben) Buchanan is one of the most caring, honest, and respectable professors Ive had at Ohio State. Being in his class has been a joy, as he truly cares for his students, clearly explains course material, and does not overload his students with work. 10/10 recommend, amazing professor!",
+        "course": "KNSISM4615"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4245",
+        "Class Name": "Leadership & Programming in Sports Industry",
+        "Class Number": "10802",
+        "Term": "SU 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4615",
+        "Class Name": "Sport and Social Values",
+        "Class Number": "27839",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5626",
+        "Class Name": "Sport and Popular Culture",
+        "Class Number": "27842",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "30",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4245",
+        "Class Name": "Leadership & Programming in Sports Industry",
+        "Class Number": "8937",
+        "Term": "SU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4615",
+        "Class Name": "Sport and Social Values",
+        "Class Number": "12372",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5626",
+        "Class Name": "Sport and Popular Culture",
+        "Class Number": "12375",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.53"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4245",
+        "Class Name": "Leadership & Programming in Sports Industry",
+        "Class Number": "8921",
+        "Term": "SU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4615",
+        "Class Name": "Sport and Social Values",
+        "Class Number": "6562",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5626",
+        "Class Name": "Sport and Popular Culture",
+        "Class Number": "6565",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4245",
+        "Class Name": "Leadership & Programming in Sports Industry",
+        "Class Number": "31417",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "36",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4615",
+        "Class Name": "Sport and Social Values",
+        "Class Number": "31424",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5626",
+        "Class Name": "Sport and Popular Culture",
+        "Class Number": "31427",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4245",
+        "Class Name": "Leadership & Programming in Sports Industry",
+        "Class Number": "33949",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5626",
+        "Class Name": "Sport and Popular Culture",
+        "Class Number": "13051",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4615",
+        "Class Name": "Sport and Social Values",
+        "Class Number": "13486",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5626",
+        "Class Name": "Sport and Popular Culture",
+        "Class Number": "13489",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4245",
+        "Class Name": "Leadership & Programming in Sports Industry",
+        "Class Number": "22900",
+        "Term": "SU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4615",
+        "Class Name": "Sport and Social Values",
+        "Class Number": "13443",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5626",
+        "Class Name": "Sport and Popular Culture",
+        "Class Number": "13446",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4615",
+        "Class Name": "Sport and Social Values",
+        "Class Number": "13921",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5626",
+        "Class Name": "Sport and Popular Culture",
+        "Class Number": "13924",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.8"
+      }
+    ]
+  },
+  {
     "avgDifficulty": 1.6,
     "avgRating": 4.4,
     "department": "Education & Human Ecology",
@@ -86,7 +597,22 @@
         "course": "ESEPSY2309"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "2309",
+        "Class Name": "Psychological Perspectives on Education",
+        "Class Number": "22600",
+        "Term": "SU 22",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 1.5,
@@ -230,7 +756,106 @@
         "course": "KNHES3416"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ANIMSCI",
+        "Catalog": "7730",
+        "Class Name": "Endocrinology",
+        "Class Number": "32195",
+        "Term": "SP 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Animal Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "KNHES",
+        "Catalog": "3414",
+        "Class Name": "Physiological Systems in Human Performance",
+        "Class Number": "37187",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "34",
+        "Rating": "4.03"
+      },
+      {
+        "Subject": "KNHES",
+        "Catalog": "7896",
+        "Class Name": "Colloquium: Health and Exercise Science",
+        "Class Number": "29181",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNHES",
+        "Catalog": "7896",
+        "Class Name": "Colloquium: Health and Exercise Science",
+        "Class Number": "14429",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "KNHES",
+        "Catalog": "3416",
+        "Class Name": "Theory of Strength and Conditioning",
+        "Class Number": "37907",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "KNHES",
+        "Catalog": "7102",
+        "Class Name": "Science of Physical Activity and Nutrition for Coaches",
+        "Class Number": "8693",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "KNHES",
+        "Catalog": "7896",
+        "Class Name": "Colloquium: Health and Exercise Science",
+        "Class Number": "7905",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -251,6 +876,375 @@
       }
     ],
     "SEI": []
+  },
+  {
+    "avgDifficulty": 2.3,
+    "avgRating": 5,
+    "department": "Education & Human Ecology",
+    "firstName": "Alina",
+    "id": "VGVhY2hlci0yODU5NTc2",
+    "lastName": "Cioletti",
+    "legacyId": 2859576,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I had Dr. Cioletti for 4411. She was one of if not the BEST instructors I have had at OSU. She is well prepared and engages with the students well. She is very approachable and transparent. She sets the students up for success but expects them to do the work themselves, which has taught me how to be self-sufficient. 10/10 would recommend!",
+        "course": "2260"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Prof. Cioletti is great. She is knowledgeable about what she teaches, cares about your success, and is not very strict. The class (Contemporary Sport in the US) is fairly easy. Weekly/biweekly quizzes, many group projects, and couple of in-class discussion groups. Some of the group projects are relatively interesting. Attendance is important",
+        "course": "2260"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Prof. Cioletti was great! Super sweet, doctoral student who genuinely wants your input. There's quite a bit of group discussion/project work but nothing difficult. She likes participation so speak up! She also brings in some great guest speakers. Friday in-person quizzes and one big podcast assignment over the span of the semester. Take her class!",
+        "course": "2260"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.6,
+    "avgRating": 3.9,
+    "department": "Education & Human Ecology",
+    "firstName": "Susan",
+    "id": "VGVhY2hlci0xNTI0NTA2",
+    "lastName": "Bandy",
+    "legacyId": 1524506,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr Bandy has high expectations and will push you to do your best. She was the best professor I had in all of college. ",
+        "course": "KNSISM5626"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Dr. Bandy is a very passionate professor who really knows what she is talking about. The material is challenging but it is interesting. To do well in this class show up, take notes, and do the readings and you'll be fine. Dr. Bandy is also a really cool lady who is always willing to help and has a super interesting past so get to know her!!",
+        "course": "KNSISM4615"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Dr. Bandy is incredibly thorough and invested in her work. She works very hard and expects you to do the same. If you show up everyday and take a genuine interest in her teachings you will be just fine. She is very nice and very accessible. Course may be difficult but there's no reason you can't get a B in her class",
+        "course": "KNSISM5626"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Has lil people & communication skills, favors student-athletes, way too opinionated for a class based on essays, would be better suited teaching high school or junior high kids considering that is how she treats her students. Has lil knowledge of current event topics related to the course material, seems to only know about the required textbook",
+        "course": "KNSISM4615"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Professor is devoted to her work, is demanding, and expects students to be equally accountable.  If you are not interested in the subject, the course is very difficult.",
+        "course": "KNSISM5626"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "She's a stingy grader, but a great professor. If you can get an A- to a B+ in this class, consider that a triumph because an A is almost impossible with how little point opportunities there are in this class. The exams are all written response questions. Go to her reviews and it'll be better than reading all the articles",
+        "course": "KNSISM4615"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great Professor! This is a third writing class and she truely wants her students to become better writers. Dr. Bandy is always willing to help students. She extremely knowledgable and experienced. I took two classes with her and I would definitely recommend taking her.",
+        "course": "PAES531"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Education & Human Ecology",
+    "firstName": "Donna",
+    "id": "VGVhY2hlci0yOTQzODg1",
+    "lastName": "Pastore",
+    "legacyId": 2943885,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is a great person!",
+        "course": "KNSISM4245"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4245",
+        "Class Name": "Leadership & Programming in Sports Industry",
+        "Class Number": "27832",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "6808",
+        "Class Name": "Management of Sport Delivery Systems",
+        "Class Number": "27874",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "6837",
+        "Class Name": "Event and Facility Management for Sport Managers",
+        "Class Number": "12377",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "7897",
+        "Class Name": "Colloquium in Sport Management",
+        "Class Number": "13527",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4245",
+        "Class Name": "Leadership & Programming in Sports Industry",
+        "Class Number": "6555",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.29"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "6808",
+        "Class Name": "Management of Sport Delivery Systems",
+        "Class Number": "6597",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4245",
+        "Class Name": "Leadership & Programming in Sports Industry",
+        "Class Number": "13042",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "6808",
+        "Class Name": "Management of Sport Delivery Systems",
+        "Class Number": "13082",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "6837",
+        "Class Name": "Event and Facility Management for Sport Managers",
+        "Class Number": "13492",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "7897",
+        "Class Name": "Colloquium in Sport Management",
+        "Class Number": "13506",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4245",
+        "Class Name": "Leadership & Programming in Sports Industry",
+        "Class Number": "13436",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "6808",
+        "Class Name": "Management of Sport Delivery Systems",
+        "Class Number": "13471",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "6837",
+        "Class Name": "Event and Facility Management for Sport Managers",
+        "Class Number": "13927",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "7897",
+        "Class Name": "Colloquium in Sport Management",
+        "Class Number": "13941",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4.5,
+    "department": "Education & Human Ecology",
+    "firstName": "Jessica",
+    "id": "VGVhY2hlci0xODcwOTI0",
+    "lastName": "Mercerhill",
+    "legacyId": 1870924,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Great professor! Makes class interesting and interactive. Book use is high though, so make sure you buy all of them.",
+        "course": "ESEPHL4403"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Such a wonderful professor! Dr. Jess is very intelligent and makes class interesting. Many case analysis' are done and class is ALWAYS interactive. Would definitely recommend taking this class with her!!",
+        "course": "ESEPHL4403"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "PHR",
+        "Catalog": "5798",
+        "Class Name": "International Healthcare Experience in Pharmacy",
+        "Class Number": "17159",
+        "Term": "SP 24",
+        "College": "Pharmacy",
+        "Department": "Pharmacy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PHR",
+        "Catalog": "5798",
+        "Class Name": "International Healthcare Experience in Pharmacy",
+        "Class Number": "34829",
+        "Term": "SP 24",
+        "College": "Pharmacy",
+        "Department": "Pharmacy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.5,
@@ -331,7 +1325,134 @@
         "course": "ESWDE5623"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5622",
+        "Class Name": "Introduction to Software Applications for Teachers and Trainers",
+        "Class Number": "28242",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5622",
+        "Class Name": "Introduction to Software Applications for Teachers and Trainers",
+        "Class Number": "28871",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5623",
+        "Class Name": "Advanced Software Applications for Teachers and Trainers",
+        "Class Number": "13009",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5622",
+        "Class Name": "Introduction to Software Applications for Teachers and Trainers",
+        "Class Number": "6966",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5622",
+        "Class Name": "Introduction to Software Applications for Teachers and Trainers",
+        "Class Number": "7595",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "2"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5623",
+        "Class Name": "Advanced Software Applications for Teachers and Trainers",
+        "Class Number": "32692",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5623",
+        "Class Name": "Advanced Software Applications for Teachers and Trainers",
+        "Class Number": "32693",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "3"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5622",
+        "Class Name": "Introduction to Software Applications for Teachers and Trainers",
+        "Class Number": "32368",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5622",
+        "Class Name": "Introduction to Software Applications for Teachers and Trainers",
+        "Class Number": "32948",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "3.5"
+      }
+    ]
   },
   {
     "avgDifficulty": 1.7,
@@ -385,7 +1506,162 @@
         "course": "ESWDE5672"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ESEADM",
+        "Catalog": "6372",
+        "Class Name": "Educational Technology Leadership and Administration",
+        "Class Number": "28147",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5672",
+        "Class Name": "Lifelong Learning in the Adult Years",
+        "Class Number": "13018",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5624",
+        "Class Name": "Foundations of Workforce Development and Education",
+        "Class Number": "6967",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "5624",
+        "Class Name": "Foundations of Workforce Development and Education",
+        "Class Number": "7706",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "7000",
+        "Class Name": "Contemporary Research in Workforce Development and Education: Career and Technical Education",
+        "Class Number": "35120",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "7000.02",
+        "Class Name": "Contemporary Research in Workforce Development and Education: Human Resource Dev and Adult Ed",
+        "Class Number": "35063",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "8961",
+        "Class Name": "Comparative Workforce Development Policy",
+        "Class Number": "36062",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "7648",
+        "Class Name": "Evaluation of Adult Education and Human Resource Development",
+        "Class Number": "36237",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "7000.02",
+        "Class Name": "Contemporary Research in Workforce Development and Education: Human Resource Dev and Adult Ed",
+        "Class Number": "15521",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "8961",
+        "Class Name": "Comparative Workforce Development Policy",
+        "Class Number": "15654",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ESWDE",
+        "Catalog": "7000.01",
+        "Class Name": "Contemporary Research in Workforce Development and Education: Career and Technical Education",
+        "Class Number": "15844",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 1,
@@ -405,7 +1681,64 @@
         "course": "ESHESA3200"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ESHESA",
+        "Catalog": "7576",
+        "Class Name": "Assessment in Higher Education",
+        "Class Number": "22617",
+        "Term": "SU 24",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "3.78"
+      },
+      {
+        "Subject": "ESHESA",
+        "Catalog": "7576",
+        "Class Name": "Assessment in Higher Education",
+        "Class Number": "14704",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.29"
+      },
+      {
+        "Subject": "ESHESA",
+        "Catalog": "7576",
+        "Class Name": "Assessment in Higher Education",
+        "Class Number": "11122",
+        "Term": "SU 23",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "ESHESA",
+        "Catalog": "7576",
+        "Class Name": "Assessment in Higher Education",
+        "Class Number": "15033",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.43"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -452,7 +1785,918 @@
         "course": "1146"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "27884",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "27886",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "28543",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1172.02",
+        "Class Name": "Self Defense Men",
+        "Class Number": "29713",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "12425",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1172.02",
+        "Class Name": "Self Defense Men",
+        "Class Number": "14598",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "6606",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "6608",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "6610",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "7587",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.54"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "8442",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "8537",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "6661",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "6662",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169",
+        "Class Name": "Martial Arts Forms: Tae Kwon Do I",
+        "Class Number": "35683",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "32000",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "32001",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.96"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "32003",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "32009",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "32187",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "32188",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.02",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "32042",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.02",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "32043",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.07",
+        "Class Name": "Martial Arts Forms: Tae Kwon Do I",
+        "Class Number": "32045",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1172.02",
+        "Class Name": "Self Defense Men",
+        "Class Number": "32243",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1172.02",
+        "Class Name": "Self Defense Men",
+        "Class Number": "32263",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "32053",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "32054",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "32057",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.96"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "33706",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "33784",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.02",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "32103",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.02",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "32104",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.07",
+        "Class Name": "Martial Arts Forms: Tae Kwon Do I",
+        "Class Number": "34267",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.11",
+        "Class Name": "Eskrima",
+        "Class Number": "36232",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1172.02",
+        "Class Name": "Self Defense Men",
+        "Class Number": "34918",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1172.02",
+        "Class Name": "Self Defense Men",
+        "Class Number": "34919",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "14001",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "14049",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169",
+        "Class Name": "Martial Art Mindset",
+        "Class Number": "35844",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169",
+        "Class Name": "Martial Art Mindset",
+        "Class Number": "35845",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169",
+        "Class Name": "Martial Art Mindset",
+        "Class Number": "35846",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169",
+        "Class Name": "Martial Art Mindset",
+        "Class Number": "35847",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.02",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "13869",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.11",
+        "Class Name": "Eskrima",
+        "Class Number": "35841",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.11",
+        "Class Name": "Eskrima",
+        "Class Number": "35842",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1172.02",
+        "Class Name": "Self Defense Men",
+        "Class Number": "14065",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169",
+        "Class Name": "Martial Art Mindset",
+        "Class Number": "22733",
+        "Term": "SU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "13480",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "13482",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "14798",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "14863",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.02",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "13527",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.02",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "13528",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.11",
+        "Class Name": "Eskrima",
+        "Class Number": "15519",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "14243",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "14249",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "14405",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "14406",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1146",
+        "Class Name": "Boxing for Beginners",
+        "Class Number": "14450",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169",
+        "Class Name": "Martial Art Mindset",
+        "Class Number": "15931",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.02",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "14280",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.02",
+        "Class Name": "Martial Arts Forms: Judo I",
+        "Class Number": "14281",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1169.11",
+        "Class Name": "Eskrima",
+        "Class Number": "15926",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1172.02",
+        "Class Name": "Self Defense Men",
+        "Class Number": "14465",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 1,
@@ -526,7 +2770,22 @@
         "course": "ESEPSY2309"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "1259",
+        "Class Name": "Individual Learning and Motivation: Strategies for Success in College",
+        "Class Number": "8931",
+        "Term": "SU 20",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.8"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -544,6 +2803,933 @@
         "difficulty": 3,
         "comment": "Was never able to give clear answers to questions and told different people in class different answers to the same questions. Is not accessible outside of class. Very inconsistent in grading. The only reason the class was some what hard was because I never knew if I was doing it the way she wanted because that was always changing.",
         "course": "EDUTL5470"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "EDUTL",
+        "Catalog": "7427",
+        "Class Name": "Advanced Study of the Development of Reading and Writing",
+        "Class Number": "36341",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "2368",
+        "Class Name": "Introduction to Children's Literature",
+        "Class Number": "30671",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.67"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Education & Human Ecology",
+    "firstName": "Ann",
+    "id": "VGVhY2hlci0zMDM3Mjg1",
+    "lastName": "Paulins",
+    "legacyId": 3037285,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Ann Paulins is like...THE nicest person. She is so sweet, comforting and makes sure to let her students know to not stress about things that go wrong. She is pretty funny too. Her assignments are straightforward and quizzes are in class real easy. I am very glad I got to have her as my professor. ",
+        "course": "2300"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "CONSCI",
+        "Catalog": "6000",
+        "Class Name": "Introduction to Research in Consumer Sciences",
+        "Class Number": "33621",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2300",
+        "Class Name": "Branding in Fashion, Hospitality and Sport Industries",
+        "Class Number": "33899",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "28",
+        "Rating": "4.41"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2990",
+        "Class Name": "Professional Development",
+        "Class Number": "8168",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3950",
+        "Class Name": "Use of Social Media and IT in Fashion, Hospitality, and Sport Industries",
+        "Class Number": "8407",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "38",
+        "Rating": "4.16"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2300",
+        "Class Name": "Branding in Fashion, Hospitality and Sport Industries",
+        "Class Number": "31648",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2990",
+        "Class Name": "Professional Development",
+        "Class Number": "31645",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.84"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3585",
+        "Class Name": "Retail Merchandising I",
+        "Class Number": "35956",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2300",
+        "Class Name": "Branding in Fashion, Hospitality and Sport Industries",
+        "Class Number": "34072",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2990",
+        "Class Name": "Professional Development",
+        "Class Number": "33465",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3585",
+        "Class Name": "Retail Merchandising I",
+        "Class Number": "34723",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2990",
+        "Class Name": "Professional Development",
+        "Class Number": "13658",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "4585",
+        "Class Name": "Retail Merchandising II",
+        "Class Number": "33635",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2300",
+        "Class Name": "Branding in Fashion, Hospitality and Sport Industries",
+        "Class Number": "14940",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "24",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2990",
+        "Class Name": "Professional Development",
+        "Class Number": "14574",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "5701",
+        "Class Name": "Readings and Theories in Fashion and Retail Studies",
+        "Class Number": "38006",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2300",
+        "Class Name": "Branding in Fashion, Hospitality and Sport Industries",
+        "Class Number": "14093",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "22",
+        "Rating": "4.32"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "4585",
+        "Class Name": "Retail Merchandising II",
+        "Class Number": "15744",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "5720",
+        "Class Name": "Economic History of Power in Fashion",
+        "Class Number": "34509",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "CSHSPMG",
+        "Catalog": "2300",
+        "Class Name": "Branding in Fashion, Hospitality, and Sport Industries",
+        "Class Number": "35600",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "9",
+        "Rating": "4.44"
+      },
+      {
+        "Subject": "CSHSPMG",
+        "Catalog": "3950",
+        "Class Name": "Use of Social Media and IT in Fashion, Hospitality, and Sport Industries",
+        "Class Number": "8408",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "15",
+        "Rating": "3.93"
+      },
+      {
+        "Subject": "CSHSPMG",
+        "Catalog": "2300",
+        "Class Name": "Branding in Fashion, Hospitality, and Sport Industries",
+        "Class Number": "32825",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "CSHSPMG",
+        "Catalog": "2300",
+        "Class Name": "Branding in Fashion, Hospitality, and Sport Industries",
+        "Class Number": "34249",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "CSHSPMG",
+        "Catalog": "2300",
+        "Class Name": "Branding in Fashion, Hospitality, and Sport Industries",
+        "Class Number": "15232",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "29",
+        "Rating": "4.34"
+      },
+      {
+        "Subject": "CSHSPMG",
+        "Catalog": "2300",
+        "Class Name": "Branding in Fashion, Hospitality, and Sport Industries",
+        "Class Number": "15655",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "26",
+        "Rating": "4.08"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.4,
+    "avgRating": 4.3,
+    "department": "Education & Human Ecology",
+    "firstName": "Kristin",
+    "id": "VGVhY2hlci0yNDE1OTI2",
+    "lastName": "Paulus",
+    "legacyId": 2415926,
+    "numRatings": 12,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Dr. Paulus is a great professor who puts a lot of time and effort into her courses. I have only taken her classes asynchronously, and I feel as if I learn the same as I would in an in person class. Her classes are very homework heavy and involve lots of group projects. I spend over 4 hours on her class a week.",
+        "course": "CSFRST3474"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Kristin is so nice. Her exams are easy if you watch her lecture videos, and you can use your notes with an open book on the exams. Highly recommend!",
+        "course": "CRFRST2373"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "The tests are full of gotcha questions. A lot of time consuming assignments at the end of the semester. All of the background noises during her recorded lectures make them very irritating to listen to. Would not recommend this professor at all. The content is easy but she makes it very difficult to get a good grease.",
+        "course": "CRFRST2373"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "i am seriously obsessed with her. go to the lectures to do well on the exams! she is so so caring with her students i would recommend if you have the opportunity to take a class with her, do it!",
+        "course": "CSFRST2373"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Shes a very nice person. She respects her students and is always ready to help. You will need the textbook because it would be very helpful in preparing for the exam.",
+        "course": "CSFRST2373"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is so helpful and really cares about her students! I would recommend not skipping class. She occasionally takes attendance or gives out in class assignments. You dont really need the book but it is helpful during open note exams.",
+        "course": "CSFRST2373"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Kristin is the BEST. Her lectures are actually enjoyable and the content is fun to learn about. Her exams and projects are fairly easy if you pay attention in class. She genuinely cares about her students and giving them the best experience possible. I would highly recommend Kristin for any of her courses.",
+        "course": "CSFRST3474"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Best professor that I've had at OSU. Truly cares about her students and what they learn. Exams can be tough, take additional notes during lectures because the powerpoint's sometimes don't have all the details (especially if you don't buy the book.) Try not to miss class and reach out if you have an excuse, she is very understanding. Group projects!",
+        "course": "CSFRST4585"
+      },
+      {
+        "index": 9,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "She's an okay professor but make sure to go to her lectures. She takes in class attendance every once in a while and if you don't go you'll miss a good percentage of your grade.",
+        "course": "CRFRST2373"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She is really really good and I cant wait to introduce her to every one who still confuse to take her course or not. Take it and you will meet one of your most fantastic professors in OSU! Quiz and exam are all online and you could use your notes and book. Also there are many bonus points you could get during semester.",
+        "course": "CSFRST2373"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The exams are online, at-home, open note, open computer, and she pulls questions directly from the book. So if you read, or at least have your book open during exams, you will be set! She is so awesome and so kind, I wish I could take more classes with her! She's inspiring and makes you more interested in the industry. Such a great professor.",
+        "course": "CSFRST3474"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She's awesome! She brings in guest lecturers from the industry to help supplement course content and expose us to various parts of the industry. Exams and quizzes are open note, reading textbook is recommended. Good powerpoints, make sure to add your own notes and add whats on her slides since they are different. Super caring and fair grader.",
+        "course": "CSFRT2373"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3191",
+        "Class Name": "Internship",
+        "Class Number": "10102",
+        "Term": "SU 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3191",
+        "Class Name": "Internship",
+        "Class Number": "10103",
+        "Term": "SU 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2373",
+        "Class Name": "Business of Fashion & Retailing",
+        "Class Number": "28079",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "72",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3474",
+        "Class Name": "Fashion Forecasting",
+        "Class Number": "28105",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "49",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "4585",
+        "Class Name": "Merchandise Buying and Management",
+        "Class Number": "28107",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2373",
+        "Class Name": "Business of Fashion & Retailing",
+        "Class Number": "12992",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "71",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2373",
+        "Class Name": "Business of Fashion & Retailing",
+        "Class Number": "6803",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "55",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3474",
+        "Class Name": "Fashion Forecasting",
+        "Class Number": "6829",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "35",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "4585",
+        "Class Name": "Merchandise Buying and Management",
+        "Class Number": "6831",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "41",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2373",
+        "Class Name": "Business of Fashion & Retailing",
+        "Class Number": "31640",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "54",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3474",
+        "Class Name": "Fashion Forecasting",
+        "Class Number": "35113",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "31",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2373",
+        "Class Name": "Business of Fashion & Retailing",
+        "Class Number": "32230",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "74",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3474",
+        "Class Name": "Fashion Forecasting",
+        "Class Number": "32245",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "41",
+        "Rating": "4.46"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2373",
+        "Class Name": "Business of Fashion & Retailing",
+        "Class Number": "13656",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "35",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3474",
+        "Class Name": "Fashion Forecasting",
+        "Class Number": "14742",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "32",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3191",
+        "Class Name": "Internship",
+        "Class Number": "10336",
+        "Term": "SU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3191",
+        "Class Name": "Internship",
+        "Class Number": "10622",
+        "Term": "SU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2373",
+        "Class Name": "Business of Fashion & Retailing",
+        "Class Number": "13644",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "88",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3191",
+        "Class Name": "Internship",
+        "Class Number": "14973",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3474",
+        "Class Name": "Fashion Forecasting",
+        "Class Number": "13659",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3474",
+        "Class Name": "Fashion Forecasting",
+        "Class Number": "35234",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2373",
+        "Class Name": "Business of Fashion & Retailing",
+        "Class Number": "14084",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "113",
+        "Rating": "4.55"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "3474",
+        "Class Name": "Fashion Forecasting",
+        "Class Number": "15068",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "43",
+        "Rating": "4.84"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Education & Human Ecology",
+    "firstName": "Millie",
+    "id": "VGVhY2hlci0zMDMzMDcw",
+    "lastName": "Ash",
+    "legacyId": 3033070,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very kind and accommodating ",
+        "course": "HDFS2200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.8,
+    "avgRating": 5,
+    "department": "Education & Human Ecology",
+    "firstName": "Emily",
+    "id": "VGVhY2hlci0xODQwMjAy",
+    "lastName": "Newell",
+    "legacyId": 1840202,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "You are the greatest professor - I've gained so much knowledge from you. Many thanks!!",
+        "course": "KNSISM3208"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Definitely would recommend! She's really nice and the exams are all over the study guide. So just study the study guide!",
+        "course": "KNSISM3208"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Emily is a great teacher! If you have the opportunity to be in one of her classes I would definitely recommend that you do so. I took both KNSISM 3208 and 4411 with her.",
+        "course": "KNSISM"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Prof. Newell is the best! I highly recommend taking her classes! I took KNSISM 3208 and 4411 and she is super nice and helpful. Just keep up with the reading and you'll do great!",
+        "course": "KNSISM3208"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4,
+    "department": "Education & Human Ecology",
+    "firstName": "Shaun",
+    "id": "VGVhY2hlci0xNzg5OTY4",
+    "lastName": "Gravley",
+    "legacyId": 1789968,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Helpful professor, but very difficult to get high grade.",
+        "course": "EDUTL1902"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.5,
+    "department": "Education & Human Ecology",
+    "firstName": "Nicole",
+    "id": "VGVhY2hlci0xNzc3OTkx",
+    "lastName": "Brown",
+    "legacyId": 1777991,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "She's really nice, seems too happy at times, willing to help when needed, tries hard to make a boring class fun.Easy A",
+        "course": "EDUPL1259"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Education & Human Ecology",
+    "firstName": "Frankie",
+    "id": "VGVhY2hlci0xNTI2NjA1",
+    "lastName": "Collins",
+    "legacyId": 1526605,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "We have had Frankie on a few occasions. There isnt a better guy on earth than him. He was helpful and knowledgeable with everything that we did. Some concepts were tough, but he really worked with us. I hope I have him again!",
+        "course": "MANY0001"
       }
     ],
     "SEI": []
@@ -652,518 +3838,6 @@
         "difficulty": 3,
         "comment": "Really good guy.",
         "course": "KNSISM4900"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Education & Human Ecology",
-    "firstName": "Ann",
-    "id": "VGVhY2hlci0zMDM3Mjg1",
-    "lastName": "Paulins",
-    "legacyId": 3037285,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Ann Paulins is like...THE nicest person. She is so sweet, comforting and makes sure to let her students know to not stress about things that go wrong. She is pretty funny too. Her assignments are straightforward and quizzes are in class real easy. I am very glad I got to have her as my professor. ",
-        "course": "2300"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.4,
-    "avgRating": 4.3,
-    "department": "Education & Human Ecology",
-    "firstName": "Kristin",
-    "id": "VGVhY2hlci0yNDE1OTI2",
-    "lastName": "Paulus",
-    "legacyId": 2415926,
-    "numRatings": 12,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Dr. Paulus is a great professor who puts a lot of time and effort into her courses. I have only taken her classes asynchronously, and I feel as if I learn the same as I would in an in person class. Her classes are very homework heavy and involve lots of group projects. I spend over 4 hours on her class a week.",
-        "course": "CSFRST3474"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Kristin is so nice. Her exams are easy if you watch her lecture videos, and you can use your notes with an open book on the exams. Highly recommend!",
-        "course": "CRFRST2373"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "The tests are full of gotcha questions. A lot of time consuming assignments at the end of the semester. All of the background noises during her recorded lectures make them very irritating to listen to. Would not recommend this professor at all. The content is easy but she makes it very difficult to get a good grease.",
-        "course": "CRFRST2373"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "i am seriously obsessed with her. go to the lectures to do well on the exams! she is so so caring with her students i would recommend if you have the opportunity to take a class with her, do it!",
-        "course": "CSFRST2373"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Shes a very nice person. She respects her students and is always ready to help. You will need the textbook because it would be very helpful in preparing for the exam.",
-        "course": "CSFRST2373"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She is so helpful and really cares about her students! I would recommend not skipping class. She occasionally takes attendance or gives out in class assignments. You dont really need the book but it is helpful during open note exams.",
-        "course": "CSFRST2373"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Kristin is the BEST. Her lectures are actually enjoyable and the content is fun to learn about. Her exams and projects are fairly easy if you pay attention in class. She genuinely cares about her students and giving them the best experience possible. I would highly recommend Kristin for any of her courses.",
-        "course": "CSFRST3474"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Best professor that I've had at OSU. Truly cares about her students and what they learn. Exams can be tough, take additional notes during lectures because the powerpoint's sometimes don't have all the details (especially if you don't buy the book.) Try not to miss class and reach out if you have an excuse, she is very understanding. Group projects!",
-        "course": "CSFRST4585"
-      },
-      {
-        "index": 9,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "She's an okay professor but make sure to go to her lectures. She takes in class attendance every once in a while and if you don't go you'll miss a good percentage of your grade.",
-        "course": "CRFRST2373"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She is really really good and I cant wait to introduce her to every one who still confuse to take her course or not. Take it and you will meet one of your most fantastic professors in OSU! Quiz and exam are all online and you could use your notes and book. Also there are many bonus points you could get during semester.",
-        "course": "CSFRST2373"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "The exams are online, at-home, open note, open computer, and she pulls questions directly from the book. So if you read, or at least have your book open during exams, you will be set! She is so awesome and so kind, I wish I could take more classes with her! She's inspiring and makes you more interested in the industry. Such a great professor.",
-        "course": "CSFRST3474"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She's awesome! She brings in guest lecturers from the industry to help supplement course content and expose us to various parts of the industry. Exams and quizzes are open note, reading textbook is recommended. Good powerpoints, make sure to add your own notes and add whats on her slides since they are different. Super caring and fair grader.",
-        "course": "CSFRT2373"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Education & Human Ecology",
-    "firstName": "Millie",
-    "id": "VGVhY2hlci0zMDMzMDcw",
-    "lastName": "Ash",
-    "legacyId": 3033070,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Very kind and accommodating ",
-        "course": "HDFS2200"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.3,
-    "avgRating": 5,
-    "department": "Education & Human Ecology",
-    "firstName": "Alina",
-    "id": "VGVhY2hlci0yODU5NTc2",
-    "lastName": "Cioletti",
-    "legacyId": 2859576,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I had Dr. Cioletti for 4411. She was one of if not the BEST instructors I have had at OSU. She is well prepared and engages with the students well. She is very approachable and transparent. She sets the students up for success but expects them to do the work themselves, which has taught me how to be self-sufficient. 10/10 would recommend!",
-        "course": "2260"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Prof. Cioletti is great. She is knowledgeable about what she teaches, cares about your success, and is not very strict. The class (Contemporary Sport in the US) is fairly easy. Weekly/biweekly quizzes, many group projects, and couple of in-class discussion groups. Some of the group projects are relatively interesting. Attendance is important",
-        "course": "2260"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Prof. Cioletti was great! Super sweet, doctoral student who genuinely wants your input. There's quite a bit of group discussion/project work but nothing difficult. She likes participation so speak up! She also brings in some great guest speakers. Friday in-person quizzes and one big podcast assignment over the span of the semester. Take her class!",
-        "course": "2260"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.6,
-    "avgRating": 3.9,
-    "department": "Education & Human Ecology",
-    "firstName": "Susan",
-    "id": "VGVhY2hlci0xNTI0NTA2",
-    "lastName": "Bandy",
-    "legacyId": 1524506,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr Bandy has high expectations and will push you to do your best. She was the best professor I had in all of college. ",
-        "course": "KNSISM5626"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Dr. Bandy is a very passionate professor who really knows what she is talking about. The material is challenging but it is interesting. To do well in this class show up, take notes, and do the readings and you'll be fine. Dr. Bandy is also a really cool lady who is always willing to help and has a super interesting past so get to know her!!",
-        "course": "KNSISM4615"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Dr. Bandy is incredibly thorough and invested in her work. She works very hard and expects you to do the same. If you show up everyday and take a genuine interest in her teachings you will be just fine. She is very nice and very accessible. Course may be difficult but there's no reason you can't get a B in her class",
-        "course": "KNSISM5626"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Has lil people & communication skills, favors student-athletes, way too opinionated for a class based on essays, would be better suited teaching high school or junior high kids considering that is how she treats her students. Has lil knowledge of current event topics related to the course material, seems to only know about the required textbook",
-        "course": "KNSISM4615"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Professor is devoted to her work, is demanding, and expects students to be equally accountable.  If you are not interested in the subject, the course is very difficult.",
-        "course": "KNSISM5626"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "She's a stingy grader, but a great professor. If you can get an A- to a B+ in this class, consider that a triumph because an A is almost impossible with how little point opportunities there are in this class. The exams are all written response questions. Go to her reviews and it'll be better than reading all the articles",
-        "course": "KNSISM4615"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great Professor! This is a third writing class and she truely wants her students to become better writers. Dr. Bandy is always willing to help students. She extremely knowledgable and experienced. I took two classes with her and I would definitely recommend taking her.",
-        "course": "PAES531"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.4,
-    "avgRating": 2.6,
-    "department": "Education & Human Ecology",
-    "firstName": "Christopher",
-    "id": "VGVhY2hlci0yNTk4OTgw",
-    "lastName": "Wolters",
-    "legacyId": 2598980,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": " Two essays that weren't too difficult, if you put some effort into the weekly homework it shouldn't be tough. Exams online were open note, just have good notes and you will be fine. ",
-        "course": "ESEPSY5401"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Not a bad professor, but take the class with a different professor if you can. Homework heavy class with a chapter each week from the book not including articles and videos each week. Expect to write at least 6 papers and to lose points for the littlest mistakes. The class was not terrible, but I just didn't enjoy it, and the exams were not for me.",
-        "course": "ESEPSY5401"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Wolters might be a good professor but I just didn't like him. A class I dreaded every single time, other people liked him but just he wasn't a bully but just like three steps before that? I don't know how better to describe it. Also he gave just oh my god so many papers plus multiple extensive short answer exams, not bad but not fun.",
-        "course": "ESEPSY5401"
-      },
-      {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Honestly with the number of papers you write in this class you would think it's a writing class; He assigns 4, 2-3 page, papers and 2, 6-9 page papers, and he'll take points off for the smallest thing. His lectures are pretty boring, and you are expected to read a lot. He's really nice, but take this class with a different professor if you can.",
-        "course": "ESEPSY5401"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.4,
-    "avgRating": 4.7,
-    "department": "Education & Human Ecology",
-    "firstName": "Benjamin",
-    "id": "VGVhY2hlci0yNjc2OTg2",
-    "lastName": "Buchanan",
-    "legacyId": 2676986,
-    "numRatings": 11,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Professor Buchanan really cares about his students and always gives a create lecture. Will randomly call on people but just really enjoys hearing students' opinions. Exams online and short answer.",
-        "course": "KNSISM5626"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Goat",
-        "course": "KNSISM5626"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Always enjoy having class with Dr. B. He is a great lecturer, and always keeps class interesting. Not a lot of assignments. Assigns some virtual days as a nice break. Any class with him is worth taking!",
-        "course": "KNSISM4615"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. B is awesome! the course content is interesting, and he gives students a break by having virtual days. Exams are fair and graded lightly, and final project was actually enjoyable! would highly recommend taking his classes to anyone.",
-        "course": "KNSISM5626"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Buchanan is honestly my favorite professor I have had over my 3 years and counting at Ohio State. He has informative lectures, but they are never boring. He brings modern day topics to the conversation and has an organic flow to his lectures. Grading is very very fair. ",
-        "course": "KNSISM5626"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "DR.B is really nice, and the class is pretty much based on discussion of different topic.",
-        "course": "KNSISM4615"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. B was amazing! Good lecturer and always willing to help. One thing to notice in his class is that you might be called to answer a question at any time. Easy to get an A.",
-        "course": "KNSISM5626"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Buchanan is awesome! Take one of his classes any chance you get. He does like to call on people so just be prepared. Go to class and post on the discussion board to get credit. One big project and two exams - nothing crazy. He's super down to earth and really caring. He has great experiences/examples so definitely listen to what he says!",
-        "course": "KNSISM5626"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I loved Prof. Buchanan. Super easy-going and tried to keep every lecture interesting. He does call on people randomly in class so be prepared, but he only calls on people because he genuinely wants to hear their opinion. Show up to lectures for points too. Only two exams and a final paper, all discussions are completed in class. Highly recommend!",
-        "course": "KNSISM4615"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Cares about his students a lot, but man does he love to hear himself talk. I can't even count the amount of times he would cut off a student to reiterate the same exact thing over and over again. Even when you expects you to be writing down an answer, he will loudly repeat &quot;think why?&quot; over and over until you wish you didn't have hearing.",
-        "course": "KNSISM4615"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Former place kicker for the Ohio State football team, Benjamin (Ben) Buchanan is one of the most caring, honest, and respectable professors Ive had at Ohio State. Being in his class has been a joy, as he truly cares for his students, clearly explains course material, and does not overload his students with work. 10/10 recommend, amazing professor!",
-        "course": "KNSISM4615"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Education & Human Ecology",
-    "firstName": "Donna",
-    "id": "VGVhY2hlci0yOTQzODg1",
-    "lastName": "Pastore",
-    "legacyId": 2943885,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She is a great person!",
-        "course": "KNSISM4245"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.8,
-    "avgRating": 5,
-    "department": "Education & Human Ecology",
-    "firstName": "Emily",
-    "id": "VGVhY2hlci0xODQwMjAy",
-    "lastName": "Newell",
-    "legacyId": 1840202,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "You are the greatest professor - I've gained so much knowledge from you. Many thanks!!",
-        "course": "KNSISM3208"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Definitely would recommend! She's really nice and the exams are all over the study guide. So just study the study guide!",
-        "course": "KNSISM3208"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Emily is a great teacher! If you have the opportunity to be in one of her classes I would definitely recommend that you do so. I took both KNSISM 3208 and 4411 with her.",
-        "course": "KNSISM"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Prof. Newell is the best! I highly recommend taking her classes! I took KNSISM 3208 and 4411 and she is super nice and helpful. Just keep up with the reading and you'll do great!",
-        "course": "KNSISM3208"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 4,
-    "department": "Education & Human Ecology",
-    "firstName": "Shaun",
-    "id": "VGVhY2hlci0xNzg5OTY4",
-    "lastName": "Gravley",
-    "legacyId": 1789968,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Helpful professor, but very difficult to get high grade.",
-        "course": "EDUTL1902"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 4.5,
-    "department": "Education & Human Ecology",
-    "firstName": "Nicole",
-    "id": "VGVhY2hlci0xNzc3OTkx",
-    "lastName": "Brown",
-    "legacyId": 1777991,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "She's really nice, seems too happy at times, willing to help when needed, tries hard to make a boring class fun.Easy A",
-        "course": "EDUPL1259"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.5,
-    "avgRating": 4.5,
-    "department": "Education & Human Ecology",
-    "firstName": "Jessica",
-    "id": "VGVhY2hlci0xODcwOTI0",
-    "lastName": "Mercerhill",
-    "legacyId": 1870924,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Great professor! Makes class interesting and interactive. Book use is high though, so make sure you buy all of them.",
-        "course": "ESEPHL4403"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Such a wonderful professor! Dr. Jess is very intelligent and makes class interesting. Many case analysis' are done and class is ALWAYS interactive. Would definitely recommend taking this class with her!!",
-        "course": "ESEPHL4403"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Education & Human Ecology",
-    "firstName": "Frankie",
-    "id": "VGVhY2hlci0xNTI2NjA1",
-    "lastName": "Collins",
-    "legacyId": 1526605,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "We have had Frankie on a few occasions. There isnt a better guy on earth than him. He was helpful and knowledgeable with everything that we did. Some concepts were tough, but he really worked with us. I hope I have him again!",
-        "course": "MANY0001"
       }
     ],
     "SEI": []

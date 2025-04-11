@@ -17,6 +17,35 @@
         "course": "DENT1300"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "DENT",
+        "Catalog": "8001.03",
+        "Class Name": "Periodontics",
+        "Class Number": "32552",
+        "Term": "SP 21",
+        "College": "Dentistry",
+        "Department": "Dentistry",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "DENT",
+        "Catalog": "6564",
+        "Class Name": "Periodontology I",
+        "Class Number": "10044",
+        "Term": "SP 22",
+        "College": "Dentistry",
+        "Department": "Dentistry",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "49",
+        "Rating": "3.38"
+      }
+    ]
   }
 ]

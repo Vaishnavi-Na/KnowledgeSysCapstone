@@ -1,108 +1,5 @@
 [
   {
-    "avgDifficulty": 1.7,
-    "avgRating": 2.7,
-    "department": "Latin",
-    "firstName": "Gemma",
-    "id": "VGVhY2hlci0yNTg4MTA2",
-    "lastName": "Storti",
-    "legacyId": 2588106,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "good course content, but a bit unprofessional",
-        "course": "LATIN1103"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Gemma is a wonderful person and an even better lecturer! She really cares about her students, sometimes even to a fault. She is quite easy to get to know outside of class. She is flexible with her students as well which made the class less stressful.",
-        "course": "LATIN1103"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Really not professional with the students... too many red flag boundaries crossed with some students while she taught the class. It made learning really uncomfortable",
-        "course": "LATIN1102"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.2,
-    "avgRating": 4.7,
-    "department": "Latin",
-    "firstName": "Joseph",
-    "id": "VGVhY2hlci0xMTA1NTU3",
-    "lastName": "Danielewicz",
-    "legacyId": 1105557,
-    "numRatings": 8,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "He's cool",
-        "course": "LATIN101"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "10/10 great teacher. Would love to take his classes again, but I'm not in that field anymore. Definitely passionate about teaching, and someone who will help you if need be!",
-        "course": "LATIN103"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I had this professor all through my Greek language series. He is great at making things clear and you can tell he really loves teaching. He is always willing to help when you are struggling. I would highly recommend!",
-        "course": "GREEK103"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He's a very clear lecture that emphasizes the themes of the stories very clearly. Lectures not mandatory, but helpful. MAKE SURE YOU KEEP UP WITH THE READINGS! Very overwhelming if you fall behind. Ten 10-question MC tests each week in recitation, one easy paper, easy exams. Just make sure you keep up with the material or you will be doomed.",
-        "course": "CLSCS101"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Vibrant lecturer that has a passion for the Greek literature. Good at analyzing the themes of the book which appear on the midterm and final. Very approachable, doesn't mind helping students. Class involves a lot of reading and weekly quizzes will test your comprehension of the books. Midterm, paper, and final are manageable if you attend class.",
-        "course": "CLASS101"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "He's a super nice guy and genuinely wants to help you learn the material. There are A LOT of quizzes, and the homework can be overwhelming, but he is a pretty generous grader. Would definately recommend.",
-        "course": "GREEK101"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I've had all through the Latin 10x series and he's done a great job. Very interested in classics and teaching latin and actually made the sequence (did not want to take!) interesting. Quizzes and homework daily, so attendance is pretty important, but the class is pretty easy and he gives extra credit on the exams. Definitely recommend!",
-        "course": "LATIN103"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Class attendance part of grade- quizzes and homework very important- would have gotten an A if went daily, missed some quizzes and didn't. Overall easy class- nice quirky prof.",
-        "course": "LATIN101"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 2.6,
     "avgRating": 4.4,
     "department": "Latin",
@@ -286,6 +183,425 @@
         "difficulty": 3,
         "comment": "My favorite class by far. Little has a great personality and the assignments actually help. Don't expect to pass without class though he clarifies everything in class. Lots of quizzes but he's a relatively easy grader. Most of my class is taking him again next semester at 8AM if that says anything!",
         "course": "1101"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "CLAS",
+        "Catalog": "2202",
+        "Class Name": "Classical Civilization: Rome",
+        "Class Number": "21549",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "34",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2220",
+        "Class Name": "Classical Mythology",
+        "Class Number": "11415",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "159",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2220",
+        "Class Name": "Classical Mythology",
+        "Class Number": "36666",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2220",
+        "Class Name": "Classical Mythology",
+        "Class Number": "11398",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "166",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2201",
+        "Class Name": "Classical Civilization: Greece",
+        "Class Number": "12132",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "53",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "N/A",
+        "Class Name": "Classical Civilization: Greece",
+        "Class Number": "21753",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.39"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2201",
+        "Class Name": "Classical Civilization: Greece",
+        "Class Number": "16531",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "34",
+        "Rating": "4.59"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2010",
+        "Class Name": "Classical Background of Scientific Terminology",
+        "Class Number": "22407",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Marion Campus",
+        "Medium": "Hybrid Delivery",
+        "Campus": "MRN",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2220H",
+        "Class Name": "Classical Mythology",
+        "Class Number": "16175",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2202H",
+        "Class Name": "Classical Civilization: Rome",
+        "Class Number": "22616",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2220H",
+        "Class Name": "Classical Mythology",
+        "Class Number": "18345",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2201",
+        "Class Name": "Classical Civilization: Greece",
+        "Class Number": "19059",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "36",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2201H",
+        "Class Name": "Classical Civilization: Greece",
+        "Class Number": "27361",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "2202H",
+        "Class Name": "Classical Civilization: Rome",
+        "Class Number": "22804",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "5"
+      },
+      {
+        "Subject": "LATIN",
+        "Catalog": "5017",
+        "Class Name": "Roman Satire and Novel",
+        "Class Number": "35264",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "LATIN",
+        "Catalog": "1101",
+        "Class Name": "Elementary Latin I",
+        "Class Number": "19931",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "LATIN",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Latin I",
+        "Class Number": "13778",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1.7,
+    "avgRating": 2.7,
+    "department": "Latin",
+    "firstName": "Gemma",
+    "id": "VGVhY2hlci0yNTg4MTA2",
+    "lastName": "Storti",
+    "legacyId": 2588106,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "good course content, but a bit unprofessional",
+        "course": "LATIN1103"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Gemma is a wonderful person and an even better lecturer! She really cares about her students, sometimes even to a fault. She is quite easy to get to know outside of class. She is flexible with her students as well which made the class less stressful.",
+        "course": "LATIN1103"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Really not professional with the students... too many red flag boundaries crossed with some students while she taught the class. It made learning really uncomfortable",
+        "course": "LATIN1102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 4,
+    "department": "Latin",
+    "firstName": "Elizabeth",
+    "id": "VGVhY2hlci0yMzM1NDIy",
+    "lastName": "Neely",
+    "legacyId": 2335422,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I had Neely for three straight semesters of Latin. Great at challenging students, and will make sure you know your stuff. If you want to breeze through your language requirement, do not take. Homework every day, constant participation in class. Exams hard but offers chance for partial credit. Occasionally unorganized but overall strong professor.",
+        "course": "LATIN1103"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "CLAS",
+        "Catalog": "N/A",
+        "Class Name": "Introduction to Classical Literature",
+        "Class Number": "19924",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.53"
+      },
+      {
+        "Subject": "CLAS",
+        "Catalog": "3203",
+        "Class Name": "War in Ancient Greek and Roman Literature",
+        "Class Number": "34345",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "LATIN",
+        "Catalog": "1103",
+        "Class Name": "Intermediate Latin II",
+        "Class Number": "19934",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "LATIN",
+        "Catalog": "1103",
+        "Class Name": "Intermediate Latin II",
+        "Class Number": "20856",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Classics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 4.7,
+    "department": "Latin",
+    "firstName": "Joseph",
+    "id": "VGVhY2hlci0xMTA1NTU3",
+    "lastName": "Danielewicz",
+    "legacyId": 1105557,
+    "numRatings": 8,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He's cool",
+        "course": "LATIN101"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "10/10 great teacher. Would love to take his classes again, but I'm not in that field anymore. Definitely passionate about teaching, and someone who will help you if need be!",
+        "course": "LATIN103"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I had this professor all through my Greek language series. He is great at making things clear and you can tell he really loves teaching. He is always willing to help when you are struggling. I would highly recommend!",
+        "course": "GREEK103"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He's a very clear lecture that emphasizes the themes of the stories very clearly. Lectures not mandatory, but helpful. MAKE SURE YOU KEEP UP WITH THE READINGS! Very overwhelming if you fall behind. Ten 10-question MC tests each week in recitation, one easy paper, easy exams. Just make sure you keep up with the material or you will be doomed.",
+        "course": "CLSCS101"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Vibrant lecturer that has a passion for the Greek literature. Good at analyzing the themes of the book which appear on the midterm and final. Very approachable, doesn't mind helping students. Class involves a lot of reading and weekly quizzes will test your comprehension of the books. Midterm, paper, and final are manageable if you attend class.",
+        "course": "CLASS101"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He's a super nice guy and genuinely wants to help you learn the material. There are A LOT of quizzes, and the homework can be overwhelming, but he is a pretty generous grader. Would definately recommend.",
+        "course": "GREEK101"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I've had all through the Latin 10x series and he's done a great job. Very interested in classics and teaching latin and actually made the sequence (did not want to take!) interesting. Quizzes and homework daily, so attendance is pretty important, but the class is pretty easy and he gives extra credit on the exams. Definitely recommend!",
+        "course": "LATIN103"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Class attendance part of grade- quizzes and homework very important- would have gotten an A if went daily, missed some quizzes and didn't. Overall easy class- nice quirky prof.",
+        "course": "LATIN101"
       }
     ],
     "SEI": []
@@ -487,26 +803,6 @@
         "difficulty": 3,
         "comment": "Chelsea is a fantastic teacher. She constantly creates new ways to teach the material and will take as much time as you need for her to take to make sure that you learn the material. She deserves 500 gold stars.",
         "course": "LATIN102"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 4,
-    "department": "Latin",
-    "firstName": "Elizabeth",
-    "id": "VGVhY2hlci0yMzM1NDIy",
-    "lastName": "Neely",
-    "legacyId": 2335422,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I had Neely for three straight semesters of Latin. Great at challenging students, and will make sure you know your stuff. If you want to breeze through your language requirement, do not take. Homework every day, constant participation in class. Exams hard but offers chance for partial credit. Occasionally unorganized but overall strong professor.",
-        "course": "LATIN1103"
       }
     ],
     "SEI": []

@@ -122,7 +122,728 @@
         "course": "AVDCANCER"
       }
     ],
+    "SEI": [
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "29796",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "14331",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "14332",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.84"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "14378",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "8518",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "8528",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "32221",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "32238",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "33770",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "33775",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "14032",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.26"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "14045",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.96"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1104",
+        "Class Name": "Stress Management for the College Student",
+        "Class Number": "14855",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1105",
+        "Class Name": "Mindful Meditation",
+        "Class Number": "37196",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1171",
+        "Class Name": "Pickleball",
+        "Class Number": "37199",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1105",
+        "Class Name": "Mindful Meditation",
+        "Class Number": "36499",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1105",
+        "Class Name": "Mindful Meditation",
+        "Class Number": "36593",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "KNSFHP",
+        "Catalog": "1197",
+        "Class Name": "Competitive Club Sports",
+        "Class Number": "14340",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1.6,
+    "avgRating": 4.2,
+    "department": "Physical Ed",
+    "firstName": "Amy",
+    "id": "VGVhY2hlci0yMDU4NjU=",
+    "lastName": "Prince",
+    "legacyId": 205865,
+    "numRatings": 22,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great class, especially for people without a yoga background. Very relaxing and a good change of pace from academic classes. Never felt weird as one of the only guys in the class.",
+        "course": "YOGA1"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Beaker has a great instructive style. She is very patient and clear in directions for the poses.  She is perfect for this introduction to yoga.",
+        "course": "YOGA1"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Beaker is very knowledgeable about how yoga and how to teach it. I felt comfortable asking for form corrections and my yoga practice definitely improved during the course. As for workload, all you had to do was show up to class and complete a few short homework assignments. An easy A as long as you follow the clear expectations of the class.",
+        "course": "YOGA1"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Very critical and impossible standards",
+        "course": "YOGA1"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Beakers class was fine. Not great, not terrible. Something about her was just off-putting. I had imagined a yoga teacher wouldn't be so up-tight. She was very cautious about covid which I respect but she took it too far at times. She does know her way around yoga though so she was good at answering questions.",
+        "course": "KNSFHP119501"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "She was a weirdo. The class was easy but shes very self-important. I seriously could not stand her as a person.",
+        "course": "19501YOGA"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Her real name is Amy, but she goes by Beaker. Very relaxing personality and soothing voice. Just wants you to learn and love yoga. She wants you to get something out of each class and the course as a whole. VERY caring and sympathetic. Go to class and you're fine (you can miss 2 if necessary).",
+        "course": "KNSFHP119501"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Beaker is really awesome. I wouldn't recommend taking this class if you don't care about yoga or mindfulness, but if you do have some interest and an open mind you can really benefit a lot from this class. In order to pass you can only miss a couple of classes but the two hours go by really quickly.",
+        "course": "KNSFHP119501"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Don't take this class if you want it to just be a bullcrap activity class, like it should be.  She tries to make this gym class into an actual class. During class, she says so much hippie bs that I had to refrain from laughing a few times. She needs to realize it's is a bs class, not an actual academic class. No matter how much she wants it to be.",
+        "course": "YOGA1"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Beaker is AMAZING. I took her Body/Mind Course in the fall and still can't get over it. I wrote the previous comment, but I've changed my mind completely. Beaker is funny, interesting, smart, and insightful. She will  make sure you walk away from class feeling like it was worth it. Minimal homework (only reading). Easy exam, final project.",
+        "course": "EDUPL2241"
+      },
+      {
+        "index": 11,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Beaker is one of the most fascinating women I've ever met. I enjoyed her some days, hated her most others. She speaks in an elevated manner, and is VERY into the whole \"body/mind\" connection. Beaker is strange, but it's necessary for the course to flow superflously. Only take this course if you have a true interest. Otherwise, jump ship.",
+        "course": "EDUPL2241"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Beaker is really nice. She's very strange, but not in a bad way. Those expecting to take Yoga as a BS class will be in for a wake up call. You actually have to do stuff. :P It's still easy though. She's kind of unclear on how long your journal entries have to be, but I wrote about 3/4 page for each of mine, and I got a perfect grade.",
+        "course": "YOGA1"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Beaker is awesome! Good if you prefer a lower-key workout focusing more on bodily awareness than aerobics, though she did still kick it up a notch during each class. At times let us Sun Salutation at our own pace. I had H1N1 this quarter, and she really worked with me to make up missed classes so I could still get an 'A', even during the last week.",
+        "course": "YOGA2"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This class was so different from my yoga 1 class that I couldn't stand it. Beaker obviously knows how to teach but she didn't teach what most of us wanted to know. We spent too much time not doing anything (literally, sometimes) instead of actually getting a good yoga workout in. I wouldn't take another class from her.",
+        "course": "YOGA2"
+      },
+      {
+        "index": 15,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Beaker is indubitably sweet and caring. She has put much work into organizing this course (possibly superfluously.) Don't take things too seriously, but keep an open mind and listen to what she is saying more than focusing on the guided lecture notes.  Beaker's pleasant personality will help you through the quarter. Integral yoga interest necessary",
+        "course": "EDPAE601A"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "kind of odd teacher but in the cool kinda way, prolly the reason she teaches yoga. loved the relaxation part at the end of class, i often was close to falling asleep but in yoga its a good thing as opposed to falling asleep in any other class.",
+        "course": "YOGA1"
+      },
+      {
+        "index": 17,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "MOvement and Self Awareness class is a very odd class",
+        "course": "EDU168"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is very nice! She is all about listening to your body and the last part of class is spent simply relaxing.",
+        "course": "19501YOGA"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is alot of fun.  She will remind you of a kindergarden teacher with her enthusiasm.  All in all, a very relaxing and laid back class.",
+        "course": "EDU195"
+      },
+      {
+        "index": 20,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "No Comments",
+        "course": "EDU"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "yoga teacher she's awesome",
+        "course": "EDPL100"
+      },
+      {
+        "index": 22,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "She taught the first social dance class.  It was lots of fun, but that Steve guy who also teaches and was our substitute one day is a better teacher.  Beaker's a little strange, but she's nice.",
+        "course": "EDUPAES153"
+      }
+    ],
     "SEI": []
+  },
+  {
+    "avgDifficulty": 2.3,
+    "avgRating": 4.8,
+    "department": "Physical Ed",
+    "firstName": "Sue",
+    "id": "VGVhY2hlci04MjU5MDc=",
+    "lastName": "Sutherland",
+    "legacyId": 825907,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "very good professor !",
+        "course": "EDUPA245"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Very professional in the classroom, very personal outside of class. Exactly what you want out of a professor. I never got less than an A in her classes because she motivated students well. I will miss having Dr. Sutherland for class!",
+        "course": "MANY000"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great teacher.  Voice is very soothing and lectures almost put you to sleep because of her voice.  But, she is knows what she is talking about and is an awesome professor.  Look her up and take her classes!",
+        "course": "PAES307"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "KNPE",
+        "Catalog": "3740",
+        "Class Name": "Teaching Physical Education in Elementary Schools",
+        "Class Number": "13022",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "3.92"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "2307",
+        "Class Name": "Adventure Based Learning",
+        "Class Number": "7702",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "5795",
+        "Class Name": "Sociocultural Issues in Sport, Recreation and Physical Education",
+        "Class Number": "8796",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "5795",
+        "Class Name": "Sociocultural Issues in Sport, Recreation and Physical Education",
+        "Class Number": "8797",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "8865",
+        "Class Name": "Advanced Socio-cultural issues in Physical Education",
+        "Class Number": "33075",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "7863",
+        "Class Name": "Teaching Health and Fitness Courses at the College Level",
+        "Class Number": "34841",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "5795",
+        "Class Name": "Sociocultural Issues in Sport, Recreation and Physical Education",
+        "Class Number": "35154",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "7860",
+        "Class Name": "The Art of College Teaching within the Human Sciences",
+        "Class Number": "37986",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "8865",
+        "Class Name": "Advanced Socio-cultural issues in Physical Education",
+        "Class Number": "34667",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.3,
+    "avgRating": 4.3,
+    "department": "Physical Ed",
+    "firstName": "Jackie",
+    "id": "VGVhY2hlci04MjU5MDI=",
+    "lastName": "Goodway",
+    "legacyId": 825902,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Goodway is such an inspirational and interesting teacher. She does everything she can to make sure students understand the coursework; willing to give extra credit so students receive good grades as long as they udnerstand the material.",
+        "course": "KNPE"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "not helpful, not interested in educating anyone but those that can help her get published...worst educational experience of my life",
+        "course": "GRAD900"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I loved Dr. Goodway. Wish I could have her for another class.",
+        "course": "EDU542"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Spoon feeds you through the curriculum.  Is willing to make adjustments, but is very specific with what is expected!  Highly suggest taking a class with this professor!",
+        "course": "PAES74068901"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "KNPE",
+        "Catalog": "7754",
+        "Class Name": "Advanced Motor Development and Learning",
+        "Class Number": "35453",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.71"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "2542",
+        "Class Name": "Lifespan Motor Development",
+        "Class Number": "6757",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "3740",
+        "Class Name": "Teaching Physical Education in Elementary Schools",
+        "Class Number": "32768",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "2542",
+        "Class Name": "Lifespan Motor Development",
+        "Class Number": "32190",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "7754",
+        "Class Name": "Advanced Motor Development and Learning",
+        "Class Number": "36146",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "3520",
+        "Class Name": "Content in Lower Elementary Physical Education",
+        "Class Number": "13612",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "KNPE",
+        "Catalog": "2542",
+        "Class Name": "Lifespan Motor Development",
+        "Class Number": "15642",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.72"
+      }
+    ]
   },
   {
     "avgDifficulty": 1.2,
@@ -684,173 +1405,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 1.6,
-    "avgRating": 4.2,
-    "department": "Physical Ed",
-    "firstName": "Amy",
-    "id": "VGVhY2hlci0yMDU4NjU=",
-    "lastName": "Prince",
-    "legacyId": 205865,
-    "numRatings": 22,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great class, especially for people without a yoga background. Very relaxing and a good change of pace from academic classes. Never felt weird as one of the only guys in the class.",
-        "course": "YOGA1"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Beaker has a great instructive style. She is very patient and clear in directions for the poses.  She is perfect for this introduction to yoga.",
-        "course": "YOGA1"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Beaker is very knowledgeable about how yoga and how to teach it. I felt comfortable asking for form corrections and my yoga practice definitely improved during the course. As for workload, all you had to do was show up to class and complete a few short homework assignments. An easy A as long as you follow the clear expectations of the class.",
-        "course": "YOGA1"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Very critical and impossible standards",
-        "course": "YOGA1"
-      },
-      {
-        "index": 5,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Beakers class was fine. Not great, not terrible. Something about her was just off-putting. I had imagined a yoga teacher wouldn't be so up-tight. She was very cautious about covid which I respect but she took it too far at times. She does know her way around yoga though so she was good at answering questions.",
-        "course": "KNSFHP119501"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "She was a weirdo. The class was easy but shes very self-important. I seriously could not stand her as a person.",
-        "course": "19501YOGA"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Her real name is Amy, but she goes by Beaker. Very relaxing personality and soothing voice. Just wants you to learn and love yoga. She wants you to get something out of each class and the course as a whole. VERY caring and sympathetic. Go to class and you're fine (you can miss 2 if necessary).",
-        "course": "KNSFHP119501"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Beaker is really awesome. I wouldn't recommend taking this class if you don't care about yoga or mindfulness, but if you do have some interest and an open mind you can really benefit a lot from this class. In order to pass you can only miss a couple of classes but the two hours go by really quickly.",
-        "course": "KNSFHP119501"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Don't take this class if you want it to just be a bullcrap activity class, like it should be.  She tries to make this gym class into an actual class. During class, she says so much hippie bs that I had to refrain from laughing a few times. She needs to realize it's is a bs class, not an actual academic class. No matter how much she wants it to be.",
-        "course": "YOGA1"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Beaker is AMAZING. I took her Body/Mind Course in the fall and still can't get over it. I wrote the previous comment, but I've changed my mind completely. Beaker is funny, interesting, smart, and insightful. She will  make sure you walk away from class feeling like it was worth it. Minimal homework (only reading). Easy exam, final project.",
-        "course": "EDUPL2241"
-      },
-      {
-        "index": 11,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Beaker is one of the most fascinating women I've ever met. I enjoyed her some days, hated her most others. She speaks in an elevated manner, and is VERY into the whole \"body/mind\" connection. Beaker is strange, but it's necessary for the course to flow superflously. Only take this course if you have a true interest. Otherwise, jump ship.",
-        "course": "EDUPL2241"
-      },
-      {
-        "index": 12,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Beaker is really nice. She's very strange, but not in a bad way. Those expecting to take Yoga as a BS class will be in for a wake up call. You actually have to do stuff. :P It's still easy though. She's kind of unclear on how long your journal entries have to be, but I wrote about 3/4 page for each of mine, and I got a perfect grade.",
-        "course": "YOGA1"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Beaker is awesome! Good if you prefer a lower-key workout focusing more on bodily awareness than aerobics, though she did still kick it up a notch during each class. At times let us Sun Salutation at our own pace. I had H1N1 this quarter, and she really worked with me to make up missed classes so I could still get an 'A', even during the last week.",
-        "course": "YOGA2"
-      },
-      {
-        "index": 14,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "This class was so different from my yoga 1 class that I couldn't stand it. Beaker obviously knows how to teach but she didn't teach what most of us wanted to know. We spent too much time not doing anything (literally, sometimes) instead of actually getting a good yoga workout in. I wouldn't take another class from her.",
-        "course": "YOGA2"
-      },
-      {
-        "index": 15,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Beaker is indubitably sweet and caring. She has put much work into organizing this course (possibly superfluously.) Don't take things too seriously, but keep an open mind and listen to what she is saying more than focusing on the guided lecture notes.  Beaker's pleasant personality will help you through the quarter. Integral yoga interest necessary",
-        "course": "EDPAE601A"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "kind of odd teacher but in the cool kinda way, prolly the reason she teaches yoga. loved the relaxation part at the end of class, i often was close to falling asleep but in yoga its a good thing as opposed to falling asleep in any other class.",
-        "course": "YOGA1"
-      },
-      {
-        "index": 17,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "MOvement and Self Awareness class is a very odd class",
-        "course": "EDU168"
-      },
-      {
-        "index": 18,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "She is very nice! She is all about listening to your body and the last part of class is spent simply relaxing.",
-        "course": "19501YOGA"
-      },
-      {
-        "index": 19,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "She is alot of fun.  She will remind you of a kindergarden teacher with her enthusiasm.  All in all, a very relaxing and laid back class.",
-        "course": "EDU195"
-      },
-      {
-        "index": 20,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "No Comments",
-        "course": "EDU"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "yoga teacher she's awesome",
-        "course": "EDPL100"
-      },
-      {
-        "index": 22,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "She taught the first social dance class.  It was lots of fun, but that Steve guy who also teaches and was our substitute one day is a better teacher.  Beaker's a little strange, but she's nice.",
-        "course": "EDUPAES153"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 1,
     "avgRating": 5,
     "department": "Physical Ed",
@@ -1087,40 +1641,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 2.3,
-    "avgRating": 4.8,
-    "department": "Physical Ed",
-    "firstName": "Sue",
-    "id": "VGVhY2hlci04MjU5MDc=",
-    "lastName": "Sutherland",
-    "legacyId": 825907,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "very good professor !",
-        "course": "EDUPA245"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Very professional in the classroom, very personal outside of class. Exactly what you want out of a professor. I never got less than an A in her classes because she motivated students well. I will miss having Dr. Sutherland for class!",
-        "course": "MANY000"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Great teacher.  Voice is very soothing and lectures almost put you to sleep because of her voice.  But, she is knows what she is talking about and is an awesome professor.  Look her up and take her classes!",
-        "course": "PAES307"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.9,
     "avgRating": 2.2,
     "department": "Physical Ed",
@@ -1283,47 +1803,6 @@
         "difficulty": 3,
         "comment": "Very funny and interesting",
         "course": "PAES531"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.3,
-    "avgRating": 4.3,
-    "department": "Physical Ed",
-    "firstName": "Jackie",
-    "id": "VGVhY2hlci04MjU5MDI=",
-    "lastName": "Goodway",
-    "legacyId": 825902,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Goodway is such an inspirational and interesting teacher. She does everything she can to make sure students understand the coursework; willing to give extra credit so students receive good grades as long as they udnerstand the material.",
-        "course": "KNPE"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "not helpful, not interested in educating anyone but those that can help her get published...worst educational experience of my life",
-        "course": "GRAD900"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "I loved Dr. Goodway. Wish I could have her for another class.",
-        "course": "EDU542"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Spoon feeds you through the curriculum.  Is willing to make adjustments, but is very specific with what is expected!  Highly suggest taking a class with this professor!",
-        "course": "PAES74068901"
       }
     ],
     "SEI": []

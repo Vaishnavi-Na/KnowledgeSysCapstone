@@ -1,120 +1,5 @@
 [
   {
-    "avgDifficulty": 1.5,
-    "avgRating": 3.5,
-    "department": "Academic Services",
-    "firstName": "Huy",
-    "id": "VGVhY2hlci0yNjgzODcx",
-    "lastName": "Nguyen",
-    "legacyId": 2683871,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Professor Nguyen is a professor , Ive learned a lot on his class and he is open to help and listen to his students. Also he gives extra time to finish homework assignments and extra credit.",
-        "course": "ESEPSY1259"
-      },
-      {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "its an easy A, but the class is the equivalent of telling a depressed person to not be sad. I didnt learn any new study strategies, or become a better student. Just wasted my Tuesday and Thursday Afternoons. in person during covid which made me anxious. Prof hated zoom and would not let you use it. for a well being class there wasnt a lot of care.",
-        "course": "ESEPSY1259"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 1,
-    "department": "Academic Services",
-    "firstName": "Robert",
-    "id": "VGVhY2hlci0yNzQzMTIz",
-    "lastName": "Decatur",
-    "legacyId": 2743123,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "This entire class was comprised of soft-spoken lectures that no one could hear or understand. All students just went on their phones or computers as he spoke. He is also an incredibly harsh grader but doesn't tell you why you get what you get. He just puts a number on it. Everyone I know in class is really disappointed with how it ended up being.",
-        "course": "DSSJ35565"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 5,
-    "department": "Academic Services",
-    "firstName": "Joanna",
-    "id": "VGVhY2hlci0yMjI2NzI4",
-    "lastName": "Spanos",
-    "legacyId": 2226728,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Joanna is super funny and caring and she's a great advisor!! Sorry to say that survey class is boring but it does help you figure out your schedule. Joanna really helps you plan out everything.",
-        "course": "ASC1100"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Joanna is extremely good at her job; she knows an insane amount of course codes off of the top of her head and definitely knows what shes doing. Shes a great advisor and survey with her is as fun as a survey course can be.",
-        "course": "SURVEY1100H"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Great adviser and does a great job teaching survey!",
-        "course": "SURVEY1000H"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I LOVE JOANNA! She is a great advisor and always willing to help. Her office is always open (during walk-ins or if you schedule an appt). She is funny and caring. Helpful when scheduling and planning ahead becomes stressful. Survey is required so why not take it with the best advisor ever?!?!",
-        "course": "SURVEY1100H"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 5,
-    "department": "Academic Services",
-    "firstName": "Zac",
-    "id": "VGVhY2hlci0yNjU4MTEx",
-    "lastName": "Patterson",
-    "legacyId": 2658111,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Zac is fire. Super laid back, cares about us STEM scholars and is always trying to give us opportunities. Plus he gets us food! ",
-        "course": "ARTSSCI1120"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "great person, very calm and just overall has a great energy",
-        "course": "ARTSSCI1120"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 1,
     "avgRating": 4.3,
     "department": "Academic Services",
@@ -146,7 +31,400 @@
         "course": "ARTSSCI1137"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1137",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "24414",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "BIOMSCI",
+        "Catalog": "3891H",
+        "Class Name": "Biomedical Science Research Experience I",
+        "Class Number": "1044",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "BIOMSCI",
+        "Catalog": "3892H",
+        "Class Name": "Biomedical Science Research Experience II",
+        "Class Number": "2795",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "BIOMSCI",
+        "Catalog": "N/A",
+        "Class Name": "Biomedical Science Research Experience II",
+        "Class Number": "2800",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOMSCI",
+        "Catalog": "3891H",
+        "Class Name": "Biomedical Science Research Experience I",
+        "Class Number": "1161",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOMSCI",
+        "Catalog": "3892H",
+        "Class Name": "Biomedical Science Research Experience II",
+        "Class Number": "2787",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOMSCI",
+        "Catalog": "3892H",
+        "Class Name": "Biomedical Science Research Experience II",
+        "Class Number": "2737",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "4790",
+        "Class Name": "Exploring Medical Care Delivery and Education from a Global View",
+        "Class Number": "23351",
+        "Term": "SU 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2220",
+        "Class Name": "Introduction to Biomedical and Healthcare Research",
+        "Class Number": "33662",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2225",
+        "Class Name": "Biomedical and Healthcare Research Journal Club",
+        "Class Number": "33663",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "3998",
+        "Class Name": "Design, Analysis & Dissemination of Biomedical and Healthcare Research",
+        "Class Number": "33658",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "4660E",
+        "Class Name": "Primary Care Across Countries",
+        "Class Number": "3178",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "7300",
+        "Class Name": "Seminar: Competency-Based Medical Education",
+        "Class Number": "2888",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "N/A",
+        "Class Name": "Primary Care Across Countries",
+        "Class Number": "35224",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2220",
+        "Class Name": "Introduction to Biomedical and Healthcare Research",
+        "Class Number": "35631",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "3998",
+        "Class Name": "Design, Analysis & Dissemination of Biomedical and Healthcare Research",
+        "Class Number": "35218",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "6300",
+        "Class Name": "Primary Care Delivery across the Globe",
+        "Class Number": "35231",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2225",
+        "Class Name": "Biomedical and Healthcare Research Journal Club",
+        "Class Number": "35532",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "7400",
+        "Class Name": "Assessment For Competency Based Medical Education",
+        "Class Number": "3184",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "4790",
+        "Class Name": "Exploring Medical Care Delivery and Education from a Global View",
+        "Class Number": "23722",
+        "Term": "SU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "3998",
+        "Class Name": "Design, Analysis & Dissemination of Biomedical and Healthcare Research",
+        "Class Number": "3332",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "4660E",
+        "Class Name": "Primary Care Across Countries",
+        "Class Number": "3333",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "4660",
+        "Class Name": "Primary Care Across Countries",
+        "Class Number": "34459",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "4660",
+        "Class Name": "Primary Care Across Countries",
+        "Class Number": "34460",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "4660",
+        "Class Name": "Primary Care Across Countries",
+        "Class Number": "36441",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "4660",
+        "Class Name": "Primary Care Across Countries",
+        "Class Number": "3423",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "4790",
+        "Class Name": "Exploring Medical Care Delivery and Education from a Global View",
+        "Class Number": "37023",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "7400",
+        "Class Name": "Assessment For Competency Based Medical Education",
+        "Class Number": "35306",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 1,
@@ -166,7 +444,288 @@
         "course": "EXP1100"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.01",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "11857",
+        "Term": "AU 20",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "40",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.01",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "34481",
+        "Term": "AU 20",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "41",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "2000",
+        "Class Name": "Major Exploration for Continuing Students",
+        "Class Number": "36027",
+        "Term": "AU 20",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.02",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "33895",
+        "Term": "SP 21",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "24878",
+        "Term": "AU 21",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.55"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "24928",
+        "Term": "AU 21",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "30",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "34238",
+        "Term": "AU 21",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "2000",
+        "Class Name": "Major Exploration for Continuing Students",
+        "Class Number": "24964",
+        "Term": "AU 21",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.02",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "34157",
+        "Term": "SP 22",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "2000",
+        "Class Name": "Major Exploration for Continuing Students",
+        "Class Number": "7614",
+        "Term": "SP 22",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "2000",
+        "Class Name": "Major Exploration for Continuing Students",
+        "Class Number": "7615",
+        "Term": "SP 22",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.01",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "28839",
+        "Term": "AU 22",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.01",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "28964",
+        "Term": "AU 22",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.96"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "2000",
+        "Class Name": "Major Exploration for Continuing Students",
+        "Class Number": "28903",
+        "Term": "AU 22",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "2000",
+        "Class Name": "Major Exploration for Continuing Students",
+        "Class Number": "30651",
+        "Term": "SP 23",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "2000",
+        "Class Name": "Major Exploration for Continuing Students",
+        "Class Number": "30652",
+        "Term": "SP 23",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.02",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "22349",
+        "Term": "SU 23",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.01",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "31583",
+        "Term": "AU 23",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.01",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "31630",
+        "Term": "AU 23",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "2000",
+        "Class Name": "Major Exploration for Continuing Students",
+        "Class Number": "31653",
+        "Term": "AU 23",
+        "College": "Office of Academic Affairs",
+        "Department": "Transition and Academic Growth",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 1,
@@ -228,7 +787,498 @@
         "course": "ARTSC2000"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120",
+        "Class Name": "Humanities Scholars Seminar",
+        "Class Number": "18732",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120",
+        "Class Name": "Humanities Scholars Seminar",
+        "Class Number": "21441",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120.03",
+        "Class Name": "Humanities Scholars Seminar",
+        "Class Number": "22416",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.61"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120.03",
+        "Class Name": "Humanities Scholars Seminar",
+        "Class Number": "24929",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120.03",
+        "Class Name": "Humanities Scholars Seminar",
+        "Class Number": "24950",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120.03",
+        "Class Name": "Humanities Scholars Seminar",
+        "Class Number": "27296",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1.6,
+    "avgRating": 4.4,
+    "department": "Academic Services",
+    "firstName": "Lorraine",
+    "id": "VGVhY2hlci01NDY5OTE=",
+    "lastName": "Pennyman",
+    "legacyId": 546991,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "The class was worthless but as a freshman you have to take it. Lorraine does an okay job but it is a boring class so that could be why I think so.",
+        "course": "BUSAD100"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Best teacher and advisor in the world! Seriously!",
+        "course": "BADM100"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is a great teacher, very helpful and really cares about students. go to the class, its easy if you go + attendance is required. an easy A",
+        "course": "BUS100G"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "i LOVE Lorraine. Even though this is just a survery class, she is so helpful and so dedicated to her students. She is also really young and funny so lectures are fine. YOU WANT HER!",
+        "course": "BUS100G"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Survey class: Go to class, some of the information is useful.  Easy if you show up to class and do the minimum amount of work.  Its pretty hard not to get an A or B",
+        "course": "BUS100"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "COS220"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Best instructor i've ever had.  I miss Lorraine!",
+        "course": "BUSINESSSURVEY"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "BUSADM",
+        "Catalog": "1101.04",
+        "Class Name": "Fisher First Seminar",
+        "Class Number": "4792",
+        "Term": "SP 21",
+        "College": "Business",
+        "Department": "Business Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "BUSADM",
+        "Catalog": "1101",
+        "Class Name": "Fisher First Seminar",
+        "Class Number": "36244",
+        "Term": "AU 21",
+        "College": "Business",
+        "Department": "Business Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "BUSADM",
+        "Catalog": "1101.01",
+        "Class Name": "Business Administration Seminar: Scholars",
+        "Class Number": "5162",
+        "Term": "AU 22",
+        "College": "Business",
+        "Department": "Business Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "34",
+        "Rating": "4.29"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Academic Services",
+    "firstName": "Joanna",
+    "id": "VGVhY2hlci0yMjI2NzI4",
+    "lastName": "Spanos",
+    "legacyId": 2226728,
+    "numRatings": 4,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Joanna is super funny and caring and she's a great advisor!! Sorry to say that survey class is boring but it does help you figure out your schedule. Joanna really helps you plan out everything.",
+        "course": "ASC1100"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Joanna is extremely good at her job; she knows an insane amount of course codes off of the top of her head and definitely knows what shes doing. Shes a great advisor and survey with her is as fun as a survey course can be.",
+        "course": "SURVEY1100H"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great adviser and does a great job teaching survey!",
+        "course": "SURVEY1000H"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I LOVE JOANNA! She is a great advisor and always willing to help. Her office is always open (during walk-ins or if you schedule an appt). She is funny and caring. Helpful when scheduling and planning ahead becomes stressful. Survey is required so why not take it with the best advisor ever?!?!",
+        "course": "SURVEY1100H"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100.01H",
+        "Class Name": "Arts and Sciences Survey: General (Honors)",
+        "Class Number": "13060",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100.01H",
+        "Class Name": "Arts and Sciences Survey: General (Honors)",
+        "Class Number": "20550",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100.01H",
+        "Class Name": "Arts and Sciences Survey: General (Honors)",
+        "Class Number": "26454",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100.01H",
+        "Class Name": "Arts and Sciences Survey: General (Honors)",
+        "Class Number": "18133",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100.01H",
+        "Class Name": "Arts and Sciences Survey: General (Honors)",
+        "Class Number": "18136",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.3"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100.01H",
+        "Class Name": "Arts and Sciences Survey: General (Honors)",
+        "Class Number": "29303",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.29"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Academic Services",
+    "firstName": "Zac",
+    "id": "VGVhY2hlci0yNjU4MTEx",
+    "lastName": "Patterson",
+    "legacyId": 2658111,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Zac is fire. Super laid back, cares about us STEM scholars and is always trying to give us opportunities. Plus he gets us food! ",
+        "course": "ARTSSCI1120"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "great person, very calm and just overall has a great energy",
+        "course": "ARTSSCI1120"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120.06",
+        "Class Name": "STEM Exploration & Engagement Scholars Seminar",
+        "Class Number": "28876",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "33",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120.06",
+        "Class Name": "STEM Exploration & Engagement Scholars Seminar",
+        "Class Number": "28877",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "30",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120.06",
+        "Class Name": "STEM Exploration & Engagement Scholars Seminar",
+        "Class Number": "28878",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.85"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 3.5,
+    "department": "Academic Services",
+    "firstName": "Huy",
+    "id": "VGVhY2hlci0yNjgzODcx",
+    "lastName": "Nguyen",
+    "legacyId": 2683871,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Nguyen is a professor , Ive learned a lot on his class and he is open to help and listen to his students. Also he gives extra time to finish homework assignments and extra credit.",
+        "course": "ESEPSY1259"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "its an easy A, but the class is the equivalent of telling a depressed person to not be sad. I didnt learn any new study strategies, or become a better student. Just wasted my Tuesday and Thursday Afternoons. in person during covid which made me anxious. Prof hated zoom and would not let you use it. for a well being class there wasnt a lot of care.",
+        "course": "ESEPSY1259"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "1259",
+        "Class Name": "Learning and Motivation Strategies for College Success",
+        "Class Number": "8913",
+        "Term": "SU 21",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.8"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 1,
+    "department": "Academic Services",
+    "firstName": "Robert",
+    "id": "VGVhY2hlci0yNzQzMTIz",
+    "lastName": "Decatur",
+    "legacyId": 2743123,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "This entire class was comprised of soft-spoken lectures that no one could hear or understand. All students just went on their phones or computers as he spoke. He is also an incredibly harsh grader but doesn't tell you why you get what you get. He just puts a number on it. Everyone I know in class is really disappointed with how it ended up being.",
+        "course": "DSSJ35565"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ACADAFF",
+        "Catalog": "2021",
+        "Class Name": "Diversity, Service and Social Justice: A Blueprint for Dynamic Leadership",
+        "Class Number": "36071",
+        "Term": "SP 21",
+        "College": "Office of Academic Affairs",
+        "Department": "Minority Affairs",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ACADAFF",
+        "Catalog": "2021",
+        "Class Name": "Diversity, Service and Social Justice: A Blueprint for Dynamic Leadership",
+        "Class Number": "35565",
+        "Term": "AU 21",
+        "College": "Office of Academic Affairs",
+        "Department": "Minority Affairs",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "3.32"
+      },
+      {
+        "Subject": "ACADAFF",
+        "Catalog": "2021",
+        "Class Name": "Diversity, Service and Social Justice: A Blueprint for Dynamic Leadership",
+        "Class Number": "29006",
+        "Term": "AU 22",
+        "College": "Office of Academic Affairs",
+        "Department": "Minority Affairs",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "30",
+        "Rating": "4.13"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.7,
@@ -364,68 +1414,6 @@
         "difficulty": 1,
         "comment": "Jamie is probably the one professor I dislike. I had her for my Survey class for exploration and she treats all her students like pre-schoolers. Beware. She also cannot stop smiling when she talks. Creepy at times",
         "course": "EXP101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.6,
-    "avgRating": 4.4,
-    "department": "Academic Services",
-    "firstName": "Lorraine",
-    "id": "VGVhY2hlci01NDY5OTE=",
-    "lastName": "Pennyman",
-    "legacyId": 546991,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "The class was worthless but as a freshman you have to take it. Lorraine does an okay job but it is a boring class so that could be why I think so.",
-        "course": "BUSAD100"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Best teacher and advisor in the world! Seriously!",
-        "course": "BADM100"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "She is a great teacher, very helpful and really cares about students. go to the class, its easy if you go + attendance is required. an easy A",
-        "course": "BUS100G"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "i LOVE Lorraine. Even though this is just a survery class, she is so helpful and so dedicated to her students. She is also really young and funny so lectures are fine. YOU WANT HER!",
-        "course": "BUS100G"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Survey class: Go to class, some of the information is useful.  Easy if you show up to class and do the minimum amount of work.  Its pretty hard not to get an A or B",
-        "course": "BUS100"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "COS220"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Best instructor i've ever had.  I miss Lorraine!",
-        "course": "BUSINESSSURVEY"
       }
     ],
     "SEI": []

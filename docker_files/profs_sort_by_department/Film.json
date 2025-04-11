@@ -1,6 +1,83 @@
 [
   {
     "avgDifficulty": 3,
+    "avgRating": 3.5,
+    "department": "Film",
+    "firstName": "Elizabeth",
+    "id": "VGVhY2hlci05NjExNTM=",
+    "lastName": "Angerman",
+    "legacyId": 961153,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "A GE SHOULD NOT BE THIS HARD. A LOT  OF WRITING INVOLVED ",
+        "course": "SLAVIC2230"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Angerman's Slavic film class is an excellent GEC. Her teaching style invites a lot of class participation. The movies were varied and always interesting. The reading material got kind of heavy at times, but nothing insurmountable. No surprises on tests assuming you paid attention during class and watched the movies. Recommend.",
+        "course": "SLA3360"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Excellent TA! Her class is the best class I have had at OSU. She is extremely well informed on the subject matter and offers  an interesting lecture. Her syllabus is extremely clear about what she expects from the student. She is also open minded and encourages critical thinking. The movies she chose were pretty cool too.",
+        "course": "FILM360"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Very easy.  You basically watch a movie one day, then discuss it in the next class.  The insructor does most of the talking, and when she asks questions you better respond or else she gets mad and threatens pop quizzes (never happened).  She makes the material sound demanding but in the end your grade won't reflect it (B-A range)",
+        "course": "RUSS360"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Very strict professor. Requires from you to be very precise in your answers and does not explain what you did wrong when grading your work. You have to go and talk to her in order to understand what exactly you did wrong. For a GEC course, it should not be this hard, you also feel very overwhelmed with the material. The only good thing is that out ",
+        "course": "RUSS360"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "SLAVIC",
+        "Catalog": "3310",
+        "Class Name": "Science Fiction: East vs. West",
+        "Class Number": "26787",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Slavic/East European Eurasian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3310",
+        "Class Name": "Science Fiction: East vs. West",
+        "Class Number": "27100",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.75"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
     "avgRating": 5,
     "department": "Film",
     "firstName": "David",
@@ -17,7 +94,134 @@
         "course": "MVNGIMG2202"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2201",
+        "Class Name": "Filmmaking Foundation I",
+        "Class Number": "23329",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "4501",
+        "Class Name": "Senior Project I",
+        "Class Number": "24297",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "21647",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "21648",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "4502",
+        "Class Name": "Senior Project II",
+        "Class Number": "23380",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "28054",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "27798",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "27799",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "THEATRE",
+        "Catalog": "5325",
+        "Class Name": "The Film Director's Voice",
+        "Class Number": "27623",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Theatre",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.4,
@@ -106,6 +310,180 @@
         "course": "ITALIAN2055"
       }
     ],
+    "SEI": [
+      {
+        "Subject": "HISTART",
+        "Catalog": "4541",
+        "Class Name": "17th-Century Art of Italy and Spain",
+        "Class Number": "37015",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "History of Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1103.03",
+        "Class Name": "Italian III Blended",
+        "Class Number": "22587",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "19456",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "2.5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "19458",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.03",
+        "Class Name": "Italian I Blended",
+        "Class Number": "27784",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.03",
+        "Class Name": "Italian I Blended",
+        "Class Number": "29957",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.63"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 5,
+    "department": "Film",
+    "firstName": "Charles",
+    "id": "VGVhY2hlci0xNjU3NjY1",
+    "lastName": "Williamson",
+    "legacyId": 1657665,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I looked forward to his classes. Amazing teacher all around. I learned so much about composition in this class, everything from narratives to annotated bibliographys. Would definatly take another course of his.",
+        "course": "ENG1100"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Super passionate and clearly knowledgeable about the content.  Class consisted of eleven quizzes, two scene analyses, and a final, which weren't bad at all.",
+        "course": "ENG263"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.1,
+    "avgRating": 3.9,
+    "department": "Film",
+    "firstName": "Robert",
+    "id": "VGVhY2hlci03NzA0MjE=",
+    "lastName": "Preissle",
+    "legacyId": 770421,
+    "numRatings": 7,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Great Professor.  Granted he makes you work hard in his classes but his wit and charm keep you interested and he always makes time to meet with students to discuss the course work.\r \r I took classes from him at Devry University also, he is one of the best instructors I had that was intelligent and really cared about learning.",
+        "course": "HUM460"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "He was a terrible teacher. The course covered society and technology. He had a modi****of internet ability. Often times he would flounder at the computer as the class attempted to help him browse google; google people, for god's sake, google. He offered little analysis worth thinking about and his exams asked nothing of the students. I give him an",
+        "course": "COMST597"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He's a good teacher, interesting in lectures. Distinctively dressed. Wit and charm. I'd recommend.",
+        "course": "COMPSTDIES358"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "I think it would be lot better, if the instructor is not trying to be smart and trick people in quizes and those long essay exams. I mean, if a student comes all classes, do all assignments, and a hard working person, then he/she should get a good grade. Because the person is doing the best it can!",
+        "course": "CS59701"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I like the materials in the class, I think it will help my future busness, but the notes are pain in the a**. The tests and quizes are hard and tricky, you have to really get in to R.Preissle's head to figure it out. lots of reading, papers, and notes. Good Luck who ever going to take his class!",
+        "course": "COMSTU59701"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Comp. Studies 597.01 was a very interesting class. Although the notes were a pain, Prof. Preissle was very good at keeping everyone interested and involved. I enjoyed his style of teaching (excluding the long notes).",
+        "course": "COMPSTD59701"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "I had Preissle for my film and lit class and I thought it was a really fun class to take.  There are weekly papers (2 pgs) and quizzes (15 Qs,mult. ch.) but it's VERY easy to get 100%s on all of them.  The course paper (not a research paper) is also easy, 6 pages, i wrote it in 2 hours. You just have to study for his essay midterm and final.",
+        "course": "COMPSTD358"
+      }
+    ],
     "SEI": []
   },
   {
@@ -186,143 +564,6 @@
         "difficulty": 4,
         "comment": "She does not make a rubric for any of her assignments.   She is in a bad mood every day.  looking at her makes me think I should have never gone to college.",
         "course": "FS4895"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.5,
-    "avgRating": 5,
-    "department": "Film",
-    "firstName": "Charles",
-    "id": "VGVhY2hlci0xNjU3NjY1",
-    "lastName": "Williamson",
-    "legacyId": 1657665,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I looked forward to his classes. Amazing teacher all around. I learned so much about composition in this class, everything from narratives to annotated bibliographys. Would definatly take another course of his.",
-        "course": "ENG1100"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Super passionate and clearly knowledgeable about the content.  Class consisted of eleven quizzes, two scene analyses, and a final, which weren't bad at all.",
-        "course": "ENG263"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 3.5,
-    "department": "Film",
-    "firstName": "Elizabeth",
-    "id": "VGVhY2hlci05NjExNTM=",
-    "lastName": "Angerman",
-    "legacyId": 961153,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "A GE SHOULD NOT BE THIS HARD. A LOT  OF WRITING INVOLVED ",
-        "course": "SLAVIC2230"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Angerman's Slavic film class is an excellent GEC. Her teaching style invites a lot of class participation. The movies were varied and always interesting. The reading material got kind of heavy at times, but nothing insurmountable. No surprises on tests assuming you paid attention during class and watched the movies. Recommend.",
-        "course": "SLA3360"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Excellent TA! Her class is the best class I have had at OSU. She is extremely well informed on the subject matter and offers  an interesting lecture. Her syllabus is extremely clear about what she expects from the student. She is also open minded and encourages critical thinking. The movies she chose were pretty cool too.",
-        "course": "FILM360"
-      },
-      {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Very easy.  You basically watch a movie one day, then discuss it in the next class.  The insructor does most of the talking, and when she asks questions you better respond or else she gets mad and threatens pop quizzes (never happened).  She makes the material sound demanding but in the end your grade won't reflect it (B-A range)",
-        "course": "RUSS360"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Very strict professor. Requires from you to be very precise in your answers and does not explain what you did wrong when grading your work. You have to go and talk to her in order to understand what exactly you did wrong. For a GEC course, it should not be this hard, you also feel very overwhelmed with the material. The only good thing is that out ",
-        "course": "RUSS360"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.1,
-    "avgRating": 3.9,
-    "department": "Film",
-    "firstName": "Robert",
-    "id": "VGVhY2hlci03NzA0MjE=",
-    "lastName": "Preissle",
-    "legacyId": 770421,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Great Professor.  Granted he makes you work hard in his classes but his wit and charm keep you interested and he always makes time to meet with students to discuss the course work.\r \r I took classes from him at Devry University also, he is one of the best instructors I had that was intelligent and really cared about learning.",
-        "course": "HUM460"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "He was a terrible teacher. The course covered society and technology. He had a modi****of internet ability. Often times he would flounder at the computer as the class attempted to help him browse google; google people, for god's sake, google. He offered little analysis worth thinking about and his exams asked nothing of the students. I give him an",
-        "course": "COMST597"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He's a good teacher, interesting in lectures. Distinctively dressed. Wit and charm. I'd recommend.",
-        "course": "COMPSTDIES358"
-      },
-      {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "I think it would be lot better, if the instructor is not trying to be smart and trick people in quizes and those long essay exams. I mean, if a student comes all classes, do all assignments, and a hard working person, then he/she should get a good grade. Because the person is doing the best it can!",
-        "course": "CS59701"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I like the materials in the class, I think it will help my future busness, but the notes are pain in the a**. The tests and quizes are hard and tricky, you have to really get in to R.Preissle's head to figure it out. lots of reading, papers, and notes. Good Luck who ever going to take his class!",
-        "course": "COMSTU59701"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Comp. Studies 597.01 was a very interesting class. Although the notes were a pain, Prof. Preissle was very good at keeping everyone interested and involved. I enjoyed his style of teaching (excluding the long notes).",
-        "course": "COMPSTD59701"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "I had Preissle for my film and lit class and I thought it was a really fun class to take.  There are weekly papers (2 pgs) and quizzes (15 Qs,mult. ch.) but it's VERY easy to get 100%s on all of them.  The course paper (not a research paper) is also easy, 6 pages, i wrote it in 2 hours. You just have to study for his essay midterm and final.",
-        "course": "COMPSTD358"
       }
     ],
     "SEI": []

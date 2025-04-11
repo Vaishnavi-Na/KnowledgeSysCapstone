@@ -1,5 +1,3229 @@
 [
   {
+    "avgDifficulty": 3,
+    "avgRating": 2.3,
+    "department": "Design",
+    "firstName": "Sapna",
+    "id": "VGVhY2hlci0yMzQ0Njky",
+    "lastName": "Singh",
+    "legacyId": 2344692,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Tough class.",
+        "course": "DESIGN3105"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "shes the goat ",
+        "course": "DESIGN3105"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Sapna Singh is a Design Professor at The Ohio State University. To start, participation/attendance is mandatory and she is extremely difficult to understand and learn from. She is very rude when dealing with problems that occur inside or outside of the classroom. Her lectures are very boring and haven't been updated since 2007. Be cautious with her",
+        "course": "DESIGN3105"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Design",
+    "firstName": "Liz",
+    "id": "VGVhY2hlci0zMDQ3MTQ2",
+    "lastName": "Hejny",
+    "legacyId": 3047146,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very knowledgable and helpful! Provides great feedback and is generally accessible outside of class for any issues. If you're reading this the class is probably required for you anyway but you'll have a good time!",
+        "course": "DESIGN3403"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Design",
+    "firstName": "Zach",
+    "id": "VGVhY2hlci0yNjg0MDgx",
+    "lastName": "Winegardner",
+    "legacyId": 2684081,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Zach is extremely personable and helpful in his feedback--perfect for students just starting in design. He's quirky but super fun to be in class with and explains everything clearly and thoroughly! Loved taking his class.",
+        "course": "DESIGN3105"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "New and young professor. Sometimes he is unorganized and his presentations are long but he is a very good professor.",
+        "course": "DESIGN3105"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 4.5,
+    "department": "Design",
+    "firstName": "Scott",
+    "id": "VGVhY2hlci0yMzYzOTQz",
+    "lastName": "Swearingen",
+    "legacyId": 2363943,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Prof. Swearingen is a great professor that really cares for his students and the practice. The environment he creates is really creative, though there is an unfortunate lack of structure. Often I felt I was learning more from my personal struggles than from Scott as a teacher. Still a great course, just don't expect step by step learning.",
+        "course": "DESIGN4104"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "My time with Prof. Swearingen was truly inspiring. I've never taken a course this open and creative before, it was an amazing experience. If you have an interest in learning game design, be it traditional or otherwise, this is a great place to start.",
+        "course": "DESIGN3104"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ACCAD",
+        "Catalog": "6003",
+        "Class Name": "Computer Game Art and Design II",
+        "Class Number": "20000",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5500",
+        "Class Name": "Integrated Tech Lab",
+        "Class Number": "22692",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "6002",
+        "Class Name": "Computer Game Art and Design I",
+        "Class Number": "11044",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3104",
+        "Class Name": "Introduction to Game Design",
+        "Class Number": "24438",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4104",
+        "Class Name": "Intermediate Game Design I",
+        "Class Number": "26148",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4650",
+        "Class Name": "Collaborative Design",
+        "Class Number": "34418",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3104",
+        "Class Name": "Introduction to Game Design",
+        "Class Number": "22460",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4104",
+        "Class Name": "Intermediate Game Design I",
+        "Class Number": "24169",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4154",
+        "Class Name": "Intermediate Game Design II",
+        "Class Number": "23870",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4650",
+        "Class Name": "Collaborative Design",
+        "Class Number": "12465",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3104",
+        "Class Name": "Introduction to Game Design",
+        "Class Number": "25824",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4104",
+        "Class Name": "Intermediate Game Design I",
+        "Class Number": "27031",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4104",
+        "Class Name": "Intermediate Game Design I",
+        "Class Number": "35671",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4154",
+        "Class Name": "Intermediate Game Design II",
+        "Class Number": "29027",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4104",
+        "Class Name": "Intermediate Game Design I",
+        "Class Number": "29129",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "6400",
+        "Class Name": "Graduate Design Studio",
+        "Class Number": "27682",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4104",
+        "Class Name": "Intermediate Game Design I",
+        "Class Number": "30463",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4154",
+        "Class Name": "Intermediate Game Design II",
+        "Class Number": "28529",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.75"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 2.5,
+    "department": "Design",
+    "firstName": "Oscar",
+    "id": "VGVhY2hlci0yNTM3Njg0",
+    "lastName": "Fernandez",
+    "legacyId": 2537684,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Really easy, but interesting class. If you show up and pay attention, youll have no issues doing really well in the class.",
+        "course": "DSGN2700"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Super Arbitrary Grading and he does the same presentation slides every day in a different order, as if we haven't seen them before. But this isn't reviewing because the lecture isn't helpful.",
+        "course": "DESIGN2700"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3103",
+        "Class Name": "Introduction to Visual Communication Design I",
+        "Class Number": "12649",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.3,
+    "avgRating": 1.6,
+    "department": "Design",
+    "firstName": "Kurt",
+    "id": "VGVhY2hlci0yMDU3Njk5",
+    "lastName": "Shade",
+    "legacyId": 2057699,
+    "numRatings": 9,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "One of the worst professors that I have ever had while at Ohio State. Directions and expectations for the assignments are never clear and you spend the entirety of his lectures asking questions about them to which he answers vaguely and with a condescending tone. Lectures are not organized and do not have a clear central idea. Avoid if you can.",
+        "course": "DESIGN3305"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "The most unclear teacher I have ever had. His directions never make sense. Most class time is spent with him answering students' questions about his unclear directionsand still they don't make sense. He then forces students to present, and gets upset when his directions were not followed perfectly. I am yet to learn something in his class.",
+        "course": "DESIGN3305"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Homework assignments &amp; projects are vague with no clarity whatsoever. You need to ask multiple times in order to get some distinct answer. Gives condescending nonverbals when your presentation doesn't match his criteria. Double check your system grades because it might not match his inputted grades are. Don't take his classes unless you need it.",
+        "course": "DESIGN3305"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Spends class reading directly off lecture slides and provides no insight or additional information. Projects and homework assignments are vague and it often takes several questions from multiple people in class before clarity is provided. His logic regarding student participation is often weirdly wrong. Dont take this class if you dont have to",
+        "course": "DESIGN3305"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "some assignments can be unclear but Kurt will always clarify assignments if asked. He pushes his students to do their best work. Lectures can be unclear of what direction they are going but he always has a point to what he is showing or has you do. Always offers constructive feedback and has you identify your own strengths and weaknesses.",
+        "course": "DES4405"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "awful experience in his class,  worst teacher i've ever met.  can't understand his point   :(      what he read to us, we have learned in another design class. everytime i take this class, it makes me wonder why i am here!!!!",
+        "course": "DESIGN2110"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "He would stay after class to help you with your work. He also is very helpful when you ask him to clarify on how certain assignments should be done. I highly recommend him if you have a good sense of humor and are willing to ask questions.",
+        "course": "DESIGN2110"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Unprepared, disorganized, unclear. Shows up late frequently after the first day when he locked students out of the classroom that weren't there on time. Incredibly rude and disrespectful. Doesn't even look at the assignments or lectures (by someone else) before he gives them, and then just reads them to us. ",
+        "course": "DESIGN2110"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Not respected. First day of class said he had a \"pet peeve\" for people being late. Second day of class walks in 10 minutes late. Very unclear instructions",
+        "course": "DESIGN2110"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3305",
+        "Class Name": "Visualization as Thinking",
+        "Class Number": "14619",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "3.42"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3305",
+        "Class Name": "Visualization as Thinking",
+        "Class Number": "23759",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3305",
+        "Class Name": "Visualization as Thinking",
+        "Class Number": "12643",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3305",
+        "Class Name": "Visualization as Thinking",
+        "Class Number": "17885",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "3.21"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 1.5,
+    "department": "Design",
+    "firstName": "Sara",
+    "id": "VGVhY2hlci0yNTI2NDM2",
+    "lastName": "Hardy",
+    "legacyId": 2526436,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "I genuinely liked Sara as a person and she was helpful when approached in class, but she was uninterested in teaching. Difficult to contact by email and cancelled class frequently (but don't skip or you'll fail). She knows her stuff and is good at it, but can't teach it effectively. I taught myself a lot and had to work extremely hard for the A.",
+        "course": "DESIGN3400"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "The worst professor Ive ever encountered. Enough said. She is the most unorganized person and is very unprofessional. Clearly not interested in teaching. Left wondering what exactly I paid for bc I taught myself everything.",
+        "course": "DESIGN3400"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3400.02",
+        "Class Name": "Design Media I for Interior Design",
+        "Class Number": "22715",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "2.71"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Design",
+    "firstName": "Jeffrey",
+    "id": "VGVhY2hlci0yNTUxNDU5",
+    "lastName": "Haase",
+    "legacyId": 2551459,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Jeff is a genuinely awesome professor. His projects were interesting and challenging, and he gave a ton of great feedback throughout the entire semester to make sure everyone was on the right track. He's goofy and understanding and made this extremely long class manageable, but didn't grade anything all semester so I had no idea what my grade was.",
+        "course": "DESIGN3102"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1138.01",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "37608",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4750",
+        "Class Name": "Professional Practices",
+        "Class Number": "18262",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5552",
+        "Class Name": "Interior Design Technology IV",
+        "Class Number": "18342",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3102",
+        "Class Name": "Introduction to Interior Design I",
+        "Class Number": "12647",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4502",
+        "Class Name": "Interior Design Technology II",
+        "Class Number": "12655",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4750",
+        "Class Name": "Professional Practices",
+        "Class Number": "12390",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5552",
+        "Class Name": "Interior Design Technology IV",
+        "Class Number": "12470",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3102",
+        "Class Name": "Introduction to Interior Design I",
+        "Class Number": "16625",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.17"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4502",
+        "Class Name": "Interior Design Technology II",
+        "Class Number": "16633",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4650",
+        "Class Name": "Collaborative Design",
+        "Class Number": "18979",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5552",
+        "Class Name": "Interior Design Technology IV",
+        "Class Number": "18982",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5650",
+        "Class Name": "Advanced Collaborative Design",
+        "Class Number": "30190",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3102",
+        "Class Name": "Introduction to Interior Design I",
+        "Class Number": "19504",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4502",
+        "Class Name": "Interior Design Technology II",
+        "Class Number": "19512",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "3.1"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4750",
+        "Class Name": "Professional Practices",
+        "Class Number": "36338",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5552",
+        "Class Name": "Interior Design Technology IV",
+        "Class Number": "19333",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Design",
+    "firstName": "Camille",
+    "id": "VGVhY2hlci0zMDg1MTkx",
+    "lastName": "Snyder",
+    "legacyId": 3085191,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Super great, gives helpful feedback, and is very clear about project expectations. The class can be heavy but she is very gracious with classwork time and extensions if needed. Overall, I would take it again. ",
+        "course": "2330"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3200",
+        "Class Name": "Design Research I",
+        "Class Number": "19497",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3200",
+        "Class Name": "Design Research I",
+        "Class Number": "30516",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.53"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1.3,
+    "avgRating": 3.3,
+    "department": "Design",
+    "firstName": "Madison",
+    "id": "VGVhY2hlci0yNjY5NDY1",
+    "lastName": "Sabatelli",
+    "legacyId": 2669465,
+    "numRatings": 6,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Easiest non-CSE tech elective so far. No midterms, no final exam, and honestly, very doable with other heavy lifting courses. ",
+        "course": "DESIGN2700"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "There is about a 45-minute lecture and little work otherwise.  Each week takes about 1-2 hours which is great for a fully online 3 credit class.  The class is easy and there is extra credit.  Some of the topics are interesting, so if you put the lectures at 1.5x speed, it'll be a good class either for the minor or GE.",
+        "course": "DESIGN2700"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Inconsiderate and ignored emails  ",
+        "course": "DESIGN2700"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "A very easy course, that doesn't contain much practical information. The lectures were pretty long for the messages they were trying to get across, and I usually would just go through the slides quickly on my own. Not very much work in the course, with weekly quizzes and only two essays, so I would recommend if you need easy credit. ",
+        "course": "DESIGN2700"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Extremely manageable course. Madison is understanding and flexible. Coursework consists of a weekly quiz or discussion post and 2 larger assignments (essays around 1500-2000 words). Interesting and useful content.",
+        "course": "DESIGN2700"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I took this class as a part of the Entrepreneurship and Innovation minor, and found it surprisingly enjoyable despite not being my particular field of interest because the class also focuses on designing students future career paths. The class has 2 lectures, a mini quiz, and a discussion post per week, and two papers throughout the class.",
+        "course": "DESIGN2700"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2700",
+        "Class Name": "Introduction to Design Practice",
+        "Class Number": "14615",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "87",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2700",
+        "Class Name": "Introduction to Design Practice",
+        "Class Number": "23754",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "72",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2700",
+        "Class Name": "Introduction to Design Practice",
+        "Class Number": "12639",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "88",
+        "Rating": "4.28"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3400",
+        "Class Name": "Design Media I for Interior Design",
+        "Class Number": "20738",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2700",
+        "Class Name": "Introduction to Design Practice",
+        "Class Number": "17880",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "73",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3450.02",
+        "Class Name": "Design Media II for Interior Design",
+        "Class Number": "17877",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3552",
+        "Class Name": "Interior Design Technology I",
+        "Class Number": "12460",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2700",
+        "Class Name": "Introduction to Design Practice",
+        "Class Number": "16617",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "98",
+        "Rating": "4.23"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2700",
+        "Class Name": "Introduction to Design Practice",
+        "Class Number": "36934",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Marion Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MRN",
+        "Class Size": "L",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3400.02",
+        "Class Name": "Design Media I for Interior Design",
+        "Class Number": "24325",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.33"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2700",
+        "Class Name": "Introduction to Design Practice",
+        "Class Number": "23883",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "58",
+        "Rating": "4.31"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3151",
+        "Class Name": "Introduction to Industrial Design II",
+        "Class Number": "18970",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.44"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3452",
+        "Class Name": "Design Media II for Interior Design",
+        "Class Number": "23880",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.1"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3552",
+        "Class Name": "Interior Design Technology I",
+        "Class Number": "18975",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2700",
+        "Class Name": "Introduction to Design Practice",
+        "Class Number": "19496",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "71",
+        "Rating": "4.01"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2700",
+        "Class Name": "Introduction to Design Practice",
+        "Class Number": "31180",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "L",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3402",
+        "Class Name": "Design Media I for Interior Design",
+        "Class Number": "26760",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.83"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2700",
+        "Class Name": "Introduction to Design Practice",
+        "Class Number": "24023",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "46",
+        "Rating": "4.11"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3151",
+        "Class Name": "Introduction to Industrial Design II",
+        "Class Number": "19321",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3452",
+        "Class Name": "Design Media II for Interior Design",
+        "Class Number": "24020",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3552",
+        "Class Name": "Interior Design Technology I",
+        "Class Number": "19326",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 2.4,
+    "department": "Design",
+    "firstName": "Emily",
+    "id": "VGVhY2hlci0yNDYzNzU2",
+    "lastName": "Valentine",
+    "legacyId": 2463756,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Save yourself and try to get another design professor definitely the worst professor I've ever had!",
+        "course": "DESIGN2310"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Confusing feedback. Grades fair if you are a 2nd or 3rd year student, I do NOT recommend her for foundations courses unless you already have design experience. Nice, but you HAVE to talk to her frequently and have extensive details on your process post to get a good grade( its not extensive, but for someone from a technical major it feels like it).",
+        "course": "DESIGN2310"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Emily's grading is pretty tough but she is very helpful IF YOU ASK FOR IT. Feedback can sometimes be confusing from her but she has proven very caring and helpful if you ask to meet with her.",
+        "course": "DES2130"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I am a junior and she is definitely my least favorite professor I have had. She does not value creativity and grades very inaccurately. Her personal artwork is very poor so I think it is just a reflection of how she views others art. I would highly recommend taking Zach Winegard's design instead. He teaches the same course and totally ROCKS!!",
+        "course": "DESIGN2310"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Emily can be unwavering, but she teaches design well and responds to emails quickly.",
+        "course": "DES2130"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3505",
+        "Class Name": "Presentation as Thinking",
+        "Class Number": "23361",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2130",
+        "Class Name": "Design Fundamentals III",
+        "Class Number": "23742",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3152",
+        "Class Name": "Introduction to Interior Design II",
+        "Class Number": "18328",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4152",
+        "Class Name": "Intermediate Interior Design II",
+        "Class Number": "23756",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3105",
+        "Class Name": "Exploring Design Thinking",
+        "Class Number": "18898",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2110",
+        "Class Name": "Design Fundamentals I",
+        "Class Number": "12711",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.08"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2110",
+        "Class Name": "Design Fundamentals I",
+        "Class Number": "24516",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5502",
+        "Class Name": "Interior Design Technology III",
+        "Class Number": "18765",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2130",
+        "Class Name": "Design Fundamentals III",
+        "Class Number": "17868",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3152",
+        "Class Name": "Introduction to Interior Design II",
+        "Class Number": "12456",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4152",
+        "Class Name": "Intermediate Interior Design II",
+        "Class Number": "17882",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3105",
+        "Class Name": "Exploring Design Thinking",
+        "Class Number": "18976",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2110",
+        "Class Name": "Design Fundamentals I",
+        "Class Number": "16687",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "3.64"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2110",
+        "Class Name": "Design Fundamentals I",
+        "Class Number": "27259",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.3"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2310",
+        "Class Name": "Visual Principles and Techniques I",
+        "Class Number": "27260",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2130",
+        "Class Name": "Design Fundamentals II",
+        "Class Number": "23871",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.42"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3152",
+        "Class Name": "Introduction to Interior Design II",
+        "Class Number": "18971",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4152",
+        "Class Name": "Intermediate Interior Design II",
+        "Class Number": "23885",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3105",
+        "Class Name": "Exploring Design Thinking",
+        "Class Number": "18897",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2110",
+        "Class Name": "Design Fundamentals I",
+        "Class Number": "19566",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2110",
+        "Class Name": "Design Fundamentals I",
+        "Class Number": "29322",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2310",
+        "Class Name": "Visual Principles and Techniques I",
+        "Class Number": "29323",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.36"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3152",
+        "Class Name": "Introduction to Interior Design II",
+        "Class Number": "19322",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3502",
+        "Class Name": "Materials, Process, and Production for Interior Design",
+        "Class Number": "24024",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4152",
+        "Class Name": "Intermediate Interior Design II",
+        "Class Number": "24025",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.3,
+    "avgRating": 1,
+    "department": "Design",
+    "firstName": "Yvette",
+    "id": "VGVhY2hlci0yNjU5Mjcz",
+    "lastName": "Shen",
+    "legacyId": 2659273,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Lectures are just reading slides and assignments have little instruction and no rubric, no reasoning behind grades. ",
+        "course": "DESIGN5505"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "6 hours a week mandatory attendance for only 3 credits hours. Not very helpful feedback. Not a clear direction.",
+        "course": "DESIGN5505"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "She doesnt give good directions on assignment descriptions so you wont know how to complete them without asking and she doesnt respond to emails. When she does respond, she is unhelpful and just tells you to read the assignment again. On projects when she grades you she brings up things that you never discussed when you met for feedback.",
+        "course": "DESIGN5505"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5505",
+        "Class Name": "Information Design",
+        "Class Number": "22649",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4153",
+        "Class Name": "Intermediate Visual Communication Design II",
+        "Class Number": "18334",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5505",
+        "Class Name": "Information Design",
+        "Class Number": "20672",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "6200",
+        "Class Name": "Foundation for Graduate Design Studies",
+        "Class Number": "12660",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4153",
+        "Class Name": "Intermediate Visual Communication Design II",
+        "Class Number": "12462",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.13"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4650",
+        "Class Name": "Collaborative Design",
+        "Class Number": "23874",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5505",
+        "Class Name": "Information Design",
+        "Class Number": "24265",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "6200",
+        "Class Name": "Foundation for Graduate Design Studies",
+        "Class Number": "16638",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4153",
+        "Class Name": "Intermediate Visual Communication Design II",
+        "Class Number": "18977",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3403",
+        "Class Name": "Design Media I for Visual Communication Design",
+        "Class Number": "26761",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.23"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5505",
+        "Class Name": "Information Design",
+        "Class Number": "26706",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "3.13"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "4153",
+        "Class Name": "Intermediate Visual Communication Design II",
+        "Class Number": "19328",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4"
+      },
+      {
+        "Subject": "GRADTDA",
+        "Catalog": "5505",
+        "Class Name": "Information Design",
+        "Class Number": "3593",
+        "Term": "SU 24",
+        "College": "Graduate School",
+        "Department": "Graduate School Admin",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "GRADTDA",
+        "Catalog": "5505",
+        "Class Name": "Information Design",
+        "Class Number": "23203",
+        "Term": "SU 21",
+        "College": "Graduate School",
+        "Department": "Graduate School Admin",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "GRADTDA",
+        "Catalog": "5505",
+        "Class Name": "Information Design",
+        "Class Number": "3407",
+        "Term": "SU 22",
+        "College": "Graduate School",
+        "Department": "Graduate School Admin",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4"
+      },
+      {
+        "Subject": "GRADTDA",
+        "Catalog": "5505",
+        "Class Name": "Information Design",
+        "Class Number": "3479",
+        "Term": "SU 23",
+        "College": "Graduate School",
+        "Department": "Graduate School Admin",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.43"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.3,
+    "department": "Design",
+    "firstName": "Kyoung",
+    "id": "VGVhY2hlci0yNDI2MTQw",
+    "lastName": "Swearingen",
+    "legacyId": 2426140,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She really inspires students to be better and creative. She is humble even if she has an amazing profile. ",
+        "course": "ACCAD5002"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She's amazing!",
+        "course": "ACCAD5002"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Prof. Swearingen has an impressive background in production animation, her experience is apparent. However, this does not always transfer to her ability as an instructor. In-class help is light, forcing students to teach themselves through tutorials or trial/error. The class is also one big project, so there are no grades. Fairly unorganized course",
+        "course": "ACCAD5002"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5002",
+        "Class Name": "3D Computer Animation: Form, Light and Motion I",
+        "Class Number": "20931",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5003",
+        "Class Name": "3D Computer Animation: Form, Light and Motion II",
+        "Class Number": "34806",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5002",
+        "Class Name": "3D Computer Animation: Form, Light and Motion I",
+        "Class Number": "20016",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5500",
+        "Class Name": "Integrated Tech Lab",
+        "Class Number": "22692",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5002",
+        "Class Name": "3D Computer Animation: Form, Light and Motion I",
+        "Class Number": "18954",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5003",
+        "Class Name": "3D Computer Animation: Form, Light and Motion II",
+        "Class Number": "35201",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5500",
+        "Class Name": "Integrated Tech Lab",
+        "Class Number": "14145",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5002",
+        "Class Name": "3D Computer Animation: Form, Light and Motion I",
+        "Class Number": "22633",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.29"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5003",
+        "Class Name": "3D Computer Animation: Form, Light and Motion II",
+        "Class Number": "27907",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5002",
+        "Class Name": "3D Computer Animation: Form, Light and Motion I",
+        "Class Number": "20376",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5194.01",
+        "Class Name": "Group Studies in Digital Animation and Interactive Media",
+        "Class Number": "36026",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "6400",
+        "Class Name": "Graduate Design Studio",
+        "Class Number": "12474",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "6400",
+        "Class Name": "Graduate Design Studio",
+        "Class Number": "18985",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "6400",
+        "Class Name": "Graduate Design Studio",
+        "Class Number": "19336",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.6"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "4502",
+        "Class Name": "Senior Project II",
+        "Class Number": "29254",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.8,
+    "avgRating": 1.2,
+    "department": "Design",
+    "firstName": "Susana",
+    "id": "VGVhY2hlci0yMzI0OTMy",
+    "lastName": "La Luz Hawkins",
+    "legacyId": 2324932,
+    "numRatings": 6,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "The worst professor I've ever had (and it's not even close). She refuses to actually answer questions. Split the class into 15-18-person groups and didn't follow up on if it was working. Unclear on directions and expectations. Very condescending both in person and over email. Other Professors were shocked at how poorly run this class was.",
+        "course": "DESIGN3200"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I've never had an instructor care less about her students. Susana was unclear on directions and when students. would ask for clarification she was very rude to them. I hope OSU finds someone else to teach this class",
+        "course": "D3200"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Susana hasnt showed up to more than 6 classes this semester because she was on vacation. Telling you that you need to change your perspective if you are wanting an A in the class. She thinks that a C is a good grade cause you learned something. Its not like shes ever there to tell you otherwise and she doesnt give any rubrics. Gaslit always.",
+        "course": "D3200"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Professor skipped class frequently. Harsh grader sometimes and absolutely terrible descriptions for assignments given. Expect constant confusion in Susannas class with a complete lack of help or explanation. She is never available outside of class for help either. Overall the worst professor Ive ever had, though passing the class is not difficult",
+        "course": "DSN3200"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Inconsiderate. Does not put in the effort to teach. Any misunderstandings are your fault and she refuses to take blame for anything. Despite more than half of the class not understanding. Do not take any of her classes if you can. If you must, may God be with you and your sanity.",
+        "course": "D3200"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "While she was knowledgable about research, class was cancelled constantly and the first half of the class was graded solely on completion while the second half was graded extremely meticulously. Assignment sheets and expectations weren't clear at all and all the grades except one are entirely dependent on what your group members do and don't do.",
+        "course": "DESIGN3200"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3200",
+        "Class Name": "Design Research I",
+        "Class Number": "14616",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "32",
+        "Rating": "4.1"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3200",
+        "Class Name": "Design Research I",
+        "Class Number": "12640",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "38",
+        "Rating": "1.18"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.4,
+    "avgRating": 4.4,
+    "department": "Design",
+    "firstName": "Adam",
+    "id": "VGVhY2hlci0yMzI2NzYy",
+    "lastName": "Fromme",
+    "legacyId": 2326762,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This guy is GOATED. Very nice guy. Class is a little weird but it's a little fun.",
+        "course": "DESIGN3505"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Prof Fromme was good. His class is kinda homework heavy, especially doing the actual designs but you have so much time to get stuff done and the grading criteria is clear. He has structured it so all the homework you do is used in the final project so stay on top of the assignments. It's easy to get behind. ",
+        "course": "DESIGN3505"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Took 3105 this semester. Adam has great insight into the material he teaches and always seemed invested in describing it to us. His verbal feedback is very detailed, but there were times where posted material wouldn't cover some crucial details. Despite this, the class was very engaging without weighing in on my stress.",
+        "course": "DESIGN3505"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Professor Fromme is a bit disorganized with the content and sometimes posted it quite late, sometimes right before class. However, he is very flexible with deadlines if you email him and the content he teaches is engaging. If you take this class put effort into your designs and most of all go to his office hours! He gives great feedback and advice.",
+        "course": "DESIGN3505"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This class was easy. You have to put in the work and he will give you an A. You must go to class. He is extremely unorganized and it is frustrating at times because you don't know what the grading criteria is for projects. Final exam is all short answer. Sometimes doesn't email back when you ask questions. But he brings donuts to class so...",
+        "course": "DESIGN3505"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3105",
+        "Class Name": "Exploring Design Thinking",
+        "Class Number": "18930",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3505",
+        "Class Name": "Presentation as Thinking",
+        "Class Number": "23757",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3505",
+        "Class Name": "Presentation as Thinking",
+        "Class Number": "12644",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "6400",
+        "Class Name": "Graduate Design Studio",
+        "Class Number": "21896",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "1"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3505",
+        "Class Name": "Presentation as Thinking",
+        "Class Number": "17883",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3105",
+        "Class Name": "Exploring Design Thinking",
+        "Class Number": "16620",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3105",
+        "Class Name": "Exploring Design Thinking",
+        "Class Number": "35074",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3505",
+        "Class Name": "Presentation as Thinking",
+        "Class Number": "16622",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.59"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3105",
+        "Class Name": "Exploring Design Thinking",
+        "Class Number": "23887",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.47"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3505",
+        "Class Name": "Presentation as Thinking",
+        "Class Number": "23886",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3505",
+        "Class Name": "Presentation as Thinking",
+        "Class Number": "34972",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3105",
+        "Class Name": "Exploring Design Thinking",
+        "Class Number": "19499",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3105",
+        "Class Name": "Exploring Design Thinking",
+        "Class Number": "30517",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3505",
+        "Class Name": "Presentation as Thinking",
+        "Class Number": "19501",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3105",
+        "Class Name": "Exploring Design Thinking",
+        "Class Number": "24027",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3505",
+        "Class Name": "Presentation as Thinking",
+        "Class Number": "24026",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.42"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3505",
+        "Class Name": "Presentation as Thinking",
+        "Class Number": "30130",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "HCINNOV",
+        "Catalog": "7522",
+        "Class Name": "Foundations of Innovative Healthcare Design Thinking",
+        "Class Number": "12275",
+        "Term": "SP 21",
+        "College": "Nursing",
+        "Department": "Nursing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "HCINNOV",
+        "Catalog": "7522",
+        "Class Name": "Foundations of Innovative Healthcare Design Thinking",
+        "Class Number": "34230",
+        "Term": "SP 21",
+        "College": "Nursing",
+        "Department": "Nursing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.17"
+      },
+      {
+        "Subject": "HCINNOV",
+        "Catalog": "7522",
+        "Class Name": "Foundations of Innovative Healthcare Design Thinking",
+        "Class Number": "6406",
+        "Term": "SP 22",
+        "College": "Nursing",
+        "Department": "Nursing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "HCINNOV",
+        "Catalog": "7522",
+        "Class Name": "Foundations of Innovative Healthcare Design Thinking",
+        "Class Number": "35296",
+        "Term": "SP 22",
+        "College": "Nursing",
+        "Department": "Nursing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "HCINNOV",
+        "Catalog": "7522",
+        "Class Name": "Foundations of Innovative Healthcare Design Thinking",
+        "Class Number": "37133",
+        "Term": "AU 23",
+        "College": "Nursing",
+        "Department": "Nursing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.4"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 4.8,
+    "department": "Design",
+    "firstName": "Taylor",
+    "id": "VGVhY2hlci0yOTUzNjIx",
+    "lastName": "Olsen",
+    "legacyId": 2953621,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Taylor is truly one of the best professors I've had so far. He cares about each one of his students and will take the time to sit down with you and give suggestions about how you could take your work up to the next level. I would definitely recommend taking his for foundations!!",
+        "course": "DSGN2310"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Taylor is truly the best professor I have had. He helped me significantly through projects and course work. It is definitely a relaxed studio environment, that allowed for a lot of personal work time. He is very kind and definitely helped me in working toward getting accepted to my major after design foundations.",
+        "course": "DSGN2310"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Such a nice person and super funny, but unfortunately I didn't feel like I learned as much as I did from other design profs. He's so chill that it makes it difficult to take anything too seriously, which isn't a great mindset to have when getting ready for a foundations portfolio. I would still recommend him, just know it'll be insanely relaxed.",
+        "course": "DSGN2310"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Taylor created a super relaxed but focused environment in his class. I really appreciated how much work time we got, and his instructions were very clear. The three projects were not super hard, and using Taylor's feedback you should be able to create a good project with a good grade. ",
+        "course": "DSGN2310"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Taylor is a great instructor. He is very caring and understanding of each student's strong and weak points in design. The course itself is manageable for a major course. There are 3 \"Modules\" throughout the semester, which are all individual projects with design exercises incorporated. I always looked forward to his course.",
+        "course": "DSGN2310"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5140",
+        "Class Name": "Interactive Arts Media: Web",
+        "Class Number": "11043",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2310",
+        "Class Name": "Visual Principles and Techniques I",
+        "Class Number": "14681",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2310",
+        "Class Name": "Visual Principles and Techniques I",
+        "Class Number": "14682",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2330",
+        "Class Name": "Visual Principles and Techniques III",
+        "Class Number": "18326",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2330",
+        "Class Name": "Visual Principles and Techniques III",
+        "Class Number": "29740",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2310",
+        "Class Name": "Visual Principles and Techniques I",
+        "Class Number": "12706",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3104",
+        "Class Name": "Introduction to Game Design",
+        "Class Number": "37135",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2130",
+        "Class Name": "Design Fundamentals III",
+        "Class Number": "12388",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2330",
+        "Class Name": "Visual Principles and Techniques III",
+        "Class Number": "23872",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3104",
+        "Class Name": "Introduction to Game Design",
+        "Class Number": "34457",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2310",
+        "Class Name": "Visual Principles and Techniques I",
+        "Class Number": "16683",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3104",
+        "Class Name": "Introduction to Game Design",
+        "Class Number": "28369",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2130",
+        "Class Name": "Design Fundamentals II",
+        "Class Number": "18902",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2330",
+        "Class Name": "Visual Principles and Techniques II",
+        "Class Number": "18967",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2330",
+        "Class Name": "Visual Principles and Techniques II",
+        "Class Number": "29029",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3104",
+        "Class Name": "Introduction to Game Design",
+        "Class Number": "29924",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2310",
+        "Class Name": "Visual Principles and Techniques I",
+        "Class Number": "19562",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3104",
+        "Class Name": "Introduction to Game Design",
+        "Class Number": "28140",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3104",
+        "Class Name": "Introduction to Game Design",
+        "Class Number": "29993",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2130",
+        "Class Name": "Design Fundamentals II",
+        "Class Number": "19253",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2330",
+        "Class Name": "Visual Principles and Techniques II",
+        "Class Number": "19318",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2330",
+        "Class Name": "Visual Principles and Techniques II",
+        "Class Number": "28531",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3104",
+        "Class Name": "Introduction to Game Design",
+        "Class Number": "29158",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2201",
+        "Class Name": "Filmmaking Foundation I",
+        "Class Number": "24287",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "27525",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Design",
+    "firstName": "Mary",
+    "id": "VGVhY2hlci0yNzM3OTIw",
+    "lastName": "Beecher",
+    "legacyId": 2737920,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Mary was great. I never really had to reach her outside of class. All the homework was given like 3 weeks in advance so you had plenty of time to complete it. It was just 5 quizzes per module and then one paper here and there. You know your workload and it really isn't a lot if you work on it once a week.",
+        "course": "2750"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "6200",
+        "Class Name": "Foundation for Graduate Design Studies",
+        "Class Number": "14636",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2750",
+        "Class Name": "Design History",
+        "Class Number": "18261",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "57",
+        "Rating": "4.44"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2750",
+        "Class Name": "Design History",
+        "Class Number": "12389",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "51",
+        "Rating": "4.24"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5750",
+        "Class Name": "Advanced Design History: Interiors, Contents, Communication, and Culture",
+        "Class Number": "21930",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.3"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2750",
+        "Class Name": "Design History",
+        "Class Number": "18904",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "62",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2750",
+        "Class Name": "Design History",
+        "Class Number": "35747",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "L",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5750",
+        "Class Name": "Advanced Design History: Interiors, Contents, Communication, and Culture",
+        "Class Number": "27701",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2750",
+        "Class Name": "Design History",
+        "Class Number": "35669",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2750",
+        "Class Name": "Design History",
+        "Class Number": "19255",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "39",
+        "Rating": "4.49"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "2750",
+        "Class Name": "Design History",
+        "Class Number": "30508",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "L",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "5750",
+        "Class Name": "Advanced Design History: Interiors, Contents, Communication, and Culture",
+        "Class Number": "27491",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "3.67"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Design",
+    "firstName": "Gabe",
+    "id": "VGVhY2hlci0xNTk2ODU4",
+    "lastName": "Tippery",
+    "legacyId": 1596858,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "really chill and a good teacher. class is pretty easy, really basic design principles. it is really catered to people who dont have a design background or knowledge.",
+        "course": "DESIG200"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Gabe is awesome!  He showed us some very inspirational videos and encouraged me to dive further into the field to learn more.  The class was very interesting and informative.  I definitely recommend this it!  Not only is it an easy A, but he also introduces you to some very interesting discussions.",
+        "course": "DESIG200"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100.09",
+        "Class Name": "Arts and Sciences Survey: Design",
+        "Class Number": "13036",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.84"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100",
+        "Class Name": "Arts and Sciences Survey: Design",
+        "Class Number": "11060",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100.09",
+        "Class Name": "Arts and Sciences Survey: Design",
+        "Class Number": "15191",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100.09",
+        "Class Name": "Arts and Sciences Survey: Design",
+        "Class Number": "18115",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.62"
+      }
+    ]
+  },
+  {
     "avgDifficulty": 2.4,
     "avgRating": 3,
     "department": "Design",
@@ -199,7 +3423,64 @@
         "course": "TXTLCLO372"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1137.16",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "35934",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1137.17",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "35855",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1137",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "37166",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "16",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1137.12",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "37104",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "16",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -219,7 +3500,134 @@
         "course": "ACCAD5140"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5140",
+        "Class Name": "Interactive Arts Media: Web",
+        "Class Number": "13019",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5141",
+        "Class Name": "Interactive Arts Media: UI/UX",
+        "Class Number": "19999",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5141",
+        "Class Name": "Interactive Arts Media: UI/UX",
+        "Class Number": "14127",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5141",
+        "Class Name": "Interactive Arts Media: UI/UX",
+        "Class Number": "20362",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5141",
+        "Class Name": "Interactive Arts Media: UI/UX",
+        "Class Number": "20660",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "1",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ACCAD",
+        "Catalog": "5141",
+        "Class Name": "Interactive Arts Media: UI/UX",
+        "Class Number": "20661",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Advanced Computing Center/Arts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "GRADTDA",
+        "Catalog": "5141",
+        "Class Name": "UI/UX Design",
+        "Class Number": "38103",
+        "Term": "AU 21",
+        "College": "Graduate School",
+        "Department": "Graduate School Admin",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "GRADTDA",
+        "Catalog": "5141",
+        "Class Name": "UI/UX Design",
+        "Class Number": "3532",
+        "Term": "AU 22",
+        "College": "Graduate School",
+        "Department": "Graduate School Admin",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "GRADTDA",
+        "Catalog": "5141",
+        "Class Name": "UI/UX Design",
+        "Class Number": "3665",
+        "Term": "AU 23",
+        "College": "Graduate School",
+        "Department": "Graduate School Admin",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.9,
@@ -300,869 +3708,6 @@
         "difficulty": 3,
         "comment": "No Comments",
         "course": "199"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Design",
-    "firstName": "Zach",
-    "id": "VGVhY2hlci0yNjg0MDgx",
-    "lastName": "Winegardner",
-    "legacyId": 2684081,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Zach is extremely personable and helpful in his feedback--perfect for students just starting in design. He's quirky but super fun to be in class with and explains everything clearly and thoroughly! Loved taking his class.",
-        "course": "DESIGN3105"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "New and young professor. Sometimes he is unorganized and his presentations are long but he is a very good professor.",
-        "course": "DESIGN3105"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.2,
-    "avgRating": 2.4,
-    "department": "Design",
-    "firstName": "Reinhart",
-    "id": "VGVhY2hlci0yMTYzOTY=",
-    "lastName": "Butter",
-    "legacyId": 216396,
-    "numRatings": 13,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "The man is beyond proud, he has zero accountability for what he says. He is not fit to teach or design. He would be good at detailing cars- full time",
-        "course": "DSGN300"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Funny I was a student when Reinhart was in his prime back in the late 70s. We started with about 25 students in his class and I believe there were 12 at the end. He was about as tough as they come. He was a great designer though, and I was inspired by his passion and his personal work at the time. Love his passion! He raised the bar really high.",
-        "course": "ID650"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "Butter is pretty slick, best when when chillin in the fridge, can be spread, and is best on pancakes. Not very clear since butter is usually an opaque yellow but delicious none the less. overall I'd recommend this butter to anyone needing an edible lubricant.   710, 1010 with rice.   *Not to be confused but Butters from South Park",
-        "course": "BUTTER101"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "When dealing with Butter, expect 100% criticism with 0% of which being constructive. Lives to kill dreams and deter students from the field.",
-        "course": "IDSTUDIO"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "Reinhart Butter is passionate and gifted in design and expects students to be just as dedicated. I grew to know and respect him quite well and credit him with much of my success. I am now Design Director at a Fortune 100 company. Thanks Reinhart!",
-        "course": "DSGN300"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Those who don't like him is because they cannot take any pressure. He was my major professor 20+ years ago. He really emptied my bucket and refilled it with new insight. I am very grateful for Reinhart and what he did to me. I am a college professor too and now understand why he did what he did. :-)",
-        "course": "ID699"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "This man told me at my final senior review that I would never find a job. He shrugged and then said, &quot;It is all water under the bridge.&quot; He is condescending and a know-it-all.  The day he told me I would never find a job, I vowed that someday I would never treat any students as he treated me. I am now Chair of a Design School. Guess he was wrong.",
-        "course": "ID400"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "The  most arrogant, mean and depressing individual I've ever met. Arrogance is offensive but tolerable if the person is interesting, but Butter isn't. Simon Cowell w/o charm.  Learned nothing except self loathing.  Told me I lacked the talent to be a designer.  I now manage a firm of more than 300 people - 299 more than he ever did! Good riddance",
-        "course": "ID650"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Reinhart Butter is one of the main reasons OSU?s Industrial Design programs has been rated one of the best in the world for over 25 years. He demanded the best and accepted nothing less. For those of us who appreciated his passion and inspiration, he has left an indelible mark.",
-        "course": "JRPRD"
-      },
-      {
-        "index": 10,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "This professor is worth rating even if I took his class 20+ years ago. He is the most sadistic and condescending person I've ever met. He humiliates students in class and made several seniors breakdown after presentations. He said I didn't have the intelligence to be there! I'm now a college professor and respect my students, thanks to Dr. Butter.",
-        "course": "IND46004461"
-      },
-      {
-        "index": 11,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "founder of OSU design, he has been here a long time.  he is the quintessential german, but has a good sense of humor if you get to know him (which is rare).  he is difficult to learn design from, and picks favorites.",
-        "course": "STUDIOS"
-      },
-      {
-        "index": 12,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Very blunt, very difficult, very unapproachable and intimidating. IS very oppinionated with a wavering HATES people coming late to class... must be on time on the dot",
-        "course": "26204"
-      },
-      {
-        "index": 13,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "ID603"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.5,
-    "avgRating": 4.5,
-    "department": "Design",
-    "firstName": "Scott",
-    "id": "VGVhY2hlci0yMzYzOTQz",
-    "lastName": "Swearingen",
-    "legacyId": 2363943,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Prof. Swearingen is a great professor that really cares for his students and the practice. The environment he creates is really creative, though there is an unfortunate lack of structure. Often I felt I was learning more from my personal struggles than from Scott as a teacher. Still a great course, just don't expect step by step learning.",
-        "course": "DESIGN4104"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "My time with Prof. Swearingen was truly inspiring. I've never taken a course this open and creative before, it was an amazing experience. If you have an interest in learning game design, be it traditional or otherwise, this is a great place to start.",
-        "course": "DESIGN3104"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.5,
-    "avgRating": 2.5,
-    "department": "Design",
-    "firstName": "Oscar",
-    "id": "VGVhY2hlci0yNTM3Njg0",
-    "lastName": "Fernandez",
-    "legacyId": 2537684,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Really easy, but interesting class. If you show up and pay attention, youll have no issues doing really well in the class.",
-        "course": "DSGN2700"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Super Arbitrary Grading and he does the same presentation slides every day in a different order, as if we haven't seen them before. But this isn't reviewing because the lecture isn't helpful.",
-        "course": "DESIGN2700"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.3,
-    "avgRating": 1.6,
-    "department": "Design",
-    "firstName": "Kurt",
-    "id": "VGVhY2hlci0yMDU3Njk5",
-    "lastName": "Shade",
-    "legacyId": 2057699,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "One of the worst professors that I have ever had while at Ohio State. Directions and expectations for the assignments are never clear and you spend the entirety of his lectures asking questions about them to which he answers vaguely and with a condescending tone. Lectures are not organized and do not have a clear central idea. Avoid if you can.",
-        "course": "DESIGN3305"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "The most unclear teacher I have ever had. His directions never make sense. Most class time is spent with him answering students' questions about his unclear directionsand still they don't make sense. He then forces students to present, and gets upset when his directions were not followed perfectly. I am yet to learn something in his class.",
-        "course": "DESIGN3305"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Homework assignments &amp; projects are vague with no clarity whatsoever. You need to ask multiple times in order to get some distinct answer. Gives condescending nonverbals when your presentation doesn't match his criteria. Double check your system grades because it might not match his inputted grades are. Don't take his classes unless you need it.",
-        "course": "DESIGN3305"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Spends class reading directly off lecture slides and provides no insight or additional information. Projects and homework assignments are vague and it often takes several questions from multiple people in class before clarity is provided. His logic regarding student participation is often weirdly wrong. Dont take this class if you dont have to",
-        "course": "DESIGN3305"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "some assignments can be unclear but Kurt will always clarify assignments if asked. He pushes his students to do their best work. Lectures can be unclear of what direction they are going but he always has a point to what he is showing or has you do. Always offers constructive feedback and has you identify your own strengths and weaknesses.",
-        "course": "DES4405"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "awful experience in his class,  worst teacher i've ever met.  can't understand his point   :(      what he read to us, we have learned in another design class. everytime i take this class, it makes me wonder why i am here!!!!",
-        "course": "DESIGN2110"
-      },
-      {
-        "index": 7,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "He would stay after class to help you with your work. He also is very helpful when you ask him to clarify on how certain assignments should be done. I highly recommend him if you have a good sense of humor and are willing to ask questions.",
-        "course": "DESIGN2110"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Unprepared, disorganized, unclear. Shows up late frequently after the first day when he locked students out of the classroom that weren't there on time. Incredibly rude and disrespectful. Doesn't even look at the assignments or lectures (by someone else) before he gives them, and then just reads them to us. ",
-        "course": "DESIGN2110"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Not respected. First day of class said he had a \"pet peeve\" for people being late. Second day of class walks in 10 minutes late. Very unclear instructions",
-        "course": "DESIGN2110"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.5,
-    "avgRating": 4.8,
-    "department": "Design",
-    "firstName": "Michael",
-    "id": "VGVhY2hlci0xODAzMDgx",
-    "lastName": "Kellner",
-    "legacyId": 1803081,
-    "numRatings": 18,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Michael was one of the best instructors I encountered during my first semester at OSU. His class was so chill and relaxed that most students went even though attendance wasn't really required. He genuinely cares about his students' wellbeing and sharing valuable information through lectures. Assignments were simple, interesting, and rewarding.",
-        "course": "DESIGN2700"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Hands down the best professor Ive had at OSU. On top of being a great teacher, he clearly cares about students growth and personal well-being. Whenever he sensed anxiety about a deadline, he offered to move it, letting us focus instead on fully realizing our ideas. Learning from him felt both like a world class education and a close mentorship.",
-        "course": "DESIGN2300"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Hands down the best professor I've had at OSU. A fundamentally great person.",
-        "course": "DESIGN2310"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "He is real nice.",
-        "course": "DESIGN2700"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Mr. Kellner is an amazing professor. He's genuinely invested in making students into better ones and is super cool. He's relatable. Classes show up as twice a week but on the first day you can choose to come only either Wednesday or Friday, not both. Lots of reading and weekly summaries. No exams and 3 big essays per semester. Definitely recommend",
-        "course": "DESIGN2700"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Michael is the best professor ever. Hes genuinely invested in students success and will try his best to help students achieve what theyre aiming for. If you be already got a solid drawing foundation the class isnt very challenging. However, it really is important that you show up and try your hardest - he definitely knows if someone is slacking",
-        "course": "DESIGN2310"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Michael is one of the best professors out there. He genuinely cares about his students and allows them to break the rules of design.",
-        "course": "DESIGN2310"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Absolutely fantastic.",
-        "course": "DESIGN2300"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Michael truly cares for each individual and how well they understand the assignments, grades given, and material covered. Wish I could take him with me through my whole design career",
-        "course": "DSN2310"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "The best, most caring person I have ever met. He truly is an inspirational teacher loved by all of his students. If only every professor was like him.",
-        "course": "DESIGN2300"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "literally the best. I am truly sad that I may never have him as a professor again.",
-        "course": "DESIGN3105"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Michael is truly passionate for art and his job. He is extremely understanding and wants everyone to succeed. I only thought this class was hard because I had never taken a drawing class before but I was lucky to have an instructor that pushed me and allowed project limitations to be interpreted in our own way.",
-        "course": "DSN2730"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This was one of my favorite classes. Michael is a kind teacher who is willing to help you as much as you need. He's there to help you improve on your abilities and makes class a fun experience. He'll crack a joke once in a while and even adds in a life lesson here and there. Definitely take this class if you have the opportunity.",
-        "course": "DESIGN2310"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "I took one of Michael's classes for the Design minor, and I am planning on taking another! He was very helpful, and seemed to legitimately want his students to do well. I learned a lot in his class, and enjoyed it very much. His anecdotes are quite good, and he encouraged us to be creative and play up our own strengths.",
-        "course": "DESIGN3105"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Michael is more a friend than a professor. He is incredibly wise with anything drawing and much beyond. However he only makes a point to help students, and his emails quite frequently made my day. He will gladly help any way he can, and gives great feedback as to how someone can improve in the classroom and in life.",
-        "course": "DESIGN2300"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "He's so awesome. Helpful, smart, explains things very well... We all love him, hes the best",
-        "course": "2310"
-      },
-      {
-        "index": 17,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Michael Kellner is amazing. He is hilarious and a really great guy. Loved his class. Love him. Definitely one of my all time favorite professors.",
-        "course": "AE2520"
-      },
-      {
-        "index": 18,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "I took it online. Prof. Kellner seems like a nice guy, and he's very passionate and knowledgeable about art. Though I wasn't impressed with the class itself, it involves mostly reading/writing and very little designing/art making, good for non-artists taking it for GE. An easy A as long as you don't miss any discussion post/projects.",
-        "course": "ARTEDUC2520"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 1.5,
-    "department": "Design",
-    "firstName": "Sara",
-    "id": "VGVhY2hlci0yNTI2NDM2",
-    "lastName": "Hardy",
-    "legacyId": 2526436,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "I genuinely liked Sara as a person and she was helpful when approached in class, but she was uninterested in teaching. Difficult to contact by email and cancelled class frequently (but don't skip or you'll fail). She knows her stuff and is good at it, but can't teach it effectively. I taught myself a lot and had to work extremely hard for the A.",
-        "course": "DESIGN3400"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "The worst professor Ive ever encountered. Enough said. She is the most unorganized person and is very unprofessional. Clearly not interested in teaching. Left wondering what exactly I paid for bc I taught myself everything.",
-        "course": "DESIGN3400"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Design",
-    "firstName": "Jeffrey",
-    "id": "VGVhY2hlci0yNTUxNDU5",
-    "lastName": "Haase",
-    "legacyId": 2551459,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Jeff is a genuinely awesome professor. His projects were interesting and challenging, and he gave a ton of great feedback throughout the entire semester to make sure everyone was on the right track. He's goofy and understanding and made this extremely long class manageable, but didn't grade anything all semester so I had no idea what my grade was.",
-        "course": "DESIGN3102"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Design",
-    "firstName": "Camille",
-    "id": "VGVhY2hlci0zMDg1MTkx",
-    "lastName": "Snyder",
-    "legacyId": 3085191,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Super great, gives helpful feedback, and is very clear about project expectations. The class can be heavy but she is very gracious with classwork time and extensions if needed. Overall, I would take it again. ",
-        "course": "2330"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.3,
-    "avgRating": 3.3,
-    "department": "Design",
-    "firstName": "Madison",
-    "id": "VGVhY2hlci0yNjY5NDY1",
-    "lastName": "Sabatelli",
-    "legacyId": 2669465,
-    "numRatings": 6,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Easiest non-CSE tech elective so far. No midterms, no final exam, and honestly, very doable with other heavy lifting courses. ",
-        "course": "DESIGN2700"
-      },
-      {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "There is about a 45-minute lecture and little work otherwise.  Each week takes about 1-2 hours which is great for a fully online 3 credit class.  The class is easy and there is extra credit.  Some of the topics are interesting, so if you put the lectures at 1.5x speed, it'll be a good class either for the minor or GE.",
-        "course": "DESIGN2700"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Inconsiderate and ignored emails  ",
-        "course": "DESIGN2700"
-      },
-      {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "A very easy course, that doesn't contain much practical information. The lectures were pretty long for the messages they were trying to get across, and I usually would just go through the slides quickly on my own. Not very much work in the course, with weekly quizzes and only two essays, so I would recommend if you need easy credit. ",
-        "course": "DESIGN2700"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Extremely manageable course. Madison is understanding and flexible. Coursework consists of a weekly quiz or discussion post and 2 larger assignments (essays around 1500-2000 words). Interesting and useful content.",
-        "course": "DESIGN2700"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I took this class as a part of the Entrepreneurship and Innovation minor, and found it surprisingly enjoyable despite not being my particular field of interest because the class also focuses on designing students future career paths. The class has 2 lectures, a mini quiz, and a discussion post per week, and two papers throughout the class.",
-        "course": "DESIGN2700"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 2.4,
-    "department": "Design",
-    "firstName": "Emily",
-    "id": "VGVhY2hlci0yNDYzNzU2",
-    "lastName": "Valentine",
-    "legacyId": 2463756,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Save yourself and try to get another design professor definitely the worst professor I've ever had!",
-        "course": "DESIGN2310"
-      },
-      {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Confusing feedback. Grades fair if you are a 2nd or 3rd year student, I do NOT recommend her for foundations courses unless you already have design experience. Nice, but you HAVE to talk to her frequently and have extensive details on your process post to get a good grade( its not extensive, but for someone from a technical major it feels like it).",
-        "course": "DESIGN2310"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Emily's grading is pretty tough but she is very helpful IF YOU ASK FOR IT. Feedback can sometimes be confusing from her but she has proven very caring and helpful if you ask to meet with her.",
-        "course": "DES2130"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I am a junior and she is definitely my least favorite professor I have had. She does not value creativity and grades very inaccurately. Her personal artwork is very poor so I think it is just a reflection of how she views others art. I would highly recommend taking Zach Winegard's design instead. He teaches the same course and totally ROCKS!!",
-        "course": "DESIGN2310"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Emily can be unwavering, but she teaches design well and responds to emails quickly.",
-        "course": "DES2130"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.3,
-    "avgRating": 1,
-    "department": "Design",
-    "firstName": "Yvette",
-    "id": "VGVhY2hlci0yNjU5Mjcz",
-    "lastName": "Shen",
-    "legacyId": 2659273,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Lectures are just reading slides and assignments have little instruction and no rubric, no reasoning behind grades. ",
-        "course": "DESIGN5505"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "6 hours a week mandatory attendance for only 3 credits hours. Not very helpful feedback. Not a clear direction.",
-        "course": "DESIGN5505"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "She doesnt give good directions on assignment descriptions so you wont know how to complete them without asking and she doesnt respond to emails. When she does respond, she is unhelpful and just tells you to read the assignment again. On projects when she grades you she brings up things that you never discussed when you met for feedback.",
-        "course": "DESIGN5505"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 4.3,
-    "department": "Design",
-    "firstName": "Kyoung",
-    "id": "VGVhY2hlci0yNDI2MTQw",
-    "lastName": "Swearingen",
-    "legacyId": 2426140,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She really inspires students to be better and creative. She is humble even if she has an amazing profile. ",
-        "course": "ACCAD5002"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She's amazing!",
-        "course": "ACCAD5002"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Prof. Swearingen has an impressive background in production animation, her experience is apparent. However, this does not always transfer to her ability as an instructor. In-class help is light, forcing students to teach themselves through tutorials or trial/error. The class is also one big project, so there are no grades. Fairly unorganized course",
-        "course": "ACCAD5002"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.8,
-    "avgRating": 1.2,
-    "department": "Design",
-    "firstName": "Susana",
-    "id": "VGVhY2hlci0yMzI0OTMy",
-    "lastName": "La Luz Hawkins",
-    "legacyId": 2324932,
-    "numRatings": 6,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "The worst professor I've ever had (and it's not even close). She refuses to actually answer questions. Split the class into 15-18-person groups and didn't follow up on if it was working. Unclear on directions and expectations. Very condescending both in person and over email. Other Professors were shocked at how poorly run this class was.",
-        "course": "DESIGN3200"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I've never had an instructor care less about her students. Susana was unclear on directions and when students. would ask for clarification she was very rude to them. I hope OSU finds someone else to teach this class",
-        "course": "D3200"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Susana hasnt showed up to more than 6 classes this semester because she was on vacation. Telling you that you need to change your perspective if you are wanting an A in the class. She thinks that a C is a good grade cause you learned something. Its not like shes ever there to tell you otherwise and she doesnt give any rubrics. Gaslit always.",
-        "course": "D3200"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Professor skipped class frequently. Harsh grader sometimes and absolutely terrible descriptions for assignments given. Expect constant confusion in Susannas class with a complete lack of help or explanation. She is never available outside of class for help either. Overall the worst professor Ive ever had, though passing the class is not difficult",
-        "course": "DSN3200"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Inconsiderate. Does not put in the effort to teach. Any misunderstandings are your fault and she refuses to take blame for anything. Despite more than half of the class not understanding. Do not take any of her classes if you can. If you must, may God be with you and your sanity.",
-        "course": "D3200"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "While she was knowledgable about research, class was cancelled constantly and the first half of the class was graded solely on completion while the second half was graded extremely meticulously. Assignment sheets and expectations weren't clear at all and all the grades except one are entirely dependent on what your group members do and don't do.",
-        "course": "DESIGN3200"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 2.3,
-    "department": "Design",
-    "firstName": "Sapna",
-    "id": "VGVhY2hlci0yMzQ0Njky",
-    "lastName": "Singh",
-    "legacyId": 2344692,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Tough class.",
-        "course": "DESIGN3105"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "shes the goat ",
-        "course": "DESIGN3105"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Sapna Singh is a Design Professor at The Ohio State University. To start, participation/attendance is mandatory and she is extremely difficult to understand and learn from. She is very rude when dealing with problems that occur inside or outside of the classroom. Her lectures are very boring and haven't been updated since 2007. Be cautious with her",
-        "course": "DESIGN3105"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Design",
-    "firstName": "Liz",
-    "id": "VGVhY2hlci0zMDQ3MTQ2",
-    "lastName": "Hejny",
-    "legacyId": 3047146,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Very knowledgable and helpful! Provides great feedback and is generally accessible outside of class for any issues. If you're reading this the class is probably required for you anyway but you'll have a good time!",
-        "course": "DESIGN3403"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.4,
-    "avgRating": 4.4,
-    "department": "Design",
-    "firstName": "Adam",
-    "id": "VGVhY2hlci0yMzI2NzYy",
-    "lastName": "Fromme",
-    "legacyId": 2326762,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This guy is GOATED. Very nice guy. Class is a little weird but it's a little fun.",
-        "course": "DESIGN3505"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Prof Fromme was good. His class is kinda homework heavy, especially doing the actual designs but you have so much time to get stuff done and the grading criteria is clear. He has structured it so all the homework you do is used in the final project so stay on top of the assignments. It's easy to get behind. ",
-        "course": "DESIGN3505"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Took 3105 this semester. Adam has great insight into the material he teaches and always seemed invested in describing it to us. His verbal feedback is very detailed, but there were times where posted material wouldn't cover some crucial details. Despite this, the class was very engaging without weighing in on my stress.",
-        "course": "DESIGN3505"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Professor Fromme is a bit disorganized with the content and sometimes posted it quite late, sometimes right before class. However, he is very flexible with deadlines if you email him and the content he teaches is engaging. If you take this class put effort into your designs and most of all go to his office hours! He gives great feedback and advice.",
-        "course": "DESIGN3505"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "This class was easy. You have to put in the work and he will give you an A. You must go to class. He is extremely unorganized and it is frustrating at times because you don't know what the grading criteria is for projects. Final exam is all short answer. Sometimes doesn't email back when you ask questions. But he brings donuts to class so...",
-        "course": "DESIGN3505"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.8,
-    "avgRating": 4.8,
-    "department": "Design",
-    "firstName": "Taylor",
-    "id": "VGVhY2hlci0yOTUzNjIx",
-    "lastName": "Olsen",
-    "legacyId": 2953621,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Taylor is truly one of the best professors I've had so far. He cares about each one of his students and will take the time to sit down with you and give suggestions about how you could take your work up to the next level. I would definitely recommend taking his for foundations!!",
-        "course": "DSGN2310"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Taylor is truly the best professor I have had. He helped me significantly through projects and course work. It is definitely a relaxed studio environment, that allowed for a lot of personal work time. He is very kind and definitely helped me in working toward getting accepted to my major after design foundations.",
-        "course": "DSGN2310"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Such a nice person and super funny, but unfortunately I didn't feel like I learned as much as I did from other design profs. He's so chill that it makes it difficult to take anything too seriously, which isn't a great mindset to have when getting ready for a foundations portfolio. I would still recommend him, just know it'll be insanely relaxed.",
-        "course": "DSGN2310"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Taylor created a super relaxed but focused environment in his class. I really appreciated how much work time we got, and his instructions were very clear. The three projects were not super hard, and using Taylor's feedback you should be able to create a good project with a good grade. ",
-        "course": "DSGN2310"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Taylor is a great instructor. He is very caring and understanding of each student's strong and weak points in design. The course itself is manageable for a major course. There are 3 \"Modules\" throughout the semester, which are all individual projects with design exercises incorporated. I always looked forward to his course.",
-        "course": "DSGN2310"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Design",
-    "firstName": "Mary",
-    "id": "VGVhY2hlci0yNzM3OTIw",
-    "lastName": "Beecher",
-    "legacyId": 2737920,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Mary was great. I never really had to reach her outside of class. All the homework was given like 3 weeks in advance so you had plenty of time to complete it. It was just 5 quizzes per module and then one paper here and there. You know your workload and it really isn't a lot if you work on it once a week.",
-        "course": "2750"
       }
     ],
     "SEI": []
@@ -1761,28 +4306,244 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 1,
-    "avgRating": 5,
+    "avgDifficulty": 4.2,
+    "avgRating": 2.4,
     "department": "Design",
-    "firstName": "Gabe",
-    "id": "VGVhY2hlci0xNTk2ODU4",
-    "lastName": "Tippery",
-    "legacyId": 1596858,
-    "numRatings": 2,
+    "firstName": "Reinhart",
+    "id": "VGVhY2hlci0yMTYzOTY=",
+    "lastName": "Butter",
+    "legacyId": 216396,
+    "numRatings": 13,
     "Ratings": [
       {
         "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "really chill and a good teacher. class is pretty easy, really basic design principles. it is really catered to people who dont have a design background or knowledge.",
-        "course": "DESIG200"
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "The man is beyond proud, he has zero accountability for what he says. He is not fit to teach or design. He would be good at detailing cars- full time",
+        "course": "DSGN300"
       },
       {
         "index": 2,
         "rating": 5,
+        "difficulty": 5,
+        "comment": "Funny I was a student when Reinhart was in his prime back in the late 70s. We started with about 25 students in his class and I believe there were 12 at the end. He was about as tough as they come. He was a great designer though, and I was inspired by his passion and his personal work at the time. Love his passion! He raised the bar really high.",
+        "course": "ID650"
+      },
+      {
+        "index": 3,
+        "rating": 1,
         "difficulty": 1,
-        "comment": "Gabe is awesome!  He showed us some very inspirational videos and encouraged me to dive further into the field to learn more.  The class was very interesting and informative.  I definitely recommend this it!  Not only is it an easy A, but he also introduces you to some very interesting discussions.",
-        "course": "DESIG200"
+        "comment": "Butter is pretty slick, best when when chillin in the fridge, can be spread, and is best on pancakes. Not very clear since butter is usually an opaque yellow but delicious none the less. overall I'd recommend this butter to anyone needing an edible lubricant.   710, 1010 with rice.   *Not to be confused but Butters from South Park",
+        "course": "BUTTER101"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "When dealing with Butter, expect 100% criticism with 0% of which being constructive. Lives to kill dreams and deter students from the field.",
+        "course": "IDSTUDIO"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Reinhart Butter is passionate and gifted in design and expects students to be just as dedicated. I grew to know and respect him quite well and credit him with much of my success. I am now Design Director at a Fortune 100 company. Thanks Reinhart!",
+        "course": "DSGN300"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Those who don't like him is because they cannot take any pressure. He was my major professor 20+ years ago. He really emptied my bucket and refilled it with new insight. I am very grateful for Reinhart and what he did to me. I am a college professor too and now understand why he did what he did. :-)",
+        "course": "ID699"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This man told me at my final senior review that I would never find a job. He shrugged and then said, &quot;It is all water under the bridge.&quot; He is condescending and a know-it-all.  The day he told me I would never find a job, I vowed that someday I would never treat any students as he treated me. I am now Chair of a Design School. Guess he was wrong.",
+        "course": "ID400"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "The  most arrogant, mean and depressing individual I've ever met. Arrogance is offensive but tolerable if the person is interesting, but Butter isn't. Simon Cowell w/o charm.  Learned nothing except self loathing.  Told me I lacked the talent to be a designer.  I now manage a firm of more than 300 people - 299 more than he ever did! Good riddance",
+        "course": "ID650"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Reinhart Butter is one of the main reasons OSU?s Industrial Design programs has been rated one of the best in the world for over 25 years. He demanded the best and accepted nothing less. For those of us who appreciated his passion and inspiration, he has left an indelible mark.",
+        "course": "JRPRD"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This professor is worth rating even if I took his class 20+ years ago. He is the most sadistic and condescending person I've ever met. He humiliates students in class and made several seniors breakdown after presentations. He said I didn't have the intelligence to be there! I'm now a college professor and respect my students, thanks to Dr. Butter.",
+        "course": "IND46004461"
+      },
+      {
+        "index": 11,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "founder of OSU design, he has been here a long time.  he is the quintessential german, but has a good sense of humor if you get to know him (which is rare).  he is difficult to learn design from, and picks favorites.",
+        "course": "STUDIOS"
+      },
+      {
+        "index": 12,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Very blunt, very difficult, very unapproachable and intimidating. IS very oppinionated with a wavering HATES people coming late to class... must be on time on the dot",
+        "course": "26204"
+      },
+      {
+        "index": 13,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "ID603"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 4.8,
+    "department": "Design",
+    "firstName": "Michael",
+    "id": "VGVhY2hlci0xODAzMDgx",
+    "lastName": "Kellner",
+    "legacyId": 1803081,
+    "numRatings": 18,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Michael was one of the best instructors I encountered during my first semester at OSU. His class was so chill and relaxed that most students went even though attendance wasn't really required. He genuinely cares about his students' wellbeing and sharing valuable information through lectures. Assignments were simple, interesting, and rewarding.",
+        "course": "DESIGN2700"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Hands down the best professor Ive had at OSU. On top of being a great teacher, he clearly cares about students growth and personal well-being. Whenever he sensed anxiety about a deadline, he offered to move it, letting us focus instead on fully realizing our ideas. Learning from him felt both like a world class education and a close mentorship.",
+        "course": "DESIGN2300"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Hands down the best professor I've had at OSU. A fundamentally great person.",
+        "course": "DESIGN2310"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He is real nice.",
+        "course": "DESIGN2700"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Mr. Kellner is an amazing professor. He's genuinely invested in making students into better ones and is super cool. He's relatable. Classes show up as twice a week but on the first day you can choose to come only either Wednesday or Friday, not both. Lots of reading and weekly summaries. No exams and 3 big essays per semester. Definitely recommend",
+        "course": "DESIGN2700"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Michael is the best professor ever. Hes genuinely invested in students success and will try his best to help students achieve what theyre aiming for. If you be already got a solid drawing foundation the class isnt very challenging. However, it really is important that you show up and try your hardest - he definitely knows if someone is slacking",
+        "course": "DESIGN2310"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Michael is one of the best professors out there. He genuinely cares about his students and allows them to break the rules of design.",
+        "course": "DESIGN2310"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Absolutely fantastic.",
+        "course": "DESIGN2300"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Michael truly cares for each individual and how well they understand the assignments, grades given, and material covered. Wish I could take him with me through my whole design career",
+        "course": "DSN2310"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "The best, most caring person I have ever met. He truly is an inspirational teacher loved by all of his students. If only every professor was like him.",
+        "course": "DESIGN2300"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "literally the best. I am truly sad that I may never have him as a professor again.",
+        "course": "DESIGN3105"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Michael is truly passionate for art and his job. He is extremely understanding and wants everyone to succeed. I only thought this class was hard because I had never taken a drawing class before but I was lucky to have an instructor that pushed me and allowed project limitations to be interpreted in our own way.",
+        "course": "DSN2730"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This was one of my favorite classes. Michael is a kind teacher who is willing to help you as much as you need. He's there to help you improve on your abilities and makes class a fun experience. He'll crack a joke once in a while and even adds in a life lesson here and there. Definitely take this class if you have the opportunity.",
+        "course": "DESIGN2310"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "I took one of Michael's classes for the Design minor, and I am planning on taking another! He was very helpful, and seemed to legitimately want his students to do well. I learned a lot in his class, and enjoyed it very much. His anecdotes are quite good, and he encouraged us to be creative and play up our own strengths.",
+        "course": "DESIGN3105"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Michael is more a friend than a professor. He is incredibly wise with anything drawing and much beyond. However he only makes a point to help students, and his emails quite frequently made my day. He will gladly help any way he can, and gives great feedback as to how someone can improve in the classroom and in life.",
+        "course": "DESIGN2300"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He's so awesome. Helpful, smart, explains things very well... We all love him, hes the best",
+        "course": "2310"
+      },
+      {
+        "index": 17,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Michael Kellner is amazing. He is hilarious and a really great guy. Loved his class. Love him. Definitely one of my all time favorite professors.",
+        "course": "AE2520"
+      },
+      {
+        "index": 18,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "I took it online. Prof. Kellner seems like a nice guy, and he's very passionate and knowledgeable about art. Though I wasn't impressed with the class itself, it involves mostly reading/writing and very little designing/art making, good for non-artists taking it for GE. An easy A as long as you don't miss any discussion post/projects.",
+        "course": "ARTEDUC2520"
       }
     ],
     "SEI": []

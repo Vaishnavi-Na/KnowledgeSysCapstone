@@ -1,26 +1,6 @@
 [
   {
     "avgDifficulty": 1,
-    "avgRating": 1,
-    "department": "Womens & Gender Studies",
-    "firstName": "Katherine",
-    "id": "VGVhY2hlci0zMDQzNzYw",
-    "lastName": "Roos",
-    "legacyId": 3043760,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "Graded almost everything complete/incomplete. Didn't grade anything from the first couple weeks until towards the very end of the semester. Grading was inconsistent also. Extra credit made available. Easy assignments.",
-        "course": "WGSST-1110"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
     "avgRating": 4,
     "department": "Womens & Gender Studies",
     "firstName": "Varsha",
@@ -35,6 +15,26 @@
         "difficulty": 1,
         "comment": "Can tell she is trying to help.Diligent. No textbook but a lot of scanned readings. Some readings are hard to understand and quiz questions sometimes a little bit confusing (they are relatively easy though)put effort in = good grade. So far OK.",
         "course": "WGSST1110"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 1,
+    "department": "Womens & Gender Studies",
+    "firstName": "Katherine",
+    "id": "VGVhY2hlci0zMDQzNzYw",
+    "lastName": "Roos",
+    "legacyId": 3043760,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "Graded almost everything complete/incomplete. Didn't grade anything from the first couple weeks until towards the very end of the semester. Grading was inconsistent also. Extra credit made available. Easy assignments.",
+        "course": "WGSST-1110"
       }
     ],
     "SEI": []

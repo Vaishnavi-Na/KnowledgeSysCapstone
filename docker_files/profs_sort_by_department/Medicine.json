@@ -1,5 +1,1347 @@
 [
   {
+    "avgDifficulty": 1.5,
+    "avgRating": 4,
+    "department": "Medicine",
+    "firstName": "Martin",
+    "id": "VGVhY2hlci0yODk3ODk3",
+    "lastName": "Fitzgerald",
+    "legacyId": 2897897,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The class had weekly readings and every class could have a pop quiz. The pop quizzes were easy, only 3 questions and if you read the reading you should be able to pass it. For example the reading could be about a disease and a question would ask what disease it was. Loved the lectures and was very good at explaining topics and answering questions.",
+        "course": "BIOETHC2010"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Only homework was the readings, but readings were a lot. Only grades were pop quizzes, attendance, and exams. Pop quizzes were annoying because you didn't know how many there would be, but he only kept the top 9 scores. As long as you email him before the lecture missing class won't affect your grade.",
+        "course": "BIOETHC2010"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "2010",
+        "Class Name": "Ethics of Biomedical Science Research",
+        "Class Number": "2664",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "49",
+        "Rating": "4.49"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "5030",
+        "Class Name": "Neuroethics",
+        "Class Number": "37557",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "2010",
+        "Class Name": "Ethics of Biomedical Science Research",
+        "Class Number": "2646",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "2010",
+        "Class Name": "Ethics of Biomedical Science Research",
+        "Class Number": "2667",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.59"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.6,
+    "avgRating": 4.4,
+    "department": "Medicine",
+    "firstName": "Richard",
+    "id": "VGVhY2hlci01MTE1MA==",
+    "lastName": "Fertel",
+    "legacyId": 51150,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This man is just a great prof overall, does not give tests that often and he is laid back. ",
+        "course": "DENTDENT"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Great Professor,extremely prepared for class- clear about what exams cover. Only tests off material he writes down and projects on an overhead projector while he's lecturing. Explains relevant but complicated physiological and biochemical processes extremely  clearly and concisely- You can just tell he put a lot of effort into preparing the course",
+        "course": "DENT6571"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Excellent professor. He writes his notes out on an overhead, so you know he'll not lecture too fast. He tells stories to assist in remembering and often provides mnemonics. His class and exams are not easy but if you know the material you need not worry. He never tries to trick you though he'll make you think. Go to class; this man truly teaches.",
+        "course": "GENERALPHARM"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Best Teacher at OSU that I've had.",
+        "course": "DENTDENT"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "PHARM"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4,
+    "department": "Medicine",
+    "firstName": "Holly",
+    "id": "VGVhY2hlci0yNDg0MTg0",
+    "lastName": "Estes",
+    "legacyId": 2484184,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Class was interesting, but lectures could tend to be a bit long. Only had 2 midterms, 2 assignments, and a final. Only 300 points total In the class. Though, not hard just follow the study guides that are given! Have to take good notes though as she does not post completed slides. And there is no use of electronics at all. Overall not a bad class!",
+        "course": "HTHRHSC4530"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "4900",
+        "Class Name": "Evidence-Based Research in Health Sciences",
+        "Class Number": "4114",
+        "Term": "SU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "4900.01",
+        "Class Name": "Evidence-based Research in Health Care",
+        "Class Number": "4113",
+        "Term": "SU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "4530",
+        "Class Name": "Nutrition for Fitness",
+        "Class Number": "4869",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "4320",
+        "Class Name": "Clinical Interviewing & Risk Assessment in Healthcare",
+        "Class Number": "5375",
+        "Term": "AU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "4530",
+        "Class Name": "Nutrition for Fitness",
+        "Class Number": "4895",
+        "Term": "SP 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "4320",
+        "Class Name": "Clinical Interviewing & Risk Assessment in Healthcare",
+        "Class Number": "5673",
+        "Term": "AU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "4530",
+        "Class Name": "Nutrition for Fitness",
+        "Class Number": "5079",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "4320",
+        "Class Name": "Clinical Interviewing & Risk Assessment in Healthcare",
+        "Class Number": "5826",
+        "Term": "AU 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6200",
+        "Class Name": "Medical Nutrition Therapy and Pathophysiology III",
+        "Class Number": "4584",
+        "Term": "SU 24",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6250",
+        "Class Name": "Nutrition Care Process Laboratory III",
+        "Class Number": "4585",
+        "Term": "SU 24",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6300",
+        "Class Name": "Advanced Nutrition Counseling Education",
+        "Class Number": "34420",
+        "Term": "AU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6150",
+        "Class Name": "Nutrition Care Process Laboratory II",
+        "Class Number": "34428",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6200",
+        "Class Name": "Medical Nutrition Therapy and Pathophysiology III",
+        "Class Number": "22076",
+        "Term": "SU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "3.9"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6250",
+        "Class Name": "Nutrition Care Process Laboratory III",
+        "Class Number": "22077",
+        "Term": "SU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6150",
+        "Class Name": "Nutrition Care Process Laboratory II",
+        "Class Number": "34542",
+        "Term": "SP 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6200",
+        "Class Name": "Medical Nutrition Therapy and Pathophysiology III",
+        "Class Number": "4364",
+        "Term": "SU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6250",
+        "Class Name": "Nutrition Care Process Laboratory III",
+        "Class Number": "4365",
+        "Term": "SU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6589",
+        "Class Name": "Supervised Practice: Community",
+        "Class Number": "4366",
+        "Term": "SU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6189",
+        "Class Name": "Supervised Practice: Acute Care",
+        "Class Number": "5836",
+        "Term": "AU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6150",
+        "Class Name": "Nutrition Care Process Laboratory II",
+        "Class Number": "5558",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6189",
+        "Class Name": "Supervised Practice: Acute Care",
+        "Class Number": "5559",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6200",
+        "Class Name": "Medical Nutrition Therapy and Pathophysiology III",
+        "Class Number": "4437",
+        "Term": "SU 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6250",
+        "Class Name": "Nutrition Care Process Laboratory III",
+        "Class Number": "4438",
+        "Term": "SU 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6450",
+        "Class Name": "Pediatric Nutrition Therapy",
+        "Class Number": "38217",
+        "Term": "AU 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6150",
+        "Class Name": "Nutrition Care Process Laboratory II",
+        "Class Number": "5692",
+        "Term": "SP 24",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "MDN",
+        "Catalog": "6389",
+        "Class Name": "Supervised Practice III",
+        "Class Number": "35935",
+        "Term": "SP 24",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5189",
+        "Class Name": "Dietetic Professional Practice I",
+        "Class Number": "5008",
+        "Term": "AU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5289",
+        "Class Name": "Dietetic Professional Practice II",
+        "Class Number": "5009",
+        "Term": "AU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5800",
+        "Class Name": "Advanced Nutrition Therapy in Complex Disease States",
+        "Class Number": "4961",
+        "Term": "AU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5800",
+        "Class Name": "Advanced Nutrition Therapy in Complex Disease States",
+        "Class Number": "4962",
+        "Term": "AU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5189",
+        "Class Name": "Dietetic Professional Practice I",
+        "Class Number": "3870",
+        "Term": "SU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5289",
+        "Class Name": "Dietetic Professional Practice II",
+        "Class Number": "4880",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "6100",
+        "Class Name": "Care and Management of Diabetes Mellitus",
+        "Class Number": "34434",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5189",
+        "Class Name": "Dietetic Professional Practice I",
+        "Class Number": "3859",
+        "Term": "SU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5289",
+        "Class Name": "Dietetic Professional Practice II",
+        "Class Number": "4988",
+        "Term": "AU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5800",
+        "Class Name": "Advanced Nutrition Therapy in Complex Disease States",
+        "Class Number": "4941",
+        "Term": "AU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "4925",
+        "Class Name": "Nutrition Care Process VI",
+        "Class Number": "4908",
+        "Term": "SP 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "6100",
+        "Class Name": "Care and Management of Diabetes Mellitus",
+        "Class Number": "36626",
+        "Term": "SP 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5189",
+        "Class Name": "Dietetic Professional Practice I",
+        "Class Number": "4075",
+        "Term": "SU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5289",
+        "Class Name": "Dietetic Professional Practice II",
+        "Class Number": "5300",
+        "Term": "AU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "5800",
+        "Class Name": "Advanced Nutrition Therapy in Complex Disease States",
+        "Class Number": "5255",
+        "Term": "AU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDDIET",
+        "Catalog": "6100",
+        "Class Name": "Care and Management of Diabetes Mellitus",
+        "Class Number": "5610",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1.4,
+    "avgRating": 5,
+    "department": "Medicine",
+    "firstName": "Sorabh",
+    "id": "VGVhY2hlci0yNDU2MDcw",
+    "lastName": "Khandelwal",
+    "legacyId": 2456070,
+    "numRatings": 27,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "vghbfduhge",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Nice professor",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "TAKE THIS COURSE W DR KHANDELWAL!!! extremely helpful and he is genuinely so caring for his students",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "dr khandelwal is amazing and has so much great advice to give. such an amazing physician and professor. ",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I had him for MEDCOLL 2000 and the class was so helpful and just eye opening. Dr. Khandelwal was so helpful in helping me know how to get extracurricular and was always down to answer questions.",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He is the GOAT. Dr. K was very informative and straightforward with this course. He prepares all of his students well for applying to medical school since that is a big chunk of this course. If you're pre-med, I would definitely recommend to take this course!",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Very informative and helpful. ",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "There was usually one assignment due each week and most lectures were a big discussion or panel. ",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I also took/am taking 2022. Dr. Khandelwal is an extremely personable professor who is willing to go above and beyond to help students. Both classes are a must if you are serious about pursuing medicine. ",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Khandelwal was absolutely amazing. He gave us all such valuable information about the process of applying to medical school and the life as a med student, resident, and doctor. I would recommend this class to anyone who is looking for more info regarding these topics. 12/10 would do again",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He's cool",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. K was great and this course was extremely informational! I learned so much from both Dr. K and the speakers be brought in. ",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. K does a great job of communicating information well and emphasizing the importance of mental health and wellbeing. He truly cares about teaching and being the best he can for his students. Dr. K is also very honest and willing to share any advice, wisdom, experience, or constructive criticism in order to make you a better student. ",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Very easy course mostly designed to help you through the medical school application process and to decide if it is the right path for you. Attendance is mandatory but all assignments are graded easy. The professors and TAs are the most caring ones you will have at OSU!",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Amazing professor. I would highly recommend this class for anyone who wants to pursue medicine. Amazing class that teaches the ins-and-outs when it comes to med school (application, life in medical school, resume building tips, etc).",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I did not expect there to be an in-person component to the shadowing class. I really enjoyed the lectures from Dr. Khandewal, and what Dr. Khandewal added to the guest lecturers. ",
+        "course": "MEDCOLL2022"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "One of the best I have ever had, really cares about his students and our learning. A true homie",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "AMAZING Professor. Is very real and open about the truths of going into medicine.",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Khandelwal is a dream for any pre-med student. He is incredibly kind and understanding, and treats every student as though they are important. He hopes to get us all into good medical schools, and is helping us along the way through every step. I feel like I can go to him with anything, and he is such a huge inspiration!!",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I wish all my professors were like Dr. K",
+        "course": "MEDCOLL2022"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "A helpful professor in more ways than one, he provides excellent insights and feedback into what it takes to become not only a physician but also how to better yourself as a person through his own experiences and stories. You can tell he genuinely cares for the course and his students I would highly recommend this course to all premed students.",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Amazing professor that truly cares about his students! The course was great and provided so much insight on the difficult path of becoming a physician. Sorabh specifically was a very caring and interesting professor that wanted to lead his students down the right career path and help them achieve their goals.",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 23,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He's an incredible professor. Such a wonderful speaker and made this class very enjoyable for me. I learned so much throughout the semester and Ioved the speakers and resources that he provided (with the help of his great teaching assistants.) Highly recommend this course!",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 24,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Not like any other professor I've had. He gives really good insight on the medical field and what there is to expect. He and his teaching assistants arranged these really great talks. There should be more professors like him. Thanks for a great undergraduate experience.",
+        "course": "MEDCOLL2000"
+      },
+      {
+        "index": 25,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Good guy. Pretty dope. Fun class- could be more organized but its kinda refreshing to not have to stick strictly to the syllabus",
+        "course": "MEDCOLL200021"
+      },
+      {
+        "index": 26,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. K is an amazing professor. He is a very busy individual yet still takes time to dedicate to undergraduate pre-med students. His class is taught to help students prepare for medical school admissions and is full of helpful tips and advice. This is easily one of the most influential classes I have taken during undergrad.",
+        "course": "MEDCOLL2022"
+      },
+      {
+        "index": 27,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "One of the best (possibly THE best) professors that I've had since being on campus. Genuinely cares about every single student and wants you to succeed. Goes out of his way to know you on a personal level and even though his class is pass/fail he makes you want to show up because everything is meaningful. He is hilarious!!!",
+        "course": "MEDCOLL2000"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2000.21",
+        "Class Name": "Introduction to Medicine",
+        "Class Number": "2566",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "56",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2022",
+        "Class Name": "A Day in the Life: Undergraduate Physician Shadowing",
+        "Class Number": "2689",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "58",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2000.21",
+        "Class Name": "Introduction to Medicine",
+        "Class Number": "2570",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "42",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2022",
+        "Class Name": "A Day in the Life: Undergraduate Physician Shadowing",
+        "Class Number": "2719",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "69",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2000",
+        "Class Name": "Introduction to Medicine",
+        "Class Number": "2533",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "52",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2022",
+        "Class Name": "A Day in the Life: Undergraduate Physician Shadowing",
+        "Class Number": "2656",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "80",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2000.21",
+        "Class Name": "Introduction to Medicine",
+        "Class Number": "2575",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "33",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2022",
+        "Class Name": "A Day in the Life: Undergraduate Physician Shadowing",
+        "Class Number": "2724",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "53",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2000.21",
+        "Class Name": "Introduction to Medicine",
+        "Class Number": "2670",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "46",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2022",
+        "Class Name": "A Day in the Life: Undergraduate Physician Shadowing",
+        "Class Number": "2790",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "65",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2000.21",
+        "Class Name": "Introduction to Medicine",
+        "Class Number": "2563",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "36",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2022",
+        "Class Name": "A Day in the Life: Undergraduate Physician Shadowing",
+        "Class Number": "34455",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "66",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2000.21",
+        "Class Name": "Introduction to Medicine",
+        "Class Number": "2652",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "35",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2022",
+        "Class Name": "A Day in the Life: Undergraduate Physician Shadowing",
+        "Class Number": "2772",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "65",
+        "Rating": "4.54"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2000.21",
+        "Class Name": "Introduction to Medicine",
+        "Class Number": "2523",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "28",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "MEDCOLL",
+        "Catalog": "2022",
+        "Class Name": "A Day in the Life: Undergraduate Physician Shadowing",
+        "Class Number": "3422",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "54",
+        "Rating": "4.62"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.3,
+    "department": "Medicine",
+    "firstName": "Pamela",
+    "id": "VGVhY2hlci0zMDA0MTYw",
+    "lastName": "Rafferty-Semon",
+    "legacyId": 3004160,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Instructions can be very unclear more often than not, but she's very easy to work with, very nice, 10/10",
+        "course": "HTHRHSC2500"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "First off, Prof. Semon is a highly intellectually curios person. She is so kind and great at teaching. See sends out kind reminders and truly cares about each of her students. This class is extremely difficult to get an A in but because of Prof. Semon's help, I was able to. I would take this class again just because of her kindness to her students.",
+        "course": "HTHRHSC2500"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great professor, she was always ready to help if needed. The class had a decent amount of reading and work but was very manageable if you spread it out across the week. ",
+        "course": "HTHRHSC2500"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 4.3,
+    "department": "Medicine",
+    "firstName": "Marshall",
+    "id": "VGVhY2hlci04MzcxMTI=",
+    "lastName": "Williams",
+    "legacyId": 837112,
+    "numRatings": 8,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Be prepared for this class to be your major focus. If you can't make it that, don't take it. Tests: truefalse (correct the falses), fill in the blank, but mostly \"multiple choice\" (ALL 5 CHOICES CAN BE CORRECT, YOU HAVE TO SELECT  ALL CORRECT ONES). The last exam is ambiguously \"semicomprehensive.\" Grading scale is WEIRD (eg. A-  88-95)",
+        "course": "MICRO5149"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Good, not great, professor. The class is challenging, but spend time with the material and getting an A is not impossible at all (it definitely takes a good amount of time though). He can be difficult to understand, and doesn't answer questions all that directly. Sitting close to the front helps a lot because he moves quickly.",
+        "course": "MICRO649"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Truly great guy and a good professor to have, this was one of my favorite classes so far in microbiology.  If you have issues with understanding his southern accent try sitting closer to the front of the class, it helps a lot.",
+        "course": "MICRO649"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Nice guy; tries to make class interactive. The material was not difficult but the exam format made exams difficult. I was usually a couple of points above the average on exams and ended up with a B in the class. Willing to meet and help you learn. Downside: a bit confusing powerpoints and lightening-fast lecturer. Attendance is necessary to do well",
+        "course": "MICRO649"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This class was super interesting! The tests actually werent that bad (a little tricky) once you understood the material...but the hard part is actually understanding everything. The book is pretty much useless. You definitely need to go to class. He is so willing to help people and knows SO much...he talks about the subject like its so easy! Ha!",
+        "course": "MICRO649"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "really tough class but not impossible. i really learned a lot and dr. williams is a great teacher",
+        "course": "VIROL649"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "VIROLOGY649"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Man this guy is cool but his tests will kick your ass! His class was super interesting and he knows everything you could possibly ask him- which is probably why he expects a lot out of his students. Study study study and you should probably pass- just kidding you'll do fine. bonus: he went out with us after each exam! coolest prof. ever!",
+        "course": "VIROLOGY649"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "7741",
+        "Class Name": "Molecular Virology and Pathologenesis of Viruses",
+        "Class Number": "15430",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "4"
+      },
+      {
+        "Subject": "VETBIOS",
+        "Catalog": "7741",
+        "Class Name": "Molecular Virology and Pathologenesis of Viruses",
+        "Class Number": "5626",
+        "Term": "AU 20",
+        "College": "Veterinary Medicine",
+        "Department": "Veterinary Biosciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "VETBIOS",
+        "Catalog": "7741",
+        "Class Name": "Molecular Virology and Pathologenesis of Viruses",
+        "Class Number": "5605",
+        "Term": "AU 21",
+        "College": "Veterinary Medicine",
+        "Department": "Veterinary Biosciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "VETBIOS",
+        "Catalog": "7741",
+        "Class Name": "Molecular Virology and Pathologenesis of Viruses",
+        "Class Number": "5957",
+        "Term": "AU 22",
+        "College": "Veterinary Medicine",
+        "Department": "Veterinary Biosciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "VETBIOS",
+        "Catalog": "7741",
+        "Class Name": "Molecular Virology and Pathologenesis of Viruses",
+        "Class Number": "6140",
+        "Term": "AU 23",
+        "College": "Veterinary Medicine",
+        "Department": "Veterinary Biosciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
     "avgDifficulty": 1,
     "avgRating": 5,
     "department": "Medicine",
@@ -401,7 +1743,22 @@
         "course": "PHR461"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PHR",
+        "Catalog": "7602",
+        "Class Name": "Integrated Pharmacotherapy II",
+        "Class Number": "15799",
+        "Term": "SP 21",
+        "College": "Pharmacy",
+        "Department": "Pharmacy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "109",
+        "Rating": "4.9"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.5,
@@ -470,55 +1827,715 @@
         "course": "BIOETHICS3000"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "3000",
+        "Class Name": "Case Studies in Medical and Healthcare Ethics",
+        "Class Number": "2684",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.32"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6030",
+        "Class Name": "Bioethics, Law, & Public Policy",
+        "Class Number": "2687",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6040",
+        "Class Name": "Bioethics Symposium I",
+        "Class Number": "2685",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "7070",
+        "Class Name": "President's Bioethics Councils",
+        "Class Number": "35451",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "7050",
+        "Class Name": "Pediatric and Perinatal Bioethics",
+        "Class Number": "3137",
+        "Term": "SU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "3000",
+        "Class Name": "Case Studies in Medical and Healthcare Ethics",
+        "Class Number": "2371",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "4000",
+        "Class Name": "Readings in Bioethics",
+        "Class Number": "2713",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6050",
+        "Class Name": "Bioethics Symposium 2",
+        "Class Number": "2715",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "7080",
+        "Class Name": "Belmont Report",
+        "Class Number": "35833",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "7050",
+        "Class Name": "Pediatric and Perinatal Bioethics",
+        "Class Number": "3126",
+        "Term": "SU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "3000",
+        "Class Name": "Case Studies in Medical and Healthcare Ethics",
+        "Class Number": "2651",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6030",
+        "Class Name": "Bioethics, Law, & Public Policy",
+        "Class Number": "2654",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6040",
+        "Class Name": "Bioethics Symposium I",
+        "Class Number": "2652",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "7040",
+        "Class Name": "Bioethics and the Holocaust",
+        "Class Number": "2995",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "4000",
+        "Class Name": "Readings in Bioethics",
+        "Class Number": "2718",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6050",
+        "Class Name": "Bioethics Symposium 2",
+        "Class Number": "2720",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "3000",
+        "Class Name": "Case Studies in Medical and Healthcare Ethics",
+        "Class Number": "2785",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6030",
+        "Class Name": "Bioethics, Law, & Public Policy",
+        "Class Number": "2788",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "7070",
+        "Class Name": "President's Bioethics Councils",
+        "Class Number": "34986",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3.75"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "4000",
+        "Class Name": "Readings in Bioethics",
+        "Class Number": "2706",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6030",
+        "Class Name": "Bioethics, Law, & Public Policy",
+        "Class Number": "35376",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "7080",
+        "Class Name": "Belmont Report",
+        "Class Number": "36580",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "4"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6030",
+        "Class Name": "Bioethics, Law, & Public Policy",
+        "Class Number": "2770",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6040",
+        "Class Name": "Bioethics Symposium I",
+        "Class Number": "2768",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "4000",
+        "Class Name": "Readings in Bioethics",
+        "Class Number": "2666",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6030",
+        "Class Name": "Bioethics, Law, & Public Policy",
+        "Class Number": "3429",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BIOETHC",
+        "Catalog": "6050",
+        "Class Name": "Bioethics Symposium 2",
+        "Class Number": "2668",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.89"
+      }
+    ]
   },
   {
-    "avgDifficulty": 3.6,
-    "avgRating": 4.4,
+    "avgDifficulty": 2.8,
+    "avgRating": 2.3,
     "department": "Medicine",
-    "firstName": "Richard",
-    "id": "VGVhY2hlci01MTE1MA==",
-    "lastName": "Fertel",
-    "legacyId": 51150,
+    "firstName": "Kevin",
+    "id": "VGVhY2hlci02MzAwNTQ=",
+    "lastName": "Evans",
+    "legacyId": 630054,
     "numRatings": 5,
     "Ratings": [
       {
         "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This man is just a great prof overall, does not give tests that often and he is laid back. ",
-        "course": "DENTDENT"
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "he is the director of the radsci program. terrible professor. he is unorganized, illogical, and rude.  i was an A student and never had problems with anyone, ever! he acts one way in front of people, then changes when there isn't an audience. he used the term retarded in a derogatory way multiple times which is extremely awful in the med field.",
+        "course": "RADSCIPROGRAM"
       },
       {
         "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Great Professor,extremely prepared for class- clear about what exams cover. Only tests off material he writes down and projects on an overhead projector while he's lecturing. Explains relevant but complicated physiological and biochemical processes extremely  clearly and concisely- You can just tell he put a lot of effort into preparing the course",
-        "course": "DENT6571"
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Boringg. All you have to do is go to class and write 2 2-page papers. The papers are very easy to write just make sure to pick a simple topic. He's a good guy interested in what he does but you have a guest lecturer every day.",
+        "course": "RADSC200"
       },
       {
         "index": 3,
         "rating": 4,
-        "difficulty": 4,
-        "comment": "Excellent professor. He writes his notes out on an overhead, so you know he'll not lecture too fast. He tells stories to assist in remembering and often provides mnemonics. His class and exams are not easy but if you know the material you need not worry. He never tries to trick you though he'll make you think. Go to class; this man truly teaches.",
-        "course": "GENERALPHARM"
+        "difficulty": 2,
+        "comment": "Dr. Evans is a nice man and is helpful as long as you seek him out and are persistant.  Rad Tech 200 was a really easy class as long as you do the writings assigned.  You won't have any trouble with this man.",
+        "course": "RADTE200"
       },
       {
         "index": 4,
-        "rating": 5,
+        "rating": 1,
         "difficulty": 4,
-        "comment": "Best Teacher at OSU that I've had.",
-        "course": "DENTDENT"
+        "comment": "I worked in Xray for 8 years and decided to go to OSU to get my BS. He failed me in 1 cr hr class due to family emergency. He has absolutely no sympathy and works in medical field. VERY DISAPPOINTING...I have since changed majors because I want nothing to",
+        "course": "RADTECH200"
       },
       {
         "index": 5,
-        "rating": 4,
+        "rating": 1,
         "difficulty": 4,
-        "comment": "No Comments",
-        "course": "PHARM"
+        "comment": "He knows the subject, but doesn't know how to teach.  He only wants you to be like him. Very boring to listen to.  He is a hard grader",
+        "course": "RADTECH560"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "RADSCI",
+        "Catalog": "3689",
+        "Class Name": "Sonography Practicum III",
+        "Class Number": "3900",
+        "Term": "SU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4432",
+        "Class Name": "General Concentration in Sonography 3",
+        "Class Number": "3903",
+        "Term": "SU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4488",
+        "Class Name": "Diagnostic Medical Sonography Physics 3",
+        "Class Number": "3905",
+        "Term": "SU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "3431",
+        "Class Name": "General Concentration in Sonography 2",
+        "Class Number": "4858",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "3487",
+        "Class Name": "Diagnostic Medical Sonography Physics 2",
+        "Class Number": "4863",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4630",
+        "Class Name": "Transitions to Clinical Practice",
+        "Class Number": "5040",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4789",
+        "Class Name": "Vascular Sonography Practicum II",
+        "Class Number": "4930",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "3486",
+        "Class Name": "Diagnostic Medical Sonography Physics 1",
+        "Class Number": "4926",
+        "Term": "AU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4426",
+        "Class Name": "Radiographic Imaging II",
+        "Class Number": "4917",
+        "Term": "AU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4520",
+        "Class Name": "Vascular Sonography 1",
+        "Class Number": "4931",
+        "Term": "AU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "3487",
+        "Class Name": "Diagnostic Medical Sonography Physics 2",
+        "Class Number": "4889",
+        "Term": "SP 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4630",
+        "Class Name": "Transitions to Clinical Practice",
+        "Class Number": "5066",
+        "Term": "SP 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4789",
+        "Class Name": "Vascular Sonography Practicum II",
+        "Class Number": "4956",
+        "Term": "SP 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4530",
+        "Class Name": "Quality Management in Radiologic Sciences",
+        "Class Number": "4111",
+        "Term": "SU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4730",
+        "Class Name": "Quality Improvement in Healthcare",
+        "Class Number": "5805",
+        "Term": "AU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "3431",
+        "Class Name": "General Concentration in Sonography 2",
+        "Class Number": "5068",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "3487",
+        "Class Name": "Diagnostic Medical Sonography Physics 2",
+        "Class Number": "5073",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "3589",
+        "Class Name": "Diagnostic Medical Sonography Practicum II",
+        "Class Number": "5311",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4630",
+        "Class Name": "Transitions to Clinical Practice",
+        "Class Number": "5247",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "RADSCI",
+        "Catalog": "4789",
+        "Class Name": "Vascular Sonography Practicum II",
+        "Class Number": "5138",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.67"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.7,
@@ -550,358 +2567,6 @@
         "difficulty": 4,
         "comment": "awesome prof... knows his stuff and knows how to teach it !",
         "course": "PHR"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 4,
-    "department": "Medicine",
-    "firstName": "Holly",
-    "id": "VGVhY2hlci0yNDg0MTg0",
-    "lastName": "Estes",
-    "legacyId": 2484184,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Class was interesting, but lectures could tend to be a bit long. Only had 2 midterms, 2 assignments, and a final. Only 300 points total In the class. Though, not hard just follow the study guides that are given! Have to take good notes though as she does not post completed slides. And there is no use of electronics at all. Overall not a bad class!",
-        "course": "HTHRHSC4530"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.4,
-    "avgRating": 5,
-    "department": "Medicine",
-    "firstName": "Sorabh",
-    "id": "VGVhY2hlci0yNDU2MDcw",
-    "lastName": "Khandelwal",
-    "legacyId": 2456070,
-    "numRatings": 27,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "vghbfduhge",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Nice professor",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "TAKE THIS COURSE W DR KHANDELWAL!!! extremely helpful and he is genuinely so caring for his students",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "dr khandelwal is amazing and has so much great advice to give. such an amazing physician and professor. ",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I had him for MEDCOLL 2000 and the class was so helpful and just eye opening. Dr. Khandelwal was so helpful in helping me know how to get extracurricular and was always down to answer questions.",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "He is the GOAT. Dr. K was very informative and straightforward with this course. He prepares all of his students well for applying to medical school since that is a big chunk of this course. If you're pre-med, I would definitely recommend to take this course!",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Very informative and helpful. ",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "There was usually one assignment due each week and most lectures were a big discussion or panel. ",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I also took/am taking 2022. Dr. Khandelwal is an extremely personable professor who is willing to go above and beyond to help students. Both classes are a must if you are serious about pursuing medicine. ",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Khandelwal was absolutely amazing. He gave us all such valuable information about the process of applying to medical school and the life as a med student, resident, and doctor. I would recommend this class to anyone who is looking for more info regarding these topics. 12/10 would do again",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "He's cool",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. K was great and this course was extremely informational! I learned so much from both Dr. K and the speakers be brought in. ",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. K does a great job of communicating information well and emphasizing the importance of mental health and wellbeing. He truly cares about teaching and being the best he can for his students. Dr. K is also very honest and willing to share any advice, wisdom, experience, or constructive criticism in order to make you a better student. ",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 14,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Very easy course mostly designed to help you through the medical school application process and to decide if it is the right path for you. Attendance is mandatory but all assignments are graded easy. The professors and TAs are the most caring ones you will have at OSU!",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Amazing professor. I would highly recommend this class for anyone who wants to pursue medicine. Amazing class that teaches the ins-and-outs when it comes to med school (application, life in medical school, resume building tips, etc).",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I did not expect there to be an in-person component to the shadowing class. I really enjoyed the lectures from Dr. Khandewal, and what Dr. Khandewal added to the guest lecturers. ",
-        "course": "MEDCOLL2022"
-      },
-      {
-        "index": 17,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "One of the best I have ever had, really cares about his students and our learning. A true homie",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 18,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "AMAZING Professor. Is very real and open about the truths of going into medicine.",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 19,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Khandelwal is a dream for any pre-med student. He is incredibly kind and understanding, and treats every student as though they are important. He hopes to get us all into good medical schools, and is helping us along the way through every step. I feel like I can go to him with anything, and he is such a huge inspiration!!",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 20,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I wish all my professors were like Dr. K",
-        "course": "MEDCOLL2022"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "A helpful professor in more ways than one, he provides excellent insights and feedback into what it takes to become not only a physician but also how to better yourself as a person through his own experiences and stories. You can tell he genuinely cares for the course and his students I would highly recommend this course to all premed students.",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 22,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Amazing professor that truly cares about his students! The course was great and provided so much insight on the difficult path of becoming a physician. Sorabh specifically was a very caring and interesting professor that wanted to lead his students down the right career path and help them achieve their goals.",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 23,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "He's an incredible professor. Such a wonderful speaker and made this class very enjoyable for me. I learned so much throughout the semester and Ioved the speakers and resources that he provided (with the help of his great teaching assistants.) Highly recommend this course!",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 24,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Not like any other professor I've had. He gives really good insight on the medical field and what there is to expect. He and his teaching assistants arranged these really great talks. There should be more professors like him. Thanks for a great undergraduate experience.",
-        "course": "MEDCOLL2000"
-      },
-      {
-        "index": 25,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Good guy. Pretty dope. Fun class- could be more organized but its kinda refreshing to not have to stick strictly to the syllabus",
-        "course": "MEDCOLL200021"
-      },
-      {
-        "index": 26,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. K is an amazing professor. He is a very busy individual yet still takes time to dedicate to undergraduate pre-med students. His class is taught to help students prepare for medical school admissions and is full of helpful tips and advice. This is easily one of the most influential classes I have taken during undergrad.",
-        "course": "MEDCOLL2022"
-      },
-      {
-        "index": 27,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "One of the best (possibly THE best) professors that I've had since being on campus. Genuinely cares about every single student and wants you to succeed. Goes out of his way to know you on a personal level and even though his class is pass/fail he makes you want to show up because everything is meaningful. He is hilarious!!!",
-        "course": "MEDCOLL2000"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.5,
-    "avgRating": 4,
-    "department": "Medicine",
-    "firstName": "Martin",
-    "id": "VGVhY2hlci0yODk3ODk3",
-    "lastName": "Fitzgerald",
-    "legacyId": 2897897,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "The class had weekly readings and every class could have a pop quiz. The pop quizzes were easy, only 3 questions and if you read the reading you should be able to pass it. For example the reading could be about a disease and a question would ask what disease it was. Loved the lectures and was very good at explaining topics and answering questions.",
-        "course": "BIOETHC2010"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Only homework was the readings, but readings were a lot. Only grades were pop quizzes, attendance, and exams. Pop quizzes were annoying because you didn't know how many there would be, but he only kept the top 9 scores. As long as you email him before the lecture missing class won't affect your grade.",
-        "course": "BIOETHC2010"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 4.3,
-    "department": "Medicine",
-    "firstName": "Pamela",
-    "id": "VGVhY2hlci0zMDA0MTYw",
-    "lastName": "Rafferty-Semon",
-    "legacyId": 3004160,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Instructions can be very unclear more often than not, but she's very easy to work with, very nice, 10/10",
-        "course": "HTHRHSC2500"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "First off, Prof. Semon is a highly intellectually curios person. She is so kind and great at teaching. See sends out kind reminders and truly cares about each of her students. This class is extremely difficult to get an A in but because of Prof. Semon's help, I was able to. I would take this class again just because of her kindness to her students.",
-        "course": "HTHRHSC2500"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great professor, she was always ready to help if needed. The class had a decent amount of reading and work but was very manageable if you spread it out across the week. ",
-        "course": "HTHRHSC2500"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 4.3,
-    "department": "Medicine",
-    "firstName": "Marshall",
-    "id": "VGVhY2hlci04MzcxMTI=",
-    "lastName": "Williams",
-    "legacyId": 837112,
-    "numRatings": 8,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Be prepared for this class to be your major focus. If you can't make it that, don't take it. Tests: truefalse (correct the falses), fill in the blank, but mostly \"multiple choice\" (ALL 5 CHOICES CAN BE CORRECT, YOU HAVE TO SELECT  ALL CORRECT ONES). The last exam is ambiguously \"semicomprehensive.\" Grading scale is WEIRD (eg. A-  88-95)",
-        "course": "MICRO5149"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Good, not great, professor. The class is challenging, but spend time with the material and getting an A is not impossible at all (it definitely takes a good amount of time though). He can be difficult to understand, and doesn't answer questions all that directly. Sitting close to the front helps a lot because he moves quickly.",
-        "course": "MICRO649"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Truly great guy and a good professor to have, this was one of my favorite classes so far in microbiology.  If you have issues with understanding his southern accent try sitting closer to the front of the class, it helps a lot.",
-        "course": "MICRO649"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "Nice guy; tries to make class interactive. The material was not difficult but the exam format made exams difficult. I was usually a couple of points above the average on exams and ended up with a B in the class. Willing to meet and help you learn. Downside: a bit confusing powerpoints and lightening-fast lecturer. Attendance is necessary to do well",
-        "course": "MICRO649"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "This class was super interesting! The tests actually werent that bad (a little tricky) once you understood the material...but the hard part is actually understanding everything. The book is pretty much useless. You definitely need to go to class. He is so willing to help people and knows SO much...he talks about the subject like its so easy! Ha!",
-        "course": "MICRO649"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "really tough class but not impossible. i really learned a lot and dr. williams is a great teacher",
-        "course": "VIROL649"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "VIROLOGY649"
-      },
-      {
-        "index": 8,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Man this guy is cool but his tests will kick your ass! His class was super interesting and he knows everything you could possibly ask him- which is probably why he expects a lot out of his students. Study study study and you should probably pass- just kidding you'll do fine. bonus: he went out with us after each exam! coolest prof. ever!",
-        "course": "VIROLOGY649"
       }
     ],
     "SEI": []
@@ -1679,54 +3344,6 @@
         "difficulty": 2,
         "comment": "No Comments",
         "course": "MOLBIOCHEM"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.8,
-    "avgRating": 2.3,
-    "department": "Medicine",
-    "firstName": "Kevin",
-    "id": "VGVhY2hlci02MzAwNTQ=",
-    "lastName": "Evans",
-    "legacyId": 630054,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "he is the director of the radsci program. terrible professor. he is unorganized, illogical, and rude.  i was an A student and never had problems with anyone, ever! he acts one way in front of people, then changes when there isn't an audience. he used the term retarded in a derogatory way multiple times which is extremely awful in the med field.",
-        "course": "RADSCIPROGRAM"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Boringg. All you have to do is go to class and write 2 2-page papers. The papers are very easy to write just make sure to pick a simple topic. He's a good guy interested in what he does but you have a guest lecturer every day.",
-        "course": "RADSC200"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Dr. Evans is a nice man and is helpful as long as you seek him out and are persistant.  Rad Tech 200 was a really easy class as long as you do the writings assigned.  You won't have any trouble with this man.",
-        "course": "RADTE200"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I worked in Xray for 8 years and decided to go to OSU to get my BS. He failed me in 1 cr hr class due to family emergency. He has absolutely no sympathy and works in medical field. VERY DISAPPOINTING...I have since changed majors because I want nothing to",
-        "course": "RADTECH200"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "He knows the subject, but doesn't know how to teach.  He only wants you to be like him. Very boring to listen to.  He is a hard grader",
-        "course": "RADTECH560"
       }
     ],
     "SEI": []

@@ -1,5 +1,110 @@
 [
   {
+    "avgDifficulty": 3.3,
+    "avgRating": 3.7,
+    "department": "Speech & Hearing Sciences",
+    "firstName": "Sarah",
+    "id": "VGVhY2hlci0yODYxOTQ0",
+    "lastName": "Leopold",
+    "legacyId": 2861944,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Dr Leopold is a great person, she is so nice and obviously cares about her students. That being said, I don't think I learned a single thing in this class that I will remember. I did not retain anything or follow the lectures at all. Graded only by a few quizzes, two group projects, and one final exam that was all short answer. ",
+        "course": "3340"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Sarah is a nice person. Her class is relatively difficult by nature, but she is willing to repeat any difficult concepts during class. Graded by only two projects, 6 quizzes, & an exam. Attendance not required. Her final project expectations were unclear. She does not reply to emails. Exam all written response. Overall, I would recommend her!",
+        "course": "3340"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "The structure of this course was a bit confusing, since reading the textbook outside of class was more relevant to getting a good grade than attending the lectures. Other than that, Sarah was helpful when asking questions about the group projects and she's not a super difficult grader.",
+        "course": "3340"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "3340",
+        "Class Name": "Introduction to the Art and Science of Sound",
+        "Class Number": "22490",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "3340",
+        "Class Name": "Introduction to the Art and Science of Sound",
+        "Class Number": "21476",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "34",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "3340",
+        "Class Name": "Introduction to the Art and Science of Sound",
+        "Class Number": "22387",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5785",
+        "Class Name": "Research Methods I",
+        "Class Number": "30506",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3.75"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "3340",
+        "Class Name": "Introduction to the Art and Science of Sound",
+        "Class Number": "21257",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.55"
+      }
+    ]
+  },
+  {
     "avgDifficulty": 4.1,
     "avgRating": 2.2,
     "department": "Speech & Hearing Sciences",
@@ -233,7 +338,218 @@
         "course": "SPHHRNG2230"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "2230",
+        "Class Name": "Introduction to Communication and Its Disorders",
+        "Class Number": "19658",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "72",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6725",
+        "Class Name": "Language Acquisition and Early Intervention in Language Delay",
+        "Class Number": "19673",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.96"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "2230",
+        "Class Name": "Introduction to Communication and Its Disorders",
+        "Class Number": "20712",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "31",
+        "Rating": "4.55"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6763",
+        "Class Name": "Motor Speech Disorders",
+        "Class Number": "20930",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "2230",
+        "Class Name": "Introduction to Communication and Its Disorders",
+        "Class Number": "17682",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "44",
+        "Rating": "4.81"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6725",
+        "Class Name": "Language Acquisition and Early Intervention in Language Delay",
+        "Class Number": "17697",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.96"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "2230",
+        "Class Name": "Introduction to Communication and Its Disorders",
+        "Class Number": "14839",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "32",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6763",
+        "Class Name": "Motor Speech Disorders",
+        "Class Number": "15057",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6725",
+        "Class Name": "Language Acquisition and Early Intervention in Language Delay",
+        "Class Number": "21487",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "2230",
+        "Class Name": "Introduction to Communication and Its Disorders",
+        "Class Number": "20989",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6763",
+        "Class Name": "Motor Speech Disorders",
+        "Class Number": "21205",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "2230",
+        "Class Name": "Introduction to Communication and Its Disorders",
+        "Class Number": "24037",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "48",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6725",
+        "Class Name": "Language Acquisition and Early Intervention in Language Delay",
+        "Class Number": "24052",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "2230",
+        "Class Name": "Introduction to Communication and Its Disorders",
+        "Class Number": "21251",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6763",
+        "Class Name": "Motor Speech Disorders",
+        "Class Number": "21461",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.89"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.5,
@@ -456,7 +772,232 @@
         "course": "ENGL101"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ASL",
+        "Catalog": "1102",
+        "Class Name": "Elementary American Sign Language II",
+        "Class Number": "13078",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1102",
+        "Class Name": "Elementary American Sign Language II",
+        "Class Number": "13079",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.15"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "23829",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "17",
+        "Rating": "4.29"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "34104",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1102",
+        "Class Name": "Elementary American Sign Language II",
+        "Class Number": "16791",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1102",
+        "Class Name": "Elementary American Sign Language II",
+        "Class Number": "16792",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "16797",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "16798",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.18"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1102",
+        "Class Name": "Elementary American Sign Language II",
+        "Class Number": "11104",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "11105",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "11106",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.27"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "11107",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1102",
+        "Class Name": "Elementary American Sign Language II",
+        "Class Number": "10917",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.46"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1102",
+        "Class Name": "Elementary American Sign Language II",
+        "Class Number": "10919",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1102",
+        "Class Name": "Elementary American Sign Language II",
+        "Class Number": "10920",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.35"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1102",
+        "Class Name": "Elementary American Sign Language II",
+        "Class Number": "22405",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.38"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -486,477 +1027,164 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 1.3,
-    "avgRating": 4.7,
-    "department": "Speech & Hearing Sciences",
-    "firstName": "Jennifer",
-    "id": "VGVhY2hlci0xODYxNDg5",
-    "lastName": "Brello",
-    "legacyId": 1861489,
-    "numRatings": 13,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Jen is absolutely amazing. Anyone who is an aspiring SLP can learn so much from her. She will help you with anything- including grad school application questions- without ever making you feel dumb. She is truly inspiring with the work she does for the people in the Aphasia Initiative. The woman deserves an award!",
-        "course": "SHS2230"
-      },
-      {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "Class is not challenging.  As everyone else said - you dont need the text, you dont have to go to class, you can go to the study session before the test and know exactly what you will be tested on.  Expected more for a course in my future profession.",
-        "course": "SHS2230"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Three tests, three labs and four response papers on guest speakers. As everyone else has said, Jen is very approachable and very good at what she does. Look over major points from each lecture, and you'll do fine on the tests.",
-        "course": "SPHHRNG4520"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Jen Brello is a great professor, very nice and exams are simple. No need to purchase the textbook whatsoever. Also.. you can get an A as long as you go to the review sessions the class before the exam and study the notes you take there. Would recommend taking any course with her, keeps everyone interested and knows her stuff. ",
-        "course": "2230"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Jen is amazing. She was one of the sweetest professors I've had at OSU. I'm looking forward to having her again. The class itself was very easy. The review sessions before the midterms are VERY close to the actual test. Easy A. ",
-        "course": "SHS2230"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "She's the best!",
-        "course": "SHS230"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Jen is a fantastic teacher. She is one of the nicest people I have ever met and truly cares about her students. She will do anything to help a student. Her lectures are interesting and she prepares you very well for her three exams.",
-        "course": "4520"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "absolutely love jen! Talked to her after class many times with questions about speech and hearing sciences career options, grad school etc and she was so eager to help and truly cares. Her class is a must take!",
-        "course": "SPEECH2230"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Lectures are interesting and as long as they need to be. If she finishes her lecture early, class will end early. Brello is a great communicator. Went to office hours and got advice about graduate school. She truly cares. ",
-        "course": "INTROTOSLP"
-      },
-      {
-        "index": 10,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "DR Brello was an awesome professor. I enjoyed the class a lot. It was very fun and interesting. ",
-        "course": "2230"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Jennifer was Great! Loved all the guest speakers. Book not needed. Just attend review sessions and you will get an A!",
-        "course": "SHS2230"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Attendance of this class not mandatory, but you will at least want to attend review sessions prior to exams. Do this and you will pass. Jennifer is super sweet. 2 additional assignments along with three exams are easy, and there is no final.",
-        "course": "SHS2230"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Jen Brello was an excellent professor. The exams are nearly 100% based upon lecture material. ATTEND REVIEW LECTURES! I went to a total of about 7 lectures through the entire semester and pulled an A- by taking good notes and studying hard the night before exams.",
-        "course": "SHS2230"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Speech & Hearing Sciences",
-    "firstName": "Bethany Beth",
-    "id": "VGVhY2hlci0yNTkzMTU5",
-    "lastName": "Frick",
-    "legacyId": 2593159,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Beth is awesome! Her exams are not the best (very application based) but as a lecturer &amp; person she is awesome. She is very open &amp; easy to talk to, genuinely seems like she cares about her students. She was great about that online transition after the Covid19 outbreak. Extra credit is available too.",
-        "course": "SHS4430"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.7,
+    "avgDifficulty": 1.8,
     "avgRating": 2.5,
     "department": "Speech & Hearing Sciences",
-    "firstName": "Sharon",
-    "id": "VGVhY2hlci04MDcwODU=",
-    "lastName": "Ross",
-    "legacyId": 807085,
-    "numRatings": 18,
+    "firstName": "William",
+    "id": "VGVhY2hlci0xMTA4NDgz",
+    "lastName": "Secord",
+    "legacyId": 1108483,
+    "numRatings": 10,
     "Ratings": [
       {
         "index": 1,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Here are the facts, people. This is unbiassed truth. Sharon is a really nice person, a little bit strange but who isn't? She loves linguistics and has complete confidence in her abilities and her knowledge, however she makes impossible online quizzes and projects that she grades like no one's business. Extremely hard to do well / 2 E J S z H s bit",
-        "course": "LING1100"
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Dr. Secord has alot of knowledge in the field.  However, he didn't teach that often and made his PhD students do powerpoint lectures to us.  PhD students weren't useful because they were so nervous.  Excellent personality and very down to earth.  I wish he would have taught the class not the PhD students",
+        "course": "SHS330"
       },
       {
         "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Probably the worst professor Ive had at OSU. She assigned these IMPOSSIBLE online tests that have no clear answers. Had a B+, but because she waited until after the semester was over to give me FIFTIES on the project I finished w a C-. Some how I did better in calc 2 then I did her class and I really tried. Don't take her unless you have to.",
-        "course": "LING1100"
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "This guy is a joke.  Not only does he NOT teach, but he gets all of his grad students to lecture for him and they all do horribly.  It's a wonder why I went to class half the time.  I learned more from reading the textbooks than I did from listening to any of his/his grad. students lectures.",
+        "course": "SHS330"
       },
       {
         "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "She is very unorganized when it comes to assignments. Any assignment she gives you is really busy and she is very picky. She is a very tough grader and when you ask questions, she makes you feel really dumb. She also has you read a bunch of papers and wants you to take notes. The notes are graded and if you do not put every detail in them, ur toast",
-        "course": "LING3710"
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "annoying, didn't learn anything, but still got an A. the class was at 7 30 a.m. and attendence wasn't mandatory so you could use powerpoints AND voice recordings for everything. basically a waste of time, especially since everyone in the class got a 40/40 on the writing assignments that i actually spent time doing.",
+        "course": "SH330"
       },
       {
         "index": 4,
         "rating": 1,
-        "difficulty": 5,
-        "comment": "Hard exam, a lot of exams, low grades for project.",
-        "course": "LING1100"
+        "difficulty": 1,
+        "comment": "class was a joke, didn't learn a thing, but got an A anyways.",
+        "course": "SHS330"
       },
       {
         "index": 5,
         "rating": 2,
-        "difficulty": 1,
-        "comment": "Having Sharon as a professor was a stressful experience. If you are somone who needs or prefers structure in learning, I wouldnt recommend taking her class. It was difficult to keep track of assignments, as there is no detailed syllabus/schedule. Shes knowledgeable about linguistics, but her disorganization undermined her efficacy as a professor.",
-        "course": "LING2367"
+        "difficulty": 3,
+        "comment": "completely useless and a blowhard; sent me a rude email when i politely asked for help. do not take his classes if you can avoid it",
+        "course": "SHS330"
       },
       {
         "index": 6,
         "rating": 1,
-        "difficulty": 4,
-        "comment": "This class is ridiculous. It is set up really clearly but her tests are so hard and she doesn't create power points or helpful lectures to correspond with them. Class lectures are really all over the place. If I had a do-over I would NOT take Sharon and go with the other linguistics prof.",
-        "course": "LING1100"
+        "difficulty": 1,
+        "comment": "UG students think he's OK because they don't care about learning any way. When you're in grad school preparing to BE an SLP, he couldn't be worse, because the things he is SUPPOSED to be teaching you actually NEED to know. Good luck in clinic and on the PRAXIS when you didn't learn ANYTHING about child language in class. And he has no research!",
+        "course": "SPHS725"
       },
       {
         "index": 7,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "She is a very tough grader and deducts major points for slight errors. Test are taken on Carmen but they are very difficult and you never see what you were marked off for. I dread this class every week and would not recommend.",
-        "course": "LING1100"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He was a fantastic teacher. I disagree with the two comments above, he cares greatly about the job he does and it was refreshing to have him last quarter. He is one faculty member that actually cares about the students and not so distracted by his research. I loved his lectures on leadership and feel they are extremely valuable. A++++",
+        "course": "SH330"
       },
       {
         "index": 8,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "She started off great, made us all feel like we could be open and ask questions and then when we would she was blunt and would say that she wouldnt answer them. Even to tell us that they were dumb questions.",
-        "course": "ENG3271"
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "This class was a waste of time. He said he wanted to teach us in a different way to help us remember things better, but I honestly don't feel like I learned a THING. It's definitely an easy A, but not worthwhile at all. He &quot;taught&quot; us too much about leadership and not enough about language.",
+        "course": "SHS330"
       },
       {
         "index": 9,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Terrible experience in this class. She says she wants to help those struggling but makes you feel stupid for asking questions. Very sarcastic and rude and then wonders why people do not want to come to office hours. I do not recommend taking this course from her at all.",
-        "course": "LINGUISTICS201"
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "Secord is a huge tub of hot air. He's so incredibly useless that it's no wonder he didn't get tenure the first time he was at OSU. All of his classes were exactly the same--and worthless. There's absolutely no content in any thing he says. (and p.s. it's Wayne Secord, not William) He only gives As to make people like him.",
+        "course": "SPHS710"
       },
       {
         "index": 10,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "I found this class pretty easy. Hw credit is just for turning it in. No tests, just 'problem sets' which are tough but she lets you revise them. She is extremely nice & helpful. She let the class learn at its own pace. Some students really struggled with the concepts though. If you're not good at algebraic type thinking, you'll probably struggle.",
-        "course": "LING2001"
-      },
-      {
-        "index": 11,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "She is helpful when you ask and she cares about the topic. The issue lies in that no set agenda for the class or layout as to what we would do that in class. I like to have a schedule so this was hard for me. She will help you learn about linguistics and writing, but make sure you are interested in linguistics or else you will get bored.",
-        "course": "LING2367"
-      },
-      {
-        "index": 12,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "She is all over the place. I regret taking her class because I feel that it could have been a lot better but she is no the best teacher to teach it. She seems like she means well at first but is a tough grader and expects everyone to care about linguistics as much as she does. You're better off taking another gen ed.",
-        "course": "LING2367"
-      },
-      {
-        "index": 13,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Absolutely hated this course. Her teaching is so sporadic. She doesn't provide lecture notes online, even though the notes given in class aren't helpful whatsoever. Grades unnecessarily hard. Gets moody and annoying at times. Going to this class is the worst part of my day/week. ",
-        "course": "LING2367"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "She is really interested in teaching and offers test corrections.  However, there is a lot of work - so you better come to class and you better do the readings.",
-        "course": "LING371"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Sharon's great. She really, really, really wants you to understand the material and will go out of her way to help you if you ask. She offers revisions on problem sets (which is extremely helpful as they're pretty hard). If you have to take linguistics, I highly recommend her. As long as you go to class, you'll do fine.",
-        "course": "LING280"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Although she sometimes seems like she's in her own little world of Linguistics, Sharon is a great TA. She always does her best to ensure her students understand the material. The problem sets can be difficult, but she offers revisions. She doesn't count attendance, but going to every class is important for comprehension of the material.",
-        "course": "LING280"
-      },
-      {
-        "index": 17,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "offers test corrections, and lectures in a clear orderly fashion",
-        "course": "LINGU280"
-      },
-      {
-        "index": 18,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "It was extremely boring and she was annoying.  Also, she has a record for bringing people in for academic misconduct- when it isn't even their fault, some kind of power trip... All in all, not a good class",
-        "course": "LINGUISTICS201"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 4.6,
-    "department": "Speech & Hearing Sciences",
-    "firstName": "Chris",
-    "id": "VGVhY2hlci0xMDcxMTgz",
-    "lastName": "Driscoll",
-    "legacyId": 1071183,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "CD was a great prof for a student that has taken asl in high school. for new asl learners, I could see the frustration. there was a disconnect. he would get frustrated for students using their first language (English), and the students were frustrated because they couldn't communicate well in asl.",
-        "course": "DSI1110"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Chris Driscoll was the best professor I have had to date. He is funny, wants his students to do well, and very understanding. I still remember everything he taught me! I recommend taking him, especially if it is your first experience with ASL",
-        "course": "ASL101"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Chris is a great teacher and a great person! He really wants to see his students excel and will do everything in his power to help! If this is your first exposure to ASL, be prepared! From day 1 there is no speaking in his class.  It really forces you to learn sign though! Study vocab and you should be fine!",
-        "course": "ENG101"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Deaf! In every sense of the word!  Ha! Take his class. You will not regret it.",
-        "course": "ASL103"
-      },
-      {
-        "index": 5,
         "rating": 5,
         "difficulty": 1,
-        "comment": "American Sign Language Class.  Fantastic teacher.  One of the best in my time here.  Very clear and helpful.  Also, tests are very easy.  Pay attention and practice and this is an easy A.",
-        "course": "ENG101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 4.5,
-    "department": "Speech & Hearing Sciences",
-    "firstName": "Eric",
-    "id": "VGVhY2hlci0yNTkzMTYz",
-    "lastName": "Johnson",
-    "legacyId": 2593163,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Eric is amazing. He's super smart and also a naturally talented teacher. He has creative ways to make the more complicated concepts straightforward, and explains things clearly and concisely. Also, just a really great person. Would highly recommend.",
-        "course": "SHS4440"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "The class is pretty straightforward if you attend and make some effort. Dr. Johnson has some great analogies that help you better understand the material. Downside is the grade is based on 4 exams that are all under 100pts each. There is extra credit but not enough to save you if you mess up drastically.",
-        "course": "SHS4440"
+        "comment": "I am a big fan of Dr. Secord.  He is adorable and really cares about his students! Assignments and tests are all in essay form, and I actually enjoyed them.  The class is an easy A, and he puts all of the notes on Carmen.",
+        "course": "SPHS330"
       }
     ],
     "SEI": []
   },
   {
     "avgDifficulty": 4,
-    "avgRating": 5,
+    "avgRating": 3.5,
     "department": "Speech & Hearing Sciences",
-    "firstName": "Leah",
-    "id": "VGVhY2hlci0yNTUwMjI3",
-    "lastName": "Demko",
-    "legacyId": 2550227,
+    "firstName": "Robert",
+    "id": "VGVhY2hlci0xMzA0NTA1",
+    "lastName": "Fox",
+    "legacyId": 1304505,
     "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Leah was awesome and very laid back while remaining professional. She was always easy to talk to &amp; I often emailed her random Deaf culture videos that I wanted to learn more about. Class is a little more difficult if you dont have any ASL experience. I recommend finding some who is also learning ASL that you can practice with or the SignSchool app",
-        "course": "SHS5714"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 3,
-    "department": "Speech & Hearing Sciences",
-    "firstName": "Sarah",
-    "id": "VGVhY2hlci0yNDg5NDEy",
-    "lastName": "Little",
-    "legacyId": 2489412,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Sarah was a good teacher. She cared about the material and went over each topic more than once to ensure that the information was clear. She provided review days before the exams & reviewed information in recitation for the quizzes. If you give an effort and show interest, you will do well. You cannot just skate by but it is not hard to get an A.",
-        "course": "SHS3320"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Nothing terrible or amazing in the way she taught. The main issue with her is her way of grading. She clearly had favorites. People would submit answers to an assignment with the same responses and she would give one person a higher grade. She either disliked or loved you and that would be the determinant of how she graded your assignments.",
-        "course": "SPHHRNG3320"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 5,
-    "department": "Speech & Hearing Sciences",
-    "firstName": "Andrew",
-    "id": "VGVhY2hlci0yODYyNjI5",
-    "lastName": "Blank",
-    "legacyId": 2862629,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Andrew was awesome. I took him for the senior gened seminar, not speech and hearing, but he was very accessible and truly cared about our success. He gave great feedback, graded quickly, and was super responsive. Great guy. ",
-        "course": "GENED4001"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "TAKE HIM!!!!!! I love this man with all of my heart. He is kind, funny, understanding, and does a great job of explaining the material. Much of the grade is taken from turning in his guided notes, which you can fill out by either going to the in-person lectures or watching his online versions. He gives a lot of free points. Every test is open-note!",
-        "course": "SPHHRNG4440"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Speech & Hearing Sciences",
-    "firstName": "Eric",
-    "id": "VGVhY2hlci0yODY2MzEy",
-    "lastName": "Bielefeld",
-    "legacyId": 2866312,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I took this class as a Neuro major. Most of the content wasn't knew to me, but it probably was to the others who were mostly SHS. Lots of kids were going to grad school for audiology or related fields, and Dr. Bielefeld was a big help to them. The three exams are fair, the weekly quizzes are easy points, and he curves at the end. Great professor.",
-        "course": "SPHHRNG5760"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Bielefeld wants everyone to pass his class. I think he just wants to share the knowledge of hos field and help people who want are interested. There was 3 exams and a few quizzes. Each 25% of the the grade. He has a very generous grade scheme. The exams are easy if you pay attention but there is quite a lot of content. He recorded each lecture.",
-        "course": "SPHHRNG5760"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.3,
-    "avgRating": 3.7,
-    "department": "Speech & Hearing Sciences",
-    "firstName": "Sarah",
-    "id": "VGVhY2hlci0yODYxOTQ0",
-    "lastName": "Leopold",
-    "legacyId": 2861944,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
         "rating": 3,
         "difficulty": 4,
-        "comment": "Dr Leopold is a great person, she is so nice and obviously cares about her students. That being said, I don't think I learned a single thing in this class that I will remember. I did not retain anything or follow the lectures at all. Graded only by a few quizzes, two group projects, and one final exam that was all short answer. ",
-        "course": "3340"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Sarah is a nice person. Her class is relatively difficult by nature, but she is willing to repeat any difficult concepts during class. Graded by only two projects, 6 quizzes, & an exam. Attendance not required. Her final project expectations were unclear. She does not reply to emails. Exam all written response. Overall, I would recommend her!",
-        "course": "3340"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "The structure of this course was a bit confusing, since reading the textbook outside of class was more relevant to getting a good grade than attending the lectures. Other than that, Sarah was helpful when asking questions about the group projects and she's not a super difficult grader.",
-        "course": "3340"
+        "comment": "Dr. Fox is a tough instructor but he really wants you to understand the material. His quizzes are more terminology and his exam questions except for the final are the same questions in the back of every chapter of the book. The two midterms were identical to those questions. Ask questions if you don't understand anything he says.",
+        "course": "SPHS420"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6786",
+        "Class Name": "Statistics in Speech and Hearing Science",
+        "Class Number": "20775",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "1.71"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5605",
+        "Class Name": "Multicultural Aspects of Communication",
+        "Class Number": "17695",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.12"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6786",
+        "Class Name": "Statistics in Speech and Hearing Science",
+        "Class Number": "14902",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.2"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "3320",
+        "Class Name": "Principles of Phonetics",
+        "Class Number": "21469",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.1"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.5,
@@ -1579,7 +1807,78 @@
         "course": "SPHR230"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5785",
+        "Class Name": "Research Methods I",
+        "Class Number": "21583",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.3"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6710",
+        "Class Name": "Speech Sound Disorders in Children",
+        "Class Number": "19683",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.48"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6740",
+        "Class Name": "Fluency: Theory and Treatment",
+        "Class Number": "20781",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "8950",
+        "Class Name": "Seminar in Speech and Hearing Science",
+        "Class Number": "20779",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6740",
+        "Class Name": "Fluency: Theory and Treatment",
+        "Class Number": "14908",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.37"
+      }
+    ]
   },
   {
     "avgDifficulty": 1.7,
@@ -1613,7 +1912,260 @@
         "course": "SHS540"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4540",
+        "Class Name": "Introduction to Audiology",
+        "Class Number": "22494",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6705",
+        "Class Name": "Audiologic Assessment I",
+        "Class Number": "19797",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6705",
+        "Class Name": "Audiologic Assessment I",
+        "Class Number": "19798",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "8935",
+        "Class Name": "Research to Practice",
+        "Class Number": "25191",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4540",
+        "Class Name": "Introduction to Audiology",
+        "Class Number": "21341",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6733",
+        "Class Name": "Adult Audiologic Rehabilitation",
+        "Class Number": "20929",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4540",
+        "Class Name": "Introduction to Audiology",
+        "Class Number": "21417",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6705",
+        "Class Name": "Audiologic Assessment I",
+        "Class Number": "17821",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "3"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "8935",
+        "Class Name": "Research to Practice",
+        "Class Number": "36026",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6733",
+        "Class Name": "Adult Audiologic Rehabilitation",
+        "Class Number": "15056",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4540",
+        "Class Name": "Introduction to Audiology",
+        "Class Number": "22310",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6733",
+        "Class Name": "Adult Audiologic Rehabilitation",
+        "Class Number": "21204",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "8935",
+        "Class Name": "Research to Practice",
+        "Class Number": "33643",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4540",
+        "Class Name": "Introduction to Audiology",
+        "Class Number": "22390",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6705",
+        "Class Name": "Audiologic Assessment I",
+        "Class Number": "24174",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6705",
+        "Class Name": "Audiologic Assessment I",
+        "Class Number": "30126",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "8935",
+        "Class Name": "Research to Practice",
+        "Class Number": "35093",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6733",
+        "Class Name": "Adult Audiologic Rehabilitation",
+        "Class Number": "21460",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      }
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -1636,106 +2188,979 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 1.8,
-    "avgRating": 2.5,
+    "avgDifficulty": 1.3,
+    "avgRating": 4.7,
     "department": "Speech & Hearing Sciences",
-    "firstName": "William",
-    "id": "VGVhY2hlci0xMTA4NDgz",
-    "lastName": "Secord",
-    "legacyId": 1108483,
-    "numRatings": 10,
+    "firstName": "Jennifer",
+    "id": "VGVhY2hlci0xODYxNDg5",
+    "lastName": "Brello",
+    "legacyId": 1861489,
+    "numRatings": 13,
     "Ratings": [
       {
         "index": 1,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Dr. Secord has alot of knowledge in the field.  However, he didn't teach that often and made his PhD students do powerpoint lectures to us.  PhD students weren't useful because they were so nervous.  Excellent personality and very down to earth.  I wish he would have taught the class not the PhD students",
-        "course": "SHS330"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Jen is absolutely amazing. Anyone who is an aspiring SLP can learn so much from her. She will help you with anything- including grad school application questions- without ever making you feel dumb. She is truly inspiring with the work she does for the people in the Aphasia Initiative. The woman deserves an award!",
+        "course": "SHS2230"
       },
       {
         "index": 2,
-        "rating": 3,
+        "rating": 2,
         "difficulty": 1,
-        "comment": "This guy is a joke.  Not only does he NOT teach, but he gets all of his grad students to lecture for him and they all do horribly.  It's a wonder why I went to class half the time.  I learned more from reading the textbooks than I did from listening to any of his/his grad. students lectures.",
-        "course": "SHS330"
+        "comment": "Class is not challenging.  As everyone else said - you dont need the text, you dont have to go to class, you can go to the study session before the test and know exactly what you will be tested on.  Expected more for a course in my future profession.",
+        "course": "SHS2230"
       },
       {
         "index": 3,
-        "rating": 2,
+        "rating": 5,
         "difficulty": 2,
-        "comment": "annoying, didn't learn anything, but still got an A. the class was at 7 30 a.m. and attendence wasn't mandatory so you could use powerpoints AND voice recordings for everything. basically a waste of time, especially since everyone in the class got a 40/40 on the writing assignments that i actually spent time doing.",
-        "course": "SH330"
+        "comment": "Three tests, three labs and four response papers on guest speakers. As everyone else has said, Jen is very approachable and very good at what she does. Look over major points from each lecture, and you'll do fine on the tests.",
+        "course": "SPHHRNG4520"
       },
       {
         "index": 4,
-        "rating": 1,
+        "rating": 5,
         "difficulty": 1,
-        "comment": "class was a joke, didn't learn a thing, but got an A anyways.",
-        "course": "SHS330"
+        "comment": "Jen Brello is a great professor, very nice and exams are simple. No need to purchase the textbook whatsoever. Also.. you can get an A as long as you go to the review sessions the class before the exam and study the notes you take there. Would recommend taking any course with her, keeps everyone interested and knows her stuff. ",
+        "course": "2230"
       },
       {
         "index": 5,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "completely useless and a blowhard; sent me a rude email when i politely asked for help. do not take his classes if you can avoid it",
-        "course": "SHS330"
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Jen is amazing. She was one of the sweetest professors I've had at OSU. I'm looking forward to having her again. The class itself was very easy. The review sessions before the midterms are VERY close to the actual test. Easy A. ",
+        "course": "SHS2230"
       },
       {
         "index": 6,
-        "rating": 1,
+        "rating": 5,
         "difficulty": 1,
-        "comment": "UG students think he's OK because they don't care about learning any way. When you're in grad school preparing to BE an SLP, he couldn't be worse, because the things he is SUPPOSED to be teaching you actually NEED to know. Good luck in clinic and on the PRAXIS when you didn't learn ANYTHING about child language in class. And he has no research!",
-        "course": "SPHS725"
+        "comment": "She's the best!",
+        "course": "SHS230"
       },
       {
         "index": 7,
         "rating": 5,
-        "difficulty": 2,
-        "comment": "He was a fantastic teacher. I disagree with the two comments above, he cares greatly about the job he does and it was refreshing to have him last quarter. He is one faculty member that actually cares about the students and not so distracted by his research. I loved his lectures on leadership and feel they are extremely valuable. A++++",
-        "course": "SH330"
+        "difficulty": 1,
+        "comment": "Jen is a fantastic teacher. She is one of the nicest people I have ever met and truly cares about her students. She will do anything to help a student. Her lectures are interesting and she prepares you very well for her three exams.",
+        "course": "4520"
       },
       {
         "index": 8,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "This class was a waste of time. He said he wanted to teach us in a different way to help us remember things better, but I honestly don't feel like I learned a THING. It's definitely an easy A, but not worthwhile at all. He &quot;taught&quot; us too much about leadership and not enough about language.",
-        "course": "SHS330"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "absolutely love jen! Talked to her after class many times with questions about speech and hearing sciences career options, grad school etc and she was so eager to help and truly cares. Her class is a must take!",
+        "course": "SPEECH2230"
       },
       {
         "index": 9,
-        "rating": 1,
+        "rating": 5,
         "difficulty": 1,
-        "comment": "Secord is a huge tub of hot air. He's so incredibly useless that it's no wonder he didn't get tenure the first time he was at OSU. All of his classes were exactly the same--and worthless. There's absolutely no content in any thing he says. (and p.s. it's Wayne Secord, not William) He only gives As to make people like him.",
-        "course": "SPHS710"
+        "comment": "Lectures are interesting and as long as they need to be. If she finishes her lecture early, class will end early. Brello is a great communicator. Went to office hours and got advice about graduate school. She truly cares. ",
+        "course": "INTROTOSLP"
       },
       {
         "index": 10,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "DR Brello was an awesome professor. I enjoyed the class a lot. It was very fun and interesting. ",
+        "course": "2230"
+      },
+      {
+        "index": 11,
         "rating": 5,
         "difficulty": 1,
-        "comment": "I am a big fan of Dr. Secord.  He is adorable and really cares about his students! Assignments and tests are all in essay form, and I actually enjoyed them.  The class is an easy A, and he puts all of the notes on Carmen.",
-        "course": "SPHS330"
+        "comment": "Jennifer was Great! Loved all the guest speakers. Book not needed. Just attend review sessions and you will get an A!",
+        "course": "SHS2230"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Attendance of this class not mandatory, but you will at least want to attend review sessions prior to exams. Do this and you will pass. Jennifer is super sweet. 2 additional assignments along with three exams are easy, and there is no final.",
+        "course": "SHS2230"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Jen Brello was an excellent professor. The exams are nearly 100% based upon lecture material. ATTEND REVIEW LECTURES! I went to a total of about 7 lectures through the entire semester and pulled an A- by taking good notes and studying hard the night before exams.",
+        "course": "SHS2230"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "3360",
+        "Class Name": "Observation in Speech-Language Pathology and Audiology",
+        "Class Number": "21849",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "3360",
+        "Class Name": "Observation in Speech-Language Pathology and Audiology",
+        "Class Number": "20935",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.17"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "3370S",
+        "Class Name": "Service Learning in Adult Neurogenics for Speech-Language Pathology",
+        "Class Number": "28838",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6753",
+        "Class Name": "Clinical Seminar in Speech and Language Disorders III",
+        "Class Number": "28822",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "N/A",
+        "Class Name": "Service Learning in Adult Neurogenics for Speech-Language Pathology",
+        "Class Number": "22956",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "N/A",
+        "Class Name": "Service Learning in Adult Neurogenics for Speech-Language Pathology",
+        "Class Number": "22959",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "N/A",
+        "Class Name": "Service Learning in Adult Neurogenics for Speech-Language Pathology",
+        "Class Number": "22960",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "3360",
+        "Class Name": "Observation in Speech-Language Pathology and Audiology",
+        "Class Number": "15062",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.21"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6753",
+        "Class Name": "Clinical Seminar in Speech and Language Disorders III",
+        "Class Number": "22944",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.69"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 2.5,
+    "department": "Speech & Hearing Sciences",
+    "firstName": "Sharon",
+    "id": "VGVhY2hlci04MDcwODU=",
+    "lastName": "Ross",
+    "legacyId": 807085,
+    "numRatings": 18,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Here are the facts, people. This is unbiassed truth. Sharon is a really nice person, a little bit strange but who isn't? She loves linguistics and has complete confidence in her abilities and her knowledge, however she makes impossible online quizzes and projects that she grades like no one's business. Extremely hard to do well / 2 E J S z H s bit",
+        "course": "LING1100"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Probably the worst professor Ive had at OSU. She assigned these IMPOSSIBLE online tests that have no clear answers. Had a B+, but because she waited until after the semester was over to give me FIFTIES on the project I finished w a C-. Some how I did better in calc 2 then I did her class and I really tried. Don't take her unless you have to.",
+        "course": "LING1100"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "She is very unorganized when it comes to assignments. Any assignment she gives you is really busy and she is very picky. She is a very tough grader and when you ask questions, she makes you feel really dumb. She also has you read a bunch of papers and wants you to take notes. The notes are graded and if you do not put every detail in them, ur toast",
+        "course": "LING3710"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Hard exam, a lot of exams, low grades for project.",
+        "course": "LING1100"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Having Sharon as a professor was a stressful experience. If you are somone who needs or prefers structure in learning, I wouldnt recommend taking her class. It was difficult to keep track of assignments, as there is no detailed syllabus/schedule. Shes knowledgeable about linguistics, but her disorganization undermined her efficacy as a professor.",
+        "course": "LING2367"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "This class is ridiculous. It is set up really clearly but her tests are so hard and she doesn't create power points or helpful lectures to correspond with them. Class lectures are really all over the place. If I had a do-over I would NOT take Sharon and go with the other linguistics prof.",
+        "course": "LING1100"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "She is a very tough grader and deducts major points for slight errors. Test are taken on Carmen but they are very difficult and you never see what you were marked off for. I dread this class every week and would not recommend.",
+        "course": "LING1100"
+      },
+      {
+        "index": 8,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "She started off great, made us all feel like we could be open and ask questions and then when we would she was blunt and would say that she wouldnt answer them. Even to tell us that they were dumb questions.",
+        "course": "ENG3271"
+      },
+      {
+        "index": 9,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Terrible experience in this class. She says she wants to help those struggling but makes you feel stupid for asking questions. Very sarcastic and rude and then wonders why people do not want to come to office hours. I do not recommend taking this course from her at all.",
+        "course": "LINGUISTICS201"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "I found this class pretty easy. Hw credit is just for turning it in. No tests, just 'problem sets' which are tough but she lets you revise them. She is extremely nice & helpful. She let the class learn at its own pace. Some students really struggled with the concepts though. If you're not good at algebraic type thinking, you'll probably struggle.",
+        "course": "LING2001"
+      },
+      {
+        "index": 11,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "She is helpful when you ask and she cares about the topic. The issue lies in that no set agenda for the class or layout as to what we would do that in class. I like to have a schedule so this was hard for me. She will help you learn about linguistics and writing, but make sure you are interested in linguistics or else you will get bored.",
+        "course": "LING2367"
+      },
+      {
+        "index": 12,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She is all over the place. I regret taking her class because I feel that it could have been a lot better but she is no the best teacher to teach it. She seems like she means well at first but is a tough grader and expects everyone to care about linguistics as much as she does. You're better off taking another gen ed.",
+        "course": "LING2367"
+      },
+      {
+        "index": 13,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Absolutely hated this course. Her teaching is so sporadic. She doesn't provide lecture notes online, even though the notes given in class aren't helpful whatsoever. Grades unnecessarily hard. Gets moody and annoying at times. Going to this class is the worst part of my day/week. ",
+        "course": "LING2367"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "She is really interested in teaching and offers test corrections.  However, there is a lot of work - so you better come to class and you better do the readings.",
+        "course": "LING371"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Sharon's great. She really, really, really wants you to understand the material and will go out of her way to help you if you ask. She offers revisions on problem sets (which is extremely helpful as they're pretty hard). If you have to take linguistics, I highly recommend her. As long as you go to class, you'll do fine.",
+        "course": "LING280"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Although she sometimes seems like she's in her own little world of Linguistics, Sharon is a great TA. She always does her best to ensure her students understand the material. The problem sets can be difficult, but she offers revisions. She doesn't count attendance, but going to every class is important for comprehension of the material.",
+        "course": "LING280"
+      },
+      {
+        "index": 17,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "offers test corrections, and lectures in a clear orderly fashion",
+        "course": "LINGU280"
+      },
+      {
+        "index": 18,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "It was extremely boring and she was annoying.  Also, she has a record for bringing people in for academic misconduct- when it isn't even their fault, some kind of power trip... All in all, not a good class",
+        "course": "LINGUISTICS201"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.6,
+    "department": "Speech & Hearing Sciences",
+    "firstName": "Chris",
+    "id": "VGVhY2hlci0xMDcxMTgz",
+    "lastName": "Driscoll",
+    "legacyId": 1071183,
+    "numRatings": 5,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "CD was a great prof for a student that has taken asl in high school. for new asl learners, I could see the frustration. there was a disconnect. he would get frustrated for students using their first language (English), and the students were frustrated because they couldn't communicate well in asl.",
+        "course": "DSI1110"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Chris Driscoll was the best professor I have had to date. He is funny, wants his students to do well, and very understanding. I still remember everything he taught me! I recommend taking him, especially if it is your first experience with ASL",
+        "course": "ASL101"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Chris is a great teacher and a great person! He really wants to see his students excel and will do everything in his power to help! If this is your first exposure to ASL, be prepared! From day 1 there is no speaking in his class.  It really forces you to learn sign though! Study vocab and you should be fine!",
+        "course": "ENG101"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Deaf! In every sense of the word!  Ha! Take his class. You will not regret it.",
+        "course": "ASL103"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "American Sign Language Class.  Fantastic teacher.  One of the best in my time here.  Very clear and helpful.  Also, tests are very easy.  Pay attention and practice and this is an easy A.",
+        "course": "ENG101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.5,
+    "department": "Speech & Hearing Sciences",
+    "firstName": "Eric",
+    "id": "VGVhY2hlci0yNTkzMTYz",
+    "lastName": "Johnson",
+    "legacyId": 2593163,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Eric is amazing. He's super smart and also a naturally talented teacher. He has creative ways to make the more complicated concepts straightforward, and explains things clearly and concisely. Also, just a really great person. Would highly recommend.",
+        "course": "SHS4440"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "The class is pretty straightforward if you attend and make some effort. Dr. Johnson has some great analogies that help you better understand the material. Downside is the grade is based on 4 exams that are all under 100pts each. There is extra credit but not enough to save you if you mess up drastically.",
+        "course": "SHS4440"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "MEDREN",
+        "Catalog": "5610",
+        "Class Name": "Manuscript Studies",
+        "Class Number": "33951",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Center-Medieval & Ren Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDREN",
+        "Catalog": "5610",
+        "Class Name": "Manuscript Studies",
+        "Class Number": "33952",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Center-Medieval & Ren Studies",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MEDREN",
+        "Catalog": "5610",
+        "Class Name": "Manuscript Studies",
+        "Class Number": "34984",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Center-Medieval & Ren Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 5,
+    "department": "Speech & Hearing Sciences",
+    "firstName": "Leah",
+    "id": "VGVhY2hlci0yNTUwMjI3",
+    "lastName": "Demko",
+    "legacyId": 2550227,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Leah was awesome and very laid back while remaining professional. She was always easy to talk to &amp; I often emailed her random Deaf culture videos that I wanted to learn more about. Class is a little more difficult if you dont have any ASL experience. I recommend finding some who is also learning ASL that you can practice with or the SignSchool app",
+        "course": "SHS5714"
       }
     ],
     "SEI": []
   },
   {
     "avgDifficulty": 4,
-    "avgRating": 3.5,
+    "avgRating": 3,
     "department": "Speech & Hearing Sciences",
-    "firstName": "Robert",
-    "id": "VGVhY2hlci0xMzA0NTA1",
-    "lastName": "Fox",
-    "legacyId": 1304505,
+    "firstName": "Sarah",
+    "id": "VGVhY2hlci0yNDg5NDEy",
+    "lastName": "Little",
+    "legacyId": 2489412,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Sarah was a good teacher. She cared about the material and went over each topic more than once to ensure that the information was clear. She provided review days before the exams & reviewed information in recitation for the quizzes. If you give an effort and show interest, you will do well. You cannot just skate by but it is not hard to get an A.",
+        "course": "SHS3320"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Nothing terrible or amazing in the way she taught. The main issue with her is her way of grading. She clearly had favorites. People would submit answers to an assignment with the same responses and she would give one person a higher grade. She either disliked or loved you and that would be the determinant of how she graded your assignments.",
+        "course": "SPHHRNG3320"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 5,
+    "department": "Speech & Hearing Sciences",
+    "firstName": "Andrew",
+    "id": "VGVhY2hlci0yODYyNjI5",
+    "lastName": "Blank",
+    "legacyId": 2862629,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Andrew was awesome. I took him for the senior gened seminar, not speech and hearing, but he was very accessible and truly cared about our success. He gave great feedback, graded quickly, and was super responsive. Great guy. ",
+        "course": "GENED4001"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "TAKE HIM!!!!!! I love this man with all of my heart. He is kind, funny, understanding, and does a great job of explaining the material. Much of the grade is taken from turning in his guided notes, which you can fill out by either going to the in-person lectures or watching his online versions. He gives a lot of free points. Every test is open-note!",
+        "course": "SPHHRNG4440"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4440",
+        "Class Name": "Anatomy, Physiology, and Science of Hearing",
+        "Class Number": "22493",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4540",
+        "Class Name": "Introduction to Audiology",
+        "Class Number": "21477",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "35",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4540",
+        "Class Name": "Introduction to Audiology",
+        "Class Number": "21008",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4440",
+        "Class Name": "Anatomy, Physiology, and Science of Hearing",
+        "Class Number": "22389",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4540",
+        "Class Name": "Introduction to Audiology",
+        "Class Number": "24042",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "32",
+        "Rating": "4.97"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4440",
+        "Class Name": "Anatomy, Physiology, and Science of Hearing",
+        "Class Number": "21263",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "29",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4540",
+        "Class Name": "Introduction to Audiology",
+        "Class Number": "21266",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.89"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Speech & Hearing Sciences",
+    "firstName": "Eric",
+    "id": "VGVhY2hlci0yODY2MzEy",
+    "lastName": "Bielefeld",
+    "legacyId": 2866312,
+    "numRatings": 2,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I took this class as a Neuro major. Most of the content wasn't knew to me, but it probably was to the others who were mostly SHS. Lots of kids were going to grad school for audiology or related fields, and Dr. Bielefeld was a big help to them. The three exams are fair, the weekly quizzes are easy points, and he curves at the end. Great professor.",
+        "course": "SPHHRNG5760"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Bielefeld wants everyone to pass his class. I think he just wants to share the knowledge of hos field and help people who want are interested. There was 3 exams and a few quizzes. Each 25% of the the grade. He has a very generous grade scheme. The exams are easy if you pay attention but there is quite a lot of content. He recorded each lecture.",
+        "course": "SPHHRNG5760"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5760",
+        "Class Name": "Neurology of the Speech and Hearing Mechanism",
+        "Class Number": "24389",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "32",
+        "Rating": "4.84"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6775",
+        "Class Name": "Anatomy and Physiology of the Auditory System",
+        "Class Number": "19678",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4440",
+        "Class Name": "Anatomy, Physiology, and Science of Hearing",
+        "Class Number": "21337",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5760",
+        "Class Name": "Neurology of the Speech and Hearing Mechanism",
+        "Class Number": "20756",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "53",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4440",
+        "Class Name": "Anatomy, Physiology, and Science of Hearing",
+        "Class Number": "21416",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5760",
+        "Class Name": "Neurology of the Speech and Hearing Mechanism",
+        "Class Number": "22411",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6775",
+        "Class Name": "Anatomy and Physiology of the Auditory System",
+        "Class Number": "17702",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5760",
+        "Class Name": "Neurology of the Speech and Hearing Mechanism",
+        "Class Number": "14883",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "8934",
+        "Class Name": "Hearing Conservation",
+        "Class Number": "22987",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4440",
+        "Class Name": "Anatomy, Physiology, and Science of Hearing",
+        "Class Number": "22309",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5760",
+        "Class Name": "Neurology of the Speech and Hearing Mechanism",
+        "Class Number": "25781",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6775",
+        "Class Name": "Anatomy and Physiology of the Auditory System",
+        "Class Number": "21492",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5760",
+        "Class Name": "Neurology of the Speech and Hearing Mechanism",
+        "Class Number": "21032",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "33",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "8934",
+        "Class Name": "Hearing Conservation",
+        "Class Number": "37379",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5760",
+        "Class Name": "Neurology of the Speech and Hearing Mechanism",
+        "Class Number": "28097",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6775",
+        "Class Name": "Anatomy and Physiology of the Auditory System",
+        "Class Number": "24057",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "5760",
+        "Class Name": "Neurology of the Speech and Hearing Mechanism",
+        "Class Number": "21290",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.92"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Speech & Hearing Sciences",
+    "firstName": "Bethany Beth",
+    "id": "VGVhY2hlci0yNTkzMTU5",
+    "lastName": "Frick",
+    "legacyId": 2593159,
     "numRatings": 1,
     "Ratings": [
       {
         "index": 1,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Dr. Fox is a tough instructor but he really wants you to understand the material. His quizzes are more terminology and his exam questions except for the final are the same questions in the back of every chapter of the book. The two midterms were identical to those questions. Ask questions if you don't understand anything he says.",
-        "course": "SPHS420"
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Beth is awesome! Her exams are not the best (very application based) but as a lecturer &amp; person she is awesome. She is very open &amp; easy to talk to, genuinely seems like she cares about her students. She was great about that online transition after the Covid19 outbreak. Extra credit is available too.",
+        "course": "SHS4430"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "6150",
+        "Class Name": "The SLPs Role Working with Individuals with Autism",
+        "Class Number": "35092",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "SPHHRNG",
+        "Catalog": "4520",
+        "Class Name": "Introduction to Clinical Methods in Speech-Language Pathology",
+        "Class Number": "21265",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Speech & Hearing",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "30",
+        "Rating": "4.7"
+      }
+    ]
   }
 ]

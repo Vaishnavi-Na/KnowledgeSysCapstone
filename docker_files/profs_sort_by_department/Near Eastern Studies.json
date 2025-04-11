@@ -104,26 +104,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Near Eastern Studies",
-    "firstName": "Trisha",
-    "id": "VGVhY2hlci0yMzY3NzU2",
-    "lastName": "Myers",
-    "legacyId": 2367756,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Not sure how long Trisha will be here or if shes still teaching any classes but if by chance you get her as an instructor or TA shes amazing. I had her as an instructor for 3205 NELC and she did not disappoint. She knows her stuff and gives her lectures with passion. I wish I could take another class from her because she was a great instructor.",
-        "course": "NELC3205"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.3,
     "avgRating": 3.3,
     "department": "Near Eastern Studies",
@@ -211,7 +191,218 @@
         "course": "ARABIC3601"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ARABIC",
+        "Catalog": "3705",
+        "Class Name": "A Thousand and One Nights: Storytelling in Arabic and World Literature",
+        "Class Number": "36658",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "7602",
+        "Class Name": "Studies in Arabic Prose",
+        "Class Number": "30191",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "3705",
+        "Class Name": "A Thousand and One Nights: Storytelling in Arabic and World Literature",
+        "Class Number": "23307",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "8892",
+        "Class Name": "Studies in Arabic Philosophy",
+        "Class Number": "36518",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "3705",
+        "Class Name": "A Thousand and One Nights: Storytelling in Arabic and World Literature",
+        "Class Number": "28720",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "3601",
+        "Class Name": "Introduction to Arabic Philosophy",
+        "Class Number": "37613",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "3705",
+        "Class Name": "A Thousand and One Nights: Storytelling in Arabic and World Literature",
+        "Class Number": "28345",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "HISTORY",
+        "Catalog": "2351",
+        "Class Name": "Early Islamic Society, 610-1258",
+        "Class Number": "36692",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "History",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "HISTORY",
+        "Catalog": "3355",
+        "Class Name": "The Early Islamic Conquests (CE 630-750)",
+        "Class Number": "34385",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "History",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "HISTORY",
+        "Catalog": "2351",
+        "Class Name": "Early Islamic Society, 610-1258",
+        "Class Number": "36222",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "History",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "3501",
+        "Class Name": "Introduction to Islam",
+        "Class Number": "25698",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "5125",
+        "Class Name": "Syriac I",
+        "Class Number": "36250",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "5101",
+        "Class Name": "Introduction to the Field of Near Eastern Languages & Cultures",
+        "Class Number": "24329",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "7501",
+        "Class Name": "Narratives of Origin: The Islamic Tradition",
+        "Class Number": "37681",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "5101",
+        "Class Name": "Introduction to the Field of Near Eastern Languages & Cultures",
+        "Class Number": "36460",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.3,
@@ -245,47 +436,148 @@
         "course": "TURKISH1101"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 5,
-    "department": "Near Eastern Studies",
-    "firstName": "Nada",
-    "id": "VGVhY2hlci0yMTM1MzMw",
-    "lastName": "Moumtaz",
-    "legacyId": 2135330,
-    "numRatings": 1,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Nada really makes an effort to get students to understand the content. The textbook is very easy to digest; supplementary books were quick to read and really left an impression. She focuses on concepts and circles back around to them often. If you read and answer study questions before class like she asks, you will be solid on quizzes and exams.",
-        "course": "INTSTDS2200"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 5,
-    "avgRating": 4,
-    "department": "Near Eastern Studies",
-    "firstName": "Joe",
-    "id": "VGVhY2hlci0yMDEyMzMy",
-    "lastName": "Price",
-    "legacyId": 2012332,
-    "numRatings": 1,
-    "Ratings": [
+        "Subject": "NELC",
+        "Catalog": "2244",
+        "Class Name": "Films of the Middle East",
+        "Class Number": "23380",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4"
+      },
       {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "I took the \"Mythology of Ancient Egypt and Mesopotamia\" expecting it to be fun, interesting, and pretty easy. WRONG. There are daily quizzes over homework (about 2-4 hours worth a night), a paper due, and the exams are graded very harshly and are all short answerfill in the blank. DO NOT TAKE THIS CLASS. YOU WILL REGRET IT. IT WAS A NIGHTMARE. ",
-        "course": "NELC3700"
+        "Subject": "TURKISH",
+        "Catalog": "1101",
+        "Class Name": "Elementary Turkish I",
+        "Class Number": "20058",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1103",
+        "Class Name": "Intermediate Turkish I",
+        "Class Number": "34221",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1102",
+        "Class Name": "Elementary Turkish II",
+        "Class Number": "20180",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1101",
+        "Class Name": "Elementary Turkish I",
+        "Class Number": "18082",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1102",
+        "Class Name": "Elementary Turkish II",
+        "Class Number": "14308",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1101",
+        "Class Name": "Elementary Turkish I",
+        "Class Number": "21811",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1103",
+        "Class Name": "Intermediate Turkish I",
+        "Class Number": "27568",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1101",
+        "Class Name": "Elementary Turkish I",
+        "Class Number": "24364",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.33"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1102",
+        "Class Name": "Elementary Turkish II",
+        "Class Number": "20820",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
       }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 1.4,
@@ -654,6 +946,66 @@
         "difficulty": 4,
         "comment": "I encourage you to learn about Islam but... NELC 351 with Fudge is NOT the best way to go. No matter how you answer a question it is not the way he wants it to be answered. He makes you feel stupid for answering questions. He says he tries to guide the discussion but he does not do it in a way that encourages students to participate. 2 Thumbs Down",
         "course": "NELC351"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Near Eastern Studies",
+    "firstName": "Trisha",
+    "id": "VGVhY2hlci0yMzY3NzU2",
+    "lastName": "Myers",
+    "legacyId": 2367756,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Not sure how long Trisha will be here or if shes still teaching any classes but if by chance you get her as an instructor or TA shes amazing. I had her as an instructor for 3205 NELC and she did not disappoint. She knows her stuff and gives her lectures with passion. I wish I could take another class from her because she was a great instructor.",
+        "course": "NELC3205"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 5,
+    "department": "Near Eastern Studies",
+    "firstName": "Nada",
+    "id": "VGVhY2hlci0yMTM1MzMw",
+    "lastName": "Moumtaz",
+    "legacyId": 2135330,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Nada really makes an effort to get students to understand the content. The textbook is very easy to digest; supplementary books were quick to read and really left an impression. She focuses on concepts and circles back around to them often. If you read and answer study questions before class like she asks, you will be solid on quizzes and exams.",
+        "course": "INTSTDS2200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 5,
+    "avgRating": 4,
+    "department": "Near Eastern Studies",
+    "firstName": "Joe",
+    "id": "VGVhY2hlci0yMDEyMzMy",
+    "lastName": "Price",
+    "legacyId": 2012332,
+    "numRatings": 1,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "I took the \"Mythology of Ancient Egypt and Mesopotamia\" expecting it to be fun, interesting, and pretty easy. WRONG. There are daily quizzes over homework (about 2-4 hours worth a night), a paper due, and the exams are graded very harshly and are all short answerfill in the blank. DO NOT TAKE THIS CLASS. YOU WILL REGRET IT. IT WAS A NIGHTMARE. ",
+        "course": "NELC3700"
       }
     ],
     "SEI": []

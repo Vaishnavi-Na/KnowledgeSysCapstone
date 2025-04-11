@@ -1,6 +1,111 @@
 [
   {
     "avgDifficulty": 2,
+    "avgRating": 4.3,
+    "department": "Construction Management",
+    "firstName": "Brad",
+    "id": "VGVhY2hlci0yNzE2MDAx",
+    "lastName": "Nadolson",
+    "legacyId": 2716001,
+    "numRatings": 3,
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Eh. He is a good guy who cares about the subject. Attendance is mandatory even though you do not learn much in lecture. Usually full of guest speakers. Exams and Quizzes are online not in class. BUY THE BOOK it will save your grade and make quizzes and exams easy. The questions are pulled straight from the book for all homework, quizzes, and exams.",
+        "course": "3451"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great guy. Great class to take for learning projects . Writing review after he bought everyone in class a cup of coffee ",
+        "course": "3451"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This class definitely wasn't easy, but he was thorough in his lectures and always offered explanations. Quiz heavy course with detailed labs. ",
+        "course": "3451"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "3451",
+        "Class Name": "Scheduling Construction Projects",
+        "Class Number": "31298",
+        "Term": "AU 20",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "3451",
+        "Class Name": "Scheduling Construction Projects",
+        "Class Number": "25473",
+        "Term": "AU 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "3451",
+        "Class Name": "Scheduling Construction Projects",
+        "Class Number": "29423",
+        "Term": "AU 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2205",
+        "Class Name": "Introduction to Construction Systems Management",
+        "Class Number": "37073",
+        "Term": "AU 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "38",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2205",
+        "Class Name": "Introduction to Construction Systems Management",
+        "Class Number": "35241",
+        "Term": "SP 24",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "60",
+        "Rating": "4.7"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2,
     "avgRating": 5,
     "department": "Construction Management",
     "firstName": "Mark",
@@ -17,7 +122,120 @@
         "course": "4641"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4641",
+        "Class Name": "Construction Project Management",
+        "Class Number": "31309",
+        "Term": "AU 20",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4641",
+        "Class Name": "Construction Project Management",
+        "Class Number": "30871",
+        "Term": "SP 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4641",
+        "Class Name": "Construction Project Management",
+        "Class Number": "25484",
+        "Term": "AU 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4641",
+        "Class Name": "Construction Project Management",
+        "Class Number": "8231",
+        "Term": "SP 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.53"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4641",
+        "Class Name": "Construction Project Management",
+        "Class Number": "29433",
+        "Term": "AU 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.08"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4641",
+        "Class Name": "Construction Project Management",
+        "Class Number": "31255",
+        "Term": "SP 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4641",
+        "Class Name": "Construction Project Management",
+        "Class Number": "32316",
+        "Term": "AU 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4641",
+        "Class Name": "Construction Project Management",
+        "Class Number": "32123",
+        "Term": "SP 24",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.7"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.5,
@@ -44,7 +262,134 @@
         "course": "CONSYSM2205"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "5680",
+        "Class Name": "Construction Renovation and Demolition",
+        "Class Number": "33083",
+        "Term": "AU 20",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "5680",
+        "Class Name": "Construction Renovation and Demolition",
+        "Class Number": "32089",
+        "Term": "SP 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "5680",
+        "Class Name": "Construction Renovation and Demolition",
+        "Class Number": "9440",
+        "Term": "SP 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2205",
+        "Class Name": "Introduction to Construction Systems Management",
+        "Class Number": "29398",
+        "Term": "AU 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "37",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2205",
+        "Class Name": "Introduction to Construction Systems Management",
+        "Class Number": "31217",
+        "Term": "SP 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "30",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "5680",
+        "Class Name": "Construction Renovation and Demolition",
+        "Class Number": "32393",
+        "Term": "SP 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2205",
+        "Class Name": "Introduction to Construction Systems Management",
+        "Class Number": "32281",
+        "Term": "AU 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "42",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2205",
+        "Class Name": "Introduction to Construction Systems Management",
+        "Class Number": "32085",
+        "Term": "SP 24",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "34",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "5680",
+        "Class Name": "Construction Renovation and Demolition",
+        "Class Number": "33233",
+        "Term": "SP 24",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      }
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -64,7 +409,120 @@
         "course": "CONSYSM4642"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4642",
+        "Class Name": "Construction Control - Contracts and Documents",
+        "Class Number": "31310",
+        "Term": "AU 20",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4642",
+        "Class Name": "Construction Control - Contracts and Documents",
+        "Class Number": "30872",
+        "Term": "SP 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.13"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4642",
+        "Class Name": "Construction Control - Contracts and Documents",
+        "Class Number": "25485",
+        "Term": "AU 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.53"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4642",
+        "Class Name": "Construction Control - Contracts and Documents",
+        "Class Number": "8232",
+        "Term": "SP 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.13"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4642",
+        "Class Name": "Construction Control - Contracts and Documents",
+        "Class Number": "29434",
+        "Term": "AU 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4642",
+        "Class Name": "Construction Control - Contracts and Documents",
+        "Class Number": "31256",
+        "Term": "SP 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4642",
+        "Class Name": "Construction Control - Contracts and Documents",
+        "Class Number": "32317",
+        "Term": "AU 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "4642",
+        "Class Name": "Construction Control - Contracts and Documents",
+        "Class Number": "32124",
+        "Term": "SP 24",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.67"
+      }
+    ]
   },
   {
     "avgDifficulty": 4.4,
@@ -126,7 +584,64 @@
         "course": "CON3546"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.01",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "28985",
+        "Term": "AU 22",
+        "College": "Office of Academic Affairs",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.01",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "29000",
+        "Term": "AU 22",
+        "College": "Office of Academic Affairs",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.01",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "31728",
+        "Term": "AU 23",
+        "College": "Office of Academic Affairs",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "EXP",
+        "Catalog": "1100.01",
+        "Class Name": "University Exploration Survey",
+        "Class Number": "31730",
+        "Term": "AU 23",
+        "College": "Office of Academic Affairs",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.74"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -153,7 +668,36 @@
         "course": "CSM2305"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2305",
+        "Class Name": "Professional Development I",
+        "Class Number": "25454",
+        "Term": "AU 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.44"
+      },
+      {
+        "Subject": "FABENG",
+        "Catalog": "3140",
+        "Class Name": "Professional Development in Food, Agricultural, and Biological Engineering",
+        "Class Number": "29584",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.6"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.4,
@@ -307,40 +851,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 2,
-    "avgRating": 4.3,
-    "department": "Construction Management",
-    "firstName": "Brad",
-    "id": "VGVhY2hlci0yNzE2MDAx",
-    "lastName": "Nadolson",
-    "legacyId": 2716001,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Eh. He is a good guy who cares about the subject. Attendance is mandatory even though you do not learn much in lecture. Usually full of guest speakers. Exams and Quizzes are online not in class. BUY THE BOOK it will save your grade and make quizzes and exams easy. The questions are pulled straight from the book for all homework, quizzes, and exams.",
-        "course": "3451"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great guy. Great class to take for learning projects . Writing review after he bought everyone in class a cup of coffee ",
-        "course": "3451"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This class definitely wasn't easy, but he was thorough in his lectures and always offered explanations. Quiz heavy course with detailed labs. ",
-        "course": "3451"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 2.3,
     "avgRating": 3.9,
     "department": "Construction Management",
@@ -406,7 +916,64 @@
         "course": "CSM345"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2205",
+        "Class Name": "Introduction to Construction Systems Management",
+        "Class Number": "31273",
+        "Term": "AU 20",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "33",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2205",
+        "Class Name": "Introduction to Construction Systems Management",
+        "Class Number": "30832",
+        "Term": "SP 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2205",
+        "Class Name": "Introduction to Construction Systems Management",
+        "Class Number": "25448",
+        "Term": "AU 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "24",
+        "Rating": "4.54"
+      },
+      {
+        "Subject": "CONSYSM",
+        "Catalog": "2205",
+        "Class Name": "Introduction to Construction Systems Management",
+        "Class Number": "8192",
+        "Term": "SP 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.42"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
