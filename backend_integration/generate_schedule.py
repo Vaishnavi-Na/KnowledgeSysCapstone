@@ -96,7 +96,6 @@ def generate_schedule(transcript:dict, max_hours:int) -> list[list[str]]:
         for course in semester_courses:
             if course not in transcript['courses']:
                 transcript_copy['courses'].add(course)
-    
     return schedule
 
 # Make sure prereq prereqs are filled

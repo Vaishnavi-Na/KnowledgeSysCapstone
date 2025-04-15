@@ -5,6 +5,7 @@ from calculate_courses_remain import calculate_remaining_courses, get_remaining_
 from query import search_professors_sort
 from scraper_json import scrap_from_adv_rep
 from search_in_RMP import demo_search_lte_rating, demo_search_desc_department
+from generate_schedule import generate_schedule
 # from query import demo_search_course
 
 app = FastAPI()
@@ -75,6 +76,12 @@ async def calc_remain(transcript: dict, course: str):
     unmet_groups = calculate_remaining_courses(transcript, course)
 
     return unmet_groups
+
+@app.post("/courses/gen_schedule")
+async def gen_schedule(transcript: dict, hours: int):    
+    schedule = generate_schedule(transcript, hours)
+
+    return schedule
 
 @app.post("/courses/professors")
 async def search_prof(course: str, sort_by: str = "avg_rating", order: str = 'desc', comment_keywords: str = None):
