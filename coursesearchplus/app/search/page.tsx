@@ -195,14 +195,16 @@ export default function SearchPage() {
         {searchResults.length > 0 && (
           <section className="w-full max-w-screen-xl mx-auto px-8 mt-12">
             <h2 className="text-2xl font-semibold mb-4">Search Results</h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
               {searchResults.map((prof: any, index: number) => (
                 <div key={index} className="bg-white p-4 rounded-lg shadow-md text-sm">
                   <h3 className="text-lg font-bold mb-2">{prof.name}</h3>
                   <p><strong>Avg Rating:</strong> {prof.avg_rating?.toFixed(2) ?? "N/A"}</p>
                   <p><strong>Difficulty:</strong> {prof.difficulty?.toFixed(2) ?? "N/A"}</p>
                   <p><strong>SEI Overall:</strong> {prof.SEI_overall?.toFixed(2) ?? "N/A"}</p>
-                  <p className="text-gray-600 mt-2">{prof.comments_overview}</p>
+                  <p><strong>Relevance Score:</strong> {prof.score}</p>
+                  <p>{prof.department}</p>
+                  <p className="text-gray-600 mt-2">{prof.summary_comment}</p>
                 </div>
               ))}
             </div>
