@@ -12,7 +12,12 @@ es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elast
 
 index_name = "professors"
 
+index_exists = es.indices.exists(index=index_name)
+
 def find_existing_doc(first_name, last_name):
+    if not index_exists:
+        return None
+
     query = {
         "query": {
             "bool": {
