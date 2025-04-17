@@ -106,7 +106,7 @@ export default function SearchPage() {
       alert("Please enter course in format 'SUBJECT NUMBER' (e.g., CSE 3901)");
       return;
     }
-  
+
     const [sortBy, order] = sortOption.split("-");
     const query = new URLSearchParams({
       course: searchInput,
@@ -115,18 +115,19 @@ export default function SearchPage() {
       comment_keywords: keywordInput,
     }).toString();
   
-    fetch(`http://127.0.0.1:8000/courses/professors?${query}`, {
+    fetch(`http://127.0.0.1:8000/courses/professors_with_courses?${query}`, {
       method: 'POST',
     })
-      .then(res => res.json())
-      .then(data => {
-        // console.log('Search results:', data);
-        setSearchResults(data.matched_professors);
-      })
-      .catch(err => {
-        console.error('Search failed:', err);
-      });
-  };
+    .then((res) => res.json())
+    .then((data) => {
+      console.log("Search results:", data);
+      setSearchResults(data.matched_professors); 
+    })
+    .catch((err) => {
+      console.error("Search failed:", err);
+    });
+};
+
   
   return (
     <>
@@ -198,12 +199,20 @@ export default function SearchPage() {
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
               {searchResults.map((prof: any, index: number) => (
                 <div key={index} className="bg-white p-4 rounded-lg shadow-md text-sm">
-                  <h3 className="text-lg font-bold mb-2">{prof.name}</h3>
+                  <h3 className="text-lg font-bold mb-2">{prof.instructor}</h3>
                   <p><strong>Avg Rating:</strong> {prof.avg_rating?.toFixed(2) ?? "N/A"}</p>
                   <p><strong>Difficulty:</strong> {prof.difficulty?.toFixed(2) ?? "N/A"}</p>
                   <p><strong>SEI Overall:</strong> {prof.SEI_overall?.toFixed(2) ?? "N/A"}</p>
                   <p><strong>Relevance Score:</strong> {prof.score}</p>
                   <p>{prof.department}</p>
+                  <p><strong> When have they taught this class before:</strong></p>
+                  <ul className="space-y-1 mt-2">
+                    {prof.courses.map((course:any, idx:number) => (
+                      <li key={idx} className="text-gray-700">
+                        {course.course} {course.time} {course.days} {course.term}
+                      </li>
+                    ))}
+                </ul>
                   <p className="text-gray-600 mt-2">{prof.summary_comment}</p>
                 </div>
               ))}

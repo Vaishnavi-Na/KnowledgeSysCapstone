@@ -13,8 +13,6 @@ load_dotenv()
 es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
 # Get all indexes
-indices = es.cat.indices(format="json")  # returns structured data
-
-# Print index names
-for idx in indices:
-    print(idx['index'])
+res = es.search()
+for hit in res["hits"]["hits"]:
+    print(hit["_source"])
