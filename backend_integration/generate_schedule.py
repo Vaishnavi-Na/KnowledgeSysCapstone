@@ -18,6 +18,25 @@ ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
 load_dotenv()
 es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
+def recursive_prereq_check(transcript: dict, prereq: str) -> list[str]:
+    '''Given a course, return a list of all unmet prereqs'''
+
+    check_prereq = calculate_remaining_courses(transcript, prereq)
+    avail_classes = []
+    if not check_prereq:
+        avail_classes.append(prereq)
+    else:
+        # Basically DFS through the prereqs to find all unmet prereqs
+        for prereq_group in check_prereq:
+            for new_prereq in prereq_group:
+                leaf_prereq = recursive_prereq_check(transcript, new_prereq)
+                avail_classes.extend(leaf_prereq)
+                if(leaf_prereq[0] == new_prereq):
+                    break
+
+    return avail_classes
+
+
 def check_avail(transcript:dict, remaining_groups: list[list[str]]) -> list[str]:
     '''Given a dict of courses return a list of courses the student can take'''
     avail_courses = []
@@ -34,10 +53,15 @@ def check_avail(transcript:dict, remaining_groups: list[list[str]]) -> list[str]
                 break
             # If there are prereqs, add them into the list of courses to take
             else:
+                # For each group of prereqs
                 for prereq_group in prereqs:
+                    # For each prereq in the group
                     for prereq in prereq_group:
-                        if(prereq not in avail_courses):
-                            avail_courses.append(prereq)
+                        # Make sure student meets requirements to take prereq
+                        new_prereqs = recursive_prereq_check(transcript, prereq)
+                        # Add the necessary courses to the available courses
+                        avail_courses.extend(new_prereqs)
+                            
     return avail_courses
            
 def create_semester(transcript:dict, max_hours:int) -> list[str]:
@@ -99,6 +123,5 @@ def generate_schedule(transcript:dict, max_hours:int) -> list[list[str]]:
     
     return schedule
 
-# Make sure prereq prereqs are filled
 # Add frontend integration
 # How are we picking tech electives? Some are from specialization but some need to be able to be chosen
