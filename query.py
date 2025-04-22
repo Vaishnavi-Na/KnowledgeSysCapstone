@@ -1,4 +1,5 @@
 from elasticsearch import Elasticsearch
+from elasticsearch.helpers import scan
 import ssl
 from dotenv import load_dotenv
 import os
@@ -12,7 +13,11 @@ ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
 load_dotenv()
 es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
-# Get all indexes
-res = es.search()
-for hit in res["hits"]["hits"]:
-    print(hit["_source"])
+indices = es.indices.get_alias(index="*")
+for index_name in indices:
+    print(index_name)
+
+
+# Use scan to efficiently iterate through all docs in 'courses' index
+for doc in scan(es, index="courses", query={"query": {"match_all": {}}}):
+    print(doc['_source'])  # Prints just the document body (no metadata)

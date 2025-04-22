@@ -17,7 +17,7 @@ app = FastAPI()
 # Allow CORS for requests from Next.js frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["http://localhost:3000"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -115,8 +115,8 @@ async def search_prof_with_courses(
             "query": {
                 "bool": {
                     "must": [
-                        {"term": {"subject.keyword": "CSE"}},
-                        {"term": {"course_number.keyword": "2231"}},
+                        {"term": {"subject.keyword": subject.upper()}},
+                        {"term": {"course_number.keyword": course_number}},
                         {"term": {"instructor.keyword": instructor_name}}
                     ]
                 }
@@ -159,10 +159,6 @@ async def search_prof_with_courses(
         results.append(prof_result)
         print(f"Added result for {instructor_name}")
 
-    print(f"\nFinal results: {results}")
-    print({
-        "matched_professors": results
-    })
     return {
         "matched_professors": results
     }

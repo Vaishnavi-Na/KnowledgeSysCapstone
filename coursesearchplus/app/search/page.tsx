@@ -4,7 +4,7 @@ import Link from 'next/link';
 import NavbarElse from '@/components/navbarElse';
 import { useEffect, useState, useRef } from 'react';
 
-const server_endpoint = 'http://localhost:8000'
+const server_endpoint = 'http://127.0.0.1:8000'
 
 function SendToSearchButton({
   buttonText, 
