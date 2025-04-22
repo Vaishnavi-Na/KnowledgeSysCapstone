@@ -27,7 +27,6 @@ def recursive_prereq_check(transcript: dict, prereq: str, visited=None) -> list[
     visited.add(prereq)
 
     if not course_exists(prereq):
-        print(f"Ignoring unknown course: {prereq}")
         return []
 
 

@@ -10,9 +10,19 @@ export default function BuildSchedulePage() {
   const [schedule, setSchedule] = useState<string[][]>([]);
   useEffect(() => {
     const transcript = JSON.parse(localStorage.getItem("transcript") || "{}");
-    const query = new URLSearchParams({ hours: "17" });
+    const savedSchedule = JSON.parse(localStorage.getItem("schedule") || "{}");
+    const savedTranscript = JSON.parse(
+      localStorage.getItem("oldTranscript") || "{}"
+    );
 
-    if (transcript) {
+    const query = new URLSearchParams({ hours: "17" });
+    if (
+      savedSchedule &&
+      savedTranscript &&
+      JSON.stringify(savedTranscript) === JSON.stringify(transcript)
+    ) {
+      setSchedule(savedSchedule);
+    } else if (transcript) {
       fetch(`${server_endpoint}/courses/gen_schedule?${query}`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -21,6 +31,8 @@ export default function BuildSchedulePage() {
         .then((res) => res.json())
         .then((data) => {
           setSchedule(data);
+          localStorage.setItem("schedule", JSON.stringify(data));
+          localStorage.setItem("oldTranscript", JSON.stringify(transcript));
         });
     }
   }, []);
