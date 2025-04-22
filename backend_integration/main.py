@@ -115,8 +115,8 @@ async def search_prof_with_courses(
             "query": {
                 "bool": {
                     "must": [
-                        {"term": {"subject.keyword": "CSE"}},
-                        {"term": {"course_number.keyword": "2231"}},
+                        {"term": {"subject.keyword": subject}},
+                        {"term": {"course_number.keyword": course_number}},
                         {"term": {"instructor.keyword": instructor_name}}
                     ]
                 }
