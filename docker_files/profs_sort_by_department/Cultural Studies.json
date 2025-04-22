@@ -1,5 +1,27 @@
 [
   {
+    "avgDifficulty": 5,
+    "avgRating": 2,
+    "department": "Cultural Studies",
+    "firstName": "Kashif",
+    "id": "VGVhY2hlci0yODg5NzU1",
+    "lastName": "Dennis",
+    "legacyId": 2889755,
+    "numRatings": 1,
+    "summary_comment": "Professor Dennis offers a rigorous course with extensive reading and writing assignments, requiring students to stay engaged during live Zoom sessions. The class demands consistent participation and comprehension of complex material, though it does not provide explicit teaching of the subject matter. Students must remain attentive at all times and cannot miss classes or fall behind in reading.",
+    "summary_comment_short": "Professor Dennis offers a rigorous course that demands extensive reading and frequent writing assignments, often exceeding what students are used to. The class format requires constant engagement, with random calls on students during Zoom sessions, and success hinges on the ability to comprehend complex material rather than on direct instruction.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Took this class to fill a gen ed credit, now I have more reading and writing assignments per week than I have in my entire life. Must have camera on at all times (zoom class) and cannot be in bed. Calls on people randomly. Reading is very complex and you can succeed in this class if you can comprehend it, but does not actually teach the material.",
+        "course": "2230"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 2.8,
     "avgRating": 5,
     "department": "Cultural Studies",
@@ -8,6 +30,8 @@
     "lastName": "Palermo",
     "legacyId": 2287364,
     "numRatings": 4,
+    "summary_comment": "Professor Palermo is highly regarded for his exceptional teaching quality, earning consistent top ratings from students. Known for his genuine approach, humor, and deep knowledge of the subject matter, he creates an engaging and supportive learning environment. Students praise his dedication and the practical value of his courses, many of which fulfill general education requirements and inspire a desire to explore the topics further.",
+    "summary_comment_short": "Professor Palermo is highly regarded for his exceptional teaching quality, characterized by genuine engagement and a supportive, open classroom environment. Students consistently praise his knowledge, humor, and dedication to their learning, often recommending his classes enthusiastically.",
     "Ratings": [
       {
         "index": 1,
@@ -41,26 +65,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 5,
-    "avgRating": 2,
-    "department": "Cultural Studies",
-    "firstName": "Kashif",
-    "id": "VGVhY2hlci0yODg5NzU1",
-    "lastName": "Dennis",
-    "legacyId": 2889755,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Took this class to fill a gen ed credit, now I have more reading and writing assignments per week than I have in my entire life. Must have camera on at all times (zoom class) and cannot be in bed. Calls on people randomly. Reading is very complex and you can succeed in this class if you can comprehend it, but does not actually teach the material.",
-        "course": "2230"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 2,
     "avgRating": 4.8,
     "department": "Cultural Studies",
@@ -69,6 +73,8 @@
     "lastName": "Padgett",
     "legacyId": 1810378,
     "numRatings": 2,
+    "summary_comment": "Professor Padgett is an effective and caring educator who employs a flipped classroom model, requiring students to complete most work outside of class through online question submissions and minor reading, while class time is dedicated to discussions. He assigns significant reading but ensures comprehension through ample discussion. Students find his approach engaging and recommend his classes, noting his kindness and the inclusion of a fun surprise like cake at the end of the semester.",
+    "summary_comment_short": "Professor Padgett is an effective educator who employs a flipped classroom model, requiring students to complete most work outside of class through online question submissions and minor reading, while using class time for discussions. He is highly recommended for his engaging teaching style and commitment to student learning, complemented by additional activities like a cake celebration at the end of the semester.",
     "Ratings": [
       {
         "index": 1,
@@ -96,6 +102,8 @@
     "lastName": "Younkin",
     "legacyId": 2108988,
     "numRatings": 1,
+    "summary_comment": "Professor Younkin's teaching approach is criticized for assigning excessive busy work and requiring extensive writing that could be simplified. Students also find issue with a project that is exclusively accessible to PC users, which they\u8ba4\u4e3a\u662f\u8fc7\u65f6\u7684\uff0c\u56e0\u4e3a\u5927\u591a\u6570\u4eba\u90fd\u4f7f\u7528MAC\u3002\u6559\u6388\u9700\u8981\u66f4\u65b0\u6559\u5b66\u8d44\u6e90\u4ee5\u9002\u5e94\u73b0\u4ee3\u6280\u672f\u73af\u5883\u3002",
+    "summary_comment_short": "Professor Younkin's teaching approach is criticized for assigning excessive busy work and requiring extensive writing that could be more succinct. Additionally, the course project is reportedly only accessible to PC users, which is seen as outdated given the prevalence of MAC systems among students.",
     "Ratings": [
       {
         "index": 1,

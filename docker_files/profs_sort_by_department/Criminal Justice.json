@@ -8,6 +8,8 @@
     "lastName": "Freeman",
     "legacyId": 2524366,
     "numRatings": 6,
+    "summary_comment": "Professor Freeman is widely perceived as having poor teaching quality and ineffective advising. Students found his classes overly lecture-based and irrelevant to practical applications, with one advising session described as dismissive and discouraging. Overall, his approach to both teaching and advising is seen as inefficient and unhelpful.",
+    "summary_comment_short": "Professor Freeman's teaching approach has been criticized for being inefficient and irrelevant, with students finding his lectures and class content unhelpful for real-world applications. Many also report that his advising sessions can be discouraging and unproductive.",
     "Ratings": [
       {
         "index": 1,
@@ -52,6 +54,91 @@
         "course": "ARTSSCI1120"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120.05",
+        "Class Name": "Politics, Society, & Law Scholars Seminar",
+        "Class Number": "25470",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.48"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120.05",
+        "Class Name": "Politics, Society, & Law Scholars Seminar",
+        "Class Number": "25471",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.15"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120.05",
+        "Class Name": "Politics, Society, & Law Scholars Seminar",
+        "Class Number": "25472",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120",
+        "Class Name": "Politics, Society, & Law Scholars Seminar",
+        "Class Number": "23491",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.19"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120",
+        "Class Name": "Politics, Society, & Law Scholars Seminar",
+        "Class Number": "23492",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.31"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1120",
+        "Class Name": "Politics, Society, & Law Scholars Seminar",
+        "Class Number": "23493",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.06"
+      }
+    ]
   }
 ]

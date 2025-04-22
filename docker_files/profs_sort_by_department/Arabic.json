@@ -8,6 +8,8 @@
     "lastName": "Brincka",
     "legacyId": 2573614,
     "numRatings": 2,
+    "summary_comment": "Professor Brincka is known for his polite and supportive approach to teaching Arabic, encouraging active participation and interaction in class. However, some students find his classes too easy and lacking in substance, with issues like outdated Canvas updates and frequent absences.",
+    "summary_comment_short": "Professor Brincka is highly regarded for his politeness and eagerness to assist students both inside and outside of class, fostering an interactive environment where participation is encouraged. However, some students find his classes too easy and lacking in substantive content, with criticism regarding his inconsistent presence and outdated course management practices.",
     "Ratings": [
       {
         "index": 1,
@@ -35,6 +37,8 @@
     "lastName": "Labaki",
     "legacyId": 2072413,
     "numRatings": 8,
+    "summary_comment": "Professor Labaki is highly regarded for her exceptional teaching quality, known for being understanding, knowledgeable, and supportive. Students appreciate her clear communication, fairness in grading, and willingness to provide additional help, making her one of the best Arabic instructors at OSU. Her classes are challenging but rewarding, with a strong emphasis on student success and engagement.",
+    "summary_comment_short": "Professor Labaki is highly regarded for her exceptional teaching quality, known for being understanding, knowledgeable, and supportive. Students praise her for breaking down complex material effectively, providing clear and fair grading, and being readily available for additional help.",
     "Ratings": [
       {
         "index": 1,
@@ -104,6 +108,8 @@
     "lastName": "Stewart",
     "legacyId": 1478792,
     "numRatings": 12,
+    "summary_comment": "Professor Stewart is highly regarded for his friendly and engaging teaching style, making his courses enjoyable and stress-free. He is known for his deep expertise and high expectations, particularly in challenging subjects like advanced language courses, where he encourages students to excel through diligent work and seeking help when needed. Students consistently praise his willingness to provide support and his dedication to their success.",
+    "summary_comment_short": "Professor Stewart is highly regarded for his friendly and engaging teaching style, making his courses enjoyable and stress-free. He is known for his dedication to student success, challenging students while providing ample support and resources.",
     "Ratings": [
       {
         "index": 1,
@@ -201,6 +207,8 @@
     "lastName": "Shahrani",
     "legacyId": 1104886,
     "numRatings": 29,
+    "summary_comment": "Professor Shahrani is highly regarded for her dedication and supportive approach, fostering a strong sense of community in her classes. Students find her courses demanding but rewarding, with a focus on active participation and thorough engagement with the material. While some find the workload substantial, they appreciate her availability and genuine care for their success.",
+    "summary_comment_short": "Professor Shahrani is known for her dedication and commitment to her students, fostering a supportive community atmosphere in her classes. Her teaching approach is demanding, with a focus on active participation and substantial homework, but students appreciate her willingness to provide extra help and support.",
     "Ratings": [
       {
         "index": 1,
@@ -406,153 +414,22 @@
         "course": "ARABC101"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.4,
-    "avgRating": 4.1,
-    "department": "Arabic",
-    "firstName": "Hisam",
-    "id": "VGVhY2hlci0xMTExMzYy",
-    "lastName": "Elaqad",
-    "legacyId": 1111362,
-    "numRatings": 19,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Easily the best professor I have had in my four years here. He grades on effort, so really do try your best. Hisam is a lovely man, and hilarious. I loved all of his classes. Also, make sure you do your homework because he notices when you do it and he does factor that into your grade.",
-        "course": "ARABI202"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Professor Elaqad is not the best teacher, and I had to learn a lot by myself or with the help of TAs. However, he is extremely dedicated to his students and will help in any way that he can. He will even FaceTime with his students on weekends. He is also a lenient grader- if he sees you putting in the effort, he will help out.",
-        "course": "ARAB1101"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Hisam cares about his students' success and is always willing to make extra time at his office to help. He grades mostly on effort, so as long as you show up, do your homework (he check's a lot), participate in class, and study, you'll do well.",
-        "course": "ARABIC4120"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "I had Hisam 4 times since my minor was Arabic. Very tough but work hard and you will get a good grade guaranteed. He mainly grades on effort. Don't show up late or skip class all the time cause he will ask you why in front of everyone! The grammar classes are very hard but you will not find a better Arabic teacher on campus when it comes to Hisam!",
-        "course": "ARAB205"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I learned more in this Arabic class than in any other Arabic class I've taken. Hisam is a good teacher and really pushes you to learn. It is a lot of hard work but if you do the work it is rewarding. Hisam can sometimes come of as rude but he is generous with extra credit, is hilarious, and keeps the classroom atmosphere very casual. ",
-        "course": "ARAB1102"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Hisam will rarely give you any grades or telling you how you are doing. He grades people on their effort. So as long as you come to class and do the homework everyday (which is a lot) you will be fine. If you don't, regardless of how good you are at Arabic, don't expect a good grade.",
-        "course": "ARABIC4106"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Elaqad is excellent. He cares about his students. I learned a lot from him. He is fair and will reward hard workers.",
-        "course": "ARA4111"
-      },
-      {
-        "index": 8,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Hisam is extremely rude and he appears to think that studying abroad is a requirement to take his classes. His exams are ridiculous and don't always cover material given in class. He is also extremely rude to certain students and doesn't care to provide help or resources outside of class. He is the worst professor I have ever had to deal with.",
-        "course": "ARA4111"
-      },
-      {
-        "index": 9,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "He is very moody*. He assigns a ridiculous amount of homework that is impossible to complete then he doesn't go over it in class but expects you to know it. I did not feel encouraged by him and meeting with him was uncomfortable and degrading. He called other students out in class about non-related issues and was very rude. I didn't enjoy him.",
-        "course": "ARABI603"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Great teacher, one of the best at OSU",
-        "course": "ARABI401"
-      },
-      {
-        "index": 11,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "He's a tough teacher and if you're not willing to show up, there is no way you're going to pass. However, if you put in the effort, you'll be fine. He really cares about his students and explains the material very well. He's intimidating some days and cheerful others so just be careful with him!",
-        "course": "ARAB205"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Hisham genuinely cares for his students and is passionate about what he teaches. He is one of the best professors I ever had and I highly recommend him. If you are lazy do not take Arabic, it requires a lot of time no matter what class you are in.",
-        "course": "ARABI205"
-      },
-      {
-        "index": 13,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "he's extremely distracted. there's no rhyme or reason to his grading, and grades based on his mood. One exam we took, he marked off more than the exam was worth. He also likes to pick on some people. One good thing about him is his jokes, although he can be quite bipolar.",
-        "course": "ARABI202"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Hisam is very friendly and understanding, and constantly stresses that the class is about learning more. He's usually very friendly and that makes a long class better, but occasionally he seems irritated, and if you go to his office hours he is often very distracted. But by far the best Arabic teacher OSU has. Come to class & do your work = A.",
-        "course": "ARAB200"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "This is a grammar class and I thought it was going to be so boring but he made it interesting. He is an excellent Prof. makes the information understandable and even enjoyable. He is very helpful inside and outside class, just show up to class and read and you'll be fine. If you skip class or if the dog eats your homework, you will be embarrassed.",
-        "course": "ARAB200"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Hesham is a good teacher. He is always cheerful and he made class fun. He is very helpful, inside and outside class. He covered the material thoroughly and made sure we learned the topic. I would give him 11/10 and I would recommend his class to anyone interested in learning Arabic.",
-        "course": "ARB205"
-      },
-      {
-        "index": 17,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I learned more Arabic in this class than in any of the past ones I've taken. I personally think that Prof. Elaqad is an excellent teacher. He is very good in explaining the hard material.",
-        "course": "ARAB200"
-      },
-      {
-        "index": 18,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He is an awesome teacher.  His energy makes the class fun. He's very helpful in office hours too. I highly recommend him.",
-        "course": "ARAB205"
-      },
-      {
-        "index": 19,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Hisam is an amazing teacher. He has definitely been my best and favorite Arabic teacher so far.",
-        "course": "ARABI205"
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "22385",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4"
       }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 2.5,
@@ -563,6 +440,8 @@
     "lastName": "Dirbas",
     "legacyId": 2547368,
     "numRatings": 14,
+    "summary_comment": "Professor Dirbas is highly regarded for his dedication to helping students understand Arabic, offering clear explanations and covering cultural aspects beyond grammar and vocabulary. However, opinions vary; some find his class straightforward and easy with significant emphasis on attendance and participation, while others describe him as overly critical and unapproachable, leading to negative experiences.",
+    "summary_comment_short": "Professor Dirbas is highly regarded for his dedication to helping students understand Arabic, providing clear explanations and covering cultural aspects beyond grammar and vocabulary. However, some students found him critical and mean, especially towards those who made mistakes, and felt he placed significant emphasis on punctual attendance and participation.",
     "Ratings": [
       {
         "index": 1,
@@ -663,7 +542,822 @@
         "course": "ARABIC1102"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.02",
+        "Class Name": "Intermediate Modern Standard Arabic I: Intensive",
+        "Class Number": "23335",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "12581",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.31"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "12582",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "12583",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "2.78"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "28132",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "16314",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "16316",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "4120",
+        "Class Name": "Arabic Media",
+        "Class Number": "16319",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3.25"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "23364",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "10605",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "10607",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "23711",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.31"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "10455",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.17"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "10456",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "10458",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "4120",
+        "Class Name": "Arabic Media",
+        "Class Number": "10460",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.02",
+        "Class Name": "Elementary Modern Standard Arabic I: Intensive",
+        "Class Number": "19617",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.02",
+        "Class Name": "Intermediate Modern Standard Arabic I: Intensive",
+        "Class Number": "19619",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.11"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "14755",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "14757",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "26780",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "17021",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "17023",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "30587",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "28969",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "17483",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "2101",
+        "Class Name": "Arabic Grammar I",
+        "Class Number": "36879",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "2241",
+        "Class Name": "Contemporary Arab Cultures: Arts, Mass Media, Society",
+        "Class Number": "29689",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.73"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4.3,
+    "department": "Arabic",
+    "firstName": "Manal",
+    "id": "VGVhY2hlci0xMjU3NzUy",
+    "lastName": "Habbal",
+    "legacyId": 1257752,
+    "numRatings": 12,
+    "summary_comment": "Professor Habbal, specifically Manal, is known for her strict grading but is highly regarded for her teaching abilities and dedication to helping students understand complex material. Students consistently praise her for her patience, willingness to assist, and ability to make learning Arabic engaging and enjoyable. Her commitment to her students' success is evident in her thorough explanations and supportive approach.",
+    "summary_comment_short": "Professor Habbal, known as Manal, is a highly effective and dedicated instructor who is strictly graded yet deeply committed to her students' understanding and success. She goes above and beyond to clarify complex material, make learning enjoyable, and genuinely cares about her students' progress.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "SUPER STRICT GRADER",
+        "course": "EDTL1902"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Beautiful teacher inside and out and very helpful",
+        "course": "ENG101"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "good teacher!",
+        "course": "ENG101"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I had Manal for Individual Study. Although most work was done out of class, Manal always helped with questions and did an excellent job of clarifying an often complicated language. I Strongly Suggest taking Arabic with her!!",
+        "course": "ARAB101"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Manal is great. If you really wanna learn take her class plus she makes good baklava",
+        "course": "ARAB104"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Manal is an awesome teacher!! She does everything she can to help you and make sure you understand the grammar. She's a really nice person, too. I'll really miss having her as a teacher. Take her if you get the chance!!",
+        "course": "ARAB104"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "She was a really nice teacher, always willing to help whenever you had questions. Even though Al-Kitaab isn't the best textbook (I hate Maha and Khalid), it's the best out there. Manal tried to make Arabic fun in 103, so I decided to take her for 104, which I'm now in. I recommend her! =)",
+        "course": "ARAB103"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Awesome! Awesome! Awesome! Makes learning such a difficult language fun and interesting. She tries her best to answer every question that comes her way and does a great job in doing so.Her goal is to help you learn the language and she actually cares about how her students are doing. Great professor I would recommend no one else to take Arabic with",
+        "course": "ARABC103"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Manal Is by far one of the best in the arabic department. Cares about her students and a clear explainer. Tests are kinda hard but if you study you'll be fine",
+        "course": "ARABI103"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I liked her when I had 101. In 103 she was pretty lousy. The arabic tract is kinda lousy because of the book being used, but Mannal was pretty bad at explaining the grammatical concepts to us. She was enthusiastic, just poor in teaching. After the midterm around a third of the original class was gone... dropped or was failing.",
+        "course": "ARABI103"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very knowledgeable and organized teacher.Makes learning the language fun. She is very helpful if you have questions Def. would recommend.",
+        "course": "ARAB102"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "I have had her for 101 and 102 and I love her! She is so nice and adorable. I talked to a girl from my 101 class with a different teacher for 102 and she said she wished she could switch back. She's very helpful and straightforward. Cares a lot about her students. Tests are always straightforward but you really need to go to class to understand it!",
+        "course": "ARABI101"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.02",
+        "Class Name": "Elementary Modern Standard Arabic I: Intensive",
+        "Class Number": "23333",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "17696",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "37242",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "27729",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "3.13"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "37651",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.17"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "1901",
+        "Class Name": "Advanced English as a Second Language",
+        "Class Number": "7611",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "36964",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "36968",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "1902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "30695",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "1902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "30699",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "15",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "1902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "36010",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "16",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "1901",
+        "Class Name": "Advanced English as a Second Language",
+        "Class Number": "32172",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "34361",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "15",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "34363",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "34364",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.36"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "13028",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "13033",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "15055",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Academic Writing in English as a Second Language",
+        "Class Number": "15415",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Advanced Academic Writing for Multilingual Graduate Students",
+        "Class Number": "15313",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "5"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Advanced Academic Writing for Multilingual Graduate Students",
+        "Class Number": "15316",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Advanced Academic Writing for Multilingual Graduate Students",
+        "Class Number": "13509",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.55"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5902",
+        "Class Name": "Advanced Academic Writing for Multilingual Graduate Students",
+        "Class Number": "13645",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.78"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.7,
@@ -674,6 +1368,8 @@
     "lastName": "Atanassova-Boft",
     "legacyId": 2017916,
     "numRatings": 21,
+    "summary_comment": "Professor Atanassova-Boft is described as a caring and patient instructor who genuinely wants her students to succeed, though some find her teaching style less structured and her grading criteria unclear. Her classes are often canceled, and homework is not immediately graded, which can hinder learning. Despite these challenges, many students appreciate her dedication and the cultural elements she incorporates into her courses.",
+    "summary_comment_short": "Professor Atanassova-Boft is described as a caring and patient instructor who genuinely wants her students to succeed, but her classes often face issues with attendance, cancellations, and unclear grading criteria. Students appreciate her willingness to help outside of class and her efforts to make the material engaging, though some find the structure of the class confusing and feel they do not learn as much as they could.",
     "Ratings": [
       {
         "index": 1,
@@ -823,7 +1519,302 @@
         "course": "1102"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "12579",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "25690",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "20102",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "22386",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "16315",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "29177",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "2104.01",
+        "Class Name": "Intermediate Modern Standard Arabic II",
+        "Class Number": "16318",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "10457",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "23303",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "2104.01",
+        "Class Name": "Intermediate Modern Standard Arabic II",
+        "Class Number": "14297",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "2241",
+        "Class Name": "Contemporary Arab Cultures: Arts, Mass Media, Society",
+        "Class Number": "23379",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "14758",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "14759",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "17022",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "28719",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "2104.01",
+        "Class Name": "Intermediate Modern Standard Arabic II",
+        "Class Number": "20518",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "2241",
+        "Class Name": "Contemporary Arab Cultures: Arts, Mass Media, Society",
+        "Class Number": "19810",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "17694",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1101.01",
+        "Class Name": "Elementary Modern Standard Arabic I",
+        "Class Number": "17695",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1102.01",
+        "Class Name": "Elementary Modern Standard Arabic II",
+        "Class Number": "17482",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "1103.01",
+        "Class Name": "Intermediate Modern Standard Arabic I",
+        "Class Number": "28344",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.64"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.3,
@@ -834,6 +1825,8 @@
     "lastName": "Hackenburg",
     "legacyId": 1582844,
     "numRatings": 12,
+    "summary_comment": "Professor Hackenburg is widely regarded as an exceptional educator, consistently praised for his engaging and humorous teaching style, deep knowledge of the subject matter, and strong commitment to student success. Students appreciate his passion for Arabic, his availability for extra help, and his willingness to go above and beyond to ensure their understanding and success in the course.",
+    "summary_comment_short": "Professor Hackenburg is widely regarded as an exceptional instructor, known for his passion, humor, and dedication to helping students succeed. Students consistently praise his ability to make challenging material engaging and accessible, and appreciate his availability and willingness to go above and beyond to support their learning.",
     "Ratings": [
       {
         "index": 1,
@@ -931,6 +1924,8 @@
     "lastName": "Alidib",
     "legacyId": 1175107,
     "numRatings": 12,
+    "summary_comment": "Professor Alidib is highly regarded by some students for his humor and clarity, though others find him challenging and unhelpful, citing inconsistent testing schedules and unclear grading criteria. While some recommend his class, many warn against taking him due to his demanding and potentially biased grading system.",
+    "summary_comment_short": "Professor Alidib is polarizing among students; while some find him hilarious, knowledgeable, and supportive, others criticize him for poor organization, lack of clear rubrics, and unfair grading practices. Overall, his teaching style and grading criteria seem inconsistent and can lead to confusion and frustration.",
     "Ratings": [
       {
         "index": 1,
@@ -1020,330 +2015,149 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 2.5,
-    "avgRating": 4.4,
-    "department": "Arabic",
-    "firstName": "Christopher",
-    "id": "VGVhY2hlci0xNTEzMTI3",
-    "lastName": "Hemmig",
-    "legacyId": 1513127,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Grades tests very easily.  If you show up and put in effort you'll pass.  Really nice guy.",
-        "course": "ARABIC1101"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Explains topics well and has a lot of office hours in case students are confused.  Tests could be have tough questions but he graded them really loosely and getting good grades was never too difficult.",
-        "course": "ARABIC1103"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Moves quickly, and at times goes off topic. The switch between different dialects for a first year was tough.",
-        "course": "ARB1101"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Really nice guy who is willing to work with you outside of class.  Grades really fairly.",
-        "course": "ARABI102"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.4,
-    "avgRating": 2.9,
+    "avgRating": 4.1,
     "department": "Arabic",
-    "firstName": "Youssef",
-    "id": "VGVhY2hlci0xNTQ4Nzg5",
-    "lastName": "Yacoubi",
-    "legacyId": 1548789,
-    "numRatings": 10,
+    "firstName": "Hisam",
+    "id": "VGVhY2hlci0xMTExMzYy",
+    "lastName": "Elaqad",
+    "legacyId": 1111362,
+    "numRatings": 19,
+    "summary_comment": "Professor Elaqad is highly regarded for his dedication and effort-grading system, which emphasizes attendance, participation, and homework completion. Students appreciate his availability and willingness to help, often staying late to assist them. While some find his teaching style challenging and his exams demanding, the consensus is that he genuinely cares about his students' success and is fair to those who put in the necessary work.",
+    "summary_comment_short": "Professor Elaqad is highly regarded for his dedication and effort-based grading system, which rewards students who attend class regularly, complete homework, and participate actively. While some students found his classes challenging and his grading methods strict, many praised his willingness to help outside of class and his overall positive impact on student learning.",
     "Ratings": [
       {
         "index": 1,
         "rating": 5,
-        "difficulty": 4,
-        "comment": "Great professor of Arabic literature, encourages students to think beyond the text. Not only an interesting course, but one that affected the way in which I see the world.",
-        "course": "5701ARBPROSE"
+        "difficulty": 2,
+        "comment": "Easily the best professor I have had in my four years here. He grades on effort, so really do try your best. Hisam is a lovely man, and hilarious. I loved all of his classes. Also, make sure you do your homework because he notices when you do it and he does factor that into your grade.",
+        "course": "ARABI202"
       },
       {
         "index": 2,
         "rating": 3,
-        "difficulty": 2,
-        "comment": "Take it!! Participate once a week and you'll get a B. If you get a C, B, and A on 3 papers, he'll give you an A- overall for improvement. Buy ALL the books, you need them. Beginning of course is boring, gets way more interesting. Class schedule is VERY tentative. Go to class he gives lots of info you use for midterm papers, lots of EC opportunities",
-        "course": "2367"
+        "difficulty": 5,
+        "comment": "Professor Elaqad is not the best teacher, and I had to learn a lot by myself or with the help of TAs. However, he is extremely dedicated to his students and will help in any way that he can. He will even FaceTime with his students on weekends. He is also a lenient grader- if he sees you putting in the effort, he will help out.",
+        "course": "ARAB1101"
       },
       {
         "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "This teacher thinks he is extremely important  :( but the truth is he is not! guy needs to see a doctor!  DROP THIS NOW!",
-        "course": "ARABIC2367"
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Hisam cares about his students' success and is always willing to make extra time at his office to help. He grades mostly on effort, so as long as you show up, do your homework (he check's a lot), participate in class, and study, you'll do well.",
+        "course": "ARABIC4120"
       },
       {
         "index": 4,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": " Class is a disaster, not a fun atmosphere, not motivating, not professional. The teacher is always unprepared, very arrogant, and unclear in terms of what he expects from you! He doesn't follow the syllabus at all!  He really should lighten up. In short, dont waste your time! Avoid at all cost",
-        "course": "ARABIC2367"
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I had Hisam 4 times since my minor was Arabic. Very tough but work hard and you will get a good grade guaranteed. He mainly grades on effort. Don't show up late or skip class all the time cause he will ask you why in front of everyone! The grammar classes are very hard but you will not find a better Arabic teacher on campus when it comes to Hisam!",
+        "course": "ARAB205"
       },
       {
         "index": 5,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Prof. Yacoubi is really enthusiastic about the topic and it can be fun to watch him get really into his lectures. However, the class is strangely organized and doesn't follow the schedule on the syllabus. It isn't too hard to get a good grade as long as you're okay at writing papers and go to class.  It also helps if you know a little Arabic.",
-        "course": "ARABIC2367"
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I learned more in this Arabic class than in any other Arabic class I've taken. Hisam is a good teacher and really pushes you to learn. It is a lot of hard work but if you do the work it is rewarding. Hisam can sometimes come of as rude but he is generous with extra credit, is hilarious, and keeps the classroom atmosphere very casual. ",
+        "course": "ARAB1102"
       },
       {
         "index": 6,
-        "rating": 3,
+        "rating": 4,
         "difficulty": 4,
-        "comment": "Really bad professor who knows lots about the topic. I don't recommend working close with this professor",
-        "course": "ARB371"
+        "comment": "Hisam will rarely give you any grades or telling you how you are doing. He grades people on their effort. So as long as you come to class and do the homework everyday (which is a lot) you will be fine. If you don't, regardless of how good you are at Arabic, don't expect a good grade.",
+        "course": "ARABIC4106"
       },
       {
         "index": 7,
-        "rating": 2,
+        "rating": 5,
         "difficulty": 2,
-        "comment": "very enthusiastic about material, sometimes hard to take notes off of as he only goes off slides that are shown in class. Overall very good",
-        "course": "NELC3702"
+        "comment": "Professor Elaqad is excellent. He cares about his students. I learned a lot from him. He is fair and will reward hard workers.",
+        "course": "ARA4111"
       },
       {
         "index": 8,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Great teacher, definitely helped us out if you went to office hours. Taught an interesting class, and held my interest.",
-        "course": "ARABICLIT"
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Hisam is extremely rude and he appears to think that studying abroad is a requirement to take his classes. His exams are ridiculous and don't always cover material given in class. He is also extremely rude to certain students and doesn't care to provide help or resources outside of class. He is the worst professor I have ever had to deal with.",
+        "course": "ARA4111"
       },
       {
         "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I have incredible respect for Dr. Yacoubi. He is one of the most involved and enthusiastic professors I have had at Ohio State. Very knowledgeable in all the liberal arts and he is willing to discuss about anything. If you take him though, expect to read and work hard on papers. He is difficult, but it is worth it to study under his intellect. ",
-        "course": "ARABI371"
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "He is very moody*. He assigns a ridiculous amount of homework that is impossible to complete then he doesn't go over it in class but expects you to know it. I did not feel encouraged by him and meeting with him was uncomfortable and degrading. He called other students out in class about non-related issues and was very rude. I didn't enjoy him.",
+        "course": "ARABI603"
       },
       {
         "index": 10,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "THE WORST INSTRUCTOR SO FAR! The class expectations, lectures, and instructions are vague or incomprehensible.  His syllabus is not helpful.  40-50 pages of Arabic reading are assigned per week with little time for questions or discussion.  Also,a homework was transformed into a midterm retroactively (after its return).",
-        "course": "ARABC722"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.9,
-    "avgRating": 4.1,
-    "department": "Arabic",
-    "firstName": "Awatif",
-    "id": "VGVhY2hlci0xOTQ5MDM3",
-    "lastName": "Elnour",
-    "legacyId": 1949037,
-    "numRatings": 8,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "This professor is so helpful. Take her class. You won't reared it! ",
-        "course": "ARABIC110101"
-      },
-      {
-        "index": 2,
         "rating": 5,
         "difficulty": 3,
-        "comment": "Enjoyed her class very much. Wonderful character. Full of Light.",
-        "course": "110101"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "This teacher is very kind, helpful, and goes over and beyond to help her students. She does ask you to online assignments, but they are for your own good in the end. She goes not only into the language, but also the culture and the different norms in arab countries. Just be willing to put in the work, and she helps you to talk arabic in class, ",
-        "course": "1103"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "The professor is nice and very willing to help you with anything. As this is a language get ready to use your text book a lot and also do the homework. Participation is very important in this class. If you do your assignments and show up to class you'll be fine. ",
-        "course": "110101"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": " The professor is really nice and willing to work with you to help you understand the material. It is important that you study a little every day. The teacher assigns homework  most days and attending lecture is crucial.  ",
-        "course": "110101"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "The teacher is a great instructor and I recommend this class from this instructor. As long as you ask questions and do your work you'll be fine. She is the best for learning Arabic. She is very knowledgeable on all subject matter.",
-        "course": "ARABIC110101"
-      },
-      {
-        "index": 7,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "My personal experience with Dr. Elnour is that she is a nice person. For non natives, her teaching style can be very confusing, but as long as you ask questions and do your work you'll be fine. She is a generous grader, but expects you to do work. The grading criterea does not seem to be clearly defined, and sometimes the class seems unorganized.",
-        "course": "1103"
-      },
-      {
-        "index": 8,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "I struggled to keep up with her teaching style.  It seems like she bases her class of off the performance of native speakers - who are taking the class for a GPA boost.  Poorly paced class.  Nice person, frustrating teacher.  Teach yourself through the book if you want to succeed.  310 do not recommend.",
-        "course": "ARABIC110101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 4.8,
-    "department": "Arabic",
-    "firstName": "David",
-    "id": "VGVhY2hlci0yMTEyMDA1",
-    "lastName": "Bond",
-    "legacyId": 2112005,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Great professor; enthusiastic, passionate about what he is teaching. Makes you think outside the box. Just do the work and you'll get an A",
-        "course": "NELC3702"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Graded attendance but passing means do the online work. Lots of quizzes and discussions about course material but will comment interesting feedback. Going to class is good because he is knowledgeable and shows off some really cool stuff. He has a bit of a speech impediment sometimes and cuts people off but for the sake of time management. Easy A",
-        "course": "NELC3702"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "All around nice guy with a clear passion for the material and the willingness to work with you to maximize your educational experience",
-        "course": "ARABIC2241"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 4.8,
-    "department": "Arabic",
-    "firstName": "Amany",
-    "id": "VGVhY2hlci0xNTg3ODI2",
-    "lastName": "Seleem",
-    "legacyId": 1587826,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "BEST IN THE WORLD",
-        "course": "5512"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Awesome instructor! My favorite class yet-- she was very helpful, patient and very willing to give any extra help. Just be sure to do assigned homework-- Arabic can be tough if you don't study. Classes were very interactive and enjoyable. Sweetest woman in the world, I definitely recommend taking her!",
-        "course": "ARABI101"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "She was the best teacher i took. She is so helpful, and She is hard worker. Her work Ethic is out of this world. She taught us things that were a bit too advance because she had faith on us. She knew we could do it. She tells her students they are BRILLIANT. which is good to hear.",
-        "course": "ARABC101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 3.8,
-    "department": "Arabic",
-    "firstName": "Abderrahim",
-    "id": "VGVhY2hlci0xNDE3OTYz",
-    "lastName": "Slaouihakim",
-    "legacyId": 1417963,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "He is really quiet and kind of awkward but he is a really nice guy and will help you out a lot if you ask for it. I felt that the structure of the class was weak because he is so timid. I was doing extremely well until the final. Its difficulty was NOT on par with previous exams. If you can, get into Chris's class.",
-        "course": "ARBC102"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "I had him for arabic 102 and 103 and was excited to have him again. However, in 205 he was rude and would pick on the students in the class who weren't native speakers when they made mistakes. By the end of the class only 15 people were left, almost all native speakers. I dropped it and took it the next quarter with a different teacher--I got an A.",
-        "course": "ARAB205"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Very kind and helpful. He expects a LOT from his students as well as respect and dedication*. He goes straight by the book but includes a lot of culture in his lectures too. I learned about the language and* world while being in his class.",
+        "comment": "Great teacher, one of the best at OSU",
         "course": "ARABI401"
       },
       {
-        "index": 4,
+        "index": 11,
         "rating": 4,
-        "difficulty": 3,
-        "comment": "Despite the scary beard, he's a really, really nice teacher. Always willing to help you if you have questions. I'd take him again.",
+        "difficulty": 4,
+        "comment": "He's a tough teacher and if you're not willing to show up, there is no way you're going to pass. However, if you put in the effort, you'll be fine. He really cares about his students and explains the material very well. He's intimidating some days and cheerful others so just be careful with him!",
         "course": "ARAB205"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 4.3,
-    "department": "Arabic",
-    "firstName": "Ali",
-    "id": "VGVhY2hlci0xNjU5Njk5",
-    "lastName": "Hassan",
-    "legacyId": 1659699,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Dr. Hassan is one of the kindest and most generous human beings you will ever meet. No surprises in the class (he tells you exactly what will be on tests). Easy A if you study a little and attend class.",
-        "course": "ARAB501"
       },
       {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "One of the nicest people you will ever meet. He may not be the most clear in class, but he will go out of his way to help you understand the material. The class is not difficult and he tries to make sure there are no surprises on tests.",
-        "course": "ARABI501"
+        "index": 12,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Hisham genuinely cares for his students and is passionate about what he teaches. He is one of the best professors I ever had and I highly recommend him. If you are lazy do not take Arabic, it requires a lot of time no matter what class you are in.",
+        "course": "ARABI205"
+      },
+      {
+        "index": 13,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "he's extremely distracted. there's no rhyme or reason to his grading, and grades based on his mood. One exam we took, he marked off more than the exam was worth. He also likes to pick on some people. One good thing about him is his jokes, although he can be quite bipolar.",
+        "course": "ARABI202"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Hisam is very friendly and understanding, and constantly stresses that the class is about learning more. He's usually very friendly and that makes a long class better, but occasionally he seems irritated, and if you go to his office hours he is often very distracted. But by far the best Arabic teacher OSU has. Come to class & do your work = A.",
+        "course": "ARAB200"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This is a grammar class and I thought it was going to be so boring but he made it interesting. He is an excellent Prof. makes the information understandable and even enjoyable. He is very helpful inside and outside class, just show up to class and read and you'll be fine. If you skip class or if the dog eats your homework, you will be embarrassed.",
+        "course": "ARAB200"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Hesham is a good teacher. He is always cheerful and he made class fun. He is very helpful, inside and outside class. He covered the material thoroughly and made sure we learned the topic. I would give him 11/10 and I would recommend his class to anyone interested in learning Arabic.",
+        "course": "ARB205"
+      },
+      {
+        "index": 17,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I learned more Arabic in this class than in any of the past ones I've taken. I personally think that Prof. Elaqad is an excellent teacher. He is very good in explaining the hard material.",
+        "course": "ARAB200"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He is an awesome teacher.  His energy makes the class fun. He's very helpful in office hours too. I highly recommend him.",
+        "course": "ARAB205"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Hisam is an amazing teacher. He has definitely been my best and favorite Arabic teacher so far.",
+        "course": "ARABI205"
       }
     ],
     "SEI": []
@@ -1357,6 +2171,8 @@
     "lastName": "Biglin",
     "legacyId": 1780848,
     "numRatings": 3,
+    "summary_comment": "Professor Biglin is highly regarded for his exceptional teaching skills and passion for the subject. Students consistently praise his willingness to help beyond regular class hours and his ability to make the learning experience enjoyable through cultural lessons and humor.",
+    "summary_comment_short": "Professor Biglin is an exceptional teacher known for his passion, knowledge, and ability to make learning enjoyable through cultural lessons and humor. Students highly recommend taking any class he teaches due to his willingness to help and engaging teaching style.",
     "Ratings": [
       {
         "index": 1,
@@ -1383,103 +2199,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3,
-    "avgRating": 4.3,
-    "department": "Arabic",
-    "firstName": "Manal",
-    "id": "VGVhY2hlci0xMjU3NzUy",
-    "lastName": "Habbal",
-    "legacyId": 1257752,
-    "numRatings": 12,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "SUPER STRICT GRADER",
-        "course": "EDTL1902"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Beautiful teacher inside and out and very helpful",
-        "course": "ENG101"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "good teacher!",
-        "course": "ENG101"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I had Manal for Individual Study. Although most work was done out of class, Manal always helped with questions and did an excellent job of clarifying an often complicated language. I Strongly Suggest taking Arabic with her!!",
-        "course": "ARAB101"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Manal is great. If you really wanna learn take her class plus she makes good baklava",
-        "course": "ARAB104"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Manal is an awesome teacher!! She does everything she can to help you and make sure you understand the grammar. She's a really nice person, too. I'll really miss having her as a teacher. Take her if you get the chance!!",
-        "course": "ARAB104"
-      },
-      {
-        "index": 7,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "She was a really nice teacher, always willing to help whenever you had questions. Even though Al-Kitaab isn't the best textbook (I hate Maha and Khalid), it's the best out there. Manal tried to make Arabic fun in 103, so I decided to take her for 104, which I'm now in. I recommend her! =)",
-        "course": "ARAB103"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Awesome! Awesome! Awesome! Makes learning such a difficult language fun and interesting. She tries her best to answer every question that comes her way and does a great job in doing so.Her goal is to help you learn the language and she actually cares about how her students are doing. Great professor I would recommend no one else to take Arabic with",
-        "course": "ARABC103"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Manal Is by far one of the best in the arabic department. Cares about her students and a clear explainer. Tests are kinda hard but if you study you'll be fine",
-        "course": "ARABI103"
-      },
-      {
-        "index": 10,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I liked her when I had 101. In 103 she was pretty lousy. The arabic tract is kinda lousy because of the book being used, but Mannal was pretty bad at explaining the grammatical concepts to us. She was enthusiastic, just poor in teaching. After the midterm around a third of the original class was gone... dropped or was failing.",
-        "course": "ARABI103"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Very knowledgeable and organized teacher.Makes learning the language fun. She is very helpful if you have questions Def. would recommend.",
-        "course": "ARAB102"
-      },
-      {
-        "index": 12,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "I have had her for 101 and 102 and I love her! She is so nice and adorable. I talked to a girl from my 101 class with a different teacher for 102 and she said she wished she could switch back. She's very helpful and straightforward. Cares a lot about her students. Tests are always straightforward but you really need to go to class to understand it!",
-        "course": "ARABI101"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 2.7,
     "avgRating": 4,
     "department": "Arabic",
@@ -1488,6 +2207,8 @@
     "lastName": "Kashou",
     "legacyId": 1139816,
     "numRatings": 10,
+    "summary_comment": "Professor Kashou is highly regarded for her helpfulness and approachability, with many students noting her willingness to assist both in and out of class. She is praised for her knowledge of classical Arabic and her ability to make the subject engaging and accessible. However, some students have noted that she can be unorganized and may not provide as much support as other instructors, emphasizing the need for students to be proactive in their learning.",
+    "summary_comment_short": "Professor Kashou is highly regarded for her helpfulness and willingness to assist students both in and out of class, making significant contributions to their learning. She is known for her strong command of the classical Arabic language and her ability to engage students effectively, though some note that her organization could be improved and that students need to be more independent in their studies.",
     "Ratings": [
       {
         "index": 1,
@@ -1571,6 +2292,8 @@
     "lastName": "Mangialardi",
     "legacyId": 1773310,
     "numRatings": 2,
+    "summary_comment": "Professor Mangialardi is widely regarded as an exceptional language instructor, known for his creativity in class activities, thorough knowledge of the subject, and ability to engage students with humor and charm. Students consistently praise his talent and dedication to teaching.",
+    "summary_comment_short": "Professor Mangialardi is widely regarded as an exceptional language instructor, known for his creativity, knowledge, and ability to engage students through humorous and interactive class activities. Students consistently praise his talent and charm in the classroom.",
     "Ratings": [
       {
         "index": 1,
@@ -1598,6 +2321,8 @@
     "lastName": "Hunanyan",
     "legacyId": 1265542,
     "numRatings": 3,
+    "summary_comment": "Professor Hunanyan is highly regarded as one of the best teachers, praised for his exceptional ability to break down complex Arabic concepts and provide practical vocabulary. Students appreciate his leniency but caution that falling behind without completing homework is likely.",
+    "summary_comment_short": "Professor Hunanyan is highly regarded as one of the best teachers, known for his ability to break down complex material, especially in Arabic, and for his leniency in grading. Students praise his effectiveness in teaching and his willingness to help them learn beyond the textbook.",
     "Ratings": [
       {
         "index": 1,
@@ -1632,6 +2357,8 @@
     "lastName": "Hess",
     "legacyId": 1356999,
     "numRatings": 3,
+    "summary_comment": "Professor Hess is a passionate instructor who genuinely wants her students to succeed and develop a love for Arabic. However, her classes can be challenging and sometimes feel unorganized, potentially moving at a pace that leaves some students feeling rushed. Despite this, many students appreciate her helpfulness and enthusiasm, noting that consistent attendance and effort lead to both academic success and a solid foundation in the language.",
+    "summary_comment_short": "Professor Hess is a passionate teacher who genuinely wants her students to succeed, though her classes can be challenging and sometimes feel unorganized. Students appreciate her enthusiasm and dedication to sharing her knowledge of Arabic, but some find the pace difficult and the class structure less than ideal.",
     "Ratings": [
       {
         "index": 1,
@@ -1666,6 +2393,8 @@
     "lastName": "Alhaj",
     "legacyId": 1396550,
     "numRatings": 3,
+    "summary_comment": "Professor Alhaj is highly regarded for her helpfulness and ability to engage the entire class, fostering an interactive learning environment. However, some students find her teaching methods limited, primarily focusing on going over assignments from the textbook without broader explanations or additional material. Despite this, her grading is praised as fair, and her exams, though challenging, are considered valuable for thorough preparation.",
+    "summary_comment_short": "Professor Alhaj is highly regarded for her helpfulness and ability to engage the entire class, making learning interactive. However, some students find her focus more on grading assignments rather than teaching, and her exams are noted for being challenging with unexpected vocabulary.",
     "Ratings": [
       {
         "index": 1,
@@ -1700,6 +2429,8 @@
     "lastName": "Steppenbacker",
     "legacyId": 1096256,
     "numRatings": 8,
+    "summary_comment": "Professor Steppenbacker is highly regarded for his engaging and informative teaching style, making complex topics accessible through interesting discussions and relevant examples. Students appreciate his thorough coverage of test material and his willingness to help, though some find his lectures can be detailed and occasionally confusing. Overall, he is seen as a knowledgeable and approachable instructor who fosters an enjoyable learning environment.",
+    "summary_comment_short": "Professor Steppenbacker is highly regarded for his engaging and informative teaching style, making complex topics accessible through interesting discussions and relevant examples. Students appreciate his thorough coverage of test material and his willingness to help, though some note occasional confusion due to his extensive knowledge leading to detailed explanations.",
     "Ratings": [
       {
         "index": 1,
@@ -1769,6 +2500,8 @@
     "lastName": "Nichols",
     "legacyId": 1046983,
     "numRatings": 9,
+    "summary_comment": "Professor Nichols is highly regarded for her exceptional teaching skills and supportive approach, making her one of the best Arabic instructors at OSU. Students praise her understanding nature, willingness to help, and ability to create a comfortable learning environment. Her organization and dedication to her students are consistently highlighted, though some note occasional limitations in her subject matter expertise.",
+    "summary_comment_short": "Professor Nichols is highly regarded for her exceptional teaching quality, being extremely understanding, supportive, and dedicated to her students' success. Her classes are known for their engaging atmosphere and comprehensive coverage of Arabic language and culture.",
     "Ratings": [
       {
         "index": 1,
@@ -1832,6 +2565,349 @@
         "difficulty": 2,
         "comment": "she is wonderful. explained everything so we understood and always made time for us!",
         "course": "ARABI103"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 4.4,
+    "department": "Arabic",
+    "firstName": "Christopher",
+    "id": "VGVhY2hlci0xNTEzMTI3",
+    "lastName": "Hemmig",
+    "legacyId": 1513127,
+    "numRatings": 4,
+    "summary_comment": "Professor Hemmig is known for his fair grading and willingness to help students outside of class. He explains topics clearly and offers numerous office hours, though some find his pace and occasional digressions challenging, especially for first-year students. His tests can be tough, but he grades them leniently, making it relatively easy to achieve good grades.",
+    "summary_comment_short": "Professor Hemmig is known for his fair grading and willingness to help students outside of class. He explains topics well and offers numerous office hours, though his lectures can move quickly and sometimes include off-topic material.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Grades tests very easily.  If you show up and put in effort you'll pass.  Really nice guy.",
+        "course": "ARABIC1101"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Explains topics well and has a lot of office hours in case students are confused.  Tests could be have tough questions but he graded them really loosely and getting good grades was never too difficult.",
+        "course": "ARABIC1103"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Moves quickly, and at times goes off topic. The switch between different dialects for a first year was tough.",
+        "course": "ARB1101"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Really nice guy who is willing to work with you outside of class.  Grades really fairly.",
+        "course": "ARABI102"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.4,
+    "avgRating": 2.9,
+    "department": "Arabic",
+    "firstName": "Youssef",
+    "id": "VGVhY2hlci0xNTQ4Nzg5",
+    "lastName": "Yacoubi",
+    "legacyId": 1548789,
+    "numRatings": 10,
+    "summary_comment": "Professor Yacoubi is known for his enthusiasm and deep knowledge of Arabic literature, often encouraging critical thinking beyond the text. His classes can be challenging and rewarding, with some students finding them transformative, while others find them disorganized and unengaging. Overall, his teaching quality is mixed, with some praising his passion and support, while others criticize his unpreparedness and lack of structure.",
+    "summary_comment_short": "Professor Yacoubi is highly regarded for his enthusiasm and ability to encourage critical thinking, though his teaching style and class organization can be inconsistent. Some students find his courses engaging and rewarding, while others struggle with his unpreparedness and unprofessional demeanor.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Great professor of Arabic literature, encourages students to think beyond the text. Not only an interesting course, but one that affected the way in which I see the world.",
+        "course": "5701ARBPROSE"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Take it!! Participate once a week and you'll get a B. If you get a C, B, and A on 3 papers, he'll give you an A- overall for improvement. Buy ALL the books, you need them. Beginning of course is boring, gets way more interesting. Class schedule is VERY tentative. Go to class he gives lots of info you use for midterm papers, lots of EC opportunities",
+        "course": "2367"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This teacher thinks he is extremely important  :( but the truth is he is not! guy needs to see a doctor!  DROP THIS NOW!",
+        "course": "ARABIC2367"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": " Class is a disaster, not a fun atmosphere, not motivating, not professional. The teacher is always unprepared, very arrogant, and unclear in terms of what he expects from you! He doesn't follow the syllabus at all!  He really should lighten up. In short, dont waste your time! Avoid at all cost",
+        "course": "ARABIC2367"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Prof. Yacoubi is really enthusiastic about the topic and it can be fun to watch him get really into his lectures. However, the class is strangely organized and doesn't follow the schedule on the syllabus. It isn't too hard to get a good grade as long as you're okay at writing papers and go to class.  It also helps if you know a little Arabic.",
+        "course": "ARABIC2367"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Really bad professor who knows lots about the topic. I don't recommend working close with this professor",
+        "course": "ARB371"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "very enthusiastic about material, sometimes hard to take notes off of as he only goes off slides that are shown in class. Overall very good",
+        "course": "NELC3702"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great teacher, definitely helped us out if you went to office hours. Taught an interesting class, and held my interest.",
+        "course": "ARABICLIT"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I have incredible respect for Dr. Yacoubi. He is one of the most involved and enthusiastic professors I have had at Ohio State. Very knowledgeable in all the liberal arts and he is willing to discuss about anything. If you take him though, expect to read and work hard on papers. He is difficult, but it is worth it to study under his intellect. ",
+        "course": "ARABI371"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "THE WORST INSTRUCTOR SO FAR! The class expectations, lectures, and instructions are vague or incomprehensible.  His syllabus is not helpful.  40-50 pages of Arabic reading are assigned per week with little time for questions or discussion.  Also,a homework was transformed into a midterm retroactively (after its return).",
+        "course": "ARABC722"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.9,
+    "avgRating": 4.1,
+    "department": "Arabic",
+    "firstName": "Awatif",
+    "id": "VGVhY2hlci0xOTQ5MDM3",
+    "lastName": "Elnour",
+    "legacyId": 1949037,
+    "numRatings": 8,
+    "summary_comment": "Professor Elnour is highly regarded for her helpfulness and dedication to her students, often going above and beyond to assist them. She emphasizes both language and cultural aspects of Arabic and encourages active participation and consistent effort. While some find her teaching style challenging, particularly for non-natives, many appreciate her kindness and knowledge, recommending her class for those willing to put in the work.",
+    "summary_comment_short": "Professor Elnour is highly regarded for her helpfulness and kindness, going above and beyond to assist her students with both language and cultural aspects of Arabic. Her teaching approach emphasizes consistent effort and participation, making the class challenging yet rewarding for those willing to put in the work.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This professor is so helpful. Take her class. You won't reared it! ",
+        "course": "ARABIC110101"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Enjoyed her class very much. Wonderful character. Full of Light.",
+        "course": "110101"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "This teacher is very kind, helpful, and goes over and beyond to help her students. She does ask you to online assignments, but they are for your own good in the end. She goes not only into the language, but also the culture and the different norms in arab countries. Just be willing to put in the work, and she helps you to talk arabic in class, ",
+        "course": "1103"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "The professor is nice and very willing to help you with anything. As this is a language get ready to use your text book a lot and also do the homework. Participation is very important in this class. If you do your assignments and show up to class you'll be fine. ",
+        "course": "110101"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": " The professor is really nice and willing to work with you to help you understand the material. It is important that you study a little every day. The teacher assigns homework  most days and attending lecture is crucial.  ",
+        "course": "110101"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "The teacher is a great instructor and I recommend this class from this instructor. As long as you ask questions and do your work you'll be fine. She is the best for learning Arabic. She is very knowledgeable on all subject matter.",
+        "course": "ARABIC110101"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "My personal experience with Dr. Elnour is that she is a nice person. For non natives, her teaching style can be very confusing, but as long as you ask questions and do your work you'll be fine. She is a generous grader, but expects you to do work. The grading criterea does not seem to be clearly defined, and sometimes the class seems unorganized.",
+        "course": "1103"
+      },
+      {
+        "index": 8,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "I struggled to keep up with her teaching style.  It seems like she bases her class of off the performance of native speakers - who are taking the class for a GPA boost.  Poorly paced class.  Nice person, frustrating teacher.  Teach yourself through the book if you want to succeed.  310 do not recommend.",
+        "course": "ARABIC110101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.8,
+    "department": "Arabic",
+    "firstName": "David",
+    "id": "VGVhY2hlci0yMTEyMDA1",
+    "lastName": "Bond",
+    "legacyId": 2112005,
+    "numRatings": 3,
+    "summary_comment": "Professor Bond is an enthusiastic and passionate educator who encourages critical thinking and creativity. He requires consistent engagement through attendance and regular quizzes and discussions, but his clear passion for the subject matter and willingness to help students succeed make the effort worthwhile. Despite occasional speech impediments and tendencies to cut people off for time management, students find him approachable and easy to earn an A from.",
+    "summary_comment_short": "Professor Bond is an enthusiastic and passionate educator who encourages critical thinking and provides valuable insights into the course material. Despite minor communication quirks, his knowledge and engaging teaching style make him an effective instructor who helps students achieve easy As.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Great professor; enthusiastic, passionate about what he is teaching. Makes you think outside the box. Just do the work and you'll get an A",
+        "course": "NELC3702"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Graded attendance but passing means do the online work. Lots of quizzes and discussions about course material but will comment interesting feedback. Going to class is good because he is knowledgeable and shows off some really cool stuff. He has a bit of a speech impediment sometimes and cuts people off but for the sake of time management. Easy A",
+        "course": "NELC3702"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "All around nice guy with a clear passion for the material and the willingness to work with you to maximize your educational experience",
+        "course": "ARABIC2241"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.8,
+    "department": "Arabic",
+    "firstName": "Amany",
+    "id": "VGVhY2hlci0xNTg3ODI2",
+    "lastName": "Seleem",
+    "legacyId": 1587826,
+    "numRatings": 3,
+    "summary_comment": "Professor Seleem is widely regarded as one of the best instructors, known for her exceptional teaching skills, patience, and dedication. Students describe her as incredibly supportive and encouraging, pushing them to excel while fostering an engaging and enjoyable learning environment. Her high expectations and belief in her students' capabilities contribute to a highly positive educational experience.",
+    "summary_comment_short": "Professor Seleem is widely regarded as one of the best instructors, known for her exceptional teaching skills, patience, and dedication. Students consistently praise her for being highly supportive, challenging them to excel, and creating engaging and enjoyable learning environments.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "BEST IN THE WORLD",
+        "course": "5512"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Awesome instructor! My favorite class yet-- she was very helpful, patient and very willing to give any extra help. Just be sure to do assigned homework-- Arabic can be tough if you don't study. Classes were very interactive and enjoyable. Sweetest woman in the world, I definitely recommend taking her!",
+        "course": "ARABI101"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "She was the best teacher i took. She is so helpful, and She is hard worker. Her work Ethic is out of this world. She taught us things that were a bit too advance because she had faith on us. She knew we could do it. She tells her students they are BRILLIANT. which is good to hear.",
+        "course": "ARABC101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 3.8,
+    "department": "Arabic",
+    "firstName": "Abderrahim",
+    "id": "VGVhY2hlci0xNDE3OTYz",
+    "lastName": "Slaouihakim",
+    "legacyId": 1417963,
+    "numRatings": 4,
+    "summary_comment": "Professor Slaouihakim is known for his kindness and willingness to help students, though some find his teaching style reserved and potentially intimidating. While many appreciate his thorough approach and inclusion of cultural context, others have criticized his class structure and perceived rudeness towards non-native speakers, leading some to seek alternative instructors.",
+    "summary_comment_short": "Professor Slaouihakim is known for his kindness and willingness to help students, though some find his teaching style somewhat rigid and the class structure lacking. He is highly respected for his thorough approach and cultural insights, but his timidity and tendency to pick on non-native speakers have led some to seek alternative instructors.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "He is really quiet and kind of awkward but he is a really nice guy and will help you out a lot if you ask for it. I felt that the structure of the class was weak because he is so timid. I was doing extremely well until the final. Its difficulty was NOT on par with previous exams. If you can, get into Chris's class.",
+        "course": "ARBC102"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "I had him for arabic 102 and 103 and was excited to have him again. However, in 205 he was rude and would pick on the students in the class who weren't native speakers when they made mistakes. By the end of the class only 15 people were left, almost all native speakers. I dropped it and took it the next quarter with a different teacher--I got an A.",
+        "course": "ARAB205"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Very kind and helpful. He expects a LOT from his students as well as respect and dedication*. He goes straight by the book but includes a lot of culture in his lectures too. I learned about the language and* world while being in his class.",
+        "course": "ARABI401"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Despite the scary beard, he's a really, really nice teacher. Always willing to help you if you have questions. I'd take him again.",
+        "course": "ARAB205"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 4.3,
+    "department": "Arabic",
+    "firstName": "Ali",
+    "id": "VGVhY2hlci0xNjU5Njk5",
+    "lastName": "Hassan",
+    "legacyId": 1659699,
+    "numRatings": 2,
+    "summary_comment": "Professor Hassan is highly regarded for his kindness and generosity, making him one of the most approachable instructors. While his lectures might not always be the clearest, he goes above and beyond to ensure students understand the material and provides clear test guidelines. Students find the class manageable with a strong possibility of earning an easy A through regular attendance and studying.",
+    "summary_comment_short": "Professor Hassan is highly regarded for his kindness and generosity, ensuring that students have a clear path to earning an easy A with minimal surprises on tests. While his lectures might not always be the clearest, he goes above and beyond to assist students in understanding the material and excels in test preparation.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Dr. Hassan is one of the kindest and most generous human beings you will ever meet. No surprises in the class (he tells you exactly what will be on tests). Easy A if you study a little and attend class.",
+        "course": "ARAB501"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "One of the nicest people you will ever meet. He may not be the most clear in class, but he will go out of his way to help you understand the material. The class is not difficult and he tries to make sure there are no surprises on tests.",
+        "course": "ARABI501"
       }
     ],
     "SEI": []

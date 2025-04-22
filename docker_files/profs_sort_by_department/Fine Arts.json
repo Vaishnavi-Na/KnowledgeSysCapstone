@@ -1,5 +1,513 @@
 [
   {
+    "avgDifficulty": 3.6,
+    "avgRating": 3.2,
+    "department": "Fine Arts",
+    "firstName": "Carmel",
+    "id": "VGVhY2hlci0xOTA3MzM=",
+    "lastName": "Buckley",
+    "legacyId": 190733,
+    "numRatings": 25,
+    "summary_comment": "Professor Buckley is known for her strict attendance policy and demanding workload, including numerous projects that often extend beyond class time. Students appreciate her dedication and care, though many find the course challenging and exhausting, particularly for general education requirements.",
+    "summary_comment_short": "Professor Buckley is known for her strict attendance policy, extensive projects, and long lessons, making the course quite demanding, especially for general education requirements. She is described as caring and knowledgeable but her teaching style and workload expectations may not suit all students.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Her attendance policy was strict. The lessons were long. There was a lot of projects. Even though there was a mid semester check in for your work, it felt like you were being monitored almost all the time. For me this course was very exhausting for a GE. She certainly cares about students, but she was not for me. ",
+        "course": "ART2100"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Carmel was an amazing professor! Her class is easy if you attend and do the work. The amount of art projects can get demanding at times, but since the class is so long you have plenty of time to get them done in class. Despite this, she is generally just a great person and fun to be around. I am glad I took this class to fulfill a GE requirement. ",
+        "course": "ART2100"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "The class was very enjoyable! While there were a lot of projects most of them were able to be completed inside of class. She mainly graded off of participation. She just wanted you to try your best and improve your skills over the semester!",
+        "course": "ART2100"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I had class with Professor Buckley Fall of 1997. It started off rockily (the very first project, which was my first time using wire, was probably the worst art experience of my entire life), and I considered dropping it. I'm glad I didn't. She proved to be a wealth of knowledge and a fair grader. She even floated me a loan to finish a project.",
+        "course": "3DART"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Carmel is so kind and passionate about her job. The course isn't easy, but that's not her fault; she delegates the workload well. She is a caring professor, don't hesitate to ask for help if you're drowning. ",
+        "course": "SCULPTURETRACK"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Not an easy GE if you are taking with Carmel. You will end up working on art more than your major classes. My friends took it with aa different professor and only had like 2-3 projects. However, for us, it was 7-9 projects. Would not recommend anyone taking it with Carmel.",
+        "course": "ART2100"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Easily the worst class I've taken so far. I found myself constantly having to redo my drawings or add more in order to satisfy her. The class was initially set up fine, but as she moved things around, it meant I had to do more outside of class. This meant having to cart a massive drawing board to some obscure building and spend hours drawing.",
+        "course": "ART2100"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I loved having Carmel as a teacher. She was super invested in all of her students and really cared that you were understanding everything. Her feedback was super helpful but some found her projects a bit overwhelming. Be prepared to put in a good amount of effort in and out of class. As long as you do your best, it's a great class.",
+        "course": "ART2100"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "This class was very easy and as long as I turned in the assignments I got perfect grades, there was a decent amount of work involved but never an overwhelming amount",
+        "course": "ART2100"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Yes, you have to be open minded in this class to the instructor's feedback, but it pays off. Also, Carmel is extremely understanding and was willing to accommodate my schedule in her class. All in all, if you care and work hard you will do just fine.",
+        "course": "3DART"
+      },
+      {
+        "index": 11,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Carmel is a great professor but can be difficult to please with your concepts. She is very critical when it comes to the design and build process but was ultimately more interested in effort than the final product. She may not love the concept or final product but greatly understands work ethic and rewards in the end. You'll work for your grade.",
+        "course": "ART2507"
+      },
+      {
+        "index": 12,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "she can be unclear but she does want her students to do well. Though it might be frustrating often, if you take her advice and are open to letting her change your ideas (which kinda sucks sometimes), then she will help you push your ideas further in a good way.",
+        "course": "ART2507"
+      },
+      {
+        "index": 13,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Carmel is an outstanding teacher.  As long as you have decent ideas and put work into them, you'll do well in the class.  I was so scared to take this class but its been one of my all time favorites of all the classes ive taken in college.",
+        "course": "ART307"
+      },
+      {
+        "index": 14,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Good artist.  Good person.  Bad teacher.",
+        "course": "ART207"
+      },
+      {
+        "index": 15,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "She was a good person other than the fact that some of her comments canceled each other out. She also wanted you to create what she wanted and make it into your own idea. You can't be lazy and expect to get a good grade, put the work and time into your projects, she doesn't want you to do bad in the class. She wants to help you!",
+        "course": "ART207"
+      },
+      {
+        "index": 16,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "The worst instructor I've ever had. She's one of those teachers that demands everyone produce the same thing. Don't even attempt to do anything outside of what she wants cause you'll be shot down instantly. A horrible person, a horrible instructor. Thank god I will out live her.",
+        "course": "ART370M"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "She has an absolute, encyclopedic memory of contemporary art history.  At the drop of the hat, she will recommend an artist for further reflection.  She\u2019s completely lovely, a princess...stuck in the Midwest you'll find her instruction a breath of fresh air. Rewarding to anyone willing to exert oneself.  She's the best instructor at OSU.",
+        "course": "ARTSCUL"
+      },
+      {
+        "index": 18,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "If she doesn't agree with your overall concept, you're doomed.  Good execution will buy you nothing.  Problem is, we're not all the same artist.  She wants everyone to do well, but she wants them all to do the same kind of thing as well.  It is easy to play her game and get a good grade.  I wasn't really interested in just grades.",
+        "course": "SCULPTURETRACK"
+      },
+      {
+        "index": 19,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "I agree she's not the kindest, but that not why she's there....that's the real world of art critique",
+        "course": "207"
+      },
+      {
+        "index": 20,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Extremely generous with her time and energy.",
+        "course": "STUDIO"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I loved her class and her instruction. She's an amazing artist who really cares and brings out the best in her students.",
+        "course": "LIFESCULPTURE"
+      },
+      {
+        "index": 22,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "by far the worst art teacher I ever had. Completely unkind and cold.  I wish I had something nice to say but I do not.  consider 3D with another instructor, even if it rearranges your schedule.",
+        "course": "3DART"
+      },
+      {
+        "index": 23,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "she was insensitive, unkind and made art task oriented. I have never had a more thoughtless demeaning teacher",
+        "course": "3DART"
+      },
+      {
+        "index": 24,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "If your name is Luke, she will pay attention to you. Otherwise, sorry.",
+        "course": "ART251"
+      },
+      {
+        "index": 25,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "ART273"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ART",
+        "Catalog": "2100",
+        "Class Name": "Beginning Drawing",
+        "Class Number": "16330",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "6897",
+        "Class Name": "MFA Studio Critique: Sculpture",
+        "Class Number": "16481",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "3"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "2100",
+        "Class Name": "Beginning Drawing",
+        "Class Number": "10613",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "6897",
+        "Class Name": "MFA Studio Critique: Sculpture",
+        "Class Number": "10840",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "3107",
+        "Class Name": "Life Sculpture",
+        "Class Number": "10796",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "2100",
+        "Class Name": "Beginning Drawing",
+        "Class Number": "14767",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "2100",
+        "Class Name": "Beginning Drawing",
+        "Class Number": "17032",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "2100E",
+        "Class Name": "Beginning Drawing",
+        "Class Number": "28502",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.13"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 4.3,
+    "department": "Fine Arts",
+    "firstName": "Amy",
+    "id": "VGVhY2hlci02MjcwMDI=",
+    "lastName": "Youngs",
+    "legacyId": 627002,
+    "numRatings": 9,
+    "summary_comment": "Professor Youngs is highly regarded for her dedication and inspiration, with students praising her supportive yet rigorous approach. She encourages creative exploration and provides valuable feedback, though her high standards and strict deadlines can be challenging. Students describe her as both understanding and demanding, making her courses rewarding for those willing to engage fully.",
+    "summary_comment_short": "Professor Youngs is highly regarded for her dedication and strict yet fair approach to teaching, encouraging students to push their creative boundaries while maintaining high standards. Her feedback is thorough and often challenging, fostering a deep understanding of art and critical thinking among her students.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Amy is super nice, and really cares about your art and projects. She is also very strict about deadlines and participation so missing a few classes really can hurt your grade but all long as you show up and give effort your grade should be fine",
+        "course": "ART2500"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "loved having amy as an instructor. she encourages you to push your ideas further but grades reasonably and fairly",
+        "course": "ART4901"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "She is known for pushing students to take a different direction in their art then pretending she has no idea where you got such a bad idea from. On the other hand, if you ignore her ideas for your work she will make passive/aggressive comments relating to her idea and your grade will be lowered because of it.",
+        "course": "ART4101"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Amazingly inspirational prof.",
+        "course": "ARTEC530"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "she's simply amazing!! I couldn't ask for more in a professor.",
+        "course": "ART350"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "One of my first art teachers and she was awesome!  She's an understanding person for sure and gives great feedback.  If your lazy and like to get by as  a art student, she won't give you a hard time, but will question you for sure, so be ready to take responsibility for your work. she's fun (hyper) and great personality.",
+        "course": "ART350"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Amy is a great instructor and is great artist as well.  She is understanding and very open to various interpretations of work.  A fun course backed by a fun teacher is a sure win.",
+        "course": "ART350"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "shes unposible to please dont even try, if all posible dont have her as a teacher, change other classes if need be",
+        "course": "ART350"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Amy was one of the best professors I've ever had. Very positive and helpful, but also honest about your work. It was a pleasure to have had her for a teacher.",
+        "course": "ART550"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ART",
+        "Catalog": "3000",
+        "Class Name": "Digital Image Manipulation",
+        "Class Number": "16339",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.46"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "4901",
+        "Class Name": "Studio Practice: Art and Technology",
+        "Class Number": "29200",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.13"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "4901",
+        "Class Name": "Studio Practice: Art and Technology",
+        "Class Number": "10662",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "5101",
+        "Class Name": "Aspects of Art and Technology II",
+        "Class Number": "21267",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "3000",
+        "Class Name": "Digital Image Manipulation",
+        "Class Number": "10481",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.23"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "4901",
+        "Class Name": "Studio Practice: Art and Technology",
+        "Class Number": "14809",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "6891",
+        "Class Name": "MFA Studio Critique: Art and Tech",
+        "Class Number": "14973",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "5101",
+        "Class Name": "Aspects of Art and Technology II",
+        "Class Number": "20564",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "5101",
+        "Class Name": "Aspects of Art and Technology II",
+        "Class Number": "20854",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "1.33"
+      }
+    ]
+  },
+  {
     "avgDifficulty": 4.1,
     "avgRating": 2.4,
     "department": "Fine Arts",
@@ -8,6 +516,8 @@
     "lastName": "Slaughter",
     "legacyId": 198062,
     "numRatings": 26,
+    "summary_comment": "Professor Slaughter is widely regarded as one of the worst educators, known for making offensive comments, rejecting original thought, and providing no positive feedback. Students describe his classes as challenging, confusing, and often demotivating, with many advising against taking his courses unless absolutely necessary.",
+    "summary_comment_short": "Professor Slaughter is widely regarded as a challenging and often frustrating instructor, known for contradicting himself, insulting students, and providing confusing rubrics that seem inconsistent. Students find his class difficult and stressful, with many advising against taking his course unless absolutely necessary.",
     "Ratings": [
       {
         "index": 1,
@@ -192,7 +702,218 @@
         "course": "ART182"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ART",
+        "Catalog": "2400",
+        "Class Name": "Visual Studies: Three-Dimensional",
+        "Class Number": "12602",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "2.63"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "3017",
+        "Class Name": "Introduction to Sculpture",
+        "Class Number": "12616",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "2.86"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "6897",
+        "Class Name": "MFA Studio Critique: Sculpture",
+        "Class Number": "12814",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "2400",
+        "Class Name": "Visual Studies: Three-Dimensional",
+        "Class Number": "16335",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "2.15"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "3017",
+        "Class Name": "Introduction to Sculpture",
+        "Class Number": "28365",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "1"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "6897",
+        "Class Name": "MFA Studio Critique: Sculpture",
+        "Class Number": "16481",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "3"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "3017",
+        "Class Name": "Introduction to Sculpture",
+        "Class Number": "10642",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "5007",
+        "Class Name": "Advanced Sculpture I",
+        "Class Number": "10694",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "5007",
+        "Class Name": "Advanced Sculpture I",
+        "Class Number": "10695",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "6897",
+        "Class Name": "MFA Studio Critique: Sculpture",
+        "Class Number": "10840",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "2400",
+        "Class Name": "3-Dimensional Art",
+        "Class Number": "10477",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "2.64"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "2400",
+        "Class Name": "3-Dimensional Art",
+        "Class Number": "14778",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.33"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "3017",
+        "Class Name": "Introduction to Sculpture",
+        "Class Number": "14792",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "2.4"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "2100",
+        "Class Name": "Beginning Drawing",
+        "Class Number": "17030",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "5007",
+        "Class Name": "Advanced Sculpture I",
+        "Class Number": "37284",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.8,
@@ -203,6 +924,8 @@
     "lastName": "Shellenbarger",
     "legacyId": 572769,
     "numRatings": 14,
+    "summary_comment": "Professor Shellenbarger is highly regarded for his exceptional teaching, leaving students inspired and motivated. His engaging and dynamic lectures, combined with his genuine interest in students' success, create a uniquely enriching learning experience. Students consistently praise his ability to maintain their attention and his humorous approach to teaching.",
+    "summary_comment_short": "Professor Shellenbarger is highly regarded for his engaging and inspiring teaching style, which keeps students motivated and excited about learning. His lectures are praised for their clarity and captivating rhythm, and he is known for his genuine interest in students' development both academically and personally.",
     "Ratings": [
       {
         "index": 1,
@@ -314,6 +1037,8 @@
     "lastName": "Weinstock",
     "legacyId": 655911,
     "numRatings": 8,
+    "summary_comment": "Professor Weinstock has received mixed reviews, with some students finding her unorganized and difficult to follow, while others appreciated her approachability and enjoyment of the subject matter. While a few students found the class easy and enjoyable, many others criticized her grading methods and inconsistent treatment of students, suggesting that her class can be stressful and chaotic.",
+    "summary_comment_short": "Professor Weinstock is described as inconsistent in teaching quality; while some found her approachable and enjoyable, others criticized her for being disorganized, giving poor feedback, and treating students differently based on gender. Overall, many students found her classes challenging and unhelpful for learning.",
     "Ratings": [
       {
         "index": 1,
@@ -383,6 +1108,8 @@
     "lastName": "Rinaldo",
     "legacyId": 468779,
     "numRatings": 29,
+    "summary_comment": "Professor Rinaldo is highly regarded for his ability to inspire and encourage students to create outstanding works of art, particularly in 3D modeling and manufacturing. His classes are known for providing honest, constructive feedback and pushing students to excel. However, some students find his teaching methods less effective due to his reliance on self-sufficiency and a narrow focus on gallery art rather than commercial art.",
+    "summary_comment_short": "Professor Rinaldo is highly regarded for his ability to inspire and encourage students to create their best work, focusing on the quality of their artistic output rather than grades. However, some students find his teaching methods challenging, noting that he expects self-sufficiency and can be rigid in his artistic philosophies, which may not align with all students' approaches.",
     "Ratings": [
       {
         "index": 1,
@@ -591,194 +1318,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.6,
-    "avgRating": 3.2,
-    "department": "Fine Arts",
-    "firstName": "Carmel",
-    "id": "VGVhY2hlci0xOTA3MzM=",
-    "lastName": "Buckley",
-    "legacyId": 190733,
-    "numRatings": 25,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Her attendance policy was strict. The lessons were long. There was a lot of projects. Even though there was a mid semester check in for your work, it felt like you were being monitored almost all the time. For me this course was very exhausting for a GE. She certainly cares about students, but she was not for me. ",
-        "course": "ART2100"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Carmel was an amazing professor! Her class is easy if you attend and do the work. The amount of art projects can get demanding at times, but since the class is so long you have plenty of time to get them done in class. Despite this, she is generally just a great person and fun to be around. I am glad I took this class to fulfill a GE requirement. ",
-        "course": "ART2100"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "The class was very enjoyable! While there were a lot of projects most of them were able to be completed inside of class. She mainly graded off of participation. She just wanted you to try your best and improve your skills over the semester!",
-        "course": "ART2100"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I had class with Professor Buckley Fall of 1997. It started off rockily (the very first project, which was my first time using wire, was probably the worst art experience of my entire life), and I considered dropping it. I'm glad I didn't. She proved to be a wealth of knowledge and a fair grader. She even floated me a loan to finish a project.",
-        "course": "3DART"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Carmel is so kind and passionate about her job. The course isn't easy, but that's not her fault; she delegates the workload well. She is a caring professor, don't hesitate to ask for help if you're drowning. ",
-        "course": "SCULPTURETRACK"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Not an easy GE if you are taking with Carmel. You will end up working on art more than your major classes. My friends took it with aa different professor and only had like 2-3 projects. However, for us, it was 7-9 projects. Would not recommend anyone taking it with Carmel.",
-        "course": "ART2100"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Easily the worst class I've taken so far. I found myself constantly having to redo my drawings or add more in order to satisfy her. The class was initially set up fine, but as she moved things around, it meant I had to do more outside of class. This meant having to cart a massive drawing board to some obscure building and spend hours drawing.",
-        "course": "ART2100"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I loved having Carmel as a teacher. She was super invested in all of her students and really cared that you were understanding everything. Her feedback was super helpful but some found her projects a bit overwhelming. Be prepared to put in a good amount of effort in and out of class. As long as you do your best, it's a great class.",
-        "course": "ART2100"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "This class was very easy and as long as I turned in the assignments I got perfect grades, there was a decent amount of work involved but never an overwhelming amount",
-        "course": "ART2100"
-      },
-      {
-        "index": 10,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Yes, you have to be open minded in this class to the instructor's feedback, but it pays off. Also, Carmel is extremely understanding and was willing to accommodate my schedule in her class. All in all, if you care and work hard you will do just fine.",
-        "course": "3DART"
-      },
-      {
-        "index": 11,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Carmel is a great professor but can be difficult to please with your concepts. She is very critical when it comes to the design and build process but was ultimately more interested in effort than the final product. She may not love the concept or final product but greatly understands work ethic and rewards in the end. You'll work for your grade.",
-        "course": "ART2507"
-      },
-      {
-        "index": 12,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "she can be unclear but she does want her students to do well. Though it might be frustrating often, if you take her advice and are open to letting her change your ideas (which kinda sucks sometimes), then she will help you push your ideas further in a good way.",
-        "course": "ART2507"
-      },
-      {
-        "index": 13,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Carmel is an outstanding teacher.  As long as you have decent ideas and put work into them, you'll do well in the class.  I was so scared to take this class but its been one of my all time favorites of all the classes ive taken in college.",
-        "course": "ART307"
-      },
-      {
-        "index": 14,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Good artist.  Good person.  Bad teacher.",
-        "course": "ART207"
-      },
-      {
-        "index": 15,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "She was a good person other than the fact that some of her comments canceled each other out. She also wanted you to create what she wanted and make it into your own idea. You can't be lazy and expect to get a good grade, put the work and time into your projects, she doesn't want you to do bad in the class. She wants to help you!",
-        "course": "ART207"
-      },
-      {
-        "index": 16,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "The worst instructor I've ever had. She's one of those teachers that demands everyone produce the same thing. Don't even attempt to do anything outside of what she wants cause you'll be shot down instantly. A horrible person, a horrible instructor. Thank god I will out live her.",
-        "course": "ART370M"
-      },
-      {
-        "index": 17,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "She has an absolute, encyclopedic memory of contemporary art history.  At the drop of the hat, she will recommend an artist for further reflection.  She’s completely lovely, a princess...stuck in the Midwest you'll find her instruction a breath of fresh air. Rewarding to anyone willing to exert oneself.  She's the best instructor at OSU.",
-        "course": "ARTSCUL"
-      },
-      {
-        "index": 18,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "If she doesn't agree with your overall concept, you're doomed.  Good execution will buy you nothing.  Problem is, we're not all the same artist.  She wants everyone to do well, but she wants them all to do the same kind of thing as well.  It is easy to play her game and get a good grade.  I wasn't really interested in just grades.",
-        "course": "SCULPTURETRACK"
-      },
-      {
-        "index": 19,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "I agree she's not the kindest, but that not why she's there....that's the real world of art critique",
-        "course": "207"
-      },
-      {
-        "index": 20,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Extremely generous with her time and energy.",
-        "course": "STUDIO"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I loved her class and her instruction. She's an amazing artist who really cares and brings out the best in her students.",
-        "course": "LIFESCULPTURE"
-      },
-      {
-        "index": 22,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "by far the worst art teacher I ever had. Completely unkind and cold.  I wish I had something nice to say but I do not.  consider 3D with another instructor, even if it rearranges your schedule.",
-        "course": "3DART"
-      },
-      {
-        "index": 23,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "she was insensitive, unkind and made art task oriented. I have never had a more thoughtless demeaning teacher",
-        "course": "3DART"
-      },
-      {
-        "index": 24,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "If your name is Luke, she will pay attention to you. Otherwise, sorry.",
-        "course": "ART251"
-      },
-      {
-        "index": 25,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "ART273"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 1.7,
     "avgRating": 4.9,
     "department": "Fine Arts",
@@ -787,6 +1326,8 @@
     "lastName": "Yao",
     "legacyId": 242344,
     "numRatings": 313,
+    "summary_comment": "Professor Yao is widely regarded as an exceptional educator, particularly noted for his inspiring and engaging teaching style. Students praise his ability to make complex material accessible and enjoyable, whether through his dynamic dance classes or his enthusiastic approach to mathematics. His flexibility and support, especially during challenging times, further enhance his reputation as a top-tier professor at Ohio State.",
+    "summary_comment_short": "Professor Yao is highly regarded for his exceptional teaching quality, inspiring students both academically and personally. His engaging and humorous lectures, coupled with his expertise in dance, make his classes enjoyable and educational.",
     "Ratings": [
       {
         "index": 1,
@@ -1030,7 +1571,7 @@
         "index": 35,
         "rating": 5,
         "difficulty": 2,
-        "comment": "A valuable asset to the university, Steve’s teaching techniques shine through in every class.",
+        "comment": "A valuable asset to the university, Steve\u2019s teaching techniques shine through in every class.",
         "course": "SOCIALDANCE"
       },
       {
@@ -2983,82 +3524,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 2.8,
-    "avgRating": 4.3,
-    "department": "Fine Arts",
-    "firstName": "Amy",
-    "id": "VGVhY2hlci02MjcwMDI=",
-    "lastName": "Youngs",
-    "legacyId": 627002,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Amy is super nice, and really cares about your art and projects. She is also very strict about deadlines and participation so missing a few classes really can hurt your grade but all long as you show up and give effort your grade should be fine",
-        "course": "ART2500"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "loved having amy as an instructor. she encourages you to push your ideas further but grades reasonably and fairly",
-        "course": "ART4901"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "She is known for pushing students to take a different direction in their art then pretending she has no idea where you got such a bad idea from. On the other hand, if you ignore her ideas for your work she will make passive/aggressive comments relating to her idea and your grade will be lowered because of it.",
-        "course": "ART4101"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Amazingly inspirational prof.",
-        "course": "ARTEC530"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "she's simply amazing!! I couldn't ask for more in a professor.",
-        "course": "ART350"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "One of my first art teachers and she was awesome!  She's an understanding person for sure and gives great feedback.  If your lazy and like to get by as  a art student, she won't give you a hard time, but will question you for sure, so be ready to take responsibility for your work. she's fun (hyper) and great personality.",
-        "course": "ART350"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Amy is a great instructor and is great artist as well.  She is understanding and very open to various interpretations of work.  A fun course backed by a fun teacher is a sure win.",
-        "course": "ART350"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "shes unposible to please dont even try, if all posible dont have her as a teacher, change other classes if need be",
-        "course": "ART350"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Amy was one of the best professors I've ever had. Very positive and helpful, but also honest about your work. It was a pleasure to have had her for a teacher.",
-        "course": "ART550"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.1,
     "avgRating": 4.3,
     "department": "Fine Arts",
@@ -3067,6 +3532,8 @@
     "lastName": "Nelson",
     "legacyId": 234900,
     "numRatings": 9,
+    "summary_comment": "Professor Nelson, known as Ardine, is highly knowledgeable and dedicated to her students, offering extensive support and a deep understanding of photography. However, her class requires significant outside work and long, potentially tedious lectures, making it challenging for those not deeply passionate about the subject. Students appreciate her expertise but note the rigorous grading and demanding workload.",
+    "summary_comment_short": "Professor Nelson, known as Ardine, is highly knowledgeable and dedicated to her students, offering extensive support and a deep understanding of photography. However, her class requires significant outside work and long, sometimes tedious lectures, making it challenging for those without a strong passion for the subject.",
     "Ratings": [
       {
         "index": 1,
@@ -3143,6 +3610,8 @@
     "lastName": "Brugnoli",
     "legacyId": 762219,
     "numRatings": 8,
+    "summary_comment": "Professor Brugnoli is known for her high expectations and rigorous standards, which some students find challenging but ultimately rewarding. While she is respected for her expertise and consistency in teaching, her approach can be perceived as demanding and sometimes unfair, leading to mixed reactions. Some students appreciate her honesty and dedication to skill development, while others find her methods harsh and demotivating.",
+    "summary_comment_short": "Professor Brugnoli is known for her high expectations and rigorous standards, which some students find challenging but ultimately rewarding. While she is highly knowledgeable and dedicated to her students' development, her teaching style can be demanding and potentially discouraging, leading to mixed reviews among students.",
     "Ratings": [
       {
         "index": 1,
@@ -3212,6 +3681,8 @@
     "lastName": "West",
     "legacyId": 357975,
     "numRatings": 12,
+    "summary_comment": "Professor West is highly regarded for his effective teaching methods and deep knowledge of art, particularly in color theory. Students appreciate his dedication and enthusiasm, noting that he challenges them to see the world through an artistic lens. While some find his lectures can be concise, they consistently praise his ability to transform students' understanding and skills, making him a standout educator at Ohio State.",
+    "summary_comment_short": "Professor West is highly regarded for his effective teaching methods and deep knowledge of art, particularly in color theory and perspective. Students consistently praise his dedication and ability to inspire, noting that his classes are challenging yet rewarding, and that they leave with a strong foundation in artistic skills.",
     "Ratings": [
       {
         "index": 1,
@@ -3309,6 +3780,8 @@
     "lastName": "Ballengee-Morris",
     "legacyId": 163189,
     "numRatings": 7,
+    "summary_comment": "Professor Ballengee-Morris is highly regarded for her comprehensive teaching approach, with students noting that she provides substantial learning experiences, particularly in history and cultural studies. However, feedback is mixed, with some students finding her unkind and the course a waste of time, while others find her lectures engaging and informative.",
+    "summary_comment_short": "Professor Ballengee-Morris is highly regarded for her comprehensive teaching approach, with students noting that she provides substantial learning experiences, particularly in history and cultural studies. However, some students have criticized her demeanor as unkind and have described the course as a waste of time.",
     "Ratings": [
       {
         "index": 1,
@@ -3360,6 +3833,509 @@
         "course": "ARTED603"
       }
     ],
+    "SEI": [
+      {
+        "Subject": "ARTEDUC",
+        "Catalog": "7000.3",
+        "Class Name": "Issues, Frameworks and Theories for Art Educators",
+        "Class Number": "18178",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "Arts Admin, Education & Policy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ARTEDUC",
+        "Catalog": "5367",
+        "Class Name": "Reel Injuns: Identity and Representation",
+        "Class Number": "18714",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Arts Admin, Education & Policy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "ARTEDUC",
+        "Catalog": "7000.3",
+        "Class Name": "Issues, Frameworks and Theories for Art Educators",
+        "Class Number": "18712",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Arts Admin, Education & Policy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ARTEDUC",
+        "Catalog": "7711",
+        "Class Name": "Designing and Writing Research Proposals",
+        "Class Number": "28126",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Arts Admin, Education & Policy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARTEDUC",
+        "Catalog": "7000.3",
+        "Class Name": "Issues, Frameworks and Theories for Art Educators",
+        "Class Number": "18680",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Arts Admin, Education & Policy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "3.25"
+      },
+      {
+        "Subject": "ARTEDUC",
+        "Catalog": "7000",
+        "Class Name": "Concepts, Theories, and Issues in Art Education",
+        "Class Number": "11027",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Arts Admin, Education & Policy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARTEDUC",
+        "Catalog": "5367",
+        "Class Name": "Reel Injuns: Identity and Representation",
+        "Class Number": "22378",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Arts Admin, Education & Policy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "ARTEDUC",
+        "Catalog": "7000.3",
+        "Class Name": "Issues, Frameworks and Theories for Art Educators",
+        "Class Number": "18825",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Arts Admin, Education & Policy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ARTEDUC",
+        "Catalog": "5367",
+        "Class Name": "Reel Injuns: Identity and Representation",
+        "Class Number": "19612",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "Arts Admin, Education & Policy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ARTEDUC",
+        "Catalog": "7000.3",
+        "Class Name": "Issues, Frameworks and Theories for Art Educators",
+        "Class Number": "18759",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "Arts Admin, Education & Policy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.8,
+    "avgRating": 4.9,
+    "department": "Fine Arts",
+    "firstName": "Louisa",
+    "id": "VGVhY2hlci02OTYzNjg=",
+    "lastName": "Captein",
+    "legacyId": 696368,
+    "numRatings": 4,
+    "summary_comment": "Professor Captein is highly regarded for her exceptional teaching and mentorship, with students consistently praising her guidance and inspiration. Her expertise in color theory is particularly noted, and she effectively challenges students to grow, often pushing them to explore new artistic directions. Students describe her as both demanding and supportive, fostering a deep appreciation for the art form.",
+    "summary_comment_short": "Professor Captein is highly regarded for her exceptional teaching and mentorship, consistently inspiring growth and development in her students. Her expertise, particularly in color theory, is widely recognized and respected, with students praising her guidance and supportive approach to learning.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "i have been following her status for more than 10 years now. i,ve known louise since she was doing her final exams being educated as a professional artist.and have to admit she develloped tremendously as an succesful intern.artist the use of colour is  even for me still something i recognise as authentic. what she does nowadays  is more abstract.",
+        "course": "ARTACCT"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Out of all my years at OSU she is one of my most favorite teachers. Some assignments were confusing, but she helped you out as much as you needed. She also pointed me in a direction that I never knew that was option. Love Her and Her Class.",
+        "course": "ART372"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Louise is amaaaaazing.  She's inspiring, and she has an eerily accurate eye for whatever you're up to.  She'll kick your ass, but you'll be thanking her for it every step of the way.  Sounds cheesy, but I really feel like I &quot;grew&quot; under her tutelage, and I can't wait to take more of her classes.",
+        "course": "ART473"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I LOVE THIS TEACHER.  She is the best most understanding person and instructor.  She is open to new possiblities and is inspirational.  She makes you want to be a better artist.  Take any class you can find that she is teaching.  It will be worth every moment.",
+        "course": "ART473"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.2,
+    "avgRating": 4,
+    "department": "Fine Arts",
+    "firstName": "Ian Richard",
+    "id": "VGVhY2hlci00MjE1ODQ=",
+    "lastName": "Ruffino",
+    "legacyId": 421584,
+    "numRatings": 14,
+    "summary_comment": "Professor Ruffino is highly regarded for his thorough and demanding teaching style, which significantly enhances students' learning experience in printmaking. While his classes require substantial effort and dedication, students consistently praise his knowledge, detailed demonstrations, and challenging yet rewarding critiques. His teaching approach is effective for those committed to mastering the subject, though it may be overwhelming for those seeking a less rigorous academic experience.",
+    "summary_comment_short": "Professor Ruffino is known for his demanding yet highly educational approach to teaching printmaking. Students appreciate his thorough knowledge and insightful discussions but note that his classes require significant time and effort, making them challenging but rewarding for those committed to learning.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "It's been a couple of years since I took his intro to printmaking course... but I still look back and think of how much I learned from Ian. His classes are a lot of work and if you are lazy or want your grade handed to you, this is not the way to go. But if you really want to learn and have your mind awakened, it's worth your while.",
+        "course": "ART375"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Wow, first day, I am so intimidated. I think this is going to either be the best class I've ever taken or I'll die in the studio. He's really cute, weird, strict, and funny.",
+        "course": "ART375"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "I dropped this class because I was already taking another studio class and could not find the time to complete the projects for this one. He's an alright guy, pretty vague, but okay. He will spend the full 3 hours demonstrating - be prepared. However you will learn a ton... wish I could have stayed in it.",
+        "course": "ART375"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "I learned so much from him and wish he taught every class for me! He is difficult, but I am not paying to take classes to learn little and get an easy A. I learned a lot about printmaking and myself in his class. He is very knowledgeable, thorough, and does great demos.",
+        "course": "ART478"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "I have never learned so much in ten weeks. And not just technique, he is a ridiculous resource. Our discussions were open, insightful, and he is not afraid to tell you what he thinks. Actually he can be a little scary, but in a good way. WE as a class were moved. I'll never forget it. I wish he taught more classes. I would take them all.",
+        "course": "ART478"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "The workload is ridiculous and the expectations for being an intro class are absurd.  If you enjoy redoing every assignment then this is the class to take. Not worth taking if there is any other alternative.",
+        "course": "ART375"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "This class was WAY too much work for an intro class. 20 hours a week outside of class SERIOUSLY, he means it. From what I have heard from the other class they had less work (no papers or folio). The critiques where good and difficult, but I learned a little about myself from them. I got a lot of good work, but I wish I had taken painting. I give A-",
+        "course": "PRINTMAKING"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "No Comments",
+        "course": "PRINNTMAKING"
+      },
+      {
+        "index": 9,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "He is great with Printmaking!!! but teaching Concepts, whose idea was that&#63;",
+        "course": "CONCEPTS"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He is the first teacher to really actually push my brain during a crit. and he is really funny",
+        "course": "PRINTMAKING"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Incredibly insightful! He never stops working",
+        "course": "SENIORSEMINAR"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "amazingly helpful and considerate prof! I learned a lot from him.",
+        "course": "PRINTMAKING"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "No Comments",
+        "course": "PRINTMAKIN"
+      },
+      {
+        "index": 14,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Had him for Concepts and Issues, and the class was so bor-ing. Redudant AND repetitive (haha), not to mention completely useless.  Why doesn't the university just require Philosophy of the Arts (Phil. 145), as it's a far superior class&#63;",
+        "course": "200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 3.8,
+    "department": "Fine Arts",
+    "firstName": "Allen",
+    "id": "VGVhY2hlci0yNTExOTU=",
+    "lastName": "Crocket",
+    "legacyId": 251195,
+    "numRatings": 11,
+    "summary_comment": "Professor Crockett is highly regarded for his deep knowledge and passionate teaching style, often making interesting and informative digressions that inspire students to push their creative boundaries. However, his approach is heavily skewed towards avant-garde and postmodern art, which may alienate those more interested in traditional techniques. Overall, while some find his teaching style confusing initially, many praise his support and ability to foster creativity and personal growth.",
+    "summary_comment_short": "Professor Crockett is known for his passionate and informative teaching style, often making digressive yet enriching comments that inspire students to explore new artistic avenues, though some find his focus on avant-garde methods challenging. His teaching approach is highly regarded by many, particularly those interested in nontraditional and postmodern artistic approaches, though it may not suit those seeking a more technique-focused education.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "This person is masterful at implying content to what he says and does. I prefer substance. Seems to have a predilection towards the avant garde, and is dismissive of many types of work he feels has been sufficiently represented historically, although his personal work looks like lo-grade 1950's Ab-Ex. Go figure.",
+        "course": "ART208"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Allen cannot communicate. He dominates critiques and goes on for hour unending about irrelevant information. He insults his students (he called my work crap). He is unprofessional and should not be teaching. Avoid him at all costs unless painting is your life- otherwise he will not respect you.",
+        "course": "ART373"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Alan is awesome. I knew the first time I met him that I wanted him as an advisor. He does digress and this bothers some people, but I find it interesting... he has so much knowledge and so much to add. If you want an inspired and inspiring prof. he's for you.",
+        "course": "ART473"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Alan is a master of interesting/informative digressions and oozes passion for the art world. He has a bias towards the extreme avant-garde, so traditional artists may find the class a bit disheartening at first but the inspiration he imparts will drive you to push yourself in directions you wouldn't expect.  A very knowledgeable, fun prof.",
+        "course": "ART573"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Very good guy, but unfortunately his teaching style caters primarily to students interested in pursuing very postmodern, nontraditional artistic methods; you won't hear the word &quot;technique&quot; thrown around too much in his class, but otherwise he'll be very supportive.",
+        "course": "ART470"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "At first, he may seem a bit confusing, but give him time. He is truely one of the most caring and understanding individuals I've ever met. One of OSU's best!",
+        "course": "PAINTINDRAWIN"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Allen has opened up my mind to the possibilities and talents i can explore within myself. He allows you to give yourself permission to explore your own creative spirit and grow with it. A HUGE influence on how I make art. I am blessed to have known him, and have nothing but gratitude for what he has taught me.",
+        "course": "PAINTING"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "He is one of the best",
+        "course": "PAINTING"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "you just have to like Allen",
+        "course": "PAINTING"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Prof. Crocket is very knowledgable and very nice.",
+        "course": "ADVDRAWING"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "be patient with him and the good stuff will be there.",
+        "course": "PAINTING"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.4,
+    "avgRating": 4.5,
+    "department": "Fine Arts",
+    "firstName": "Robin",
+    "id": "VGVhY2hlci0xMjIwNjY=",
+    "lastName": "Assner",
+    "legacyId": 122066,
+    "numRatings": 5,
+    "summary_comment": "Professor Assner is an effective and insightful educator who starts the semester with challenging and sometimes tedious work that becomes more enjoyable as the course progresses. She is described as having an open mind and providing valuable guidance, though some students find her demeanor can be somewhat sharp or unapproachable at times. Overall, she receives high praise for her teaching approach and ability to inspire students.",
+    "summary_comment_short": "Professor Assner is an effective and insightful teacher who can be challenging at the start but becomes more enjoyable as the semester progresses. She is highly regarded for her open-minded approach and ability to stimulate critical thinking, though some students find her initial teaching style demanding.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "The beginning of the semester is hard and the work is very tedious. Through the semester the work load thins out and the projects are enjoyable. She's a great teacher with an open mind, just be sure to go to class and ignore her smart aleck side.",
+        "course": "ART1210"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Robin's own work is very fun and stimulating...",
+        "course": "PHOTO101TA"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Robin was a great TA.  Though we had a crush on her boyfriend photo TA the quarter before, she was a lot more informative and organized and helped us uncover some really good work out of ourselves.  I thought she hated me until the very end of the quarter",
+        "course": "PHOTO401"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Can be tough at times, but in a very good way. I give her a solid A.",
+        "course": "COLOR"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "PHOTO201"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.3,
+    "avgRating": 4,
+    "department": "Fine Arts",
+    "firstName": "Charles",
+    "id": "VGVhY2hlci01NTY2MzU=",
+    "lastName": "Massey",
+    "legacyId": 556635,
+    "numRatings": 7,
+    "summary_comment": "Professor Massey is highly regarded for his extensive knowledge and dedication to his craft, often described as an invaluable asset to the OSU Art Department. While some students find his teaching demanding and sometimes difficult to follow, many praise him as an exceptional educator who pushes students to excel and goes above and beyond to support them. Overall, his passion and commitment to his students are widely acknowledged, though his teaching style can be challenging at times.",
+    "summary_comment_short": "Professor Massey is highly respected for his dedication to his craft and students, often praised for his wealth of knowledge and willingness to help, though some find his teaching style demanding and occasionally confusing. Despite mixed feedback, many consider him one of the top teachers, with some even considering him the best they have encountered.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Having had experience with art, I took this class for the easy A, but found his ego to be hard to deal with. He showed us some of his dull, lifeless, uninspired art, and overall his attitude seemed very &quot;please show undue reverence for my 'immense' talent&quot;. Those who cannot do, teach. But otherwise, a comprehensive course, if a bit pretentious.",
+        "course": "ARTH201"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "My all-time favorite professor. He was my advisor over ten years ago, I still talk to him, and think about his lessons all the time. I'm a prof now and I only hope to be one quarter as good as him. His dedication to his craft and to his students is legendary. He pushed you to work harder all the time, but was also very very kind and gentle. A+ prof",
+        "course": "ART251"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "There is nothing Charles wouldn't do for his students, or anyone else for that matter. A wealth of knowledge and an asset to the OSU Art Dept.",
+        "course": "ART679"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "excellent teacher, but demanding (you will learn a great deal from him)",
+        "course": "ART"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Charles is by far THE best teacher I have had in five years of school.",
+        "course": "PRINTMAKING"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "His mind is a wealth of knowledge about art, but he talks in circles and its hard to understand what he wants you to do.  I think he works too hard outside of his teaching.  He will help you through anything, though.",
+        "course": "PRINTMAKING"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "stone-age stone-printing man",
+        "course": "PRINTMAKING"
+      }
+    ],
     "SEI": []
   },
   {
@@ -3371,6 +4347,8 @@
     "lastName": "Mendoza",
     "legacyId": 234901,
     "numRatings": 23,
+    "summary_comment": "Professor Mendoza's teaching quality varies significantly among students. Some find his class relatively easy, with grades attainable through attentive project work and prior knowledge of photography, while others struggle to achieve high grades due to challenging project requirements and stringent grading. Overall, his lectures are considered optional or somewhat boring, though they provide essential information for the technical readings and exams.",
+    "summary_comment_short": "Professor Mendoza is generally considered easy to pass, with many students noting that grades can be achieved through attention to key concepts and strong project work. However, his lectures are often seen as optional or repetitive, and some students find them unengaging, while others rely heavily on TAs for guidance and support.",
     "Ratings": [
       {
         "index": 1,
@@ -3545,6 +4523,8 @@
     "lastName": "Mendoza",
     "legacyId": 199213,
     "numRatings": 9,
+    "summary_comment": "Professor Mendoza is known for his straightforward and honest approach to teaching, which can be challenging but rewarding. Students appreciate his laid-back personality and deep knowledge of photography, though they note the class can be time-consuming and costly due to the amount of outside work and materials required. Overall, he is seen as an engaging instructor with a positive attitude towards both life and art.",
+    "summary_comment_short": "Professor Mendoza is known for his straightforward and honest approach to teaching, which can be challenging but rewarding. He is described as a knowledgeable, interesting, and laid-back instructor who emphasizes the importance of art and life, though some find the class time-consuming and costly.",
     "Ratings": [
       {
         "index": 1,
@@ -3621,6 +4601,8 @@
     "lastName": "Haluska",
     "legacyId": 420540,
     "numRatings": 15,
+    "summary_comment": "Professor Haluska is highly regarded for her teaching, with many students praising her as an excellent instructor who challenges them significantly. While some find her classes confusing and inconsistent, the consensus is that she is incredibly knowledgeable and effective, leading to substantial learning outcomes.",
+    "summary_comment_short": "Professor Haluska is highly regarded for her teaching, with students describing her as an excellent and influential instructor who challenges them deeply, though her classes can be demanding. Many students emphasize the significant amount they learned from her, with some considering her the best art teacher they have ever had.",
     "Ratings": [
       {
         "index": 1,
@@ -3739,6 +4721,8 @@
     "lastName": "Vernon",
     "legacyId": 621690,
     "numRatings": 5,
+    "summary_comment": "Professor Vernon is highly regarded for her teaching abilities, with many students praising her as a fantastic and understanding instructor who provides significant support. However, some students have expressed frustration with her frequent absences due to her thesis show, which they feel impacts the class experience. While her technical instruction is well-respected, some find her approach to project feedback to be overly critical and less supportive.",
+    "summary_comment_short": "Professor Vernon is highly regarded for her teaching abilities, with many students praising her as a fantastic, understanding, and helpful instructor who effectively communicates technical information. However, some students express dissatisfaction with her frequent absences due to her thesis show, which they feel impacts the class experience and their ability to receive timely feedback.",
     "Ratings": [
       {
         "index": 1,
@@ -3772,7 +4756,7 @@
         "index": 5,
         "rating": 1,
         "difficulty": 4,
-        "comment": "She is so much stricter than any other Art 300 TA.  Switch to a different TA if at all possible.  She looks at your art like you are an idiot.  She teaches the technical info well but doesn’t give you explanations on your projects until a couple days before it is due.  If you do not have a car I would advise against taking this class b/c she doesn’",
+        "comment": "She is so much stricter than any other Art 300 TA.  Switch to a different TA if at all possible.  She looks at your art like you are an idiot.  She teaches the technical info well but doesn\u2019t give you explanations on your projects until a couple days before it is due.  If you do not have a car I would advise against taking this class b/c she doesn\u2019",
         "course": "ART300"
       }
     ],
@@ -3787,6 +4771,8 @@
     "lastName": "Derr",
     "legacyId": 627181,
     "numRatings": 21,
+    "summary_comment": "Professor Derr is known for his professionalism and availability, providing meaningful feedback and connecting students with the broader art community. However, his lectures can be monotonous and hard to follow, making it crucial to take thorough notes from the start. Despite this, many students find his engaging personality and interesting subject matter compelling.",
+    "summary_comment_short": "Professor Derr is known for his professional approach and meaningful feedback, though his lectures can be challenging to stay engaged with due to their monotone delivery and difficulty in predicting test material. Despite this, many students appreciate his availability and connection to the broader art community.",
     "Ratings": [
       {
         "index": 1,
@@ -3947,6 +4933,8 @@
     "lastName": "Goeller",
     "legacyId": 177778,
     "numRatings": 4,
+    "summary_comment": "Professor Goeller is an engaging and supportive instructor who encourages independent exploration and provides precise feedback when needed. Her classes are demanding yet rewarding, and while her teaching style is soft-spoken, she offers valuable insights. However, grading criteria can be unclear, and her expectations are sometimes challenging to pinpoint.",
+    "summary_comment_short": "Professor Goeller is an intense yet supportive instructor who encourages independent exploration and provides clear, insightful feedback when needed. Despite occasional clarity issues with grading criteria and expectations, students appreciate her dedication and cultural insights.",
     "Ratings": [
       {
         "index": 1,
@@ -3988,6 +4976,8 @@
     "lastName": "Castronovo",
     "legacyId": 643178,
     "numRatings": 11,
+    "summary_comment": "Professor Castronovo, or Anthony, is highly regarded for his excellent teaching and engaging approach. Students consistently praise his laid-back yet effective teaching style, his ability to make complex material accessible, and his friendly, supportive demeanor. His classes are noted for being both informative and enjoyable, with many students recommending them enthusiastically.",
+    "summary_comment_short": "Professor Castronovo is highly regarded for his engaging and friendly teaching style, which keeps students motivated and interested throughout the course. His preparation and ability to provide clear, supplementary examples make him an exceptional instructor.",
     "Ratings": [
       {
         "index": 1,
@@ -4078,6 +5068,8 @@
     "lastName": "Tolla",
     "legacyId": 124996,
     "numRatings": 4,
+    "summary_comment": "Professor Tolla is highly regarded for his exceptional teaching quality, enabling students to learn extensively in a short period. His knowledge and passion for art, coupled with his engaging personality, make him a standout educator in the field.",
+    "summary_comment_short": "Professor Tolla is highly regarded for his exceptional teaching quality, enabling students to learn extensively in a short period. His expertise and engaging personality make him a standout instructor in the field of art.",
     "Ratings": [
       {
         "index": 1,
@@ -4119,6 +5111,8 @@
     "lastName": "Eliot",
     "legacyId": 368934,
     "numRatings": 1,
+    "summary_comment": "Professor Eliot is known for delivering high-quality lectures that are well-organized and easy to follow, contributing significantly to students' understanding of the subject matter. His teaching approach is highly regarded for its clarity and effectiveness.",
+    "summary_comment_short": "Professor Eliot is known for delivering high-quality lectures that are well-organized and engaging, effectively enhancing students' understanding of the subject matter. His teaching approach is clear and thorough, making complex topics accessible to all students.",
     "Ratings": [
       {
         "index": 1,
@@ -4139,6 +5133,8 @@
     "lastName": "Cochran",
     "legacyId": 670605,
     "numRatings": 10,
+    "summary_comment": "Professor Cochran is known for his rigorous and demanding approach to teaching art, pushing students to excel through hard work and critical thinking. While some students find his critiques challenging and his expectations high, others appreciate his dedication to artistic excellence and his ability to foster deep understanding and growth. Supplies can be costly, and his methods are not always easy to navigate, but many credit him with producing high-caliber artists.",
+    "summary_comment_short": "Professor Cochran is known for his rigorous and demanding approach to teaching, pushing students to excel and work hard both in and out of the studio. His critiques are challenging and often leave students questioning their ideas, but many credit him with producing high-quality work and fostering a deep understanding of art.",
     "Ratings": [
       {
         "index": 1,
@@ -4209,358 +5205,6 @@
         "difficulty": 4,
         "comment": "No Comments",
         "course": "ART207"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.8,
-    "avgRating": 4.9,
-    "department": "Fine Arts",
-    "firstName": "Louisa",
-    "id": "VGVhY2hlci02OTYzNjg=",
-    "lastName": "Captein",
-    "legacyId": 696368,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "i have been following her status for more than 10 years now. i,ve known louise since she was doing her final exams being educated as a professional artist.and have to admit she develloped tremendously as an succesful intern.artist the use of colour is  even for me still something i recognise as authentic. what she does nowadays  is more abstract.",
-        "course": "ARTACCT"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Out of all my years at OSU she is one of my most favorite teachers. Some assignments were confusing, but she helped you out as much as you needed. She also pointed me in a direction that I never knew that was option. Love Her and Her Class.",
-        "course": "ART372"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Louise is amaaaaazing.  She's inspiring, and she has an eerily accurate eye for whatever you're up to.  She'll kick your ass, but you'll be thanking her for it every step of the way.  Sounds cheesy, but I really feel like I &quot;grew&quot; under her tutelage, and I can't wait to take more of her classes.",
-        "course": "ART473"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I LOVE THIS TEACHER.  She is the best most understanding person and instructor.  She is open to new possiblities and is inspirational.  She makes you want to be a better artist.  Take any class you can find that she is teaching.  It will be worth every moment.",
-        "course": "ART473"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.2,
-    "avgRating": 4,
-    "department": "Fine Arts",
-    "firstName": "Ian Richard",
-    "id": "VGVhY2hlci00MjE1ODQ=",
-    "lastName": "Ruffino",
-    "legacyId": 421584,
-    "numRatings": 14,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "It's been a couple of years since I took his intro to printmaking course... but I still look back and think of how much I learned from Ian. His classes are a lot of work and if you are lazy or want your grade handed to you, this is not the way to go. But if you really want to learn and have your mind awakened, it's worth your while.",
-        "course": "ART375"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "Wow, first day, I am so intimidated. I think this is going to either be the best class I've ever taken or I'll die in the studio. He's really cute, weird, strict, and funny.",
-        "course": "ART375"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "I dropped this class because I was already taking another studio class and could not find the time to complete the projects for this one. He's an alright guy, pretty vague, but okay. He will spend the full 3 hours demonstrating - be prepared. However you will learn a ton... wish I could have stayed in it.",
-        "course": "ART375"
-      },
-      {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "I learned so much from him and wish he taught every class for me! He is difficult, but I am not paying to take classes to learn little and get an easy A. I learned a lot about printmaking and myself in his class. He is very knowledgeable, thorough, and does great demos.",
-        "course": "ART478"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "I have never learned so much in ten weeks. And not just technique, he is a ridiculous resource. Our discussions were open, insightful, and he is not afraid to tell you what he thinks. Actually he can be a little scary, but in a good way. WE as a class were moved. I'll never forget it. I wish he taught more classes. I would take them all.",
-        "course": "ART478"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "The workload is ridiculous and the expectations for being an intro class are absurd.  If you enjoy redoing every assignment then this is the class to take. Not worth taking if there is any other alternative.",
-        "course": "ART375"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "This class was WAY too much work for an intro class. 20 hours a week outside of class SERIOUSLY, he means it. From what I have heard from the other class they had less work (no papers or folio). The critiques where good and difficult, but I learned a little about myself from them. I got a lot of good work, but I wish I had taken painting. I give A-",
-        "course": "PRINTMAKING"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "No Comments",
-        "course": "PRINNTMAKING"
-      },
-      {
-        "index": 9,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "He is great with Printmaking!!! but teaching Concepts, whose idea was that&#63;",
-        "course": "CONCEPTS"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He is the first teacher to really actually push my brain during a crit. and he is really funny",
-        "course": "PRINTMAKING"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Incredibly insightful! He never stops working",
-        "course": "SENIORSEMINAR"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "amazingly helpful and considerate prof! I learned a lot from him.",
-        "course": "PRINTMAKING"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "No Comments",
-        "course": "PRINTMAKIN"
-      },
-      {
-        "index": 14,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "Had him for Concepts and Issues, and the class was so bor-ing. Redudant AND repetitive (haha), not to mention completely useless.  Why doesn't the university just require Philosophy of the Arts (Phil. 145), as it's a far superior class&#63;",
-        "course": "200"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 3.8,
-    "department": "Fine Arts",
-    "firstName": "Allen",
-    "id": "VGVhY2hlci0yNTExOTU=",
-    "lastName": "Crocket",
-    "legacyId": 251195,
-    "numRatings": 11,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "This person is masterful at implying content to what he says and does. I prefer substance. Seems to have a predilection towards the avant garde, and is dismissive of many types of work he feels has been sufficiently represented historically, although his personal work looks like lo-grade 1950's Ab-Ex. Go figure.",
-        "course": "ART208"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Allen cannot communicate. He dominates critiques and goes on for hour unending about irrelevant information. He insults his students (he called my work crap). He is unprofessional and should not be teaching. Avoid him at all costs unless painting is your life- otherwise he will not respect you.",
-        "course": "ART373"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Alan is awesome. I knew the first time I met him that I wanted him as an advisor. He does digress and this bothers some people, but I find it interesting... he has so much knowledge and so much to add. If you want an inspired and inspiring prof. he's for you.",
-        "course": "ART473"
-      },
-      {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Alan is a master of interesting/informative digressions and oozes passion for the art world. He has a bias towards the extreme avant-garde, so traditional artists may find the class a bit disheartening at first but the inspiration he imparts will drive you to push yourself in directions you wouldn't expect.  A very knowledgeable, fun prof.",
-        "course": "ART573"
-      },
-      {
-        "index": 5,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Very good guy, but unfortunately his teaching style caters primarily to students interested in pursuing very postmodern, nontraditional artistic methods; you won't hear the word &quot;technique&quot; thrown around too much in his class, but otherwise he'll be very supportive.",
-        "course": "ART470"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "At first, he may seem a bit confusing, but give him time. He is truely one of the most caring and understanding individuals I've ever met. One of OSU's best!",
-        "course": "PAINTINDRAWIN"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Allen has opened up my mind to the possibilities and talents i can explore within myself. He allows you to give yourself permission to explore your own creative spirit and grow with it. A HUGE influence on how I make art. I am blessed to have known him, and have nothing but gratitude for what he has taught me.",
-        "course": "PAINTING"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "He is one of the best",
-        "course": "PAINTING"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "you just have to like Allen",
-        "course": "PAINTING"
-      },
-      {
-        "index": 10,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Prof. Crocket is very knowledgable and very nice.",
-        "course": "ADVDRAWING"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "be patient with him and the good stuff will be there.",
-        "course": "PAINTING"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.4,
-    "avgRating": 4.5,
-    "department": "Fine Arts",
-    "firstName": "Robin",
-    "id": "VGVhY2hlci0xMjIwNjY=",
-    "lastName": "Assner",
-    "legacyId": 122066,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "The beginning of the semester is hard and the work is very tedious. Through the semester the work load thins out and the projects are enjoyable. She's a great teacher with an open mind, just be sure to go to class and ignore her smart aleck side.",
-        "course": "ART1210"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Robin's own work is very fun and stimulating...",
-        "course": "PHOTO101TA"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Robin was a great TA.  Though we had a crush on her boyfriend photo TA the quarter before, she was a lot more informative and organized and helped us uncover some really good work out of ourselves.  I thought she hated me until the very end of the quarter",
-        "course": "PHOTO401"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Can be tough at times, but in a very good way. I give her a solid A.",
-        "course": "COLOR"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "No Comments",
-        "course": "PHOTO201"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.3,
-    "avgRating": 4,
-    "department": "Fine Arts",
-    "firstName": "Charles",
-    "id": "VGVhY2hlci01NTY2MzU=",
-    "lastName": "Massey",
-    "legacyId": 556635,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "Having had experience with art, I took this class for the easy A, but found his ego to be hard to deal with. He showed us some of his dull, lifeless, uninspired art, and overall his attitude seemed very &quot;please show undue reverence for my 'immense' talent&quot;. Those who cannot do, teach. But otherwise, a comprehensive course, if a bit pretentious.",
-        "course": "ARTH201"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "My all-time favorite professor. He was my advisor over ten years ago, I still talk to him, and think about his lessons all the time. I'm a prof now and I only hope to be one quarter as good as him. His dedication to his craft and to his students is legendary. He pushed you to work harder all the time, but was also very very kind and gentle. A+ prof",
-        "course": "ART251"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "There is nothing Charles wouldn't do for his students, or anyone else for that matter. A wealth of knowledge and an asset to the OSU Art Dept.",
-        "course": "ART679"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "excellent teacher, but demanding (you will learn a great deal from him)",
-        "course": "ART"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Charles is by far THE best teacher I have had in five years of school.",
-        "course": "PRINTMAKING"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "His mind is a wealth of knowledge about art, but he talks in circles and its hard to understand what he wants you to do.  I think he works too hard outside of his teaching.  He will help you through anything, though.",
-        "course": "PRINTMAKING"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "stone-age stone-printing man",
-        "course": "PRINTMAKING"
       }
     ],
     "SEI": []

@@ -1,5 +1,1667 @@
 [
   {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Public Policy",
+    "firstName": "Daniel",
+    "id": "VGVhY2hlci0yNDE0MzQ1",
+    "lastName": "Baker",
+    "legacyId": 2414345,
+    "numRatings": 1,
+    "summary_comment": "Professor Baker is an exceptional instructor known for his comprehensive feedback and dedication to student learning. He goes above and beyond to ensure students develop their writing skills effectively. His classroom environment fosters a supportive and enriching educational experience.",
+    "summary_comment_short": "Professor Baker is an exceptional instructor who offers invaluable feedback and goes above and beyond to ensure students develop their writing skills effectively. His classroom environment fosters a deep learning experience.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Daniel is a phenomenal instructor. He provides invaluable feedback and will go the extra mile to make sure that you actually learn and develop your writing skills in his class. The classroom environment is incredible.",
+        "course": "PUBAFRS2367"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2367",
+        "Class Name": "Writing and Communication in Public Affairs",
+        "Class Number": "34265",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6051",
+        "Class Name": "Into to Public Affairs and Orientation to the Program",
+        "Class Number": "5972",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "3.52"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "7507",
+        "Class Name": "Criminal Justice Policy",
+        "Class Number": "35113",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6051",
+        "Class Name": "Into to Public Affairs and Orientation to the Program",
+        "Class Number": "33824",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.08"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6050",
+        "Class Name": "Managing Public Sector Organizations",
+        "Class Number": "4333",
+        "Term": "SU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "22",
+        "Rating": "4.5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Public Policy",
+    "firstName": "William",
+    "id": "VGVhY2hlci0yNDI5MjU4",
+    "lastName": "Ashley",
+    "legacyId": 2429258,
+    "numRatings": 2,
+    "summary_comment": "Professor Ashley provides a highly structured learning environment with clear expectations and well-organized lectures. Students appreciate the numerous short writing assignments that result in a comprehensive portfolio by the end of the semester. Overall, Professor Ashley is praised for being an excellent teacher and a pleasant person to learn from.",
+    "summary_comment_short": "Professor Ashley provides a highly structured learning environment with clear expectations and organized lectures, resulting in a comprehensive portfolio of writing samples by semester's end. Students consistently praise his effectiveness as a teacher and his approachable, friendly demeanor.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This class is very structured and I really liked that. You always know what you're supposed to do and exactly what is going on. Lots of writing assignments, but they're all short and you end up with a portfolio of writing samples at the end of the semester. A great professor and just an all-around great person.",
+        "course": "PUBAFRS2367"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "William's lectures were organized extremely well and he was always very clear. The class is set up so that you end up with a portfolio of writing samples at the end of the class so it is a lot of writing. Overall, I loved this class and William as a professor. He's super cool and easy-going. A great teacher and class.",
+        "course": "PUBAFRS2367"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Public Policy",
+    "firstName": "Mark",
+    "id": "VGVhY2hlci0zMDg2Mzg4",
+    "lastName": "Gaspar",
+    "legacyId": 3086388,
+    "numRatings": 1,
+    "summary_comment": "Professor Gaspar is highly regarded for his dedication to his subject matter and his students. He provided positive feedback on assignments and made the material accessible with clear rubrics. While the class involves substantial reading, understanding the main ideas is sufficient, making it manageable for those who complete the homework.",
+    "summary_comment_short": "Professor Gaspar is highly regarded for his dedication to the subject matter and his supportive approach, leaving positive feedback on assignments and providing clear rubrics. His class is manageable with consistent effort, particularly recommended for public affairs students due to its clarity and relevance.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Prof G was very nice and definitely cared about the subject he was teaching. He left positive notes on each assignment. This class is simple if you do all the homework, which isn't hard. The rubrics are super clear. There are a lot of readings, but you only have to understand the main idea. I highly recommend this class to public affairs students. ",
+        "course": "PUBAFRS5545"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "Make a Difference in Washington",
+        "Class Number": "4894",
+        "Term": "SU 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "Make a Difference in Washington",
+        "Class Number": "4895",
+        "Term": "SU 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5194",
+        "Class Name": "Group Studies",
+        "Class Number": "37199",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "How Washington Works",
+        "Class Number": "36910",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5750",
+        "Class Name": "Public Policy: The Business-Government Relationship",
+        "Class Number": "5776",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5750",
+        "Class Name": "Public Policy: The Business-Government Relationship",
+        "Class Number": "5780",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "How Washington Works",
+        "Class Number": "4685",
+        "Term": "SU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "How Washington Works",
+        "Class Number": "6369",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "How Washington Works",
+        "Class Number": "6370",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "7600",
+        "Class Name": "Federal Policy & Administration",
+        "Class Number": "6335",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "2.75"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "Make a Difference in Washington",
+        "Class Number": "36122",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "Make a Difference in Washington",
+        "Class Number": "36123",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "7980",
+        "Class Name": "Capstone: MPA-DC",
+        "Class Number": "36439",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "Make a Difference in Washington",
+        "Class Number": "4772",
+        "Term": "SU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4020",
+        "Class Name": "Contemporary Issues in Governance: Washington DC",
+        "Class Number": "6354",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4021",
+        "Class Name": "Research Paper in Public Affairs: Washington DC",
+        "Class Number": "6458",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "Make a Difference in Washington",
+        "Class Number": "6515",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "Make a Difference in Washington",
+        "Class Number": "6360",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5545",
+        "Class Name": "Make a Difference in Washington",
+        "Class Number": "6361",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.75"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.1,
+    "avgRating": 2.5,
+    "department": "Public Policy",
+    "firstName": "Caroline",
+    "id": "VGVhY2hlci0xNzAwNzM5",
+    "lastName": "Wagner",
+    "legacyId": 1700739,
+    "numRatings": 16,
+    "summary_comment": "Professor Wagner is a knowledgeable expert who genuinely cares about her students and is highly qualified in her field. However, her teaching style is often criticized for being unclear and disorganized, leading to confusion among students regarding assignments and expectations. Despite these issues, many students appreciate her passion for the subject and her willingness to help, finding her courses valuable despite their challenges.",
+    "summary_comment_short": "Professor Wagner is highly knowledgeable but often criticized for being unclear in her communication and assignments, leading to low initial grades that can drop further upon re-grading. Her classes are described as disjointed and sometimes boring, yet many acknowledge her passion and genuine care for her students, noting her willingness to help and her understanding during challenging times like the transition to online learning.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Dropped the class in week 3. This woman was the reason I changed my specialization to something else for OSU's MPAL program. She isn't clear on assignments. Will re-grade but set the tone with you can get a lower grade than your initial grade if I do this. People averaged 60% on assignments. She complained about the complaints. Worst professor.",
+        "course": "PUB7910"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Very knowledgeable expert but inefficient teacher. Assignments are often shortly communicated and there's frequent course page errors. Class feels disjointed and surface level but a decent introduction to policy analysis and public speaking.",
+        "course": "PUBAFR2367"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Horrible ",
+        "course": "PA2130"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Wagner is a bit eccentric and that's about the worst thing about her. She is a great professor that know their material and really cares. If you have to take this or any course she's the professor to go to. During the COVID19 virtual transition she was more than understanding, accommodating and helpful. A real gem.",
+        "course": "PUBAFRS2130"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Dr. Wagner's class is boring and her tests are hard in that they do not cover material from her lectures/presentations. Instead, she generates tests based off of 2 books that she barely bothers to refer to in any of her lectures. She is very unclear on expectations from assignments and grades very hard. Unnecessarily hard class but a qualified prof",
+        "course": "PUBAFRS2130"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Caroline has more qualifications than any professor you'll meet. She genuinely cares about her students and will help out whenever she can. Lectures are long and boring but it's an easy A course and you'll learn real-life information.",
+        "course": "PUBAFRS2130"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Professor Wagner is so awesome. She is brilliant, and she really cares about her students. She is also, however, a bit scatter-brained, and she has a tendency to be incredibly unclear about exactly what she wants on tests and in papers. But if you talk to her, she will work really hard to help you out. She sends a ton of email reminders too!",
+        "course": "PUBAFRS2130"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Honestly, she's pretty middle-of -the-road. She's definitely passionate about her work and does a good job of getting students to think for themselves. I think a reason she may come across as unorganized or unclear is that the subject matter is all qualitative. This is a course on leadership theory, so don't expect hard and fast rules.",
+        "course": "PUBAFRS2130"
+      },
+      {
+        "index": 9,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Lectures are the longest 60 - 90 minutes of your life, all straight out of the driest book in the world. She is disorganized, unhelpful, and extremely inconsistent. Be very careful on your assignments. Study your book-- sometimes you literally should know it word for word.",
+        "course": "2130"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Professor Wagner is passionate about her work, and has extensive experience that is both impressive & helpful, especially if you are taking this class for the major. It wasn't my favorite PA class, but she grades pretty easily.  If the TA grades & you disagree w/ your grade, she will regrade.  She is unorganized though, but didn't effect my grade.",
+        "course": "PA2130"
+      },
+      {
+        "index": 11,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Extremely unorganized and repetitive. Attendance is mandatory but there really is no point in going to class. She seems genuinely interested in Leadership but is not great at teaching it. Does not reply to emails. Not clear on grading for class project. If you want to set up an appt with her outside of class, forget it. Does not reply to emails.",
+        "course": "PA2130"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Long lecture format for class. Lecture slides are online, but readings from assigned books are also required. Class discussion can be interesting. Group projects towards the end of the year are more fun. Midterm and finals are info straight from class.",
+        "course": "PUBAFRS2130"
+      },
+      {
+        "index": 13,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Very unorganized. Seems extremely left of the road. Does not respond to emails.",
+        "course": "PA2130"
+      },
+      {
+        "index": 14,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Extremely unorganized. She is the worst professor I have had in my four years of college.",
+        "course": "PA2130"
+      },
+      {
+        "index": 15,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Very confused, unhelpful, unresponsive and unpredictable professor. Avoid her class if you can. She is the worst.",
+        "course": "PUB7910"
+      },
+      {
+        "index": 16,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Has real world experience, good class",
+        "course": "PUBAF678"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1138.01",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "35193",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "ENVENG",
+        "Catalog": "5600",
+        "Class Name": "Science, Engineering, and Public Policy",
+        "Class Number": "9971",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Civil, Envrnmntl & Geodtc Eng",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "ENVENG",
+        "Catalog": "5600",
+        "Class Name": "Science, Engineering, and Public Policy",
+        "Class Number": "9989",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Civil, Envrnmntl & Geodtc Eng",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "5888",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5610",
+        "Class Name": "Innovation, Policy, and the Global Economy",
+        "Class Number": "5901",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5610",
+        "Class Name": "Innovation, Policy, and the Global Economy",
+        "Class Number": "5902",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "5671",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5600",
+        "Class Name": "Science, Engineering, and Public Policy",
+        "Class Number": "5740",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "5868",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5610",
+        "Class Name": "Innovation, Policy, and the Global Economy",
+        "Class Number": "5881",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5610",
+        "Class Name": "Innovation, Policy, and the Global Economy",
+        "Class Number": "5882",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "5697",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "5822",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.39"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5610",
+        "Class Name": "Innovation, Policy, and the Global Economy",
+        "Class Number": "6262",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5610",
+        "Class Name": "Innovation, Policy, and the Global Economy",
+        "Class Number": "6263",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2367",
+        "Class Name": "Writing and Communication in Public Affairs",
+        "Class Number": "6092",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "3.95"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "5994",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "6262",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3.75"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5610",
+        "Class Name": "Innovation, Policy, and the Global Economy",
+        "Class Number": "35753",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.9,
+    "department": "Public Policy",
+    "firstName": "Judith",
+    "id": "VGVhY2hlci0yODY3Nzk0",
+    "lastName": "Zimomra",
+    "legacyId": 2867794,
+    "numRatings": 8,
+    "summary_comment": "Professor Zimomra is highly regarded for her exceptional teaching, known for her understanding and flexibility, particularly with deadlines. Her courses are challenging yet rewarding, focusing heavily on writing and public speaking, and she provides thorough, personalized feedback to help students excel. Students consistently praise her dedication to their success and her ability to engage them deeply in the material.",
+    "summary_comment_short": "Professor Zimomra is highly regarded for her effective teaching methods, which emphasize active participation and extensive writing assignments. Students praise her for her understanding nature, willingness to provide feedback, and dedication to helping them succeed both academically and personally.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "One of the best professors I've had. She is very understanding and will grant extensions if needed. Participation is a big part of the class and papers are a big part of the grade. This class challenged me in a good way. I am a better writer and public speaker because of Professor Zimomra.",
+        "course": "PUBAFRS-2367"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Zimomra's Capstone course was my favorite class I took at OSU. The class isn't easy, but I learned more from it than most of my undergrad classes combined. She is extremely knowledgeable & passionate about Public Affairs & gave amazing personalized feedback. The writing/research skills I learned from her course have helped me a ton in my career",
+        "course": "PUBAFRS-2367"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Zimomra was amazing!",
+        "course": "PUBAFRS-2367"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She was excellent. Great lectures, with the requirement of student engagement in just about each class. Thought provoking assignments that may take time, but she offers great feedback and allows you to submit until you get the grade you want. No quizzes/test. Very accessible outside of class. Truly wants you to succeed both in her course and life.",
+        "course": "PUBAFRS-2367"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "This course had nine writing assignments throughout the semester, some short and some long. Each class had a group exercise. Prof gives good feedback if things are turned in early and gives you the option to revise each assignment after grading has been released. ",
+        "course": "PUBAFRS-2367"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Instructor Zimomra was one of the best professors I have had at OSU. She is dedicated to helping all of her students, and while the class is writing-heavy, she is lenient on assignment dates, gives you class time to work on papers, is very clear with instructions, and reviews your drafts with you to ensure you get a good grade. ",
+        "course": "PUBAFRS-2367"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Professor Zimomra does everything in her power to make sure that you get an A as long as you put the effort in. She makes herself available to give feedback on every single assignment and is constantly giving advice for improvement on your communication skills. Although she can come off as intimidating, she is an incredible and caring professor!",
+        "course": "PUBAFRS-2367"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I had Professor Zimomra for Public Affairs 2367 and she was awesome. Very experienced in the public sector and acts like a coach when giving you advice on how to improve your communication skills. The class was not too difficult and even though attendance was a big part of the grade the lectures were always engaging. ",
+        "course": "PUBAFRS-2367"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "4844",
+        "Term": "SU 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2367",
+        "Class Name": "Writing and Communication in Public Affairs",
+        "Class Number": "5797",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "5811",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.44"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2367",
+        "Class Name": "Writing and Communication in Public Affairs",
+        "Class Number": "6318",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "6249",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "6163",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "7509",
+        "Class Name": "Disasters: Preparedness and Response",
+        "Class Number": "6112",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "22932",
+        "Term": "SU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2367",
+        "Class Name": "Writing and Communication in Public Affairs",
+        "Class Number": "6473",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "6410",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "6286",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "37064",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "M",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "37098",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2367",
+        "Class Name": "Writing and Communication in Public Affairs",
+        "Class Number": "6253",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "36944",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.4,
+    "avgRating": 2.7,
+    "department": "Public Policy",
+    "firstName": "Edward",
+    "id": "VGVhY2hlci0yMjk0MjU2",
+    "lastName": "Hill",
+    "legacyId": 2294256,
+    "numRatings": 7,
+    "summary_comment": "Professor Hill's teaching style is characterized by dense and often tangential lectures, with weekly paper assignments and daily posted slideshows. While he is knowledgeable, students find his lectures disorganized and time-consuming, with frequent tangents that detract from the main points. Exams are not particularly difficult but significantly impact the final grade, and quizzes require focused attention. Overall, students generally find his classes to be a significant time commitment with limited practical benefit.",
+    "summary_comment_short": "Professor Hill's teaching style is characterized by detailed lectures with extensive slides, weekly paper assignments, and a strong emphasis on attendance, which is graded. While his knowledge is praised, students find his lectures dense, tangential, and often overly long, leading to disengagement and difficulty in staying focused.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Weekly paper due, lectures with posted slideshows every day for class, attendance is graded, exams aren't hard but will affect your grade a lot. ",
+        "course": "PUBAFRS2110"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "If you are taking this class I would take it with another professor, I've heard the other professor usually has higher grade averages for the tests. He is super knowledgeable but lectures are dense and he goes on tangents a lot. Tests are in person and pretty specific so you have to study a lot. Homeworks saved my grade.",
+        "course": "PUBAFRS2110"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Even though the class is 3 credit hours you're basically hearing these same discussion points 5 hours of the week. Regularly goes over time and goes off into specific tangents that are literally no help. I found myself almost waiting for class to end all the time and zoning out. Quizzes were pretty specific so it required full attention though :/",
+        "course": "PUBAFRS2110"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "I took this class hybrid with lectures online and in-person recitation. The recitation was fine, but the lectures were the absolute worst. They supposed to be about an hour-long but almost all of them ended up being at least two. He doesn't really stay on topic and he talks so incredibly slow that even putting it on 2x speed is still too slow.",
+        "course": "PUBAFRS2110"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "I took this class AU20 and it was SO disorganized. Long lectures were posted late many times, which was disrespectful to my time. I don't feel that I got much out of this class. I am super grateful for the TA helping us out. Hopefully this class will be better online in the future because the lectures are recorded now.",
+        "course": "PUBAFRS2110"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Despite his clear enthusiasm for what he is teaching, I dreaded coming to his class every week. There are no projects or papers- the only grades you will receive are for attendance, lecture summaries, and exams. Unless you are a public affairs major and are required to take this course, do yourself a favor and don't. Huge waste of time.",
+        "course": "PUBAFRS2110"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Really gets into the topics but I feel like sometimes he forgets that it is just an intro class and will use very specific and detail oriented examples that only the mayor of the city he is talking about would even kind of understand what he is referencing",
+        "course": "PUBAFRS2110"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.2,
+    "avgRating": 3.7,
+    "department": "Public Policy",
+    "firstName": "Joseph",
+    "id": "VGVhY2hlci0yNDI5Mjgw",
+    "lastName": "Henry",
+    "legacyId": 2429280,
+    "numRatings": 9,
+    "summary_comment": "Professor Henry assigns a significant amount of homework, including multiple papers that can be nitpicky, though he provides ample resources and clear expectations. Students generally find him a dedicated and caring instructor who mixes up his teaching methods and offers flexible and supportive policies, especially during challenging times like online learning. However, some students feel the workload and grading focus on writing can be demanding.",
+    "summary_comment_short": "Professor Henry assigns a significant amount of homework, including multiple papers that can be nitpicky, and requires cameras on during Zoom lectures. Despite the workload, many students find him a dedicated and effective teacher who cares about their success and provides clear expectations and ample resources.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "So many homework",
+        "course": "PUBAFFRS2120"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Joe was not a terrible professor. The class was not too hard but there are three papers, which he can be nitpicky about. Also, he has everything due by the time class starts instead of 11:59pm, which is kind of annoying. However, everything else in the class is easy. Quizzes were online and had unlimited attempts. I got over 100% on the exams.",
+        "course": "PA2120"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Good professor. Cares and puts a lot of effort into teaching.",
+        "course": "PA2120"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Joe was a great professor. He really cared about his students and put lots of effort into his class. He make sure to mix it up so it was not 90 min of lecture. Readings were not bad and the workload was reasonable. BIG fan of Joe and his dry wit.",
+        "course": "PA2120"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "First zoom class I took that required cameras on and attendance, but I truly enjoyed lecture. I dont think Ive ever gotten more out of a course (and Im a senior). Definitely recommend taking a class with Joe, he has such clear expectations and wants you to succeed (and gives you everything you need to do so)",
+        "course": "PUBAFRS2110"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Okay prof but you can tell he's full of himself. Puts a lot of weight on the class so if you're not super passionate about public affairs it might give you the ick. Annoying grading because he focuses so much on writing instead of content. Made us keep cameras on in lecture for attendance, very annoying. It's literally the bottom of all PA classes.",
+        "course": "PUBAFRS2110"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Public Affairs 2110 was one of the most flexible and enjoyable classes I had this semester. Professor Henry was very flexible with all of the extenuating circumstances with COVID/the basic difficulties of online learning. There are 3 tests, extremely fair with very helpful study guides. There are also weekly current events reflections. Great class!",
+        "course": "PA2110"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Grades harder for 2000 level courses than any of my higher level classes. If you care about your GPA beware.",
+        "course": "PA2120"
+      },
+      {
+        "index": 9,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "The content of the class was very interesting but the professor was extremely boring. If you missed your coffee one morning don't bother coming because you will fall asleep. He's pretty young and tries to make the class fun but his extreme monotone demeanor makes it hard to focus. My advice? Come prepared, read the books and lectures beforehand",
+        "course": "PUBAFFRS2120"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "35902",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "5789",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "5905",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2130",
+        "Class Name": "Leadership in the Public and Nonprofit Sectors",
+        "Class Number": "35255",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "6185",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "35755",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.81"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2120",
+        "Class Name": "Public Service and Civic Engagement",
+        "Class Number": "35800",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "36",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2120",
+        "Class Name": "Public Service and Civic Engagement",
+        "Class Number": "34548",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "32",
+        "Rating": "4.56"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 1,
+    "department": "Public Policy",
+    "firstName": "Desiree",
+    "id": "VGVhY2hlci0yOTIyMTU3",
+    "lastName": "Tims",
+    "legacyId": 2922157,
+    "numRatings": 2,
+    "summary_comment": "Professor Tims is known for being an uncommunicative instructor who does not clearly outline grading criteria and is difficult to reach outside of class. Students find her grading to be harsh on minor issues like formatting and report feeling they work hard without receiving meaningful feedback or recognition. Overall, while some see potential benefits for resumes, the class structure and lack of communication are significant drawbacks.",
+    "summary_comment_short": "Professor Tims is known for being an uncommunicative instructor who does not clearly outline grading criteria and is difficult to reach outside of class. Students find her grading to be harsh on minor details like formatting and report feeling they work hard without receiving adequate feedback or recognition.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "If you want an easyish grader and resume booster, then take this class. But you will be dealing with an uncommunicative professor that will not respect your time/work. You will work on assignments and never get feedback/know if they were actually used. The structure sucks and you will feel like you worked hard for nothing after the semester ends.",
+        "course": "WGSST3385"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I took WGSST 3385, which is an internship course taught by women in legislature.  Prof Tims is one of the most UNCOMMUNICATIVE professors I've ever had--she doesn't clearly outline her grading criteria, yet grades harshly on small things such as formatting.  She is difficult to contact outside of class, and hostile to clarification questions.",
+        "course": "WGSST3385"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6010",
+        "Class Name": "Legal Environment of Public Organizations",
+        "Class Number": "6321",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "2.67"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3385",
+        "Class Name": "Women in Political Leadership Internship",
+        "Class Number": "37556",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "2.33"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3385",
+        "Class Name": "Women in Political Leadership Internship",
+        "Class Number": "36193",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "1.83"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3385",
+        "Class Name": "Women in Political Leadership Internship",
+        "Class Number": "31307",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "2.6"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3385",
+        "Class Name": "Women in Political Leadership Internship",
+        "Class Number": "30664",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "3.5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.4,
+    "avgRating": 2.9,
+    "department": "Public Policy",
+    "firstName": "Timothy",
+    "id": "VGVhY2hlci0yNjI1MTQ0",
+    "lastName": "Jaquet",
+    "legacyId": 2625144,
+    "numRatings": 7,
+    "summary_comment": "Professor Jaquet is generally seen as a dedicated and passionate educator, but his teaching style and grading can be challenging. Students found his content sometimes disjointed and assumed prior knowledge, leading to confusion. While he is described as a nice person who is willing to help, his grading can be strict, and expectations for assignments are sometimes unclear.",
+    "summary_comment_short": "Professor Jaquet is generally considered a knowledgeable and passionate instructor who is approachable and willing to help, but his teaching style can be challenging due to its complexity and lack of clarity. Students find his grading strict and sometimes unfair, and they often struggle with the material due to unclear expectations and confusing lectures.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "He was fine, but doing well was honestly hard. I had a bad group for one project and he wasn't really willing to consider that, and there were very few opportunities to gain points. The class content sort of felt messy and all over the place. He was very nice and I chatted with him outside of class a couple of times, just a tough grader.",
+        "course": "AEDE2580"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Tim is a good professor but an absolutely horrible grader. He is very judgmental of the way students word their papers and will often deduct points for very small errors. When asking for help, he can be very unclear about what you need to do and often says things that are not helpful at all. He has a very high ego and has his favorites. Sus assess",
+        "course": "AEDE2580"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Tim is very passionate about both the material and the current events surrounding the material. Due to the mask mandate being lifted and some minor friction surround immunocompromised students, the class was online after spring break. Tim got right back with the material after just 1 lecture. He did cancel around 5 classes throughout the semester.",
+        "course": "AEDE2580"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Had Tim for 2 classes and thoroughly enjoyed his classes. Content can be hard but I went to office hours and he was willing to help and listen to the class. Overall would take another class with him again.",
+        "course": "AEDE3103"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Professor Jaquet was clearly passionate about the subject and teaching, but definitely inexperienced. His lectures were confusing and he often assumed we knew more than we did. He was willing to help and offer feedback, and he graded pretty fairly, but compared to the rest of the Glenn College, not sure he stacked up.",
+        "course": "PA3000"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Not a bad guy but definitely not up to par with the other public affairs professors I've had. He acts as though most topics are common knowledge and doesn't give many explanations. Expectations for assignments were unclear and deadlines got moved around a lot which made things more confusing. Also seemed unsure about the material at times.",
+        "course": "PA3000"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "First of all, he seems like a really nice person and interested in the topic. However, hes the kind of professor who is so deep into his own knowledge that he fails to understand students are not at his level. So many topics are breezed through as if we are taking a review course, not actively learning for the first time.",
+        "course": "PUBAFRS3000"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.3,
+    "avgRating": 4.3,
+    "department": "Public Policy",
+    "firstName": "Kim",
+    "id": "VGVhY2hlci0yMzMwOTU3",
+    "lastName": "Young",
+    "legacyId": 2330957,
+    "numRatings": 6,
+    "summary_comment": "Professor Young is highly regarded as an exceptional educator, known for her dedication and extensive knowledge in her field. Students appreciate her supportive approach, offering extensive help and extra credit opportunities, though they note the workload can be demanding. Her classes require active engagement and preparation but are praised for their clarity and relevance to real-world applications.",
+    "summary_comment_short": "Professor Young is highly regarded for her exceptional teaching skills and deep commitment to her students' understanding. Despite challenging course material, her dedication to helping students grasp complex concepts through various resources and office hours makes her classes rewarding and valuable.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Best professor I have ever had. Although some content is difficult, she will do anything to help you understand. Take a class with Dr. Young if you can, you wont regret it",
+        "course": "PUBAFRS4310"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I loved Dr. Young. The class is lots of reading/lectures, but she's clear in lectures and offers multiple ways to learn. Even while asynchronous, there was lots of practice before exams, and she holds tons of study sessions. She offers decent amounts of extra credit that are largely effort-based. The tests and quizzes are a time crunch for sure.",
+        "course": "PA4310"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "State and Local Gov Finance can be difficult. You definitely need to take good notes and study for the tests. The lectures can also be sometimes boring. However, she is a great teacher who cares a lot about the subject and about her students. She is great to talk to in Office Hours and knows what she is talking about. Also great with extra credit!",
+        "course": "PA4310"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Online class is horrible. You have two assignments due every week in addition to an insane amount of lecture. She made three assignments due Thanksgiving and the week of finals, which was one day later.",
+        "course": "PUBAFF6030"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I can't say enough good things about Dr. Young. She is so funny and sweet and understanding but also commands so much respect, and has so much knowledge. She did her PhD here, and really cares about her students and the college. She is fantastic, doesn't show her political leaning, and knows how to teach well, even if you don't understand econ.",
+        "course": "PA4310"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Young is the best professor I've had so far in the Glenn College. She works hard to connect what we're learning in class to real life. The lessons are very straight forward, and if you go to class it's not difficult to predict what will be on tests. On top of that, she offers a ton of extra credit!",
+        "course": "PUBAFRS4310"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4310",
+        "Class Name": "State and Local Government Finance",
+        "Class Number": "5752",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5750",
+        "Class Name": "Public Policy: The Business-Government Relationship",
+        "Class Number": "5750",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.44"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5750",
+        "Class Name": "Public Policy: The Business-Government Relationship",
+        "Class Number": "5754",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6000",
+        "Class Name": "Public Policy Formulation and Implementation",
+        "Class Number": "5676",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6040",
+        "Class Name": "Public Budgeting and Finance",
+        "Class Number": "5678",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4310",
+        "Class Name": "State and Local Government Finance",
+        "Class Number": "6359",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "36",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4310",
+        "Class Name": "State and Local Government Finance",
+        "Class Number": "6506",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.91"
+      }
+    ]
+  },
+  {
     "avgDifficulty": 2.8,
     "avgRating": 4.1,
     "department": "Public Policy",
@@ -8,6 +1670,8 @@
     "lastName": "Lavertu",
     "legacyId": 1779313,
     "numRatings": 17,
+    "summary_comment": "Professor Lavertu is highly regarded for his engaging and accessible teaching style, making complex topics interesting and ensuring students feel supported. However, some students find his grading criteria unclear and his exams challenging, leading to mixed reviews regarding his overall teaching effectiveness.",
+    "summary_comment_short": "Professor Lavertu is highly regarded for his engaging and accessible teaching style, making complex topics interesting and ensuring students feel supported. However, some students find his grading to be overly stringent and lack clear criteria, which can be challenging.",
     "Ratings": [
       {
         "index": 1,
@@ -129,7 +1793,134 @@
         "course": "PUBAF2110"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "8890.03",
+        "Class Name": "Second Year Doctoral Seminar",
+        "Class Number": "5840",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "5785",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "8890",
+        "Class Name": "First Year Doctoral Seminar I",
+        "Class Number": "5819",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "8890",
+        "Class Name": "Second Year Doctoral Seminar",
+        "Class Number": "5820",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.14"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "8782",
+        "Class Name": "Seminar in Policy Modeling",
+        "Class Number": "5836",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "8890.02",
+        "Class Name": "Second Year Doctoral Seminar",
+        "Class Number": "6374",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "7910",
+        "Class Name": "Capstone: Public Policy Issues",
+        "Class Number": "6101",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.1"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3110",
+        "Class Name": "Education Policy in a Changing World",
+        "Class Number": "6501",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "8782",
+        "Class Name": "Research Design for Public Policy and Management",
+        "Class Number": "6283",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.5,
@@ -140,6 +1931,8 @@
     "lastName": "Dormady",
     "legacyId": 1812434,
     "numRatings": 12,
+    "summary_comment": "Professor Dormady is known for his thorough knowledge of the subject and dedication to student success, offering ample extra credit opportunities and clear, organized lectures. However, some students find his teaching style challenging, particularly during virtual learning, due to his fast pace and lack of accommodation during the pandemic. Overall, while his teaching quality is generally positive, there are concerns regarding student engagement and accessibility.",
+    "summary_comment_short": "Professor Dormady is known for his thorough knowledge of the subject and clear organization of the course, offering substantial extra credit opportunities and generally straightforward exams. However, some students find his teaching style too fast-paced, particularly in Excel, and criticize his lack of accommodation during the pandemic and perceived bias in class participation.",
     "Ratings": [
       {
         "index": 1,
@@ -226,7 +2019,148 @@
         "course": "PUBAFF3000"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5770",
+        "Class Name": "Risk & Decision Analysis in Public Affairs",
+        "Class Number": "21761",
+        "Term": "SU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3000",
+        "Class Name": "Public Policy Analysis",
+        "Class Number": "5798",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3000",
+        "Class Name": "Public Policy Analysis",
+        "Class Number": "5802",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3000",
+        "Class Name": "Public Policy Analysis",
+        "Class Number": "36048",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "30",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3000",
+        "Class Name": "Public Policy Analysis",
+        "Class Number": "36049",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "3.35"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5770",
+        "Class Name": "Risk & Decision Analysis in Public Affairs",
+        "Class Number": "35376",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "7900",
+        "Class Name": "Capstone:  Research Paper in Public Affairs",
+        "Class Number": "33675",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.17"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6030",
+        "Class Name": "Public Sector Economics",
+        "Class Number": "6196",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.36"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3000",
+        "Class Name": "Public Policy Analysis",
+        "Class Number": "6180",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5770",
+        "Class Name": "Risk & Decision Analysis in Public Affairs",
+        "Class Number": "6174",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.8,
@@ -237,6 +2171,8 @@
     "lastName": "Thapar",
     "legacyId": 2462239,
     "numRatings": 6,
+    "summary_comment": "Professor Thapar is highly regarded for her dedication to student well-being and success, often going above and beyond to provide support, particularly during capstone projects. Her teaching style is engaging and grounded in current events, though some find her class can be chaotic. Students consistently praise her care and accessibility, noting her detailed and helpful feedback, even if it takes time to receive grades.",
+    "summary_comment_short": "Professor Thapar is highly regarded for her caring nature and dedication to her students' well-being, often going above and beyond to provide support, especially during the capstone process. Her teaching style is characterized by clear passion and a focus on current events, though some find her classes can be chaotic.",
     "Ratings": [
       {
         "index": 1,
@@ -281,7 +2217,78 @@
         "course": "PUBAFRS2110"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2130",
+        "Class Name": "Leadership in the Public and Nonprofit Sectors",
+        "Class Number": "6293",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.07"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2130",
+        "Class Name": "Leadership in the Public and Nonprofit Sectors",
+        "Class Number": "6317",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "6103",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "3.31"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4011",
+        "Class Name": "Public Affairs Capstone",
+        "Class Number": "36186",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "3.75"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "6351",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "3.77"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.7,
@@ -292,6 +2299,8 @@
     "lastName": "Barbash",
     "legacyId": 2682640,
     "numRatings": 3,
+    "summary_comment": "Professor Barbash excels in conveying his passion for the subject matter, engaging students through extensive projects like a semester-long analysis of an Ohio city's budget, and incorporating guest speakers. His approach emphasizes fair and straightforward grading, making the workload, while demanding, manageable and rewarding.",
+    "summary_comment_short": "Professor Barbash excels in engaging students with his passion for the subject matter and offers comprehensive, hands-on learning through semester-long projects and case studies. His classes feature fair and straightforward grading, with assignments that are both challenging and rewarding.",
     "Ratings": [
       {
         "index": 1,
@@ -315,7 +2324,120 @@
         "course": "PUBAFRS4030"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4030",
+        "Class Name": "Public Budgeting",
+        "Class Number": "5777",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.29"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4030",
+        "Class Name": "Public Budgeting",
+        "Class Number": "35644",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4030",
+        "Class Name": "Public Budgeting",
+        "Class Number": "36035",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.1"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4030",
+        "Class Name": "Public Budgeting",
+        "Class Number": "5742",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4030",
+        "Class Name": "Public Budgeting",
+        "Class Number": "6351",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4030",
+        "Class Name": "Public Budgeting",
+        "Class Number": "6039",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4030",
+        "Class Name": "Public Budgeting",
+        "Class Number": "6499",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4030",
+        "Class Name": "Public Budgeting",
+        "Class Number": "6202",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.53"
+      }
+    ]
   },
   {
     "avgDifficulty": 4.5,
@@ -326,6 +2448,8 @@
     "lastName": "Headley",
     "legacyId": 2575071,
     "numRatings": 2,
+    "summary_comment": "Professor Headley is known for his rigorous and demanding approach, with heavy emphasis on frequent assignments and papers. While students appreciate the challenging nature of his material and his feedback on writing skills, they find his grading strict and deadlines tight, often perceiving the assignments as overly time-consuming and disconnected from class topics.",
+    "summary_comment_short": "Professor Headley is known for his rigorous and demanding approach, with heavy reliance on frequent written assignments and tight deadlines. While students appreciate the challenge and improvement in their writing skills, they find his grading strict and the workload overwhelming.",
     "Ratings": [
       {
         "index": 1,
@@ -353,6 +2477,8 @@
     "lastName": "Irish",
     "legacyId": 2470324,
     "numRatings": 2,
+    "summary_comment": "Professor Irish provides thorough feedback on writing assignments and is accessible for additional help, though his class can be challenging and dry. Students find it demanding and not suitable for those seeking an easy grade, yet they improve significantly over time.",
+    "summary_comment_short": "Professor Irish provides thorough feedback on writing assignments and is accessible for additional help, though his classes are challenging and not recommended for those seeking an easy grade. He expects high standards and can be harsh with grading, making his General Education classes demanding and less suitable for students looking for an easy writing course.",
     "Ratings": [
       {
         "index": 1,
@@ -369,550 +2495,50 @@
         "course": "PUBAFFAIRS2367"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Public Policy",
-    "firstName": "Daniel",
-    "id": "VGVhY2hlci0yNDE0MzQ1",
-    "lastName": "Baker",
-    "legacyId": 2414345,
-    "numRatings": 1,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Daniel is a phenomenal instructor. He provides invaluable feedback and will go the extra mile to make sure that you actually learn and develop your writing skills in his class. The classroom environment is incredible.",
-        "course": "PUBAFRS2367"
+        "Subject": "PUBAFRS",
+        "Catalog": "2120",
+        "Class Name": "Public Service and Civic Engagement",
+        "Class Number": "5826",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3500",
+        "Class Name": "Public Management",
+        "Class Number": "5830",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6000",
+        "Class Name": "Public Policy Formulation and Implementation",
+        "Class Number": "6194",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.47"
       }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Public Policy",
-    "firstName": "William",
-    "id": "VGVhY2hlci0yNDI5MjU4",
-    "lastName": "Ashley",
-    "legacyId": 2429258,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This class is very structured and I really liked that. You always know what you're supposed to do and exactly what is going on. Lots of writing assignments, but they're all short and you end up with a portfolio of writing samples at the end of the semester. A great professor and just an all-around great person.",
-        "course": "PUBAFRS2367"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "William's lectures were organized extremely well and he was always very clear. The class is set up so that you end up with a portfolio of writing samples at the end of the class so it is a lot of writing. Overall, I loved this class and William as a professor. He's super cool and easy-going. A great teacher and class.",
-        "course": "PUBAFRS2367"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Public Policy",
-    "firstName": "Mark",
-    "id": "VGVhY2hlci0zMDg2Mzg4",
-    "lastName": "Gaspar",
-    "legacyId": 3086388,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Prof G was very nice and definitely cared about the subject he was teaching. He left positive notes on each assignment. This class is simple if you do all the homework, which isn't hard. The rubrics are super clear. There are a lot of readings, but you only have to understand the main idea. I highly recommend this class to public affairs students. ",
-        "course": "PUBAFRS5545"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.1,
-    "avgRating": 2.5,
-    "department": "Public Policy",
-    "firstName": "Caroline",
-    "id": "VGVhY2hlci0xNzAwNzM5",
-    "lastName": "Wagner",
-    "legacyId": 1700739,
-    "numRatings": 16,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Dropped the class in week 3. This woman was the reason I changed my specialization to something else for OSU's MPAL program. She isn't clear on assignments. Will re-grade but set the tone with you can get a lower grade than your initial grade if I do this. People averaged 60% on assignments. She complained about the complaints. Worst professor.",
-        "course": "PUB7910"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Very knowledgeable expert but inefficient teacher. Assignments are often shortly communicated and there's frequent course page errors. Class feels disjointed and surface level but a decent introduction to policy analysis and public speaking.",
-        "course": "PUBAFR2367"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Horrible ",
-        "course": "PA2130"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr. Wagner is a bit eccentric and that's about the worst thing about her. She is a great professor that know their material and really cares. If you have to take this or any course she's the professor to go to. During the COVID19 virtual transition she was more than understanding, accommodating and helpful. A real gem.",
-        "course": "PUBAFRS2130"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Dr. Wagner's class is boring and her tests are hard in that they do not cover material from her lectures/presentations. Instead, she generates tests based off of 2 books that she barely bothers to refer to in any of her lectures. She is very unclear on expectations from assignments and grades very hard. Unnecessarily hard class but a qualified prof",
-        "course": "PUBAFRS2130"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Caroline has more qualifications than any professor you'll meet. She genuinely cares about her students and will help out whenever she can. Lectures are long and boring but it's an easy A course and you'll learn real-life information.",
-        "course": "PUBAFRS2130"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Professor Wagner is so awesome. She is brilliant, and she really cares about her students. She is also, however, a bit scatter-brained, and she has a tendency to be incredibly unclear about exactly what she wants on tests and in papers. But if you talk to her, she will work really hard to help you out. She sends a ton of email reminders too!",
-        "course": "PUBAFRS2130"
-      },
-      {
-        "index": 8,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Honestly, she's pretty middle-of -the-road. She's definitely passionate about her work and does a good job of getting students to think for themselves. I think a reason she may come across as unorganized or unclear is that the subject matter is all qualitative. This is a course on leadership theory, so don't expect hard and fast rules.",
-        "course": "PUBAFRS2130"
-      },
-      {
-        "index": 9,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Lectures are the longest 60 - 90 minutes of your life, all straight out of the driest book in the world. She is disorganized, unhelpful, and extremely inconsistent. Be very careful on your assignments. Study your book-- sometimes you literally should know it word for word.",
-        "course": "2130"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Professor Wagner is passionate about her work, and has extensive experience that is both impressive & helpful, especially if you are taking this class for the major. It wasn't my favorite PA class, but she grades pretty easily.  If the TA grades & you disagree w/ your grade, she will regrade.  She is unorganized though, but didn't effect my grade.",
-        "course": "PA2130"
-      },
-      {
-        "index": 11,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "Extremely unorganized and repetitive. Attendance is mandatory but there really is no point in going to class. She seems genuinely interested in Leadership but is not great at teaching it. Does not reply to emails. Not clear on grading for class project. If you want to set up an appt with her outside of class, forget it. Does not reply to emails.",
-        "course": "PA2130"
-      },
-      {
-        "index": 12,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Long lecture format for class. Lecture slides are online, but readings from assigned books are also required. Class discussion can be interesting. Group projects towards the end of the year are more fun. Midterm and finals are info straight from class.",
-        "course": "PUBAFRS2130"
-      },
-      {
-        "index": 13,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Very unorganized. Seems extremely left of the road. Does not respond to emails.",
-        "course": "PA2130"
-      },
-      {
-        "index": 14,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Extremely unorganized. She is the worst professor I have had in my four years of college.",
-        "course": "PA2130"
-      },
-      {
-        "index": 15,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Very confused, unhelpful, unresponsive and unpredictable professor. Avoid her class if you can. She is the worst.",
-        "course": "PUB7910"
-      },
-      {
-        "index": 16,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Has real world experience, good class",
-        "course": "PUBAF678"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 4.9,
-    "department": "Public Policy",
-    "firstName": "Judith",
-    "id": "VGVhY2hlci0yODY3Nzk0",
-    "lastName": "Zimomra",
-    "legacyId": 2867794,
-    "numRatings": 8,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "One of the best professors I've had. She is very understanding and will grant extensions if needed. Participation is a big part of the class and papers are a big part of the grade. This class challenged me in a good way. I am a better writer and public speaker because of Professor Zimomra.",
-        "course": "PUBAFRS-2367"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Zimomra's Capstone course was my favorite class I took at OSU. The class isn't easy, but I learned more from it than most of my undergrad classes combined. She is extremely knowledgeable & passionate about Public Affairs & gave amazing personalized feedback. The writing/research skills I learned from her course have helped me a ton in my career",
-        "course": "PUBAFRS-2367"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Professor Zimomra was amazing!",
-        "course": "PUBAFRS-2367"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She was excellent. Great lectures, with the requirement of student engagement in just about each class. Thought provoking assignments that may take time, but she offers great feedback and allows you to submit until you get the grade you want. No quizzes/test. Very accessible outside of class. Truly wants you to succeed both in her course and life.",
-        "course": "PUBAFRS-2367"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "This course had nine writing assignments throughout the semester, some short and some long. Each class had a group exercise. Prof gives good feedback if things are turned in early and gives you the option to revise each assignment after grading has been released. ",
-        "course": "PUBAFRS-2367"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Instructor Zimomra was one of the best professors I have had at OSU. She is dedicated to helping all of her students, and while the class is writing-heavy, she is lenient on assignment dates, gives you class time to work on papers, is very clear with instructions, and reviews your drafts with you to ensure you get a good grade. ",
-        "course": "PUBAFRS-2367"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Zimomra does everything in her power to make sure that you get an A as long as you put the effort in. She makes herself available to give feedback on every single assignment and is constantly giving advice for improvement on your communication skills. Although she can come off as intimidating, she is an incredible and caring professor!",
-        "course": "PUBAFRS-2367"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I had Professor Zimomra for Public Affairs 2367 and she was awesome. Very experienced in the public sector and acts like a coach when giving you advice on how to improve your communication skills. The class was not too difficult and even though attendance was a big part of the grade the lectures were always engaging. ",
-        "course": "PUBAFRS-2367"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.4,
-    "avgRating": 2.7,
-    "department": "Public Policy",
-    "firstName": "Edward",
-    "id": "VGVhY2hlci0yMjk0MjU2",
-    "lastName": "Hill",
-    "legacyId": 2294256,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Weekly paper due, lectures with posted slideshows every day for class, attendance is graded, exams aren't hard but will affect your grade a lot. ",
-        "course": "PUBAFRS2110"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "If you are taking this class I would take it with another professor, I've heard the other professor usually has higher grade averages for the tests. He is super knowledgeable but lectures are dense and he goes on tangents a lot. Tests are in person and pretty specific so you have to study a lot. Homeworks saved my grade.",
-        "course": "PUBAFRS2110"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Even though the class is 3 credit hours you're basically hearing these same discussion points 5 hours of the week. Regularly goes over time and goes off into specific tangents that are literally no help. I found myself almost waiting for class to end all the time and zoning out. Quizzes were pretty specific so it required full attention though :/",
-        "course": "PUBAFRS2110"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "I took this class hybrid with lectures online and in-person recitation. The recitation was fine, but the lectures were the absolute worst. They supposed to be about an hour-long but almost all of them ended up being at least two. He doesn't really stay on topic and he talks so incredibly slow that even putting it on 2x speed is still too slow.",
-        "course": "PUBAFRS2110"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "I took this class AU20 and it was SO disorganized. Long lectures were posted late many times, which was disrespectful to my time. I don't feel that I got much out of this class. I am super grateful for the TA helping us out. Hopefully this class will be better online in the future because the lectures are recorded now.",
-        "course": "PUBAFRS2110"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Despite his clear enthusiasm for what he is teaching, I dreaded coming to his class every week. There are no projects or papers- the only grades you will receive are for attendance, lecture summaries, and exams. Unless you are a public affairs major and are required to take this course, do yourself a favor and don't. Huge waste of time.",
-        "course": "PUBAFRS2110"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Really gets into the topics but I feel like sometimes he forgets that it is just an intro class and will use very specific and detail oriented examples that only the mayor of the city he is talking about would even kind of understand what he is referencing",
-        "course": "PUBAFRS2110"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.2,
-    "avgRating": 3.7,
-    "department": "Public Policy",
-    "firstName": "Joseph",
-    "id": "VGVhY2hlci0yNDI5Mjgw",
-    "lastName": "Henry",
-    "legacyId": 2429280,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "So many homework",
-        "course": "PUBAFFRS2120"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Joe was not a terrible professor. The class was not too hard but there are three papers, which he can be nitpicky about. Also, he has everything due by the time class starts instead of 11:59pm, which is kind of annoying. However, everything else in the class is easy. Quizzes were online and had unlimited attempts. I got over 100% on the exams.",
-        "course": "PA2120"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Good professor. Cares and puts a lot of effort into teaching.",
-        "course": "PA2120"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Joe was a great professor. He really cared about his students and put lots of effort into his class. He make sure to mix it up so it was not 90 min of lecture. Readings were not bad and the workload was reasonable. BIG fan of Joe and his dry wit.",
-        "course": "PA2120"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "First zoom class I took that required cameras on and attendance, but I truly enjoyed lecture. I dont think Ive ever gotten more out of a course (and Im a senior). Definitely recommend taking a class with Joe, he has such clear expectations and wants you to succeed (and gives you everything you need to do so)",
-        "course": "PUBAFRS2110"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Okay prof but you can tell he's full of himself. Puts a lot of weight on the class so if you're not super passionate about public affairs it might give you the ick. Annoying grading because he focuses so much on writing instead of content. Made us keep cameras on in lecture for attendance, very annoying. It's literally the bottom of all PA classes.",
-        "course": "PUBAFRS2110"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Public Affairs 2110 was one of the most flexible and enjoyable classes I had this semester. Professor Henry was very flexible with all of the extenuating circumstances with COVID/the basic difficulties of online learning. There are 3 tests, extremely fair with very helpful study guides. There are also weekly current events reflections. Great class!",
-        "course": "PA2110"
-      },
-      {
-        "index": 8,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Grades harder for 2000 level courses than any of my higher level classes. If you care about your GPA beware.",
-        "course": "PA2120"
-      },
-      {
-        "index": 9,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "The content of the class was very interesting but the professor was extremely boring. If you missed your coffee one morning don't bother coming because you will fall asleep. He's pretty young and tries to make the class fun but his extreme monotone demeanor makes it hard to focus. My advice? Come prepared, read the books and lectures beforehand",
-        "course": "PUBAFFRS2120"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 1,
-    "department": "Public Policy",
-    "firstName": "Desiree",
-    "id": "VGVhY2hlci0yOTIyMTU3",
-    "lastName": "Tims",
-    "legacyId": 2922157,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "If you want an easyish grader and resume booster, then take this class. But you will be dealing with an uncommunicative professor that will not respect your time/work. You will work on assignments and never get feedback/know if they were actually used. The structure sucks and you will feel like you worked hard for nothing after the semester ends.",
-        "course": "WGSST3385"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I took WGSST 3385, which is an internship course taught by women in legislature.  Prof Tims is one of the most UNCOMMUNICATIVE professors I've ever had--she doesn't clearly outline her grading criteria, yet grades harshly on small things such as formatting.  She is difficult to contact outside of class, and hostile to clarification questions.",
-        "course": "WGSST3385"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.4,
-    "avgRating": 2.9,
-    "department": "Public Policy",
-    "firstName": "Timothy",
-    "id": "VGVhY2hlci0yNjI1MTQ0",
-    "lastName": "Jaquet",
-    "legacyId": 2625144,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "He was fine, but doing well was honestly hard. I had a bad group for one project and he wasn't really willing to consider that, and there were very few opportunities to gain points. The class content sort of felt messy and all over the place. He was very nice and I chatted with him outside of class a couple of times, just a tough grader.",
-        "course": "AEDE2580"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Tim is a good professor but an absolutely horrible grader. He is very judgmental of the way students word their papers and will often deduct points for very small errors. When asking for help, he can be very unclear about what you need to do and often says things that are not helpful at all. He has a very high ego and has his favorites. Sus assess",
-        "course": "AEDE2580"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Tim is very passionate about both the material and the current events surrounding the material. Due to the mask mandate being lifted and some minor friction surround immunocompromised students, the class was online after spring break. Tim got right back with the material after just 1 lecture. He did cancel around 5 classes throughout the semester.",
-        "course": "AEDE2580"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Had Tim for 2 classes and thoroughly enjoyed his classes. Content can be hard but I went to office hours and he was willing to help and listen to the class. Overall would take another class with him again.",
-        "course": "AEDE3103"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Professor Jaquet was clearly passionate about the subject and teaching, but definitely inexperienced. His lectures were confusing and he often assumed we knew more than we did. He was willing to help and offer feedback, and he graded pretty fairly, but compared to the rest of the Glenn College, not sure he stacked up.",
-        "course": "PA3000"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Not a bad guy but definitely not up to par with the other public affairs professors I've had. He acts as though most topics are common knowledge and doesn't give many explanations. Expectations for assignments were unclear and deadlines got moved around a lot which made things more confusing. Also seemed unsure about the material at times.",
-        "course": "PA3000"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "First of all, he seems like a really nice person and interested in the topic. However, hes the kind of professor who is so deep into his own knowledge that he fails to understand students are not at his level. So many topics are breezed through as if we are taking a review course, not actively learning for the first time.",
-        "course": "PUBAFRS3000"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.3,
-    "avgRating": 4.3,
-    "department": "Public Policy",
-    "firstName": "Kim",
-    "id": "VGVhY2hlci0yMzMwOTU3",
-    "lastName": "Young",
-    "legacyId": 2330957,
-    "numRatings": 6,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Best professor I have ever had. Although some content is difficult, she will do anything to help you understand. Take a class with Dr. Young if you can, you wont regret it",
-        "course": "PUBAFRS4310"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I loved Dr. Young. The class is lots of reading/lectures, but she's clear in lectures and offers multiple ways to learn. Even while asynchronous, there was lots of practice before exams, and she holds tons of study sessions. She offers decent amounts of extra credit that are largely effort-based. The tests and quizzes are a time crunch for sure.",
-        "course": "PA4310"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "State and Local Gov Finance can be difficult. You definitely need to take good notes and study for the tests. The lectures can also be sometimes boring. However, she is a great teacher who cares a lot about the subject and about her students. She is great to talk to in Office Hours and knows what she is talking about. Also great with extra credit!",
-        "course": "PA4310"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Online class is horrible. You have two assignments due every week in addition to an insane amount of lecture. She made three assignments due Thanksgiving and the week of finals, which was one day later.",
-        "course": "PUBAFF6030"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "I can't say enough good things about Dr. Young. She is so funny and sweet and understanding but also commands so much respect, and has so much knowledge. She did her PhD here, and really cares about her students and the college. She is fantastic, doesn't show her political leaning, and knows how to teach well, even if you don't understand econ.",
-        "course": "PA4310"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr. Young is the best professor I've had so far in the Glenn College. She works hard to connect what we're learning in class to real life. The lessons are very straight forward, and if you go to class it's not difficult to predict what will be on tests. On top of that, she offers a ton of extra credit!",
-        "course": "PUBAFRS4310"
-      }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -923,6 +2549,8 @@
     "lastName": "Kemper",
     "legacyId": 2960626,
     "numRatings": 2,
+    "summary_comment": "Professor Kemper offers open-note take-home exams and emphasizes group work and weekly one-page paper reflections on current events. Her lectures, while informative, are described as boring and fast-paced, with a focus on slide reading and occasional confusing terminology. Despite this, she is considered nice and provides minimal extra-credit opportunities.",
+    "summary_comment_short": "Professor Kemper offers open-note take-home exams and emphasizes group work and weekly reflections on current events. Her lectures are described as boring and fast-paced, though she provides minimal personal interaction with students.",
     "Ratings": [
       {
         "index": 1,
@@ -939,7 +2567,36 @@
         "course": "PUBAFRS2110"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "35799",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2110",
+        "Class Name": "Introduction to Public Affairs",
+        "Class Number": "6294",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.42"
+      }
+    ]
   },
   {
     "avgDifficulty": 1,
@@ -950,6 +2607,8 @@
     "lastName": "Brown",
     "legacyId": 2760884,
     "numRatings": 2,
+    "summary_comment": "Professor Brown is highly regarded for her effective teaching and caring approach, making her classes notably easy and enjoyable. She is known for her prompt responsiveness to student inquiries and her energy in the classroom, ensuring that students understand the necessary material. Her minimal homework load allows students to complete assignments early, contributing to a balanced academic experience.",
+    "summary_comment_short": "Professor Brown is known for her sweet and caring demeanor, making her students feel valued. Her classes are generally considered easy with minimal homework, allowing students to complete most coursework early in the semester.",
     "Ratings": [
       {
         "index": 1,
@@ -966,7 +2625,120 @@
         "course": "PUBAFRS1100"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "1100",
+        "Class Name": "Public Affairs Advising Survey",
+        "Class Number": "5827",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "31",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "1100",
+        "Class Name": "Public Affairs Advising Survey",
+        "Class Number": "5904",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "1100",
+        "Class Name": "Public Affairs Advising Survey",
+        "Class Number": "5884",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "15",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "1100",
+        "Class Name": "Public Affairs Advising Survey",
+        "Class Number": "5908",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "1100",
+        "Class Name": "Public Affairs Advising Survey",
+        "Class Number": "35640",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "1100",
+        "Class Name": "Public Affairs Advising Survey",
+        "Class Number": "6286",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "1100",
+        "Class Name": "Public Affairs Advising Survey",
+        "Class Number": "6350",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "1100",
+        "Class Name": "Public Affairs Advising Survey",
+        "Class Number": "6443",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -977,6 +2749,8 @@
     "lastName": "Gules-Guctas",
     "legacyId": 3083906,
     "numRatings": 1,
+    "summary_comment": "Professor Gules-Guctas is known for delivering a straightforward and accessible course, making it an easy option for students looking to meet their citizenship for a just world general education requirement. His teaching style is clear and comprehensive, facilitating a smooth learning experience for all students.",
+    "summary_comment_short": "Professor Gules-Guctas is known for delivering an easy class that primarily helps students fulfill their General Education requirements, particularly those needing credits for a just world. Students find the course approachable and manageable in terms of workload and difficulty.",
     "Ratings": [
       {
         "index": 1,
@@ -986,7 +2760,36 @@
         "course": "36224"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4510",
+        "Class Name": "Law and Public Affairs",
+        "Class Number": "36926",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "7960",
+        "Class Name": "Capstone: Information Management",
+        "Class Number": "36682",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.29"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.3,
@@ -997,6 +2800,8 @@
     "lastName": "Lepere-Schloop",
     "legacyId": 2416278,
     "numRatings": 3,
+    "summary_comment": "Professor Lepere-Schloop is highly respected for her commitment to student well-being and understanding. Her classes emphasize meaningful, professional development through substantial assignments, including a significant semester-long paper. While some find her lectures less engaging and the initial workload demanding, she is dedicated to her students' success.",
+    "summary_comment_short": "Professor Lepere-Schloop is highly respected for her dedication to student well-being and professional development, with a curriculum centered around meaningful, impactful assignments including a comprehensive semester-long paper. Students appreciate the challenging yet rewarding nature of her course, though some find the workload demanding and the grading rigorous.",
     "Ratings": [
       {
         "index": 1,
@@ -1020,7 +2825,218 @@
         "course": "PUBAFFRS3500"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3500",
+        "Class Name": "Public Management",
+        "Class Number": "34267",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.54"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6060",
+        "Class Name": "Managerial Leadership in Public and Nonprofit Organizations",
+        "Class Number": "5925",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6060",
+        "Class Name": "Managerial Leadership in Public and Nonprofit Organizations",
+        "Class Number": "5679",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6060",
+        "Class Name": "Managerial Leadership in Public and Nonprofit Organizations",
+        "Class Number": "5763",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3500",
+        "Class Name": "Public Management",
+        "Class Number": "5880",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6060",
+        "Class Name": "Managerial Leadership in Public and Nonprofit Organizations",
+        "Class Number": "5903",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3500",
+        "Class Name": "Public Management",
+        "Class Number": "5774",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6060",
+        "Class Name": "Managerial Leadership in Public and Nonprofit Organizations",
+        "Class Number": "5705",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3500",
+        "Class Name": "Public Management",
+        "Class Number": "6261",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6060",
+        "Class Name": "Managerial Leadership in Public and Nonprofit Organizations",
+        "Class Number": "6281",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "8040",
+        "Class Name": "Seminar in Organizational Theory",
+        "Class Number": "36525",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3500",
+        "Class Name": "Public Management",
+        "Class Number": "6422",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6060",
+        "Class Name": "Managerial Leadership in Public and Nonprofit Organizations",
+        "Class Number": "6439",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3500",
+        "Class Name": "Public Management",
+        "Class Number": "6232",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "8040",
+        "Class Name": "Seminar in Organizational Theory and Behavior",
+        "Class Number": "6366",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      }
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -1031,6 +3047,8 @@
     "lastName": "Holley",
     "legacyId": 2769434,
     "numRatings": 4,
+    "summary_comment": "Professor Holley, known as Kip, has mixed reviews; while some students appreciate his relaxed demeanor and find the class concepts engaging despite monotonous lectures, others criticize his tardiness, lack of professional background, and boring teaching style. His grading methods, including reliance on external graders, and the low engagement in class discussions further contribute to the negative perception among many students.",
+    "summary_comment_short": "Professor Holley's teaching style varies; while some students find his approachable and engaging, others describe his lectures as monotonous and boring. Overall, feedback is mixed, with criticism focusing on his tardiness, lackluster preparation, and reliance on external graders for assessments.",
     "Ratings": [
       {
         "index": 1,
@@ -1061,7 +3079,50 @@
         "course": "2120"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2120",
+        "Class Name": "Public Service and Civic Engagement",
+        "Class Number": "5696",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "3.71"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2120",
+        "Class Name": "Public Service and Civic Engagement",
+        "Class Number": "6471",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "2120",
+        "Class Name": "Public Service and Civic Engagement",
+        "Class Number": "37316",
+        "Term": "SP 24",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.31"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.3,
@@ -1072,6 +3133,8 @@
     "lastName": "Gajary",
     "legacyId": 2181908,
     "numRatings": 3,
+    "summary_comment": "Professor Gajary is highly regarded for her exceptional teaching quality, characterized by clear organization, abundant extra credit opportunities, and a strong commitment to student success. She consistently receives praise for her responsiveness, encouragement, and willingness to provide additional support, making her classes particularly recommended.",
+    "summary_comment_short": "Professor Gajary is highly regarded for her exceptional teaching quality, evident in her clear class structure, availability for extra help, and frequent offer of extra credit. Students appreciate her encouragement, constructive feedback, and willingness to assist, though some find the class content less engaging.",
     "Ratings": [
       {
         "index": 1,
@@ -1095,6 +3158,91 @@
         "course": "PUBAFRS2110"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "6055",
+        "Class Name": "Judgment in Managerial Decision-Making",
+        "Class Number": "22544",
+        "Term": "SU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.53"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4010",
+        "Class Name": "Public Affairs Decision-Making",
+        "Class Number": "5802",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.47"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4010",
+        "Class Name": "Public Affairs Decision-Making",
+        "Class Number": "5823",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4010",
+        "Class Name": "Public Affairs Decision-Making",
+        "Class Number": "6186",
+        "Term": "AU 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4010",
+        "Class Name": "Public Affairs Decision-Making",
+        "Class Number": "6115",
+        "Term": "SP 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "4010",
+        "Class Name": "Public Affairs Decision-Making",
+        "Class Number": "6352",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.17"
+      }
+    ]
   }
 ]

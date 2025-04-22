@@ -8,6 +8,8 @@
     "lastName": "McCoy",
     "legacyId": 996439,
     "numRatings": 17,
+    "summary_comment": "Professor McCoy is known for providing comprehensive resources, including detailed lecture videos and a self-contained PDF textbook, making the class fairly easy to pass. His lectures, while thorough and organized, are often described as dry and monotonous, with some students finding them challenging to stay engaged with unless they are highly invested in the material. Despite this, Professor McCoy is praised for being friendly and helpful, and many students find the class structure clear and consistent, though they suggest enhancing engagement through more interactive teaching methods.",
+    "summary_comment_short": "Professor McCoy offers a comprehensive and detailed curriculum, providing extensive lecture videos and supplementary materials such as a self-authored textbook in PDF format. His teaching approach is thorough and structured, though some find his lectures dry and monotonous, preferring to use speed-up features or rely on online resources for engagement.",
     "Ratings": [
       {
         "index": 1,
@@ -140,6 +142,8 @@
     "lastName": "Fineran",
     "legacyId": 1070588,
     "numRatings": 13,
+    "summary_comment": "Professor Fineran is highly regarded for her exceptional teaching and supportive approach, with many students praising her consideration and accessibility. She is described as passionate, inspiring, and easy-going, and is noted for providing ample resources and clear expectations for her courses. However, some students find her lectures overwhelming due to the extensive amount of material covered, which can make note-taking challenging.",
+    "summary_comment_short": "Professor Fineran is highly regarded for her exceptional teaching and supportive approach, often described as considerate, inspiring, and passionate about her subject matter. Students appreciate her clear expectations, extensive resources, and willingness to help, though some find her fast-paced lectures challenging without adequate note-taking assistance.",
     "Ratings": [
       {
         "index": 1,
@@ -233,6 +237,147 @@
         "course": "ENR601"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ENR",
+        "Catalog": "5211",
+        "Class Name": "International Environmental Impact Assessment",
+        "Class Number": "32372",
+        "Term": "SP 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Sch of Enviro&Natural Res",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "37",
+        "Rating": "4.81"
+      },
+      {
+        "Subject": "ENR",
+        "Catalog": "5211",
+        "Class Name": "International Environmental Impact Assessment",
+        "Class Number": "32373",
+        "Term": "SP 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Sch of Enviro&Natural Res",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ENR",
+        "Catalog": "5210",
+        "Class Name": "US Environmental Impact Assessment",
+        "Class Number": "27421",
+        "Term": "AU 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Sch of Enviro&Natural Res",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ENR",
+        "Catalog": "5210",
+        "Class Name": "US Environmental Impact Assessment",
+        "Class Number": "27422",
+        "Term": "AU 21",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Sch of Enviro&Natural Res",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "48",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "ENR",
+        "Catalog": "5211",
+        "Class Name": "International Environmental Impact Assessment",
+        "Class Number": "9720",
+        "Term": "SP 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Sch of Enviro&Natural Res",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "34",
+        "Rating": "4.53"
+      },
+      {
+        "Subject": "ENR",
+        "Catalog": "5211",
+        "Class Name": "International Environmental Impact Assessment",
+        "Class Number": "9721",
+        "Term": "SP 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Sch of Enviro&Natural Res",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "14",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "ENR",
+        "Catalog": "5210",
+        "Class Name": "US Environmental Impact Assessment",
+        "Class Number": "35047",
+        "Term": "AU 22",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Sch of Enviro&Natural Res",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "ENR",
+        "Catalog": "5211",
+        "Class Name": "International Environmental Impact Assessment",
+        "Class Number": "32628",
+        "Term": "SP 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Sch of Enviro&Natural Res",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "ENR",
+        "Catalog": "5210",
+        "Class Name": "US Environmental Impact Assessment",
+        "Class Number": "34599",
+        "Term": "AU 23",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Sch of Enviro&Natural Res",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "ENR",
+        "Catalog": "5211",
+        "Class Name": "International Environmental Impact Assessment",
+        "Class Number": "33443",
+        "Term": "SP 24",
+        "College": "Food, Agric & Environ Science",
+        "Department": "Sch of Enviro&Natural Res",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      }
+    ]
   }
 ]

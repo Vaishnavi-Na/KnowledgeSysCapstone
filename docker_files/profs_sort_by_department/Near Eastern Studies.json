@@ -8,6 +8,8 @@
     "lastName": "Estiri",
     "legacyId": 1999814,
     "numRatings": 13,
+    "summary_comment": "Professor Estiri is highly regarded for his engaging and enjoyable teaching style, making even challenging topics like folklore accessible and interesting. Students appreciate his laid-back demeanor, fairness in grading, and ability to foster an interactive classroom environment where opinions are valued. His classes are generally easy with no midterms or finals, focusing instead on quizzes, discussions, and a final project that allows for creative exploration.",
+    "summary_comment_short": "Professor Estiri is highly regarded for his engaging and enjoyable teaching style, making even challenging topics like folklore accessible and interesting. Students consistently praise his fairness, laid-back demeanor, and ability to foster a fun and participatory classroom environment.",
     "Ratings": [
       {
         "index": 1,
@@ -104,26 +106,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Near Eastern Studies",
-    "firstName": "Trisha",
-    "id": "VGVhY2hlci0yMzY3NzU2",
-    "lastName": "Myers",
-    "legacyId": 2367756,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Not sure how long Trisha will be here or if shes still teaching any classes but if by chance you get her as an instructor or TA shes amazing. I had her as an instructor for 3205 NELC and she did not disappoint. She knows her stuff and gives her lectures with passion. I wish I could take another class from her because she was a great instructor.",
-        "course": "NELC3205"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.3,
     "avgRating": 3.3,
     "department": "Near Eastern Studies",
@@ -132,6 +114,8 @@
     "lastName": "Anthony",
     "legacyId": 2099567,
     "numRatings": 11,
+    "summary_comment": "Professor Anthony is widely regarded as knowledgeable and engaging, with many students praising his interesting and entertaining lectures. However, his teaching style and assessments are polarizing, with some finding his lectures challenging and the workload demanding, while others appreciate the depth of content and the opportunity for critical thinking. Overall, his effectiveness as a teacher varies significantly among students.",
+    "summary_comment_short": "Professor Anthony is highly regarded for his knowledge and engaging lectures, though some students find his classes demanding with extensive reading and frequent pop quizzes. His teaching style and depth of knowledge are appreciated, but opinions vary regarding the fairness of assessments and the overall course structure.",
     "Ratings": [
       {
         "index": 1,
@@ -211,7 +195,218 @@
         "course": "ARABIC3601"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ARABIC",
+        "Catalog": "3705",
+        "Class Name": "A Thousand and One Nights: Storytelling in Arabic and World Literature",
+        "Class Number": "36658",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "7602",
+        "Class Name": "Studies in Arabic Prose",
+        "Class Number": "30191",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "3705",
+        "Class Name": "A Thousand and One Nights: Storytelling in Arabic and World Literature",
+        "Class Number": "23307",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "8892",
+        "Class Name": "Studies in Arabic Philosophy",
+        "Class Number": "36518",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "3705",
+        "Class Name": "A Thousand and One Nights: Storytelling in Arabic and World Literature",
+        "Class Number": "28720",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "3601",
+        "Class Name": "Introduction to Arabic Philosophy",
+        "Class Number": "37613",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ARABIC",
+        "Catalog": "3705",
+        "Class Name": "A Thousand and One Nights: Storytelling in Arabic and World Literature",
+        "Class Number": "28345",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "HISTORY",
+        "Catalog": "2351",
+        "Class Name": "Early Islamic Society, 610-1258",
+        "Class Number": "36692",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "History",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "HISTORY",
+        "Catalog": "3355",
+        "Class Name": "The Early Islamic Conquests (CE 630-750)",
+        "Class Number": "34385",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "History",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "HISTORY",
+        "Catalog": "2351",
+        "Class Name": "Early Islamic Society, 610-1258",
+        "Class Number": "36222",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "History",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "3501",
+        "Class Name": "Introduction to Islam",
+        "Class Number": "25698",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "5125",
+        "Class Name": "Syriac I",
+        "Class Number": "36250",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "5101",
+        "Class Name": "Introduction to the Field of Near Eastern Languages & Cultures",
+        "Class Number": "24329",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "7501",
+        "Class Name": "Narratives of Origin: The Islamic Tradition",
+        "Class Number": "37681",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "5101",
+        "Class Name": "Introduction to the Field of Near Eastern Languages & Cultures",
+        "Class Number": "36460",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.3,
@@ -222,6 +417,8 @@
     "lastName": "Steele",
     "legacyId": 2650467,
     "numRatings": 3,
+    "summary_comment": "Professor Steele is highly regarded for her effective teaching methods, making online Turkish classes engaging and manageable. Students find her approachable and supportive, often comparing her to a friend rather than just a professor. Her classes are generally easy with minimal homework, provided students stay engaged and seek clarification when needed.",
+    "summary_comment_short": "Professor Steele is highly regarded for her effective teaching methods, making online Turkish classes engaging and manageable with minimal homework. Her approachable and friendly demeanor, akin to that of a mentor, enhances the learning experience significantly.",
     "Ratings": [
       {
         "index": 1,
@@ -245,47 +442,148 @@
         "course": "TURKISH1101"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 5,
-    "department": "Near Eastern Studies",
-    "firstName": "Nada",
-    "id": "VGVhY2hlci0yMTM1MzMw",
-    "lastName": "Moumtaz",
-    "legacyId": 2135330,
-    "numRatings": 1,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Nada really makes an effort to get students to understand the content. The textbook is very easy to digest; supplementary books were quick to read and really left an impression. She focuses on concepts and circles back around to them often. If you read and answer study questions before class like she asks, you will be solid on quizzes and exams.",
-        "course": "INTSTDS2200"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 5,
-    "avgRating": 4,
-    "department": "Near Eastern Studies",
-    "firstName": "Joe",
-    "id": "VGVhY2hlci0yMDEyMzMy",
-    "lastName": "Price",
-    "legacyId": 2012332,
-    "numRatings": 1,
-    "Ratings": [
+        "Subject": "NELC",
+        "Catalog": "2244",
+        "Class Name": "Films of the Middle East",
+        "Class Number": "23380",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4"
+      },
       {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "I took the \"Mythology of Ancient Egypt and Mesopotamia\" expecting it to be fun, interesting, and pretty easy. WRONG. There are daily quizzes over homework (about 2-4 hours worth a night), a paper due, and the exams are graded very harshly and are all short answerfill in the blank. DO NOT TAKE THIS CLASS. YOU WILL REGRET IT. IT WAS A NIGHTMARE. ",
-        "course": "NELC3700"
+        "Subject": "TURKISH",
+        "Catalog": "1101",
+        "Class Name": "Elementary Turkish I",
+        "Class Number": "20058",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1103",
+        "Class Name": "Intermediate Turkish I",
+        "Class Number": "34221",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1102",
+        "Class Name": "Elementary Turkish II",
+        "Class Number": "20180",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1101",
+        "Class Name": "Elementary Turkish I",
+        "Class Number": "18082",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1102",
+        "Class Name": "Elementary Turkish II",
+        "Class Number": "14308",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1101",
+        "Class Name": "Elementary Turkish I",
+        "Class Number": "21811",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1103",
+        "Class Name": "Intermediate Turkish I",
+        "Class Number": "27568",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1101",
+        "Class Name": "Elementary Turkish I",
+        "Class Number": "24364",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.33"
+      },
+      {
+        "Subject": "TURKISH",
+        "Catalog": "1102",
+        "Class Name": "Elementary Turkish II",
+        "Class Number": "20820",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Near East S Asian Lang/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
       }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 1.4,
@@ -296,6 +594,8 @@
     "lastName": "Schaffner",
     "legacyId": 1811895,
     "numRatings": 8,
+    "summary_comment": "Professor Schaffner is highly regarded for his engaging and humorous teaching style, making even challenging material accessible through clear explanations and comprehensive slides. He is strict about timely submissions and attendance but is known for being a generous grader, often allowing students to excel with minimal effort beyond showing up and participating. Students consistently recommend his classes due to his expertise and enjoyable\u6388\u8bfe\u8d28\u91cf\u6781\u9ad8\uff0c\u65bd\u7eb3\u5c14\u6559\u6388\u4ee5\u5176\u751f\u52a8\u5e7d\u9ed8\u7684\u6559\u5b66\u98ce\u683c\u8457\u79f0\uff0c\u80fd\u591f\u901a\u8fc7\u6e05\u6670\u7684\u8bb2\u89e3\u548c\u8be6\u5c3d\u7684\u5e7b\u706f\u7247\u5c06\u590d\u6742",
+    "summary_comment_short": "Professor Schaffner is highly regarded for his engaging and humorous teaching style, making complex material accessible. Students find his classes easy with opportunities for extra credit and minimal difficulty in obtaining high grades through diligent participation and preparation.",
     "Ratings": [
       {
         "index": 1,
@@ -365,6 +665,8 @@
     "lastName": "Buzov",
     "legacyId": 1054616,
     "numRatings": 9,
+    "summary_comment": "Professor Buzov is highly regarded for her knowledge and approachability, with many students praising her as a \"sweetheart\" and an excellent teacher who encourages engagement through discussions and pop quizzes. However, her organization and grading practices are often criticized, with some students finding her unresponsive to timely feedback and unclear on assignment guidelines. Despite these issues, her classes are generally considered manageable, especially if students keep up with the readings.",
+    "summary_comment_short": "Professor Buzov is highly regarded for her knowledge and approachability, with many students praising her as a \"sweetheart\" and an excellent teacher who encourages engagement through discussions and pop quizzes. However, some students note issues with her organization and grading, suggesting that while she is a great person, her instructional methods can be inconsistent.",
     "Ratings": [
       {
         "index": 1,
@@ -441,6 +743,8 @@
     "lastName": "Tuazon",
     "legacyId": 1794464,
     "numRatings": 3,
+    "summary_comment": "Professor Tuazon is highly regarded for his exceptional teaching quality, known for being clear, engaging, and genuinely caring about his students' success. His classes are praised for their humor and flexibility, making even obscure topics interesting and motivating. Students consistently recommend his courses and consider him one of the best teaching assistants at OSU.",
+    "summary_comment_short": "Professor Tuazon is highly regarded for his exceptional teaching quality, known for being clear, engaging, and genuinely caring about his students' success. Students consistently praise his flexibility, understanding, and ability to make complex topics interesting and relevant.",
     "Ratings": [
       {
         "index": 1,
@@ -475,6 +779,8 @@
     "lastName": "LeidheiserStoddard",
     "legacyId": 2024320,
     "numRatings": 2,
+    "summary_comment": "Professor LeidheiserStoddard is highly regarded for his teaching quality, consistently ranking among the top instructors at OSU. He maintains an engaging and humorous classroom atmosphere, making the material accessible and enjoyable. His assessments are fair and predictable, with quizzes and exams based on provided questions, and a grading system that rewards consistent effort and engagement.",
+    "summary_comment_short": "Professor LeidheiserStoddard is highly regarded for his effective teaching methods and engaging approach, consistently placing among the top teachers at OSU. His classes are known for their structured yet enjoyable format, with consistent quizzes and exams that are fair and based on provided materials, fostering a supportive learning environment.",
     "Ratings": [
       {
         "index": 1,
@@ -502,6 +808,8 @@
     "lastName": "Pourshariati",
     "legacyId": 893719,
     "numRatings": 7,
+    "summary_comment": "Professor Pourshariati is highly regarded for her passion and dedication to teaching, with students praising her knowledge and caring nature. Her lectures are engaging and informative, though some find her classes tangential at times. Students appreciate her commitment to helping them understand ancient Persian and Middle Eastern history, though organization can be an issue. Overall, she is highly recommended for those interested in the subject matter.",
+    "summary_comment_short": "Professor Pourshariati is highly regarded for her passion and kindness, making her classes engaging and informative. Students appreciate her deep knowledge and care for her students' learning, though some note she can be unorganized and tends to focus more on lecturing and discussions than tests.",
     "Ratings": [
       {
         "index": 1,
@@ -564,6 +872,8 @@
     "lastName": "Tamer",
     "legacyId": 1226820,
     "numRatings": 7,
+    "summary_comment": "Professor Tamer is highly regarded for his deep knowledge and engaging discussions on Islamic literature, making the class intellectually stimulating. Students appreciate his helpfulness and the interesting, though challenging, material, which often requires significant reading. However, some find the class demanding without clear outlines or key points, and recommend having prior Arabic knowledge to succeed.",
+    "summary_comment_short": "Professor Tamer is highly regarded for his deep knowledge and engaging discussions on Islamic literature, making the class intellectually stimulating. His teaching style, while challenging due to extensive reading requirements, is praised for its effectiveness and the value of the content covered.",
     "Ratings": [
       {
         "index": 1,
@@ -626,6 +936,8 @@
     "lastName": "Fudge",
     "legacyId": 1103905,
     "numRatings": 4,
+    "summary_comment": "Professor Fudge is well-informed and finds the subject interesting, but his class can be disorganized and lacks clear expectations, leading to unexpected grading issues. While some students find him helpful and engaging, others feel he makes them feel stupid and does not effectively encourage participation or provide adequate preparation materials. Overall, the teaching quality is inconsistent, with significant variations in student satisfaction.",
+    "summary_comment_short": "Professor Fudge's teaching quality is mixed; while some find his class interesting and the professor helpful and knowledgeable, others criticize him for unclear expectations, disorganization, and an unapproachable demeanor that can make students feel stupid. Overall, his grading is perceived as unfair and subjective.",
     "Ratings": [
       {
         "index": 1,
@@ -654,6 +966,72 @@
         "difficulty": 4,
         "comment": "I encourage you to learn about Islam but... NELC 351 with Fudge is NOT the best way to go. No matter how you answer a question it is not the way he wants it to be answered. He makes you feel stupid for answering questions. He says he tries to guide the discussion but he does not do it in a way that encourages students to participate. 2 Thumbs Down",
         "course": "NELC351"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Near Eastern Studies",
+    "firstName": "Trisha",
+    "id": "VGVhY2hlci0yMzY3NzU2",
+    "lastName": "Myers",
+    "legacyId": 2367756,
+    "numRatings": 1,
+    "summary_comment": "Professor Myers is highly regarded for her comprehensive knowledge and passionate teaching style. Students who have taken her class, specifically NELC 3205, praise her expertise and enthusiasm, considering her instruction both informative and engaging. Her teaching quality is so esteemed that many wish to take additional courses with her.",
+    "summary_comment_short": "Professor Myers is highly regarded for her extensive knowledge and passionate teaching style, as evidenced by her excellent performance in courses like 3205 NELC, where she left a lasting positive impression on her students. Her instructional quality is consistently praised, making her a standout educator.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Not sure how long Trisha will be here or if shes still teaching any classes but if by chance you get her as an instructor or TA shes amazing. I had her as an instructor for 3205 NELC and she did not disappoint. She knows her stuff and gives her lectures with passion. I wish I could take another class from her because she was a great instructor.",
+        "course": "NELC3205"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 5,
+    "department": "Near Eastern Studies",
+    "firstName": "Nada",
+    "id": "VGVhY2hlci0yMTM1MzMw",
+    "lastName": "Moumtaz",
+    "legacyId": 2135330,
+    "numRatings": 1,
+    "summary_comment": "Professor Moumtaz excels in reinforcing key concepts through repeated coverage, making her lectures effective for exam preparation. Her approach requires students to proactively engage with the material, such as reading the textbook and study questions, to fully grasp the content. While she may not actively facilitate interactive discussions, her focus on core concepts ensures solid understanding and performance on assessments.",
+    "summary_comment_short": "Professor Moumtaz is known for her effective teaching approach, focusing on key concepts and reinforcing them throughout her lectures. Students appreciate her structured method, which emphasizes pre-class preparation through reading and answering study questions, ensuring solid performance on quizzes and exams.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Nada really makes an effort to get students to understand the content. The textbook is very easy to digest; supplementary books were quick to read and really left an impression. She focuses on concepts and circles back around to them often. If you read and answer study questions before class like she asks, you will be solid on quizzes and exams.",
+        "course": "INTSTDS2200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 5,
+    "avgRating": 4,
+    "department": "Near Eastern Studies",
+    "firstName": "Joe",
+    "id": "VGVhY2hlci0yMDEyMzMy",
+    "lastName": "Price",
+    "legacyId": 2012332,
+    "numRatings": 1,
+    "summary_comment": "Professor Price's \"Mythology of Ancient Egypt and Mesopotamia\" course is known for its rigorous demands, including daily quizzes, extensive homework, a required paper, and harshly graded exams that focus on short-answer and fill-in-the-blank questions. The class is considered challenging and not recommended for students seeking an easier experience.",
+    "summary_comment_short": "Professor Price's \"Mythology of Ancient Egypt and Mesopotamia\" course is known for its rigorous daily quizzes, extensive homework load, and challenging exams with strict grading. Students find the class demanding and regret taking it, describing it as a nightmare.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "I took the \"Mythology of Ancient Egypt and Mesopotamia\" expecting it to be fun, interesting, and pretty easy. WRONG. There are daily quizzes over homework (about 2-4 hours worth a night), a paper due, and the exams are graded very harshly and are all short answerfill in the blank. DO NOT TAKE THIS CLASS. YOU WILL REGRET IT. IT WAS A NIGHTMARE. ",
+        "course": "NELC3700"
       }
     ],
     "SEI": []

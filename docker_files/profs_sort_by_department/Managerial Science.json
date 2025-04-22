@@ -1,25 +1,5 @@
 [
   {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Managerial Science",
-    "firstName": "Alec",
-    "id": "VGVhY2hlci0yNTc0NDE5",
-    "lastName": "Talanca",
-    "legacyId": 2574419,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Alec is a great TA for 3230, he knows a lot about the subject and will answer any questions in class. Not very accessible outside of class though",
-        "course": "BUSMGT3230"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.1,
     "avgRating": 3.4,
     "department": "Managerial Science",
@@ -28,6 +8,8 @@
     "lastName": "Veech",
     "legacyId": 1895009,
     "numRatings": 12,
+    "summary_comment": "Professor Veech is generally perceived as a caring and flexible instructor who responds promptly to student inquiries and offers support outside of class. However, his tests are often criticized for being time-pressured and math-intensive, making them challenging to complete online. While some students find his passion and real-life experience beneficial, others find the course content dry and the grading heavily weighted towards exams, leading to a less engaging learning experience.",
+    "summary_comment_short": "Professor Veech is known for his kindness and willingness to help students, with many noting his responsiveness to emails and availability for extra support. However, some students find his tests challenging and time-consuming, and criticize the heavy weighting on exams and lack of engagement with course content.",
     "Ratings": [
       {
         "index": 1,
@@ -114,7 +96,246 @@
         "course": "BUSMGT3230"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "7241",
+        "Class Name": "Lean Enterprise Leadership",
+        "Class Number": "4287",
+        "Term": "SU 24",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "4239",
+        "Class Name": "Managing Process Improvement",
+        "Class Number": "4393",
+        "Term": "AU 22",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "39",
+        "Rating": "4.36"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "7270",
+        "Class Name": "MBOE Managing the Extended Value Stream",
+        "Class Number": "4539",
+        "Term": "AU 22",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "3230",
+        "Class Name": "Introduction to Operations Management: Improving Competitiveness in Organizations",
+        "Class Number": "4660",
+        "Term": "SP 23",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "99",
+        "Rating": "4.29"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "4239",
+        "Class Name": "Managing Process Improvement",
+        "Class Number": "4105",
+        "Term": "SP 23",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "45",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "4239",
+        "Class Name": "Managing Process Improvement",
+        "Class Number": "4842",
+        "Term": "SP 23",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "7241",
+        "Class Name": "Lean Enterprise Leadership",
+        "Class Number": "4909",
+        "Term": "SP 23",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "7241",
+        "Class Name": "Lean Enterprise Leadership",
+        "Class Number": "22855",
+        "Term": "SU 23",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "4239",
+        "Class Name": "Managing Process Improvement",
+        "Class Number": "4539",
+        "Term": "AU 23",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "31",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "3230",
+        "Class Name": "Introduction to Operations Management: Improving Competitiveness in Organizations",
+        "Class Number": "4796",
+        "Term": "SP 24",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "101",
+        "Rating": "4.12"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "4239",
+        "Class Name": "Managing Process Improvement",
+        "Class Number": "4257",
+        "Term": "SP 24",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "BUSOBA",
+        "Catalog": "7241",
+        "Class Name": "Lean Enterprise Leadership",
+        "Class Number": "5032",
+        "Term": "SP 24",
+        "College": "Business",
+        "Department": "Operations and Business Analyt",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.55"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "6194",
+        "Class Name": "Group Studies in Engineering",
+        "Class Number": "37653",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "6194",
+        "Class Name": "Group Studies in Engineering",
+        "Class Number": "37218",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "16",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "6240",
+        "Class Name": "Operational Excellence Master of Engineering Management Capstone",
+        "Class Number": "37340",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "MBA",
+        "Catalog": "6230",
+        "Class Name": "Operations Management",
+        "Class Number": "38777",
+        "Term": "AU 23",
+        "College": "Business",
+        "Department": "Business Administration",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MBA",
+        "Catalog": "6230",
+        "Class Name": "Operations Management",
+        "Class Number": "35310",
+        "Term": "SP 24",
+        "College": "Business",
+        "Department": "Business Administration",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.25"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.9,
@@ -125,6 +346,8 @@
     "lastName": "Prudhomme",
     "legacyId": 1133226,
     "numRatings": 31,
+    "summary_comment": "Professor Prud'homme is highly regarded by many students for her expertise and dedication to teaching operations management, though her classes are known to be challenging and require significant time and effort outside of class. While some find her lectures fast-paced and her teaching style demanding, others appreciate her professionalism, passion for the subject, and support for students' future career goals. However, her teaching approach is not for everyone, as some students find her style intimidating and her classes stressful due to rigorous assignments and exams.",
+    "summary_comment_short": "Professor Prud'homme is highly regarded by some students for her thorough preparation and dedication to helping students think critically about their future, though others find her classes challenging and her teaching style demanding, often leading to a rigorous and sometimes discouraging learning environment. Overall, her effectiveness is highly dependent on the student's willingness to put in significant extra effort outside of class.",
     "Ratings": [
       {
         "index": 1,
@@ -342,6 +565,28 @@
         "difficulty": 4,
         "comment": "Read Learning to See, go to class. All sections of 630 have the same exams, so choose your professor wisely.",
         "course": "MGT630"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Managerial Science",
+    "firstName": "Alec",
+    "id": "VGVhY2hlci0yNTc0NDE5",
+    "lastName": "Talanca",
+    "legacyId": 2574419,
+    "numRatings": 1,
+    "summary_comment": "Professor Talanca is highly regarded for his extensive knowledge in the subject matter, effectively engaging students during classes and providing thorough answers to their questions. However, his accessibility outside of class is limited, which may restrict opportunities for further discussion or clarification.",
+    "summary_comment_short": "Professor Talanca is highly regarded for his extensive knowledge in the subject matter and ability to effectively address students' questions during class. However, students find him less accessible outside of lecture hours.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Alec is a great TA for 3230, he knows a lot about the subject and will answer any questions in class. Not very accessible outside of class though",
+        "course": "BUSMGT3230"
       }
     ],
     "SEI": []

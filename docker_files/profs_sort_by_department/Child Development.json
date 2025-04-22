@@ -8,6 +8,8 @@
     "lastName": "Fitzgerald",
     "legacyId": 2695024,
     "numRatings": 1,
+    "summary_comment": "Professor Fitzgerald's class is challenging, with a grading system where homework has minimal impact while tests carry significant weight, potentially dropping students' grades drastically. Students find the class difficult enough that they recommend choosing a different instructor and rate it very low.",
+    "summary_comment_short": "Professor Fitzgerald's class is challenging, with a significant emphasis on tests that heavily impact the final grade, making it difficult to recover from poor performance. Students generally advise against taking her class due to its demanding nature and grading system.",
     "Ratings": [
       {
         "index": 1,
@@ -28,6 +30,8 @@
     "lastName": "Phillips",
     "legacyId": 2534776,
     "numRatings": 2,
+    "summary_comment": "Professor Phillips offers several opportunities for extra credit but emphasizes the importance of staying on top of due dates due to the limited points available. She provides clear expectations, good grading feedback, and easy-to-understand class structure, though most interactions are through email, indicating minimal in-person engagement.",
+    "summary_comment_short": "Professor Phillips offers several opportunities for extra credit but emphasizes the importance of staying on top of due dates since the overall point distribution is limited. She provides clear expectations, good grading feedback, and is responsive to emails, making the online class structure easy to follow.",
     "Ratings": [
       {
         "index": 1,
@@ -44,7 +48,176 @@
         "course": "HDFS2410"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "1159",
+        "Class Name": "Online Learning Strategies and Skills",
+        "Class Number": "29314",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "1159",
+        "Class Name": "Online Learning Strategies and Skills",
+        "Class Number": "8038",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "1159",
+        "Class Name": "Online Learning Strategies and Skills",
+        "Class Number": "33356",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ESEPSY",
+        "Catalog": "1159",
+        "Class Name": "Online Learning Strategies and Skills",
+        "Class Number": "14478",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2410",
+        "Class Name": "Child Development",
+        "Class Number": "9549",
+        "Term": "SU 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2410",
+        "Class Name": "Child Development",
+        "Class Number": "28007",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "102",
+        "Rating": "4.39"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2410",
+        "Class Name": "Child Development",
+        "Class Number": "12924",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "75",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2410",
+        "Class Name": "Child Development",
+        "Class Number": "8822",
+        "Term": "SU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2410",
+        "Class Name": "Child Development",
+        "Class Number": "6731",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "79",
+        "Rating": "4.39"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2410",
+        "Class Name": "Child Development",
+        "Class Number": "12875",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "73",
+        "Rating": "4.49"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2410",
+        "Class Name": "Child Development",
+        "Class Number": "13588",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "56",
+        "Rating": "4.52"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2410",
+        "Class Name": "Child Development",
+        "Class Number": "13365",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "51",
+        "Rating": "4.57"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -55,6 +228,8 @@
     "lastName": "Carotta",
     "legacyId": 1825219,
     "numRatings": 1,
+    "summary_comment": "Professor Carotta is an enthusiastic instructor who clearly demonstrates passion for the subject matter. Her exams closely follow the material presented in her PowerPoint presentations, making them manageable for students who study even minimally. She is highly recommended for her effective teaching methods and accessible assessments.",
+    "summary_comment_short": "Professor Carotta is an enthusiastic instructor who clearly demonstrates passion for the subject matter. Her exams closely follow the material presented in her PowerPoint presentations, making them manageable for students who study even minimally.",
     "Ratings": [
       {
         "index": 1,

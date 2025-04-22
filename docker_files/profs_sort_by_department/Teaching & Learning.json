@@ -1,5 +1,320 @@
 [
   {
+    "avgDifficulty": 1.3,
+    "avgRating": 5,
+    "department": "Teaching & Learning",
+    "firstName": "Eric",
+    "id": "VGVhY2hlci0yOTc3NTYz",
+    "lastName": "Jaburek",
+    "legacyId": 2977563,
+    "numRatings": 3,
+    "summary_comment": "Professor Jaburek, known as Mr. Eric, excels in making even dull classes engaging and enjoyable, regularly checking in on struggling students and fostering a relaxed classroom environment. Students appreciate his approachable nature and his efforts to enhance the learning experience, often finding the class more enjoyable and easier to pass than expected.",
+    "summary_comment_short": "Professor Jaburek, known as Mr. Eric, is an exceptionally effective and caring educator who transforms a potentially dull class into an engaging and enjoyable experience. His approachable demeanor and commitment to student success make the class not only passable but a positive learning opportunity.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Mr. Eric is a great teacher who truly cares about his students. He makes the lessons entertaining even though this is a boring class, and makes sure he knows all of his students. He checks in on students that appear to be struggling, & makes the environment very easy going. Shockingly enough I actually looked forward to going to his class everyday",
+        "course": "GenEd1201"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Professor Eric is a nice guy and he always tries to make the lecture appealing to students even although this is a boring 1-credit-hour class. Easy to pass and get an A !",
+        "course": "GenEd1201"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "GenEd 1201 was not a fun class and had a lot of repeated information. However, Eric made the class a lot more fun and appealing to go to. Accepted late credit, made the class a fun learning opportunity, and was an easy person to talk to. 10/10",
+        "course": "GenEd1201"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "EHE",
+        "Catalog": "3000",
+        "Class Name": "Foundations for Peer Leaders in First Year Experience",
+        "Class Number": "14415",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Educ and Human Ecology",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "ESHESA",
+        "Catalog": "3573",
+        "Class Name": "Theories of Leadership in Learning Organizations",
+        "Class Number": "15854",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "EHE Educational Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 1.1,
+    "department": "Teaching & Learning",
+    "firstName": "Ruby",
+    "id": "VGVhY2hlci0yODcyNTAy",
+    "lastName": "Pentsil-Bukari ",
+    "legacyId": 2872502,
+    "numRatings": 7,
+    "summary_comment": "Professor Pentsil-Bukari is widely regarded as a challenging and demanding instructor, particularly for a one-credit general education course. Students consistently report that her grading is stringent, often giving low scores even with significant effort, and she provides little guidance or feedback. The overall class experience is described as negative and stressful, with many students advising against taking her class.",
+    "summary_comment_short": "Professor Pentsil-Bukari is widely regarded as a challenging and strict instructor, particularly for a one-credit general education course. Students consistently report that her grading is harsh, often giving low scores without providing substantial feedback or opportunities for improvement, making the class feel unnecessarily difficult and demotivating.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I had her for GE launch which is just a terrible class to begin with but somehow she made it worst. We would have assignments weekly and every assignment was just rewriting our goals over and over just restated and she would still give 50% no matter how much effort you put into it. It was just a miserable experience overall. ",
+        "course": "GENED1201"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Do not take this professor. I am warning you. Very harsh grader, did accomodate to my SLDS accommodations. Refuses to regrade an assignment that was submitted accidentally. Gives out 50 percents like it's nothing. When I asked how to improve my grade, she simply told me to look at Carmen. She does not care about her students.",
+        "course": "GENED1201"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "She made the class way more difficult than it had to be. She told me to write in a way that I had learned not to write in high school. (I was in Honors and AP ELA all throughout school) Anyways she takes offense to people doing bad on the assignments but there is 0 guidance or explanation ",
+        "course": "GENED1201"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "Worst gen ed teacher available. Do not take her! She grades papers like they are for a Harvard literature class. Average was 60 on some assignments. Far too difficult for a one credit class, and you should avoid at all costs.",
+        "course": "GENED1201"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Made a 1 credit hour GE course weirdly hard. ",
+        "course": "GENED1201"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Actually a terrible teacher.  What makes what should be an informative class about GE one of the hardest classes.  Feels like she purposefully makes it hard on purpose.  Grading is super strict, does not respond to emails or comments.  Seems like she genuinely just wants students to have to work very hard for a 1 hour credit class.",
+        "course": "GENED1201"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "The class was very harsh, and the class atmosphere was not good. There were no students who wanted to deal with her, and they were always delayed. The students who wanted to seek help were also negatively responded by her. ",
+        "course": "GENED1201"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.2,
+    "avgRating": 4.2,
+    "department": "Teaching & Learning",
+    "firstName": "Shannon",
+    "id": "VGVhY2hlci0yOTAzMjI5",
+    "lastName": "Gonzales-Miller",
+    "legacyId": 2903229,
+    "numRatings": 5,
+    "summary_comment": "Professor Gonzales-Miller is highly regarded for her caring and supportive approach, offering lenient deadlines and constructive feedback. Despite the perceived dullness and irrelevance of the course material, students appreciate her kindness and engagement, which help to improve the learning experience.",
+    "summary_comment_short": "Professor Gonzales-Miller was highly regarded for her caring and supportive approach, offering lenient deadlines and valuable feedback, though the course material was often described as easy and occasionally boring. Students found her lectures informative but sometimes monotonous, with the course itself generally seen as lacking relevance and engaging content.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Dr. Gonzales-Miller was a very good professor. She truly cared for the students. The course itself is pretty easy and boring at times. She was pretty lenient on deadlines and wanted her students to succeed.  ",
+        "course": "GENED1201"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "As we all know, GE Launch is a boring class but this professor makes it better as she is caring, entertaining, and gives great feedback on assignments. Also she let us out of class early 90% of the time. ",
+        "course": "GENED1201"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Dr. Gonzales-Miller is very nice and thoughtful, and she offers interesting perspectives in her lectures. However, the course as a whole is a drag and waste of time.",
+        "course": "GENED1201"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great professor, but the class felt unnecessary.",
+        "course": "GENED1201"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Dr. Gonzales-Miller was a little droning in her lecturing, but she conveyed what we students needed to know adequately enough. She was very nice and did give great feedback on my assignments, too. She is not the problem--the course material is the problem. GE Launch Seminar is the most pointless and mind-numbing course ever to exist.",
+        "course": "GENED1201"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5137",
+        "Class Name": "Teaching and Learning of Social Studies Grades Pre-K - 3",
+        "Class Number": "8025",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "2.62"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5137",
+        "Class Name": "Teaching and Learning of Social Studies Grades Pre-K - 3",
+        "Class Number": "35352",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5137",
+        "Class Name": "Teaching and Learning of Social Studies Grades Pre-K - 3",
+        "Class Number": "34973",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "1.75"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "6808",
+        "Class Name": "Multicultural and Global Perspectives on Teaching and Learning",
+        "Class Number": "13117",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5005",
+        "Class Name": "Equity and Diversity in Education",
+        "Class Number": "13653",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 1,
+    "avgRating": 4.3,
+    "department": "Teaching & Learning",
+    "firstName": "Tze",
+    "id": "VGVhY2hlci0xODEwMzc5",
+    "lastName": "Ho",
+    "legacyId": 1810379,
+    "numRatings": 4,
+    "summary_comment": "Professor Ho is highly regarded for his easy-going and supportive teaching style, often described as a father figure who is lenient with deadlines and eager to help students succeed. His classes involve numerous assignments that are generally considered easy, and he frequently brings in food to make the experience more enjoyable. Students consistently recommend his class due to his approachable nature and willingness to accommodate students' needs.",
+    "summary_comment_short": "Professor Ho is highly regarded for his easy-going nature and supportive approach, often described as a father figure to his students. He is known for his leniency with deadlines, frequent food bring-ins, and a focus on assignments that are generally easy to complete, making it possible to achieve high grades with consistent effort.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "He's awesome, very easy class, participation&attendance is part of the grade but overall easy A. He's lenient with deadlines. Lots of assignments but very easy. If you do it you'll get an A. He often says that it's the least he could do & I get the feeling that he feels like the classes father figure. He brings in food often. Overall a great class.",
+        "course": "EDUTL5468"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Probably my favorite professor at Ohio State so far. Awesome guy. Really chill about everything. Very lenient with deadlines, wants to see you succeed. Brings in food. No test, but quite a few assignments. Luckily the assignments are easy. If you can take his class, do it. You won't regret it.",
+        "course": "EDUTL5468"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Tze was great, he was really funny and let us out of class early EVERY day. It was impossible to get anything less than 100 on almost all assignments. He let us turn things in whenever we could. His lectures were dry sometimes but I would recommend his class!",
+        "course": "EDUTL5468"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "I have never had a teacher so willing to help the students before. I asked for an extension on a deadline for the case study and he had no problem with it. Easy class, highly recommend you take this class from him.",
+        "course": "EDUTL5469"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4,
+    "avgRating": 2.5,
+    "department": "Teaching & Learning",
+    "firstName": "Elizabeth",
+    "id": "VGVhY2hlci0xODg5OTA4",
+    "lastName": "Black",
+    "legacyId": 1889908,
+    "numRatings": 1,
+    "summary_comment": "Professor Black is known for her highly demanding and frequent communication style, emailing students multiple times a week with additional information. Her course structure includes weekly quizzes and papers or discussion prompts, making it intensive despite being a 2-credit class. Students find her approach challenging and time-consuming, comparable to more advanced courses.",
+    "summary_comment_short": "Professor Black is known for her dense and frequent communication, emailing students multiple times a week with additional information. Her course structure demands significant weekly engagement, including quizzes and papers, making it demanding even for advanced students.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Very confusing with instructions. Syllabus is only part of the material, she emails like 6 times per week with more info. 1 quiz and 1 paper/discussion prompt due (or both) EVERY WEEK. She is a librarian and thinks everyone loves to read. The class is worth 2 credits and should be an easy A, but requires more class than my 5000 level virology!",
+        "course": "ARTSSCI2120"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 3.5,
     "avgRating": 3,
     "department": "Teaching & Learning",
@@ -8,6 +323,8 @@
     "lastName": "Kim",
     "legacyId": 2603478,
     "numRatings": 4,
+    "summary_comment": "Professor Kim excels in fostering an interactive and engaging learning environment, emphasizing participation over passive lectures. Her approach, while challenging at times, encourages students to develop their teaching skills through dramatic exercises and group discussions. However, some students find her instructions unclear and her methods frustrating, with others reporting difficulty understanding her and perceiving her as sometimes rude.",
+    "summary_comment_short": "Professor Kim excels in fostering an interactive and engaging learning environment, encouraging active participation and discussion over traditional lectures. However, some students find her classes challenging due to unclear instructions and a rigid approach to participation.",
     "Ratings": [
       {
         "index": 1,
@@ -38,7 +355,36 @@
         "course": "EDUTL5101"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5101",
+        "Class Name": "Teaching and Learning with Drama: Introduction",
+        "Class Number": "13563",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "EDUTL",
+        "Catalog": "5101",
+        "Class Name": "Teaching and Learning with Drama: Introduction",
+        "Class Number": "13588",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "School of Teaching & Learning",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.17"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.2,
@@ -49,6 +395,8 @@
     "lastName": "Curtis",
     "legacyId": 2523569,
     "numRatings": 10,
+    "summary_comment": "Professor Curtis is described as easygoing and flexible with assignments and deadlines, though students found the workload particularly heavy, especially towards the end of the semester. Many noted issues with unclear instructions and harsh grading, while some praised her kindness and care for her subject matter. Overall, opinions vary widely, with some finding the class manageable and enjoyable, while others consider it overly demanding and poorly structured.",
+    "summary_comment_short": "Professor Curtis is known for being easygoing and flexible with deadlines and assignments, though students often find the workload, especially towards the end of the semester, to be overwhelming and poorly balanced with the point value of the assignments. Many students also note that the grading can be harsh and unhelpful, with unclear instructions and long periods of waiting for feedback.",
     "Ratings": [
       {
         "index": 1,
@@ -132,6 +480,8 @@
     "lastName": "Whitcomb",
     "legacyId": 3004267,
     "numRatings": 1,
+    "summary_comment": "Professor Whitcomb is known for her positive demeanor and supportive approach, which makes the class more manageable despite its perceived lack of importance. She focuses on making the required but somewhat superficial material understandable and easy to pass through straightforward assignments.",
+    "summary_comment_short": "Professor Whitcomb maintains an upbeat and generous demeanor, making her classes accessible and enjoyable despite the perceived superficiality of the material. Her easy-going approach ensures that even challenging requirements feel manageable, with straightforward assignments that lead to successful completion.",
     "Ratings": [
       {
         "index": 1,
@@ -141,211 +491,63 @@
         "course": "GENED1201"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.3,
-    "avgRating": 5,
-    "department": "Teaching & Learning",
-    "firstName": "Eric",
-    "id": "VGVhY2hlci0yOTc3NTYz",
-    "lastName": "Jaburek",
-    "legacyId": 2977563,
-    "numRatings": 3,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Mr. Eric is a great teacher who truly cares about his students. He makes the lessons entertaining even though this is a boring class, and makes sure he knows all of his students. He checks in on students that appear to be struggling, & makes the environment very easy going. Shockingly enough I actually looked forward to going to his class everyday",
-        "course": "GenEd1201"
+        "Subject": "ENGR",
+        "Catalog": "1100.15",
+        "Class Name": "Introduction to Ohio State and Engineering",
+        "Class Number": "36706",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.56"
       },
       {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Eric is a nice guy and he always tries to make the lecture appealing to students even although this is a boring 1-credit-hour class. Easy to pass and get an A !",
-        "course": "GenEd1201"
+        "Subject": "ENGR",
+        "Catalog": "1100",
+        "Class Name": "Introduction to Ohio State and Engineering",
+        "Class Number": "37825",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
       },
       {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "GenEd 1201 was not a fun class and had a lot of repeated information. However, Eric made the class a lot more fun and appealing to go to. Accepted late credit, made the class a fun learning opportunity, and was an easy person to talk to. 10/10",
-        "course": "GenEd1201"
+        "Subject": "ENGR",
+        "Catalog": "1100.15",
+        "Class Name": "Introduction to Ohio State and Engineering",
+        "Class Number": "12401",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1100.15",
+        "Class Name": "Introduction to Ohio State and Engineering",
+        "Class Number": "12195",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
       }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 1.1,
-    "department": "Teaching & Learning",
-    "firstName": "Ruby",
-    "id": "VGVhY2hlci0yODcyNTAy",
-    "lastName": "Pentsil-Bukari ",
-    "legacyId": 2872502,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "I had her for GE launch which is just a terrible class to begin with but somehow she made it worst. We would have assignments weekly and every assignment was just rewriting our goals over and over just restated and she would still give 50% no matter how much effort you put into it. It was just a miserable experience overall. ",
-        "course": "GENED1201"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Do not take this professor. I am warning you. Very harsh grader, did accomodate to my SLDS accommodations. Refuses to regrade an assignment that was submitted accidentally. Gives out 50 percents like it's nothing. When I asked how to improve my grade, she simply told me to look at Carmen. She does not care about her students.",
-        "course": "GENED1201"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "She made the class way more difficult than it had to be. She told me to write in a way that I had learned not to write in high school. (I was in Honors and AP ELA all throughout school) Anyways she takes offense to people doing bad on the assignments but there is 0 guidance or explanation ",
-        "course": "GENED1201"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "Worst gen ed teacher available. Do not take her! She grades papers like they are for a Harvard literature class. Average was 60 on some assignments. Far too difficult for a one credit class, and you should avoid at all costs.",
-        "course": "GENED1201"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Made a 1 credit hour GE course weirdly hard. ",
-        "course": "GENED1201"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Actually a terrible teacher.  What makes what should be an informative class about GE one of the hardest classes.  Feels like she purposefully makes it hard on purpose.  Grading is super strict, does not respond to emails or comments.  Seems like she genuinely just wants students to have to work very hard for a 1 hour credit class.",
-        "course": "GENED1201"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "The class was very harsh, and the class atmosphere was not good. There were no students who wanted to deal with her, and they were always delayed. The students who wanted to seek help were also negatively responded by her. ",
-        "course": "GENED1201"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.2,
-    "avgRating": 4.2,
-    "department": "Teaching & Learning",
-    "firstName": "Shannon",
-    "id": "VGVhY2hlci0yOTAzMjI5",
-    "lastName": "Gonzales-Miller",
-    "legacyId": 2903229,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Dr. Gonzales-Miller was a very good professor. She truly cared for the students. The course itself is pretty easy and boring at times. She was pretty lenient on deadlines and wanted her students to succeed.  ",
-        "course": "GENED1201"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "As we all know, GE Launch is a boring class but this professor makes it better as she is caring, entertaining, and gives great feedback on assignments. Also she let us out of class early 90% of the time. ",
-        "course": "GENED1201"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Dr. Gonzales-Miller is very nice and thoughtful, and she offers interesting perspectives in her lectures. However, the course as a whole is a drag and waste of time.",
-        "course": "GENED1201"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Great professor, but the class felt unnecessary.",
-        "course": "GENED1201"
-      },
-      {
-        "index": 5,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Dr. Gonzales-Miller was a little droning in her lecturing, but she conveyed what we students needed to know adequately enough. She was very nice and did give great feedback on my assignments, too. She is not the problem--the course material is the problem. GE Launch Seminar is the most pointless and mind-numbing course ever to exist.",
-        "course": "GENED1201"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1,
-    "avgRating": 4.3,
-    "department": "Teaching & Learning",
-    "firstName": "Tze",
-    "id": "VGVhY2hlci0xODEwMzc5",
-    "lastName": "Ho",
-    "legacyId": 1810379,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "He's awesome, very easy class, participation&attendance is part of the grade but overall easy A. He's lenient with deadlines. Lots of assignments but very easy. If you do it you'll get an A. He often says that it's the least he could do & I get the feeling that he feels like the classes father figure. He brings in food often. Overall a great class.",
-        "course": "EDUTL5468"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Probably my favorite professor at Ohio State so far. Awesome guy. Really chill about everything. Very lenient with deadlines, wants to see you succeed. Brings in food. No test, but quite a few assignments. Luckily the assignments are easy. If you can take his class, do it. You won't regret it.",
-        "course": "EDUTL5468"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Tze was great, he was really funny and let us out of class early EVERY day. It was impossible to get anything less than 100 on almost all assignments. He let us turn things in whenever we could. His lectures were dry sometimes but I would recommend his class!",
-        "course": "EDUTL5468"
-      },
-      {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "I have never had a teacher so willing to help the students before. I asked for an extension on a deadline for the case study and he had no problem with it. Easy class, highly recommend you take this class from him.",
-        "course": "EDUTL5469"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4,
-    "avgRating": 2.5,
-    "department": "Teaching & Learning",
-    "firstName": "Elizabeth",
-    "id": "VGVhY2hlci0xODg5OTA4",
-    "lastName": "Black",
-    "legacyId": 1889908,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Very confusing with instructions. Syllabus is only part of the material, she emails like 6 times per week with more info. 1 quiz and 1 paper/discussion prompt due (or both) EVERY WEEK. She is a librarian and thinks everyone loves to read. The class is worth 2 credits and should be an easy A, but requires more class than my 5000 level virology!",
-        "course": "ARTSSCI2120"
-      }
-    ],
-    "SEI": []
+    ]
   }
 ]

@@ -1,6 +1,85 @@
 [
   {
     "avgDifficulty": 3,
+    "avgRating": 3.5,
+    "department": "Film",
+    "firstName": "Elizabeth",
+    "id": "VGVhY2hlci05NjExNTM=",
+    "lastName": "Angerman",
+    "legacyId": 961153,
+    "numRatings": 5,
+    "summary_comment": "Professor Angerman is known for her rigorous teaching approach, particularly in her Slavic film class, where students find the material challenging due to extensive writing requirements and heavy reading. While some appreciate her clear expectations, interesting lectures, and encouraging critical thinking, others find her grading strict and the course demanding, even for a general education credit course.",
+    "summary_comment_short": "Professor Angerman is known for her rigorous teaching style, particularly in her Slavic film class, where students find the material challenging due to extensive writing requirements and heavy reading. While some students appreciate her clear expectations and encourage critical thinking, others find her class demanding and overwhelming, with a focus on precision in answers and a lack of detailed feedback on assessments.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "A GE SHOULD NOT BE THIS HARD. A LOT  OF WRITING INVOLVED ",
+        "course": "SLAVIC2230"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Angerman's Slavic film class is an excellent GEC. Her teaching style invites a lot of class participation. The movies were varied and always interesting. The reading material got kind of heavy at times, but nothing insurmountable. No surprises on tests assuming you paid attention during class and watched the movies. Recommend.",
+        "course": "SLA3360"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Excellent TA! Her class is the best class I have had at OSU. She is extremely well informed on the subject matter and offers  an interesting lecture. Her syllabus is extremely clear about what she expects from the student. She is also open minded and encourages critical thinking. The movies she chose were pretty cool too.",
+        "course": "FILM360"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Very easy.  You basically watch a movie one day, then discuss it in the next class.  The insructor does most of the talking, and when she asks questions you better respond or else she gets mad and threatens pop quizzes (never happened).  She makes the material sound demanding but in the end your grade won't reflect it (B-A range)",
+        "course": "RUSS360"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Very strict professor. Requires from you to be very precise in your answers and does not explain what you did wrong when grading your work. You have to go and talk to her in order to understand what exactly you did wrong. For a GEC course, it should not be this hard, you also feel very overwhelmed with the material. The only good thing is that out ",
+        "course": "RUSS360"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "SLAVIC",
+        "Catalog": "3310",
+        "Class Name": "Science Fiction: East vs. West",
+        "Class Number": "26787",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Slavic/East European Eurasian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3310",
+        "Class Name": "Science Fiction: East vs. West",
+        "Class Number": "27100",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.75"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
     "avgRating": 5,
     "department": "Film",
     "firstName": "David",
@@ -8,6 +87,8 @@
     "lastName": "Burkman",
     "legacyId": 2786329,
     "numRatings": 1,
+    "summary_comment": "Professor Burkman is highly regarded for his exceptional knowledge in film production and his unwavering commitment to student success. He actively supports and guides students, pushing them to achieve their best. His passion and authenticity make him one of the top professors at OSU.",
+    "summary_comment_short": "Professor Burkman is highly regarded for his exceptional knowledge in film production and his dedication to mentoring students, always pushing them to achieve their best. His teaching approach is both realistic and inspiring, making him one of OSU's top professors.",
     "Ratings": [
       {
         "index": 1,
@@ -17,7 +98,134 @@
         "course": "MVNGIMG2202"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2201",
+        "Class Name": "Filmmaking Foundation I",
+        "Class Number": "23329",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "4501",
+        "Class Name": "Senior Project I",
+        "Class Number": "24297",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "21647",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "21648",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "4502",
+        "Class Name": "Senior Project II",
+        "Class Number": "23380",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "28054",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "27798",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MVNGIMG",
+        "Catalog": "2202",
+        "Class Name": "Filmmaking Foundation II",
+        "Class Number": "27799",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Film Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "THEATRE",
+        "Catalog": "5325",
+        "Class Name": "The Film Director's Voice",
+        "Class Number": "27623",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Theatre",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.4,
@@ -28,6 +236,8 @@
     "lastName": "Jeansonne",
     "legacyId": 2240831,
     "numRatings": 5,
+    "summary_comment": "Professor Jeansonne is highly regarded for his exceptional teaching quality and care for his students. He makes the class engaging with interesting content and provides ample time for assignments, allowing for revisions which enhances learning. Students appreciate his accessibility and willingness to help both within and outside the course.",
+    "summary_comment_short": "Professor Jeansonne is highly regarded for his exceptional teaching quality and care for his students. He creates an accessible learning environment with flexible options like live streams and ample time for revisions, making the class both easy and engaging despite the workload.",
     "Ratings": [
       {
         "index": 1,
@@ -76,6 +286,8 @@
     "lastName": "Segrave",
     "legacyId": 2774000,
     "numRatings": 4,
+    "summary_comment": "Professor Segrave is known for her stringent grading, particularly on written homework, which she evaluates more rigorously than other Italian professors despite the syllabus stating otherwise. While some students appreciate her availability to help with confusion, many find her condescending, especially regarding pronunciation, and criticize her lack of responsiveness to emails. Overall, her teaching style is perceived as ineffective, with some students describing her as one of the worst professors they have encountered.",
+    "summary_comment_short": "Professor Segrave is known for her stringent grading, particularly on written homework, which often contrasts with the syllabus's stated guidelines. While some students appreciate her willingness to help when confused, others find her condescending and overly harsh, especially regarding pronunciation and email communication.",
     "Ratings": [
       {
         "index": 1,
@@ -106,89 +318,92 @@
         "course": "ITALIAN2055"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.4,
-    "avgRating": 3,
-    "department": "Film",
-    "firstName": "Aaron ",
-    "id": "VGVhY2hlci0xOTQ4NDU5",
-    "lastName": "Petten",
-    "legacyId": 1948459,
-    "numRatings": 5,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Professor Petten is a really nice guy but his lectures were confusing. His vocabulary is expansive and I had to look up a lot of the words he used in lecture. That being said, he was more than happy to explain things if asked. TA graded exams (which are all essay) & randomly marked off points without explanation. Would not recommend as a GE class. ",
-        "course": "HISART2901"
+        "Subject": "HISTART",
+        "Catalog": "4541",
+        "Class Name": "17th-Century Art of Italy and Spain",
+        "Class Number": "37015",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "History of Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
       },
       {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Intro to World Cinema was interesting & Professor Petten is genuinely interested in what he teaches.  Lectures were long but for the most part, necessary.  I greatly appreciated that he always started & ended on time, that he was very open to questions & in fact would always stay after class and answer questions.  I thought he was extremely fair.",
-        "course": "HISTART2901"
+        "Subject": "ITALIAN",
+        "Catalog": "1103.03",
+        "Class Name": "Italian III Blended",
+        "Class Number": "22587",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
       },
       {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "He merely lectures at the class with minimal powerpoint usage - difficult to follow him and he often uses unnecessarily complicated words to confound his point. The final grade is composed of three in-class exams, for which we are assigned essays that are graded without any objective rubric. TAs take off points arbitrarily and can't explain why. ",
-        "course": "2901"
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "19456",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "2.5"
       },
       {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Petten is a professor who is extremely boring but gets the point across (although his use of over-complex vocabulary sometimes skews the message). If you take good notes, you will not have to read and should do well on the exams. Just drink some coffee before lecture because that's all this man does - lecture. ",
-        "course": "HISTART2901"
+        "Subject": "ITALIAN",
+        "Catalog": "1102.71",
+        "Class Name": "Italian Distance Learning II",
+        "Class Number": "19458",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
       },
       {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Had him for Intro to World Cinema. He only put bullets on powerpoints so you need to show up to take notes on what he actually says and watch the clips of the films even though they can be boring. If you take good notes you'll get an easy A. ",
-        "course": "19849"
+        "Subject": "ITALIAN",
+        "Catalog": "1101.03",
+        "Class Name": "Italian I Blended",
+        "Class Number": "27784",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ITALIAN",
+        "Catalog": "1101.03",
+        "Class Name": "Italian I Blended",
+        "Class Number": "29957",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "French & Italian",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.63"
       }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.7,
-    "avgRating": 3.3,
-    "department": "Film",
-    "firstName": "Jane",
-    "id": "VGVhY2hlci0yMjQ3NDkz",
-    "lastName": "Greene",
-    "legacyId": 2247493,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "As a science major, I only took her class as a GE, and it was so worth it. The topic was horror films which you could tell she was passionate about, which made the class super interesting . The pop quizzes are open-book and easy as long as you take notes in class and watch the movies. Use her office hours for her to read your papers!",
-        "course": "FS2367"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "She's funny, and a knowledgable lecturer. No-nonsense on phones/chatting/looking tired. Come prepared. You'll get out what you put in with her, and her comments on papers are very helpful. I'd take her again. Beware pop quizzes, and get ready to take notes: as a point she doesn't publish her slides. For 2271 she gave detailed rubrics.",
-        "course": "FS2271"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "She does not make a rubric for any of her assignments.   She is in a bad mood every day.  looking at her makes me think I should have never gone to college.",
-        "course": "FS4895"
-      }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 2.5,
@@ -199,6 +414,8 @@
     "lastName": "Williamson",
     "legacyId": 1657665,
     "numRatings": 2,
+    "summary_comment": "Professor Williamson is an outstanding instructor known for his passion and deep knowledge of the subject matter. His classes are well-structured with a mix of quizzes and analytical assignments that effectively reinforce learning. Students consistently praise his ability to teach various aspects of composition, from narratives to annotated bibliographies, making his courses both informative and engaging.",
+    "summary_comment_short": "Professor Williamson is an outstanding teacher who consistently engages students and provides comprehensive knowledge across various writing techniques. His passion for the subject matter is evident, and while his assessments include numerous quizzes and analyses, students find them manageable and worthwhile.",
     "Ratings": [
       {
         "index": 1,
@@ -218,54 +435,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3,
-    "avgRating": 3.5,
-    "department": "Film",
-    "firstName": "Elizabeth",
-    "id": "VGVhY2hlci05NjExNTM=",
-    "lastName": "Angerman",
-    "legacyId": 961153,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "A GE SHOULD NOT BE THIS HARD. A LOT  OF WRITING INVOLVED ",
-        "course": "SLAVIC2230"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Angerman's Slavic film class is an excellent GEC. Her teaching style invites a lot of class participation. The movies were varied and always interesting. The reading material got kind of heavy at times, but nothing insurmountable. No surprises on tests assuming you paid attention during class and watched the movies. Recommend.",
-        "course": "SLA3360"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Excellent TA! Her class is the best class I have had at OSU. She is extremely well informed on the subject matter and offers  an interesting lecture. Her syllabus is extremely clear about what she expects from the student. She is also open minded and encourages critical thinking. The movies she chose were pretty cool too.",
-        "course": "FILM360"
-      },
-      {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Very easy.  You basically watch a movie one day, then discuss it in the next class.  The insructor does most of the talking, and when she asks questions you better respond or else she gets mad and threatens pop quizzes (never happened).  She makes the material sound demanding but in the end your grade won't reflect it (B-A range)",
-        "course": "RUSS360"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Very strict professor. Requires from you to be very precise in your answers and does not explain what you did wrong when grading your work. You have to go and talk to her in order to understand what exactly you did wrong. For a GEC course, it should not be this hard, you also feel very overwhelmed with the material. The only good thing is that out ",
-        "course": "RUSS360"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3.1,
     "avgRating": 3.9,
     "department": "Film",
@@ -274,6 +443,8 @@
     "lastName": "Preissle",
     "legacyId": 770421,
     "numRatings": 7,
+    "summary_comment": "Professor Preissle is known for his engaging and witty teaching style, which keeps students interested despite the challenging coursework. Students appreciate his availability for meetings and his dedication to learning, though some find his exams and quizzes to be difficult and tricky. Overall, while the workload is significant, many recommend his classes due to his enthusiasm and approachability.",
+    "summary_comment_short": "Professor Preissle is highly regarded for his engaging and witty teaching style, which keeps students interested despite the challenging coursework. However, his teaching approach can be demanding, with complex exams and extensive reading requirements, though some find the material rewarding and applicable to their future careers.",
     "Ratings": [
       {
         "index": 1,
@@ -323,6 +494,92 @@
         "difficulty": 2,
         "comment": "I had Preissle for my film and lit class and I thought it was a really fun class to take.  There are weekly papers (2 pgs) and quizzes (15 Qs,mult. ch.) but it's VERY easy to get 100%s on all of them.  The course paper (not a research paper) is also easy, 6 pages, i wrote it in 2 hours. You just have to study for his essay midterm and final.",
         "course": "COMPSTD358"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.4,
+    "avgRating": 3,
+    "department": "Film",
+    "firstName": "Aaron ",
+    "id": "VGVhY2hlci0xOTQ4NDU5",
+    "lastName": "Petten",
+    "legacyId": 1948459,
+    "numRatings": 5,
+    "summary_comment": "Professor Petten is known for his extensive vocabulary and detailed lectures, which can be confusing and hard to follow due to the use of complex words. Despite this, he is generally seen as approachable and willing to explain concepts upon request. However, the grading process, particularly by TAs, is often perceived as inconsistent and arbitrary, leading to criticism of the fairness and clarity of the assessment criteria.",
+    "summary_comment_short": "Professor Petten is known for his expansive vocabulary and detailed lectures, which can be confusing and difficult to follow, though he is willing to explain concepts upon request. However, the grading process, particularly by the TAs, is often seen as arbitrary and unfair, lacking clear criteria.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Professor Petten is a really nice guy but his lectures were confusing. His vocabulary is expansive and I had to look up a lot of the words he used in lecture. That being said, he was more than happy to explain things if asked. TA graded exams (which are all essay) & randomly marked off points without explanation. Would not recommend as a GE class. ",
+        "course": "HISART2901"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Intro to World Cinema was interesting & Professor Petten is genuinely interested in what he teaches.  Lectures were long but for the most part, necessary.  I greatly appreciated that he always started & ended on time, that he was very open to questions & in fact would always stay after class and answer questions.  I thought he was extremely fair.",
+        "course": "HISTART2901"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "He merely lectures at the class with minimal powerpoint usage - difficult to follow him and he often uses unnecessarily complicated words to confound his point. The final grade is composed of three in-class exams, for which we are assigned essays that are graded without any objective rubric. TAs take off points arbitrarily and can't explain why. ",
+        "course": "2901"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Petten is a professor who is extremely boring but gets the point across (although his use of over-complex vocabulary sometimes skews the message). If you take good notes, you will not have to read and should do well on the exams. Just drink some coffee before lecture because that's all this man does - lecture. ",
+        "course": "HISTART2901"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Had him for Intro to World Cinema. He only put bullets on powerpoints so you need to show up to take notes on what he actually says and watch the clips of the films even though they can be boring. If you take good notes you'll get an easy A. ",
+        "course": "19849"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 3.3,
+    "department": "Film",
+    "firstName": "Jane",
+    "id": "VGVhY2hlci0yMjQ3NDkz",
+    "lastName": "Greene",
+    "legacyId": 2247493,
+    "numRatings": 3,
+    "summary_comment": "Professor Greene is known for her engaging and passionate teaching style, particularly evident in her interdisciplinary approach to topics like horror films. She expects students to be well-prepared and provides valuable feedback on papers, though her no-nonsense attitude and frequent pop quizzes can be challenging. However, her humor and knowledge make the class worthwhile for those willing to put in the effort.",
+    "summary_comment_short": "Professor Greene is known for her engaging and passionate teaching style, particularly evident in her horror films class, which students find highly interesting. She expects students to be well-prepared and offers helpful feedback on papers, though her no-nonsense approach and frequent pop quizzes require consistent effort.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "As a science major, I only took her class as a GE, and it was so worth it. The topic was horror films which you could tell she was passionate about, which made the class super interesting . The pop quizzes are open-book and easy as long as you take notes in class and watch the movies. Use her office hours for her to read your papers!",
+        "course": "FS2367"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "She's funny, and a knowledgable lecturer. No-nonsense on phones/chatting/looking tired. Come prepared. You'll get out what you put in with her, and her comments on papers are very helpful. I'd take her again. Beware pop quizzes, and get ready to take notes: as a point she doesn't publish her slides. For 2271 she gave detailed rubrics.",
+        "course": "FS2271"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "She does not make a rubric for any of her assignments.   She is in a bad mood every day.  looking at her makes me think I should have never gone to college.",
+        "course": "FS4895"
       }
     ],
     "SEI": []

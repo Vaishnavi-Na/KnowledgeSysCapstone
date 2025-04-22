@@ -1,5 +1,494 @@
 [
   {
+    "avgDifficulty": 3.7,
+    "avgRating": 2.8,
+    "department": "Aerospace Engineering",
+    "firstName": "Mrinal",
+    "id": "VGVhY2hlci0yMjg0NTUy",
+    "lastName": "Kumar",
+    "legacyId": 2284552,
+    "numRatings": 9,
+    "summary_comment": "Dr. Kumar is highly regarded for his engaging and comprehensive lectures, with some students praising his excellent notes and fair exams. However, others find his teaching style and course structure challenging, citing slow grading, disconnected homework and exam material, and a perceived lack of clarity in explanations. Overall, opinions vary widely, with some considering him one of the best professors while others find his approach difficult and frustrating.",
+    "summary_comment_short": "Dr. Kumar is highly regarded for his engaging and comprehensive lectures, which are praised for their clarity and detail, making them nearly self-contained textbooks. However, his teaching style and exam formats are polarizing, with some students finding his classes challenging and less connected to practical applications.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Kumar is a masterclass in teaching an engineering course. A refreshing contrast to monotone lectures from other prof's, his lectures are lively and enthusiastic, keeping my attention and inspiring me to learn the content. Course notes are downright excellent; effectively their own textbook. Exams are fair yet conceptual. Brilliant all around",
+        "course": "AE3522"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Not good, just not good. Get ready for his holy bible of astronautics notes that the entire class is based on and that he basically just reads every lecture.",
+        "course": "AE3522"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Worst professor I've had. He makes so many mistakes and rude also. Faculty at the university he used to teach at before OSU told him to stop researching astrodynamics....he should have listened",
+        "course": "AE3522"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "He is incredibly slow at grading anything (roughly 1 month to grade a single midterm). His lectures/notes are completely irrelevant to the homework...there is a huge disconnect between the notes and hw material. He also has a very strange test format.",
+        "course": "AE3522"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Not good and very mean",
+        "course": "AAE3520"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Kumar is genuinely an amazing professor for orbital mechanics. His exams are fair and graded easily, and he often records solutions to the homework problems. His lecture notes are some of the best I have ever seen (Typed, neat, equations numbered), and he is very approachable. Def. one of the best profs at OSU.",
+        "course": "AE5626"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Professor Kumar's class is very difficult because he keeps his exams very conceptual and his homeworks are high level. That being said, i've learned more from him than in most of my other classes. His lectures are very comprehensive and he explains the concepts very well. He asks a lot of you but if you keep up, it is well worth the effort.",
+        "course": "AAE3520"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "this guy is a horrible. He gives you homeworks that super tedious and long and not really helpful for his exams. His online notes are super long and too detailed which is not really helpful as well. He thinks everyone is so smart and understands materials straight forward - which is not true. I suffered a lot, bet u gonna suffer a lot so good luck.",
+        "course": "AAE3520"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Professor Kumar is exceptional in all regards. He has incredible online notes, but going to class helps out tremendously because he explains everything in a slightly different way than the notes. Homework and tests are conceptually difficult at first, but once you get the hang of it the class isn't bad at all. Would recommend.",
+        "course": "AAE3520"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5626",
+        "Class Name": "Orbital Mechanics for Engineers",
+        "Class Number": "10543",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5626",
+        "Class Name": "Orbital Mechanics for Engineers",
+        "Class Number": "33349",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "37",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5626",
+        "Class Name": "Orbital Mechanics for Engineers",
+        "Class Number": "11529",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "38",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "8830",
+        "Class Name": "Random Dynamical Systems",
+        "Class Number": "37190",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 4.3,
+    "avgRating": 2.6,
+    "department": "Aerospace Engineering",
+    "firstName": "Jack",
+    "id": "VGVhY2hlci0xMzQ2NDc5",
+    "lastName": "MacNamara",
+    "legacyId": 1346479,
+    "numRatings": 17,
+    "summary_comment": "Professor MacNamara's teaching is generally considered poor, with students finding his grading scheme confusing and his lectures unhelpful, especially when compared to the difficulty of the homework and exam problems. Many students describe the class as challenging and potentially unmanageable, with some suggesting it is nearly impossible to avoid due to his being the sole instructor for flight vehicle structures in the aeronautical program.",
+    "summary_comment_short": "Professor MacNamara's teaching is widely perceived as ineffective and challenging, with students finding his lectures boring and unhelpful, and his grading scheme and homework assignments particularly difficult and time-consuming. Many advise avoiding his class if possible due to its generally negative reception.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "His grading scheme is so weird. The homeworks he assigns takes hours cause he does easy problems in class and challenging ones on the homework. Then he puts harder ones on the exam. Horrible class",
+        "course": "AAE3542"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "The dude does not want to teach ",
+        "course": "AAE3542"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "The material in this class can be super boring and the homeworks he assigns take super long cause he does such simple examples in class which don't relate at all with the homework. Not helpful at all in office hours and treats people like they are stupid. Historically, exams are near impossible but this semester, he made them not too bad. ",
+        "course": "AAE3542"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Good luck!",
+        "course": "AAE3542"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Dude is rough",
+        "course": "AAE3543"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "only flight vehicle structures prof in aero program. Material is interesting, but lecture is boring. Osu should probably replace him",
+        "course": "AAE3543"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Tough class, cant take it with other profs so you have to deal with him. Avoid if possible.",
+        "course": "AAE3543"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Makes tests difficult and assigns a couple HomeWorks a semester which take hours because the examples done in class don&#39;t relate to the homework very well. He is open and honest about having horrible test averages. His grading system is very awful. Get ready to be disappointed by this class no matter how many hours you study. Avoid if possible.",
+        "course": "AAE3543"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Great guy. Lectures can be derivation heavy at times, but he breaks the monotony by cracking a few jokes and going off topic.",
+        "course": "AAE5645"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Best professor at OSU, actually learned something in this class",
+        "course": "AAE5645"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Structures 1 is very out there and much of it makes no sense at all to be honest.  Structures 2 is much more tangible and actually his tests weren't bad.  The final was very fair. I hope he publishes his notes into a textbook someday.",
+        "course": "AAE3543"
+      },
+      {
+        "index": 12,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Very upfront about how hard this class is, which is an understatement. While he was funny and a relatively good teacher, unless you go to every office hour be prepared to do abysmally in the class. Homeworks were a pain in the ass, final was impossible.",
+        "course": "AAE543"
+      },
+      {
+        "index": 13,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Very difficult course.  You know the class will be difficult when he tells you the first day that the averages usually range between 40% and 50% and he curves from there.  If you crack some jokes with him and participate in class, things are easier on you.",
+        "course": "AAE543"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I got an A in the class but I can't say it was easy because I worked my ass off for it. The lectures were a bit boring but he broke it up every once in a while and cracked some jokes. The exams were simple besides his picky T/F and the final question was always extremely hard. Good intro professor, I enjoyed his class and his approach to questions.",
+        "course": "AAE200"
+      },
+      {
+        "index": 15,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "It was his first time teaching AAE 200 (normally teaches jr level or higher). It seemed harder than a 200 level class, but it is aero. His homeworks are nothing like the midterm or final. All he does during lectures is deriving equations.",
+        "course": "AERO200"
+      },
+      {
+        "index": 16,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Jack Mc....he went to Michigan",
+        "course": "AAE200"
+      },
+      {
+        "index": 17,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": ":/",
+        "course": "AAE200"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.2,
+    "avgRating": 2.7,
+    "department": "Aerospace Engineering",
+    "firstName": "Ken",
+    "id": "VGVhY2hlci0yMTMwOTQ5",
+    "lastName": "Gordon",
+    "legacyId": 2130949,
+    "numRatings": 22,
+    "summary_comment": "Professor Gordon is known for his clarity in grading criteria and ability to make complex content understandable, though his teaching style can leave some students feeling overwhelmed. Students note that his exams are challenging but fairly graded, and while his lectures are valuable, they can be difficult to follow without additional study. Overall, his approach to teaching is effective but can be demanding and stressful for many students.",
+    "summary_comment_short": "Professor Gordon is known for his clear grading criteria and effective teaching methods, making the content understandable and ensuring students know exactly what is required for homework. However, his lectures can be challenging to follow, especially for those who struggle with abstract concepts, and his exams and homework are often graded harshly, leading to a steep learning curve.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Good luck. ",
+        "course": "ME2040"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Good and fair professor, grade tests leniently, just make sure to score high on the first half of this class since that is the easy half.",
+        "course": "ME2040"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "If you have disability services avoid this prof at all costs. He does not respect people with disability services. His lectures suck but if you dont go then you fail. His homework is graded by 5 year olds. There is no consistency in grading. His exams are hard but graded fairly. He really enjoys bulling students for asking questions. HES CANADIAN",
+        "course": "ME2040"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "This is his ME2040 class which was not available choice. Don't skip class unless you enjoy self-learning. He doesn't have any recorded lectures, only online notes. Regarding exams, his exams are hard. I wish i had the other prof. He also doesn't give practice exams. This class is also not curved but is close to the level of physics. ",
+        "course": "ME2850"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "he bullies students for asking questions",
+        "course": "ME2850"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I honestly wish every professor was like Dr. Gordon. He had the clearest grading criteria for homework I've ever seen! You couldn't miss a requirement, and you didn't have to guess what he wanted: he tells you EXACTLY what he wants on EVERY homework.",
+        "course": "AE3581"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Ken Gordon has good intentions but doesnt comprehend the fact that 80% of his students dont understand what he is saying. He teaches concepts by using abstract examples and leaves us more confused than before. Homework takes 6-8 hours and his questions are worded in a very annoying manner. Expects a lot, and exams are horrendously paced.",
+        "course": "ME2850"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Ken Gordon is an incredible lecturer. He makes the content clear and you will learn the content. Although you learn the content, it is still very easy to get a poor grade. The assignments are very long and graded harshly, and while the midterms are straightforward, they are graded harshly as well. He is cool but a bit twitchy and passive aggressive",
+        "course": "AAE3581"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "He's just not a very good teacher and doesn't understand how students don't get what he's saying. He expects a lot of his students but is a very harsh grader on even the smallest of assignments.",
+        "course": "ME2850"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Kenny G has some weird vibes like he seems really nice but it's like fake nice. The concept quizzes kind of suck since he only gives you a few minutes to answer some tricky questions. The homework can sometimes take a while since it can be hard to understand how to answer the questions using what he says in lecture. The exams aren't too bad though",
+        "course": "ME2850"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Gordon is a fair professor who clearly explains the course material. Passionate about his subject matter and very knowledgeable. Make sure to understand the homework and concept quizzes and you will be fine.",
+        "course": "ME2850"
+      },
+      {
+        "index": 12,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Very enthusiastic, but also a lot harder than needs to be. Likes to ask trick questions. Sometimes says he won't go further on a subject because it's something on our homework and we should learn it on our own.",
+        "course": "ME2850"
+      },
+      {
+        "index": 13,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Ken Gordon is one of the most knowledgeable and well prepared professors I have had the pleasure of learning from. His homeworks, while many, are fair and if you take the time to actually do them they are actually quite helpful. His exams are difficult, but not because he tries to trick you or because he intends them to be.",
+        "course": "AERO3581"
+      },
+      {
+        "index": 14,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Nice guy, smart, very enthusiastic about subject and seems to care about students. But he isn't always the best at explaining things, and the class is very difficult. Some things seemed to be made more difficult than they needed to be.",
+        "course": "ME2850"
+      },
+      {
+        "index": 15,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "He seems to love the material and is smart, but the pros end there. He has a very petty vibe/ mannerisms, which includes lecture, emails, answering questions, and through the tricky worded tests and HWs. I found this material to be difficult, and his condescending approach and single one hour office hours didn't help. Overall didn't enjoy the class",
+        "course": "ME2850"
+      },
+      {
+        "index": 16,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "I fully believe that Ken loves teaching and is insanely smart but he cannot explain anything on a basic, first time seeing the material level (which is what this class is). He makes you feel stupid for asking any questions and then doesn't answer them. The exams honestly weren't bad but the average homework grade was a D after spending hours on it.",
+        "course": "ME2850"
+      },
+      {
+        "index": 17,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I prefer to study myself with aid of textbook and online free sources. He made this course harder than it should be. Heat transfer is no rocket science, I would prefer another lecturer for this course. This dog does not know how to respect students.",
+        "course": "ME4510"
+      },
+      {
+        "index": 18,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "I found his lectures and homework assignments to be very confusing. He sent many clarifications for homework as the instructions were hard to understand. Be ready to write long Matlab codes for homework which are strictly graded. When you ask a question in class he doesn't like to give a direct answer which is really frustrating.",
+        "course": "ME2850"
+      },
+      {
+        "index": 19,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Choose another instructor if you have other options. He makes you lose all your interests to your major, tough grader, boring classes, not posting the grades on Carmen, limit office hours!",
+        "course": "ME2850"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This guy was put on this earth to be a teacher. His class is in no way easy but he doesn't create any roadblocks to you succeeding. If you fail, it's on you. I wish every professor followed his format of teaching.",
+        "course": "AAE3581"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "One of the best professors I've had. He made thermo much easier than what everybody was depicting it to be. Great guy as well. Don't skip class because those lectures are some of the best you'll ever get to listen to in your life and are vital to success in the class. Would take again in a heartbeat. Homework can be long but it's worth every point.",
+        "course": "AE2405"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Made what I thought was going to be an absolutely terrible/difficult class something I looked forward to each week. Lectures are some of the best I've ever been to. Key points are well defined and the entire thought process behind a problem was presented very clearly. He is clearly passionate about the material and it makes class fun.",
+        "course": "AEROENG2405"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "AEROENG",
+        "Catalog": "3581",
+        "Class Name": "Numerical Methods in Aerospace Engineering",
+        "Class Number": "6957",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "56",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "MECHENG",
+        "Catalog": "2850.01",
+        "Class Name": "Numerical Methods in Mechanical Engineering",
+        "Class Number": "6705",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Mechanical Engineering",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "47",
+        "Rating": "4.26"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 5,
+    "avgRating": 5,
+    "department": "Aerospace Engineering",
+    "firstName": "John",
+    "id": "VGVhY2hlci0zMDA2Njc4",
+    "lastName": "Cherry",
+    "legacyId": 3006678,
+    "numRatings": 1,
+    "summary_comment": "Professor Cherry is an excellent instructor known for her comprehensive teaching approach and clear explanations, earning her high regard as a great professor overall.",
+    "summary_comment_short": "Professor Cherry is an excellent instructor known for her overall high-quality teaching. She effectively communicates complex concepts and engages students throughout her lectures.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "great professor overall ",
+        "course": "lecture"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 2.2,
     "avgRating": 4.4,
     "department": "Aerospace Engineering",
@@ -8,6 +497,8 @@
     "lastName": "Cesul",
     "legacyId": 1766647,
     "numRatings": 5,
+    "summary_comment": "Professor Cesul is highly regarded for his engaging and relatable teaching style, which makes complex subjects accessible and enjoyable. Despite initial concerns about the course level, many students appreciate his extensive knowledge and dedication to helping them learn, as well as his support in career-related endeavors.",
+    "summary_comment_short": "Professor Cesul is highly regarded for his engaging and relatable teaching style, which makes complex subjects accessible and enjoyable. Despite some criticism regarding the depth of certain courses, students consistently praise his extensive knowledge and dedication to both teaching and supporting students' career aspirations.",
     "Ratings": [
       {
         "index": 1,
@@ -56,6 +547,8 @@
     "lastName": "Ritchie",
     "legacyId": 2652080,
     "numRatings": 10,
+    "summary_comment": "Professor Ritchie is widely regarded as one of the worst teachers at Ohio State, known for his unhelpful and condescending lectures, strict and often unenforced grading policies, and a generally negative classroom atmosphere. Student feedback consistently highlights issues with his teaching methods, including vague and uninformative assignments, long and unproductive lab sessions, and a lack of engagement or support from the professor.",
+    "summary_comment_short": "Professor Ritchie is widely regarded as ineffective and unhelpful, with many students criticizing his poor teaching methods, lack of engagement, and condescending attitude. Several students also noted issues with grading policies and the quality of lectures, which were often seen as uninformative and repetitive.",
     "Ratings": [
       {
         "index": 1,
@@ -128,188 +621,260 @@
         "course": "AERO2200"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.9,
-    "avgRating": 3.6,
-    "department": "Aerospace Engineering",
-    "firstName": "James",
-    "id": "VGVhY2hlci0xNDc5NTk2",
-    "lastName": "Gregory",
-    "legacyId": 1479596,
-    "numRatings": 24,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I really liked the flipped classroom design because it forced me to take my notes and made sure I paid attention and understood the material. Homework pertained to the videos you watched that week. Mandatory attendance for lectures was dumb. I took him for granted, the 2201 professor is much worse. I miss airplane Jim and wish i had him again.",
-        "course": "AERO2200"
+        "Subject": "AEROENG",
+        "Catalog": "2200",
+        "Class Name": "Introduction to Aerospace Engineering I",
+        "Class Number": "11061",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "125",
+        "Rating": "4.16"
       },
       {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "His lectures are a major waste of time and he assigns countless assignments which are frequently irrelevant when compared to course material. The labs for this class are lengthy and redundant and his homework assignments are unnecessarily difficult. If you can avoid taking him as a professor do it!",
-        "course": "AERO2200"
+        "Subject": "AEROENG",
+        "Catalog": "4510",
+        "Class Name": "Experimental Projects I",
+        "Class Number": "10542",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "54",
+        "Rating": "3"
       },
       {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "If I could give this man a 0 I would. Going to his lecture was such a waste of time and energy but attendance is taken every morning. He makes you watch countless hours of lecture videos and then repeats everything in lecture just to be redundant. His exams are unnecessarily difficult and he does not give any grading rubrics.",
-        "course": "AERO2200"
+        "Subject": "AEROENG",
+        "Catalog": "4511",
+        "Class Name": "Experimental Projects II",
+        "Class Number": "6857",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "58",
+        "Rating": "3.36"
       },
       {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "I've been going through quite a few personal issues this semester that affected my ability to do well in class, but he was always accessible and tried as best he could (within his own parameters) to help me succeed. He truly loves aerospace, and it's easy to see that when attending his lectures.",
-        "course": "AERO2200"
+        "Subject": "AEROENG",
+        "Catalog": "5752",
+        "Class Name": "Advanced Space Propulsion",
+        "Class Number": "6966",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "3.63"
       },
       {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "He is passionate about the subject and seems to know a lot but he over complicates every assignment and doesn't make good use of in class lecture time. You have to watch 1-2 hours of online videos for a quiz and then he repeats it all in class. He wastes too much class time especially for the lectures being everyday at 8am.",
-        "course": "AERO2200"
+        "Subject": "AEROENG",
+        "Catalog": "2200",
+        "Class Name": "Introduction to Aerospace Engineering I",
+        "Class Number": "33358",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "67",
+        "Rating": "3.45"
       },
       {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "This guy knows what he is doing and is a genius in Aerospace. Takes a students love of Aerospace and turns it into a functioning skill. The labs were long, but were rewarding. The homeworks were hard and sucked. The online lectures are mandatory to get a good grade. Some exams were impossible, others easy. The final project is fun and is rewarding",
-        "course": "AERO2200"
+        "Subject": "AEROENG",
+        "Catalog": "2200",
+        "Class Name": "Introduction to Aerospace Engineering I",
+        "Class Number": "36094",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "73",
+        "Rating": "3.05"
       },
       {
-        "index": 7,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "By no means, is Jim a bad professor, however, for some reason, he seems to unnecessarily complicate things. He doesn't give you an equation sheet, despite the entire class being dependent on it. Homework is graded for correctness and is very challenging. The labs are long and tiresome and if you get stuck with a bad group... Good luck Charlie.",
-        "course": "AAE2200"
+        "Subject": "AEROENG",
+        "Catalog": "4510",
+        "Class Name": "Experimental Projects I",
+        "Class Number": "33348",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "72",
+        "Rating": "2.73"
       },
       {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "His lecture notes don't make sense outside of class without hours of online research.  The course is Matlab heavy despite much of the MatLab not being taught in his class or the intro to MatLab class. But the worst of all was the final project he assigned during finals week that was worth 10% of your final grade and he didn't teach you how to do.",
-        "course": "AAE2200"
+        "Subject": "AEROENG",
+        "Catalog": "2405",
+        "Class Name": "Thermodynamics",
+        "Class Number": "29967",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "105",
+        "Rating": "4"
       },
       {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Great professor. One of the best I've ever had. Really cares about teaching the subject. Very helpful during office hours also.",
-        "course": "AAE2200"
+        "Subject": "AEROENG",
+        "Catalog": "4511",
+        "Class Name": "Experimental Projects II",
+        "Class Number": "29971",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "61",
+        "Rating": "3.07"
       },
       {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "VERY good professor, especially compared to some of the third year profs. He said on the first day that he hoped we would have fun through our class and I legitimately did. He did a great job teaching the fundamental concepts of AE. The negative reviews baffle me, must be from the 50% dropout rate in AE -most remaining students thought he was great",
-        "course": "AAE2200"
+        "Subject": "AEROENG",
+        "Catalog": "2200",
+        "Class Name": "Introduction to Aerospace Engineering I",
+        "Class Number": "11912",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "112",
+        "Rating": "4.34"
       },
       {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "By far, the BEST professor I've ever had. The material covered in this class was extremely difficult, but I mean, come on, it's aerospace engineering... Dr. Gregory knows his stuff and is able to break down difficult concepts into clear and intuitive notes. I can't say enough about him. I wish every class I take from here on out was taught by him.",
-        "course": "AERO2200"
+        "Subject": "AEROENG",
+        "Catalog": "4510",
+        "Class Name": "Experimental Projects I",
+        "Class Number": "11528",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "79",
+        "Rating": "3.47"
       },
       {
-        "index": 12,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Gave us alot of homeworks which should have been worth more than the exams, Lab are overloaded, Exams are impossible to destruction Whenever you ask him a question, most of the time doesn't know the answer to it. Our TA asked him a question nd he didnt give him answer,he just said good question! And that was it.",
-        "course": "AAE2200"
+        "Subject": "AEROENG",
+        "Catalog": "4511",
+        "Class Name": "Experimental Projects II",
+        "Class Number": "11357",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "84",
+        "Rating": "3.73"
       },
       {
-        "index": 13,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "absolutely the worst professor. I think he hates middle easterns, on a first assignment he took a point of becuase i dont even know the reason, when i asked him why, he replied saying you didnt follow directions, the directions were to upload a pic and decribe your self. I did exactly what was said. He then said my pic was not good.",
-        "course": "AAE2200"
+        "Subject": "AEROENG",
+        "Catalog": "5610",
+        "Class Name": "Helicopter Aerodynamics",
+        "Class Number": "11458",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "19",
+        "Rating": "3.89"
       },
       {
-        "index": 14,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Dr Gregory was not the best professor. He would not even give you a review sheet or go over what will be on the exam. Totally avoid him.",
-        "course": "AERO2200"
+        "Subject": "AEROENG",
+        "Catalog": "2200",
+        "Class Name": "Introduction to Aerospace Engineering I",
+        "Class Number": "11797",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "137",
+        "Rating": "4.13"
       },
       {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Was a very hard class. Intentionally made the exams more difficult after the class did well on the first exam. Not very clear in his notes. Labs are more work then they are worth",
-        "course": "AERO2200"
+        "Subject": "AEROENG",
+        "Catalog": "2200",
+        "Class Name": "Introduction to Aerospace Engineering I",
+        "Class Number": "39025",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
       },
       {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Fun guy, super helpful both in and out of class. He spends about ten minutes reviewing the previous lecture every time which really helps the concepts sink in. Exams are very fair, sometimes the homework is hard but it's good preparation.",
-        "course": "AERO2200"
+        "Subject": "AEROENG",
+        "Catalog": "4510",
+        "Class Name": "Experimental Projects I",
+        "Class Number": "11480",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "77",
+        "Rating": "3.96"
       },
       {
-        "index": 17,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "The exams are not that bad but the stuff he expected us to do in Matlab for the labs and homework was insane. If you're not skilled with matlab good luck getting above a 60% on the labs and homework",
-        "course": "AERO201"
+        "Subject": "AEROENG",
+        "Catalog": "4511",
+        "Class Name": "Experimental Projects II",
+        "Class Number": "11240",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "70",
+        "Rating": "3.91"
       },
       {
-        "index": 18,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Great teacher. He's able to engage students and hold their attention. His only weakness seems to be his homework and exams. The homework is complicated with the use of matlab, making it horrendous. 2nd exam problems were nothing like the books, and the review session didn't cover the test well. I'd suggest finding old ones,but that's not allowed.",
-        "course": "AERO201"
-      },
-      {
-        "index": 19,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "Great guy but really hard exams and overloads on work on some weeks which sucks, but overall a good teacher",
-        "course": "AERO201"
-      },
-      {
-        "index": 20,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "He is a very good professor and is very helpful. He grades fairly the exams are not very hard.",
-        "course": "AERO201"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "A great, friendly professor who is passionate about teaching. Homework assignment and labs are great resources. MUST attend lecture to get notes. Midterms and final are challenging but rewarding for those who study and try. Considers students efforts if you come to him for help often. WILL call you out if you are sleeping or texting.",
-        "course": "AERO200"
-      },
-      {
-        "index": 22,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Great teacher. Teaches well and presents material clearly. He is definitely old-school and will call you out in front of class if your sleeping or texting on your phone, however, its only to keep the students focused. The class is challenging, but you will learn a lot.",
-        "course": "AERO200"
-      },
-      {
-        "index": 23,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Very helpful, always glad to point in the right direction, every question is a good question. Homeworks are relatively hard. Labs are VERY hard.make use of carmen discussion boards.Very enthusiastic/passionate about the subject in general.Derivation lectures are VERY boring but useful in tests.",
-        "course": "AERO200"
-      },
-      {
-        "index": 24,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "No Comments",
-        "course": "AAE405"
+        "Subject": "AEROENG",
+        "Catalog": "5610",
+        "Class Name": "Helicopter Aerodynamics",
+        "Class Number": "11338",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.33"
       }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 4.2,
@@ -320,6 +885,8 @@
     "lastName": "Yedavalli",
     "legacyId": 1128680,
     "numRatings": 34,
+    "summary_comment": "Professor Yedavalli is widely regarded as having extremely poor teaching quality, with students warning that missing classes leads to poor grades, while attending classes does not ensure understanding. Students have described him as unfair in grading and hostile in communication, with one comment suggesting he should not be teaching at all.",
+    "summary_comment_short": "Professor Yedavalli is widely regarded as having extremely poor teaching and grading practices, with students reporting that attending classes does not guarantee a good grade, and that he employs tactics to fail students. Many describe his interactions as toxic and threatening, advising students to avoid any engagement with him.",
     "Ratings": [
       {
         "index": 1,
@@ -560,7 +1127,36 @@
         "course": "AAE626"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5621",
+        "Class Name": "Guidance, Navigation, and Control of Aerospace Vehicles",
+        "Class Number": "33621",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "1"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "3521",
+        "Class Name": "Fundamentals of Flight Vehicle Control",
+        "Class Number": "6943",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "65",
+        "Rating": "1.48"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.6,
@@ -571,6 +1167,8 @@
     "lastName": "Horack",
     "legacyId": 2286969,
     "numRatings": 7,
+    "summary_comment": "Professor Horack is highly regarded for his exceptional teaching quality and genuine care for his students. Students consistently praise his engaging lectures, insightful leadership lessons, and willingness to adapt to their needs. His enthusiasm and deep knowledge make him one of the standout professors at Ohio State, particularly valued for his impact on students' personal and professional development.",
+    "summary_comment_short": "Professor Horack is highly regarded for his exceptional teaching quality and genuine care for his students, often cited as one of the best professors at Ohio State. Students appreciate his enthusiasm, engaging lectures, and practical insights into leadership, making his classes both enjoyable and informative.",
     "Ratings": [
       {
         "index": 1,
@@ -622,62 +1220,218 @@
         "course": "AE5626"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.5,
-    "avgRating": 3.2,
-    "department": "Aerospace Engineering",
-    "firstName": "Ran",
-    "id": "VGVhY2hlci0yNDM2MDU1",
-    "lastName": "Dai",
-    "legacyId": 2436055,
-    "numRatings": 6,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "Ran Dai is simply the worst professor I have ever had. Although the class is easy enough due to extra credit opportunities, It is the worst academic experience I have had at OSU by far. Dr. Dai is extremely bad at communicating information to students and you will feel lost during pretty much every lecture.",
-        "course": "AAE3521"
+        "Subject": "AEROENG",
+        "Catalog": "5752",
+        "Class Name": "Advanced Space Propulsion",
+        "Class Number": "30079",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "5"
       },
       {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "One of the better aerospace professor at OSU.",
-        "course": "AAE3521"
+        "Subject": "AEROENG",
+        "Catalog": "5752",
+        "Class Name": "Advanced Space Propulsion",
+        "Class Number": "30080",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.86"
       },
       {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Professor Dai actually organized this class pretty well compare to what we had for other aerospace classes last semester.",
-        "course": "AAE3521"
+        "Subject": "AEROENG",
+        "Catalog": "5752",
+        "Class Name": "Advanced Space Propulsion",
+        "Class Number": "11460",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "32",
+        "Rating": "5"
       },
       {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "One of the good professor in the OSU aerospace department. Its unfortunately that the prerequisite for this class, FVD, was taught by Rama Y before Ran Dai. Otherwise, this class would make much more sense but its still good.",
-        "course": "AAE3521"
+        "Subject": "AEROENG",
+        "Catalog": "4517",
+        "Class Name": "Design of Space Vehicles and Systems I",
+        "Class Number": "11501",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.92"
       },
       {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "So the lectures are pointless, she just puts her head down and talk at her iPad. The posted notes are virtually impossible to follow. Be prepared to learn from someone else. Nice person though.",
-        "course": "AAE3521"
+        "Subject": "AEROENG",
+        "Catalog": "4517",
+        "Class Name": "Design of Space Vehicles and Systems I",
+        "Class Number": "11502",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.9"
       },
       {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "You will learn nothing from the lectures. Lecture notes pretty useless too. But she's helpful in office hours. Good luck.",
-        "course": "AERO3521"
+        "Subject": "AEROENG",
+        "Catalog": "4518",
+        "Class Name": "Design of Space Vehicles and Systems II",
+        "Class Number": "11357",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "4518",
+        "Class Name": "Design of Space Vehicles and Systems II",
+        "Class Number": "11358",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5752",
+        "Class Name": "Advanced Space Propulsion",
+        "Class Number": "11339",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5752",
+        "Class Name": "Advanced Space Propulsion",
+        "Class Number": "11340",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "21",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1138.01",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "35193",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "AVIATN",
+        "Catalog": "2000",
+        "Class Name": "Introduction to the Aviation Industry",
+        "Class Number": "36992",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aviation",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "AVIATN",
+        "Catalog": "4500",
+        "Class Name": "Aviation Capstone",
+        "Class Number": "25933",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aviation",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.05"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3620",
+        "Class Name": "US Space Policy and the Global Space Economy",
+        "Class Number": "35371",
+        "Term": "AU 20",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3620",
+        "Class Name": "US Space Policy and the Global Space Economy",
+        "Class Number": "34368",
+        "Term": "AU 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "3620",
+        "Class Name": "US Space Policy and the Global Space Economy",
+        "Class Number": "35842",
+        "Term": "AU 23",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
       }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 4,
@@ -688,6 +1442,8 @@
     "lastName": "Trussa",
     "legacyId": 2962610,
     "numRatings": 1,
+    "summary_comment": "Professor Trussa is an excellent lecturer who presents engaging and challenging material. While his handwriting can be difficult to follow at times, he is thorough in clarifying concepts. The course includes both calculation and conceptual questions in exams, and consistent attendance and attentiveness are key to success. Despite its difficulty, the class is highly recommended for those willing to put in the effort.",
+    "summary_comment_short": "Professor Trussa is an excellent lecturer who presents engaging and challenging material. While his handwriting can be difficult to follow at times, he is thorough in clarifying concepts. His exams combine both calculation and conceptual questions, and consistent attendance and attention are key to success in the course.",
     "Ratings": [
       {
         "index": 1,
@@ -708,6 +1464,8 @@
     "lastName": "Jhemi",
     "legacyId": 2213129,
     "numRatings": 22,
+    "summary_comment": "Professor Jhemi is generally seen as unorganized and ineffective in delivering lectures, often reading directly from PowerPoint slides and going off-topic. Despite being described as a nice person who explains things well in office hours and provides straightforward exams and homework, his teaching style is criticized for being slow-paced and lacking in depth, with many students finding his lectures confusing and difficult to follow.",
+    "summary_comment_short": "Professor Jhemi is perceived as a knowledgeable but disorganized lecturer who often reads directly from PowerPoint slides and frequently corrects his own notes during classes. Despite being described as approachable and lenient with grading, his teaching style is criticized for being slow-paced and lacking in practical problem-solving demonstrations.",
     "Ratings": [
       {
         "index": 1,
@@ -864,402 +1622,232 @@
         "course": "AAE3520"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.7,
-    "avgRating": 2.8,
-    "department": "Aerospace Engineering",
-    "firstName": "Mrinal",
-    "id": "VGVhY2hlci0yMjg0NTUy",
-    "lastName": "Kumar",
-    "legacyId": 2284552,
-    "numRatings": 9,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Kumar is a masterclass in teaching an engineering course. A refreshing contrast to monotone lectures from other prof's, his lectures are lively and enthusiastic, keeping my attention and inspiring me to learn the content. Course notes are downright excellent; effectively their own textbook. Exams are fair yet conceptual. Brilliant all around",
-        "course": "AE3522"
+        "Subject": "AEROENG",
+        "Catalog": "4517",
+        "Class Name": "Design of Space Vehicles and Systems I",
+        "Class Number": "11388",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "3.42"
       },
       {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Not good, just not good. Get ready for his holy bible of astronautics notes that the entire class is based on and that he basically just reads every lecture.",
-        "course": "AE3522"
+        "Subject": "AEROENG",
+        "Catalog": "2201",
+        "Class Name": "Introduction to Aerospace Engineering II",
+        "Class Number": "6852",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "96",
+        "Rating": "4.38"
       },
       {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Worst professor I've had. He makes so many mistakes and rude also. Faculty at the university he used to teach at before OSU told him to stop researching astrodynamics....he should have listened",
-        "course": "AE3522"
+        "Subject": "AEROENG",
+        "Catalog": "5610",
+        "Class Name": "Helicopter Aerodynamics",
+        "Class Number": "6964",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "3.88"
       },
       {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "He is incredibly slow at grading anything (roughly 1 month to grade a single midterm). His lectures/notes are completely irrelevant to the homework...there is a huge disconnect between the notes and hw material. He also has a very strange test format.",
-        "course": "AE3522"
+        "Subject": "AEROENG",
+        "Catalog": "3520",
+        "Class Name": "Flight Vehicle Dynamics",
+        "Class Number": "33264",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "85",
+        "Rating": "3.51"
       },
       {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Not good and very mean",
-        "course": "AAE3520"
+        "Subject": "AEROENG",
+        "Catalog": "4517",
+        "Class Name": "Design of Space Vehicles and Systems I",
+        "Class Number": "33375",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "3.63"
       },
       {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Kumar is genuinely an amazing professor for orbital mechanics. His exams are fair and graded easily, and he often records solutions to the homework problems. His lecture notes are some of the best I have ever seen (Typed, neat, equations numbered), and he is very approachable. Def. one of the best profs at OSU.",
-        "course": "AE5626"
+        "Subject": "AEROENG",
+        "Catalog": "3520",
+        "Class Name": "Flight Vehicle Dynamics",
+        "Class Number": "33071",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "91",
+        "Rating": "3.84"
       },
       {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Professor Kumar's class is very difficult because he keeps his exams very conceptual and his homeworks are high level. That being said, i've learned more from him than in most of my other classes. His lectures are very comprehensive and he explains the concepts very well. He asks a lot of you but if you keep up, it is well worth the effort.",
-        "course": "AAE3520"
+        "Subject": "AEROENG",
+        "Catalog": "4518",
+        "Class Name": "Design of Space Vehicles and Systems II",
+        "Class Number": "30101",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "3.46"
       },
       {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "this guy is a horrible. He gives you homeworks that super tedious and long and not really helpful for his exams. His online notes are super long and too detailed which is not really helpful as well. He thinks everyone is so smart and understands materials straight forward - which is not true. I suffered a lot, bet u gonna suffer a lot so good luck.",
-        "course": "AAE3520"
+        "Subject": "AEROENG",
+        "Catalog": "5610",
+        "Class Name": "Helicopter Aerodynamics",
+        "Class Number": "30078",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.13"
       },
       {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Professor Kumar is exceptional in all regards. He has incredible online notes, but going to class helps out tremendously because he explains everything in a slightly different way than the notes. Homework and tests are conceptually difficult at first, but once you get the hang of it the class isn't bad at all. Would recommend.",
-        "course": "AAE3520"
+        "Subject": "AEROENG",
+        "Catalog": "3521",
+        "Class Name": "Fundamentals of Flight Vehicle Control",
+        "Class Number": "34783",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "54",
+        "Rating": "3.48"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "4517",
+        "Class Name": "Design of Space Vehicles and Systems I",
+        "Class Number": "11554",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "36",
+        "Rating": "3.08"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "3520",
+        "Class Name": "Flight Vehicle Dynamics",
+        "Class Number": "11794",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "69",
+        "Rating": "3.38"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "4518",
+        "Class Name": "Design of Space Vehicles and Systems II",
+        "Class Number": "11480",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "33",
+        "Rating": "3"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5610",
+        "Class Name": "Helicopter Aerodynamics",
+        "Class Number": "38835",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.2"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5620",
+        "Class Name": "Stability and Control of Flight Vehicles",
+        "Class Number": "12430",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.18"
+      },
+      {
+        "Subject": "MECHENG",
+        "Catalog": "2010",
+        "Class Name": "Statics",
+        "Class Number": "30174",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Mechanical Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "115",
+        "Rating": "3.32"
+      },
+      {
+        "Subject": "MECHENG",
+        "Catalog": "2010",
+        "Class Name": "Statics",
+        "Class Number": "8658",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Mechanical Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "91",
+        "Rating": "3.9"
       }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.3,
-    "avgRating": 2.6,
-    "department": "Aerospace Engineering",
-    "firstName": "Jack",
-    "id": "VGVhY2hlci0xMzQ2NDc5",
-    "lastName": "MacNamara",
-    "legacyId": 1346479,
-    "numRatings": 17,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "His grading scheme is so weird. The homeworks he assigns takes hours cause he does easy problems in class and challenging ones on the homework. Then he puts harder ones on the exam. Horrible class",
-        "course": "AAE3542"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "The dude does not want to teach ",
-        "course": "AAE3542"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "The material in this class can be super boring and the homeworks he assigns take super long cause he does such simple examples in class which don't relate at all with the homework. Not helpful at all in office hours and treats people like they are stupid. Historically, exams are near impossible but this semester, he made them not too bad. ",
-        "course": "AAE3542"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Good luck!",
-        "course": "AAE3542"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Dude is rough",
-        "course": "AAE3543"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "only flight vehicle structures prof in aero program. Material is interesting, but lecture is boring. Osu should probably replace him",
-        "course": "AAE3543"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Tough class, cant take it with other profs so you have to deal with him. Avoid if possible.",
-        "course": "AAE3543"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Makes tests difficult and assigns a couple HomeWorks a semester which take hours because the examples done in class don&#39;t relate to the homework very well. He is open and honest about having horrible test averages. His grading system is very awful. Get ready to be disappointed by this class no matter how many hours you study. Avoid if possible.",
-        "course": "AAE3543"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Great guy. Lectures can be derivation heavy at times, but he breaks the monotony by cracking a few jokes and going off topic.",
-        "course": "AAE5645"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Best professor at OSU, actually learned something in this class",
-        "course": "AAE5645"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Structures 1 is very out there and much of it makes no sense at all to be honest.  Structures 2 is much more tangible and actually his tests weren't bad.  The final was very fair. I hope he publishes his notes into a textbook someday.",
-        "course": "AAE3543"
-      },
-      {
-        "index": 12,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Very upfront about how hard this class is, which is an understatement. While he was funny and a relatively good teacher, unless you go to every office hour be prepared to do abysmally in the class. Homeworks were a pain in the ass, final was impossible.",
-        "course": "AAE543"
-      },
-      {
-        "index": 13,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Very difficult course.  You know the class will be difficult when he tells you the first day that the averages usually range between 40% and 50% and he curves from there.  If you crack some jokes with him and participate in class, things are easier on you.",
-        "course": "AAE543"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I got an A in the class but I can't say it was easy because I worked my ass off for it. The lectures were a bit boring but he broke it up every once in a while and cracked some jokes. The exams were simple besides his picky T/F and the final question was always extremely hard. Good intro professor, I enjoyed his class and his approach to questions.",
-        "course": "AAE200"
-      },
-      {
-        "index": 15,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "It was his first time teaching AAE 200 (normally teaches jr level or higher). It seemed harder than a 200 level class, but it is aero. His homeworks are nothing like the midterm or final. All he does during lectures is deriving equations.",
-        "course": "AERO200"
-      },
-      {
-        "index": 16,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Jack Mc....he went to Michigan",
-        "course": "AAE200"
-      },
-      {
-        "index": 17,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": ":/",
-        "course": "AAE200"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.2,
-    "avgRating": 2.7,
-    "department": "Aerospace Engineering",
-    "firstName": "Ken",
-    "id": "VGVhY2hlci0yMTMwOTQ5",
-    "lastName": "Gordon",
-    "legacyId": 2130949,
-    "numRatings": 22,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Good luck. ",
-        "course": "ME2040"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Good and fair professor, grade tests leniently, just make sure to score high on the first half of this class since that is the easy half.",
-        "course": "ME2040"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "If you have disability services avoid this prof at all costs. He does not respect people with disability services. His lectures suck but if you dont go then you fail. His homework is graded by 5 year olds. There is no consistency in grading. His exams are hard but graded fairly. He really enjoys bulling students for asking questions. HES CANADIAN",
-        "course": "ME2040"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "This is his ME2040 class which was not available choice. Don't skip class unless you enjoy self-learning. He doesn't have any recorded lectures, only online notes. Regarding exams, his exams are hard. I wish i had the other prof. He also doesn't give practice exams. This class is also not curved but is close to the level of physics. ",
-        "course": "ME2850"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "he bullies students for asking questions",
-        "course": "ME2850"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I honestly wish every professor was like Dr. Gordon. He had the clearest grading criteria for homework I've ever seen! You couldn't miss a requirement, and you didn't have to guess what he wanted: he tells you EXACTLY what he wants on EVERY homework.",
-        "course": "AE3581"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Ken Gordon has good intentions but doesnt comprehend the fact that 80% of his students dont understand what he is saying. He teaches concepts by using abstract examples and leaves us more confused than before. Homework takes 6-8 hours and his questions are worded in a very annoying manner. Expects a lot, and exams are horrendously paced.",
-        "course": "ME2850"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "Ken Gordon is an incredible lecturer. He makes the content clear and you will learn the content. Although you learn the content, it is still very easy to get a poor grade. The assignments are very long and graded harshly, and while the midterms are straightforward, they are graded harshly as well. He is cool but a bit twitchy and passive aggressive",
-        "course": "AAE3581"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "He's just not a very good teacher and doesn't understand how students don't get what he's saying. He expects a lot of his students but is a very harsh grader on even the smallest of assignments.",
-        "course": "ME2850"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Kenny G has some weird vibes like he seems really nice but it's like fake nice. The concept quizzes kind of suck since he only gives you a few minutes to answer some tricky questions. The homework can sometimes take a while since it can be hard to understand how to answer the questions using what he says in lecture. The exams aren't too bad though",
-        "course": "ME2850"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Gordon is a fair professor who clearly explains the course material. Passionate about his subject matter and very knowledgeable. Make sure to understand the homework and concept quizzes and you will be fine.",
-        "course": "ME2850"
-      },
-      {
-        "index": 12,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Very enthusiastic, but also a lot harder than needs to be. Likes to ask trick questions. Sometimes says he won't go further on a subject because it's something on our homework and we should learn it on our own.",
-        "course": "ME2850"
-      },
-      {
-        "index": 13,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Ken Gordon is one of the most knowledgeable and well prepared professors I have had the pleasure of learning from. His homeworks, while many, are fair and if you take the time to actually do them they are actually quite helpful. His exams are difficult, but not because he tries to trick you or because he intends them to be.",
-        "course": "AERO3581"
-      },
-      {
-        "index": 14,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Nice guy, smart, very enthusiastic about subject and seems to care about students. But he isn't always the best at explaining things, and the class is very difficult. Some things seemed to be made more difficult than they needed to be.",
-        "course": "ME2850"
-      },
-      {
-        "index": 15,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "He seems to love the material and is smart, but the pros end there. He has a very petty vibe/ mannerisms, which includes lecture, emails, answering questions, and through the tricky worded tests and HWs. I found this material to be difficult, and his condescending approach and single one hour office hours didn't help. Overall didn't enjoy the class",
-        "course": "ME2850"
-      },
-      {
-        "index": 16,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "I fully believe that Ken loves teaching and is insanely smart but he cannot explain anything on a basic, first time seeing the material level (which is what this class is). He makes you feel stupid for asking any questions and then doesn't answer them. The exams honestly weren't bad but the average homework grade was a D after spending hours on it.",
-        "course": "ME2850"
-      },
-      {
-        "index": 17,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I prefer to study myself with aid of textbook and online free sources. He made this course harder than it should be. Heat transfer is no rocket science, I would prefer another lecturer for this course. This dog does not know how to respect students.",
-        "course": "ME4510"
-      },
-      {
-        "index": 18,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "I found his lectures and homework assignments to be very confusing. He sent many clarifications for homework as the instructions were hard to understand. Be ready to write long Matlab codes for homework which are strictly graded. When you ask a question in class he doesn't like to give a direct answer which is really frustrating.",
-        "course": "ME2850"
-      },
-      {
-        "index": 19,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Choose another instructor if you have other options. He makes you lose all your interests to your major, tough grader, boring classes, not posting the grades on Carmen, limit office hours!",
-        "course": "ME2850"
-      },
-      {
-        "index": 20,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "This guy was put on this earth to be a teacher. His class is in no way easy but he doesn't create any roadblocks to you succeeding. If you fail, it's on you. I wish every professor followed his format of teaching.",
-        "course": "AAE3581"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "One of the best professors I've had. He made thermo much easier than what everybody was depicting it to be. Great guy as well. Don't skip class because those lectures are some of the best you'll ever get to listen to in your life and are vital to success in the class. Would take again in a heartbeat. Homework can be long but it's worth every point.",
-        "course": "AE2405"
-      },
-      {
-        "index": 22,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Made what I thought was going to be an absolutely terrible/difficult class something I looked forward to each week. Lectures are some of the best I've ever been to. Key points are well defined and the entire thought process behind a problem was presented very clearly. He is clearly passionate about the material and it makes class fun.",
-        "course": "AEROENG2405"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 5,
-    "avgRating": 5,
-    "department": "Aerospace Engineering",
-    "firstName": "John",
-    "id": "VGVhY2hlci0zMDA2Njc4",
-    "lastName": "Cherry",
-    "legacyId": 3006678,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "great professor overall ",
-        "course": "lecture"
-      }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 4.2,
@@ -1270,6 +1858,8 @@
     "lastName": "Bons",
     "legacyId": 1551360,
     "numRatings": 9,
+    "summary_comment": "Professor Bons is highly regarded for his deep knowledge and passion for aerodynamics, making his class both challenging and rewarding. Despite the difficulty, students find his lectures engaging and his commitment to student learning commendable. However, his classes are noted for being demanding, with unclear homework requirements and exams that can be unexpectedly difficult.",
+    "summary_comment_short": "Professor Bons is highly regarded for his deep knowledge and passion for aerodynamics, making his class both challenging and rewarding. Despite the difficulty, students appreciate his effective communication and care for their learning, though some find his expectations and grading standards demanding.",
     "Ratings": [
       {
         "index": 1,
@@ -1346,6 +1936,8 @@
     "lastName": "Chen",
     "legacyId": 1825445,
     "numRatings": 20,
+    "summary_comment": "Professor Chen is highly regarded for his fairness and clarity in explaining concepts, making the class material accessible. Students find his exams and homeworks reflective of the lectures and generally fair. While some find the labs challenging, Chen is described as caring, funny, and supportive, often going above and beyond to help students succeed.",
+    "summary_comment_short": "Professor Chen is highly regarded for his fairness and clarity in explaining concepts, making the class material accessible and fair. However, the labs under his supervision are often criticized for being time-consuming and poorly directed.",
     "Ratings": [
       {
         "index": 1,
@@ -1488,7 +2080,232 @@
         "course": "AAE3570"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5615",
+        "Class Name": "Introduction to Computational Aerodynamics",
+        "Class Number": "7025",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5615",
+        "Class Name": "Introduction to Computational Aerodynamics",
+        "Class Number": "7026",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "2405",
+        "Class Name": "Thermodynamics",
+        "Class Number": "6853",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "86",
+        "Rating": "4.42"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "3560",
+        "Class Name": "Fundamentals of Aerodynamics",
+        "Class Number": "33266",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "85",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "4550",
+        "Class Name": "Principles of Flight Vehicle Propulsion",
+        "Class Number": "33268",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "52",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "3580",
+        "Class Name": "Heat Transfer",
+        "Class Number": "29970",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "75",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "3560",
+        "Class Name": "Fundamentals of Aerodynamics",
+        "Class Number": "11446",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "53",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5615",
+        "Class Name": "Introduction to Computational Aerodynamics",
+        "Class Number": "11449",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5615",
+        "Class Name": "Introduction to Computational Aerodynamics",
+        "Class Number": "11450",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "2405",
+        "Class Name": "Thermodynamics",
+        "Class Number": "11353",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "70",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "2200",
+        "Class Name": "Introduction to Aerospace Engineering I",
+        "Class Number": "11797",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "140",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "2200",
+        "Class Name": "Introduction to Aerospace Engineering I",
+        "Class Number": "39025",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5615",
+        "Class Name": "Introduction to Computational Aerodynamics",
+        "Class Number": "11402",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "2405",
+        "Class Name": "Thermodynamics",
+        "Class Number": "11236",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "94",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "MECHENG",
+        "Catalog": "3500",
+        "Class Name": "Engineering Thermal Sciences",
+        "Class Number": "6927",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Mechanical Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.32"
+      },
+      {
+        "Subject": "MECHENG",
+        "Catalog": "4510",
+        "Class Name": "Heat Transfer",
+        "Class Number": "10741",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Mechanical Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "37",
+        "Rating": "4.65"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.4,
@@ -1499,6 +2316,8 @@
     "lastName": "Gaitonde",
     "legacyId": 1825444,
     "numRatings": 10,
+    "summary_comment": "Professor Gaitonde is highly regarded for his expertise in complex subjects like hypersonics and his willingness to provide extensive support outside of class. While his lectures can be challenging and his handwriting sometimes difficult to read, students consistently praise his dedication to helping them succeed, often staying late to assist with difficulties.",
+    "summary_comment_short": "Professor Gaitonde is highly regarded for his expertise in complex subjects like hypersonics and his willingness to provide extensive support outside of class. While his lectures can be challenging and his handwriting sometimes difficult to read, students consistently praise his dedication to helping them succeed.",
     "Ratings": [
       {
         "index": 1,
@@ -1571,7 +2390,148 @@
         "course": "AAE3560"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5775",
+        "Class Name": "Hypersonic Flow",
+        "Class Number": "9607",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5775",
+        "Class Name": "Hypersonic Flow",
+        "Class Number": "9608",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5775",
+        "Class Name": "Hypersonic Flow",
+        "Class Number": "33334",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "8873",
+        "Class Name": "Advanced Computational Fluid Dynamics",
+        "Class Number": "30097",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5775",
+        "Class Name": "Hypersonic Flow",
+        "Class Number": "11514",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.41"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5775",
+        "Class Name": "Hypersonic Flow",
+        "Class Number": "11515",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5775",
+        "Class Name": "Hypersonic Flow",
+        "Class Number": "11466",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "3.78"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5775",
+        "Class Name": "Hypersonic Flow",
+        "Class Number": "11467",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "8873",
+        "Class Name": "Advanced Computational Fluid Dynamics",
+        "Class Number": "35648",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MECHENG",
+        "Catalog": "8902",
+        "Class Name": "Future Academic Scholars Training II for MAE",
+        "Class Number": "10884",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Mechanical Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 4,
@@ -1582,6 +2542,8 @@
     "lastName": "Mathison",
     "legacyId": 2541761,
     "numRatings": 1,
+    "summary_comment": "Professor Mathison is known for his rigorous grading and complex teaching style, which often makes the course material challenging to grasp. Students find him slow in submitting grades, with final grades not being submitted to the registrar in a timely manner.",
+    "summary_comment_short": "Professor Mathison is known for his rigorous grading and complex teaching style, which often makes the course material challenging to grasp. Additionally, students have noted that he is notably slow in grading assignments and submitting final grades to the registrar on time.",
     "Ratings": [
       {
         "index": 1,
@@ -1591,7 +2553,120 @@
         "course": "4550"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5751",
+        "Class Name": "Advanced Air-Breathing Propulsion",
+        "Class Number": "6859",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5751",
+        "Class Name": "Advanced Air-Breathing Propulsion",
+        "Class Number": "29973",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "4550",
+        "Class Name": "Principles of Flight Vehicle Propulsion",
+        "Class Number": "11448",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "66",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5751",
+        "Class Name": "Advanced Air-Breathing Propulsion",
+        "Class Number": "11359",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.61"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5751",
+        "Class Name": "Advanced Air-Breathing Propulsion",
+        "Class Number": "11360",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "4550",
+        "Class Name": "Principles of Flight Vehicle Propulsion",
+        "Class Number": "11400",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "45",
+        "Rating": "4.61"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5751",
+        "Class Name": "Advanced Air-Breathing Propulsion",
+        "Class Number": "11241",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "MECHENG",
+        "Catalog": "7527",
+        "Class Name": "Jet Propulsion",
+        "Class Number": "30249",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Mechanical Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.4"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -1602,6 +2677,8 @@
     "lastName": "Janiszewska",
     "legacyId": 1460838,
     "numRatings": 2,
+    "summary_comment": "Professor Janiszewska maintains high standards for fairness in assignments and assessments across her courses. She demonstrates a strong commitment to her students, providing additional support outside of class hours, and fostering personal connections. While the class structure can be challenging at times, students appreciate her dedication and the knowledge they gain from her.",
+    "summary_comment_short": "Professor Janiszewska maintains high standards for her assignments and assessments, ensuring they are fair and equitable. She demonstrates a strong commitment to her students, dedicating extra time outside of class to support them, and fosters meaningful connections that enhance the learning experience.",
     "Ratings": [
       {
         "index": 1,
@@ -1618,7 +2695,372 @@
         "course": "ENGR1181"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181.01",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "6128",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "Hybrid Delivery",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "3.36"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181.01",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "11142",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "3.56"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181.01",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "11144",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "3.44"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "5992",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "11097",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "11099",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "28274",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "35892",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "35894",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.43"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "26419",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "26572",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "26574",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.14"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "26577",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181.01",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "6920",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181.01",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "35690",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.33"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181.01",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "35692",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "8078",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.17"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "8211",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "8213",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "8216",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181.01",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "12438",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.6"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181.01",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "12440",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1181.01",
+        "Class Name": "Fundamentals of Engineering I",
+        "Class Number": "7086",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "8090",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "8219",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "1182.01",
+        "Class Name": "Fundamentals of Engineering II",
+        "Class Number": "8221",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Newark Campus",
+        "Medium": "In Person",
+        "Campus": "NWK",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.4,
@@ -1629,6 +3071,8 @@
     "lastName": "Zhuang",
     "legacyId": 1700188,
     "numRatings": 11,
+    "summary_comment": "Professor Zhuang is known for her rigorous yet fair approach to teaching, with challenging homework and exams that prepare students well for assessments. Her review sessions are particularly helpful in clarifying exam content, although her lectures can sometimes be dry and heavy on equations. Students appreciate her dedication to teaching, though some find her accent and quiet voice make it necessary to sit near the front.",
+    "summary_comment_short": "Professor Zhuang is known for her thorough and fair approach to teaching, with challenging homework and exams that prepare students well for assessments. Her review sessions are particularly helpful in clarifying exam content, though her lectures can be dry and heavily focused on equations, with many relying on self-study and the textbook.",
     "Ratings": [
       {
         "index": 1,
@@ -1708,7 +3152,50 @@
         "course": "AAE581"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "AEROENG",
+        "Catalog": "6771",
+        "Class Name": "Viscous Fluid Flow: Laminar and Transitional",
+        "Class Number": "33787",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "3.55"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5615",
+        "Class Name": "Introduction to Computational Aerodynamics",
+        "Class Number": "33269",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "AEROENG",
+        "Catalog": "5615",
+        "Class Name": "Introduction to Computational Aerodynamics",
+        "Class Number": "33270",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.44"
+      }
+    ]
   },
   {
     "avgDifficulty": 1,
@@ -1719,6 +3206,8 @@
     "lastName": "Goswami",
     "legacyId": 3007061,
     "numRatings": 2,
+    "summary_comment": "Professor Goswami's lectures are often described as confusing or boring, though students appreciate his helpfulness during office hours and his ability to answer questions thoroughly. Despite the challenging nature of the material, his tests tend to be more manageable compared to high school exams, making the year in aerospace engineering slightly less daunting.",
+    "summary_comment_short": "Professor Goswami has mixed reviews; while students found his office hours very helpful and noted that tests were easier than expected, many found his lectures confusing or boring. Despite the challenging nature of the material, the homework was generally manageable, and some students still recommend his classes.",
     "Ratings": [
       {
         "index": 1,
@@ -1735,6 +3224,311 @@
         "course": "AE3521"
       }
     ],
+    "SEI": [
+      {
+        "Subject": "AEROENG",
+        "Catalog": "3521",
+        "Class Name": "Fundamentals of Flight Vehicle Control",
+        "Class Number": "12364",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Aerospace Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "59",
+        "Rating": "4.02"
+      },
+      {
+        "Subject": "MECHENG",
+        "Catalog": "8220",
+        "Class Name": "Continuous Time Optimal Control",
+        "Class Number": "35863",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Mechanical Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.9"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.9,
+    "avgRating": 3.6,
+    "department": "Aerospace Engineering",
+    "firstName": "James",
+    "id": "VGVhY2hlci0xNDc5NTk2",
+    "lastName": "Gregory",
+    "legacyId": 1479596,
+    "numRatings": 24,
+    "summary_comment": "Professor Gregory is known for his passion and deep knowledge in aerospace engineering, but his teaching approach is often criticized for being overly complex and repetitive. Students find his lectures and assignments demanding and sometimes feel they are a waste of time. Despite this, many appreciate his accessibility and genuine enthusiasm for the subject.",
+    "summary_comment_short": "Professor Gregory is known for his passion and deep knowledge in aerospace engineering, but students often find his lectures and assignments overly complex and redundant, leading to significant time commitments. While some appreciate his accessibility and genuine enthusiasm for the subject, many criticize the mandatory attendance, extensive video requirements, and the difficulty of both exams and the final project.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I really liked the flipped classroom design because it forced me to take my notes and made sure I paid attention and understood the material. Homework pertained to the videos you watched that week. Mandatory attendance for lectures was dumb. I took him for granted, the 2201 professor is much worse. I miss airplane Jim and wish i had him again.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "His lectures are a major waste of time and he assigns countless assignments which are frequently irrelevant when compared to course material. The labs for this class are lengthy and redundant and his homework assignments are unnecessarily difficult. If you can avoid taking him as a professor do it!",
+        "course": "AERO2200"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "If I could give this man a 0 I would. Going to his lecture was such a waste of time and energy but attendance is taken every morning. He makes you watch countless hours of lecture videos and then repeats everything in lecture just to be redundant. His exams are unnecessarily difficult and he does not give any grading rubrics.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I've been going through quite a few personal issues this semester that affected my ability to do well in class, but he was always accessible and tried as best he could (within his own parameters) to help me succeed. He truly loves aerospace, and it's easy to see that when attending his lectures.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "He is passionate about the subject and seems to know a lot but he over complicates every assignment and doesn't make good use of in class lecture time. You have to watch 1-2 hours of online videos for a quiz and then he repeats it all in class. He wastes too much class time especially for the lectures being everyday at 8am.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This guy knows what he is doing and is a genius in Aerospace. Takes a students love of Aerospace and turns it into a functioning skill. The labs were long, but were rewarding. The homeworks were hard and sucked. The online lectures are mandatory to get a good grade. Some exams were impossible, others easy. The final project is fun and is rewarding",
+        "course": "AERO2200"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "By no means, is Jim a bad professor, however, for some reason, he seems to unnecessarily complicate things. He doesn't give you an equation sheet, despite the entire class being dependent on it. Homework is graded for correctness and is very challenging. The labs are long and tiresome and if you get stuck with a bad group... Good luck Charlie.",
+        "course": "AAE2200"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "His lecture notes don't make sense outside of class without hours of online research.  The course is Matlab heavy despite much of the MatLab not being taught in his class or the intro to MatLab class. But the worst of all was the final project he assigned during finals week that was worth 10% of your final grade and he didn't teach you how to do.",
+        "course": "AAE2200"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Great professor. One of the best I've ever had. Really cares about teaching the subject. Very helpful during office hours also.",
+        "course": "AAE2200"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "VERY good professor, especially compared to some of the third year profs. He said on the first day that he hoped we would have fun through our class and I legitimately did. He did a great job teaching the fundamental concepts of AE. The negative reviews baffle me, must be from the 50% dropout rate in AE -most remaining students thought he was great",
+        "course": "AAE2200"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "By far, the BEST professor I've ever had. The material covered in this class was extremely difficult, but I mean, come on, it's aerospace engineering... Dr. Gregory knows his stuff and is able to break down difficult concepts into clear and intuitive notes. I can't say enough about him. I wish every class I take from here on out was taught by him.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 12,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Gave us alot of homeworks which should have been worth more than the exams, Lab are overloaded, Exams are impossible to destruction Whenever you ask him a question, most of the time doesn't know the answer to it. Our TA asked him a question nd he didnt give him answer,he just said good question! And that was it.",
+        "course": "AAE2200"
+      },
+      {
+        "index": 13,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "absolutely the worst professor. I think he hates middle easterns, on a first assignment he took a point of becuase i dont even know the reason, when i asked him why, he replied saying you didnt follow directions, the directions were to upload a pic and decribe your self. I did exactly what was said. He then said my pic was not good.",
+        "course": "AAE2200"
+      },
+      {
+        "index": 14,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Dr Gregory was not the best professor. He would not even give you a review sheet or go over what will be on the exam. Totally avoid him.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Was a very hard class. Intentionally made the exams more difficult after the class did well on the first exam. Not very clear in his notes. Labs are more work then they are worth",
+        "course": "AERO2200"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Fun guy, super helpful both in and out of class. He spends about ten minutes reviewing the previous lecture every time which really helps the concepts sink in. Exams are very fair, sometimes the homework is hard but it's good preparation.",
+        "course": "AERO2200"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "The exams are not that bad but the stuff he expected us to do in Matlab for the labs and homework was insane. If you're not skilled with matlab good luck getting above a 60% on the labs and homework",
+        "course": "AERO201"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Great teacher. He's able to engage students and hold their attention. His only weakness seems to be his homework and exams. The homework is complicated with the use of matlab, making it horrendous. 2nd exam problems were nothing like the books, and the review session didn't cover the test well. I'd suggest finding old ones,but that's not allowed.",
+        "course": "AERO201"
+      },
+      {
+        "index": 19,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Great guy but really hard exams and overloads on work on some weeks which sucks, but overall a good teacher",
+        "course": "AERO201"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "He is a very good professor and is very helpful. He grades fairly the exams are not very hard.",
+        "course": "AERO201"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "A great, friendly professor who is passionate about teaching. Homework assignment and labs are great resources. MUST attend lecture to get notes. Midterms and final are challenging but rewarding for those who study and try. Considers students efforts if you come to him for help often. WILL call you out if you are sleeping or texting.",
+        "course": "AERO200"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Great teacher. Teaches well and presents material clearly. He is definitely old-school and will call you out in front of class if your sleeping or texting on your phone, however, its only to keep the students focused. The class is challenging, but you will learn a lot.",
+        "course": "AERO200"
+      },
+      {
+        "index": 23,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Very helpful, always glad to point in the right direction, every question is a good question. Homeworks are relatively hard. Labs are VERY hard.make use of carmen discussion boards.Very enthusiastic/passionate about the subject in general.Derivation lectures are VERY boring but useful in tests.",
+        "course": "AERO200"
+      },
+      {
+        "index": 24,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "AAE405"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.7,
+    "avgRating": 3.5,
+    "department": "Aerospace Engineering",
+    "firstName": "Joseph",
+    "id": "VGVhY2hlci05NTczMDE=",
+    "lastName": "Haritonidis",
+    "legacyId": 957301,
+    "numRatings": 3,
+    "summary_comment": "Professor Haritonidis is known for his rigorous and demanding teaching style, often criticized for his intense focus on detailed derivations and his strict classroom policies, including the prohibition of cell phones, which he enforces with severity. Students find his classes challenging and sometimes unpleasant due to his perceived superiority over his students.",
+    "summary_comment_short": "Professor Haritonidis is known for his rigorous and demanding teaching style, focusing heavily on derivations and theoretical concepts. Students find his classes challenging and intense, with some describing him as overly critical and authoritative.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "He is a professor.",
+        "course": "AAE69"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Wow this guy is ANAL about everything! He actually screams at you for your cell phones.  He just derive equations all through class, you'll learn a lot more from reading the books.  Just a nightmare to sit through his class when he always think he's better than the students",
+        "course": "AERO661"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Don't forget to turn off your cell phone before entering his class, or else you're doomed!",
+        "course": "AAE560"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 3.2,
+    "department": "Aerospace Engineering",
+    "firstName": "Ran",
+    "id": "VGVhY2hlci0yNDM2MDU1",
+    "lastName": "Dai",
+    "legacyId": 2436055,
+    "numRatings": 6,
+    "summary_comment": "Professor Dai is generally considered one of the better aerospace professors at OSU, despite some students finding her lectures difficult to follow and the posted notes hard to understand. While some appreciate her organization and office hours, many students describe her lectures as pointless and the notes as virtually useless, suggesting a significant gap between her teaching style and student expectations.",
+    "summary_comment_short": "Professor Dai is generally considered one of the weaker instructors in the OSU aerospace department, with many students finding his lectures difficult to follow and the class material hard to grasp without additional resources. However, some students note that she is helpful during office hours.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Ran Dai is simply the worst professor I have ever had. Although the class is easy enough due to extra credit opportunities, It is the worst academic experience I have had at OSU by far. Dr. Dai is extremely bad at communicating information to students and you will feel lost during pretty much every lecture.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "One of the better aerospace professor at OSU.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Dai actually organized this class pretty well compare to what we had for other aerospace classes last semester.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "One of the good professor in the OSU aerospace department. Its unfortunately that the prerequisite for this class, FVD, was taught by Rama Y before Ran Dai. Otherwise, this class would make much more sense but its still good.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "So the lectures are pointless, she just puts her head down and talk at her iPad. The posted notes are virtually impossible to follow. Be prepared to learn from someone else. Nice person though.",
+        "course": "AAE3521"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "You will learn nothing from the lectures. Lecture notes pretty useless too. But she's helpful in office hours. Good luck.",
+        "course": "AERO3521"
+      }
+    ],
     "SEI": []
   },
   {
@@ -1746,6 +3540,8 @@
     "lastName": "Hartsfield",
     "legacyId": 1825446,
     "numRatings": 5,
+    "summary_comment": "Professor Hartsfield is known for incorporating humor into his lectures and highlighting an \"Aerospace System of the Day,\" which students find engaging. However, his teaching style often relies heavily on detailed derivations without sufficient explanation, leading many to struggle unless they supplement his lectures with additional study. Overall, while some appreciate his enthusiasm outside the classroom, his lectures are generally perceived as ineffective for gaining a thorough understanding of the material.",
+    "summary_comment_short": "Professor Hartsfield is known for incorporating humor into his lectures and featuring an \"Aerospace System of the Day,\" which students find engaging. However, his teaching style is often criticized for lacking detailed explanations, making it necessary for students to supplement their learning with additional readings and notes.",
     "Ratings": [
       {
         "index": 1,
@@ -1794,6 +3590,8 @@
     "lastName": "Penko",
     "legacyId": 1039260,
     "numRatings": 2,
+    "summary_comment": "Professor Penko is highly regarded for his comprehensive knowledge and dedication to education, with extensive industry experience at NASA. He is known for his thorough lecture notes and accessible teaching approach, focusing on practical application and student success through straightforward homework assignments.",
+    "summary_comment_short": "Professor Penko is highly regarded for his comprehensive knowledge and real-world experience, having spent 20 years at NASA. He is dedicated to his students' learning and maintains strong alumni connections, fostering a lasting educational impact. Homework is manageable, and his detailed lecture notes facilitate understanding.",
     "Ratings": [
       {
         "index": 1,
@@ -1821,6 +3619,8 @@
     "lastName": "Schermerhorn",
     "legacyId": 2008871,
     "numRatings": 7,
+    "summary_comment": "Professor Schermerhorn is highly regarded for his teaching quality, being described as knowledgeable, friendly, and approachable. Students appreciate his helpfulness and care for their success, finding his classes engaging and often humorous. While the material can be challenging, his ability to explain concepts clearly and his willingness to assist during office hours make him an excellent instructor.",
+    "summary_comment_short": "Professor Schermerhorn is highly regarded for his exceptional teaching quality, known for being knowledgeable, friendly, and approachable. Students appreciate his humor and his efforts to make complex topics understandable, often noting his willingness to help and his ability to explain concepts effectively.",
     "Ratings": [
       {
         "index": 1,
@@ -1870,40 +3670,6 @@
         "difficulty": 3,
         "comment": "The class was pretty tough, in general, but he tried to do the best he could. He did not create the tests or grade anything, but he was helpful in office hours. ",
         "course": "ME2030"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.7,
-    "avgRating": 3.5,
-    "department": "Aerospace Engineering",
-    "firstName": "Joseph",
-    "id": "VGVhY2hlci05NTczMDE=",
-    "lastName": "Haritonidis",
-    "legacyId": 957301,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "He is a professor.",
-        "course": "AAE69"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Wow this guy is ANAL about everything! He actually screams at you for your cell phones.  He just derive equations all through class, you'll learn a lot more from reading the books.  Just a nightmare to sit through his class when he always think he's better than the students",
-        "course": "AERO661"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "Don't forget to turn off your cell phone before entering his class, or else you're doomed!",
-        "course": "AAE560"
       }
     ],
     "SEI": []

@@ -8,6 +8,8 @@
     "lastName": "Novicki",
     "legacyId": 2040459,
     "numRatings": 5,
+    "summary_comment": "Professor Novicki is known for a heavy workload and repetitive lectures that fail to provide practical skills, with many students finding the class a waste of time and money. Despite some positive comments highlighting his dedication and effectiveness as a teacher, many criticize his unprofessional behavior, excessive mandatory meetings, and lack of individual feedback.",
+    "summary_comment_short": "Professor Novicki is known for his demanding and repetitive teaching style, with lectures often repeated throughout the term and little focus on practical typography skills. Many students find his class a waste of time and money, as employers express no interest in the projects produced.",
     "Ratings": [
       {
         "index": 1,
@@ -45,7 +47,64 @@
         "course": "DESIGN3503"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3503",
+        "Class Name": "Typographic Design",
+        "Class Number": "14626",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "3"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3503",
+        "Class Name": "Typographic Design",
+        "Class Number": "12650",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3503",
+        "Class Name": "Typographic Design",
+        "Class Number": "16628",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.6"
+      },
+      {
+        "Subject": "DESIGN",
+        "Catalog": "3503",
+        "Class Name": "Typographic Design",
+        "Class Number": "19507",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Design",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "15",
+        "Rating": "1.53"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.3,
@@ -56,6 +115,8 @@
     "lastName": "Tashfeen",
     "legacyId": 1227070,
     "numRatings": 4,
+    "summary_comment": "Professor Tashfeen has mixed reviews; while some students find him helpful and enjoyable, others describe his teaching as unclear and unengaging, with poor communication. Many advise against taking his class due to its perceived low value and ineffective teaching methods.",
+    "summary_comment_short": "Professor Tashfeen has mixed reviews; while some students found him very helpful and enjoyable, others describe his teaching as unclear and unengaging, with ineffective communication and assignments they found unsatisfactory. Overall, many would not recommend taking his class.",
     "Ratings": [
       {
         "index": 1,

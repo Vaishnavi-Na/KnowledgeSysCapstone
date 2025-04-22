@@ -8,6 +8,8 @@
     "lastName": "Gannon Blair",
     "legacyId": 2977611,
     "numRatings": 2,
+    "summary_comment": "Professor Gannon Blair's teaching quality is highly variable according to student feedback. Some students find her classes overwhelming with excessive homework and quizzes, leading to significant stress. Others, however, appreciate her clear organization and passion for the subject, noting that she is supportive and accessible, which helps them excel once they adjust to the workload.",
+    "summary_comment_short": "Professor Gannon Blair's teaching approach is characterized by an overwhelming amount of homework and frequent quizzes, which some students find extremely demanding and stressful. Conversely, others appreciate her clear organization and passion for the subject, noting significant personal growth once they adapted to her teaching style.",
     "Ratings": [
       {
         "index": 1,
@@ -24,7 +26,64 @@
         "course": "CSFRST2374"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2374",
+        "Class Name": "Twentieth Century Fashion and Beyond",
+        "Class Number": "10099",
+        "Term": "SU 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2374",
+        "Class Name": "Twentieth Century Fashion and Beyond",
+        "Class Number": "10618",
+        "Term": "SU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2374",
+        "Class Name": "Twentieth Century Fashion and Beyond",
+        "Class Number": "14296",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "123",
+        "Rating": "4.35"
+      },
+      {
+        "Subject": "CSFRST",
+        "Catalog": "2374",
+        "Class Name": "Twentieth Century Fashion and Beyond",
+        "Class Number": "14088",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "106",
+        "Rating": "4.52"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.6,
@@ -35,6 +94,8 @@
     "lastName": "Penley",
     "legacyId": 1238287,
     "numRatings": 21,
+    "summary_comment": "Professor Penley is known for her engaging and passionate teaching style, making classes interesting and fun. However, she is noted for being very particular and harsh in grading, often taking off points for minor issues and being difficult to please, especially in projects. Students find her exams and pop quizzes manageable, but warn that the class requires consistent effort and punctuality.",
+    "summary_comment_short": "Professor Penley is known for her passionate and engaging teaching style, making classes interesting and fun. However, students find her grading to be quite stringent and sometimes difficult to navigate, with many citing issues related to point deductions and subjective assessments.",
     "Ratings": [
       {
         "index": 1,
@@ -195,6 +256,8 @@
     "lastName": "Cunningham",
     "legacyId": 1557849,
     "numRatings": 5,
+    "summary_comment": "Professor Cunningham offers a relatively easy course with minimal assessments, focusing on weekly reflection papers instead of tests or quizzes. The class includes field trips, guest speakers, and free food, making it appealing to many students. However, some find the class quite boring and less engaging.",
+    "summary_comment_short": "Professor Cunningham offers a fun and easy A class with minimal testing, focusing instead on weekly reflection papers and frequent field trips or guest speakers. However, some students find her lectures very boring despite her nice demeanor and easy grading standards.",
     "Ratings": [
       {
         "index": 1,
@@ -243,6 +306,8 @@
     "lastName": "Cummingham",
     "legacyId": 1108882,
     "numRatings": 9,
+    "summary_comment": "Professor Cunningham is known for her extensive knowledge of fashion, particularly among students who appreciate her expertise. However, her classes are often described as extremely boring and difficult to engage with due to her age, hearing issues, and tendency to go off-topic. Despite these challenges, she is generally considered an easy grader and is viewed more positively by newer students who find her more knowledgeable than other professors in the field.",
+    "summary_comment_short": "Professor Cunningham is known for her extensive knowledge of fashion, making her lectures informative despite their often tedious nature. However, her age and hearing difficulties can make in-class interactions challenging, and some students find her classes overly boring with random activities that can be monotonous.",
     "Ratings": [
       {
         "index": 1,
@@ -319,6 +384,8 @@
     "lastName": "Cooper",
     "legacyId": 1145054,
     "numRatings": 30,
+    "summary_comment": "Professor Cooper is described as having mixed reviews, with some students finding her classes easy and entertaining, while others found her abrasive and unprepared. Many noted that attendance is important due to in-class activities and point contributions, and that the material can be straightforward, allowing for good grades with minimal effort. However, there are also criticisms of her teaching style, with some students finding her lectures and examples overly simplistic or irrelevant.",
+    "summary_comment_short": "Professor Cooper is known for her entertaining and occasionally challenging teaching style, with some students finding her classes easy and others feeling they were not adequately prepared or engaging. Her approach can vary widely, with some students appreciating her effort to make the material fun and accessible, while others find her lectures and teaching methods lacking in depth and preparation.",
     "Ratings": [
       {
         "index": 1,
@@ -531,7 +598,64 @@
         "course": "TC270"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "INTMED",
+        "Catalog": "7100.04",
+        "Class Name": "Advanced Clinical Skill: Cancer Counseling",
+        "Class Number": "34703",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Internal Medicine",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "INTMED",
+        "Catalog": "7100.04",
+        "Class Name": "Advanced Clinical Skill: Cancer Counseling",
+        "Class Number": "37070",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Internal Medicine",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "INTMED",
+        "Catalog": "7100.05",
+        "Class Name": "Advanced Clinical Skills - Genetic Counseling Specialties",
+        "Class Number": "37081",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Internal Medicine",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "INTMED",
+        "Catalog": "7100.05",
+        "Class Name": "Advanced Clinical Skills - Genetic Counseling Specialties",
+        "Class Number": "3531",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Internal Medicine",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.7,
@@ -542,6 +666,8 @@
     "lastName": "Nathlich",
     "legacyId": 1101593,
     "numRatings": 7,
+    "summary_comment": "Professor Nathlich is known for her extensive knowledge and willingness to help students, though her lectures are often described as rambling and unclear, which can make it difficult for students to follow and prepare for tests. Despite this, many students appreciate her supportive nature and her allowance of notes during exams. Overall, while some find her approachable and helpful, others feel that her teaching style could be more structured and engaging.",
+    "summary_comment_short": "Professor Nathlich is known for her extensive knowledge and willingness to help students, though her lectures are often described as boring and unclear, with a tendency to ramble. Despite this, many students appreciate her approachable nature and her support during exams and when clarifying material.",
     "Ratings": [
       {
         "index": 1,

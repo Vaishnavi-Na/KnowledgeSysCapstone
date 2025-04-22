@@ -1,5 +1,175 @@
 [
   {
+    "avgDifficulty": 3.3,
+    "avgRating": 2.6,
+    "department": "Materials Science & Eng.",
+    "firstName": "Jenifer",
+    "id": "VGVhY2hlci0yNTYwNDQ1",
+    "lastName": "Locke",
+    "legacyId": 2560445,
+    "numRatings": 10,
+    "summary_comment": "Professor Locke's classes are characterized by frequent, challenging quizzes that do not always align with the weekly content, requiring extensive preparation through multiple sources. The structure is perceived as poor and passive-aggressive, leading to feelings of intimidation among students. While there are opportunities for extra credit, the focus on quiz performance over deep understanding of the material is notable.",
+    "summary_comment_short": "Professor Locke's teaching is characterized by frequent, challenging quizzes that do not always align with the weekly content, requiring extensive preparation through multiple sources. The class structure is perceived as passive-aggressive and intimidating, with a focus on quiz performance over deep understanding.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Weekly quizzes often did not seem to reflect the weekly content. You can attend both lectures for the content, watch the pre recorded videos, and do the optional practice problems, and there will still be a problem you've never seen before. I would highly recommend doing the optional problems on zybooks.",
+        "course": "MSE2010"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Class is structured very poorly, and not very helpful in lectures. Very passive aggressive, gets oddly upset when people pack up a minute early.",
+        "course": "MSE2010"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "This class was super annoying, a quiz every Friday morning, and 4 hour review videos if you wanted to study. Often times I would get a better grade if I guessed on the quizzes than if I tried to study and prepare. She was very passive-aggressive and would make students feel very intimidated. There are some opportunities for extra credit though.",
+        "course": "MSE2010"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Be ready to watch 3 hours of videos and attend lectures to be prepared for the weekly quizzes. Class is less focused on learning than doing well on quizzes due to amount of content. She asked for feedback mid-semester just to change nothing. Only plus is the amount of extra points available which bring your grade up a lot at the end of semester.",
+        "course": "MSE2010"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Rushed material, quizzes every Friday with difficulty to prepare, long readings that do not invite real learning. Retained low amounts of information due to the rushed course layout. ",
+        "course": "MSE2010"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Overall Professor Lock is alright. When approached though she made you feel quite dumb. I avoided her after talking to her. There are quizzes every week, but you can get some points back by correcting your quiz. There's lots to read.",
+        "course": "MSE2010"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "I think Prof. Locke is a good professor but I believe Prof. Brown is better at explaining what is needed for the weekly quizzes. I had a hard time following her lectures in comparison, and there was less explanation in general of the stuff on the quizzes. ",
+        "course": "MSE2010"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "you take a 40 point quiz every single week. there's a lot of opportunity to earn points back but there is a lot of homework and those quizzes will tank your grade. also professor locke does not like being contacted about grades so don't even try to ask.",
+        "course": "MSE2010"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "prof locke is a great instructor. 100% recommend ",
+        "course": "MSE5951"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Professor Locke is a very solid professor. She explains things clearly and in detail in lecture, and has a good sense of humor which keeps lectures engaging. She has very fair exams and does bonus questions. Nothing on the exams was surprising if you attend lecture or read the material (she makes it clear what sections are considered fair game).",
+        "course": "MSE2010"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2010",
+        "Class Name": "Introduction to Engineering Materials",
+        "Class Number": "9433",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "215",
+        "Rating": "4.24"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5951",
+        "Class Name": "Corrosion and Failure Analysis",
+        "Class Number": "24551",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.55"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2010",
+        "Class Name": "Introduction to Engineering Materials",
+        "Class Number": "8507",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "232",
+        "Rating": "4.17"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2010",
+        "Class Name": "Introduction to Engineering Materials",
+        "Class Number": "36833",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Mansfield Campus",
+        "Medium": "Hybrid Delivery",
+        "Campus": "MNS",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5951",
+        "Class Name": "Corrosion",
+        "Class Number": "6381",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2010",
+        "Class Name": "Introduction to Engineering Materials",
+        "Class Number": "8586",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "199",
+        "Rating": "4.21"
+      }
+    ]
+  },
+  {
     "avgDifficulty": 3.1,
     "avgRating": 3.3,
     "department": "Materials Science & Eng.",
@@ -8,6 +178,8 @@
     "lastName": "Myers",
     "legacyId": 1575148,
     "numRatings": 9,
+    "summary_comment": "Professor Myers is highly knowledgeable and engaging, with great depth in topics like fiber-optic networks. However, his lectures can be disjointed and difficult to follow, and students often find them boring. Despite this, his classes require significant self-study and preparation, and his exams, particularly the midterms, can be challenging.",
+    "summary_comment_short": "Professor Myers is highly knowledgeable and engaging, with great depth in his lectures, particularly on fiber-optic networks. However, his lectures can be disjointed and difficult to follow, and students find them sometimes boring and hard to keep up with without extensive preparation.",
     "Ratings": [
       {
         "index": 1,
@@ -73,7 +245,302 @@
         "course": "MSE205"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5572",
+        "Class Name": "Materials for Energy Technology",
+        "Class Number": "7476",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "8000",
+        "Class Name": "MSE PhD Dissertation Overview",
+        "Class Number": "9605",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5552",
+        "Class Name": "Nanoscale Synthesis and Processing of Electronic Materials",
+        "Class Number": "6738",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "2.9"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "8000",
+        "Class Name": "MSE PhD Dissertation Overview",
+        "Class Number": "9921",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6747",
+        "Class Name": "Structure and Defects in Materials",
+        "Class Number": "30007",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "3.77"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "24524",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "24545",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "24547",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "24548",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "8000",
+        "Class Name": "MSE PhD Dissertation Overview",
+        "Class Number": "24665",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6747",
+        "Class Name": "Structure and Defects in Materials",
+        "Class Number": "8429",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "3.69"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "8000",
+        "Class Name": "MSE PhD Dissertation Overview",
+        "Class Number": "8526",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "6358",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "3.85"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "6377",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "6379",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.57"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6777",
+        "Class Name": "Electronic Properties of Materials",
+        "Class Number": "34118",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.29"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "8000",
+        "Class Name": "MSE PhD Dissertation Overview",
+        "Class Number": "8605",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "6527",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "6545",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "6546",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.75"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "8000",
+        "Class Name": "MSE PhD Dissertation Overview",
+        "Class Number": "6653",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -84,6 +551,8 @@
     "lastName": "Morris",
     "legacyId": 2708893,
     "numRatings": 1,
+    "summary_comment": "Professor Morris is widely regarded as one of the worst instructors in the MSE department, primarily due to her lecture style of simply reading from slides and grading exclusively on exams. Students advise focusing on memorizing the figures in her slides, as they form the core of the exam material.",
+    "summary_comment_short": "Professor Morris is known for primarily lecturing from her slides without additional context or engagement, and she grades heavily based on exams. Students find her to be one of the least effective instructors in the MSE department.",
     "Ratings": [
       {
         "index": 1,
@@ -93,7 +562,274 @@
         "course": "MSE3271"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4381.01",
+        "Class Name": "Design and Professional Practice I",
+        "Class Number": "6674",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "3.93"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4382.01",
+        "Class Name": "Design and Professional Practice II",
+        "Class Number": "6675",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "3.83"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3271",
+        "Class Name": "Electronic Properties",
+        "Class Number": "6652",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "34",
+        "Rating": "4.41"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4381.01",
+        "Class Name": "Design and Professional Practice I",
+        "Class Number": "6736",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4382.01",
+        "Class Name": "Design and Professional Practice II",
+        "Class Number": "6735",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "3.83"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4381",
+        "Class Name": "Design and Professional Practice I",
+        "Class Number": "30005",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.39"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4382",
+        "Class Name": "Design and Professional Practice II",
+        "Class Number": "30006",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "3.63"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3271",
+        "Class Name": "Electronic Properties",
+        "Class Number": "24522",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "3.96"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4381.01",
+        "Class Name": "Design and Professional Practice I",
+        "Class Number": "24527",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4382.01",
+        "Class Name": "Design and Professional Practice II",
+        "Class Number": "24526",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4381.01",
+        "Class Name": "Design and Professional Practice I",
+        "Class Number": "8427",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4382.01",
+        "Class Name": "Design and Professional Practice II",
+        "Class Number": "8428",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3271",
+        "Class Name": "Electronic Properties",
+        "Class Number": "6356",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "2.17"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4381.01",
+        "Class Name": "Design and Professional Practice I",
+        "Class Number": "6361",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "1",
+        "Rating": "4"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4382.01",
+        "Class Name": "Design and Professional Practice II",
+        "Class Number": "6360",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "3.63"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4381.01",
+        "Class Name": "Design and Professional Practice I",
+        "Class Number": "8510",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "3.11"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4382.01",
+        "Class Name": "Design and Professional Practice II",
+        "Class Number": "8511",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "1",
+        "Rating": "4"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4381.01",
+        "Class Name": "Design and Professional Practice I",
+        "Class Number": "6530",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "4"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "4382.01",
+        "Class Name": "Design and Professional Practice II",
+        "Class Number": "6529",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "2.44"
+      }
+    ]
   },
   {
     "avgDifficulty": 4.3,
@@ -104,6 +840,8 @@
     "lastName": "Dregia",
     "legacyId": 2519547,
     "numRatings": 6,
+    "summary_comment": "Professor Dregia is widely regarded as having a poor teaching demeanor and unpreparedness; students report he was dismissive during the delayed final and unhelpful with grading. His lectures are considered difficult to follow without extensive note-taking, and the course structure relies heavily on specific, often obscure material covered in class. Overall, students find his class challenging and stressful, with few resources provided beyond his lectures.",
+    "summary_comment_short": "Professor Dregia is widely regarded as having a poor teaching demeanor and unpreparedness; students frequently complain about his dismissive attitude, late publication of materials, and reliance on specific, hard-to-find information during exams. His classes are challenging due to the lack of comprehensive resources and the high stakes of limited assessments.",
     "Ratings": [
       {
         "index": 1,
@@ -148,7 +886,106 @@
         "course": "MSE3141"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2010",
+        "Class Name": "Introduction to Engineering Materials",
+        "Class Number": "6646",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "117",
+        "Rating": "3.74"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3151",
+        "Class Name": "Transport Phenomena and Kinetics",
+        "Class Number": "29988",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "47",
+        "Rating": "2.87"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5552",
+        "Class Name": "Nanoscale Synthesis and Processing of Electronic Materials",
+        "Class Number": "24529",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3.75"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5532",
+        "Class Name": "Electronic, Optical, and Magnetic Properties Laboratory",
+        "Class Number": "8416",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "1.5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5552",
+        "Class Name": "Nanoscale Synthesis and Processing of Electronic Materials",
+        "Class Number": "6363",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5761.71",
+        "Class Name": "Mechanical Behavior of Crystalline Solids at Lower Temperature",
+        "Class Number": "8609",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3271",
+        "Class Name": "Electronic Properties",
+        "Class Number": "6525",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "2.31"
+      }
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -159,6 +996,8 @@
     "lastName": "Beach",
     "legacyId": 2708304,
     "numRatings": 1,
+    "summary_comment": "Professor Beach is highly regarded as one of the best professors at OSU, known for genuinely caring about his students' success both in and out of the classroom. He is a valuable source of knowledge and advice, and goes above and beyond to assist his students.",
+    "summary_comment_short": "Professor Beach is highly regarded as one of the best professors at OSU, known for his genuine care and commitment to student success both inside and outside the classroom. He is considered a valuable resource due to his extensive knowledge and willingness to assist students.",
     "Ratings": [
       {
         "index": 1,
@@ -168,7 +1007,1239 @@
         "course": "MATSCEN-3331"
       }
     ],
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3331",
+        "Class Name": "Materials Science and Engineering Lab I",
+        "Class Number": "6672",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "46",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5763.7",
+        "Class Name": "Fracture and Fatigue of Engineering Materials",
+        "Class Number": "9849",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5763.7",
+        "Class Name": "Fracture and Fatigue of Engineering Materials",
+        "Class Number": "9850",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5763.7",
+        "Class Name": "Fracture and Fatigue of Engineering Materials",
+        "Class Number": "37054",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2331",
+        "Class Name": "Structure and Characterization Lab",
+        "Class Number": "6650",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "17",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2331",
+        "Class Name": "Structure and Characterization Lab",
+        "Class Number": "9799",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2331",
+        "Class Name": "Structure and Characterization Lab",
+        "Class Number": "9800",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2331",
+        "Class Name": "Structure and Characterization Lab",
+        "Class Number": "34204",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "6654",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "24",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3331",
+        "Class Name": "Materials Science and Engineering Lab I",
+        "Class Number": "30003",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "45",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5431",
+        "Class Name": "Advanced Metals Laboratory",
+        "Class Number": "29991",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2331",
+        "Class Name": "Structure and Characterization Lab",
+        "Class Number": "24542",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2331",
+        "Class Name": "Structure and Characterization Lab",
+        "Class Number": "24544",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "24524",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "34",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5193.02",
+        "Class Name": "Individual Studies in Materials Science & Engineering",
+        "Class Number": "24613",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3331",
+        "Class Name": "Materials Science and Engineering Lab I",
+        "Class Number": "8425",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5431",
+        "Class Name": "Advanced Metals Laboratory",
+        "Class Number": "8413",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2331",
+        "Class Name": "Structure and Characterization Lab",
+        "Class Number": "6375",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2331",
+        "Class Name": "Structure and Characterization Lab",
+        "Class Number": "6376",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "6358",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5952",
+        "Class Name": "Failure Analysis of Materials",
+        "Class Number": "36467",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3331",
+        "Class Name": "Materials Science and Engineering Lab I",
+        "Class Number": "8508",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5431",
+        "Class Name": "Advanced Metals Laboratory",
+        "Class Number": "8496",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2331",
+        "Class Name": "Structure and Characterization Lab",
+        "Class Number": "6543",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.84"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "2331",
+        "Class Name": "Structure and Characterization Lab",
+        "Class Number": "6544",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3332",
+        "Class Name": "Materials Science and Engineering Lab II",
+        "Class Number": "6527",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5952",
+        "Class Name": "Failure Analysis of Materials",
+        "Class Number": "12490",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.94"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3,
+    "department": "Materials Science & Eng.",
+    "firstName": "Hamish",
+    "id": "VGVhY2hlci0yOTczMDk3",
+    "lastName": "Fraser",
+    "legacyId": 2973097,
+    "numRatings": 1,
+    "summary_comment": "Professor Fraser is a respected expert in metallurgy but struggles as a teacher, often delivering unengaging lectures with outdated and disorganized slides. Despite being willing to encourage class participation and effectively explaining concepts, his teaching quality remains average due to his long-standing complacency in the role.",
+    "summary_comment_short": "Professor Fraser is an expert in metallurgy but lacks enthusiasm in teaching, delivering boring lectures with outdated and disorganized slides. Despite being competent at explaining concepts and encouraging class participation, his teaching quality remains average due to his long-standing complacency in the role.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Dr. Fraser is renowned in the field of metallurgy, but it's clear that teaching is an afterthought. He is boring and his slides are old and disorganized. He wants participation in class which is nice and he is good at explaining concepts. He's an average professor who has taught this class for over a decade and is complacent as a result.",
+        "course": "MATSCEN5441"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "7855",
+        "Class Name": "Electron Diffraction, Imaging and Spectroscopies",
+        "Class Number": "34843",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "29992",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "29993",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "8414",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "8415",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6765",
+        "Class Name": "Mechanical Behavior of Materials",
+        "Class Number": "6370",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "8497",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "8498",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "4.67"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 4,
+    "department": "Materials Science & Eng.",
+    "firstName": "Gopal",
+    "id": "VGVhY2hlci0yOTczMTAx",
+    "lastName": "Viswanathan",
+    "legacyId": 2973101,
+    "numRatings": 1,
+    "summary_comment": "Professor Viswanathan is highly regarded for his humor and deep knowledge in metallurgy, though his lectures can be challenging to follow. He emphasizes thorough understanding but can be confusing at times. Despite these challenges, students find him a good professor who effectively guides them towards mastering the subject matter.",
+    "summary_comment_short": "Professor Viswanathan is highly regarded for his humor and deep knowledge in metallurgy, though his lectures can be challenging to follow. Despite this, he effectively encourages a thorough understanding of the subject matter, though students find the grading criteria to be somewhat strict and specific.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Babu is one of the funniest professors in the department and he's very knowledgeable about metallurgy. He wants students to really understand the content, but he can be confusing and hard to follow in lectures. It can also be difficult to satisfy the graders if you don't explain concepts in the way they want. Overall he's a good professor.",
+        "course": "MATSCEN5441"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "6164",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.53"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "6165",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5761.72",
+        "Class Name": "Mechanical Behavior of Crystalline Solids at High Temperatures",
+        "Class Number": "9930",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "29992",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "29993",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5761.72",
+        "Class Name": "Mechanical Behavior of Crystalline Solids at High Temperatures",
+        "Class Number": "24674",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "8414",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "8415",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5761.72",
+        "Class Name": "Mechanical Behavior of Crystalline Solids at High Temperatures",
+        "Class Number": "6495",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6765",
+        "Class Name": "Mechanical Behavior of Materials",
+        "Class Number": "6370",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "8497",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5441",
+        "Class Name": "Physical Metallurgy",
+        "Class Number": "8498",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5761.72",
+        "Class Name": "Mechanical Behavior of Crystalline Solids at High Temperatures",
+        "Class Number": "6661",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Materials Science & Eng.",
+    "firstName": "Salva",
+    "id": "VGVhY2hlci0yOTczMTE2",
+    "lastName": "Salmani-Rezaie",
+    "legacyId": 2973116,
+    "numRatings": 1,
+    "summary_comment": "Professor Salmani-Rezaie is highly regarded for her exceptional teaching quality, characterized by her kindness, depth of knowledge, and effective communication of course content. Her approachable and friendly demeanor makes her engaging to interact with, both before and during classes. Students anticipate her development into one of the top MSE professors at Ohio State University.",
+    "summary_comment_short": "Professor Salmani-Rezaie is highly regarded for her exceptional teaching quality, characterized by kindness, extensive knowledge, and effective communication of course content. Students appreciate her approachable nature and genuine care for their learning, expecting her to become one of the top MSE professors at Ohio State University.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Salmani-Rezaie joined the department this semester and has become one of my favorite professors. She is incredibly kind, knowledgeable, and communicates the course content well. She is down to earth and is fun to talk to before class. She cares a lot and as she gets more experience, I can see becoming one of the best MSE professors at OSU.",
+        "course": "MATSCEN5572"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5532",
+        "Class Name": "Electronic, Optical, and Magnetic Properties Laboratory",
+        "Class Number": "8499",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5572",
+        "Class Name": "Materials for Energy Technology",
+        "Class Number": "8535",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.89"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Materials Science & Eng.",
+    "firstName": "Pelagia-Iren",
+    "id": "VGVhY2hlci0yOTczMTEy",
+    "lastName": "Gouma",
+    "legacyId": 2973112,
+    "numRatings": 1,
+    "summary_comment": "Professor Gouma is highly regarded for her unique teaching approach, deeply passionate about guiding students to discover topics they are passionate about and exploring them in depth. She prioritizes practical learning over academic difficulty and is known for being exceptionally open and caring, often tailoring her classes to meet the students' needs and interests.",
+    "summary_comment_short": "Professor Gouma is highly regarded for her unique teaching approach, passionately encouraging students to explore topics they are passionate about in depth. She prioritizes meaningful learning over difficulty, showing great flexibility and care in tailoring her classes to meet students' needs.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No other professors teaches a class like Dr. Gouma. She is passionate about getting you to find a topic you're passionate about and diving deep into it. She cares more about you taking away things you may one day use than making the class difficult. She is open to changing the class based on what you want out of it and is so nice and caring.",
+        "course": "MATSCEN5711"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5711.7",
+        "Class Name": "Introduction to Composites",
+        "Class Number": "9920",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5531",
+        "Class Name": "Ceramics Processing Laboratory",
+        "Class Number": "30154",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "3.33"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5551",
+        "Class Name": "Ceramic Processing",
+        "Class Number": "29995",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5551",
+        "Class Name": "Ceramic Processing",
+        "Class Number": "29996",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5711.7",
+        "Class Name": "Introduction to Composites",
+        "Class Number": "24664",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.6"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5551",
+        "Class Name": "Ceramic Processing",
+        "Class Number": "8417",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5641",
+        "Class Name": "Structure-Property Relationships of Polymers",
+        "Class Number": "8422",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.27"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5711.7",
+        "Class Name": "Introduction to Composites",
+        "Class Number": "6486",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.8"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5551",
+        "Class Name": "Ceramic Processing",
+        "Class Number": "8500",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5711.7",
+        "Class Name": "Introduction to Composites",
+        "Class Number": "6652",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.1,
+    "avgRating": 4.4,
+    "department": "Materials Science & Eng.",
+    "firstName": "Stephen",
+    "id": "VGVhY2hlci0yNzA1ODg3",
+    "lastName": "Niezgoda",
+    "legacyId": 2705887,
+    "numRatings": 10,
+    "summary_comment": "Professor Niezgoda is known for his clear and knowledgeable lectures, often supplemented with engaging elements like Spotify playlists. However, his classes can be challenging and require consistent effort, particularly through weekly quizzes and detailed textbook readings. While some students find him passionate and helpful, others note that his tangential teaching style and occasional forgetfulness can be drawbacks.",
+    "summary_comment_short": "Professor Niezgoda is known for his clear and knowledgeable lectures, though his classes can be challenging and largely lecture-based. Students appreciate his passion for teaching and willingness to help, but also note that the material can be dense and requires significant effort outside of class.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Not pop quizzes but weekly quizzes. Had two drops which was lovely. Had to follow along in lecture if you're easily distracted but you can definitely read his slides and rewatch some lectures and it makes it easier. I liked attending bc of the spotify playlists in the beginning and also he said you do by attending and he wasn't wrong I guess?",
+        "course": "MATSCEN3141"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Chill dude, told you what you needed to know for the quiz.",
+        "course": "MATSCEN2010"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "He often went on tangents/ side tracked while lecturing. Co taught - thought other prof was better. Class is basically read the textbook, 2 lectures, recitation and quiz each week. The quizzes are not that bad if you study/ review (I often didn't do... probably would've done better in the class if I did). Kinda boring and is a lot of lecturing. ",
+        "course": "MATSCEN2010"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This man roasdted me in class and ended my whole career  like 5 minutes ago.",
+        "course": "MATSCEN3141"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Steve is passionate about teaching and wants you to do well. The homework takes a long time but is graded easily. You need to work in a group or you'll waste tons of time. Only downside is he forgets to respond to emails and fix grades or give extra credit he promised.",
+        "course": "MATSCEN3141"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "He is great professor. Honestly, I could easily say he has been the best professor I have had so far. His class is certainly difficult and if you want to do great I recommend reading the textbook, but he \"dumbs down\" difficult concepts and he is also extremely passionate about teaching.",
+        "course": "MATSCEN3141"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Overall, the class was extremely difficult but if you show any type of effort (ie. Office hours, rewatching lectures, talking after class) you will be okay.",
+        "course": "MSE3141"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very knowledgeable and a great lecturer",
+        "course": "MSE3141"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "laid back and intelligent professor. The material is certainly difficult but there is no doubt about it- he could make this class much harder if he wanted to. Still, I feel like I have learned a lot in this class.",
+        "course": "MSE3141"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "The good: Good/clear speaker. Interesting person. Loves metallurgy. One can appreciate his commitment to diversity. The bad: Frequently forgets to reply to student emails (or even act, as he indicated), on matters of importance.. Probably just a consequence of mass public education. Too much for one professor to do.",
+        "course": "MATSCEN3141"
+      }
+    ],
     "SEI": []
+  },
+  {
+    "avgDifficulty": 3.3,
+    "avgRating": 4.3,
+    "department": "Materials Science & Eng.",
+    "firstName": "Jinwoo",
+    "id": "VGVhY2hlci0yNzA1ODg5",
+    "lastName": "Hwang",
+    "legacyId": 2705889,
+    "numRatings": 3,
+    "summary_comment": "Professor Hwang is known for his engaging and humorous lectures, which students find enjoyable and memorable. He is highly supportive of his students, encouraging them to seek help if needed, and offers fair assessments with opportunities for preparation through homework and a detailed cheat sheet. His teaching style is clear and accessible, making complex topics easier to understand.",
+    "summary_comment_short": "Professor Hwang is known for his engaging and humorous lectures, which students find both entertaining and effective. He is highly supportive of his students, offering assistance when needed, and has a fair assessment system with manageable homework and exams.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Professor Hwang is very unintentionally (?) funny, and cares a lot about students. come up to him if you have issues. Only one homework this year, and 5 quizzes with two dropped. TAs were harsh graders.Waiting on final so expect B- to B+ for me.",
+        "course": "MATSCEN3151"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Hwang is a great lecturer and his homework and exams were fair. The exam questions were similar to the homework, and he lets you have a one sided cheat sheet with anything you want. Make a good cheat sheet, redo the homework and you'll do well. I loved his jokes that came out of nowhere and how down to earth he was.",
+        "course": "MATSCEN3151"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Professor Jinwoo is a clear public speaker. He teaches like a physicist, refreshingly. The content in Transport Phenomena is not difficult, compared to the companion MATSCEN3141 (Phase Transformations). There are no makeup examinations. There were about 100 students in one section, which strikes me as insane for a junior-level class.",
+        "course": "MATSCEN3151"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3151",
+        "Class Name": "Transport Phenomena and Kinetics",
+        "Class Number": "6160",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "47",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6715",
+        "Class Name": "Principles of the Characterization of Materials",
+        "Class Number": "24534",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.29"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3151",
+        "Class Name": "Transport Phenomena and Kinetics",
+        "Class Number": "8410",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6715",
+        "Class Name": "Principles of the Characterization of Materials",
+        "Class Number": "6368",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "3151",
+        "Class Name": "Transport Phenomena and Kinetics",
+        "Class Number": "8493",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "3.69"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Materials Science & Eng.",
+    "firstName": "Wolfgang",
+    "id": "VGVhY2hlci0xNjIyNjQw",
+    "lastName": "Windl",
+    "legacyId": 1622640,
+    "numRatings": 1,
+    "summary_comment": "Professor Windl is highly regarded for his engaging and enjoyable lecture style, which students find entertaining and effective. While primarily responsible for recitation sessions, he occasionally takes over lectures, where he shines and significantly enhances the learning experience. His approachable and enthusiastic teaching style sets him apart as a standout instructor.",
+    "summary_comment_short": "Professor Windl is highly regarded for his engaging and entertaining lecture style, which students find enjoyable and effective. While primarily responsible for recitations, his occasional lectures are particularly appreciated, often surpassing those led by Flores in terms of student engagement and enjoyment.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He is a professor mostly does Recitation work but sometimes steps in for Lecture. His lectures are fun and interesting and makes it awesome. I wish he was the actual lecturer. No points against Flores she is good too.",
+        "course": "MAT205"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5605",
+        "Class Name": "Quantitative Introduction to Materials Science",
+        "Class Number": "9570",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6756",
+        "Class Name": "Computational Materials Modeling",
+        "Class Number": "36118",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6756",
+        "Class Name": "Computational Materials Modeling",
+        "Class Number": "37951",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "7193.02",
+        "Class Name": "Individual Studies in Materials Science & Engineering",
+        "Class Number": "24729",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6756",
+        "Class Name": "Computational Materials Modeling",
+        "Class Number": "12439",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6747",
+        "Class Name": "Structure and Defects in Materials",
+        "Class Number": "8512",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.74"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.4,
@@ -179,6 +2250,8 @@
     "lastName": "Polasik",
     "legacyId": 1862596,
     "numRatings": 29,
+    "summary_comment": "Professor Polasik is widely perceived as disorganized and ineffective in her teaching, with students finding her lectures confusing and poorly delivered. Many noted issues with her slides and exams containing numerous errors, and criticized her responsiveness and accessibility. Overall, her classes are seen as challenging to follow and not particularly helpful for understanding the material.",
+    "summary_comment_short": "Professor Polasik is perceived as knowledgeable but struggles significantly with effective teaching methods, leading to disorganized classes and confusing lectures filled with errors. Students find her lectures unengaging and poorly structured, and many report feeling unsupported by the course materials and technology used.",
     "Ratings": [
       {
         "index": 1,
@@ -382,306 +2455,6 @@
         "difficulty": 4,
         "comment": "The worst professor I have ever had at OSU.  She is confusing during lecture and teaches incorrect material.  On multiple occasions she taught information that was incorrect according to the textbook.  She is very knowledgable in her speciality however when it comes to general material science she is clueless.  Avoid at all costs.",
         "course": "MSE2010"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 3,
-    "department": "Materials Science & Eng.",
-    "firstName": "Hamish",
-    "id": "VGVhY2hlci0yOTczMDk3",
-    "lastName": "Fraser",
-    "legacyId": 2973097,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Dr. Fraser is renowned in the field of metallurgy, but it's clear that teaching is an afterthought. He is boring and his slides are old and disorganized. He wants participation in class which is nice and he is good at explaining concepts. He's an average professor who has taught this class for over a decade and is complacent as a result.",
-        "course": "MATSCEN5441"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 4,
-    "department": "Materials Science & Eng.",
-    "firstName": "Gopal",
-    "id": "VGVhY2hlci0yOTczMTAx",
-    "lastName": "Viswanathan",
-    "legacyId": 2973101,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Babu is one of the funniest professors in the department and he's very knowledgeable about metallurgy. He wants students to really understand the content, but he can be confusing and hard to follow in lectures. It can also be difficult to satisfy the graders if you don't explain concepts in the way they want. Overall he's a good professor.",
-        "course": "MATSCEN5441"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Materials Science & Eng.",
-    "firstName": "Salva",
-    "id": "VGVhY2hlci0yOTczMTE2",
-    "lastName": "Salmani-Rezaie",
-    "legacyId": 2973116,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Salmani-Rezaie joined the department this semester and has become one of my favorite professors. She is incredibly kind, knowledgeable, and communicates the course content well. She is down to earth and is fun to talk to before class. She cares a lot and as she gets more experience, I can see becoming one of the best MSE professors at OSU.",
-        "course": "MATSCEN5572"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Materials Science & Eng.",
-    "firstName": "Pelagia-Iren",
-    "id": "VGVhY2hlci0yOTczMTEy",
-    "lastName": "Gouma",
-    "legacyId": 2973112,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "No other professors teaches a class like Dr. Gouma. She is passionate about getting you to find a topic you're passionate about and diving deep into it. She cares more about you taking away things you may one day use than making the class difficult. She is open to changing the class based on what you want out of it and is so nice and caring.",
-        "course": "MATSCEN5711"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.3,
-    "avgRating": 2.6,
-    "department": "Materials Science & Eng.",
-    "firstName": "Jenifer",
-    "id": "VGVhY2hlci0yNTYwNDQ1",
-    "lastName": "Locke",
-    "legacyId": 2560445,
-    "numRatings": 10,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Weekly quizzes often did not seem to reflect the weekly content. You can attend both lectures for the content, watch the pre recorded videos, and do the optional practice problems, and there will still be a problem you've never seen before. I would highly recommend doing the optional problems on zybooks.",
-        "course": "MSE2010"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Class is structured very poorly, and not very helpful in lectures. Very passive aggressive, gets oddly upset when people pack up a minute early.",
-        "course": "MSE2010"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "This class was super annoying, a quiz every Friday morning, and 4 hour review videos if you wanted to study. Often times I would get a better grade if I guessed on the quizzes than if I tried to study and prepare. She was very passive-aggressive and would make students feel very intimidated. There are some opportunities for extra credit though.",
-        "course": "MSE2010"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Be ready to watch 3 hours of videos and attend lectures to be prepared for the weekly quizzes. Class is less focused on learning than doing well on quizzes due to amount of content. She asked for feedback mid-semester just to change nothing. Only plus is the amount of extra points available which bring your grade up a lot at the end of semester.",
-        "course": "MSE2010"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Rushed material, quizzes every Friday with difficulty to prepare, long readings that do not invite real learning. Retained low amounts of information due to the rushed course layout. ",
-        "course": "MSE2010"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Overall Professor Lock is alright. When approached though she made you feel quite dumb. I avoided her after talking to her. There are quizzes every week, but you can get some points back by correcting your quiz. There's lots to read.",
-        "course": "MSE2010"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "I think Prof. Locke is a good professor but I believe Prof. Brown is better at explaining what is needed for the weekly quizzes. I had a hard time following her lectures in comparison, and there was less explanation in general of the stuff on the quizzes. ",
-        "course": "MSE2010"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "you take a 40 point quiz every single week. there's a lot of opportunity to earn points back but there is a lot of homework and those quizzes will tank your grade. also professor locke does not like being contacted about grades so don't even try to ask.",
-        "course": "MSE2010"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "prof locke is a great instructor. 100% recommend ",
-        "course": "MSE5951"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Professor Locke is a very solid professor. She explains things clearly and in detail in lecture, and has a good sense of humor which keeps lectures engaging. She has very fair exams and does bonus questions. Nothing on the exams was surprising if you attend lecture or read the material (she makes it clear what sections are considered fair game).",
-        "course": "MSE2010"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.1,
-    "avgRating": 4.4,
-    "department": "Materials Science & Eng.",
-    "firstName": "Stephen",
-    "id": "VGVhY2hlci0yNzA1ODg3",
-    "lastName": "Niezgoda",
-    "legacyId": 2705887,
-    "numRatings": 10,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Not pop quizzes but weekly quizzes. Had two drops which was lovely. Had to follow along in lecture if you're easily distracted but you can definitely read his slides and rewatch some lectures and it makes it easier. I liked attending bc of the spotify playlists in the beginning and also he said you do by attending and he wasn't wrong I guess?",
-        "course": "MATSCEN3141"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Chill dude, told you what you needed to know for the quiz.",
-        "course": "MATSCEN2010"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "He often went on tangents/ side tracked while lecturing. Co taught - thought other prof was better. Class is basically read the textbook, 2 lectures, recitation and quiz each week. The quizzes are not that bad if you study/ review (I often didn't do... probably would've done better in the class if I did). Kinda boring and is a lot of lecturing. ",
-        "course": "MATSCEN2010"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "This man roasdted me in class and ended my whole career  like 5 minutes ago.",
-        "course": "MATSCEN3141"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Steve is passionate about teaching and wants you to do well. The homework takes a long time but is graded easily. You need to work in a group or you'll waste tons of time. Only downside is he forgets to respond to emails and fix grades or give extra credit he promised.",
-        "course": "MATSCEN3141"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "He is great professor. Honestly, I could easily say he has been the best professor I have had so far. His class is certainly difficult and if you want to do great I recommend reading the textbook, but he \"dumbs down\" difficult concepts and he is also extremely passionate about teaching.",
-        "course": "MATSCEN3141"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Overall, the class was extremely difficult but if you show any type of effort (ie. Office hours, rewatching lectures, talking after class) you will be okay.",
-        "course": "MSE3141"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Very knowledgeable and a great lecturer",
-        "course": "MSE3141"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "laid back and intelligent professor. The material is certainly difficult but there is no doubt about it- he could make this class much harder if he wanted to. Still, I feel like I have learned a lot in this class.",
-        "course": "MSE3141"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "The good: Good/clear speaker. Interesting person. Loves metallurgy. One can appreciate his commitment to diversity. The bad: Frequently forgets to reply to student emails (or even act, as he indicated), on matters of importance.. Probably just a consequence of mass public education. Too much for one professor to do.",
-        "course": "MATSCEN3141"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.3,
-    "avgRating": 4.3,
-    "department": "Materials Science & Eng.",
-    "firstName": "Jinwoo",
-    "id": "VGVhY2hlci0yNzA1ODg5",
-    "lastName": "Hwang",
-    "legacyId": 2705889,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Professor Hwang is very unintentionally (?) funny, and cares a lot about students. come up to him if you have issues. Only one homework this year, and 5 quizzes with two dropped. TAs were harsh graders.Waiting on final so expect B- to B+ for me.",
-        "course": "MATSCEN3151"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Hwang is a great lecturer and his homework and exams were fair. The exam questions were similar to the homework, and he lets you have a one sided cheat sheet with anything you want. Make a good cheat sheet, redo the homework and you'll do well. I loved his jokes that came out of nowhere and how down to earth he was.",
-        "course": "MATSCEN3151"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Professor Jinwoo is a clear public speaker. He teaches like a physicist, refreshingly. The content in Transport Phenomena is not difficult, compared to the companion MATSCEN3141 (Phase Transformations). There are no makeup examinations. There were about 100 students in one section, which strikes me as insane for a junior-level class.",
-        "course": "MATSCEN3151"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Materials Science & Eng.",
-    "firstName": "Wolfgang",
-    "id": "VGVhY2hlci0xNjIyNjQw",
-    "lastName": "Windl",
-    "legacyId": 1622640,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "He is a professor mostly does Recitation work but sometimes steps in for Lecture. His lectures are fun and interesting and makes it awesome. I wish he was the actual lecturer. No points against Flores she is good too.",
-        "course": "MAT205"
       }
     ],
     "SEI": []

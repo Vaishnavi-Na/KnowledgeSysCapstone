@@ -8,6 +8,8 @@
     "lastName": "Klompen",
     "legacyId": 51287,
     "numRatings": 62,
+    "summary_comment": "Professor Klompen is highly regarded for his passion and clarity in teaching, making classes engaging despite some challenging vocabulary and monotone delivery. Students appreciate his willingness to explain concepts thoroughly and his accommodation during office hours. However, his grading can be strict, and some find his expectations and instructions unclear, leading to confusion in assessments.",
+    "summary_comment_short": "Professor Klompen is highly regarded for his passion and engagement in teaching, making classes interesting and ensuring students understand complex concepts through office hours. However, his lectures can be challenging due to dense content and monotone delivery, though he is very accommodating and willing to help students who seek clarification.",
     "Ratings": [
       {
         "index": 1,
@@ -444,7 +446,36 @@
         "course": "BIO114"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "BIOLOGY",
+        "Catalog": "3401",
+        "Class Name": "Integrated Biology",
+        "Class Number": "13211",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Introductory Biology",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "108",
+        "Rating": "4.05"
+      },
+      {
+        "Subject": "EEOB",
+        "Catalog": "2270",
+        "Class Name": "Parasites and Evolution: How Worms, Mosquitoes, etc. Manage Their/Our World",
+        "Class Number": "27639",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Evolution, Ecology & Org Bio",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "50",
+        "Rating": "4.55"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.6,
@@ -455,6 +486,8 @@
     "lastName": "Simcox",
     "legacyId": 367484,
     "numRatings": 29,
+    "summary_comment": "Professor Simcox is known for her caring nature and fairness in grading, though her lectures are often criticized for being unengaging and sometimes difficult to follow, focusing more on her research than course material. Students find her tests straightforward but occasionally overly specific and challenging. Overall, while her quizzes and tests are well-structured, her teaching style and lecture content are generally considered lacking in engagement and clarity.",
+    "summary_comment_short": "Professor Simcox is known for her caring nature and fairness, though her lectures are often criticized for being unengaging and sometimes difficult to follow, focusing more on her personal research than the course material. Her tests are generally straightforward and easy, but her teaching style and class structure can be seen as less effective for learning compared to other instructors.",
     "Ratings": [
       {
         "index": 1,
@@ -660,7 +693,106 @@
         "course": "BIO113"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "BIOLOGY",
+        "Catalog": "3401",
+        "Class Name": "Integrated Biology",
+        "Class Number": "21538",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Introductory Biology",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "67",
+        "Rating": "4.12"
+      },
+      {
+        "Subject": "BIOPHYS",
+        "Catalog": "7600",
+        "Class Name": "First-Year Student Orientation",
+        "Class Number": "11357",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Division Of Sensory Biophysics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "BIOPHYS",
+        "Catalog": "7600",
+        "Class Name": "First-Year Student Orientation",
+        "Class Number": "15483",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Division Of Sensory Biophysics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "MCDBIO",
+        "Catalog": "7600",
+        "Class Name": "First-Year Student Orientation",
+        "Class Number": "14723",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "3.83"
+      },
+      {
+        "Subject": "MICRBIO",
+        "Catalog": "7600",
+        "Class Name": "First Year Student Orientation",
+        "Class Number": "18596",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Microbiology",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "1",
+        "Rating": "3"
+      },
+      {
+        "Subject": "OSBP",
+        "Catalog": "7600",
+        "Class Name": "First-Year Student Orientation",
+        "Class Number": "1429",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Graduate School Admin",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "OSBP",
+        "Catalog": "7600",
+        "Class Name": "First-Year Student Orientation",
+        "Class Number": "1578",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Graduate School Admin",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "3",
+        "Rating": "4.33"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.8,
@@ -671,6 +803,8 @@
     "lastName": "Mathur",
     "legacyId": 313702,
     "numRatings": 30,
+    "summary_comment": "Professor Mathur offers an easy class with comprehensive lecture materials and recordings, making it accessible for self-study. Lectures are detailed but can be lengthy and somewhat boring, particularly for non-science majors. While attendance is optional, attending is highly recommended for a deeper understanding of the material, which is crucial for performing well on the exams.",
+    "summary_comment_short": "Professor Mathur offers an easy yet informative class where lectures are well-outlined and recorded for convenience. While the class requires consistent engagement with the material, particularly through attending lectures or reviewing detailed slides, it is generally considered manageable and rewarding.",
     "Ratings": [
       {
         "index": 1,
@@ -883,7 +1017,106 @@
         "course": "ASTRON162"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1102",
+        "Class Name": "From Planets to the Cosmos (No Lab)",
+        "Class Number": "22883",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "66",
+        "Rating": "4.02"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1141",
+        "Class Name": "Life in the Universe",
+        "Class Number": "11110",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "80",
+        "Rating": "4.36"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1102",
+        "Class Name": "From Planets to the Cosmos (No Lab)",
+        "Class Number": "21659",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Enhanced",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "63",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1141",
+        "Class Name": "Life in the Universe",
+        "Class Number": "15237",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "76",
+        "Rating": "4.47"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1141",
+        "Class Name": "Life in the Universe",
+        "Class Number": "17484",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "47",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "1143",
+        "Class Name": "Cosmology: History of the Universe",
+        "Class Number": "18161",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ASTRON",
+        "Catalog": "2141",
+        "Class Name": "Life in the Universe",
+        "Class Number": "18159",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Astronomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.59"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.4,
@@ -894,6 +1127,8 @@
     "lastName": "Furnstahl",
     "legacyId": 51244,
     "numRatings": 10,
+    "summary_comment": "Professor Furnstahl is highly regarded for his exceptional teaching skills and deep understanding of physics. Students praise his clarity in writing and speaking, his thorough preparation, and his ability to make complex concepts accessible. He is also known for his dedication to student learning, often staying after class to help with homework and fostering an engaging classroom environment.",
+    "summary_comment_short": "Professor Furnstahl is highly regarded for his exceptional teaching skills and deep understanding of physics, making complex concepts accessible and engaging. Students consistently praise his dedication, clear communication, and commitment to helping them truly grasp the material.",
     "Ratings": [
       {
         "index": 1,
@@ -966,7 +1201,106 @@
         "course": "PHYSICS26"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "5300",
+        "Class Name": "Theoretical Mechanics",
+        "Class Number": "23084",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "8820",
+        "Class Name": "Special Topics",
+        "Class Number": "19507",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "5300",
+        "Class Name": "Theoretical Mechanics",
+        "Class Number": "17210",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "7501",
+        "Class Name": "Quantum Mechanics 1",
+        "Class Number": "20510",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "5300",
+        "Class Name": "Theoretical Mechanics",
+        "Class Number": "23267",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "7701",
+        "Class Name": "Analytic and Numeric Methods of Physics",
+        "Class Number": "23096",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "8820",
+        "Class Name": "Special Topics",
+        "Class Number": "23773",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.88"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.4,
@@ -977,6 +1311,8 @@
     "lastName": "Vaessin",
     "legacyId": 316605,
     "numRatings": 40,
+    "summary_comment": "Professor Vaessin is known for his challenging exams, with a significant portion of questions coming from self-evaluations and a test bank, making memorization crucial. While some students appreciate his care for their success and the numerous opportunities for improvement, others find his lectures disconnected from the exam content and filled with tangents, leading to difficulties in understanding and retaining the material.",
+    "summary_comment_short": "Professor Vaessin's teaching is inconsistent; while some students find his lectures tangential and disconnected from exams, others appreciate his efforts to connect topics to real-life scenarios. Despite offering multiple opportunities for success through test corrections, self-evaluations, and exam drops, the class remains challenging, particularly due to the heavy reliance on memorization and the disconnect between lectures and exam questions.",
     "Ratings": [
       {
         "index": 1,
@@ -1259,7 +1595,288 @@
         "course": "MOLGEN500"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500",
+        "Class Name": "General Genetics",
+        "Class Number": "23196",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "40",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "21968",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "25347",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "27756",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500",
+        "Class Name": "General Genetics",
+        "Class Number": "21219",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "41",
+        "Rating": "3.41"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "19991",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "19471",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "21877",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.44"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500.01",
+        "Class Name": "General Genetics",
+        "Class Number": "24735",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.18"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500.01",
+        "Class Name": "General Genetics",
+        "Class Number": "34889",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "83",
+        "Rating": "2.61"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "23629",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.43"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "7890",
+        "Class Name": "Molecular Genetics Seminar",
+        "Class Number": "19186",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "25394",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "27654",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.2"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500.01",
+        "Class Name": "General Genetics",
+        "Class Number": "30438",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "60",
+        "Rating": "3.55"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "26103",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "7890",
+        "Class Name": "Molecular Genetics Seminar",
+        "Class Number": "21990",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4500.01",
+        "Class Name": "General Genetics",
+        "Class Number": "24927",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "47",
+        "Rating": "3.85"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "25316",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "MOLGEN",
+        "Catalog": "4501",
+        "Class Name": "General Genetics Laboratory",
+        "Class Number": "27450",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Molecular Genetics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.5"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.8,
@@ -1270,6 +1887,8 @@
     "lastName": "Lisa",
     "legacyId": 126159,
     "numRatings": 58,
+    "summary_comment": "Professor Lisa is highly regarded for her challenging yet fair approach to teaching Physics 2300, with generous grading curves that significantly boost final grades. While her lectures can be difficult and the exams demanding, students find the overall experience rewarding and recommend her despite occasional condescension and organizational issues.",
+    "summary_comment_short": "Professor Lisa is highly regarded for her challenging yet fair approach to teaching, with exams being particularly tough but final grades receiving generous curves. Her passion for pushing students to excel is evident, though some students find her method occasionally condescending and the flipped classroom format less effective.",
     "Ratings": [
       {
         "index": 1,
@@ -1678,7 +2297,64 @@
         "course": "PHY132"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "1250H",
+        "Class Name": "Honors Physics: Mechanics and Conservation Laws; Special Relativity",
+        "Class Number": "18442",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "N/A",
+        "Class Name": "Honors Physics: Mechanics and Conservation Laws; Special Relativity",
+        "Class Number": "16466",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "2300",
+        "Class Name": "Intermediate Mechanics I",
+        "Class Number": "20267",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "31",
+        "Rating": "4.07"
+      },
+      {
+        "Subject": "PHYSICS",
+        "Catalog": "2300",
+        "Class Name": "Intermediate Mechanics I",
+        "Class Number": "22881",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Physics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "36",
+        "Rating": "3.86"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.5,
@@ -1689,6 +2365,8 @@
     "lastName": "Mangino",
     "legacyId": 136907,
     "numRatings": 58,
+    "summary_comment": "Professor Mangino is known for his challenging yet informative lectures, with students noting that the class requires significant preparation and attention to detail. While he offers some leniency in grading, particularly by curving the class and providing bonus opportunities, exams are generally considered difficult and require thorough understanding of the material. Students recommend staying on top of readings and reviewing notes extensively to achieve a good grade.",
+    "summary_comment_short": "Professor Mangino is known for his challenging yet structured approach to teaching, with comprehensive but complex lecture notes that require diligent study. While students appreciate his leniency in grading and efforts to help those who struggle, the exams are notably difficult, making it challenging to achieve an A without significant preparation.",
     "Ratings": [
       {
         "index": 1,
@@ -2108,6 +2786,8 @@
     "lastName": "Steigman",
     "legacyId": 54902,
     "numRatings": 28,
+    "summary_comment": "Professor Steigman is known for his straightforward teaching style, making quantum mechanics accessible through detailed derivations and examples, though his lectures can be repetitive and boring. Students find his exams and quizzes very similar to practice materials, making them relatively easy if prepared adequately. While his lectures are not always necessary, they provide valuable context and explanations, especially towards the end of the quarter.",
+    "summary_comment_short": "Professor Steigman is known for his straightforward teaching style, where he derives concepts in class and provides practice exams that closely mirror the actual tests, making them relatively easy to prepare for. However, his lectures can be repetitive and boring, and some students find them less useful for learning compared to reading the textbook.",
     "Ratings": [
       {
         "index": 1,
@@ -2317,6 +2997,8 @@
     "lastName": "Masters",
     "legacyId": 53942,
     "numRatings": 33,
+    "summary_comment": "Professor Masters is highly regarded for his deep knowledge and ability to explain complex technical information clearly, making his exams fair and his classes accessible with consistent attendance and study. Students find him enthusiastic and approachable, though some note that his teaching style can be more discussion-based and less structured, which may not suit all learners.",
+    "summary_comment_short": "Professor Masters is highly regarded for his deep knowledge and ability to explain complex technical information clearly, leading to fair exams and good outcomes for students who engage with his material. His teaching style is engaging and flexible, allowing students to participate in test scheduling and collaborative in-class homework, though some find his discussion-based approach and tendency to veer off-topic less structured.",
     "Ratings": [
       {
         "index": 1,
@@ -2561,6 +3243,8 @@
     "lastName": "Gould",
     "legacyId": 53259,
     "numRatings": 21,
+    "summary_comment": "Professor Gould is highly regarded by many students for his engaging and thought-provoking teaching style, particularly appreciated by humanities majors who find his philosophical approach refreshing. However, the class is challenging, with stressful workloads and difficult tests, though he provides a generous curve. Despite the difficulties, students generally find his enthusiasm and humor valuable, and many recommend attending office hours for support.",
+    "summary_comment_short": "Professor Gould is highly regarded by some students as an engaging and thought-provoking instructor who encourages critical thinking and offers generous grading curves, though his class is noted for its challenging workload and difficult tests. Others find his class extremely stressful and recommend taking a different general education science class instead.",
     "Ratings": [
       {
         "index": 1,
@@ -2713,1523 +3397,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.7,
-    "avgRating": 2.9,
-    "department": "Science",
-    "firstName": "Rodney",
-    "id": "VGVhY2hlci01MTE3OA==",
-    "lastName": "Tettenhorst",
-    "legacyId": 51178,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I was one of Dr Tettenhorst's very first graduate students, and he was a wonderful advisor and mentor. I received my MS degree from the OSU Mineralogy department in 1968. His teachings and his manner of teaching benefitted me throughout my lifetime in engineering and teaching.",
-        "course": "MINERALOGY850"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "I had him over 20 years ago and went to see if he was on here..and he is...he was lousy in the 80's and the students either got A's or D's, because he was lazy and used the same tests over and over. A fewfemale students go copies of old tests from other guys in his prior classes of his and - automatically got A's somehow. Nobody understood him tho",
-        "course": "GEO221"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Someone else already mentioned that he acted like he was the guardian of the gates of geology. That was my same experience. He had his favorites although I'm not sure what made them his favorites. I personally found him to be arrogant, judgmental and cliquish. I got the impression that he thought I was an idiot.",
-        "course": "GEOL221"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "An old fashioned professor; too few like him are left.  If you are lazy, you are in really deep trouble.  If you love geology, this class is utterly foundational and it would hard to find a better professor of mineralogy.  If you hate geology, he'll help you discover that fast.",
-        "course": "GEO221"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "He felt it was his responsibility to decide who would be geologists, and if he didn't like you...  you were in deep trouble.  His exams bordered on comical.  Mineralogy through intimidation and thinly veiled threats.",
-        "course": "221"
-      },
-      {
-        "index": 6,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "His methods and subject matter is outdated and unclear, he is belligerent.",
-        "course": "GEO221"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. T is a cool dude.  Strict and serious, but fair and friendly.",
-        "course": "GS121"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Terible class, poorly explained, read from the text book",
-        "course": "GEOL121"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Tettenhorst is clearly nuts about geology-cares about teaching it.",
-        "course": "GEOLSCI121"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.6,
-    "avgRating": 4.2,
-    "department": "Science",
-    "firstName": "Dana",
-    "id": "VGVhY2hlci0xNTg2Nzk=",
-    "lastName": "Wrensch",
-    "legacyId": 158679,
-    "numRatings": 22,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "Interesting lectures, but frequently strayed from topic.  Did not really seemto care ifwe learned course material or not.  More entertaining than instructive.",
-        "course": "BIO"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "She is simply one of the best professors here at Ohio State. She is fun to talk to and her class will be one of the most interesting in your time at Ohio State. Take this class if you need a Bio GEC requirement. She is more than willing to help you at anytime.",
-        "course": "BIO1102"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Simply the most fun professor ever. She's extremely easy on the grades and due dates, doesn't care much about when you turn in the work, open-book exams. I learned a lot from her, because she gives latest info on everything. Best prof ever.",
-        "course": "BIO597"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "So Wonderful. No other words to describe. Her T.A. Aiqing is equally as awesome.",
-        "course": "BIO597"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "This prof is the best! After years at OSU she's the only one who ever bothered to learn my name. You have to take very good notes, otherwise you'll get to a question on the exam and not have a clue how to answer it. Learn how to take short hand notes that you can understand, use keywords, and write down examples she gives you during discussion.  Sh",
-        "course": "BIO597"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Class about human diversity.  Really the class teaches you how to think critically about current events.  Can use your notes for the exam, but you have to take great notes and not miss class.  HIGHly recommend!",
-        "course": "BIO597"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Very nice.  Class was interesting, and easy  She tends to wander off topic a lot, but she's very well informed and fun.",
-        "course": "ENT101"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Interesting class, great teacher! She is very helpful and makes it pretty fun and easy. Take entomolgy with her.",
-        "course": "ENTOM101"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "i waited for almost 3 years to take dana's class, and it was totally worth the wait. she doesn't always stay on task but she is SO interesting and helpful it doesn't matter. i'm in ento 102 now and was plenty prepared for it. take ANYTHING she teaches she is really helpful and as long as you put in some effort she'll give you an A.",
-        "course": "ENTO101"
-      },
-      {
-        "index": 10,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "Hard to understand (talks very fast), rambles all over the place, doesn't teach the course description but rather rambles about all sorts of biology/current events. Pretty fun and relaxed atmosphere, however I don't really feel like I learned too much, as a result.",
-        "course": "ENT500"
-      },
-      {
-        "index": 11,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Dana is an amazing instructor and will make you reconsider almost everything you thought you knew about biology!  She really gets you to think about biology and bugs rather than just assimilate information.  Her teaching style is such that you don't need t",
-        "course": "ENTOMOLOGY500"
-      },
-      {
-        "index": 12,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "helpful, awesome teacher. TAKE HER CLASS",
-        "course": "ENTO101"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "A friend of mine had Dana for 597, and I was so intrigued by his stories, I emailed Dana, and we have kept up a friendship, even though I've never had her as a teacher.  She is AWESOME and I have learned so much from her, just about life in general.  If you have the chance, take ANYTHING with her.",
-        "course": "LIFE"
-      },
-      {
-        "index": 14,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Really enjoyed her class.  She knows so much and she is the best teacher I have had here at OSU..",
-        "course": "ENTO101"
-      },
-      {
-        "index": 15,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "She lets you turn in work as late as you want.  She is always willing to help.  Note taking is hard but if you do everything and be nice to her you'll probably get an A.",
-        "course": "ENT101"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "This is an awesome teacher! I highly reccomend this class and teacher to anyone who loves science, or loves the study of bugs or who needs a science credit but finds science to be hard. Dana Wrensch makes science very fun and interesting. I would take any class with her in a heartbeat!!!",
-        "course": "ENT101"
-      },
-      {
-        "index": 17,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dana is my favorite teacher at OSU, her class is easy but interesting, and there is a big curve even though most people don't need it.",
-        "course": "ENTOMOLOGY101"
-      },
-      {
-        "index": 18,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Great personality hilarious lady.  She is very smart but EASILY sidetracted in class.  You will get a lot of info but note taking can be difficult.  She will help you with tests in class.  She has a lot of info to share, cool professor. highly reccomend.",
-        "course": "597"
-      },
-      {
-        "index": 19,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "She is by far the best teacher at OSU, her tests are essay style so if your not an idiot you can BS through.  I took both classes she teaches and got a's in both.  Great personality and the fact she gets so off subject makes her hilarious.",
-        "course": "ENT101"
-      },
-      {
-        "index": 20,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Do not take this class. She rambles in lectures about things irrelevant to class. Her tests have nothing to do with anything that was covered. Notes are impossible to take in her class.",
-        "course": "BIO597"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "She is my favorite professor at Ohio State.  By far, the coolest lady you'll meet.  Very personable--almost impossible to fail her class.  Do yourself a favor and take her class.  I PROMISE you'll love her.",
-        "course": "BIO597"
-      },
-      {
-        "index": 22,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Good teacher.  Helps out a LOT. Like, she will help you with projects in EVERY aspect of it if you just ask her.  Rambles a little bit.  Tests are in the middle of an easy/hard continium.  Little hw.  Big projects at the end of quarter.  must go to lectur",
-        "course": "ENTOM101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 2.5,
-    "department": "Science",
-    "firstName": "Andrea",
-    "id": "VGVhY2hlci0zMTY2MDg=",
-    "lastName": "Doseff",
-    "legacyId": 316608,
-    "numRatings": 14,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Dr. Doseff scared me a lot because of her bluntness with students in class, but really is a lovely person who cares a lot. Class isn't mandatory but there are activities often for credit. Her lectures are fantastic- I never found myself dazing off- she gives great personal examples & clearly loves her work. Very high expectations. Tough exams.",
-        "course": "BIO114"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "She can be intense but I thought she was super kind and sweet. Loved her. Class participation during lectures, I thought it was engaging + helpful. Lecture is from slides but she does a lot of talking that's not on the slides. I had already taken AP Bio before so I just studied the slides and easy A. She really cares about students' understanding.",
-        "course": "BIO1113H"
-      },
-      {
-        "index": 3,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Dr. Doseff is very intelligent and engaged in her subject matter. I found her lectures somewhat difficult due to the fact that English isn't her first language, but she's more than willing to give clarification in office hours. Her lectures work very well along with the textbook.",
-        "course": "BIO1113"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "Easy tests.  Only counted 2 of 3 midterms but bad teacher.  I had to learn everything from the book.",
-        "course": "MGEN500"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Dr. Doseff is a very engaging and knowledgeable lecturer. She really knows what she's talking about. Go to lecture and take additional notes. She sometimes walks through problems you need to know. Do the extra exercises she posts.",
-        "course": "MG500"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Her exams are pretty easy as long as you have done the problems that she assigns. In fact, on some of the midterms they were the exact same. She is clear in the lectures and emphasizes key concepts she wants you to grasp. Bring the posted lectures notes to class to take additional notes.",
-        "course": "MOLGE500"
-      },
-      {
-        "index": 7,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "knowledgeable but impatient with students. seems to have no compassion for students actually trying to work hard and succeed. lectures are incredibly boring and long-winded",
-        "course": "MOLGE500"
-      },
-      {
-        "index": 8,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "She wasn't bad. As long as you did the reading and looked over her slides and the practice exams you are gonna do well.  I never actually spoke to her though. She plans on teaching more than she can actually fit into the course it seems.",
-        "course": "MOLGE500"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I don't know where to start.  Once again, another upper level professor who just doesn't teach anything of relevance to the exams.  If she is paired in the MOL GEN sequence, wait a quarter for the other prof.",
-        "course": "MOLGE500"
-      },
-      {
-        "index": 10,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Went through things very quickly in class, very picky grading on the tests, it is very necessary to go to a TA to figure out the practice problems and do well on the tests",
-        "course": "MOLGE500"
-      },
-      {
-        "index": 11,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "She really sucks, i got a 3.8 gpa in my third year as a science major, and she isn't the worst teacher, but she is terrible at explaining anything.  If it makes it any better tho, her exams arent THAT hard if you just study sample problems.",
-        "course": "MOLGE500"
-      },
-      {
-        "index": 12,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "She's atrocious, for God's sake. She ruins a class that should be really interesting. Buy the book because you won't learn anything from her.",
-        "course": "MG500"
-      },
-      {
-        "index": 13,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "she is not very good",
-        "course": "SCS"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "She's not so bad. Boring, but not so bad.",
-        "course": "MOLGEN500"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 2.9,
-    "department": "Science",
-    "firstName": "Ralph",
-    "id": "VGVhY2hlci0xMzM3MTg=",
-    "lastName": "VonFrese",
-    "legacyId": 133718,
-    "numRatings": 11,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "HORRIBLE professor. He doesn't teach anything in lectures, but somehow happens to talk the entire time. His exams do not at all reflect what his slides say. A lot of the statistics used on the exams are outdated, so if you google an answer or try to learn on your own, your new stats are considered wrong on the test. He ruined my 4.0 GPA as a senior",
-        "course": "EARTHSCI2203"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "You have to do research with Ralph in order to understand how smart this man is.  His knowledge and understanding of the Universe is admirable.  I have the deepest respect for him.  He is a very cool guy.  You have to be good in math and physics to understand his graduate level course material.  :)",
-        "course": "GS781"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "He is an expert in his field, and clearly has been for some time.  However, he is not a very effective lecturer; minutes felt like hours in this boring class.  And worst of all, the boring, repeitive tropes of his in-class lectures (and even reviews) had little to do with what was on the test.",
-        "course": "ESCI203"
-      },
-      {
-        "index": 4,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "He's the typification of someone who's an expert in his field, but not really a teacher. Your performance is determined by how much work you're willing to put into understanding the material on your own. If you're like me, taking your last GEC with a litany of other commitments, his class probably isn't your best choice.",
-        "course": "ESCI203"
-      },
-      {
-        "index": 5,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "He is a very wise man who may not be the most explicit teacher, but you can definitely learn a lot from him. He discovered the Wilkes Land crater which caused the Permian Triassic Extinction, and he talks about it in class, but he is so humble that he doesn't even mention who discovered it or how it was discovered!",
-        "course": "EARTH100"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Amazingly Smart Man! He has a very monotone voice and can be tough to follow sometimes but he is really fair. Our first test this quarter was out of 50, he then dropped 2 questions because nobody got them right and then curved it so an A was 33/48. Labs are unstructured but easy. If you go to class there is no reason not to get atleast a B+",
-        "course": "EARTH100"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "this guy is horrible. pointless to study for any tests since no material youre given is contained within the exams",
-        "course": "GEO100"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Stupid guy, easy class.",
-        "course": "GEOLOGY100"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "good stuff",
-        "course": "GEO100"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "No Comments",
-        "course": "GEO100"
-      },
-      {
-        "index": 11,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "The questions on tests don't change each year, only the answers Very unclear",
-        "course": "GEOL"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.2,
-    "avgRating": 3.7,
-    "department": "Science",
-    "firstName": "George",
-    "id": "VGVhY2hlci0zMDY1MjM=",
-    "lastName": "Marzluf",
-    "legacyId": 306523,
-    "numRatings": 30,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "How to succeed in his class: memorize everything he writes on the board and study the old exams. Keep up with the material, especially metabolism, because memorizing everything detail can be hard. Also be prepared to hear a lot about Sir Hans Krebs.",
-        "course": "BCHEM511"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Go to class everyday, copy down and memorize EVERYTHING from the class notes, study the old exams he provides on carmen and you'll be fine. Sometimes he does kinda act like it's a chore for him to answer questions. But, overall, good.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "This class taught me how to study. Before each midterm, I made flashcards of EVERYTHING he wrote on the board and memorized them over the week leading up to the test. Gives you old midterms which are often identical. A ton of memorization, but I ended up with an A. Class averages were around 80 (84 for the final) so no real curve. Recommended.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "An easy class that is 100% memorization. I Spent about 5 hours over the course of the entire quarter studying and still got an A. Marzluf is a nice guy and knows what he's talking about, and the class is easy for anybody who copies down everything he writes and looks at old exams.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Easy A. Just memorize and study an entire week for the exam and you can do it. I didn't learn anything in this class but still did well.",
-        "course": "BCHEM511"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Go to every lecture, take detailed notes, and basically memorize past tests that he gives you. The class is not particularly engaging or challenging, as it is simply mindless cramming. I took 23 credit hours this quarter and with about 30 minutes to 90 minutes a day regularly and more for midterm weeks, I had no problem acing the class.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Biochem is going to be difficult regardless. I am not good at memorization, so this class was very hard for me because it's memorizing soooo many structures/enzymes/cycles for the exams. The only godsend is that the midterms/final isn't cumulative. Also, study the old exams religiously, the questions are often identical.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 8,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Prof knew material very well and applied everyday medical conditions to material. Kind of boring class, and have to attend b/c everything is put up on board. Study past exams put up online extensively and should do okay.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I took Biochem over the summer with Behrman before dropping because he was a monster. I've got to say with my experience, Marzluf is probably as good as it gets for Biochem. His exams are difficult, but only because you have to memorize every part of his notes. However, he is extremely fair and will not put anything on that he hasn't covered",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 10,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "He's pretty clear for the most part, you have to go to class since he doesn't use the textbook. Not really tricky on exams,just know all structures and cycles backwards (literally) and forwards, I aced all 3 so not that hard, I'd also recommend his classroom style office hours. I found they really helped. Overall, i'd say take him for biochem",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 11,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Old prof who makes it a passable class but hard to do well. Pay attention take meticulous notes and study every little thing. Other than that good luck because his exams are rough. I had a 90% on quizzes and 68% on tests they are poorly written",
-        "course": "BIOCM511"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Marzluf's chalkboard notes are very straightforward and require little to no textbook supplementation.  Quizes and exams are directly out of notes.  This class requires no prior understanding of chemistry - only good memorization skills.  Just stay on top of the material - otherwise it can accumulate quickly.  Dr. Marzluf is a great, funny guy.",
-        "course": "BCHEM511"
-      },
-      {
-        "index": 13,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "He does all of his work on the chalkboard, in small, illegible writing. Gets an attitude when asked to write bigger. Doesn't explain how the ideas connect so it all seems random. Doesn't answer the question asked&sometimes treats you like an idiot for asking. I get good grades in the class but it doesn't take away from him being a terrible teacher.",
-        "course": "BCHEM511"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "He is undoubtedly the best of the Biochem teachers (Took and dropped one and had a close friend in the other).  Marzulf will cover the things that are important.  He also makes his previous midterms available at the BioSci Library (Take advantage of this!!!)  Go to class, don't sleep/skip, and you will do fine.  High emphasis on class material.",
-        "course": "BCHEM511"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I bet the last poster didn't come to class very often or did not take advantage of his office hrs.  Well, that is his/her fault for not keeping up and not taking the effort to understand biochem.  If the class avg on a biochem exam is over a 80% then how is it hard&#63; Dr. Marzluf is simply amazing.  He will make sure that you understand the material.",
-        "course": "BC511"
-      },
-      {
-        "index": 16,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Not a big fan of this guy. His notes are confusing, he doesn't label anything, and usually he makes no sense.  He does not do thing sequentially and his train of thought is a bit hard to follow, even if you do read before class. He's a really nice guy, but as far as his teaching goes, I'm not impressed.",
-        "course": "BCHEM511"
-      },
-      {
-        "index": 17,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "great professor. i thought i would hate this class but i now think it is pretty interesting. class is pretty hard though and requires quite a bit of studying, but the tests are fair. he is also funny whether intentionally or not",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 18,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "He is the best teacher ever! Although there is a lot of material to cover, he never rushes through anything and his tests are VERY clear. This is probably my favorite class! He is a very nice man and he genuinely wants his students to get good grades. Take him for this class!!",
-        "course": "BIOCHEM511"
-      },
-      {
-        "index": 19,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "this class is seriously rough, but i don't think it is the prof's fault. a LOT of information gets covered, but he thinks it should be a 2 or 3 quarter class, so at least he knows the problems with the class. his notes are generally clear, and there aren't too many surprises on the tests.",
-        "course": "BIOCHEM511"
-      },
-      {
-        "index": 20,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "He's a terrific prof. The BEST one to have for Biochem because he never rushes over any material. The book is not necessary for a good grade, as long as you go to class every day. If you go to office hours with questions, he's helpful and understanding. I went into the class expecting difficult, boring material and though it was hard, I enjoyed it.",
-        "course": "BIOCHEM511"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Amazing teacher",
-        "course": "BIOCHEM511"
-      },
-      {
-        "index": 22,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "its a hard class, but if u understand the lectures and take good notes you will do very well in the exams ! he is very nice and helpful",
-        "course": "BIOCHEM511"
-      },
-      {
-        "index": 23,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Very knowledgable, but the lectures are sometimes boring. He teaches away from the book sometimes and the tests are difficult because they are all short answer questions.",
-        "course": "BIOH115"
-      },
-      {
-        "index": 24,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "He is a really nice guy, and his lectures are pretty clear.  But it's true that he teaches away from the book. He doesn't spend time on the basics.  He is very details oriented.  The tests are tough, all short answer.  You really have to know your stuff.  Listen and take excellent notes.",
-        "course": "BIOH115"
-      },
-      {
-        "index": 25,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "His graduate classes make it easy for unthinking  crammers. In that sense they defeat the purpose of attending graduate school. However, the course material is carefully selected and relevant.",
-        "course": "BIOCHEM7SOMET"
-      },
-      {
-        "index": 26,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Is boring, talks very quietly and slowly. Lectures would be interesting if I could stay awake. Tests are hard due to the fact that they are completely lecture-based, which is a problem if you can't stay awake. Good guy, very knowlegable though.",
-        "course": "H115"
-      },
-      {
-        "index": 27,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "His tests are very hard and focus details. He doesn't use the book much or list any suggested readings that perhaps my go along with the lecture,you spend $$ on a book and is nothing like the lecture. He also has a problem with the microphone.",
-        "course": "BIOCHM511"
-      },
-      {
-        "index": 28,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Had 17 years ago in grad school.  Real good prof.  Challenging, but fair - same for exams.  Up to date on current research.  You could tell he puts a lot into it.  A star for the Buckeyes for sure.  Nice guy too.",
-        "course": "GEN611"
-      },
-      {
-        "index": 29,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "His exams are hard, very details oriented, he focuses on application rather than principle but if you acutally listen to him you should be okay.",
-        "course": "BIOH115"
-      },
-      {
-        "index": 30,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "His exams are difficult; all short answer and focus on details, but his lectures are pretty understandable.",
-        "course": "BIOH115"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.8,
-    "avgRating": 3.9,
-    "department": "Science",
-    "firstName": "Russ",
-    "id": "VGVhY2hlci04NTAxODQ=",
-    "lastName": "Hille",
-    "legacyId": 850184,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "Avoid him and anything he does. Don't trust him. Dont rely on him. Don't take his courses, and DONT ask him to be on your committee. Now you know.",
-        "course": "ENZYM762"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "One of the best and brightests professors I have ever met.  Its like poetry how he explains enzyme kinetics.  His overheads are straightforward and you can tell he puts so much time and consideration into them.",
-        "course": "BIO742"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Russ is one of the most influencial professors of my graduate experience.  He is a true scholar, beyond the years...",
-        "course": "762"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "762"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "No Comments",
-        "course": "762"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.2,
-    "avgRating": 4.3,
-    "department": "Science",
-    "firstName": "David",
-    "id": "VGVhY2hlci0xMjg1NjU=",
-    "lastName": "Ennis",
-    "legacyId": 128565,
-    "numRatings": 72,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Doc Ennis is the man. Really interesting class and he does a tremendous job of explaining the material in a simple manner. I don't think there is any question he cannot answer. Getting an A will require going to (almost) every lecture, and taking notes on the slides as he goes through them. Overall an awesome class.",
-        "course": "ASTRON1144"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This guy is the king of all that is holy in this world. Really funny teacher and very helpful.",
-        "course": "ASTRON1162"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr Ennis is a really nice person. You can feel his passion in astronomy and genuine interest in teaching the class. Caltech and NASA guy, so he knows a lot of stuff. The tests are all MCQ. Oh ya, he tells a lot of jokes and stories :)",
-        "course": "ASTRO1161"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "really,really interesting class and i would even go to his \"evening\"class before holidays but he usually cancels his class because of the holidays......He is adorable with his weird jokes.",
-        "course": "ASTRO1161"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Loved this class. This prof is so nice and genuine. Really glad i took his class and plan to take 1162",
-        "course": "ASTRO1161"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr. Ennis is a very smart, friendly, and funny teacher. I enjoyed the class and thought he did a good job explaining things. Just remember to take notes quickly, because the guy talks fast.",
-        "course": "ASTRO141"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Professor Ennis genuinely enjoys teaching and he likes students. He does not require attendance but the way to learn and get an A in the class is to attend every lecture, make notes when he says something is important, and study the powerpoints. The textbook is good. He's interesting, knowledgable, helpful and entertaining. And he likes cats!",
-        "course": "ASTRO141"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "if you're interested in astronomy at all take it, it's pretty straight-forward. not quite as exciting as i expected but still good class, and he's a really good guy.",
-        "course": "ASTRO141"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Professor Ennis is now my Favorite instructor.  He has has enough real life experience to make the subject interesting and enjoyable.  I was apprehensive about taking Astronomy as a GEC requirement.  But after sitting in his 161, I knew I would take his 162.  Simply the best teacher I've had so far (and I'm a junior)!",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 10,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Interesting professor-likes to make nerdy (but funny!) jokes. Sometimes it is a little difficult to sit through class if it's two hours long, but the material is very interesting. Professor is very helpful, but you have to study hard. The only assignments: 4 quizzes and a Final. He posts powerpoints, so you don't have to go to class.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I definitely recommend him if you have to take AST 162. I tried taking it with another professor and had to drop it. He makes the class pretty interesting, and he's good at explaining difficult subjects. He clearly enjoys teaching. As long as you go to class and spend time studying the notes you shouldn't need the textbook.",
-        "course": "AST162"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "A really nice professor who extremely enjoys what he is talking about.  His jokes and stories keep the subject entertaining throughout the classes.  Definitely would reccommend this class.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Definitely harder than I expected.  If you know the slides you will do well.  Average was about a 75.  Final was a lot easier than the quizzes.  Got an A but definitely had to work for it",
-        "course": "ASTRO141"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Good teacher, really seems to enjoy teaching the subject and has a lot of past research experience to back up his knowledge.  Tests can be pretty hard at times however, you have to really know the slides that are given out to you.",
-        "course": "ASTRO162"
-      },
-      {
-        "index": 15,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Currently taking him for 162, he is definitely one of the trickiest professors especially for his quizzes which are hard with questions such as which of the following is not a property of a neutron star, etc. He says they are straight-forward but trust me they are not! I would not recommend him!",
-        "course": "ASTR162"
-      },
-      {
-        "index": 16,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "def a great professor, interested and lvoes the material he teaches, will do anything to help students understands, takes questions and gives in depth answers freely, great class and pictures! def get him!",
-        "course": "ASTR161"
-      },
-      {
-        "index": 17,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "This guy has the trickiest tests, he says there stright forward... there not. He likes to hear himself talk too, he is a nice guy and interested in helping, but he is out to trick his students...beware.",
-        "course": "AST141"
-      },
-      {
-        "index": 18,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "He's really easy-going and nice, although sometimes a little confusing. I only studied for like 3 hours before each quiz and exam and still got an A. Funny in a goofy way.",
-        "course": "ASTRO162"
-      },
-      {
-        "index": 19,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Easy, interesting, and fun class.  If you have to take a science GEC, take 161 and 162.  He is an outstanding teacher.  He's hilarious and a real sweet guy.",
-        "course": "ASTRO162"
-      },
-      {
-        "index": 20,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Possibly the least tricky exams ever.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "PROs: Don't need to buy the book. 80% of test material on power points which are online. Exams are multiple choice. No mandatory attendance. CONs: Very boring, but it was a night class after a long day. It was very hard to want to go to class if you felt you didn't need to. Felt like torture having to sit through it. I never stayed to the end.",
-        "course": "AST161"
-      },
-      {
-        "index": 22,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I would have to agree with the rest of the recent ratings.  His class bored me out of my mind.  He was interested in what he did, but he was not very straight forward on what was going to be on the exams.  It is too much material to look over without a study guide of what you need to know.  I would not recommend him.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 23,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "fact one: his lectures are okay. fact two: his exams are insanely tricky. they are NOT easy like what others said. plus, his exams cover too much material. it's like almost impossible to study that much material for the exams. his undergraduate assitant grades assignmets hard too. i won't buy others' comments on this website again.",
-        "course": "ASTR161"
-      },
-      {
-        "index": 24,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "ennis is a great guy and his class sure is interesting, but his tests suck. they are so tricky. i don't know why all these people say his tests are &quot;easy&quot;. i'm not goning to trust comments on rmf any more.",
-        "course": "ASTR161"
-      },
-      {
-        "index": 25,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "If you have to take a science GEC - TAKE 161 with Ennis. Easy on his students if you go to class. Book is little relevance if you pay close attention. Mr. Ennis is a great prof!",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 26,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Mmmkay. Mr. Ennis is a great prof. His class was fun and we hardly ever used the textbook. Don't bother buying it, mmmkay. There was almost no math and his lectures were very funny and interesting, mmmkay. The only drawback is that he says &quot;mmmkay&quot; a lot, mmmkay.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 27,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "excellent professor who truly loves what he does.  Exams are easy and straight forward.  No reading and very little homework.  Class can be interesting but is mostly boring.  You probably do not need to go to class (especially for 161) but I always did anyway for the entire 2 hours 18 minutes, which is probably why I thought it was boring.",
-        "course": "ASTRO162"
-      },
-      {
-        "index": 28,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I can count on 1 hand how many times I went to class & I still got an A-. Lectures are online, READ THEM. Remember little things like how hot it has to be for nuclear fusion to begin. Homework replaces lowest midterm grade, so do perfect on it! Ennis is a very funny guy and the class is simple as long as u study. If only all classes were like this",
-        "course": "ASTR162"
-      },
-      {
-        "index": 29,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Absolutely awesome professor.  He was by far the funniest professor I've had.  He loves to poke fun at himself which is hilarious.  As for the course, exams are all off of lecture and he always tells students that he never tries to trick you, and he holds true to it.  Overall, highly recommended!",
-        "course": "ASTRO162"
-      },
-      {
-        "index": 30,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "No Comments",
-        "course": "ASTRN162"
-      },
-      {
-        "index": 31,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "David Ennis is great. Not only does he make Astronomy accessable to all of us who are just taking it for the GEC, he also keeps the two+ hour lecture lively with bad jokes and colorful powerpoints. I highly recommend him. He's a sweetheart.",
-        "course": "ASTRASTR"
-      },
-      {
-        "index": 32,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "One of the easiest, if not the easiest, class i've had in college. Funny Guy. Really enjoyed the class.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 33,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He's GREAT GREAT GREAT GREAT!!!  Best professor I've ever had.  He really know the material and and is very passionate.  Also very helpful.  Tests are easy if you study the slides and attend class!",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 34,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "This professor is awesome. If your taking Astro, Ennis is the guy. Go to lecture and you'll do fine. His jokes are quite hilarious, not going to lie.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 35,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Great professor.  Class is very interesting and the quizzes easy if you pay attention in lecture.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 36,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I LOVE THIS PROFESSOR! He is a great teacher, he gets so excited about astronomy. His jokes are bad, but he's so funny you still laugh. His class is not that hard if you just attend lecture.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 37,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Very passionate about astronomy and a good instructor. The quizzes and homeworks are very easy and they come directly from his lectures not the book. The final is also mostly from the same quizzes. Recommend this course to fulfill your GEC.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 38,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Was an interesting professor. GO TO CLASS, all the tests are off of the lecture material and slides, you don't need to buy the book at all. Homework was simple and easy especially if you use Wikipedia to look things up.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 39,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Ennis is awesome.  I didn't use the text at all.  If you go to class, pay attention, and take notes you'll be fine.  He makes the funniest comments all the time.  I loved his class, and I've never even been interested in Astronomy.  He loves it, and wants you to like it too.  Seriously, his weird little comments made it worth going.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 40,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "I was worried this would be harder than 161, but it was actually a lot easier and a lot more interesting.  Class is not necessary, but it's very interesting! Great guy, very easy, I wish I still had him for class!",
-        "course": "ASTR162"
-      },
-      {
-        "index": 41,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I had Dr. Ennis for both 161 and 162. I was not interested in astronomy at all but he made it interesting. He has to be my favorite professor at OSU by far. His tests are kind of hard but if you take good notes you should get a good grade. Almost all of his test questions come from class.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 42,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "This class is pretty easy.  I didn't try this out, but Professor Ennis certainly offers help with anything you may need.  Attendance is not mandatory, but material becomes a lot more clear the more you attend class.  His jokes can be lame at times, but they'll still make you laugh and keep your interest for 48 minutes.  I didn't even buy the text.",
-        "course": "ASTRO162"
-      },
-      {
-        "index": 43,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "the easiest GEC i've had. Dr ennis is one of the funniest professors i've ever had, and probably the absolute most enthusiastic astronomer there is. i learned so much in this class and put no effort into it other than going to class a little more than half the time. book is not necessary at all",
-        "course": "ASTRO162"
-      },
-      {
-        "index": 44,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Best professor I've ever had. He manages to make huge concepts understandable. He is awesome.",
-        "course": "ASTRO162"
-      },
-      {
-        "index": 45,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "He is an amazing teacher that makes you interested in the material. If you make side notes on his slides then you dont have to study a lot for the test. Go to class and you'll get an A. He is a splendid teacher",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 46,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "WONDERFUL professor!  He made us laugh a lot with his corny jokes.  He loves teaching and does great at it.  I would highly recommend his class,  I heard other ASTR 161 professors were dificult.  It is not hard to do well in this class and you do not need to do any reading.",
-        "course": "ASTR161"
-      },
-      {
-        "index": 47,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "this is the prof. to have if you need astronomy GEC. he is so sweet. he loves what he is teaching. it is sooo boring (personally) but it is very direct and easy. homework is directly from the notes. quiz questions are very straightforward. powerpoint notes online.",
-        "course": "ASTRO162"
-      },
-      {
-        "index": 48,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Ennis is a good guy uses all powerpoint the class is easy, 60% of the class is based on 4 quizzies the were all mutiple choice and preety easy, you get to drop the lowest quiz grade and replace it with HW of which there were only 4 and took about 5 mintues each ... the other 40% is the final of which the questions came directly from the quizzes",
-        "course": "ASTR161"
-      },
-      {
-        "index": 49,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Knows what he's talking about, loves teaching and explains everything clearly, don't need book if you attend class. If you have any questions just ask and he'll spend a whole class trying to answer, if need be.  I took this sequence because I enjoyed his person, teaching style, and he just made the material that interesting.",
-        "course": "ASTRN162"
-      },
-      {
-        "index": 50,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Knows what he's talking about, loves teaching and explains everything clearly, don't need book if you attend class.  If you have any questions just ask and he'll spend a whole class trying to answer, if need be.  He's really personable, I literally spent hours after class talking with him about astronomy and whatever other topic that came up.",
-        "course": "ASTRN161"
-      },
-      {
-        "index": 51,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Class is pretty easy. He doesn't use the book-all you have to do is study the slides for tests. Any questions just ask him he's a nice guy and knows the subject in and out. He says &quot;mmmkay&quot; a LOT, but it becomes funny after the first couple of classes.",
-        "course": "ASTR161"
-      },
-      {
-        "index": 52,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "No Comments",
-        "course": "AST161"
-      },
-      {
-        "index": 53,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Great class! Very interesting teacher, great way to learn about astronomy, no math, no formulas just facts and interesting stories~~!!!Yay Ennis! easy too...",
-        "course": "AST161"
-      },
-      {
-        "index": 54,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "This class was a breeze. I thought 161 was a lot harder and that professor sucked. Ennis is fine. I maybe went to 2 classes where we didnt have either homework due or a quiz. Just study the slides and you will do fine. He was actually sick for the 1st 2 classes, which made things interesting but it was easy.",
-        "course": "ASTR162"
-      },
-      {
-        "index": 55,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Good class, easy grade. Some suprises on the exams, but if you go to class and pay attention, it isn't a problem at all. &quot;Mkay&quot; kind of distracting, but after you spend the first lecture counting how many times he says it, you're already used to it. If you take this class, take it with Dr. Ennis.",
-        "course": "ASTRON161"
-      },
-      {
-        "index": 56,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "I was disappointed in this class. He does not follow the book and does not give study guides. You have no idea what will be on the Tests. Talking to people in the morning AST class their teacher was a lot more organized. I was very disappointed.",
-        "course": "AST161"
-      },
-      {
-        "index": 57,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Very easy A!! I would tell anyone to take the class.  The quizzes are so easy! I took it as a night class from 5:30-7:40 and I always wanted to fall asleep, but it is for sure an A! :-)",
-        "course": "ATRON161"
-      },
-      {
-        "index": 58,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "This class is pretty easy, m'kay. Kinda boring but the stuff is pretty interesting, m'kay. Really easy and i recommend to all, m'kay. And by the way, he a hefty Mr. Mackey, m'kay.",
-        "course": "AST161"
-      },
-      {
-        "index": 59,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Do not take this class. Prof. Ennis is nice but extremely boring his test are very hard if you are not a math/science minded person. I think he thought he was teaching an upperlevel course. I would not recommend this class to anyone who is just trying to fill a gec.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 60,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "The most interesting and funny science teacher at Ohio State. He prepares you well for the test.",
-        "course": "ASTR161"
-      },
-      {
-        "index": 61,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "Dr.Ennis class was perhaps one of the most mind numbing experiences I have ever had. His stories ranged from sliver noses to his Toyota Prius to his jealous at another astronomer. I learned everything in this class in one week as a freshmen in high school in Earth Science. Easy Grade",
-        "course": "AST161"
-      },
-      {
-        "index": 62,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "very understandable, made astronomy as interesting as it can be. funny guy",
-        "course": "ASTRONOMY161"
-      },
-      {
-        "index": 63,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This teacher is excellent.  He makes the class intereting and relevant, while not making the class difficult.  MAke sure you study your powerpoint notes, go to class and write everything he says, listen, and if you miss a class (don't!) read the book.  I learned so much.  I truly appreciate it.",
-        "course": "ASTR161"
-      },
-      {
-        "index": 64,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "No Comments",
-        "course": "ASTRONOMY161"
-      },
-      {
-        "index": 65,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "He made the class easy to understand and fun.",
-        "course": "ASTRONOMY161"
-      },
-      {
-        "index": 66,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I thought the information for this class was more boring than 161, but Ennis is a nice guy that is very clear and easy to understand, if you don't understand something just ask.  If you study the notes well you don't need to buy the book, but the book is helpful for homework that replaces a quiz sco",
-        "course": "ASTRONOMY162"
-      },
-      {
-        "index": 67,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "I don't find his sense of humor all that amusing. And he is the most boring man alive. But, if you go to class the quizzes are fairly easy. He puts up the notes online but I wouldn't use just that because he has a way of going off on tangents and asking questions about his stories on quizzes.",
-        "course": "ASTRON161"
-      },
-      {
-        "index": 68,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Very funny guy and easy quizzes because the questions just come right off the notes.",
-        "course": "ATRON161"
-      },
-      {
-        "index": 69,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Hes really funny, but his class is extremely boring!. And his tests are tough.",
-        "course": "161"
-      },
-      {
-        "index": 70,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "No Comments",
-        "course": "AST171"
-      },
-      {
-        "index": 71,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Really, the nicest man.  But, he gave material in lecture and said it would not be on the test, and the next test was based entirely on that material.  With the exception of that test, material was clear and well organized, and grading made sense.",
-        "course": "ASTRO161"
-      },
-      {
-        "index": 72,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "No Comments",
-        "course": "AST1611"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.8,
-    "avgRating": 1.8,
-    "department": "Science",
-    "firstName": "Sheldon",
-    "id": "VGVhY2hlci0xNDEwNTE=",
-    "lastName": "Shore",
-    "legacyId": 141051,
-    "numRatings": 17,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "He shouldn't be allowed to teach anymore. The man is at least 85 years old, and can't work the microphone. Honestly, drop the class and get a new section.",
-        "course": "CHEM121"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "He really does seem like a nice guy, But he should have stopped teaching 20 years ago. Can't seem to make the mic work and that's obviously very important in a large class. The exams are ridiculous. Way harder than they need to be. I'm having trouble and I took an equivalent class already. Get out now.",
-        "course": "CHEM121"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Sucked! Can't read or write. Hard class to begin with, and he made it worse. DO NOT RECOMMEND",
-        "course": "CHEM121"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "This is my second time around taking Chem, and I got stuck with the hardest teacher possible the first time. Shore was like a god sent, his tests are ridiculously easy. However if you dont want to learn about Vietnam, Uboats, and life in the 20s, you shouldn't go to lecture.A good TA is necessary, because I'm 89% Posative Shore invented the wheel.",
-        "course": "CHEM121"
-      },
-      {
-        "index": 5,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I tried to get through it, but withdrew 4 weeks in. Shore has LOTS of trouble with the technology of the classroom, which is paramount when teaching 350+ at once. He often mixes himself up is his own notes and has to backtrack to correct himself. If you depend on a clear lecturer to understand course material, trust me, do not schedule Dr. Shore.",
-        "course": "CHEM151"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I feel bad saying this about Sheldon, because he is a nice old man, but to put it simply, he is the main reason why I am no longer a Pre-med student, his poor teaching in this introductory course put me way behind all of the other chemistry classes which subsequently led to me failing further chemistry courses. Awful teacher, nice man.",
-        "course": "CHEM121"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "CHEMISTRY121"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "Lecture is a waste of time, just read the book at home. Hopefully you'll get a good TA who can explain things, because concepts just seem more confusing in lecture.",
-        "course": "CHEM121"
-      },
-      {
-        "index": 9,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Poor Dr. Shore. Really, I'm sure he was good at Chemistry back in the '80s or something, but now...he's just too old to be teaching. He constantly spells words wrong (leaves out letters, etc.). It took him three or four tries to spell &quot;oxygen.&quot; His midterms and exams are nearly impossible. Try another professor if you'd like to actually learn Chem.",
-        "course": "CHEM121"
-      },
-      {
-        "index": 10,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "I recommend this class to anyone who has taken AP Chem in HS or can teach themselves.  If not, get out of the class NOW.  Funny guy at times, but really a bitter old man at heart.  Be prepared that if he tells you something is or isn't on the test the truth is probably the opposite.  No curve unless you practically fail the class.",
-        "course": "CHEM121"
-      },
-      {
-        "index": 11,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Not interested in teaching the class. Find a different professor before it's too late. Has some funny moments but if you're looking to learn the materail lecture is a waste of time. (you might as well just read the book because that's what his lecture is.)",
-        "course": "122"
-      },
-      {
-        "index": 12,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "totally not organized. hard as ****. advice: drop the class now...",
-        "course": "121"
-      },
-      {
-        "index": 13,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Reads almost word for word from the book. Pretty amusing guy. Hard exams.",
-        "course": "CHEM121"
-      },
-      {
-        "index": 14,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "He can tell good stories every once in awhile (why he carries a Bible in his coat pocket is a good one...), but for the teaching aspect&#63;  He can get a point across if he can get the microphone to work (poor guy is technologically impaired) and if he writes and spells correctly.  Just be sure to read the book.",
-        "course": "CHEM121"
-      },
-      {
-        "index": 15,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "The worst.  Cancels classes because he is not prepared.  Disorganized.  This class is a waste.",
-        "course": "CHEM753"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Very amusing. I would definitely recommend him. Tests are not that hard.",
-        "course": "CHEM121"
-      },
-      {
-        "index": 17,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Knowledgable but can't teach. Reads out of the book for lectures. Hard tests.",
-        "course": "CHEM121"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.6,
-    "avgRating": 2.4,
-    "department": "Science",
-    "firstName": "E J",
-    "id": "VGVhY2hlci0xMjM0Mzk=",
-    "lastName": "Behrman",
-    "legacyId": 123439,
-    "numRatings": 20,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "worst prof I've ever had. I put more time into this class than all of my other classes combined. I literally taught myself everything I learned in this class...horrible notes, puts random problems on tests...very smart but a terrible teacher.",
-        "course": "BIOCH211"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "SO OLD. he teachers like they did in the 50s. his quizzes are tests are over the most random points in his lecture. his notes were HORRIBLE. written everywhere, on top of each other, in between, anywhere. they didn't make much sense either. talks down to students. all i could think about during class was how he was still alive. SO OLD",
-        "course": "BIOCH613"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "If you want a terrible teacher who talks down to you, who gives unorganized notes, and tests on irrelevant details in order to make the average on every test, and the overall average an F, then Dr. Behrman is for you. He is tied for number 1 on my &quot;worst OSU professors&quot; list. He cares more about flaunting his intelligence than teaching.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "This man obviously knows his stuff but that doesn't help the students one bit! He prefers to flaunt his intelligence to intimidate the class. I went into his office hours for some advice and assitance and all he did was talk down to me and tell me to memorize my notes. His exams cover the tiny details of his notes resulting in an F average! Awful!",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "As far as teaching goes, he's bad but not terrible.  His testing methods, however, are horrible.  He picks out the most irrelevant and insignificant details from his notes and comprises his tests entirely from them which makes it near impossible to do well no matter how well you know the material. DO NOT TAKE HIS CLASS!",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "What everyone said about him below is about right. He is not very &quot;step-by-step&quot; if that is how you learn, you should avoid him. He is also not concise with what you should study, no reviews or study guides for exams. 2 midterms and a final with no quizzes. Nice guy but bad teacher.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Stay away from this professor. You are on your own in this class - no office hours, no reviews and certainly vague, &quot;find the answer yourself&quot; e-mails. Come prepared to write notes, as his exams consist of only this - don't even bother buying the text book. He constantly enjoys flaunting his intelligence and asking questions his TAs fail to answer.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "The material is quite superficial compare to other biochem classes. Exams are quite simple but require a lot of thinking. Stay away if this will be your first biochem class, but highly recommended if you want to take this class to fulfill an elective credit. Overall, he's a good professor.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 9,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Awful prof. does nto test on relevant info, just what he finds important. skips many if not most major topics in  book! no notes given online, no guided notes, no helpful hints, might talk for 45 minutes and only fill up 1 black board. AVOID AT ALL COSTS",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 10,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "If you ever have the chance to take BIOCHEM at OSU, skip the quarter this man is teaching. Don't even buy the textbook, as he lectures straight from his notes. The class average is a big fat F at the moment. PLEASE, stay away from this man! He would rather intellectually stroke himself than teach something efficiently to his students. NO MERCY.",
-        "course": "BIOCH511"
-      },
-      {
-        "index": 11,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "yikes. i have him as a prof this summer because he dedided to come out of retirement for one quarter and teach biochem 511. he is OBVIOUSLY extrememly smart but he doesn't know how to teach! our exam averages so far have been 56% and 47%. he keeps telling us we're in a graduate level class and should understand more but most of us are undergrads!",
-        "course": "BCHEM511"
-      },
-      {
-        "index": 12,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Thank goodness he's gone. I had the misfortune of having him as my professor (groan)- he is smart, no doubt, but he doesnt know how to teach. He likes mumbling only to the front rows and u wonder why those kids fare better! (I had a previous class and could make it any earlier to class) Uses his intelligence to his advantage to intimidate students.",
-        "course": "BIOCH613"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "A really good professor but he is not easy",
-        "course": "BIOCHEM613"
-      },
-      {
-        "index": 14,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Best professor I had at State.  He and Paquette were (ARE) leaders in their fields. I did some research for Behrman during a summer and worked in his lab for the rest of my time at state.  Super funny man once you get to know him.  Extremely helpful, and is he f-ing smart or what.  Electron pushing will never be the same!  I could sit and listen to him lecture for hours.",
-        "course": "BIOCHEM613"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "This guy rules, everyone else is just mad because he's smarter than them!",
-        "course": "BIOCHEM613"
-      },
-      {
-        "index": 16,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "No Comments",
-        "course": "BIOCHEM613614"
-      },
-      {
-        "index": 17,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "BIOCHEM613"
-      },
-      {
-        "index": 18,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "He's so old that he forgets what he lectured on when it comes time to write the exams.",
-        "course": "BIOCH613"
-      },
-      {
-        "index": 19,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "BIOCHEM"
-      },
-      {
-        "index": 20,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "No Comments",
-        "course": "BIOCHEM61"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 2.4,
     "avgRating": 4.6,
     "department": "Science",
@@ -4238,6 +3405,8 @@
     "lastName": "Wenzel",
     "legacyId": 43993,
     "numRatings": 87,
+    "summary_comment": "Professor Wenzel is highly regarded for his engaging and humorous teaching style, which makes lectures both enjoyable and informative. However, students note that his test material can be unexpectedly different from class presentations, leading to confusion. Despite this, many recommend him for his ability to make complex topics accessible and interesting.",
+    "summary_comment_short": "Professor Wenzel is highly regarded for his engaging and humorous teaching style, making lectures both enjoyable and informative. However, students note that while his lectures are crucial for understanding the material, the test questions can sometimes differ significantly from what was covered, leading to confusion.",
     "Ratings": [
       {
         "index": 1,
@@ -4860,6 +4029,8 @@
     "lastName": "McKenzie",
     "legacyId": 72177,
     "numRatings": 21,
+    "summary_comment": "Professor McKenzie is widely regarded as one of the worst instructors, with students citing his lack of structured lectures, difficulty following his content without prior knowledge, and extremely difficult exams as significant issues. Many advise staying away from his class unless one is already well-versed in geology or prepared to put in an extraordinary amount of extra work.",
+    "summary_comment_short": "Professor McKenzie is widely regarded as one of the worst instructors, with students citing poorly structured lectures, lack of substance, and difficulty understanding the material without extensive prior knowledge or additional research. The class is described as a significant waste of time and effort, with many advising potential students to avoid it entirely.",
     "Ratings": [
       {
         "index": 1,
@@ -5020,6 +4191,8 @@
     "lastName": "Boerner",
     "legacyId": 65739,
     "numRatings": 44,
+    "summary_comment": "Professor Boerner is highly regarded for his engaging and humorous teaching style, making the class both interesting and enjoyable. He emphasizes the importance of attending lectures, as he covers all test material thoroughly. Students recommend taking detailed notes and focusing on his slides and review questions for effective preparation.",
+    "summary_comment_short": "Professor Boerner is highly regarded for his engaging and humorous teaching style, making his class both enjoyable and effective for learning. Students emphasize the importance of attending lectures, as he covers all test material thoroughly and provides valuable review questions.",
     "Ratings": [
       {
         "index": 1,
@@ -5328,6 +4501,1541 @@
         "difficulty": 3,
         "comment": "Really easy going. It's not bad going to the big lectures.",
         "course": "BIO101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 2.9,
+    "department": "Science",
+    "firstName": "Rodney",
+    "id": "VGVhY2hlci01MTE3OA==",
+    "lastName": "Tettenhorst",
+    "legacyId": 51178,
+    "numRatings": 9,
+    "summary_comment": "Professor Tettenhorst is remembered by some students as an authoritative and demanding teacher whose methods were seen as outdated and unclear, often employing intimidation and thinly veiled threats. While others appreciated his strict standards and foundational approach to teaching mineralogy, many found his lectures and exams difficult and his interactions with students to be cliquish and judgmental.",
+    "summary_comment_short": "Professor Tettenhorst is widely recognized for his strict and demanding teaching style, which some students found beneficial for those passionate about geology, while others found his methods outdated and unclear, leading to poor explanations and intimidating exam formats. His approach was polarizing, with some students praising his foundational impact on their understanding of mineralogy and his role as a mentor, while others criticized him for being cliquish, arrogant, and unfair.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I was one of Dr Tettenhorst's very first graduate students, and he was a wonderful advisor and mentor. I received my MS degree from the OSU Mineralogy department in 1968. His teachings and his manner of teaching benefitted me throughout my lifetime in engineering and teaching.",
+        "course": "MINERALOGY850"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I had him over 20 years ago and went to see if he was on here..and he is...he was lousy in the 80's and the students either got A's or D's, because he was lazy and used the same tests over and over. A fewfemale students go copies of old tests from other guys in his prior classes of his and - automatically got A's somehow. Nobody understood him tho",
+        "course": "GEO221"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Someone else already mentioned that he acted like he was the guardian of the gates of geology. That was my same experience. He had his favorites although I'm not sure what made them his favorites. I personally found him to be arrogant, judgmental and cliquish. I got the impression that he thought I was an idiot.",
+        "course": "GEOL221"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "An old fashioned professor; too few like him are left.  If you are lazy, you are in really deep trouble.  If you love geology, this class is utterly foundational and it would hard to find a better professor of mineralogy.  If you hate geology, he'll help you discover that fast.",
+        "course": "GEO221"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "He felt it was his responsibility to decide who would be geologists, and if he didn't like you...  you were in deep trouble.  His exams bordered on comical.  Mineralogy through intimidation and thinly veiled threats.",
+        "course": "221"
+      },
+      {
+        "index": 6,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "His methods and subject matter is outdated and unclear, he is belligerent.",
+        "course": "GEO221"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. T is a cool dude.  Strict and serious, but fair and friendly.",
+        "course": "GS121"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Terible class, poorly explained, read from the text book",
+        "course": "GEOL121"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Tettenhorst is clearly nuts about geology-cares about teaching it.",
+        "course": "GEOLSCI121"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.6,
+    "avgRating": 4.2,
+    "department": "Science",
+    "firstName": "Dana",
+    "id": "VGVhY2hlci0xNTg2Nzk=",
+    "lastName": "Wrensch",
+    "legacyId": 158679,
+    "numRatings": 22,
+    "summary_comment": "Professor Wrensch is highly regarded for her engaging and entertaining lectures, which often stray from the main topics. While students appreciate her approachable nature and willingness to help, some find her less focused on traditional teaching methods, leading to mixed results in terms of learning the required material. Overall, she is seen as a fun and enjoyable professor, particularly for classes that encourage critical thinking and discussion.",
+    "summary_comment_short": "Professor Wrensch is highly regarded for her engaging and informative lectures, though some students noted she occasionally strayed from the topic. Despite this, many found her to be exceptionally knowledgeable and entertaining, making her class both enjoyable and educational.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Interesting lectures, but frequently strayed from topic.  Did not really seemto care ifwe learned course material or not.  More entertaining than instructive.",
+        "course": "BIO"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "She is simply one of the best professors here at Ohio State. She is fun to talk to and her class will be one of the most interesting in your time at Ohio State. Take this class if you need a Bio GEC requirement. She is more than willing to help you at anytime.",
+        "course": "BIO1102"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Simply the most fun professor ever. She's extremely easy on the grades and due dates, doesn't care much about when you turn in the work, open-book exams. I learned a lot from her, because she gives latest info on everything. Best prof ever.",
+        "course": "BIO597"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "So Wonderful. No other words to describe. Her T.A. Aiqing is equally as awesome.",
+        "course": "BIO597"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "This prof is the best! After years at OSU she's the only one who ever bothered to learn my name. You have to take very good notes, otherwise you'll get to a question on the exam and not have a clue how to answer it. Learn how to take short hand notes that you can understand, use keywords, and write down examples she gives you during discussion.  Sh",
+        "course": "BIO597"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Class about human diversity.  Really the class teaches you how to think critically about current events.  Can use your notes for the exam, but you have to take great notes and not miss class.  HIGHly recommend!",
+        "course": "BIO597"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Very nice.  Class was interesting, and easy  She tends to wander off topic a lot, but she's very well informed and fun.",
+        "course": "ENT101"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Interesting class, great teacher! She is very helpful and makes it pretty fun and easy. Take entomolgy with her.",
+        "course": "ENTOM101"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "i waited for almost 3 years to take dana's class, and it was totally worth the wait. she doesn't always stay on task but she is SO interesting and helpful it doesn't matter. i'm in ento 102 now and was plenty prepared for it. take ANYTHING she teaches she is really helpful and as long as you put in some effort she'll give you an A.",
+        "course": "ENTO101"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Hard to understand (talks very fast), rambles all over the place, doesn't teach the course description but rather rambles about all sorts of biology/current events. Pretty fun and relaxed atmosphere, however I don't really feel like I learned too much, as a result.",
+        "course": "ENT500"
+      },
+      {
+        "index": 11,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dana is an amazing instructor and will make you reconsider almost everything you thought you knew about biology!  She really gets you to think about biology and bugs rather than just assimilate information.  Her teaching style is such that you don't need t",
+        "course": "ENTOMOLOGY500"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "helpful, awesome teacher. TAKE HER CLASS",
+        "course": "ENTO101"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "A friend of mine had Dana for 597, and I was so intrigued by his stories, I emailed Dana, and we have kept up a friendship, even though I've never had her as a teacher.  She is AWESOME and I have learned so much from her, just about life in general.  If you have the chance, take ANYTHING with her.",
+        "course": "LIFE"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Really enjoyed her class.  She knows so much and she is the best teacher I have had here at OSU..",
+        "course": "ENTO101"
+      },
+      {
+        "index": 15,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "She lets you turn in work as late as you want.  She is always willing to help.  Note taking is hard but if you do everything and be nice to her you'll probably get an A.",
+        "course": "ENT101"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This is an awesome teacher! I highly reccomend this class and teacher to anyone who loves science, or loves the study of bugs or who needs a science credit but finds science to be hard. Dana Wrensch makes science very fun and interesting. I would take any class with her in a heartbeat!!!",
+        "course": "ENT101"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dana is my favorite teacher at OSU, her class is easy but interesting, and there is a big curve even though most people don't need it.",
+        "course": "ENTOMOLOGY101"
+      },
+      {
+        "index": 18,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Great personality hilarious lady.  She is very smart but EASILY sidetracted in class.  You will get a lot of info but note taking can be difficult.  She will help you with tests in class.  She has a lot of info to share, cool professor. highly reccomend.",
+        "course": "597"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is by far the best teacher at OSU, her tests are essay style so if your not an idiot you can BS through.  I took both classes she teaches and got a's in both.  Great personality and the fact she gets so off subject makes her hilarious.",
+        "course": "ENT101"
+      },
+      {
+        "index": 20,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Do not take this class. She rambles in lectures about things irrelevant to class. Her tests have nothing to do with anything that was covered. Notes are impossible to take in her class.",
+        "course": "BIO597"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is my favorite professor at Ohio State.  By far, the coolest lady you'll meet.  Very personable--almost impossible to fail her class.  Do yourself a favor and take her class.  I PROMISE you'll love her.",
+        "course": "BIO597"
+      },
+      {
+        "index": 22,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Good teacher.  Helps out a LOT. Like, she will help you with projects in EVERY aspect of it if you just ask her.  Rambles a little bit.  Tests are in the middle of an easy/hard continium.  Little hw.  Big projects at the end of quarter.  must go to lectur",
+        "course": "ENTOM101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 2.5,
+    "department": "Science",
+    "firstName": "Andrea",
+    "id": "VGVhY2hlci0zMTY2MDg=",
+    "lastName": "Doseff",
+    "legacyId": 316608,
+    "numRatings": 14,
+    "summary_comment": "Professor Doseff is highly knowledgeable and passionate about her subject, delivering engaging and informative lectures that are essential for understanding the material. Despite her bluntness and sometimes challenging exams, she is dedicated to her students' learning and provides ample opportunities for credit through class participation and additional activities. However, some find her lectures and teaching style demanding and occasionally difficult to follow, particularly for non-native English speakers.",
+    "summary_comment_short": "Professor Doseff is highly knowledgeable and passionate about her subject, delivering engaging lectures that, while challenging, are filled with personal examples and key concepts. Her exams are generally fair, though some find her lectures and teaching style demanding, requiring significant preparation and engagement.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Doseff scared me a lot because of her bluntness with students in class, but really is a lovely person who cares a lot. Class isn't mandatory but there are activities often for credit. Her lectures are fantastic- I never found myself dazing off- she gives great personal examples & clearly loves her work. Very high expectations. Tough exams.",
+        "course": "BIO114"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "She can be intense but I thought she was super kind and sweet. Loved her. Class participation during lectures, I thought it was engaging + helpful. Lecture is from slides but she does a lot of talking that's not on the slides. I had already taken AP Bio before so I just studied the slides and easy A. She really cares about students' understanding.",
+        "course": "BIO1113H"
+      },
+      {
+        "index": 3,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Dr. Doseff is very intelligent and engaged in her subject matter. I found her lectures somewhat difficult due to the fact that English isn't her first language, but she's more than willing to give clarification in office hours. Her lectures work very well along with the textbook.",
+        "course": "BIO1113"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Easy tests.  Only counted 2 of 3 midterms but bad teacher.  I had to learn everything from the book.",
+        "course": "MGEN500"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Dr. Doseff is a very engaging and knowledgeable lecturer. She really knows what she's talking about. Go to lecture and take additional notes. She sometimes walks through problems you need to know. Do the extra exercises she posts.",
+        "course": "MG500"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Her exams are pretty easy as long as you have done the problems that she assigns. In fact, on some of the midterms they were the exact same. She is clear in the lectures and emphasizes key concepts she wants you to grasp. Bring the posted lectures notes to class to take additional notes.",
+        "course": "MOLGE500"
+      },
+      {
+        "index": 7,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "knowledgeable but impatient with students. seems to have no compassion for students actually trying to work hard and succeed. lectures are incredibly boring and long-winded",
+        "course": "MOLGE500"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "She wasn't bad. As long as you did the reading and looked over her slides and the practice exams you are gonna do well.  I never actually spoke to her though. She plans on teaching more than she can actually fit into the course it seems.",
+        "course": "MOLGE500"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I don't know where to start.  Once again, another upper level professor who just doesn't teach anything of relevance to the exams.  If she is paired in the MOL GEN sequence, wait a quarter for the other prof.",
+        "course": "MOLGE500"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Went through things very quickly in class, very picky grading on the tests, it is very necessary to go to a TA to figure out the practice problems and do well on the tests",
+        "course": "MOLGE500"
+      },
+      {
+        "index": 11,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "She really sucks, i got a 3.8 gpa in my third year as a science major, and she isn't the worst teacher, but she is terrible at explaining anything.  If it makes it any better tho, her exams arent THAT hard if you just study sample problems.",
+        "course": "MOLGE500"
+      },
+      {
+        "index": 12,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "She's atrocious, for God's sake. She ruins a class that should be really interesting. Buy the book because you won't learn anything from her.",
+        "course": "MG500"
+      },
+      {
+        "index": 13,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "she is not very good",
+        "course": "SCS"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "She's not so bad. Boring, but not so bad.",
+        "course": "MOLGEN500"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 2.9,
+    "department": "Science",
+    "firstName": "Ralph",
+    "id": "VGVhY2hlci0xMzM3MTg=",
+    "lastName": "VonFrese",
+    "legacyId": 133718,
+    "numRatings": 11,
+    "summary_comment": "Professor VonFrese is an extremely knowledgeable expert in his field but struggles significantly as a lecturer, making his classes\u67af\u71e5\u4e14\u96be\u4ee5\u8ddf\u4e0a\u3002\u8003\u8bd5\u5185\u5bb9\u4e0e\u8bfe\u5802\u8bb2\u89e3\u5dee\u5f02\u5de8\u5927\uff0c\u4e14\u6750\u6599\u9648\u65e7\uff0c\u5bfc\u81f4\u5b66\u751f\u5fc5\u987b\u81ea\u884c\u5b66\u4e60\u624d\u80fd\u53d6\u5f97\u597d\u6210\u7ee9\u3002\u5c3d\u7ba1\u4ed6\u975e\u5e38\u806a\u660e\u4e14\u5c0a\u91cd\uff0c\u4f46\u6559\u5b66\u65b9\u6cd5\u5e76\u4e0d\u9002\u5408\u6240\u6709\u5b66\u751f\uff0c\u5c24\u5176\u662f\u90a3\u4e9b\u5e0c\u671b\u4f9d\u8d56\u8bfe\u5802\u6559\u5b66\u6765\u638c\u63e1\u77e5\u8bc6\u7684\u5b66\u751f\u3002",
+    "summary_comment_short": "Professor VonFrese is an extremely knowledgeable expert in his field but struggles significantly as a lecturer, making classes tedious and disconnected from exam content. Students find his exams unpredictable and unfair, often containing outdated information not covered in lectures, which severely impacts grades.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "HORRIBLE professor. He doesn't teach anything in lectures, but somehow happens to talk the entire time. His exams do not at all reflect what his slides say. A lot of the statistics used on the exams are outdated, so if you google an answer or try to learn on your own, your new stats are considered wrong on the test. He ruined my 4.0 GPA as a senior",
+        "course": "EARTHSCI2203"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "You have to do research with Ralph in order to understand how smart this man is.  His knowledge and understanding of the Universe is admirable.  I have the deepest respect for him.  He is a very cool guy.  You have to be good in math and physics to understand his graduate level course material.  :)",
+        "course": "GS781"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "He is an expert in his field, and clearly has been for some time.  However, he is not a very effective lecturer; minutes felt like hours in this boring class.  And worst of all, the boring, repeitive tropes of his in-class lectures (and even reviews) had little to do with what was on the test.",
+        "course": "ESCI203"
+      },
+      {
+        "index": 4,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "He's the typification of someone who's an expert in his field, but not really a teacher. Your performance is determined by how much work you're willing to put into understanding the material on your own. If you're like me, taking your last GEC with a litany of other commitments, his class probably isn't your best choice.",
+        "course": "ESCI203"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "He is a very wise man who may not be the most explicit teacher, but you can definitely learn a lot from him. He discovered the Wilkes Land crater which caused the Permian Triassic Extinction, and he talks about it in class, but he is so humble that he doesn't even mention who discovered it or how it was discovered!",
+        "course": "EARTH100"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Amazingly Smart Man! He has a very monotone voice and can be tough to follow sometimes but he is really fair. Our first test this quarter was out of 50, he then dropped 2 questions because nobody got them right and then curved it so an A was 33/48. Labs are unstructured but easy. If you go to class there is no reason not to get atleast a B+",
+        "course": "EARTH100"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "this guy is horrible. pointless to study for any tests since no material youre given is contained within the exams",
+        "course": "GEO100"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Stupid guy, easy class.",
+        "course": "GEOLOGY100"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "good stuff",
+        "course": "GEO100"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "No Comments",
+        "course": "GEO100"
+      },
+      {
+        "index": 11,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "The questions on tests don't change each year, only the answers Very unclear",
+        "course": "GEOL"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.2,
+    "avgRating": 3.7,
+    "department": "Science",
+    "firstName": "George",
+    "id": "VGVhY2hlci0zMDY1MjM=",
+    "lastName": "Marzluf",
+    "legacyId": 306523,
+    "numRatings": 30,
+    "summary_comment": "Professor Marzluf's class emphasizes extensive memorization, particularly of metabolic processes and structures, as evidenced by students recommending the use of old exams and detailed note-taking. The class is considered relatively easy if students diligently memorize the material presented in lectures and review past exams. However, the memorization required can be challenging, especially for those less adept at rote learning.",
+    "summary_comment_short": "Professor Marzluf's class emphasizes extensive memorization, particularly of material written on the board and past exam questions. Students recommend attending every class, taking detailed notes, and studying these materials thoroughly to succeed.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "How to succeed in his class: memorize everything he writes on the board and study the old exams. Keep up with the material, especially metabolism, because memorizing everything detail can be hard. Also be prepared to hear a lot about Sir Hans Krebs.",
+        "course": "BCHEM511"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Go to class everyday, copy down and memorize EVERYTHING from the class notes, study the old exams he provides on carmen and you'll be fine. Sometimes he does kinda act like it's a chore for him to answer questions. But, overall, good.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "This class taught me how to study. Before each midterm, I made flashcards of EVERYTHING he wrote on the board and memorized them over the week leading up to the test. Gives you old midterms which are often identical. A ton of memorization, but I ended up with an A. Class averages were around 80 (84 for the final) so no real curve. Recommended.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "An easy class that is 100% memorization. I Spent about 5 hours over the course of the entire quarter studying and still got an A. Marzluf is a nice guy and knows what he's talking about, and the class is easy for anybody who copies down everything he writes and looks at old exams.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Easy A. Just memorize and study an entire week for the exam and you can do it. I didn't learn anything in this class but still did well.",
+        "course": "BCHEM511"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Go to every lecture, take detailed notes, and basically memorize past tests that he gives you. The class is not particularly engaging or challenging, as it is simply mindless cramming. I took 23 credit hours this quarter and with about 30 minutes to 90 minutes a day regularly and more for midterm weeks, I had no problem acing the class.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Biochem is going to be difficult regardless. I am not good at memorization, so this class was very hard for me because it's memorizing soooo many structures/enzymes/cycles for the exams. The only godsend is that the midterms/final isn't cumulative. Also, study the old exams religiously, the questions are often identical.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Prof knew material very well and applied everyday medical conditions to material. Kind of boring class, and have to attend b/c everything is put up on board. Study past exams put up online extensively and should do okay.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I took Biochem over the summer with Behrman before dropping because he was a monster. I've got to say with my experience, Marzluf is probably as good as it gets for Biochem. His exams are difficult, but only because you have to memorize every part of his notes. However, he is extremely fair and will not put anything on that he hasn't covered",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "He's pretty clear for the most part, you have to go to class since he doesn't use the textbook. Not really tricky on exams,just know all structures and cycles backwards (literally) and forwards, I aced all 3 so not that hard, I'd also recommend his classroom style office hours. I found they really helped. Overall, i'd say take him for biochem",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 11,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Old prof who makes it a passable class but hard to do well. Pay attention take meticulous notes and study every little thing. Other than that good luck because his exams are rough. I had a 90% on quizzes and 68% on tests they are poorly written",
+        "course": "BIOCM511"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Marzluf's chalkboard notes are very straightforward and require little to no textbook supplementation.  Quizes and exams are directly out of notes.  This class requires no prior understanding of chemistry - only good memorization skills.  Just stay on top of the material - otherwise it can accumulate quickly.  Dr. Marzluf is a great, funny guy.",
+        "course": "BCHEM511"
+      },
+      {
+        "index": 13,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "He does all of his work on the chalkboard, in small, illegible writing. Gets an attitude when asked to write bigger. Doesn't explain how the ideas connect so it all seems random. Doesn't answer the question asked&sometimes treats you like an idiot for asking. I get good grades in the class but it doesn't take away from him being a terrible teacher.",
+        "course": "BCHEM511"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "He is undoubtedly the best of the Biochem teachers (Took and dropped one and had a close friend in the other).  Marzulf will cover the things that are important.  He also makes his previous midterms available at the BioSci Library (Take advantage of this!!!)  Go to class, don't sleep/skip, and you will do fine.  High emphasis on class material.",
+        "course": "BCHEM511"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I bet the last poster didn't come to class very often or did not take advantage of his office hrs.  Well, that is his/her fault for not keeping up and not taking the effort to understand biochem.  If the class avg on a biochem exam is over a 80% then how is it hard&#63; Dr. Marzluf is simply amazing.  He will make sure that you understand the material.",
+        "course": "BC511"
+      },
+      {
+        "index": 16,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Not a big fan of this guy. His notes are confusing, he doesn't label anything, and usually he makes no sense.  He does not do thing sequentially and his train of thought is a bit hard to follow, even if you do read before class. He's a really nice guy, but as far as his teaching goes, I'm not impressed.",
+        "course": "BCHEM511"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "great professor. i thought i would hate this class but i now think it is pretty interesting. class is pretty hard though and requires quite a bit of studying, but the tests are fair. he is also funny whether intentionally or not",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He is the best teacher ever! Although there is a lot of material to cover, he never rushes through anything and his tests are VERY clear. This is probably my favorite class! He is a very nice man and he genuinely wants his students to get good grades. Take him for this class!!",
+        "course": "BIOCHEM511"
+      },
+      {
+        "index": 19,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "this class is seriously rough, but i don't think it is the prof's fault. a LOT of information gets covered, but he thinks it should be a 2 or 3 quarter class, so at least he knows the problems with the class. his notes are generally clear, and there aren't too many surprises on the tests.",
+        "course": "BIOCHEM511"
+      },
+      {
+        "index": 20,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "He's a terrific prof. The BEST one to have for Biochem because he never rushes over any material. The book is not necessary for a good grade, as long as you go to class every day. If you go to office hours with questions, he's helpful and understanding. I went into the class expecting difficult, boring material and though it was hard, I enjoyed it.",
+        "course": "BIOCHEM511"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Amazing teacher",
+        "course": "BIOCHEM511"
+      },
+      {
+        "index": 22,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "its a hard class, but if u understand the lectures and take good notes you will do very well in the exams ! he is very nice and helpful",
+        "course": "BIOCHEM511"
+      },
+      {
+        "index": 23,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Very knowledgable, but the lectures are sometimes boring. He teaches away from the book sometimes and the tests are difficult because they are all short answer questions.",
+        "course": "BIOH115"
+      },
+      {
+        "index": 24,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "He is a really nice guy, and his lectures are pretty clear.  But it's true that he teaches away from the book. He doesn't spend time on the basics.  He is very details oriented.  The tests are tough, all short answer.  You really have to know your stuff.  Listen and take excellent notes.",
+        "course": "BIOH115"
+      },
+      {
+        "index": 25,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "His graduate classes make it easy for unthinking  crammers. In that sense they defeat the purpose of attending graduate school. However, the course material is carefully selected and relevant.",
+        "course": "BIOCHEM7SOMET"
+      },
+      {
+        "index": 26,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Is boring, talks very quietly and slowly. Lectures would be interesting if I could stay awake. Tests are hard due to the fact that they are completely lecture-based, which is a problem if you can't stay awake. Good guy, very knowlegable though.",
+        "course": "H115"
+      },
+      {
+        "index": 27,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "His tests are very hard and focus details. He doesn't use the book much or list any suggested readings that perhaps my go along with the lecture,you spend $$ on a book and is nothing like the lecture. He also has a problem with the microphone.",
+        "course": "BIOCHM511"
+      },
+      {
+        "index": 28,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Had 17 years ago in grad school.  Real good prof.  Challenging, but fair - same for exams.  Up to date on current research.  You could tell he puts a lot into it.  A star for the Buckeyes for sure.  Nice guy too.",
+        "course": "GEN611"
+      },
+      {
+        "index": 29,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "His exams are hard, very details oriented, he focuses on application rather than principle but if you acutally listen to him you should be okay.",
+        "course": "BIOH115"
+      },
+      {
+        "index": 30,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "His exams are difficult; all short answer and focus on details, but his lectures are pretty understandable.",
+        "course": "BIOH115"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 3.9,
+    "department": "Science",
+    "firstName": "Russ",
+    "id": "VGVhY2hlci04NTAxODQ=",
+    "lastName": "Hille",
+    "legacyId": 850184,
+    "numRatings": 5,
+    "summary_comment": "Professor Hille is highly regarded by some students as an excellent and influential professor, particularly praised for his clear explanations of enzyme kinetics and the quality of his course materials. However, other students strongly advise against engaging with him, warning to avoid his courses and not to seek him for committee positions due to perceived unreliability.",
+    "summary_comment_short": "Professor Hille is highly regarded by some students for his exceptional teaching and detailed course materials, particularly in explaining complex topics like enzyme kinetics. However, other students strongly advise against taking his courses or seeking him for academic guidance, citing reliability issues and advising others to avoid his classes and committees entirely.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "Avoid him and anything he does. Don't trust him. Dont rely on him. Don't take his courses, and DONT ask him to be on your committee. Now you know.",
+        "course": "ENZYM762"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "One of the best and brightests professors I have ever met.  Its like poetry how he explains enzyme kinetics.  His overheads are straightforward and you can tell he puts so much time and consideration into them.",
+        "course": "BIO742"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Russ is one of the most influencial professors of my graduate experience.  He is a true scholar, beyond the years...",
+        "course": "762"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "762"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "762"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 4.3,
+    "department": "Science",
+    "firstName": "David",
+    "id": "VGVhY2hlci0xMjg1NjU=",
+    "lastName": "Ennis",
+    "legacyId": 128565,
+    "numRatings": 72,
+    "summary_comment": "Professor Ennis is highly regarded for his exceptional teaching skills and deep knowledge in astronomy. Students find him engaging, funny, and genuinely passionate about the subject, often noting his ability to explain complex concepts clearly. His classes are praised for their entertainment value and practical value, though attending lectures and taking detailed notes are key to success.",
+    "summary_comment_short": "Professor Ennis is highly regarded for his exceptional teaching quality, known for his ability to explain complex material in a simple and engaging manner. Students consistently praise his knowledge, humor, and genuine passion for astronomy, though they note that attending lectures and taking detailed notes are crucial for success.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Doc Ennis is the man. Really interesting class and he does a tremendous job of explaining the material in a simple manner. I don't think there is any question he cannot answer. Getting an A will require going to (almost) every lecture, and taking notes on the slides as he goes through them. Overall an awesome class.",
+        "course": "ASTRON1144"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This guy is the king of all that is holy in this world. Really funny teacher and very helpful.",
+        "course": "ASTRON1162"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr Ennis is a really nice person. You can feel his passion in astronomy and genuine interest in teaching the class. Caltech and NASA guy, so he knows a lot of stuff. The tests are all MCQ. Oh ya, he tells a lot of jokes and stories :)",
+        "course": "ASTRO1161"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "really,really interesting class and i would even go to his \"evening\"class before holidays but he usually cancels his class because of the holidays......He is adorable with his weird jokes.",
+        "course": "ASTRO1161"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Loved this class. This prof is so nice and genuine. Really glad i took his class and plan to take 1162",
+        "course": "ASTRO1161"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Ennis is a very smart, friendly, and funny teacher. I enjoyed the class and thought he did a good job explaining things. Just remember to take notes quickly, because the guy talks fast.",
+        "course": "ASTRO141"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Ennis genuinely enjoys teaching and he likes students. He does not require attendance but the way to learn and get an A in the class is to attend every lecture, make notes when he says something is important, and study the powerpoints. The textbook is good. He's interesting, knowledgable, helpful and entertaining. And he likes cats!",
+        "course": "ASTRO141"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "if you're interested in astronomy at all take it, it's pretty straight-forward. not quite as exciting as i expected but still good class, and he's a really good guy.",
+        "course": "ASTRO141"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Professor Ennis is now my Favorite instructor.  He has has enough real life experience to make the subject interesting and enjoyable.  I was apprehensive about taking Astronomy as a GEC requirement.  But after sitting in his 161, I knew I would take his 162.  Simply the best teacher I've had so far (and I'm a junior)!",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Interesting professor-likes to make nerdy (but funny!) jokes. Sometimes it is a little difficult to sit through class if it's two hours long, but the material is very interesting. Professor is very helpful, but you have to study hard. The only assignments: 4 quizzes and a Final. He posts powerpoints, so you don't have to go to class.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I definitely recommend him if you have to take AST 162. I tried taking it with another professor and had to drop it. He makes the class pretty interesting, and he's good at explaining difficult subjects. He clearly enjoys teaching. As long as you go to class and spend time studying the notes you shouldn't need the textbook.",
+        "course": "AST162"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "A really nice professor who extremely enjoys what he is talking about.  His jokes and stories keep the subject entertaining throughout the classes.  Definitely would reccommend this class.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Definitely harder than I expected.  If you know the slides you will do well.  Average was about a 75.  Final was a lot easier than the quizzes.  Got an A but definitely had to work for it",
+        "course": "ASTRO141"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Good teacher, really seems to enjoy teaching the subject and has a lot of past research experience to back up his knowledge.  Tests can be pretty hard at times however, you have to really know the slides that are given out to you.",
+        "course": "ASTRO162"
+      },
+      {
+        "index": 15,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Currently taking him for 162, he is definitely one of the trickiest professors especially for his quizzes which are hard with questions such as which of the following is not a property of a neutron star, etc. He says they are straight-forward but trust me they are not! I would not recommend him!",
+        "course": "ASTR162"
+      },
+      {
+        "index": 16,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "def a great professor, interested and lvoes the material he teaches, will do anything to help students understands, takes questions and gives in depth answers freely, great class and pictures! def get him!",
+        "course": "ASTR161"
+      },
+      {
+        "index": 17,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "This guy has the trickiest tests, he says there stright forward... there not. He likes to hear himself talk too, he is a nice guy and interested in helping, but he is out to trick his students...beware.",
+        "course": "AST141"
+      },
+      {
+        "index": 18,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "He's really easy-going and nice, although sometimes a little confusing. I only studied for like 3 hours before each quiz and exam and still got an A. Funny in a goofy way.",
+        "course": "ASTRO162"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easy, interesting, and fun class.  If you have to take a science GEC, take 161 and 162.  He is an outstanding teacher.  He's hilarious and a real sweet guy.",
+        "course": "ASTRO162"
+      },
+      {
+        "index": 20,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Possibly the least tricky exams ever.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "PROs: Don't need to buy the book. 80% of test material on power points which are online. Exams are multiple choice. No mandatory attendance. CONs: Very boring, but it was a night class after a long day. It was very hard to want to go to class if you felt you didn't need to. Felt like torture having to sit through it. I never stayed to the end.",
+        "course": "AST161"
+      },
+      {
+        "index": 22,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I would have to agree with the rest of the recent ratings.  His class bored me out of my mind.  He was interested in what he did, but he was not very straight forward on what was going to be on the exams.  It is too much material to look over without a study guide of what you need to know.  I would not recommend him.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 23,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "fact one: his lectures are okay. fact two: his exams are insanely tricky. they are NOT easy like what others said. plus, his exams cover too much material. it's like almost impossible to study that much material for the exams. his undergraduate assitant grades assignmets hard too. i won't buy others' comments on this website again.",
+        "course": "ASTR161"
+      },
+      {
+        "index": 24,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "ennis is a great guy and his class sure is interesting, but his tests suck. they are so tricky. i don't know why all these people say his tests are &quot;easy&quot;. i'm not goning to trust comments on rmf any more.",
+        "course": "ASTR161"
+      },
+      {
+        "index": 25,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "If you have to take a science GEC - TAKE 161 with Ennis. Easy on his students if you go to class. Book is little relevance if you pay close attention. Mr. Ennis is a great prof!",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 26,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Mmmkay. Mr. Ennis is a great prof. His class was fun and we hardly ever used the textbook. Don't bother buying it, mmmkay. There was almost no math and his lectures were very funny and interesting, mmmkay. The only drawback is that he says &quot;mmmkay&quot; a lot, mmmkay.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 27,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "excellent professor who truly loves what he does.  Exams are easy and straight forward.  No reading and very little homework.  Class can be interesting but is mostly boring.  You probably do not need to go to class (especially for 161) but I always did anyway for the entire 2 hours 18 minutes, which is probably why I thought it was boring.",
+        "course": "ASTRO162"
+      },
+      {
+        "index": 28,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I can count on 1 hand how many times I went to class & I still got an A-. Lectures are online, READ THEM. Remember little things like how hot it has to be for nuclear fusion to begin. Homework replaces lowest midterm grade, so do perfect on it! Ennis is a very funny guy and the class is simple as long as u study. If only all classes were like this",
+        "course": "ASTR162"
+      },
+      {
+        "index": 29,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Absolutely awesome professor.  He was by far the funniest professor I've had.  He loves to poke fun at himself which is hilarious.  As for the course, exams are all off of lecture and he always tells students that he never tries to trick you, and he holds true to it.  Overall, highly recommended!",
+        "course": "ASTRO162"
+      },
+      {
+        "index": 30,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "ASTRN162"
+      },
+      {
+        "index": 31,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "David Ennis is great. Not only does he make Astronomy accessable to all of us who are just taking it for the GEC, he also keeps the two+ hour lecture lively with bad jokes and colorful powerpoints. I highly recommend him. He's a sweetheart.",
+        "course": "ASTRASTR"
+      },
+      {
+        "index": 32,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "One of the easiest, if not the easiest, class i've had in college. Funny Guy. Really enjoyed the class.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 33,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He's GREAT GREAT GREAT GREAT!!!  Best professor I've ever had.  He really know the material and and is very passionate.  Also very helpful.  Tests are easy if you study the slides and attend class!",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 34,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This professor is awesome. If your taking Astro, Ennis is the guy. Go to lecture and you'll do fine. His jokes are quite hilarious, not going to lie.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 35,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Great professor.  Class is very interesting and the quizzes easy if you pay attention in lecture.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 36,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I LOVE THIS PROFESSOR! He is a great teacher, he gets so excited about astronomy. His jokes are bad, but he's so funny you still laugh. His class is not that hard if you just attend lecture.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 37,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Very passionate about astronomy and a good instructor. The quizzes and homeworks are very easy and they come directly from his lectures not the book. The final is also mostly from the same quizzes. Recommend this course to fulfill your GEC.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 38,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Was an interesting professor. GO TO CLASS, all the tests are off of the lecture material and slides, you don't need to buy the book at all. Homework was simple and easy especially if you use Wikipedia to look things up.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 39,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Ennis is awesome.  I didn't use the text at all.  If you go to class, pay attention, and take notes you'll be fine.  He makes the funniest comments all the time.  I loved his class, and I've never even been interested in Astronomy.  He loves it, and wants you to like it too.  Seriously, his weird little comments made it worth going.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 40,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "I was worried this would be harder than 161, but it was actually a lot easier and a lot more interesting.  Class is not necessary, but it's very interesting! Great guy, very easy, I wish I still had him for class!",
+        "course": "ASTR162"
+      },
+      {
+        "index": 41,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I had Dr. Ennis for both 161 and 162. I was not interested in astronomy at all but he made it interesting. He has to be my favorite professor at OSU by far. His tests are kind of hard but if you take good notes you should get a good grade. Almost all of his test questions come from class.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 42,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This class is pretty easy.  I didn't try this out, but Professor Ennis certainly offers help with anything you may need.  Attendance is not mandatory, but material becomes a lot more clear the more you attend class.  His jokes can be lame at times, but they'll still make you laugh and keep your interest for 48 minutes.  I didn't even buy the text.",
+        "course": "ASTRO162"
+      },
+      {
+        "index": 43,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "the easiest GEC i've had. Dr ennis is one of the funniest professors i've ever had, and probably the absolute most enthusiastic astronomer there is. i learned so much in this class and put no effort into it other than going to class a little more than half the time. book is not necessary at all",
+        "course": "ASTRO162"
+      },
+      {
+        "index": 44,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Best professor I've ever had. He manages to make huge concepts understandable. He is awesome.",
+        "course": "ASTRO162"
+      },
+      {
+        "index": 45,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "He is an amazing teacher that makes you interested in the material. If you make side notes on his slides then you dont have to study a lot for the test. Go to class and you'll get an A. He is a splendid teacher",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 46,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "WONDERFUL professor!  He made us laugh a lot with his corny jokes.  He loves teaching and does great at it.  I would highly recommend his class,  I heard other ASTR 161 professors were dificult.  It is not hard to do well in this class and you do not need to do any reading.",
+        "course": "ASTR161"
+      },
+      {
+        "index": 47,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "this is the prof. to have if you need astronomy GEC. he is so sweet. he loves what he is teaching. it is sooo boring (personally) but it is very direct and easy. homework is directly from the notes. quiz questions are very straightforward. powerpoint notes online.",
+        "course": "ASTRO162"
+      },
+      {
+        "index": 48,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Ennis is a good guy uses all powerpoint the class is easy, 60% of the class is based on 4 quizzies the were all mutiple choice and preety easy, you get to drop the lowest quiz grade and replace it with HW of which there were only 4 and took about 5 mintues each ... the other 40% is the final of which the questions came directly from the quizzes",
+        "course": "ASTR161"
+      },
+      {
+        "index": 49,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Knows what he's talking about, loves teaching and explains everything clearly, don't need book if you attend class. If you have any questions just ask and he'll spend a whole class trying to answer, if need be.  I took this sequence because I enjoyed his person, teaching style, and he just made the material that interesting.",
+        "course": "ASTRN162"
+      },
+      {
+        "index": 50,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Knows what he's talking about, loves teaching and explains everything clearly, don't need book if you attend class.  If you have any questions just ask and he'll spend a whole class trying to answer, if need be.  He's really personable, I literally spent hours after class talking with him about astronomy and whatever other topic that came up.",
+        "course": "ASTRN161"
+      },
+      {
+        "index": 51,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Class is pretty easy. He doesn't use the book-all you have to do is study the slides for tests. Any questions just ask him he's a nice guy and knows the subject in and out. He says &quot;mmmkay&quot; a LOT, but it becomes funny after the first couple of classes.",
+        "course": "ASTR161"
+      },
+      {
+        "index": 52,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "No Comments",
+        "course": "AST161"
+      },
+      {
+        "index": 53,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great class! Very interesting teacher, great way to learn about astronomy, no math, no formulas just facts and interesting stories~~!!!Yay Ennis! easy too...",
+        "course": "AST161"
+      },
+      {
+        "index": 54,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "This class was a breeze. I thought 161 was a lot harder and that professor sucked. Ennis is fine. I maybe went to 2 classes where we didnt have either homework due or a quiz. Just study the slides and you will do fine. He was actually sick for the 1st 2 classes, which made things interesting but it was easy.",
+        "course": "ASTR162"
+      },
+      {
+        "index": 55,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Good class, easy grade. Some suprises on the exams, but if you go to class and pay attention, it isn't a problem at all. &quot;Mkay&quot; kind of distracting, but after you spend the first lecture counting how many times he says it, you're already used to it. If you take this class, take it with Dr. Ennis.",
+        "course": "ASTRON161"
+      },
+      {
+        "index": 56,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "I was disappointed in this class. He does not follow the book and does not give study guides. You have no idea what will be on the Tests. Talking to people in the morning AST class their teacher was a lot more organized. I was very disappointed.",
+        "course": "AST161"
+      },
+      {
+        "index": 57,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Very easy A!! I would tell anyone to take the class.  The quizzes are so easy! I took it as a night class from 5:30-7:40 and I always wanted to fall asleep, but it is for sure an A! :-)",
+        "course": "ATRON161"
+      },
+      {
+        "index": 58,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "This class is pretty easy, m'kay. Kinda boring but the stuff is pretty interesting, m'kay. Really easy and i recommend to all, m'kay. And by the way, he a hefty Mr. Mackey, m'kay.",
+        "course": "AST161"
+      },
+      {
+        "index": 59,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Do not take this class. Prof. Ennis is nice but extremely boring his test are very hard if you are not a math/science minded person. I think he thought he was teaching an upperlevel course. I would not recommend this class to anyone who is just trying to fill a gec.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 60,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "The most interesting and funny science teacher at Ohio State. He prepares you well for the test.",
+        "course": "ASTR161"
+      },
+      {
+        "index": 61,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "Dr.Ennis class was perhaps one of the most mind numbing experiences I have ever had. His stories ranged from sliver noses to his Toyota Prius to his jealous at another astronomer. I learned everything in this class in one week as a freshmen in high school in Earth Science. Easy Grade",
+        "course": "AST161"
+      },
+      {
+        "index": 62,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "very understandable, made astronomy as interesting as it can be. funny guy",
+        "course": "ASTRONOMY161"
+      },
+      {
+        "index": 63,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This teacher is excellent.  He makes the class intereting and relevant, while not making the class difficult.  MAke sure you study your powerpoint notes, go to class and write everything he says, listen, and if you miss a class (don't!) read the book.  I learned so much.  I truly appreciate it.",
+        "course": "ASTR161"
+      },
+      {
+        "index": 64,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "ASTRONOMY161"
+      },
+      {
+        "index": 65,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "He made the class easy to understand and fun.",
+        "course": "ASTRONOMY161"
+      },
+      {
+        "index": 66,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I thought the information for this class was more boring than 161, but Ennis is a nice guy that is very clear and easy to understand, if you don't understand something just ask.  If you study the notes well you don't need to buy the book, but the book is helpful for homework that replaces a quiz sco",
+        "course": "ASTRONOMY162"
+      },
+      {
+        "index": 67,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "I don't find his sense of humor all that amusing. And he is the most boring man alive. But, if you go to class the quizzes are fairly easy. He puts up the notes online but I wouldn't use just that because he has a way of going off on tangents and asking questions about his stories on quizzes.",
+        "course": "ASTRON161"
+      },
+      {
+        "index": 68,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very funny guy and easy quizzes because the questions just come right off the notes.",
+        "course": "ATRON161"
+      },
+      {
+        "index": 69,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Hes really funny, but his class is extremely boring!. And his tests are tough.",
+        "course": "161"
+      },
+      {
+        "index": 70,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "AST171"
+      },
+      {
+        "index": 71,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Really, the nicest man.  But, he gave material in lecture and said it would not be on the test, and the next test was based entirely on that material.  With the exception of that test, material was clear and well organized, and grading made sense.",
+        "course": "ASTRO161"
+      },
+      {
+        "index": 72,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "No Comments",
+        "course": "AST1611"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.8,
+    "avgRating": 1.8,
+    "department": "Science",
+    "firstName": "Sheldon",
+    "id": "VGVhY2hlci0xNDEwNTE=",
+    "lastName": "Shore",
+    "legacyId": 141051,
+    "numRatings": 17,
+    "summary_comment": "Professor Shore is widely regarded as an ineffective instructor, particularly due to his difficulty with classroom technology and tendency to mix up his notes. Students find his exams excessively hard and his lectures confusing, often recommending finding another section or instructor. Despite some positive personal attributes noted by a few, his teaching quality is consistently criticized.",
+    "summary_comment_short": "Professor Shore's teaching quality is severely lacking, particularly in his handling of classroom technology and clarity in lectures, which makes the class extremely difficult for students. Multiple students have withdrawn or dropped the class due to his ineffective teaching methods and overly challenging exams.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "He shouldn't be allowed to teach anymore. The man is at least 85 years old, and can't work the microphone. Honestly, drop the class and get a new section.",
+        "course": "CHEM121"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "He really does seem like a nice guy, But he should have stopped teaching 20 years ago. Can't seem to make the mic work and that's obviously very important in a large class. The exams are ridiculous. Way harder than they need to be. I'm having trouble and I took an equivalent class already. Get out now.",
+        "course": "CHEM121"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Sucked! Can't read or write. Hard class to begin with, and he made it worse. DO NOT RECOMMEND",
+        "course": "CHEM121"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "This is my second time around taking Chem, and I got stuck with the hardest teacher possible the first time. Shore was like a god sent, his tests are ridiculously easy. However if you dont want to learn about Vietnam, Uboats, and life in the 20s, you shouldn't go to lecture.A good TA is necessary, because I'm 89% Posative Shore invented the wheel.",
+        "course": "CHEM121"
+      },
+      {
+        "index": 5,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I tried to get through it, but withdrew 4 weeks in. Shore has LOTS of trouble with the technology of the classroom, which is paramount when teaching 350+ at once. He often mixes himself up is his own notes and has to backtrack to correct himself. If you depend on a clear lecturer to understand course material, trust me, do not schedule Dr. Shore.",
+        "course": "CHEM151"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I feel bad saying this about Sheldon, because he is a nice old man, but to put it simply, he is the main reason why I am no longer a Pre-med student, his poor teaching in this introductory course put me way behind all of the other chemistry classes which subsequently led to me failing further chemistry courses. Awful teacher, nice man.",
+        "course": "CHEM121"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "CHEMISTRY121"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Lecture is a waste of time, just read the book at home. Hopefully you'll get a good TA who can explain things, because concepts just seem more confusing in lecture.",
+        "course": "CHEM121"
+      },
+      {
+        "index": 9,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Poor Dr. Shore. Really, I'm sure he was good at Chemistry back in the '80s or something, but now...he's just too old to be teaching. He constantly spells words wrong (leaves out letters, etc.). It took him three or four tries to spell &quot;oxygen.&quot; His midterms and exams are nearly impossible. Try another professor if you'd like to actually learn Chem.",
+        "course": "CHEM121"
+      },
+      {
+        "index": 10,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "I recommend this class to anyone who has taken AP Chem in HS or can teach themselves.  If not, get out of the class NOW.  Funny guy at times, but really a bitter old man at heart.  Be prepared that if he tells you something is or isn't on the test the truth is probably the opposite.  No curve unless you practically fail the class.",
+        "course": "CHEM121"
+      },
+      {
+        "index": 11,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Not interested in teaching the class. Find a different professor before it's too late. Has some funny moments but if you're looking to learn the materail lecture is a waste of time. (you might as well just read the book because that's what his lecture is.)",
+        "course": "122"
+      },
+      {
+        "index": 12,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "totally not organized. hard as ****. advice: drop the class now...",
+        "course": "121"
+      },
+      {
+        "index": 13,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Reads almost word for word from the book. Pretty amusing guy. Hard exams.",
+        "course": "CHEM121"
+      },
+      {
+        "index": 14,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "He can tell good stories every once in awhile (why he carries a Bible in his coat pocket is a good one...), but for the teaching aspect&#63;  He can get a point across if he can get the microphone to work (poor guy is technologically impaired) and if he writes and spells correctly.  Just be sure to read the book.",
+        "course": "CHEM121"
+      },
+      {
+        "index": 15,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "The worst.  Cancels classes because he is not prepared.  Disorganized.  This class is a waste.",
+        "course": "CHEM753"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Very amusing. I would definitely recommend him. Tests are not that hard.",
+        "course": "CHEM121"
+      },
+      {
+        "index": 17,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Knowledgable but can't teach. Reads out of the book for lectures. Hard tests.",
+        "course": "CHEM121"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 4.6,
+    "avgRating": 2.4,
+    "department": "Science",
+    "firstName": "E J",
+    "id": "VGVhY2hlci0xMjM0Mzk=",
+    "lastName": "Behrman",
+    "legacyId": 123439,
+    "numRatings": 20,
+    "summary_comment": "Professor Behrman is widely regarded as a poor instructor, known for unorganized notes, obscure test questions, and a tendency to focus on trivial details. Students find his teaching methods outdated and ineffective, with many warning to avoid his class due to its challenging exam structure and lack of support resources.",
+    "summary_comment_short": "Professor Behrman is widely regarded as a poor instructor, known for unorganized notes, irrelevant test questions, and a teaching style that many find outdated and ineffective. Students consistently report that his exams focus on minor details, leading to low average scores, and that he often flouts his intelligence rather than teaching effectively.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "worst prof I've ever had. I put more time into this class than all of my other classes combined. I literally taught myself everything I learned in this class...horrible notes, puts random problems on tests...very smart but a terrible teacher.",
+        "course": "BIOCH211"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "SO OLD. he teachers like they did in the 50s. his quizzes are tests are over the most random points in his lecture. his notes were HORRIBLE. written everywhere, on top of each other, in between, anywhere. they didn't make much sense either. talks down to students. all i could think about during class was how he was still alive. SO OLD",
+        "course": "BIOCH613"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "If you want a terrible teacher who talks down to you, who gives unorganized notes, and tests on irrelevant details in order to make the average on every test, and the overall average an F, then Dr. Behrman is for you. He is tied for number 1 on my &quot;worst OSU professors&quot; list. He cares more about flaunting his intelligence than teaching.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "This man obviously knows his stuff but that doesn't help the students one bit! He prefers to flaunt his intelligence to intimidate the class. I went into his office hours for some advice and assitance and all he did was talk down to me and tell me to memorize my notes. His exams cover the tiny details of his notes resulting in an F average! Awful!",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "As far as teaching goes, he's bad but not terrible.  His testing methods, however, are horrible.  He picks out the most irrelevant and insignificant details from his notes and comprises his tests entirely from them which makes it near impossible to do well no matter how well you know the material. DO NOT TAKE HIS CLASS!",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "What everyone said about him below is about right. He is not very &quot;step-by-step&quot; if that is how you learn, you should avoid him. He is also not concise with what you should study, no reviews or study guides for exams. 2 midterms and a final with no quizzes. Nice guy but bad teacher.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Stay away from this professor. You are on your own in this class - no office hours, no reviews and certainly vague, &quot;find the answer yourself&quot; e-mails. Come prepared to write notes, as his exams consist of only this - don't even bother buying the text book. He constantly enjoys flaunting his intelligence and asking questions his TAs fail to answer.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "The material is quite superficial compare to other biochem classes. Exams are quite simple but require a lot of thinking. Stay away if this will be your first biochem class, but highly recommended if you want to take this class to fulfill an elective credit. Overall, he's a good professor.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 9,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Awful prof. does nto test on relevant info, just what he finds important. skips many if not most major topics in  book! no notes given online, no guided notes, no helpful hints, might talk for 45 minutes and only fill up 1 black board. AVOID AT ALL COSTS",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 10,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "If you ever have the chance to take BIOCHEM at OSU, skip the quarter this man is teaching. Don't even buy the textbook, as he lectures straight from his notes. The class average is a big fat F at the moment. PLEASE, stay away from this man! He would rather intellectually stroke himself than teach something efficiently to his students. NO MERCY.",
+        "course": "BIOCH511"
+      },
+      {
+        "index": 11,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "yikes. i have him as a prof this summer because he dedided to come out of retirement for one quarter and teach biochem 511. he is OBVIOUSLY extrememly smart but he doesn't know how to teach! our exam averages so far have been 56% and 47%. he keeps telling us we're in a graduate level class and should understand more but most of us are undergrads!",
+        "course": "BCHEM511"
+      },
+      {
+        "index": 12,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Thank goodness he's gone. I had the misfortune of having him as my professor (groan)- he is smart, no doubt, but he doesnt know how to teach. He likes mumbling only to the front rows and u wonder why those kids fare better! (I had a previous class and could make it any earlier to class) Uses his intelligence to his advantage to intimidate students.",
+        "course": "BIOCH613"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "A really good professor but he is not easy",
+        "course": "BIOCHEM613"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Best professor I had at State.  He and Paquette were (ARE) leaders in their fields. I did some research for Behrman during a summer and worked in his lab for the rest of my time at state.  Super funny man once you get to know him.  Extremely helpful, and is he f-ing smart or what.  Electron pushing will never be the same!  I could sit and listen to him lecture for hours.",
+        "course": "BIOCHEM613"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "This guy rules, everyone else is just mad because he's smarter than them!",
+        "course": "BIOCHEM613"
+      },
+      {
+        "index": 16,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "No Comments",
+        "course": "BIOCHEM613614"
+      },
+      {
+        "index": 17,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "BIOCHEM613"
+      },
+      {
+        "index": 18,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "He's so old that he forgets what he lectured on when it comes time to write the exams.",
+        "course": "BIOCH613"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "BIOCHEM"
+      },
+      {
+        "index": 20,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "No Comments",
+        "course": "BIOCHEM61"
       }
     ],
     "SEI": []

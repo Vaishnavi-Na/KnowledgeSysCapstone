@@ -1,44 +1,47 @@
 [
   {
-    "avgDifficulty": 2.5,
-    "avgRating": 2.5,
+    "avgDifficulty": 3.5,
+    "avgRating": 3.5,
     "department": "Women",
-    "firstName": "Kristen",
-    "id": "VGVhY2hlci0yNjEzNzQ0",
-    "lastName": "Kolenz",
-    "legacyId": 2613744,
-    "numRatings": 4,
+    "firstName": "Robin",
+    "id": "VGVhY2hlci0yNjQzMDk0",
+    "lastName": "Cremins",
+    "legacyId": 2643094,
+    "numRatings": 2,
+    "summary_comment": "Professor Cremins is known for his comprehensive approach to teaching, ensuring students engage deeply with course material through reading and watching films. While his classes cover obscure topics and are not challenging in terms of workload, he provides clear expectations and constructive feedback, encouraging thoughtful participation without penalizing differing opinions.",
+    "summary_comment_short": "Professor Cremins is known for his comprehensive discussions on obscure topics and emphasizes agreement in class to ensure smooth group dynamics, though this approach may not appeal to all students. He offers clear guidance for high grades through reading and thoughtful engagement, providing constructive feedback and encouraging independent thinking without penalizing differing opinions.",
     "Ratings": [
       {
         "index": 1,
-        "rating": 1,
-        "difficulty": 1,
-        "comment": "very rude",
-        "course": "WGSST2367"
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "Piece of advice you have to agree with them, do not disagree with them on any points of discussion. Not a tough course, but it definitely discusses some obscure topics. Would not take this course again personally.",
+        "course": "WGSST2260"
       },
       {
         "index": 2,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "I had Prof Kolenz for WGSST 2230. I was excited for the course, it seemed fun- but the way Prof Kolenz formatted the class sucked any joy out of what could have been a good time. Your grade comes from graded notes and what amounts to transcripts of what you contributed in class. She's nice and a good person, but the class was a pain to get through",
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Glad to be Prof. Cremins' first rating. Took 2230 as a summer class and it didn't disappoint. As long as you read the articles and watch the films and they can tell you've put some thought into you're writing, you'll get an A. They give good feedback and give you extra things to think about without taking off points for expressing your own opinion.",
         "course": "WGSST2230"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "She was very sweet and welcoming with a great relationship with the students, I loved this class. It was heavy on outside readings and viewings but i found it easy to multitask while doing them. there was a LOT of writing involved with journals, reflections, and essays, as well as a final group project. She's really lovely though and very helpful.",
-        "course": "WGSST2230"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Gives lots of opportunity for extra credit and is extremely flexible with meeting times. She is super nice but very content-heavy course and not an easy marker.",
-        "course": "WGSST2367"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "17876",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "3.5"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -49,6 +52,8 @@
     "lastName": "Byrne",
     "legacyId": 2653837,
     "numRatings": 4,
+    "summary_comment": "Professor Byrne is highly regarded for her engaging lectures and the importance she places on women's voices in literature. Students appreciate her detailed video explanations and the relevance of the material. However, some find the course demanding due to extensive reading requirements and vague grading criteria, though many still value the learning experience despite the challenges.",
+    "summary_comment_short": "Professor Byrne is highly regarded for her engaging lectures and the importance she places on women's voices in literature. However, the course can be demanding, with extensive reading assignments that some find overwhelming, though many still find the material rewarding.",
     "Ratings": [
       {
         "index": 1,
@@ -90,6 +95,8 @@
     "lastName": "Beamon",
     "legacyId": 2355225,
     "numRatings": 2,
+    "summary_comment": "Professor Beamon is an inspiring and caring educator who offers valuable insights through her teaching, despite occasional vagueness in assignments. While her online format limits personal interaction, students appreciate her constructive feedback and dedication to her subject matter.",
+    "summary_comment_short": "Professor Beamon is an inspiring and constructive teacher who effectively engages students despite the challenges of an online format. While her assignments can be vague and misleading, she is highly regarded for her caring nature and dedication to her subject matter.",
     "Ratings": [
       {
         "index": 1,
@@ -117,6 +124,8 @@
     "lastName": "Bhaskaran",
     "legacyId": 2641992,
     "numRatings": 9,
+    "summary_comment": "Professor Bhaskaran is known for her rigorous and demanding teaching style, assigning extensive readings and frequent essays with vague grading criteria. Students find her tough on grading but appreciate her care and comfort in the online environment. However, the lack of clear rubrics and support for medical conditions has led many to warn against taking her class, especially for general education requirements.",
+    "summary_comment_short": "Professor Bhaskaran is known for her rigorous and demanding teaching style, assigning extensive readings and requiring detailed essays with often unclear grading criteria. Students describe her as a tough grader who expects high-quality work but provides little feedback and sometimes fails to offer extensions or accommodations for medical issues.",
     "Ratings": [
       {
         "index": 1,
@@ -182,7 +191,106 @@
         "course": "WGSST2750H"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "5240",
+        "Class Name": "Race and Public Policy in the United States",
+        "Class Number": "23444",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5240",
+        "Class Name": "Race and Public Policy in the United States",
+        "Class Number": "5821",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5240",
+        "Class Name": "Race and Public Policy in the United States",
+        "Class Number": "5822",
+        "Term": "SP 21",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "PUBAFRS",
+        "Catalog": "5240",
+        "Class Name": "Race and Public Policy in the United States",
+        "Class Number": "5848",
+        "Term": "SP 22",
+        "College": "John Glenn College of Pub Aff",
+        "Department": "John Glenn College of Pub Aff",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2750H",
+        "Class Name": "Natives and Newcomers: U.S. Immigration and Migration",
+        "Class Number": "35216",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "3.89"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2325",
+        "Class Name": "Health and Inequality",
+        "Class Number": "33448",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.42"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "N/A",
+        "Class Name": "Natives and Newcomers: U.S. Immigration and Migration",
+        "Class Number": "37310",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "3.59"
+      }
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -193,6 +301,8 @@
     "lastName": "Blakely",
     "legacyId": 2713115,
     "numRatings": 2,
+    "summary_comment": "Professor Blakely is highly regarded for their exceptional teaching quality, genuinely caring about students, and fostering engaging discussion-based classes. Students appreciate the assignment of pre-class readings and the absence of traditional tests, with assessments focusing on response papers and a final paper. Their enthusiasm for the subject matter and willingness to accommodate students make them a standout instructor.",
+    "summary_comment_short": "Professor Blakely is an outstanding instructor who genuinely cares about student engagement and learning. Classes are discussion-based, utilizing pre-read articles and videos, with assessments primarily consisting of response papers and a final paper, fostering a dynamic and enjoyable learning environment.",
     "Ratings": [
       {
         "index": 1,
@@ -220,6 +330,8 @@
     "lastName": "Thomas",
     "legacyId": 955638,
     "numRatings": 17,
+    "summary_comment": "Professor Thomas is known for her comprehensive approach to teaching, integrating real-world experience and interdisciplinary knowledge into her courses. She prioritizes student engagement, often stepping back to allow discussions to flow naturally and has been praised for her flexibility and responsiveness. Students appreciate her efforts to create a supportive and inclusive learning environment, although some have noted occasional unprofessionalism in communication regarding grades.",
+    "summary_comment_short": "Professor Thomas is known for her engaging and inclusive teaching style, incorporating real-world experience and fostering a supportive classroom environment. She prioritizes student engagement and connection, often adjusting her teaching approach to ensure active participation and understanding.",
     "Ratings": [
       {
         "index": 1,
@@ -341,7 +453,148 @@
         "course": "GEOG240"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1138.03",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "35864",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1138",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "37026",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1138.16",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "28325",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1138.05",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "31146",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "36206",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "112",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "7702",
+        "Class Name": "Feminist Pedagogy",
+        "Class Number": "20070",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "20048",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "89",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "N/A",
+        "Class Name": "Feminist Perspectives of Incarceration in the US",
+        "Class Number": "34474",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "21814",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "116",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110H",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "36683",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.41"
+      }
+    ]
   },
   {
     "avgDifficulty": 4.2,
@@ -352,6 +605,8 @@
     "lastName": "Winnubst",
     "legacyId": 1773336,
     "numRatings": 6,
+    "summary_comment": "Professor Winnubst is known for her rigorous and challenging courses, particularly in terms of extensive reading materials and high expectations for class participation. Students find her knowledgeable and passionate about her subject matter but also note that her teaching style can be intimidating and her grading can lack clear rubrics, leading to uncertainty about performance improvement. Despite these challenges, many students highly recommend her courses due to the depth of learning and transformative experiences they provide.",
+    "summary_comment_short": "Professor Winnubst is highly knowledgeable and enthusiastic, offering challenging and transformative content, particularly in her senior seminar class. However, her courses are demanding, with extensive readings and mandatory participation, and can be intimidating, leading to unclear grading and limited feedback.",
     "Ratings": [
       {
         "index": 1,
@@ -396,7 +651,92 @@
         "course": "WGSST4405"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "WGSST",
+        "Catalog": "8800.02",
+        "Class Name": "Topics in Feminist Studies",
+        "Class Number": "35386",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4575",
+        "Class Name": "Women's Studies Senior Seminar",
+        "Class Number": "20093",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "7700",
+        "Class Name": "Feminist Inquiry I",
+        "Class Number": "18093",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4405",
+        "Class Name": "Race and Sexuality",
+        "Class Number": "34475",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "7700",
+        "Class Name": "Feminist Inquiry I",
+        "Class Number": "21818",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2282",
+        "Class Name": "Introduction to Queer Studies",
+        "Class Number": "35633",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.5,
@@ -407,6 +747,8 @@
     "lastName": "Pahulich",
     "legacyId": 2564069,
     "numRatings": 2,
+    "summary_comment": "Professor Pahulich is known for her discussion-based approach and minimal in-class work, focusing heavily on reading and essays. While some students initially struggled with her disregard for their concerns about participation, she became more considerate and reduced the course load when classes moved online. Her lectures are described as pleasant, though the class demands a significant amount of reading and can be challenging for essay grading.",
+    "summary_comment_short": "Professor Pahulich excels in creating engaging discussion-based classes, though some students initially struggled to participate due to the format. She adapts well to online settings, reducing course load and becoming more considerate after initial challenges.",
     "Ratings": [
       {
         "index": 1,
@@ -434,6 +776,8 @@
     "lastName": "Delgado",
     "legacyId": 2635835,
     "numRatings": 13,
+    "summary_comment": "Professor Delgado is known for being caring and knowledgeable but is criticized for an unorganized and disengaging class structure. Students find her grading methods confusing and often unclear, with many reporting a lack of structured assignments and delayed feedback. Despite her positive demeanor and genuine concern for her students, the overall class experience is described as chaotic and ineffective in terms of learning.",
+    "summary_comment_short": "Professor Delgado is known for her caring nature and deep knowledge in her field, but her classes are often described as disorganized and unstructured, with unclear grading criteria and a lack of consistent communication. Students find the class format unconventional and sometimes frustrating, despite the professor's genuine interest in her students' well-being.",
     "Ratings": [
       {
         "index": 1,
@@ -527,7 +871,148 @@
         "course": "WGSST2550"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "HISTORY",
+        "Catalog": "2115",
+        "Class Name": "Women and Gender in Latin America",
+        "Class Number": "34749",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "History",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "2.75"
+      },
+      {
+        "Subject": "HISTORY",
+        "Catalog": "3100",
+        "Class Name": "Colonial Latin America",
+        "Class Number": "35132",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "History",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "3.91"
+      },
+      {
+        "Subject": "HISTORY",
+        "Catalog": "2115",
+        "Class Name": "Women and Gender in Latin America",
+        "Class Number": "36418",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "History",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "3.42"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "8800.01",
+        "Class Name": "Topics in Feminist Studies",
+        "Class Number": "24965",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "33465",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "3.15"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2327",
+        "Class Name": "Embodying Gender, Race & Ethnicity",
+        "Class Number": "36110",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.32"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2327",
+        "Class Name": "Embodying Gender, Race & Ethnicity",
+        "Class Number": "35980",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2400",
+        "Class Name": "Higher Power: Feminisms & Religion",
+        "Class Number": "35428",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "3.48"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "7702",
+        "Class Name": "Feminist Pedagogy",
+        "Class Number": "35998",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "3.13"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2400",
+        "Class Name": "Higher Power: Feminisms & Religion",
+        "Class Number": "35930",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.4,
@@ -538,6 +1023,8 @@
     "lastName": "Shchurko",
     "legacyId": 2785097,
     "numRatings": 5,
+    "summary_comment": "Professor Shchurko is known for her demanding course structure, requiring extensive readings and significant writing assignments. While some students appreciate her teaching and the depth of knowledge imparted, others find her approach strict and unaccommodating to personal issues, with disorganization in class materials and unclear expectations. Overall, the workload is heavy, and the class is not disability-friendly or particularly supportive of those with personal problems.",
+    "summary_comment_short": "Professor Shchurko is known for assigning a significant amount of reading and writing, which can be challenging and demanding. Students note that while she is a knowledgeable teacher, her class requires strong time management and consistent attendance, with little flexibility for missed classes.",
     "Ratings": [
       {
         "index": 1,
@@ -575,7 +1062,246 @@
         "course": "WGSST236704"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "24112",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "36617",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "30381",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "30382",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "37114",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "14200",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "3.83"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "35954",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4404",
+        "Class Name": "Regulating Bodies: Global Sexual Economies",
+        "Class Number": "34470",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2282",
+        "Class Name": "Introduction to Queer Studies",
+        "Class Number": "17918",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.13"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "23368",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "35426",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "35427",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3575",
+        "Class Name": "Feminist Methodology",
+        "Class Number": "27746",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "20424",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "29088",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4404",
+        "Class Name": "Regulating Bodies: Global Sexual Economies",
+        "Class Number": "29926",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2305",
+        "Class Name": "A World of Genders and Sexualities",
+        "Class Number": "38226",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.75"
+      }
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -586,6 +1312,8 @@
     "lastName": "Jackson",
     "legacyId": 2600377,
     "numRatings": 5,
+    "summary_comment": "Professor Jackson offers engaging and relevant assignments that connect with real-world topics, making the class enjoyable. However, many students find her class extremely disorganized, particularly due to its focus on group projects in a fully online format without clear guidance or rationale. Despite some positive feedback regarding her passion for the subject matter and willingness to accommodate personal circumstances, several students criticize her lack of feedback and poor communication.",
+    "summary_comment_short": "Professor Jackson's classes are described as either highly engaging with relevant, real-world assignments or extremely disorganized and focused on vague, group-oriented tasks without clear feedback. Students report mixed experiences with her availability and responsiveness, with some finding her supportive and passionate while others found her unhelpful and confusing.",
     "Ratings": [
       {
         "index": 1,
@@ -623,7 +1351,92 @@
         "course": "WGSST2317"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "24369",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "3"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "31406",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "2.58"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "31407",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "3.45"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3575",
+        "Class Name": "Feminist Methodology",
+        "Class Number": "29667",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.57"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "36792",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "39",
+        "Rating": "4.05"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4527.01",
+        "Class Name": "Studies in Gender and Cinema",
+        "Class Number": "30502",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 1.5,
@@ -634,6 +1447,8 @@
     "lastName": "DeLong",
     "legacyId": 2755111,
     "numRatings": 2,
+    "summary_comment": "Professor DeLong is highly regarded for her friendly and accommodating teaching style, fostering a safe and inclusive classroom environment. While group work is emphasized, students find it valuable and meaningful. Although assignment instructions could sometimes be clearer, she is responsive to emails and ensures all necessary readings are provided.",
+    "summary_comment_short": "Professor DeLong is highly regarded for her friendly and accommodating teaching style, fostering a safe and engaging learning environment. While her classes involve significant group work and rely heavily on readings, she provides clear instructions and is responsive to student inquiries.",
     "Ratings": [
       {
         "index": 1,
@@ -653,33 +1468,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.5,
-    "avgRating": 3.5,
-    "department": "Women",
-    "firstName": "Robin",
-    "id": "VGVhY2hlci0yNjQzMDk0",
-    "lastName": "Cremins",
-    "legacyId": 2643094,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "Piece of advice you have to agree with them, do not disagree with them on any points of discussion. Not a tough course, but it definitely discusses some obscure topics. Would not take this course again personally.",
-        "course": "WGSST2260"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Glad to be Prof. Cremins' first rating. Took 2230 as a summer class and it didn't disappoint. As long as you read the articles and watch the films and they can tell you've put some thought into you're writing, you'll get an A. They give good feedback and give you extra things to think about without taking off points for expressing your own opinion.",
-        "course": "WGSST2230"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 1.2,
     "avgRating": 5,
     "department": "Women",
@@ -688,6 +1476,8 @@
     "lastName": "Nieto",
     "legacyId": 2432301,
     "numRatings": 14,
+    "summary_comment": "Professor Nieto is highly regarded for her exceptional teaching quality, characterized by flexibility, kindness, and a supportive environment. Students appreciate her understanding approach, frequent deadline extensions, and willingness to accommodate students' needs. Her classes are described as engaging and stress-free, focusing on reading and writing about a variety of books, with assignments that are generally easy to complete and grade.",
+    "summary_comment_short": "Professor Nieto is highly regarded for her exceptional teaching quality, characterized by a supportive and flexible approach. Students appreciate her kindness, understanding, and willingness to accommodate students' needs, resulting in a stress-free learning environment where engagement is both enjoyable and manageable.",
     "Ratings": [
       {
         "index": 1,
@@ -788,7 +1578,162 @@
         "course": "WGSST3317"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "22775",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3101",
+        "Class Name": "Food & Gender",
+        "Class Number": "33466",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "37081",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "37619",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4575",
+        "Class Name": "Women's Studies Senior Seminar",
+        "Class Number": "14221",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "28344",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3101",
+        "Class Name": "Food & Gender",
+        "Class Number": "26805",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4575",
+        "Class Name": "Women's Studies Senior Seminar",
+        "Class Number": "20445",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "29980",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.84"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3101",
+        "Class Name": "Food & Gender",
+        "Class Number": "28984",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4403",
+        "Class Name": "Gender and Leadership",
+        "Class Number": "30232",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.3,
@@ -799,6 +1744,8 @@
     "lastName": "Livingston",
     "legacyId": 1545049,
     "numRatings": 20,
+    "summary_comment": "Professor Livingston offers abundant extra credit opportunities and recommends her course for General Education credit, making it accessible with enough effort. However, the course is known for its heavy workload, including extensive readings and frequent deadlines, which can be challenging and time-consuming. Despite her passion and dedication, some students find her feedback condescending and her class organization sometimes confusing.",
+    "summary_comment_short": "Professor Livingston offers abundant extra credit opportunities and emphasizes discussion, making her courses accessible for general education requirements. However, her classes are demanding, with extensive reading and strict deadlines, and her feedback can be perceived as condescending.",
     "Ratings": [
       {
         "index": 1,
@@ -941,7 +1888,120 @@
         "course": "WGSS110"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "35249",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "35958",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "36194",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "30",
+        "Rating": "4.48"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "36195",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "30",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "30128",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.52"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "30129",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.15"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "36790",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.44"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "37093",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.63"
+      }
+    ]
   },
   {
     "avgDifficulty": 1.6,
@@ -952,6 +2012,8 @@
     "lastName": "Husain",
     "legacyId": 1284810,
     "numRatings": 9,
+    "summary_comment": "Professor Husain is highly regarded for her engaging and interesting teaching style, using pop culture references and current media to make the material relevant and discussions lively. Students find her classes enjoyable and recommend her, though some note that she could be more supportive in terms of providing study materials or assistance. Overall, her classes are described as easy and fun, with minimal required preparation beyond attending class and reading brief materials.",
+    "summary_comment_short": "Professor Husain is highly regarded for her engaging and interesting teaching style, often using pop culture references and current media to facilitate discussions. However, some students have noted that she could be less supportive in terms of providing guidance or resources, despite her enthusiasm for the subject matter.",
     "Ratings": [
       {
         "index": 1,
@@ -1018,5 +2080,133 @@
       }
     ],
     "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 2.5,
+    "department": "Women",
+    "firstName": "Kristen",
+    "id": "VGVhY2hlci0yNjEzNzQ0",
+    "lastName": "Kolenz",
+    "legacyId": 2613744,
+    "numRatings": 4,
+    "summary_comment": "Professor Kolenz is generally described as a very nice and welcoming individual, but her teaching style can be challenging. Students find her courses content-heavy and demanding, with significant writing requirements and a focus on in-class contributions. While some appreciate the flexibility and extra credit opportunities, others find the grading system and class format frustrating.",
+    "summary_comment_short": "Professor Kolenz is perceived as very flexible and nice, offering plenty of extra credit opportunities and accommodating meeting times. However, her class is described as content-heavy and challenging, with grading heavily dependent on detailed note-taking and in-class contributions, which some find difficult and unpleasant.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 1,
+        "comment": "very rude",
+        "course": "WGSST2367"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "I had Prof Kolenz for WGSST 2230. I was excited for the course, it seemed fun- but the way Prof Kolenz formatted the class sucked any joy out of what could have been a good time. Your grade comes from graded notes and what amounts to transcripts of what you contributed in class. She's nice and a good person, but the class was a pain to get through",
+        "course": "WGSST2230"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "She was very sweet and welcoming with a great relationship with the students, I loved this class. It was heavy on outside readings and viewings but i found it easy to multitask while doing them. there was a LOT of writing involved with journals, reflections, and essays, as well as a final group project. She's really lovely though and very helpful.",
+        "course": "WGSST2230"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Gives lots of opportunity for extra credit and is extremely flexible with meeting times. She is super nice but very content-heavy course and not an easy marker.",
+        "course": "WGSST2367"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "23478",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "24964",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4520",
+        "Class Name": "Women of Color and Social Activism",
+        "Class Number": "35420",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "20051",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "20052",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.52"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.02",
+        "Class Name": "U.S. Latina Writers: Text and Context",
+        "Class Number": "29438",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.71"
+      }
+    ]
   }
 ]

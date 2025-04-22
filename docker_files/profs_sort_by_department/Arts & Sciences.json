@@ -1,5 +1,282 @@
 [
   {
+    "avgDifficulty": 5,
+    "avgRating": 1.5,
+    "department": "Arts & Sciences",
+    "firstName": "Maria",
+    "id": "VGVhY2hlci0yOTYyMzY1",
+    "lastName": "Brunette",
+    "legacyId": 2962365,
+    "numRatings": 2,
+    "summary_comment": "Professor Brunette's lectures are perceived as interesting with unique insights, though her class demands significant effort and has unclear guidelines, leading to harsh grading. Many students find her to be one of the worst professors they have encountered, citing a lack of feedback, subjective and confusing grading criteria, and a complete absence of clear class guidelines.",
+    "summary_comment_short": "Professor Brunette's lectures are perceived as interesting and offer unique insights, but students find her class extremely demanding with unrealistic expectations and unclear guidelines, leading to harsh grading. Many students describe her as one of the worst professors they have encountered, citing a lack of feedback, subjective and confusing grading criteria, and a complete absence of clear class guidelines.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "I thought her lectures were fairly interesting and she definitely offered unique perspectives due to her background, but her class required a ridiculous amount of work. She also had unrealistic expectations, unclear guidelines, and graded very harshly. ",
+        "course": "HTHRHSC4590"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I honestly believe that she is the worst professor that I have ever had and will ever have at any level of education. Her class follows no guidelines what so ever so if you have chosen to take this class, you better buckle up. She does not give any feedback on any assignments. Her grading is subjective and makes no sense. Good luck if you have her.",
+        "course": "HTHRHSC4590"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 5,
+    "department": "Arts & Sciences",
+    "firstName": "Amie",
+    "id": "VGVhY2hlci0yODk2Mzcz",
+    "lastName": "Hufton",
+    "legacyId": 2896373,
+    "numRatings": 5,
+    "summary_comment": "Professor Hufton is highly regarded for her enthusiastic teaching approach, which\u6fc0\u53d1\u597d\u5947\u5fc3\u5e76\u4fc3\u8fdb\u6df1\u5ea6\u601d\u8003\u3002\u5979\u7684\u8bfe\u7a0b\u8bbe\u8ba1\u6ce8\u91cd\u8ba8\u8bba\u548c\u9879\u76ee\u5b9e\u8df5\uff0c\u5e2e\u52a9\u5b66\u751f\u62d3\u5c55\u77e5\u8bc6\u8fb9\u754c\u3002\u5b66\u751f\u4eec\u666e\u904d\u8ba4\u4e3a\u5979\u7684\u8bfe\u7a0b\u867d\u7136\u9700\u8981\u6295\u5165\u4e00\u5b9a\u65f6\u95f4\uff0c\u4f46\u5185\u5bb9\u7ec4\u7ec7\u6e05\u6670\uff0c\u4f5c\u4e1a\u91cf\u9002\u4e2d\uff0c\u5e76\u4e14\u5979\u4f1a\u6839\u636e\u5b66\u751f\u53cd\u9988\u8c03\u6574\u6559\u5b66\u5185\u5bb9\uff0c\u786e\u4fdd\u6bcf\u4f4d\u5b66\u751f\u90fd\u80fd\u83b7\u5f97\u6240\u9700\u7684\u77e5\u8bc6\u548c\u6280\u80fd\u3002",
+    "summary_comment_short": "Professor Hufton is highly regarded for her enthusiastic teaching style and effective use of in-class activities that promote critical thinking. Her classes emphasize discussion and project-based learning, and she is known for her dedication to student feedback and support.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Hufton was always excited to teach us, so that made me excited to learn from her! You'll usually work with classmates during lecture and the in-class assignments are designed to make one think in a way that they usually haven't before. My brain is bigger because of her class. ",
+        "course": "PUBHEPI-3411"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Hufton was great! 2410 was an easy online class, the work was very organized and there was a decent amount of writing it was over easy topics. There is a good amount of work, but is all easy and she gives 3 day extensions on all assignments. ",
+        "course": "PUBHEPI-3411"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Hufton truly cares about her students and I really enjoyed the opportunity to meet with her for feedback during office hours. The class consisted of discussion posts and small projects throughout the semester. I would say expect spending 2.5 hours on the class per week. Highly recommend this professor!",
+        "course": "PUBHEPI-3411"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Hufton is the best professor I've had at OSU! The reflection essay assignments will seem intimidating at first, but you get used to writing them, they genuinely facilitate learning the material, and are not graded very tough. She really values student feedback and will dedicate time to what you really need and want to learn. ",
+        "course": "PUBHEPI5412"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Great prof! No exams. Class is mandatory to receive points. One \"press release\" assignment and one research paper (5-6 pages), and discussion boards. Have to watch a weekly lecture before coming to class (ours was just on Mondays) and then we have an in-class assignment during class as well that is easy but expands knowledge on the topic. Def take!",
+        "course": "PUBHEPI-3411"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "PUBHEPI",
+        "Catalog": "2410",
+        "Class Name": "Epidemiology in Public Health",
+        "Class Number": "4072",
+        "Term": "SU 24",
+        "College": "Public Health",
+        "Department": "College of Public Health",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "39",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "PUBHEPI",
+        "Catalog": "2410",
+        "Class Name": "Epidemiology in Public Health",
+        "Class Number": "4055",
+        "Term": "SP 23",
+        "College": "Public Health",
+        "Department": "College of Public Health",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "73",
+        "Rating": "4.42"
+      },
+      {
+        "Subject": "PUBHEPI",
+        "Catalog": "5412",
+        "Class Name": "Global Epidemiology of Infectious Disease",
+        "Class Number": "3511",
+        "Term": "SP 23",
+        "College": "Public Health",
+        "Department": "College of Public Health",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBHEPI",
+        "Catalog": "3411",
+        "Class Name": "Public Health Field Investigation",
+        "Class Number": "36370",
+        "Term": "AU 23",
+        "College": "Public Health",
+        "Department": "College of Public Health",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "40",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "PUBHEPI",
+        "Catalog": "2410",
+        "Class Name": "Epidemiology in Public Health",
+        "Class Number": "4179",
+        "Term": "SP 24",
+        "College": "Public Health",
+        "Department": "College of Public Health",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "71",
+        "Rating": "4.32"
+      },
+      {
+        "Subject": "PUBHEPI",
+        "Catalog": "5412",
+        "Class Name": "Global Epidemiology of Infectious Disease",
+        "Class Number": "3633",
+        "Term": "SP 24",
+        "College": "Public Health",
+        "Department": "College of Public Health",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "49",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "PUBHLTH",
+        "Catalog": "2010",
+        "Class Name": "Introduction to Global Public Health",
+        "Class Number": "3561",
+        "Term": "AU 22",
+        "College": "Public Health",
+        "Department": "College of Public Health",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "61",
+        "Rating": "4.12"
+      },
+      {
+        "Subject": "PUBHLTH",
+        "Catalog": "2010",
+        "Class Name": "Introduction to Global Public Health",
+        "Class Number": "37896",
+        "Term": "AU 22",
+        "College": "Public Health",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "L",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "PUBHLTH",
+        "Catalog": "2010",
+        "Class Name": "Critical Issues in Global Public Health",
+        "Class Number": "3514",
+        "Term": "SP 23",
+        "College": "Public Health",
+        "Department": "College of Public Health",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "66",
+        "Rating": "4.05"
+      },
+      {
+        "Subject": "PUBHLTH",
+        "Catalog": "2010",
+        "Class Name": "Critical Issues in Global Public Health",
+        "Class Number": "35632",
+        "Term": "SP 23",
+        "College": "Public Health",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "L",
+        "Responses": "4",
+        "Rating": "2.75"
+      },
+      {
+        "Subject": "PUBHLTH",
+        "Catalog": "2010",
+        "Class Name": "Critical Issues in Global Public Health",
+        "Class Number": "23942",
+        "Term": "SU 23",
+        "College": "Public Health",
+        "Department": "College of Public Health",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "16",
+        "Rating": "4.38"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 4.3,
+    "avgRating": 1,
+    "department": "Arts & Sciences",
+    "firstName": "Danny",
+    "id": "VGVhY2hlci0yNjgwNjQw",
+    "lastName": "Dotson",
+    "legacyId": 2680640,
+    "numRatings": 4,
+    "summary_comment": "Professor Dotson's teaching quality is widely regarded as poor, with students describing the class as overly burdensome and unfairly graded. The workload is significantly higher than expected for a two-credit course, and many advise avoiding it entirely.",
+    "summary_comment_short": "Professor Dotson's teaching quality is consistently rated poorly, with students describing the class as unbearably tedious, overly burdensome, and not worth the credit hours. Students strongly advise avoiding his classes at all costs due to unfair grading and poor instructional methods.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Horrible class.  If you have the option, don't take it.  ",
+        "course": "ARTSSCI3142"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "if you dont have to take this class for credit, DO NOT TAKE IT. unbearably tedious work he is no help and his instructions are terrible. his grading is very unfair especially with how he sets up the course. i could go on for days about him and this course overall but i will just end it with AVOID AT ALL COSTS OR ANY OTHER CLASS HE MIGHT TEACH.  ",
+        "course": "ARTSSCI3142"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Simply way too much work for a 2-credit hour course. I can't even believe it's allowed to be listed as 2 credit hours when I'm taking 5-credit hours courses that are literally not even half the work that this class demands. While the content is rather useful to learn, I don't believe this class is worth the burden. There are much better options.",
+        "course": "ARTSSCI3142"
+      },
+      {
+        "index": 4,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Let me be straight forward here, Danny is a nice guy, probably great guy outside of the classroom. My bottom line is that this guy is giving a work load larger than my other four classes combined. When you sit down to work, be ready to spend more than 6 hours doing it... He had no rating so I had to do it, I do not recommend this class in any way.",
+        "course": "ARTSSCI3142"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 2.7,
     "avgRating": 3.5,
     "department": "Arts & Sciences",
@@ -8,6 +285,8 @@
     "lastName": "Brogan-Habash",
     "legacyId": 2440529,
     "numRatings": 6,
+    "summary_comment": "Professor Brogan-Habash is highly regarded for her caring nature and genuine interest in her students' learning. While her lectures can sometimes feel repetitive or slow-paced, particularly for those who have read the assigned materials, her tests are generally fair and straightforward, especially with the use of provided study guides. Students appreciate her accessibility and passion for the subject matter, though some find the class structure lacking and the content more suited for medical majors.",
+    "summary_comment_short": "Professor Brogan-Habash is highly regarded for her caring nature and genuine interest in her students' learning, though her lectures can sometimes feel repetitive and lengthy. Despite this, her tests are generally fair and easy, and she is approachable and easy to reach outside of class.",
     "Ratings": [
       {
         "index": 1,
@@ -52,7 +331,36 @@
         "course": "HRS4300"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "2530",
+        "Class Name": "The Evolving Art and Science of Medicine",
+        "Class Number": "4964",
+        "Term": "AU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "53",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "2530",
+        "Class Name": "The Evolving Art and Science of Medicine",
+        "Class Number": "5276",
+        "Term": "AU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "49",
+        "Rating": "4.78"
+      }
+    ]
   },
   {
     "avgDifficulty": 3,
@@ -63,6 +371,8 @@
     "lastName": "Nguyen",
     "legacyId": 2526021,
     "numRatings": 1,
+    "summary_comment": "Professor Nguyen delivers high-quality instruction but struggles with classroom dynamics, often coming across as somewhat awkward when attempting humor. His teaching content is robust and effective, though his approach to engagement could benefit from more polished delivery.",
+    "summary_comment_short": "Professor Nguyen delivers high-quality instruction but struggles with classroom dynamics, often coming across as awkward when attempting humor. His teaching content is solid, though his approach to engagement could be more polished.",
     "Ratings": [
       {
         "index": 1,
@@ -72,41 +382,120 @@
         "course": "MATH3345"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 2.3,
-    "department": "Arts & Sciences",
-    "firstName": "David",
-    "id": "VGVhY2hlci0yNDA3MzAz",
-    "lastName": "Filipi",
-    "legacyId": 2407303,
-    "numRatings": 3,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Very knowledgeable and engaged with the material throughout the class. Knows a lot about the class and is excited to be teaching. Gives some pop quizzes, but as long as you're present in lectures and not asleep, you can ace all of them with ease.",
-        "course": "ACCAD3350"
+        "Subject": "MATH",
+        "Catalog": "4530",
+        "Class Name": "Probability",
+        "Class Number": "16427",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Mathematics",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "17",
+        "Rating": "3.53"
       },
       {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 2,
-        "comment": "Prof. Filipi is a passionate and knowledgeable professor, a true film/animation enthusiast, but not a great instructor. Lectures are more viewings with idle background info than a meaningful dive into the history of animation. The content is not bad, but I did not find it very enriching. Pop quizzes are also a killer, heavy penalty if remotely late",
-        "course": "ACCAD3350"
+        "Subject": "MATH",
+        "Catalog": "4530",
+        "Class Name": "Probability",
+        "Class Number": "16428",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Mathematics",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "3.15"
       },
       {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "I noticed David didn't have a Rate My Professor page, so I made it because people need to know to not take a class with him. He drones on and on in lecture but you better take notes, because you're not gonna find that information anywhere else. I'm in class right now and had to make this because I'm so sick of his &quot;teaching.&quot;",
-        "course": "ACCAD3350"
+        "Subject": "MATH",
+        "Catalog": "6502",
+        "Class Name": "Combinatorics and Graph Theory II",
+        "Class Number": "26941",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Mathematics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "MATH",
+        "Catalog": "6251",
+        "Class Name": "Theory of Probability I",
+        "Class Number": "22058",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Mathematics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "MATH",
+        "Catalog": "4530",
+        "Class Name": "Probability",
+        "Class Number": "21112",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Mathematics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.26"
+      },
+      {
+        "Subject": "MATH",
+        "Catalog": "3345",
+        "Class Name": "Foundations of Higher Mathematics",
+        "Class Number": "18334",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Mathematics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.3"
+      },
+      {
+        "Subject": "MATH",
+        "Catalog": "3345",
+        "Class Name": "Foundations of Higher Mathematics",
+        "Class Number": "26422",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Mathematics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "MATH",
+        "Catalog": "6251",
+        "Class Name": "Theory of Probability I",
+        "Class Number": "37064",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Mathematics",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3"
       }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 3.6,
@@ -117,6 +506,8 @@
     "lastName": "Berkowitz",
     "legacyId": 2521437,
     "numRatings": 5,
+    "summary_comment": "Professor Berkowitz, often referred to as Marla, is a highly respected instructor known for her dedication and clear expectations. While some students describe her classes as challenging and initially overwhelming, many praise her for her care, thorough preparation, and effective communication of course requirements. Overall, her teaching style is appreciated for its depth and support, though it can be demanding.",
+    "summary_comment_short": "Professor Berkowitz is highly regarded by some students for her thorough preparation and clear communication of expectations, making her an effective instructor who immerses students in Deaf culture. However, other students find her classes disorganized, overly strict, and difficult due to her lack of clarity in communicating assignment expectations and grading criteria.",
     "Ratings": [
       {
         "index": 1,
@@ -154,7 +545,344 @@
         "course": "ASL1101"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "13082",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "13083",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.21"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "3350",
+        "Class Name": "American Deaf Arts and Literature",
+        "Class Number": "24789",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "16795",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "16796",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "3350",
+        "Class Name": "American Deaf Arts and Literature",
+        "Class Number": "34454",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "N/A",
+        "Class Name": "Intersection of American Sign Language, Deaf Culture, and the Deaf Community",
+        "Class Number": "24335",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.14"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1101",
+        "Class Name": "Elementary American Sign Language I",
+        "Class Number": "11095",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "3350",
+        "Class Name": "American Deaf Arts and Literature",
+        "Class Number": "22811",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "10923",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "10924",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.38"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "3350",
+        "Class Name": "American Deaf Arts and Literature",
+        "Class Number": "34396",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "2.92"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "15232",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "15233",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "3350",
+        "Class Name": "American Deaf Arts and Literature",
+        "Class Number": "26116",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "3.85"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "17480",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "3350",
+        "Class Name": "American Deaf Arts and Literature",
+        "Class Number": "29901",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "3.73"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "4189S",
+        "Class Name": "Intersection of American Sign Language, Deaf Culture, and the Deaf Community",
+        "Class Number": "35410",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "3.69"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "18154",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.14"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "18155",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "3.63"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "3350",
+        "Class Name": "American Deaf Arts and Literature",
+        "Class Number": "28405",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "1103",
+        "Class Name": "Intermediate American Sign Language",
+        "Class Number": "17930",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "3350",
+        "Class Name": "American Deaf Arts and Literature",
+        "Class Number": "29142",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.3"
+      },
+      {
+        "Subject": "ASL",
+        "Catalog": "4189S",
+        "Class Name": "Intersection of American Sign Language, Deaf Culture, and the Deaf Community",
+        "Class Number": "30353",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Foreign Language Center",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "3.43"
+      }
+    ]
   },
   {
     "avgDifficulty": 1,
@@ -165,6 +893,8 @@
     "lastName": "Wang",
     "legacyId": 2978934,
     "numRatings": 1,
+    "summary_comment": "Professor Wang is known for his tough grading and often receives criticism for his boring and difficult-to-follow lectures, which lack visual aids like slides. Students find his teaching style challenging and believe it does not effectively convey the subject matter, in contrast to other instructors like Steven Brown, who they find more engaging and easier to understand.",
+    "summary_comment_short": "Professor Wang is known for his tough grading standards and often receives criticism for his boring and difficult-to-follow lectures, which lack visual aids like slides. Students find his teaching style ineffective for learning, comparing it unfavorably to other instructors like Steven Brown, who they believe make philosophy more accessible and understandable.",
     "Ratings": [
       {
         "index": 1,
@@ -185,6 +915,8 @@
     "lastName": "Holmes",
     "legacyId": 2691282,
     "numRatings": 3,
+    "summary_comment": "Professor Miranda Holmes is highly regarded for her exceptional teaching quality, characterized by her sweet and charismatic demeanor, supportive feedback, and engaging class structure. She excels in fostering a risk-taking environment and provides personalized attention to each student, making her classes both exciting and enriching.",
+    "summary_comment_short": "Professor Holmes, specifically Miranda, is highly regarded for her sweet and charismatic demeanor, effective teaching methods, and supportive approach. She is known for providing clear explanations, encouraging risk-taking, and offering personalized feedback, making her classes engaging and enjoyable.",
     "Ratings": [
       {
         "index": 1,
@@ -208,123 +940,92 @@
         "course": "ART2100"
       }
     ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 5,
-    "avgRating": 1.5,
-    "department": "Arts & Sciences",
-    "firstName": "Maria",
-    "id": "VGVhY2hlci0yOTYyMzY1",
-    "lastName": "Brunette",
-    "legacyId": 2962365,
-    "numRatings": 2,
-    "Ratings": [
+    "SEI": [
       {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "I thought her lectures were fairly interesting and she definitely offered unique perspectives due to her background, but her class required a ridiculous amount of work. She also had unrealistic expectations, unclear guidelines, and graded very harshly. ",
-        "course": "HTHRHSC4590"
+        "Subject": "ART",
+        "Catalog": "2100",
+        "Class Name": "Beginning Drawing",
+        "Class Number": "14764",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.88"
       },
       {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "I honestly believe that she is the worst professor that I have ever had and will ever have at any level of education. Her class follows no guidelines what so ever so if you have chosen to take this class, you better buckle up. She does not give any feedback on any assignments. Her grading is subjective and makes no sense. Good luck if you have her.",
-        "course": "HTHRHSC4590"
+        "Subject": "ART",
+        "Catalog": "2100",
+        "Class Name": "Beginning Drawing",
+        "Class Number": "20547",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "3024",
+        "Class Name": "Painting I",
+        "Class Number": "14489",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "3004",
+        "Class Name": "Life Studio Drawing I",
+        "Class Number": "17723",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "3024",
+        "Class Name": "Painting I",
+        "Class Number": "31295",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "ART",
+        "Catalog": "3054",
+        "Class Name": "Painting II",
+        "Class Number": "17959",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Art",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.22"
       }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 5,
-    "department": "Arts & Sciences",
-    "firstName": "Amie",
-    "id": "VGVhY2hlci0yODk2Mzcz",
-    "lastName": "Hufton",
-    "legacyId": 2896373,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Hufton was always excited to teach us, so that made me excited to learn from her! You'll usually work with classmates during lecture and the in-class assignments are designed to make one think in a way that they usually haven't before. My brain is bigger because of her class. ",
-        "course": "PUBHEPI-3411"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Professor Hufton was great! 2410 was an easy online class, the work was very organized and there was a decent amount of writing it was over easy topics. There is a good amount of work, but is all easy and she gives 3 day extensions on all assignments. ",
-        "course": "PUBHEPI-3411"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Hufton truly cares about her students and I really enjoyed the opportunity to meet with her for feedback during office hours. The class consisted of discussion posts and small projects throughout the semester. I would say expect spending 2.5 hours on the class per week. Highly recommend this professor!",
-        "course": "PUBHEPI-3411"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Hufton is the best professor I've had at OSU! The reflection essay assignments will seem intimidating at first, but you get used to writing them, they genuinely facilitate learning the material, and are not graded very tough. She really values student feedback and will dedicate time to what you really need and want to learn. ",
-        "course": "PUBHEPI5412"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Great prof! No exams. Class is mandatory to receive points. One \"press release\" assignment and one research paper (5-6 pages), and discussion boards. Have to watch a weekly lecture before coming to class (ours was just on Mondays) and then we have an in-class assignment during class as well that is easy but expands knowledge on the topic. Def take!",
-        "course": "PUBHEPI-3411"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.3,
-    "avgRating": 1,
-    "department": "Arts & Sciences",
-    "firstName": "Danny",
-    "id": "VGVhY2hlci0yNjgwNjQw",
-    "lastName": "Dotson",
-    "legacyId": 2680640,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Horrible class.  If you have the option, don't take it.  ",
-        "course": "ARTSSCI3142"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "if you dont have to take this class for credit, DO NOT TAKE IT. unbearably tedious work he is no help and his instructions are terrible. his grading is very unfair especially with how he sets up the course. i could go on for days about him and this course overall but i will just end it with AVOID AT ALL COSTS OR ANY OTHER CLASS HE MIGHT TEACH.  ",
-        "course": "ARTSSCI3142"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Simply way too much work for a 2-credit hour course. I can't even believe it's allowed to be listed as 2 credit hours when I'm taking 5-credit hours courses that are literally not even half the work that this class demands. While the content is rather useful to learn, I don't believe this class is worth the burden. There are much better options.",
-        "course": "ARTSSCI3142"
-      },
-      {
-        "index": 4,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Let me be straight forward here, Danny is a nice guy, probably great guy outside of the classroom. My bottom line is that this guy is giving a work load larger than my other four classes combined. When you sit down to work, be ready to spend more than 6 hours doing it... He had no rating so I had to do it, I do not recommend this class in any way.",
-        "course": "ARTSSCI3142"
-      }
-    ],
-    "SEI": []
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -335,6 +1036,8 @@
     "lastName": "Pigott",
     "legacyId": 1813715,
     "numRatings": 2,
+    "summary_comment": "Professor Pigott's teaching approach is inconsistent, with easy labs but challenging exams that can be overly nitpicky, according to students. Lectures can be rushed and difficult to follow, and the professor's demeanor can be unprofessional and unpredictable, leading to frustration among students.",
+    "summary_comment_short": "Professor Pigott's teaching style is inconsistent, with some students finding the labs easy but struggling with the exams, which can be unexpectedly challenging. His lectures sometimes lack organization, and he can become unprofessional and angry over minor issues, affecting the learning environment.",
     "Ratings": [
       {
         "index": 1,
@@ -362,6 +1065,8 @@
     "lastName": "Levas",
     "legacyId": 1835294,
     "numRatings": 6,
+    "summary_comment": "Professor Levas is highly regarded for making his classes enjoyable and engaging, with a great sense of humor that keeps lectures interesting. Students appreciate his commitment to helping them succeed and find his approachable and caring demeanor genuinely motivating. His tests become progressively more challenging, but he provides ample support through study guides and review sessions. Overall, he is seen as an excellent instructor who genuinely wants his students to pass and excel.",
+    "summary_comment_short": "Professor Levas is highly regarded for making his classes enjoyable and engaging, with a great sense of humor that keeps students interested. He is committed to student success, provides valuable study resources, and genuinely cares about his students' understanding and performance.",
     "Ratings": [
       {
         "index": 1,
@@ -417,6 +1122,8 @@
     "lastName": "Kim",
     "legacyId": 1679067,
     "numRatings": 2,
+    "summary_comment": "Professor Kim is highly regarded for her passion and enthusiasm in teaching art history, though her strong Korean accent can make her difficult to understand at times. Despite this, she is very generous with her grades and students who attend classes regularly and take good notes tend to perform well.",
+    "summary_comment_short": "Professor Kim is highly regarded for her passion and dedication to teaching art history, though her strong Korean accent can make her difficult to understand at times. Despite this, she is generous with her grading and encourages students to attend classes and take notes to succeed.",
     "Ratings": [
       {
         "index": 1,
@@ -431,6 +1138,42 @@
         "difficulty": 2,
         "comment": "She is very enthusiastic about art history, she is straight out of Korea, so she is a little hard to understand at times. She tries very hard, and is more than generous with grading. Go to class and take notes, and you will get an A.",
         "course": "HISTA213"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 2.3,
+    "department": "Arts & Sciences",
+    "firstName": "David",
+    "id": "VGVhY2hlci0yNDA3MzAz",
+    "lastName": "Filipi",
+    "legacyId": 2407303,
+    "numRatings": 3,
+    "summary_comment": "Professor Filipi is highly knowledgeable and enthusiastic about the subject matter, which he effectively conveys through lectures and pop quizzes. However, his teaching style is largely focused on presenting content rather than deeply analyzing or discussing it, leading to less engaging and potentially less enriching learning experiences for students.",
+    "summary_comment_short": "Professor Filipi is highly knowledgeable and enthusiastic about the subject matter, delivering pop quizzes that are manageable for students who attend lectures regularly. However, his lectures often consist of passive viewings with limited analysis, making the content less engaging and enriching for students.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Very knowledgeable and engaged with the material throughout the class. Knows a lot about the class and is excited to be teaching. Gives some pop quizzes, but as long as you're present in lectures and not asleep, you can ace all of them with ease.",
+        "course": "ACCAD3350"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 2,
+        "comment": "Prof. Filipi is a passionate and knowledgeable professor, a true film/animation enthusiast, but not a great instructor. Lectures are more viewings with idle background info than a meaningful dive into the history of animation. The content is not bad, but I did not find it very enriching. Pop quizzes are also a killer, heavy penalty if remotely late",
+        "course": "ACCAD3350"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "I noticed David didn't have a Rate My Professor page, so I made it because people need to know to not take a class with him. He drones on and on in lecture but you better take notes, because you're not gonna find that information anywhere else. I'm in class right now and had to make this because I'm so sick of his &quot;teaching.&quot;",
+        "course": "ACCAD3350"
       }
     ],
     "SEI": []

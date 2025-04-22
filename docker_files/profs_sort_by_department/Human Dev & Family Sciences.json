@@ -8,6 +8,8 @@
     "lastName": "Whiting",
     "legacyId": 2682152,
     "numRatings": 17,
+    "summary_comment": "Professor Whiting is highly regarded for his exceptional teaching quality, earning consistent praise for his engaging and supportive approach. Students describe his classes as enjoyable, discussion-based, and inclusive, with minimal testing and a focus on weekly papers that are manageable in length. His genuine care for students' well-being and his ability to connect deeply with them are widely noted, making his courses stand out as some of the most positive academic experiences for his students.",
+    "summary_comment_short": "Professor Whiting is highly regarded for his exceptional teaching quality, fostering a close and engaging classroom environment where discussions are frequent and enjoyable. Students consistently praise his care for their well-being, his passion for the subject matter, and his ability to make classes both informative and entertaining.",
     "Ratings": [
       {
         "index": 1,
@@ -129,7 +131,22 @@
         "course": "HDFS2200"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "10041",
+        "Term": "SU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "29",
+        "Rating": "4.76"
+      }
+    ]
   },
   {
     "avgDifficulty": 1.5,
@@ -140,6 +157,8 @@
     "lastName": "Inboden",
     "legacyId": 2786924,
     "numRatings": 4,
+    "summary_comment": "Professor Inboden is highly regarded for her friendly and helpful demeanor, offering generous extra credit opportunities and fair grading practices. However, some students have noted issues with communication and class management, such as delayed email responses and frequent cancellations. Despite these challenges, many still recommend the course due to its engaging content and the professor's supportive approach.",
+    "summary_comment_short": "Professor Inboden is highly regarded for her friendly demeanor and generous extra credit opportunities, making the course engaging and manageable despite some logistical issues with grading and communication. Students find her caring and supportive, though they note that her teaching assistant handles much of the grading, and there have been occasional cancellations and delays in feedback.",
     "Ratings": [
       {
         "index": 1,
@@ -181,6 +200,8 @@
     "lastName": "Mallory",
     "legacyId": 3001048,
     "numRatings": 2,
+    "summary_comment": "Professor Mallory excels in engaging lectures that foster student interest and understanding. However, the class structure, particularly the mandatory weekly group discussions, can be demanding, though makeups are allowed. Some students found the course relatively easy, and noted that while group discussion summaries were required, they did not always receive feedback.",
+    "summary_comment_short": "Professor Mallory excels in engaging lectures that foster student understanding, though his class requires consistent attendance for weekly group discussions with makeup options available. However, some students found the course structure slightly lacking due to it being his first time teaching the course.",
     "Ratings": [
       {
         "index": 1,
@@ -197,7 +218,106 @@
         "course": "HDFS3440"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "HDFS",
+        "Catalog": "5440",
+        "Class Name": "Human Sexuality in Context",
+        "Class Number": "12937",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "5340",
+        "Class Name": "Intimate Relationships",
+        "Class Number": "6753",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "5340",
+        "Class Name": "Intimate Relationships",
+        "Class Number": "32187",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "46",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "8820",
+        "Class Name": "Theoretical Perspectives on the Family",
+        "Class Number": "33732",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "5340",
+        "Class Name": "Intimate Relationships",
+        "Class Number": "13606",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "36",
+        "Rating": "4.81"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "8820",
+        "Class Name": "Theoretical Perspectives on the Family",
+        "Class Number": "35220",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "3440",
+        "Class Name": "Human Sexuality and Intersectionality Across the Lifespan",
+        "Class Number": "13417",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "31",
+        "Rating": "4.81"
+      }
+    ]
   },
   {
     "avgDifficulty": 1.8,
@@ -208,6 +328,8 @@
     "lastName": "Wong",
     "legacyId": 2063822,
     "numRatings": 24,
+    "summary_comment": "Professor Wong is highly regarded for her kindness and passion for teaching, though her classes are known to be rigorous and non-lenient when it comes to performance. Students find her lectures engaging despite their length, and appreciate the numerous extra credit opportunities available. Her classes are generally considered easy and interesting, with minimal attendance requirements beyond the occasional in-class assignments.",
+    "summary_comment_short": "Professor Wong is highly regarded for her kindness and passion for teaching, though her classes are noted to be rigorous and non-lenient when it comes to performance and attendance. Her lectures are engaging and the class is described as both easy and interesting, with ample opportunities for extra credit.",
     "Ratings": [
       {
         "index": 1,
@@ -378,6 +500,203 @@
         "course": "HDFS3193"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "28009",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "34",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "29323",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "31",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "13790",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "34",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "6782",
+        "Class Name": "Research Methods",
+        "Class Number": "14296",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "6733",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.96"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "8047",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "5"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "30580",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "5"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "33021",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "35",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "32168",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "33363",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "12921",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.96"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "14524",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "13363",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "47",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "2400",
+        "Class Name": "Life Span Human Development",
+        "Class Number": "14901",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "25",
+        "Rating": "4.84"
+      }
+    ]
   }
 ]

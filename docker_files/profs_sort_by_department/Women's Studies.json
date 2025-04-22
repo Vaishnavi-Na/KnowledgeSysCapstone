@@ -8,6 +8,8 @@
     "lastName": "Jesser",
     "legacyId": 801903,
     "numRatings": 29,
+    "summary_comment": "Professor Jesser is known for her dedication to student learning, providing detailed feedback and assigning interesting material, although her lectures can be dry. Her courses require significant reading and multiple papers, and while some students appreciate her grading approach, others find the workload overwhelming and her teaching style sometimes monotonous or confusing. Overall, her commitment to the subject matter is evident, but the teaching method and workload vary widely among students.",
+    "summary_comment_short": "Professor Jesser is highly regarded for her dedication to her students and her passion for the subject matter, though her teaching style can be dry at times. Her courses require significant effort and reading, with a focus on group discussions and detailed written assignments, which some find challenging but rewarding.",
     "Ratings": [
       {
         "index": 1,
@@ -224,6 +226,8 @@
     "lastName": "Suchland",
     "legacyId": 1266997,
     "numRatings": 7,
+    "summary_comment": "Professor Suchland is highly regarded for her supportive and engaging teaching style, often checking in on students' well-being and encouraging them to complete their work. She is described as easy-going, informative, and understanding, though her classes require substantial reading and can be challenging due to the volume of material covered.",
+    "summary_comment_short": "Professor Suchland is highly regarded for her supportive and engaging teaching style, often checking in on students' well-being and encouraging them to complete their work. However, her classes are known for requiring a significant amount of reading and challenging assignments, which some find overwhelming despite her willingness to offer extensions and assistance.",
     "Ratings": [
       {
         "index": 1,
@@ -275,7 +279,106 @@
         "course": "WS505"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "RUSSIAN",
+        "Catalog": "3350",
+        "Class Name": "Russian Culture and Politics",
+        "Class Number": "34331",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Slavic/East European Eurasian",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "RUSSIAN",
+        "Catalog": "2335.99",
+        "Class Name": "Magnificence, Mayhem, and Mafia: Russian Culture",
+        "Class Number": "24698",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Slavic/East European Eurasian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "RUSSIAN",
+        "Catalog": "2335.99",
+        "Class Name": "Magnificence, Mayhem, and Mafia: Russian Culture",
+        "Class Number": "29878",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Slavic/East European Eurasian",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.66"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3575",
+        "Class Name": "Feminist Methodology",
+        "Class Number": "34719",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "5450",
+        "Class Name": "Global Human Trafficking: Realities and Representations",
+        "Class Number": "36582",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "7701",
+        "Class Name": "Feminist Inquiry II",
+        "Class Number": "22368",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "7701",
+        "Class Name": "Feminist Inquiry II",
+        "Class Number": "28055",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.56"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.3,
@@ -286,6 +389,8 @@
     "lastName": "Bernhagen",
     "legacyId": 1101130,
     "numRatings": 6,
+    "summary_comment": "Professor Bernhagen is highly regarded for her exceptional teaching skills and strong connection with students, making her classes engaging and enjoyable. Students appreciate her fairness, willingness to help, and ability to clearly articulate complex concepts. Her approachable and friendly demeanor, combined with her expertise, contributes to a supportive learning environment where students feel encouraged to ask questions and participate actively.",
+    "summary_comment_short": "Professor Bernhagen is highly regarded for her exceptional teaching skills and ability to connect with students, making her classes both enjoyable and educational. Students consistently praise her fairness, willingness to help, and engaging teaching style, which fosters a supportive and friendly learning environment.",
     "Ratings": [
       {
         "index": 1,
@@ -333,787 +438,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Women's Studies",
-    "firstName": "Katie",
-    "id": "VGVhY2hlci0yMzQ5NTAy",
-    "lastName": "Swindler",
-    "legacyId": 2349502,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Katie is probably the best teacher I've had so far here. She really cares about what she's teaching and she wants her students to be successful. Because WGSS is an ever-changing subject, she makes everything discussion based and she can answer literally any question you have. I was skeptical to take this class, but she made me love it.",
-        "course": "WGSST1110"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.2,
-    "avgRating": 4.8,
-    "department": "Women's Studies",
-    "firstName": "Rachel",
-    "id": "VGVhY2hlci0xNTAzMzkz",
-    "lastName": "Stonebrook",
-    "legacyId": 1503393,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She was amazing! Even as an online class, I felt like she really tried to get to know us. I learned a lot. There was a lot of reading each week and then everyone would participate in an online discussion. As long as you gave your responses before the due date, you would get 100%. She was an easy grader for the midterm paper and final paper.",
-        "course": "WGSST1110"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Professor Stonebrook made the class very interactive. Her teaching style was great and she is very considerate to students. Even though the class says \"women studies\" she broke the shyness in class by her great teaching skills. I highly recommend taking her class, especially for men. This class will make you learn great things!",
-        "course": "WGSS2350"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Rachel was by far the best instructor I've encountered in my 4 years.  She is extremely passionate about her work and really cares about sparking the students' minds. She's the very reason I'm so interested in many of the topics that are now dear to me. She's very open about her personal life and makes great connections to outside of the class.",
-        "course": "WGSS11002367"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Very helpful and passionate about the class. She has a fun personality and provides a good foundation of basic concerns of Women's Studies.",
-        "course": "WGSST1110"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.5,
-    "avgRating": 5,
-    "department": "Women's Studies",
-    "firstName": "Lauren",
-    "id": "VGVhY2hlci0xODcyMzUz",
-    "lastName": "Strand",
-    "legacyId": 1872353,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Compassionate and helpful. Amazing person overall and a great prof.",
-        "course": "WGSS2230"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great instructor! Lauren is very passionate about the subject & it shows in her teaching. I learned a great deal and enjoyed attending class every day!",
-        "course": "WGSS2230"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.7,
-    "avgRating": 2.5,
-    "department": "Women's Studies",
-    "firstName": "Wendy",
-    "id": "VGVhY2hlci05Mjc1NDk=",
-    "lastName": "Smooth",
-    "legacyId": 927549,
-    "numRatings": 20,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "Professor Smooth is extremely disorganized. While it is evident that she is knowledgeable and enthusiastic about course content, she does not communicate clearly with students. She made this course very confusing.",
-        "course": "WGSST3575"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "I took this class because I needed it for a GE and it was all that was open, had I known more about it I would have just taken less credits. Professor Smooth had her way or the high way, if you disagreed with her opinion then you were wrong. Her lectures were long and had nothing to do with what we were actually learning.",
-        "course": "WGSST1110"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Dr. Smooth was a great lecturer and is really passionate about Women's Gender Studies but oftentimes she would just lecture off tangent on things that we (the class) weren't sure of the relevance to the test. If you are passionate about Women's Studies this class will be easy but attendance is mandatory and the TAs are tough paper graders.",
-        "course": "WGSST1110"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Dr. Smooth is awesome! She is such a positive beginning to my mornings and her lectures are great! The TAs on the other hand...",
-        "course": "WGS110"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 5,
-        "comment": "While Smooth is a huge part of Ohio States WGGS program and is super intelligent, lectures stink. I can only recall a handful of times she wrote on the board. The readings are so extensive but you have to read them to actually understand lecture. brownie points: print the material and highlight she loves that! material is great; she ruins the fun",
-        "course": "4403"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "She's very unprepared and the whole class is just her lecturing and talking about all the reading you have to do somehow. Her expectations are wildly too high. She never responds to emails. She takes this class too seriously. I would NEVER recommend anyone take this class. While the material is interesting, she ruins it.",
-        "course": "4403"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "women studies 110 isn't an easy A but it's def very possible. Smooth was pretty good, but I loved my TA, Jackie. She made the class so much more interesting because of discussion during recitation. I didn't expect to fall in love with this class but I did, it's one of those classes that have the potential to impact you for the rest of your life",
-        "course": "WGSST110"
-      },
-      {
-        "index": 8,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "THIS CLASS WAS SOOOOOOOOO BORING TO ME! She seem happy to teach us but we never really got through anything because spent WAY too much time talking on and on and on and on and on about one topic. I did not learn nothing from this class. Also her &quot;helpers&quot; was NOT very &quot;helpful&quot; at ALLLLL. Overall I would not recommend any one to take this class!!!",
-        "course": "WGSST110"
-      },
-      {
-        "index": 9,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Too much work for a 100 level class! You have to write 5 papers, go to outside events, and tons of reading! However, the class material is pretty interesting and eye-opening.",
-        "course": "WOSTD110"
-      },
-      {
-        "index": 10,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "I loved this class. I looked forward to it everyday I had it. Although you don't get lots of one on one time with Dr. Smooth she has such a passion that it is very enjoyable.",
-        "course": "WGSST110"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr. Smooth  really made me think. She is not easy, there's a lot of reading, but it is worth it. She made me think about so many things. I took the class last year and I am still thinking about it. She really made me get it that women's progress is ongoing and only gets better if we actually THINK about changing it. This class rocked!",
-        "course": "WMST110"
-      },
-      {
-        "index": 12,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "The lectures were very interesting and always well prepared.She tried to have everyone participate in class! Too bad she never talk about the reading in class. The TA makes the class. I had a bad one, Meghan Kough who only cared about applying for her PhD program. The TA makes the meat out of the class, all the fun debates! Overall, good class!",
-        "course": "WMSTD110"
-      },
-      {
-        "index": 13,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Very enthusiastic and passionate. I found the mandatory attendance annoying. But overall lessons were okay. 5 writing assignments a must. Midterms & Finals were not comprehensive. Always go for the pre-exam review sessions. Good class if you are interested in Women Studies or Gender studies.",
-        "course": "WMSTD110"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Easy class...lots of work for a 110 course, though.  Dr. Smooth is pretty funny and has entertaining lectures, she also enjoys pop quizzes. A ton of reading and 5 mandatory papers. Good class, so long as you have an interest in womens studies",
-        "course": "WOMST110"
-      },
-      {
-        "index": 15,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Lectures were very long and did not always stay on point.It helps to have a good TA because I found that my notes from lecture weren't all that helpful on the midterm.",
-        "course": "WOMST110"
-      },
-      {
-        "index": 16,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "I had a horrible experience in this class. It was uncomfortable to speak in class and there was too much work for a 100 level class. She ignored any emails sent to her and so was not helpful at all. She also passed out an &quot;Etiquette Sheet&quot; saying we were not welcome to visit her in her office, and that we shouldn't ask questions about the tests.",
-        "course": "WS110"
-      },
-      {
-        "index": 17,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Dr. Smooth is an excellent and very professional instructor.  She knows her material very well. She backs up her statements with facts and interesting anecdotes.  She requires you to work hard, but it certainly pays.  This class brought out the best in me, writing skills, ability to analyse and she is extremely well organised.  Not for slackers!",
-        "course": "WN513"
-      },
-      {
-        "index": 18,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Not worth it to take as a 100 level teacher.  Enthusiastic about material, not in making work load appropriate for a 100 level class.  Too much outside reading required, mandatory attendance in lecture and recitation, 5 papers plus final and midterm.  Material v. interesting, it just took way too much work to get an A.",
-        "course": "WMNST110"
-      },
-      {
-        "index": 19,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "I agree with the other poster. This class was not enjoyable.  There were three books, the readings were long and boring. Lecture was the same - long, boring and mandatory.  Detailed questions about readings on tests. Going into the final we only knew 30% of our grade... which was the overly difficult mid-term. I would not recommend this Class.",
-        "course": "PS513"
-      },
-      {
-        "index": 20,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "While it was obvious Dr. Smooth enjoyed what she was teaching and encouraged debates, she was the most unhelpful professor when it came to outside of the classroom.  I tried to contact her numerous times and she totally ignored me, along with her TA Stacia Kock.  She talked the ENTIRE class and the readings took forever! DONT TAKE HER CLASS!",
-        "course": "WOMST513"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.4,
-    "avgRating": 2.4,
-    "department": "Women's Studies",
-    "firstName": "Cathy",
-    "id": "VGVhY2hlci00Njg3MTk=",
-    "lastName": "Rakowski",
-    "legacyId": 468719,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 2,
-        "comment": "Believes her opinions are fact, is disrespectful towards students, and does not care for you at all. Does not use Carmen and doesn't post grades so you don't know what your grade is ever. She is rude and lectures as if you are not respectable or educted. Disrespects your perspective. No class discussion on anything and does not tolerate feedback.",
-        "course": "RSOC3580"
-      },
-      {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "She presents her opinions as fact so be prepared to regurgitate what she says and it will be an easy A.  No grades are posted online so you only have a vague idea of where your final grade comes from.  I had been excited for the class, but she made me feel like I was being lectured by a condescending parent.  Not enough room for class discussion.  ",
-        "course": "29271"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Although she's brimming with life experience it's literally all she talks about. Her assigned readings also tend to be too dense for a single class period to your cover and her notes are terrible and often contradicting.",
-        "course": "WGSS3302"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "extremely experienced in the field. great lecturer, lots of awesome anecdotes. more radical than most professors i've had. i highly recommend her. problems included lack of student discussion and seemingly disinterested in talking after class. most ag students openly disliked her for some reason.",
-        "course": "RSOC378"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Spends majority of course lecturing. Not a lot of student discussion, which is nice if you don't like to speak in class. Great anecdotes that enrich the concepts used. Papers are very easy... some good texts/films used.",
-        "course": "WS505"
-      },
-      {
-        "index": 6,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "The course material was very interesting - the readings and videos, especially. Classes tended to drag on, though.",
-        "course": "505"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "made an interesting class very uninteresting.  horrible lecturer.",
-        "course": "350"
-      },
-      {
-        "index": 8,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "I think that the reason this class sucks is because the instrutor is not very nice. She is condscending and bitter.",
-        "course": "505"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "I hated this class.  I don't know if it was the teaching style or not, but I dreaded it every day I had it.  I know it's a requirement, so my suggestion is to make the best of it.  It was pretty informative, a lot of reading and writing.  Easy A though.",
-        "course": "505"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 4.3,
-    "department": "Women's Studies",
-    "firstName": "Sonnet",
-    "id": "VGVhY2hlci0xODA4Njg4",
-    "lastName": "Gabbard",
-    "legacyId": 1808688,
-    "numRatings": 12,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 2,
-        "difficulty": 1,
-        "comment": "This professor was not accessible, many times modules were not unlocked and email were not answered. Luckily the course is made up of discussion post mainly. Its an easy A if you like doing post. Doesnt give feedback either but hey what do you expect you read the top sentence. Easy course, you teach yourself mainly",
-        "course": "WGSST2230"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Incredibly easy class. Gabbard doesn't unlock modules on time or answer emails quickly, but the assignments are incredibly easy. There's no textbook, she provides all readings, but sometimes you have to watch things on Netflix, YouTube, Hulu, etc. Would definitely take as an easy GE. Easy to get an A!",
-        "course": "WGSST2230"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Honestly my least favorite professor I've had in my entire college career. In an online class, she refuses to give you a syllabus that is accessible unless you're online to view it. When you contact her, she does not respond if an email is not up to her standards (without no example) and in an online class email is the only form of communication.",
-        "course": "WGSST2230"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She was amazing!! I learned so much from her class. The movies we watched were fun (Mean Girls, Easy A, etc.) and we would have discussions over them and the articles we had to read. There was a bit of work for this class and there are movie quizzes, but pretty much as long as you showed you were putting in effort, you would get an A.",
-        "course": "WGSST3317"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Best class I've taken at OSU so far! Sonnet is so passionate about the course and truly cares about her students. She makes lecture interesting and engaging. There limited outside graded work, but quite a bit of reading. It's so easy to participate in class because she covers super cool relevant topics. I (almost) wished the semester wouldn't end!",
-        "course": "WGSST3370"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "LOVED this course with Sonnet. One of the best professors I have had. I enjoyed all topics discussed. This course helped me learn how to use proper terminology in relation to gender studies, which helped me tremendously in my profession. ",
-        "course": "WGSST1110"
-      },
-      {
-        "index": 7,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Sonnet was a good professor and very sweet. She was bubbly and passionate which made it easy to learn. She is a little strict with attendance though but if you show up and participate you should do pretty well. A lot of our grades were from weekly online posts in a forum.",
-        "course": "WGSS3370"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Very interesting class and great teacher. She's a very fair teacher overall. She does require attendance and doing the readings. She has pop quizzes based off of the readings but if you do them you will be fine. I would definitely recommend her!",
-        "course": "WGSST1110"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Class can be rushed a times, needs to slow down and not cram so many activities in a single class session BUT one of the best classes and teachers I've had. HIGHLY recommend her. She will challenge you, engage your desire to learn and work with you every step of the way. Excellent, excellent instructor. Take her class, you won't regret it.",
-        "course": "WGSS3370"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "You are pretty much guaranteed an A if you show up and do the readings. Repeat - she is a stickler for attendance and encourages a ton of participation but the assignments are easy... she really just wants you to learn and participate and be engaged so grades aren't the most important thing. Great teacher, she'll like you if you come every day.",
-        "course": "WGSS3370"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Flawless approach to teaching- best I've had in 4 years of college. She works through extremely hard readings with you and forces you to grow a lot as a human being but its relatively low stress otherwise. Super adorable and supportive and approachable.",
-        "course": "WGSS3370"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She is amazing. Probably the best teacher I have ever had in college. But you need to go to class and do the readings. She makes the class so that as long as you do the work and come to class you will do well. Definitely take her if you have the chance.",
-        "course": "WGSST3370"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2,
-    "avgRating": 4.1,
-    "department": "Women's Studies",
-    "firstName": "Raili",
-    "id": "VGVhY2hlci0zOTcyNjU=",
-    "lastName": "Roy",
-    "legacyId": 397265,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "I handed in all my work passed all my assignments but couldn't do my final the day of bc my computer crashed and I was giving a C- with my average grade being 283 and her criteria grade was 310.. So confused",
-        "course": "WS101"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Amazing class. Very interesting. Have to do readings and study for tests, but she gives you everything you need to know. Unfortunately I was in the minority Fall 06 but I Loved loved loved it.",
-        "course": "WS305"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Class in interesting, however she does shun you down if you don't know the answers, so be prepared.  Midterms are more than you would expect from a women's studies course.",
-        "course": "WOMEN305"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "Great class. Raili is a great lecturer and discussions/lectures are great. Does a great job of bringing concepts together. Smaller classroom so make sure you participate in discussions (do your readings)",
-        "course": "WS305"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "If you want a great Women's Studies Class with a teacher that'll teach you something she is the lady. Go to class and do the reading you will be completely ready for anything she throws your way.",
-        "course": "WS101"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Guys if you are going to take a Women's Studies class take it with this woman. You are not going to get beat down daily for being male. Raili makes the class quite interesting and interactive, make sure to show up to lecture and you will have no surprises. Do the reading it's important!",
-        "course": "WS101"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "No Comments",
-        "course": "WS101"
-      },
-      {
-        "index": 8,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "really easy class.  Organized lecture and notes.  There shouldn't be any surprises on the test but she took off for spelling on essay tests (which is crazy considering her english isn't always very clear.)",
-        "course": "WS101"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "No Comments",
-        "course": "WS101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.9,
-    "avgRating": 4.3,
-    "department": "Women's Studies",
-    "firstName": "Malia",
-    "id": "VGVhY2hlci0yMzIyMDI5",
-    "lastName": "Womack",
-    "legacyId": 2322029,
-    "numRatings": 7,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I highly reccomend Professor Womack, she has went above and beyond to provide me with timely feedback I can use to successfully and confidently complete major writting assignments. She is very caring and supports students goals in learning.",
-        "course": "WGSST2230"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This professor is very smart and really prioritizes the student before anything else. It would be really hard to fail this class if you showed up and participated. Don't fret over some of the harder readings! Just do your best and come with questions then you won't leave confused. Overall, love the teaching style of this professor!",
-        "course": "WGSST2367"
-      },
-      {
-        "index": 3,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "This class was a great expansion on a lot of gender studies concepts and Prof. Womack is a great resource on these topics!",
-        "course": "WGSST2367"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "lots of class discussions, but she makes it very conducive to participation as well as an easy and fun experience!",
-        "course": "WGSST236701"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Really insightful and aspirational.",
-        "course": "WGSST1100"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "You can tell she really cares about her students and wants them to succeed in the class and get something out of the material. Make sure to watch the weekly videos and follow the prompts for assignments and you shouldn't have any problems. She's also super responsive to email and will give feedback or guidance if you have questions!",
-        "course": "WGSST2367"
-      },
-      {
-        "index": 7,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "I did not like this professor. She never used Canvas/Carmen for grades so you never know what your grade is for the class. She grades tough on papers, if you don't have a full page typed she will deduct points. Assignments were very vague and not all of them were on the syllabus. I enjoyed the class material, just not the professor.",
-        "course": "WGSST1100"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.4,
-    "avgRating": 4.6,
-    "department": "Women's Studies",
-    "firstName": "Jonathan",
-    "id": "VGVhY2hlci0yMDUwOTkx",
-    "lastName": "Branfman",
-    "legacyId": 2050991,
-    "numRatings": 16,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Really kind, insightful, and organized. Also really funny! I never found myself checking the clock during his class.",
-        "course": "ENGL3707"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "He's very organized and clear, but also supportive. And he made the most supportive class environment that I've ever been in. He learned all our names the first day, and helped us all learn each other's names. It was really a good community environment for learning. ",
-        "course": "ENGL3707"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "I learned something new in every class, and the readings always felt interesting/relevant. He has high expectations for essays, but also gives clear expectations and helpful feedback. In office hours, he really helped me improve my final essay. He also creates a really positive environment for class discussions.",
-        "course": "ENGL3707"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Would take again. Sometimes the workload got heavy, if we had a film + a long article due together. But everything we watched/read was interesting, and sometimes really funny! Professor Branfman also gives clear expectations and feedback for essays. He also brings lots of energy to every class, and you can tell he cares about everyone's success.",
-        "course": "ENGL3707"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Great class, great professor. ",
-        "course": "ENGL3707"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "He's heading to Stanford next, and Cornell will miss him.",
-        "course": "ENGL3707"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "His first-year writing seminar was great! I thought I already wrote well before getting here, but he helped us all get much better at researching, outlining, writing, and proofreading. He has high standards, but he also really helps you meet them: he gives clear expectations and personalized feedback. Would take again!",
-        "course": "ENGL3707"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Always looked forward to his class, and I'm trying to get a spot in his spring class. He's clear, funny, and fair, and the class topics always connect to real life. He has high expectations, but he makes a supportive environment for learning how to meet those expectations. If you take his class, you'll laugh a lot and learn a lot.",
-        "course": "ENGL3707"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "He is not a great teacher. The class is discussion based, so you come to class just to talk about questions he poses. You have to speak at least 3 times which is frustrating because theres not always lots to say if you dont want to be repetitive (he will call u out for both). Directions are unclear and he waits till end of term to post grades..",
-        "course": "FGSS4757"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Branfman is an incredibly captivating speaker and lecturer and is always very kind, open, and eager to help his students. His assignments were rather interesting and fun to do. He's funny, his enthusiasm is contagious, and whatever he has to say is guaranteed to be insightful.",
-        "course": "FMST250"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Absolutely incredible professor. Gives great and informational lectures. Grades fairly and quickly. I learned an incredible amount from him and anyone would be lucky to take a class with him.",
-        "course": "WGSST3317"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Took this class as a gen ed and didn't know much about women studies. Jon did an AMAZING job. I recommend him and this class to all my friends. He always sets clear expectations and returns grade SO fast. Fair amount of reading but it was interesting and I didn't mind. If you do reading and pay attention, tests/ papers are easy to ace.",
-        "course": "WGSST2230"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I recommend this prof to all my friends. Took his class for a GE and didn't expect much--but had an amazing time! I learned a ton that will really stick with me and applies to my everyday life. So glad I stumbled into this class and this prof. Jon was the best. Quick & fair grader, really engaging/fun teacher, and challenged us in the best way. ",
-        "course": "WGSS 1110"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "Very helpful and approachable, always happy to answer questions. Very well-organized (I mean the semester plan overall, the assignments, the layout of each class, everything). Always totally clear what's expected from students and why we're doing what we're doing.",
-        "course": "WGSS 2230"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Excellent! Super genuine, creates a great positive classroom atmosphere, makes everyone feel valued when they participate. Passionate, smart, interesting, & knowledgable. Really great at respectfully challenging you to think critically about everything.",
-        "course": "WGSS 2230"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Everything you could want: Passionate, energized, fast(!) grader,  totally clear explanations even on tough concepts, keeps your attention with funny lectures while still teaching you a ton. Plus Jon cares SO much about his students: If you seem down in class, or miss class, he'll always ask if you're okay.  You definitely have to read and show up.",
-        "course": "WGSS 1110"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3.9,
-    "avgRating": 2.6,
-    "department": "Women's Studies",
-    "firstName": "Lin",
-    "id": "VGVhY2hlci04MjQ3MjY=",
-    "lastName": "Distel",
-    "legacyId": 824726,
-    "numRatings": 13,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "This was the worst class I have ever taken, I took it during the summer and it was 3 hour credit class, the work felt like I was taking a 5 hour credit class. She doesn't even follow MLA format, it seems like it is something she just made up. DO NOT TAKE!!!!",
-        "course": "WGSST1110"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Dude all I can say is, mistake of your life if you take this class. No one liked the class for a reason, you see the ratings. Dont do it to urself. Trust ",
-        "course": "WGSST1110"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "im an A/B student and i took one of her classes before this that wasnt hard at all. however, this class was THE hardest class i think i have ever taken for a class that is only filling a GE for me. if i couldve picked ANY other class, I WOULDVE. do not recommend her at. all. i received a C+ in her class, and how i even managed that i have no idea.",
-        "course": "2215WGSST"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 4,
-        "comment": "Im sick of hearing dont drop this class everyone can do it shes by far one of the hardest and worst instructors Ive ever had. Shes very hard. If youre looking for hard work for a class that could be very simple, take her. I believe shes been doing this this for too long and needs to be done. She does the worst in explaining assignments.",
-        "course": "WOMEN110"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Absolutely loved this class and professor! Definitely take her class, you won't regret it!!",
-        "course": "WOMEN110"
-      },
-      {
-        "index": 6,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "I wish I would have researched this professor prior to taking her online class. I am an A student and this will be my first C ever. She does not explain things clearly, and even when you follower her ruberic, she will still tax you heavily &quot;grade wise&quot; if you are not specific enough to her standards. PLEASE AVOID HER AT ALL COST. VERY BAISED.",
-        "course": "WOMEN110"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 5,
-        "comment": "Very difficult online class. Lin is a very tough grader and there are a lot of tests with super specific questions. There is a lot of work and a lot of readings every week. If you want an easy A dont take this class. You have to put in a lot of time and effort to pass.",
-        "course": "WGSST1110"
-      },
-      {
-        "index": 8,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Lin Distel is a professor who makes you work for your grade. You will not pass if you dont review her syllabus and evaluative criteria. This is a session 1 online class and its very fast-paced. You have to read the assigned readings. You can get an A but you have to work for it, its too hard for a 1000 level GE.",
-        "course": "WGSST1110"
-      },
-      {
-        "index": 9,
-        "rating": 1,
-        "difficulty": 4,
-        "comment": "Honestly stay away from at least her online classes very unclear on the instructions and frankly not a very good class to take online.",
-        "course": "WMNSTUDS326"
-      },
-      {
-        "index": 10,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "I first liked this teacher...then one day after class she got in my face and yelled at me telling me i was disrespectful for talking in her class and that i was not aloud to sit next to my friend anymore..the funny thing is i never even said a word to my friend during the class period..all i did was laugh at something that was funny.",
-        "course": "WOMEN110"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "This teacher is absolutely amazing!  One of my favorites!  She keeps discussion interesting and listens to everyone's opinions.  Readings are easy and interesting because they apply to things that affect our daily lives.  I would definitely recommend taking this class for an easy grade that you actually enjoyed!",
-        "course": "WS110"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Best instruction I've had at OSU. very discussion based, very intellectually stimulating. Hard exams but very fair. Must participate in discussion for good grade. Loved going to her class. Brilliant woman.",
-        "course": "WS324"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Professor Distel is great. TAKE THIS CLASS.  Class is 100% discussion so be prepared to talk or it will seriously affect your grade. LOVED IT!",
-        "course": "WMNSTUDS326"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 1.9,
     "avgRating": 4.7,
     "department": "Women's Studies",
@@ -1122,6 +446,8 @@
     "lastName": "Mizejewski",
     "legacyId": 557583,
     "numRatings": 28,
+    "summary_comment": "Professor Mizejewski is known for her engaging and caring approach, though her classes can be quite strict regarding attendance. Students appreciate her willingness to help with paper reviews and her selection of interesting films and readings. However, some find her lectures and class format to be somewhat traditional, with a heavy emphasis on attendance and participation.",
+    "summary_comment_short": "Professor Mizejewski is known for her caring and engaging approach, particularly in her first-year seminars where she encourages critical thinking and discussion. However, her classes can be quite strict regarding attendance, often penalizing students heavily for missed sessions, and rely significantly on in-class participation.",
     "Ratings": [
       {
         "index": 1,
@@ -1320,7 +646,260 @@
         "course": "WS520SOMETHING"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1137.03",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "26372",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1137.03",
+        "Class Name": "First-Year Seminar",
+        "Class Number": "28632",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2326",
+        "Class Name": "Feminist Perspectives on Addiction",
+        "Class Number": "35835",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4527.01",
+        "Class Name": "Studies in Gender and Cinema",
+        "Class Number": "22477",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.73"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2317",
+        "Class Name": "Introduction to Gender & Cinema",
+        "Class Number": "27553",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "28",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "8800.03",
+        "Class Name": "Topics in Feminist Studies",
+        "Class Number": "28249",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "N/A",
+        "Class Name": "Feminist Perspectives on Addiction, Service Learning",
+        "Class Number": "23153",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4527",
+        "Class Name": "Studies in Gender and Cinema",
+        "Class Number": "20500",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "27",
+        "Rating": "4.96"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2317",
+        "Class Name": "Gender at the Movies: Hollywood and Beyond",
+        "Class Number": "14181",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "31",
+        "Rating": "4.81"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "7790",
+        "Class Name": "Research and Writing Workshop",
+        "Class Number": "22369",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4527.02",
+        "Class Name": "Studies in Gender and Cinema: The British Horror Film in London",
+        "Class Number": "23287",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "14",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2326S",
+        "Class Name": "Feminist Perspectives on Addiction, Service Learning",
+        "Class Number": "26377",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "8800.01",
+        "Class Name": "Topics in Feminist Studies",
+        "Class Number": "26247",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2317",
+        "Class Name": "Gender at the Movies: Hollywood and Beyond",
+        "Class Number": "35626",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "62",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2326S",
+        "Class Name": "Feminist Perspectives on Addiction, Service Learning",
+        "Class Number": "28637",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4527.01",
+        "Class Name": "Studies in Gender and Cinema",
+        "Class Number": "26558",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2317",
+        "Class Name": "Gender at the Movies: Hollywood and Beyond",
+        "Class Number": "30436",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "63",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "7701",
+        "Class Name": "Feminist Inquiry II",
+        "Class Number": "27800",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.5,
@@ -1331,6 +910,8 @@
     "lastName": "Wiser",
     "legacyId": 1140265,
     "numRatings": 27,
+    "summary_comment": "Professor Wiser's teaching quality is highly polarizing, with some students praising her for valuing effort and engagement, while others find her classes boring, irrelevant, and poorly structured. Her interaction style is described as dismissive and unapproachable, leading to low attendance and high frustration among students who feel undervalued.",
+    "summary_comment_short": "Professor Wiser is perceived as strict and unengaging, with some students finding her classes boring and irrelevant to the coursework. Her teaching style is seen as demanding and she is viewed as indifferent to students' performance, though a few students appreciate her when they put in significant effort and actively participate in class.",
     "Ratings": [
       {
         "index": 1,
@@ -1522,7 +1103,414 @@
         "course": "WSTDS101"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "30022",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "2"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4900",
+        "Class Name": "Researching in Sports Industry",
+        "Class Number": "28508",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "3.73"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5614",
+        "Class Name": "Sport and Sexuality",
+        "Class Number": "27840",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "9826",
+        "Term": "SU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.09"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "14665",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4900",
+        "Class Name": "Researching in Sports Industry",
+        "Class Number": "12952",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.08"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5610",
+        "Class Name": "Women's Sport History",
+        "Class Number": "12373",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.29"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "9809",
+        "Term": "SU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "21411",
+        "Term": "SU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "3.17"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "8746",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.15"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4900",
+        "Class Name": "Researching in Sports Industry",
+        "Class Number": "8556",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "31431",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4900",
+        "Class Name": "Researching in Sports Industry",
+        "Class Number": "31434",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "3.6"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5610",
+        "Class Name": "Women's Sport History",
+        "Class Number": "31425",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "10022",
+        "Term": "SU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "3.75"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "10107",
+        "Term": "SU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "33926",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.3"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4900",
+        "Class Name": "Researching in Sports Industry",
+        "Class Number": "32618",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.19"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5614",
+        "Class Name": "Sport and Sexuality",
+        "Class Number": "13050",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.45"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "13494",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.42"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4900",
+        "Class Name": "Researching in Sports Industry",
+        "Class Number": "13497",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "5610",
+        "Class Name": "Women's Sport History",
+        "Class Number": "13488",
+        "Term": "SP 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "10091",
+        "Term": "SU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.09"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "13665",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "3.43"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "14985",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "4.5"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4900",
+        "Class Name": "Researching in Sports Industry",
+        "Class Number": "14875",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "13929",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "3.78"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "3189",
+        "Class Name": "Field Experience: Sport Industry",
+        "Class Number": "13953",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4"
+      },
+      {
+        "Subject": "KNSISM",
+        "Catalog": "4900",
+        "Class Name": "Researching in Sports Industry",
+        "Class Number": "13933",
+        "Term": "SP 24",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.71"
+      }
+    ]
   },
   {
     "avgDifficulty": 2,
@@ -1533,6 +1521,8 @@
     "lastName": "Ballah",
     "legacyId": 767787,
     "numRatings": 14,
+    "summary_comment": "Professor Ballah is highly regarded for her dedication and knowledge, with students praising her passion for the subject matter and her willingness to help students understand the material. While some find her classes demanding and note occasional rambling, many recommend her for her ability to engage students through discussions and her commitment to their success.",
+    "summary_comment_short": "Professor Ballah is highly regarded for her dedication to her students and her extensive knowledge of the subject matter. Her classes are challenging but manageable, with clear expectations and a focus on understanding the material rather than grades.",
     "Ratings": [
       {
         "index": 1,
@@ -1644,6 +1634,8 @@
     "lastName": "Kuzawa",
     "legacyId": 578348,
     "numRatings": 30,
+    "summary_comment": "Professor Kuzawa is known for her high expectations and rigorous coursework, requiring significant effort and engagement from students. While some appreciate her dedication and care, others find her condescending, moody, and overly critical, often citing issues with unclear instructions and disorganized course structure.",
+    "summary_comment_short": "Professor Kuzawa is known for her high expectations and demanding workload, but also for her caring nature and willingness to help students who are willing to put in the effort. However, some students find her condescending, moody, and overly critical, with vague instructions and poorly organized lectures.",
     "Ratings": [
       {
         "index": 1,
@@ -1856,7 +1848,316 @@
         "course": "WS36701"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "6151",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "3.56"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "6152",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "6155",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.31"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "9748",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.09"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "9749",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.27"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "9788",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.08"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "28280",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "28281",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.61"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "28284",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.06"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "26547",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "3.9"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "7710",
+        "Class Name": "Engineering Research Communications",
+        "Class Number": "34113",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "3.67"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "6925",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "3.33"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "6926",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "3.77"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "7710",
+        "Class Name": "Engineering Research Communications",
+        "Class Number": "11876",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "8082",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "3.56"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2367",
+        "Class Name": "American Attitudes About Technology",
+        "Class Number": "8189",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.06"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "7710",
+        "Class Name": "Engineering Research Communications",
+        "Class Number": "11873",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2301",
+        "Class Name": "Exploring Diversity, Equity & Inclusion in Engineering Contexts: Integrative Designation",
+        "Class Number": "37888",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "3.22"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "7710",
+        "Class Name": "Engineering Research Communications",
+        "Class Number": "11778",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2301",
+        "Class Name": "Exploring Diversity, Equity & Inclusion in Engineering Contexts: Integrative Designation",
+        "Class Number": "35266",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "3.19"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "2301",
+        "Class Name": "Exploring Diversity, Equity & Inclusion in Engineering Contexts: Integrative Designation",
+        "Class Number": "35267",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "3.85"
+      },
+      {
+        "Subject": "ENGR",
+        "Catalog": "7710",
+        "Class Name": "Engineering Research Communications",
+        "Class Number": "11719",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Engineering Administration",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      }
+    ]
   },
   {
     "avgDifficulty": 1.8,
@@ -1867,6 +2168,8 @@
     "lastName": "Austin",
     "legacyId": 2309292,
     "numRatings": 6,
+    "summary_comment": "Professor Austin is highly regarded for her engaging and supportive teaching style, particularly in her online courses where she takes the time to provide thoughtful feedback and encourages active participation. Students find her classes interesting, stress-free, and conducive to learning, with many noting her willingness to help with deadlines and her passion for the subject matter. However, some have expressed frustration with the lack of structured lectures and the difficulty in getting meaningful feedback on their work.",
+    "summary_comment_short": "Professor Austin is highly regarded for her engaging and supportive teaching style, particularly in her online courses where she provides thoughtful feedback on assignments and encourages student interaction. Students find her classes interesting, stress-free, and enjoyable, with many noting her willingness to help with deadlines and her passion for the subject matter.",
     "Ratings": [
       {
         "index": 1,
@@ -1911,7 +2214,358 @@
         "course": "WGSST2367"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "19127",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2367",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "21884",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "23908",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2218",
+        "Class Name": "Black Urban Experience",
+        "Class Number": "36213",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "26",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "37276",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2218",
+        "Class Name": "Black Urban Experience",
+        "Class Number": "34227",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.23"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "29050",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "31256",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "20",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "AFAMAST",
+        "Catalog": "4921",
+        "Class Name": "Intersections: Approaches to Theorizing Difference",
+        "Class Number": "36491",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "African-Amer & African Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "COMPSTD",
+        "Catalog": "4921",
+        "Class Name": "Intersections: Approaches to Theorizing Difference",
+        "Class Number": "23158",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Comparative Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "34392",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "34393",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.54"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "37631",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "20859",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "35248",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.72"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2230",
+        "Class Name": "Gender, Sexuality and Race in Popular Culture",
+        "Class Number": "14179",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "36563",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.43"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2317",
+        "Class Name": "Gender at the Movies: Hollywood and Beyond",
+        "Class Number": "21817",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "24",
+        "Rating": "4.48"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "24439",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "5",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "30310",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2550",
+        "Class Name": "History of Feminist Thought",
+        "Class Number": "20444",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "26869",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "23",
+        "Rating": "4.41"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.04",
+        "Class Name": "Black Women Writers: Text and Context",
+        "Class Number": "36794",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2550",
+        "Class Name": "History of Feminist Thought",
+        "Class Number": "20737",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "4"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4921",
+        "Class Name": "Intersections: Approaches to Theorizing Difference",
+        "Class Number": "28597",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.56"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.1,
@@ -1922,6 +2576,8 @@
     "lastName": "Burack",
     "legacyId": 397280,
     "numRatings": 36,
+    "summary_comment": "Professor Burack is highly knowledgeable and encourages open, engaging discussions in her class, though some students found the focus veered more towards history and politics than expected. She assigns manageable readings and weekly one-page papers, and while her grading is specific, it can be tough and lacks clear criteria for some students. Overall, her teaching style is appreciated by many, though others find it lacking in structured guidance and clear expectations.",
+    "summary_comment_short": "Professor Burack is highly knowledgeable and encourages open discussion in her classes, focusing on weekly one-page papers and discussion posts. She is praised for the relevance and interest of the reading materials, though some students found her grading criteria unclear and the class content sometimes veering away from expected topics.",
     "Ratings": [
       {
         "index": 1,
@@ -2176,7 +2832,162 @@
         "course": "WS520"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "POLITSC",
+        "Catalog": "4597.03",
+        "Class Name": "Gender and Democracy in the Contemporary World",
+        "Class Number": "36693",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Political Science",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.63"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367.03",
+        "Class Name": "U.S. Lesbian Writers: Text and Context",
+        "Class Number": "27550",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "2.82"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4597",
+        "Class Name": "Gender and Democracy in the Contemporary World",
+        "Class Number": "33469",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2367",
+        "Class Name": "U.S. Lesbian Writers: Text and Context",
+        "Class Number": "20858",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4403",
+        "Class Name": "Gender and Leadership",
+        "Class Number": "34720",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "14177",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4597",
+        "Class Name": "Gender and Democracy in the Contemporary World",
+        "Class Number": "34477",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "35416",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4465",
+        "Class Name": "Feminist Political Theory",
+        "Class Number": "28539",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "20403",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "3320",
+        "Class Name": "Topics in Women's, Gender and Sexuality Studies",
+        "Class Number": "35738",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.4,
@@ -2187,6 +2998,8 @@
     "lastName": "Genetin",
     "legacyId": 1103898,
     "numRatings": 5,
+    "summary_comment": "Professor Genetin is highly regarded for her effective teaching methods and engaging course material, particularly in courses like Women and Addiction. Students appreciate her detailed feedback, passion for the subject, and ability to create a supportive and non-judgmental learning environment. Her classes are described as both challenging and enjoyable, with many students encouraging others to take her courses.",
+    "summary_comment_short": "Professor Genetin is highly regarded for her passionate and engaging teaching style, which fosters a supportive and non-judgmental learning environment. Students appreciate her detailed feedback and uniform grading rubrics, finding her courses both challenging and enjoyable.",
     "Ratings": [
       {
         "index": 1,
@@ -2235,6 +3048,8 @@
     "lastName": "Sengupta",
     "legacyId": 1664037,
     "numRatings": 4,
+    "summary_comment": "Professor Sengupta's teaching quality varies widely according to student feedback. Some students found her class challenging and poorly structured, with unclear expectations and inconsistent grading, while others appreciated her approachable demeanor and interesting material, despite issues with computer proficiency and communication. Overall, her class appears to be highly variable in its effectiveness and consistency.",
+    "summary_comment_short": "Professor Sengupta's teaching style is highly inconsistent; some students find her class challenging and poorly structured, while others appreciate her approachable demeanor and interesting material. Overall, her class lacks clear guidelines and rubrics, and there are significant issues with grading and communication.",
     "Ratings": [
       {
         "index": 1,
@@ -2276,6 +3091,8 @@
     "lastName": "Dean",
     "legacyId": 1855790,
     "numRatings": 12,
+    "summary_comment": "Professor Dean is highly passionate about her subject and engaging in class, though her teaching style can be opinionated and may discourage independent thinking. She is generally considered easy to learn from but faces significant challenges with organization, particularly in returning grades in a timely manner, which has caused considerable frustration among students.",
+    "summary_comment_short": "Professor Dean is generally considered easy to learn from but is noted for being unprofessional and extremely opinionated, which can discourage alternative viewpoints. Despite her passion and dedication to the subject matter, she faces significant issues with organization, timely grade returns, and class disorganization, leading to frustration among students.",
     "Ratings": [
       {
         "index": 1,
@@ -2373,6 +3190,8 @@
     "lastName": "Rossie",
     "legacyId": 1550072,
     "numRatings": 8,
+    "summary_comment": "Professor Rossie is highly regarded for her enthusiasm and ability to engage students in meaningful discussions, often incorporating multimedia to enhance the learning experience. Her classes are known for requiring substantial reading but are generally considered rewarding and enjoyable. However, some students find her classes demanding, with heavy reading loads and high grading standards, making it challenging for those not deeply invested in the subject matter.",
+    "summary_comment_short": "Professor Rossie is highly regarded for her enthusiasm and ability to spark interest in her subjects, particularly in Girlhood Studies at TCNJ. She fosters an engaging and open discussion-based environment and is known for her extensive knowledge and approachability, though some students find the workload demanding and the grading rigorous.",
     "Ratings": [
       {
         "index": 1,
@@ -2434,6 +3253,1249 @@
     "SEI": []
   },
   {
+    "avgDifficulty": 2.5,
+    "avgRating": 5,
+    "department": "Women's Studies",
+    "firstName": "Lauren",
+    "id": "VGVhY2hlci0xODcyMzUz",
+    "lastName": "Strand",
+    "legacyId": 1872353,
+    "numRatings": 2,
+    "summary_comment": "Professor Strand is an exceptionally compassionate and helpful instructor who is highly passionate about the subject matter, which significantly enhances the learning experience. Students consistently praise her for her dedication and the depth of knowledge she imparts.",
+    "summary_comment_short": "Professor Strand is a compassionate and helpful instructor known for his passion in teaching, which significantly enhances the learning experience. Students consistently praise him for his excellent instructional skills and overall positive impact as a professor.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Compassionate and helpful. Amazing person overall and a great prof.",
+        "course": "WGSS2230"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great instructor! Lauren is very passionate about the subject & it shows in her teaching. I learned a great deal and enjoyed attending class every day!",
+        "course": "WGSS2230"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ARTSSCI",
+        "Catalog": "1100.15",
+        "Class Name": "Arts and Sciences Survey: Social and Behavioral Sciences BA/BS",
+        "Class Number": "13045",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "ASC Administration",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "152",
+        "Rating": "4.41"
+      },
+      {
+        "Subject": "NEUROSC",
+        "Catalog": "1100",
+        "Class Name": "Neuroscience Survey Course",
+        "Class Number": "33878",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "BMS-NEUROSCIENCE",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "68",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "NEUROSC",
+        "Catalog": "1100",
+        "Class Name": "Neuroscience Survey Course",
+        "Class Number": "33879",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "BMS-NEUROSCIENCE",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "103",
+        "Rating": "4.18"
+      },
+      {
+        "Subject": "NEUROSC",
+        "Catalog": "1100H",
+        "Class Name": "Neuroscience Honors Survey Course",
+        "Class Number": "2565",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "BMS-NEUROSCIENCE",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "21",
+        "Rating": "3.68"
+      },
+      {
+        "Subject": "NEUROSC",
+        "Catalog": "1100H",
+        "Class Name": "Neuroscience Honors Survey Course",
+        "Class Number": "2575",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "BMS-NEUROSCIENCE",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "27",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "NEUROSC",
+        "Catalog": "N/A",
+        "Class Name": "Neuroscience Honors Survey Course",
+        "Class Number": "2532",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "BMS-NEUROSCIENCE",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "37",
+        "Rating": "4.06"
+      },
+      {
+        "Subject": "NEUROSC",
+        "Catalog": "N/A",
+        "Class Name": "Neuroscience Honors Survey Course",
+        "Class Number": "2735",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "BMS-NEUROSCIENCE",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "59",
+        "Rating": "4.02"
+      },
+      {
+        "Subject": "NEUROSC",
+        "Catalog": "N/A",
+        "Class Name": "Neuroscience Honors Survey Course",
+        "Class Number": "3109",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "BMS-NEUROSCIENCE",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "46",
+        "Rating": "3.74"
+      },
+      {
+        "Subject": "NEUROSC",
+        "Catalog": "N/A",
+        "Class Name": "Neuroscience Honors Survey Course",
+        "Class Number": "37196",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "BMS-NEUROSCIENCE",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.63"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 2.5,
+    "department": "Women's Studies",
+    "firstName": "Wendy",
+    "id": "VGVhY2hlci05Mjc1NDk=",
+    "lastName": "Smooth",
+    "legacyId": 927549,
+    "numRatings": 20,
+    "summary_comment": "Professor Smooth is highly knowledgeable and passionate about Women's Gender Studies, but her teaching style is often criticized for being disorganized and confusing. Lectures tend to be lengthy and sometimes veer off-topic, making the class challenging for many students. While some appreciate her enthusiasm, others find her approach frustrating and ineffective, leading to low engagement and poor retention of material.",
+    "summary_comment_short": "Professor Smooth is highly knowledgeable and passionate about Women's Gender Studies but is frequently criticized for being disorganized and unprepared, leading to confusing and ineffective communication with students. Her lectures tend to focus heavily on tangential topics and are often seen as unstructured and overly lengthy.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "Professor Smooth is extremely disorganized. While it is evident that she is knowledgeable and enthusiastic about course content, she does not communicate clearly with students. She made this course very confusing.",
+        "course": "WGSST3575"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I took this class because I needed it for a GE and it was all that was open, had I known more about it I would have just taken less credits. Professor Smooth had her way or the high way, if you disagreed with her opinion then you were wrong. Her lectures were long and had nothing to do with what we were actually learning.",
+        "course": "WGSST1110"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Dr. Smooth was a great lecturer and is really passionate about Women's Gender Studies but oftentimes she would just lecture off tangent on things that we (the class) weren't sure of the relevance to the test. If you are passionate about Women's Studies this class will be easy but attendance is mandatory and the TAs are tough paper graders.",
+        "course": "WGSST1110"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Dr. Smooth is awesome! She is such a positive beginning to my mornings and her lectures are great! The TAs on the other hand...",
+        "course": "WGS110"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 5,
+        "comment": "While Smooth is a huge part of Ohio States WGGS program and is super intelligent, lectures stink. I can only recall a handful of times she wrote on the board. The readings are so extensive but you have to read them to actually understand lecture. brownie points: print the material and highlight she loves that! material is great; she ruins the fun",
+        "course": "4403"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She's very unprepared and the whole class is just her lecturing and talking about all the reading you have to do somehow. Her expectations are wildly too high. She never responds to emails. She takes this class too seriously. I would NEVER recommend anyone take this class. While the material is interesting, she ruins it.",
+        "course": "4403"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "women studies 110 isn't an easy A but it's def very possible. Smooth was pretty good, but I loved my TA, Jackie. She made the class so much more interesting because of discussion during recitation. I didn't expect to fall in love with this class but I did, it's one of those classes that have the potential to impact you for the rest of your life",
+        "course": "WGSST110"
+      },
+      {
+        "index": 8,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "THIS CLASS WAS SOOOOOOOOO BORING TO ME! She seem happy to teach us but we never really got through anything because spent WAY too much time talking on and on and on and on and on about one topic. I did not learn nothing from this class. Also her &quot;helpers&quot; was NOT very &quot;helpful&quot; at ALLLLL. Overall I would not recommend any one to take this class!!!",
+        "course": "WGSST110"
+      },
+      {
+        "index": 9,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Too much work for a 100 level class! You have to write 5 papers, go to outside events, and tons of reading! However, the class material is pretty interesting and eye-opening.",
+        "course": "WOSTD110"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "I loved this class. I looked forward to it everyday I had it. Although you don't get lots of one on one time with Dr. Smooth she has such a passion that it is very enjoyable.",
+        "course": "WGSST110"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Smooth  really made me think. She is not easy, there's a lot of reading, but it is worth it. She made me think about so many things. I took the class last year and I am still thinking about it. She really made me get it that women's progress is ongoing and only gets better if we actually THINK about changing it. This class rocked!",
+        "course": "WMST110"
+      },
+      {
+        "index": 12,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "The lectures were very interesting and always well prepared.She tried to have everyone participate in class! Too bad she never talk about the reading in class. The TA makes the class. I had a bad one, Meghan Kough who only cared about applying for her PhD program. The TA makes the meat out of the class, all the fun debates! Overall, good class!",
+        "course": "WMSTD110"
+      },
+      {
+        "index": 13,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Very enthusiastic and passionate. I found the mandatory attendance annoying. But overall lessons were okay. 5 writing assignments a must. Midterms & Finals were not comprehensive. Always go for the pre-exam review sessions. Good class if you are interested in Women Studies or Gender studies.",
+        "course": "WMSTD110"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Easy class...lots of work for a 110 course, though.  Dr. Smooth is pretty funny and has entertaining lectures, she also enjoys pop quizzes. A ton of reading and 5 mandatory papers. Good class, so long as you have an interest in womens studies",
+        "course": "WOMST110"
+      },
+      {
+        "index": 15,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Lectures were very long and did not always stay on point.It helps to have a good TA because I found that my notes from lecture weren't all that helpful on the midterm.",
+        "course": "WOMST110"
+      },
+      {
+        "index": 16,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "I had a horrible experience in this class. It was uncomfortable to speak in class and there was too much work for a 100 level class. She ignored any emails sent to her and so was not helpful at all. She also passed out an &quot;Etiquette Sheet&quot; saying we were not welcome to visit her in her office, and that we shouldn't ask questions about the tests.",
+        "course": "WS110"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Dr. Smooth is an excellent and very professional instructor.  She knows her material very well. She backs up her statements with facts and interesting anecdotes.  She requires you to work hard, but it certainly pays.  This class brought out the best in me, writing skills, ability to analyse and she is extremely well organised.  Not for slackers!",
+        "course": "WN513"
+      },
+      {
+        "index": 18,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Not worth it to take as a 100 level teacher.  Enthusiastic about material, not in making work load appropriate for a 100 level class.  Too much outside reading required, mandatory attendance in lecture and recitation, 5 papers plus final and midterm.  Material v. interesting, it just took way too much work to get an A.",
+        "course": "WMNST110"
+      },
+      {
+        "index": 19,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I agree with the other poster. This class was not enjoyable.  There were three books, the readings were long and boring. Lecture was the same - long, boring and mandatory.  Detailed questions about readings on tests. Going into the final we only knew 30% of our grade... which was the overly difficult mid-term. I would not recommend this Class.",
+        "course": "PS513"
+      },
+      {
+        "index": 20,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "While it was obvious Dr. Smooth enjoyed what she was teaching and encouraged debates, she was the most unhelpful professor when it came to outside of the classroom.  I tried to contact her numerous times and she totally ignored me, along with her TA Stacia Kock.  She talked the ENTIRE class and the readings took forever! DONT TAKE HER CLASS!",
+        "course": "WOMST513"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "WGSST",
+        "Catalog": "3575",
+        "Class Name": "Feminist Methodology",
+        "Class Number": "34263",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "21",
+        "Rating": "3.38"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "4402",
+        "Class Name": "Black Women:  Representations, Politics, and Power",
+        "Class Number": "22850",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Women's, Gender&Sexuality Sts",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.4,
+    "avgRating": 2.4,
+    "department": "Women's Studies",
+    "firstName": "Cathy",
+    "id": "VGVhY2hlci00Njg3MTk=",
+    "lastName": "Rakowski",
+    "legacyId": 468719,
+    "numRatings": 9,
+    "summary_comment": "Professor Rakowski is known for her authoritative teaching style, presenting her opinions as facts and discouraging student participation. Students find her lectures condescending and lacking in respect for their perspectives, with minimal opportunities for class discussion and no use of Carmen or online grade posting. While some appreciate her extensive life experience and engaging anecdotes, others find her approach off-putting and the class\u6c1b\u56f4\u6c89\u95f7\u3002",
+    "summary_comment_short": "Professor Rakowski is known for her authoritative teaching style, presenting her opinions as facts and discouraging student participation or feedback. Students find her lectures lengthy and her approach condescending, with limited opportunities for class discussion or interaction.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 2,
+        "comment": "Believes her opinions are fact, is disrespectful towards students, and does not care for you at all. Does not use Carmen and doesn't post grades so you don't know what your grade is ever. She is rude and lectures as if you are not respectable or educted. Disrespects your perspective. No class discussion on anything and does not tolerate feedback.",
+        "course": "RSOC3580"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "She presents her opinions as fact so be prepared to regurgitate what she says and it will be an easy A.  No grades are posted online so you only have a vague idea of where your final grade comes from.  I had been excited for the class, but she made me feel like I was being lectured by a condescending parent.  Not enough room for class discussion.  ",
+        "course": "29271"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Although she's brimming with life experience it's literally all she talks about. Her assigned readings also tend to be too dense for a single class period to your cover and her notes are terrible and often contradicting.",
+        "course": "WGSS3302"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "extremely experienced in the field. great lecturer, lots of awesome anecdotes. more radical than most professors i've had. i highly recommend her. problems included lack of student discussion and seemingly disinterested in talking after class. most ag students openly disliked her for some reason.",
+        "course": "RSOC378"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Spends majority of course lecturing. Not a lot of student discussion, which is nice if you don't like to speak in class. Great anecdotes that enrich the concepts used. Papers are very easy... some good texts/films used.",
+        "course": "WS505"
+      },
+      {
+        "index": 6,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "The course material was very interesting - the readings and videos, especially. Classes tended to drag on, though.",
+        "course": "505"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "made an interesting class very uninteresting.  horrible lecturer.",
+        "course": "350"
+      },
+      {
+        "index": 8,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "I think that the reason this class sucks is because the instrutor is not very nice. She is condscending and bitter.",
+        "course": "505"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "I hated this class.  I don't know if it was the teaching style or not, but I dreaded it every day I had it.  I know it's a requirement, so my suggestion is to make the best of it.  It was pretty informative, a lot of reading and writing.  Easy A though.",
+        "course": "505"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.3,
+    "department": "Women's Studies",
+    "firstName": "Sonnet",
+    "id": "VGVhY2hlci0xODA4Njg4",
+    "lastName": "Gabbard",
+    "legacyId": 1808688,
+    "numRatings": 12,
+    "summary_comment": "Professor Gabbard's teaching quality varies widely according to student feedback. Some found her class easy with minimal interaction required, while others appreciated her passion and engaging content, particularly in areas like gender studies. However, many noted issues with accessibility, including delayed module unlocks, unresponsive emails, and difficulty accessing course materials without being online.",
+    "summary_comment_short": "Professor Gabbard's teaching quality is mixed; some students found her classes easy and self-paced, with minimal interaction required, while others criticized her lack of accessibility and poor communication, leading to missed deadlines and unresponsive emails. Despite these issues, several students appreciated the engaging content and found the class enjoyable and valuable.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 2,
+        "difficulty": 1,
+        "comment": "This professor was not accessible, many times modules were not unlocked and email were not answered. Luckily the course is made up of discussion post mainly. Its an easy A if you like doing post. Doesnt give feedback either but hey what do you expect you read the top sentence. Easy course, you teach yourself mainly",
+        "course": "WGSST2230"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Incredibly easy class. Gabbard doesn't unlock modules on time or answer emails quickly, but the assignments are incredibly easy. There's no textbook, she provides all readings, but sometimes you have to watch things on Netflix, YouTube, Hulu, etc. Would definitely take as an easy GE. Easy to get an A!",
+        "course": "WGSST2230"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Honestly my least favorite professor I've had in my entire college career. In an online class, she refuses to give you a syllabus that is accessible unless you're online to view it. When you contact her, she does not respond if an email is not up to her standards (without no example) and in an online class email is the only form of communication.",
+        "course": "WGSST2230"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She was amazing!! I learned so much from her class. The movies we watched were fun (Mean Girls, Easy A, etc.) and we would have discussions over them and the articles we had to read. There was a bit of work for this class and there are movie quizzes, but pretty much as long as you showed you were putting in effort, you would get an A.",
+        "course": "WGSST3317"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Best class I've taken at OSU so far! Sonnet is so passionate about the course and truly cares about her students. She makes lecture interesting and engaging. There limited outside graded work, but quite a bit of reading. It's so easy to participate in class because she covers super cool relevant topics. I (almost) wished the semester wouldn't end!",
+        "course": "WGSST3370"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "LOVED this course with Sonnet. One of the best professors I have had. I enjoyed all topics discussed. This course helped me learn how to use proper terminology in relation to gender studies, which helped me tremendously in my profession. ",
+        "course": "WGSST1110"
+      },
+      {
+        "index": 7,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Sonnet was a good professor and very sweet. She was bubbly and passionate which made it easy to learn. She is a little strict with attendance though but if you show up and participate you should do pretty well. A lot of our grades were from weekly online posts in a forum.",
+        "course": "WGSS3370"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very interesting class and great teacher. She's a very fair teacher overall. She does require attendance and doing the readings. She has pop quizzes based off of the readings but if you do them you will be fine. I would definitely recommend her!",
+        "course": "WGSST1110"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Class can be rushed a times, needs to slow down and not cram so many activities in a single class session BUT one of the best classes and teachers I've had. HIGHLY recommend her. She will challenge you, engage your desire to learn and work with you every step of the way. Excellent, excellent instructor. Take her class, you won't regret it.",
+        "course": "WGSS3370"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "You are pretty much guaranteed an A if you show up and do the readings. Repeat - she is a stickler for attendance and encourages a ton of participation but the assignments are easy... she really just wants you to learn and participate and be engaged so grades aren't the most important thing. Great teacher, she'll like you if you come every day.",
+        "course": "WGSS3370"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Flawless approach to teaching- best I've had in 4 years of college. She works through extremely hard readings with you and forces you to grow a lot as a human being but its relatively low stress otherwise. Super adorable and supportive and approachable.",
+        "course": "WGSS3370"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She is amazing. Probably the best teacher I have ever had in college. But you need to go to class and do the readings. She makes the class so that as long as you do the work and come to class you will do well. Definitely take her if you have the chance.",
+        "course": "WGSST3370"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2,
+    "avgRating": 4.1,
+    "department": "Women's Studies",
+    "firstName": "Raili",
+    "id": "VGVhY2hlci0zOTcyNjU=",
+    "lastName": "Roy",
+    "legacyId": 397265,
+    "numRatings": 9,
+    "summary_comment": "Professor Roy is known for her rigorous and engaging lectures, providing students with comprehensive materials to prepare for exams. She expects active participation and thorough preparation, which can be challenging but ultimately rewarding. Her teaching style is praised for making the Women's Studies class both interesting and interactive, though some students find her feedback can be harsh when they lack knowledge of the subject matter.",
+    "summary_comment_short": "Professor Roy is known for her rigorous grading standards and demanding expectations, often leaving students with a mix of frustration and appreciation. Her lectures are well-organized and interactive, and she provides comprehensive materials for her courses, making her a highly respected instructor in the Women's Studies department.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "I handed in all my work passed all my assignments but couldn't do my final the day of bc my computer crashed and I was giving a C- with my average grade being 283 and her criteria grade was 310.. So confused",
+        "course": "WS101"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Amazing class. Very interesting. Have to do readings and study for tests, but she gives you everything you need to know. Unfortunately I was in the minority Fall 06 but I Loved loved loved it.",
+        "course": "WS305"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Class in interesting, however she does shun you down if you don't know the answers, so be prepared.  Midterms are more than you would expect from a women's studies course.",
+        "course": "WOMEN305"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "Great class. Raili is a great lecturer and discussions/lectures are great. Does a great job of bringing concepts together. Smaller classroom so make sure you participate in discussions (do your readings)",
+        "course": "WS305"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "If you want a great Women's Studies Class with a teacher that'll teach you something she is the lady. Go to class and do the reading you will be completely ready for anything she throws your way.",
+        "course": "WS101"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Guys if you are going to take a Women's Studies class take it with this woman. You are not going to get beat down daily for being male. Raili makes the class quite interesting and interactive, make sure to show up to lecture and you will have no surprises. Do the reading it's important!",
+        "course": "WS101"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "No Comments",
+        "course": "WS101"
+      },
+      {
+        "index": 8,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "really easy class.  Organized lecture and notes.  There shouldn't be any surprises on the test but she took off for spelling on essay tests (which is crazy considering her english isn't always very clear.)",
+        "course": "WS101"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "No Comments",
+        "course": "WS101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.9,
+    "avgRating": 4.3,
+    "department": "Women's Studies",
+    "firstName": "Malia",
+    "id": "VGVhY2hlci0yMzIyMDI5",
+    "lastName": "Womack",
+    "legacyId": 2322029,
+    "numRatings": 7,
+    "summary_comment": "Professor Womack is highly regarded for her supportive and caring approach, providing timely feedback and prioritizing student success. Her classes are known for engaging discussions and a focus on student learning, though some find her grading criteria challenging and assignments sometimes vague.",
+    "summary_comment_short": "Professor Womack is highly regarded for her supportive and caring approach, providing timely feedback and fostering an engaging learning environment that encourages participation and success. Her dedication to her students' learning and success is evident, though some students have noted challenges with unclear assignments and grading criteria.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I highly reccomend Professor Womack, she has went above and beyond to provide me with timely feedback I can use to successfully and confidently complete major writting assignments. She is very caring and supports students goals in learning.",
+        "course": "WGSST2230"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This professor is very smart and really prioritizes the student before anything else. It would be really hard to fail this class if you showed up and participated. Don't fret over some of the harder readings! Just do your best and come with questions then you won't leave confused. Overall, love the teaching style of this professor!",
+        "course": "WGSST2367"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "This class was a great expansion on a lot of gender studies concepts and Prof. Womack is a great resource on these topics!",
+        "course": "WGSST2367"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "lots of class discussions, but she makes it very conducive to participation as well as an easy and fun experience!",
+        "course": "WGSST236701"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Really insightful and aspirational.",
+        "course": "WGSST1100"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "You can tell she really cares about her students and wants them to succeed in the class and get something out of the material. Make sure to watch the weekly videos and follow the prompts for assignments and you shouldn't have any problems. She's also super responsive to email and will give feedback or guidance if you have questions!",
+        "course": "WGSST2367"
+      },
+      {
+        "index": 7,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "I did not like this professor. She never used Canvas/Carmen for grades so you never know what your grade is for the class. She grades tough on papers, if you don't have a full page typed she will deduct points. Assignments were very vague and not all of them were on the syllabus. I enjoyed the class material, just not the professor.",
+        "course": "WGSST1100"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.4,
+    "avgRating": 4.6,
+    "department": "Women's Studies",
+    "firstName": "Jonathan",
+    "id": "VGVhY2hlci0yMDUwOTkx",
+    "lastName": "Branfman",
+    "legacyId": 2050991,
+    "numRatings": 16,
+    "summary_comment": "Professor Branfman is highly regarded for his excellent teaching quality, evident in his organization, clarity, and supportive classroom environment. Students appreciate his engaging and humorous approach, which keeps classes lively and engaging. He sets high standards and provides clear expectations and constructive feedback, fostering a community where students feel encouraged to succeed.",
+    "summary_comment_short": "Professor Branfman is highly regarded for his insightful, organized, and supportive teaching style, which creates an engaging and inclusive classroom environment. Students consistently praise his ability to make complex topics accessible and relevant, while also pushing them to meet high standards through clear expectations and constructive feedback.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Really kind, insightful, and organized. Also really funny! I never found myself checking the clock during his class.",
+        "course": "ENGL3707"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "He's very organized and clear, but also supportive. And he made the most supportive class environment that I've ever been in. He learned all our names the first day, and helped us all learn each other's names. It was really a good community environment for learning. ",
+        "course": "ENGL3707"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "I learned something new in every class, and the readings always felt interesting/relevant. He has high expectations for essays, but also gives clear expectations and helpful feedback. In office hours, he really helped me improve my final essay. He also creates a really positive environment for class discussions.",
+        "course": "ENGL3707"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Would take again. Sometimes the workload got heavy, if we had a film + a long article due together. But everything we watched/read was interesting, and sometimes really funny! Professor Branfman also gives clear expectations and feedback for essays. He also brings lots of energy to every class, and you can tell he cares about everyone's success.",
+        "course": "ENGL3707"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Great class, great professor. ",
+        "course": "ENGL3707"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "He's heading to Stanford next, and Cornell will miss him.",
+        "course": "ENGL3707"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "His first-year writing seminar was great! I thought I already wrote well before getting here, but he helped us all get much better at researching, outlining, writing, and proofreading. He has high standards, but he also really helps you meet them: he gives clear expectations and personalized feedback. Would take again!",
+        "course": "ENGL3707"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Always looked forward to his class, and I'm trying to get a spot in his spring class. He's clear, funny, and fair, and the class topics always connect to real life. He has high expectations, but he makes a supportive environment for learning how to meet those expectations. If you take his class, you'll laugh a lot and learn a lot.",
+        "course": "ENGL3707"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "He is not a great teacher. The class is discussion based, so you come to class just to talk about questions he poses. You have to speak at least 3 times which is frustrating because theres not always lots to say if you dont want to be repetitive (he will call u out for both). Directions are unclear and he waits till end of term to post grades..",
+        "course": "FGSS4757"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Branfman is an incredibly captivating speaker and lecturer and is always very kind, open, and eager to help his students. His assignments were rather interesting and fun to do. He's funny, his enthusiasm is contagious, and whatever he has to say is guaranteed to be insightful.",
+        "course": "FMST250"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Absolutely incredible professor. Gives great and informational lectures. Grades fairly and quickly. I learned an incredible amount from him and anyone would be lucky to take a class with him.",
+        "course": "WGSST3317"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Took this class as a gen ed and didn't know much about women studies. Jon did an AMAZING job. I recommend him and this class to all my friends. He always sets clear expectations and returns grade SO fast. Fair amount of reading but it was interesting and I didn't mind. If you do reading and pay attention, tests/ papers are easy to ace.",
+        "course": "WGSST2230"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I recommend this prof to all my friends. Took his class for a GE and didn't expect much--but had an amazing time! I learned a ton that will really stick with me and applies to my everyday life. So glad I stumbled into this class and this prof. Jon was the best. Quick & fair grader, really engaging/fun teacher, and challenged us in the best way. ",
+        "course": "WGSS 1110"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "Very helpful and approachable, always happy to answer questions. Very well-organized (I mean the semester plan overall, the assignments, the layout of each class, everything). Always totally clear what's expected from students and why we're doing what we're doing.",
+        "course": "WGSS 2230"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Excellent! Super genuine, creates a great positive classroom atmosphere, makes everyone feel valued when they participate. Passionate, smart, interesting, & knowledgable. Really great at respectfully challenging you to think critically about everything.",
+        "course": "WGSS 2230"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Everything you could want: Passionate, energized, fast(!) grader,  totally clear explanations even on tough concepts, keeps your attention with funny lectures while still teaching you a ton. Plus Jon cares SO much about his students: If you seem down in class, or miss class, he'll always ask if you're okay.  You definitely have to read and show up.",
+        "course": "WGSS 1110"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3.9,
+    "avgRating": 2.6,
+    "department": "Women's Studies",
+    "firstName": "Lin",
+    "id": "VGVhY2hlci04MjQ3MjY=",
+    "lastName": "Distel",
+    "legacyId": 824726,
+    "numRatings": 13,
+    "summary_comment": "Professor Distel is widely regarded as one of the toughest instructors, particularly for general education courses. Students consistently report that her classes are extremely demanding, often requiring more effort than expected for the credit hours, and she is known for her stringent grading standards and unclear explanations of assignments. Many advise against taking her classes unless you are prepared for significant challenges.",
+    "summary_comment_short": "Professor Distel is widely regarded as one of the toughest instructors, known for her rigorous grading and fast-paced, demanding classes. Students consistently report that her classes require extensive effort and detailed adherence to her specific standards, making it challenging to achieve good grades without significant commitment.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "This was the worst class I have ever taken, I took it during the summer and it was 3 hour credit class, the work felt like I was taking a 5 hour credit class. She doesn't even follow MLA format, it seems like it is something she just made up. DO NOT TAKE!!!!",
+        "course": "WGSST1110"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Dude all I can say is, mistake of your life if you take this class. No one liked the class for a reason, you see the ratings. Dont do it to urself. Trust ",
+        "course": "WGSST1110"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "im an A/B student and i took one of her classes before this that wasnt hard at all. however, this class was THE hardest class i think i have ever taken for a class that is only filling a GE for me. if i couldve picked ANY other class, I WOULDVE. do not recommend her at. all. i received a C+ in her class, and how i even managed that i have no idea.",
+        "course": "2215WGSST"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 4,
+        "comment": "Im sick of hearing dont drop this class everyone can do it shes by far one of the hardest and worst instructors Ive ever had. Shes very hard. If youre looking for hard work for a class that could be very simple, take her. I believe shes been doing this this for too long and needs to be done. She does the worst in explaining assignments.",
+        "course": "WOMEN110"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Absolutely loved this class and professor! Definitely take her class, you won't regret it!!",
+        "course": "WOMEN110"
+      },
+      {
+        "index": 6,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "I wish I would have researched this professor prior to taking her online class. I am an A student and this will be my first C ever. She does not explain things clearly, and even when you follower her ruberic, she will still tax you heavily &quot;grade wise&quot; if you are not specific enough to her standards. PLEASE AVOID HER AT ALL COST. VERY BAISED.",
+        "course": "WOMEN110"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 5,
+        "comment": "Very difficult online class. Lin is a very tough grader and there are a lot of tests with super specific questions. There is a lot of work and a lot of readings every week. If you want an easy A dont take this class. You have to put in a lot of time and effort to pass.",
+        "course": "WGSST1110"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Lin Distel is a professor who makes you work for your grade. You will not pass if you dont review her syllabus and evaluative criteria. This is a session 1 online class and its very fast-paced. You have to read the assigned readings. You can get an A but you have to work for it, its too hard for a 1000 level GE.",
+        "course": "WGSST1110"
+      },
+      {
+        "index": 9,
+        "rating": 1,
+        "difficulty": 4,
+        "comment": "Honestly stay away from at least her online classes very unclear on the instructions and frankly not a very good class to take online.",
+        "course": "WMNSTUDS326"
+      },
+      {
+        "index": 10,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "I first liked this teacher...then one day after class she got in my face and yelled at me telling me i was disrespectful for talking in her class and that i was not aloud to sit next to my friend anymore..the funny thing is i never even said a word to my friend during the class period..all i did was laugh at something that was funny.",
+        "course": "WOMEN110"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "This teacher is absolutely amazing!  One of my favorites!  She keeps discussion interesting and listens to everyone's opinions.  Readings are easy and interesting because they apply to things that affect our daily lives.  I would definitely recommend taking this class for an easy grade that you actually enjoyed!",
+        "course": "WS110"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Best instruction I've had at OSU. very discussion based, very intellectually stimulating. Hard exams but very fair. Must participate in discussion for good grade. Loved going to her class. Brilliant woman.",
+        "course": "WS324"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Distel is great. TAKE THIS CLASS.  Class is 100% discussion so be prepared to talk or it will seriously affect your grade. LOVED IT!",
+        "course": "WMNSTUDS326"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "18315",
+        "Term": "SU 24",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "14581",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "18941",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "14582",
+        "Term": "SU 20",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "16234",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "34634",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.36"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "14563",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "14564",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "18909",
+        "Term": "SU 21",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "10185",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.4"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "10445",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.3"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "23916",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "10193",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "M",
+        "Responses": "4",
+        "Rating": "3"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "10375",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.07"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "14201",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "2.9"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "14980",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "18980",
+        "Term": "SU 22",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.13"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "14374",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "3.43"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "14599",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.54"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "2215",
+        "Class Name": "Reading Women Writers",
+        "Class Number": "26886",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "3.22"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "16788",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Mansfield Campus",
+        "Medium": "Distance Learning",
+        "Campus": "MNS",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "3.82"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "16942",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "3.85"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "18900",
+        "Term": "SU 23",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "17548",
+        "Term": "AU 23",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.07"
+      },
+      {
+        "Subject": "WGSST",
+        "Catalog": "1110",
+        "Class Name": "Gender, Sex and Power",
+        "Class Number": "17402",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Newark Campus",
+        "Medium": "Distance Learning",
+        "Campus": "NWK",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "3.22"
+      }
+    ]
+  },
+  {
     "avgDifficulty": 3,
     "avgRating": 2.3,
     "department": "Women's Studies",
@@ -2442,6 +4504,8 @@
     "lastName": "Simoneau",
     "legacyId": 1279591,
     "numRatings": 2,
+    "summary_comment": "Professor Simoneau conducts a highly discussion-based class with minimal reading quizzes, making participation crucial for engagement. She is known for being an easy grader on quizzes and projects and offers extra credit opportunities. However, students have noted that she may be more lenient than other English instructors and have accused her of favoritism and inconsistent grading.",
+    "summary_comment_short": "Professor Simoneau conducts a highly discussion-based class with minimal reading quizzes, making participation crucial for engagement. She is known for being an easy grader on quizzes and projects and offers extra credit opportunities, while allowing up to three absences without penalty. However, students have criticized her grading as inconsistent and felt she shows favoritism.",
     "Ratings": [
       {
         "index": 1,
@@ -2469,6 +4533,8 @@
     "lastName": "Isbister",
     "legacyId": 1210201,
     "numRatings": 4,
+    "summary_comment": "Professor Isbister is known for her dedication to the subject matter, evident in her engaging lectures and the use of extensive readings. While her classes can be quite easy and require respectful discussions, some find them repetitive and boring, especially for those with prior knowledge.",
+    "summary_comment_short": "Professor Isbister is known for her extensive use of readings, which can be demanding but manageable with thorough engagement. She is described as sweet, approachable, and an effective teacher who delivers the material clearly and engages students with stories. However, some students find her classes too easy and unengaging, particularly if they are already familiar with the subject matter.",
     "Ratings": [
       {
         "index": 1,
@@ -2510,6 +4576,8 @@
     "lastName": "Finch",
     "legacyId": 733376,
     "numRatings": 7,
+    "summary_comment": "Professor Finch is highly regarded for her effective teaching methods and ability to facilitate thoughtful discussions on controversial topics. Students find her classes engaging and respectful, with many noting her commitment to ensuring diverse viewpoints are heard. Her approach makes the material accessible and memorable.",
+    "summary_comment_short": "Professor Finch is highly regarded for her effective teaching methods and ability to facilitate thoughtful discussions on controversial topics while ensuring a respectful classroom environment. Students find her classes easy with clear study guides and assignments, and many describe her as an \"awesome\" instructor who makes learning engaging and memorable.",
     "Ratings": [
       {
         "index": 1,
@@ -2572,6 +4640,8 @@
     "lastName": "Dong",
     "legacyId": 2244942,
     "numRatings": 1,
+    "summary_comment": "Professor Dong is highly regarded for his excellent teaching quality, characterized by engaging humor and fascinating content that captivates students.",
+    "summary_comment_short": "Professor Dong is highly regarded for his excellent teaching quality, known for his engaging humor and fascinating course content that captivates students.",
     "Ratings": [
       {
         "index": 1,
@@ -2592,6 +4662,8 @@
     "lastName": "Shaw",
     "legacyId": 1412192,
     "numRatings": 8,
+    "summary_comment": "Professor Shaw is highly regarded for his engaging and entertaining teaching style, making classes enjoyable and memorable. He is known for his caring nature and understanding approach, particularly during challenging times. Students appreciate his clear explanations, supportive classroom environment, and passion for the subject matter, though some note the course involves substantial reading that can be complex.",
+    "summary_comment_short": "Professor Shaw is highly regarded for his engaging and entertaining teaching style, making the class enjoyable and fun. Students appreciate his care and understanding, noting his support during challenging times and his passion for the subject matter.",
     "Ratings": [
       {
         "index": 1,
@@ -2661,6 +4733,8 @@
     "lastName": "Bre'Z",
     "legacyId": 1260186,
     "numRatings": 5,
+    "summary_comment": "Professor Bre'Z is described as a dedicated and supportive instructor who fosters a comfortable learning environment, encouraging class participation and providing substantial feedback. However, some students find her classes repetitive and heavily biased towards feminist perspectives, which can be off-putting for those who disagree. Overall, while the workload is manageable, the quality of interaction and grading can vary significantly based on alignment with the professor's viewpoints.",
+    "summary_comment_short": "Professor Bre'Z is described as both helpful and effective in her teaching, though her class requires active participation and engagement, particularly through class discussions and presentations. However, some students find her lectures repetitive and the class environment polarizing due to her strong feminist stance, which can affect those who do not share her views.",
     "Ratings": [
       {
         "index": 1,
@@ -2709,6 +4783,8 @@
     "lastName": "Breau",
     "legacyId": 1449034,
     "numRatings": 5,
+    "summary_comment": "Professor Breau is highly regarded for her passionate teaching approach and commitment to her subject matter. Students appreciate her ability to create a supportive and engaging learning environment, particularly noting her expertise in fostering discussions on complex social issues. While classes involve substantial reading and assignments, students find these worthwhile and recommend both her courses and her instruction.",
+    "summary_comment_short": "Professor Breau is highly regarded for her comprehensive approach to teaching, significantly impacting students' understanding of feminist issues and social biases. Her classes are characterized by extensive reading materials that, while demanding, are considered invaluable for deepening knowledge.",
     "Ratings": [
       {
         "index": 1,
@@ -2757,6 +4833,8 @@
     "lastName": "Tai",
     "legacyId": 1482376,
     "numRatings": 3,
+    "summary_comment": "Professor Tai is highly regarded for her organizational skills and ability to clearly communicate expectations, leading to effective learning outcomes. While some students note that she grades more rigorously, particularly in writing-intensive courses, her classes are generally praised for their quality and depth.",
+    "summary_comment_short": "Professor Tai is highly organized and effective in explaining course material, leading to significant learning outcomes for students. While some find her grading stringent, particularly in writing assessments, her classes are generally well-regarded and recommended by students.",
     "Ratings": [
       {
         "index": 1,
@@ -2791,6 +4869,8 @@
     "lastName": "Livingston",
     "legacyId": 347982,
     "numRatings": 30,
+    "summary_comment": "Professor Livingston is highly regarded for her deep insights and rigorous approach to teaching, emphasizing serious engagement with readings and argumentative writing. However, her teaching style and class structure have been criticized for being disorganized and unstructured, leading to confusion and frustration among students regarding assignments and expectations.",
+    "summary_comment_short": "Professor Livingston is known for her high expectations and rigorous approach to teaching, emphasizing serious engagement with readings and argumentative writing. However, many students find her classes challenging due to her unstructured lectures and lack of clear guidance, leading to confusion and frustration.",
     "Ratings": [
       {
         "index": 1,
@@ -3014,6 +5094,8 @@
     "lastName": "Collingwood",
     "legacyId": 602732,
     "numRatings": 9,
+    "summary_comment": "Professor Collingwood is known for demanding a significant time commitment and rigorous workload, with extensive readings, quizzes, and frequent papers. Her classes can be challenging, especially for general education credit (GEC) students, and some find them harder than their nursing courses. While her lectures and materials can be engaging, her grading can be subjective and inconsistent, making it difficult to achieve high grades without extensive effort.",
+    "summary_comment_short": "Professor Collingwood's classes are known for being demanding, requiring significant time and effort, with numerous readings, quizzes, and papers. Her teaching style can be polarizing, with some students finding her lectures and material engaging yet challenging, while others struggle with her subjective grading and the necessity to either align with her views or work extremely hard to counter them.",
     "Ratings": [
       {
         "index": 1,
@@ -3090,6 +5172,8 @@
     "lastName": "Kock",
     "legacyId": 1030769,
     "numRatings": 6,
+    "summary_comment": "Professor Kock is highly regarded for her effective teaching methods and challenging yet engaging classes. Students appreciate her clarity in expectations and her ability to make complex material accessible. Her courses, especially at higher levels, are rigorous but rewarding, fostering critical thinking and deep understanding.",
+    "summary_comment_short": "Professor Kock is highly regarded for her effective teaching methods and challenging yet clear expectations, making her suitable for both introductory and advanced courses. Students consistently praise her ability to explain complex material clearly and engage them throughout the course.",
     "Ratings": [
       {
         "index": 1,
@@ -3145,6 +5229,8 @@
     "lastName": "Tapia",
     "legacyId": 391422,
     "numRatings": 13,
+    "summary_comment": "Professor Tapia is known for her clarity and ability to make topics engaging, often exceeding expectations set by course listings. She is highly regarded for her fairness, availability, and willingness to help, though some students note she can be less responsive via email. Students appreciate her intelligence, engaging discussions, and approachable demeanor, though her workload expectations and occasional lower effort in communication can be challenging.",
+    "summary_comment_short": "Professor Tapia is known for her clarity and ability to make topics engaging, often exceeding expectations based on course listings. She is described as fair, knowledgeable, and committed to student engagement, though some note that her responsiveness to emails could be improved.",
     "Ratings": [
       {
         "index": 1,
@@ -3249,6 +5335,8 @@
     "lastName": "Dudley",
     "legacyId": 1208113,
     "numRatings": 4,
+    "summary_comment": "Professor Dudley is highly knowledgeable and passionate about her subject, fostering engaging discussions in her classes. While her grading can be strict, particularly regarding attendance, she is fair and often negotiable. Students appreciate her enthusiasm and recommend her class, noting it requires consistent engagement but offers valuable insights.",
+    "summary_comment_short": "Professor Dudley is highly knowledgeable and passionate about her subject, fostering engaging discussions in class. However, she can be strict with attendance and grading, and her responses to emails are sometimes delayed.",
     "Ratings": [
       {
         "index": 1,
@@ -3290,6 +5378,8 @@
     "lastName": "Swenson",
     "legacyId": 1694256,
     "numRatings": 5,
+    "summary_comment": "Dr. Swenson is an effective and clear instructor who sets high expectations from the start and provides ample resources for her students. She is known for being friendly, communicative, and approachable, making the class accessible and enjoyable. Students find her classes manageable with minimal required readings and straightforward assessments, though they emphasize the importance of engagement and preparation for success.",
+    "summary_comment_short": "Dr. Swenson is an effective and clear instructor who sets high expectations from the start and provides ample resources for learning. She is known for being friendly, communicative, and easy to work with, making the class accessible and enjoyable for students.",
     "Ratings": [
       {
         "index": 1,
@@ -3338,6 +5428,8 @@
     "lastName": "Cochran",
     "legacyId": 963490,
     "numRatings": 1,
+    "summary_comment": "Professor Cochran excels in teaching, fostering engaging and enjoyable class discussions that reflect her genuine passion for education.",
+    "summary_comment_short": "Professor Cochran excels in her teaching, making class discussions both engaging and enjoyable due to her genuine passion for the subject matter. Her enthusiasm significantly enhances the overall learning experience.",
     "Ratings": [
       {
         "index": 1,
@@ -3358,6 +5450,8 @@
     "lastName": "Day",
     "legacyId": 1452153,
     "numRatings": 9,
+    "summary_comment": "Professor Day is known for her demanding and rigorous teaching style, which challenges students to put in significant effort and time, particularly in writing assignments. Her classes are highly educational and engaging, though students find them challenging due to her stringent grading standards. Despite the difficulty, many students praise her passion, clarity, and encouragement of critical thinking, recommending her class highly.",
+    "summary_comment_short": "Professor Day is known for her rigorous and demanding approach to teaching, particularly in her grading of papers, which can be challenging. Students appreciate her expertise and passion for the subject matter, though they caution that the workload is substantial and the class requires significant effort.",
     "Ratings": [
       {
         "index": 1,
@@ -3434,6 +5528,8 @@
     "lastName": "Brown",
     "legacyId": 1592543,
     "numRatings": 2,
+    "summary_comment": "Professor Brown is highly regarded for her effective teaching methods and engaging content. She ensures students are well-prepared for assessments by providing necessary readings and materials, and her classes are both informative and interesting. Her approach is straightforward, focusing on key readings and regular attendance, making the class accessible even without extensive artistic skills.",
+    "summary_comment_short": "Professor Brown is known for her effective and engaging teaching style, making the course material accessible even without a textbook. Her classes are well-structured with clear expectations, including pop quizzes and a mix of exams and blog assignments, ensuring students stay engaged and prepared.",
     "Ratings": [
       {
         "index": 1,
@@ -3461,6 +5557,8 @@
     "lastName": "Gulino",
     "legacyId": 1409050,
     "numRatings": 3,
+    "summary_comment": "Professor Gulino effectively engages students with interesting discussions, though they often reflect a feminist perspective. Her teaching style is approachable and her lectures are pertinent, though some find the class easier than advertised, particularly in fulfilling certain academic requirements.",
+    "summary_comment_short": "Professor Gulino demonstrates strong teaching quality, engaging students with interesting discussions often framed from a feminist perspective, and providing relevant lectures and assignments. Her classes are generally considered easy, though some find the material demanding without realizing it beforehand.",
     "Ratings": [
       {
         "index": 1,
@@ -3495,6 +5593,8 @@
     "lastName": "Holmes",
     "legacyId": 912687,
     "numRatings": 7,
+    "summary_comment": "Professor Holmes is generally regarded as a dedicated and flexible instructor who emphasizes learning and passing. However, some students found her lectures and assessments challenging, particularly noting her bias towards majors and her sometimes rigid stance on opinions and participation. While many appreciate her willingness to help and accommodate due dates, others criticize her teaching style as overly focused on feminist perspectives and find her lectures dense and less effective in facilitating understanding.",
+    "summary_comment_short": "Professor Holmes is highly regarded for her flexibility with due dates and her willingness to help students learn and pass the course. However, some students found her lectures and tests challenging, particularly those who disagreed with her viewpoints or felt she showed bias towards majors in the Women's Studies department.",
     "Ratings": [
       {
         "index": 1,
@@ -3557,6 +5657,8 @@
     "lastName": "Bernhard",
     "legacyId": 943832,
     "numRatings": 5,
+    "summary_comment": "Professor Bernhard is highly regarded for her approachability and insightful teaching, particularly in encouraging deeper exploration of nursing topics. However, her lectures often fall short in engaging students and facilitating class discussions, relying heavily on readings without incorporating diverse media. Students note mixed experiences with workload and class duration, with some finding the material manageable while others feel overwhelmed by extensive reading and unclear grading criteria.",
+    "summary_comment_short": "Professor Bernhard is highly regarded for her approachability and insightful teaching, encouraging deep exploration of nursing topics. However, her lectures often fall short in engaging students, relying heavily on readings and lacking diverse teaching methods, which can make the material feel overwhelming and the classes lengthy and sometimes unengaging.",
     "Ratings": [
       {
         "index": 1,
@@ -3605,6 +5707,8 @@
     "lastName": "Robertson",
     "legacyId": 1194697,
     "numRatings": 1,
+    "summary_comment": "Professor Robertson, specifically Lindsay, is highly regarded for her exceptional teaching quality, being both extremely helpful and readily available for students. Her course is praised for dispelling initial hesitations and providing a welcoming environment that fosters a love for the subject matter.",
+    "summary_comment_short": "Professor Robertson, specifically Lindsay, is highly regarded for her exceptional teaching quality, offering extensive support and flexibility to students. Her course is praised for its engaging content, dispelling initial hesitations and fostering a positive learning environment.",
     "Ratings": [
       {
         "index": 1,
@@ -3625,6 +5729,8 @@
     "lastName": "Fox",
     "legacyId": 1411872,
     "numRatings": 1,
+    "summary_comment": "Professor Fox, specifically Tracey, is highly regarded for her effective and supportive teaching style. She makes the class accessible at the 100-level while ensuring students gain substantial knowledge. Her approachable and non-judgmental demeanor fosters a positive learning environment.",
+    "summary_comment_short": "Professor Fox, specifically Tracey, is highly regarded for her effective and supportive teaching approach, making the class accessible while still providing substantial learning opportunities. Students appreciate her openness to diverse ideas and her willingness to help, recommending her course highly.",
     "Ratings": [
       {
         "index": 1,
@@ -3645,6 +5751,8 @@
     "lastName": "Wolters",
     "legacyId": 321162,
     "numRatings": 7,
+    "summary_comment": "Professor Wolters is highly knowledgeable in writing skills and techniques but is often criticized for unclear instructions and playing favorites. Students found her approachable and willing to help, though some felt her assignments were vague and the class focused too much on research that benefited her graduate work, leading to frustration.",
+    "summary_comment_short": "Professor Wolters is highly knowledgeable in writing skills and techniques but is often criticized for unclear instructions and playing favorites. Students find her approach to grading fair and appreciate her willingness to help, though many also express frustration with vague assignments and a perceived lack of professionalism.",
     "Ratings": [
       {
         "index": 1,
@@ -3707,6 +5815,8 @@
     "lastName": "Mitchell",
     "legacyId": 967331,
     "numRatings": 4,
+    "summary_comment": "Professor Mitchell's classes are generally considered easy with a focus on reading and frequent, relatively simple quizzes. However, students note that the required reading is extensive and often boring, and performance on these quizzes can significantly impact grades. Overall, while some find her engaging and the class manageable, others struggle with the workload and find the material dry.",
+    "summary_comment_short": "Professor Mitchell's classes are generally considered easy with a focus on reading and frequent, relatively simple quizzes. However, the amount of reading required is significant and can be tedious, and performance on quizzes heavily impacts the final grade.",
     "Ratings": [
       {
         "index": 1,
@@ -3748,6 +5858,8 @@
     "lastName": "Keating",
     "legacyId": 1032639,
     "numRatings": 3,
+    "summary_comment": "Professor Keating is highly regarded for her exceptional teaching quality, inspiring class discussions, and engaging students with material in innovative ways. She fosters a democratic classroom environment and encourages individual interests while providing ample support. Her teaching approach, which includes circle discussions and role-playing, creates a close-knit and dynamic learning space.",
+    "summary_comment_short": "Professor Keating is highly regarded for her exceptional ability to inspire class discussions and engage students with the material, often tailoring her approach to meet individual interests. Her teaching style, which includes democratic classroom practices and interactive methods like role-playing, fosters a dynamic and inclusive learning environment.",
     "Ratings": [
       {
         "index": 1,
@@ -3782,6 +5894,8 @@
     "lastName": "Akbar-Williams",
     "legacyId": 1120054,
     "numRatings": 2,
+    "summary_comment": "Professor Akbar-Williams is highly regarded for her engaging and humorous teaching style, which makes the subject matter accessible and enjoyable. Her lectures are effective, though some students found the material so straightforward that they sometimes felt they knew more than she did. The course is generally considered easy with tests that are manageable if one completes the readings.",
+    "summary_comment_short": "Professor Akbar-Williams is highly regarded for her engaging and humorous teaching style, which effectively communicates complex concepts, allowing students to learn a great deal. However, some students found her knowledge to be occasionally lacking, particularly in nuanced areas, and questioned her expertise at times, noting that the course was relatively easy with minimal effort required beyond basic reading assignments.",
     "Ratings": [
       {
         "index": 1,
@@ -3809,6 +5923,8 @@
     "lastName": "Beaudette",
     "legacyId": 1145195,
     "numRatings": 7,
+    "summary_comment": "Professor Beaudette is highly regarded for her engaging and enjoyable teaching style, particularly among students interested in pop culture and women's studies. While some found the class easy and focused more on entertainment than rigorous academic content, many praised her enthusiasm, approachability, and the fun, informative nature of the course. Overall, she is seen as one of the best professors at OSU, though opinions vary on the class's academic rigor.",
+    "summary_comment_short": "Professor Beaudette is widely regarded as an engaging and knowledgeable instructor, with many students praising her approachable nature and the fun, interesting format of her classes. However, some students express disappointment, finding the class less challenging than expected and more focused on pop culture and media rather than deep academic exploration.",
     "Ratings": [
       {
         "index": 1,
@@ -3871,6 +5987,8 @@
     "lastName": "Hurt",
     "legacyId": 1275988,
     "numRatings": 1,
+    "summary_comment": "Professor Hurt's class is generally considered easy, with straightforward grading and a focus on reading from the text for discussions that often veer off-topic, allowing for some flexibility in participation. Exams are simple and come with provided study guides, making the course accessible overall.",
+    "summary_comment_short": "Professor Hurt's classes are generally considered easy, with straightforward exams and generous grading. The course workload includes several short papers and extensive reading, but participation is flexible, allowing for some degree of improvisation during discussions.",
     "Ratings": [
       {
         "index": 1,
@@ -3891,6 +6009,8 @@
     "lastName": "Linder",
     "legacyId": 1256514,
     "numRatings": 2,
+    "summary_comment": "Professor Linder is highly regarded for her exceptional teaching quality, described as the best English teacher her students have ever had. Known for her dedication to student success and engaging teaching style, she makes complex material accessible and enjoyable. Her challenging yet rewarding approach ensures that students who attend class regularly and complete readings perform well.",
+    "summary_comment_short": "Professor Linder is highly regarded for her exceptional teaching quality, consistently praised as the best English instructor at OSU. She goes above and beyond to support her students' success while maintaining an engaging and enjoyable classroom environment.",
     "Ratings": [
       {
         "index": 1,
@@ -3905,6 +6025,71 @@
         "difficulty": 3,
         "comment": "Katie is by far the best teacher I have had at OSU. She is willing to do whatever it takes to help her students succeed. Class was always entertaining and the novels she assigned were actually enjoyable to read. Her assignments are a tad challenging, but if you go to class and read the novels, you will be fine. Definitely take this class, 367.01!",
         "course": "WOMSTD"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Women's Studies",
+    "firstName": "Katie",
+    "id": "VGVhY2hlci0yMzQ5NTAy",
+    "lastName": "Swindler",
+    "legacyId": 2349502,
+    "numRatings": 1,
+    "summary_comment": "Professor Swindler is highly regarded for her dedication to teaching and student success, making her one of the best instructors according to her students. She fosters an engaging, discussion-based learning environment, particularly suited for the dynamic nature of Women's and Gender Studies, and is adept at addressing a wide range of questions.",
+    "summary_comment_short": "Professor Swindler is highly regarded for her dedication to her subject and her students, fostering an engaging and dynamic discussion-based learning environment. Her comprehensive knowledge and passion for Women's, Gender, and Sexuality Studies make her a standout educator in the field.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Katie is probably the best teacher I've had so far here. She really cares about what she's teaching and she wants her students to be successful. Because WGSS is an ever-changing subject, she makes everything discussion based and she can answer literally any question you have. I was skeptical to take this class, but she made me love it.",
+        "course": "WGSST1110"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.2,
+    "avgRating": 4.8,
+    "department": "Women's Studies",
+    "firstName": "Rachel",
+    "id": "VGVhY2hlci0xNTAzMzkz",
+    "lastName": "Stonebrook",
+    "legacyId": 1503393,
+    "numRatings": 4,
+    "summary_comment": "Professor Stonebrook is highly regarded for her effective and engaging teaching methods, making her class both interactive and informative. Students appreciate her passion for the subject matter and her dedication to fostering a supportive learning environment, even in an online setting. Her approachable nature and willingness to connect personally with students contribute to a rich educational experience.",
+    "summary_comment_short": "Professor Stonebrook is highly regarded for her effective and engaging teaching methods, making her class both interactive and enlightening. Students praise her passion for the subject matter and her dedication to fostering a deep understanding and interest in women's studies.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She was amazing! Even as an online class, I felt like she really tried to get to know us. I learned a lot. There was a lot of reading each week and then everyone would participate in an online discussion. As long as you gave your responses before the due date, you would get 100%. She was an easy grader for the midterm paper and final paper.",
+        "course": "WGSST1110"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Stonebrook made the class very interactive. Her teaching style was great and she is very considerate to students. Even though the class says \"women studies\" she broke the shyness in class by her great teaching skills. I highly recommend taking her class, especially for men. This class will make you learn great things!",
+        "course": "WGSS2350"
+      },
+      {
+        "index": 3,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Rachel was by far the best instructor I've encountered in my 4 years.  She is extremely passionate about her work and really cares about sparking the students' minds. She's the very reason I'm so interested in many of the topics that are now dear to me. She's very open about her personal life and makes great connections to outside of the class.",
+        "course": "WGSS11002367"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Very helpful and passionate about the class. She has a fun personality and provides a good foundation of basic concerns of Women's Studies.",
+        "course": "WGSST1110"
       }
     ],
     "SEI": []

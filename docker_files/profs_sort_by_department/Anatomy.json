@@ -1,5 +1,1551 @@
 [
   {
+    "avgDifficulty": 2.8,
+    "avgRating": 4.9,
+    "department": "Anatomy",
+    "firstName": "John",
+    "id": "VGVhY2hlci0xNDUzNzAz",
+    "lastName": "Bolte",
+    "legacyId": 1453703,
+    "numRatings": 4,
+    "summary_comment": "Professor Bolte is highly regarded for his exceptional teaching quality, making even early morning lectures engaging and worthwhile. Students appreciate his dedication to helping them succeed, often going above and beyond what is expected. His ability to simplify complex material and maintain student interest through storytelling and thorough explanations contributes to a positive learning experience.",
+    "summary_comment_short": "Professor Bolte is highly regarded for his engaging lectures and effective teaching methods, making even early morning classes worthwhile. Students appreciate his dedication to helping them succeed and find the material both interesting and manageable despite its complexity.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He is my favorite professor at OSU. He makes lectures at 8 am worth going to. As long as you read and study the lecture slides you will do good on exams. I wish he taught all my classes.",
+        "course": "ANAT220"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This has been my favorite class I have taken so far at OSU. I found the material to be naturally very interesting, and he explained it well. Granted there is A LOT of material to cover in a short time, but pay attention in class and study the lecture slides religiously. Put in the effort and you will do fine and hopefully enjoy it as much as I did.",
+        "course": "ANAT220"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "He is by far my favorite professor.He goes way beyond what is required for a professor and really wants to see his students succeed and will do what he can to make sure that they do.Lectures are fun and he tells stories which keeps the information interesting.",
+        "course": "ANAT220"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "While anatomy is a tough class, he dumbed it down a lot and made it manageable. A lot of work for a 2 credit hour class but quizzes/test make up for it. Doesn't curve the class but will bump you up to the next grade if you do well. Looking forward to taking his 600 level ME class.",
+        "course": "ANAT220"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "BIOMEDE",
+        "Catalog": "2800",
+        "Class Name": "Anatomy for Engineers",
+        "Class Number": "33713",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Biomedical Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "70",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "HTHRHSC",
+        "Catalog": "7400",
+        "Class Name": "Injury Biomechanics: Topics in Mechanisms and Prevention",
+        "Class Number": "34433",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.7,
+    "avgRating": 5,
+    "department": "Anatomy",
+    "firstName": "Kristin",
+    "id": "VGVhY2hlci0yODQ1NTkx",
+    "lastName": "Stover",
+    "legacyId": 2845591,
+    "numRatings": 40,
+    "summary_comment": "Professor Stover is highly regarded for her effective teaching methods and clear lectures, which are recorded and easily accessible. Her classes are challenging but manageable with consistent study and engagement, and she provides numerous resources and opportunities for success. Students appreciate her supportive approach and the structured nature of her course, which helps make anatomy a comprehensible and engaging subject.",
+    "summary_comment_short": "Professor Stover is highly regarded for her effective teaching methods and comprehensive lectures, which are recorded and easily accessible. Her classes are challenging but manageable with thorough preparation and study, leading to relatively easy exams and high grades for students who engage actively.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This class is challenging but if you actually study and take the time to draw your own diagrams, make your own quizlets, and find a way that you can actually retain the information. Then I found the exams fairly easy. So far, I have gotten above a 90% on 4 exams. Great lecturer, and lectures are recorded so you can watch them anytime. Lab is fun. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She's the best! The class is a lot of information and memorizing, but she made it easier to grasp and has such a positive personality each lecture that makes them enjoyable. Lectures are online and recorded so not mandatory but they're the only way to get the information. She also posts her annotated notes after lecture which is very helpful",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Stover's lectures were very easy to understand, and she offered many helpful ways to memorize things as we learned. Weekly lab attendance was mandatory with 2 unexcused drops, and lecture was all online (recorded and posted) at 8AM but attendance was not mandatory. The exams were all multiple choice and extremely easy as long as you studied.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr Stover was great! There are good extra credit opportunities that can help with studying the content. She does not try to trick you with exams, so if you study you will do well. There are homework assignments due at the end of the unit for completion. Lab TA's will give you hints to what is on the exam. Loved this class, made anatomy interesting.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I loved her! She was honestly such a great professor, she made things easy to understand and gave us resources to use to help us study for the exams.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I had a great experience with Kristen. Lectures are online and not mandatory; she records them, and you need to watch them to succeed. She explains the material in a very relevant way to the tests, and she wants to ensure that every student is successful. It is a lot of course material to memorize, but she gives you every opportunity to succeed. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She genuinely cares about her students and doesn't want them to fail. There are five exams, though, and that is pretty much the bulk of your grade, so be sure to study those. Everything on her slides is on the exams, so study the slides, and you will be fine. Lots of content, but not hard. Attendance isn't mandatory & all lectures are recorded.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Stover does an amazing job teaching anatomy. This class was the most organized/straightforward course I've ever taken. The lectures are so well put together that I never felt like I needed to find other resources to do well in the class. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Best professor I have ever had. She clearly loved teaching and truly wanted the best for her students. Anatomy is a difficult topic, but her lectures were very clear in what you needed to know and they were very informative. She essentially made learning anatomy easy. Absolute 5/5, no doubt. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Such a great professor! TONS of studying but Dr. Stover breaks it down in a way to make it easy and understandable. Gives tons of study tools and tips to succeed. Lectures are great, lots of active note-taking which helps to learn. Exams are fair. Labs are interesting.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "1. Watch Dr. Stover's lectures in 2x speed while having the slides open on my Ipad. \n2. Make a condensed set of notes for each lecture. Include as many tables, charts, figures and pictures. \n3. Memorize your notes. I did this on notability by using the tape tool. \n4. Quiz myself using the hw, unit quizzes, lecture quizzes, and unit review lecture. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 12,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Stover was one of the best professors I have had. Her learning objectives are super clear and are the most accurate I have seen on exams. Watch 2x speed and MAKE QUIZLETS/FLASHCARDS that exactly match the objectives and you will get an A. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 13,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "By far my favorite class this semester! Dr. Stover is a very fair professor - each lecture begins with a list of objectives, and her exams are based off of these objectives so that there will never be test questions out of left field. 5 non-cumulative exams.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 14,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great professor! Content is divided into 5 units. Material is straight forward, and lectures are via zoom recordings so we could watch them whenever. Lab is helpful. Stay up-to-date with material, so there are not loads of info to study the night before the exams. Assignments are helpful and accurately reflect the exams!",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Stover is an amazing professor. As long as you keep up with the lectures and study in advance you should be fine. I would 100% take her class again.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Stover is an amazing professor. As long as you keep up with the lectures and study in advance you'll be fine. I would 100% take her class again if I could. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Stover is an amazing professor. The exams are not bad if you study. Anki was really helpful for this class. It is just a lot of memorization.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 18,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Dr. Stover is one of the anatomy 2300 professors and is amazing. Although I didn't do as good as I hoped in the class, she really conveys the information very well. The only thing I would say is how hard her exams are. They are worded in a very particular way that makes you think outside of the book so make sure you know your material. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 19,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Stover was an excellent professor. Anatomy is definitely not an easy course, however if you watch her lectures, start studying a week in advance, and actively take notes/make Quizlets - you will be okay! I enjoyed this class very much and truthfully did not try as hard as I could have and still did fine in the class.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "LOVE HER!!! Literally made me want to continue taking Anatomy courses. This class is memorization heavy (duh) and honestly if you do bad in the class, it's probably a lack of trying on your part bc. Stover tells you exactly what you can do to succeed.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I have had Prof Stover for 2 years because I had to retake anatomy. I was actually happy to be taking the class a second time because of how interesting the class is. Stover is super sweet and despite such a big class if you are not doing well she will go out of her way to check on you. Exams are fair but a lot. Start studying weeks before.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Dr. Stover is great. Anatomy is a lot to learn but her and the rest of the teaching staff clearly presented the content and tried to make it as easy and interesting as possible to learn. Most of your grade comes from exams so as long as you stay on top of things and study you'll do fine.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 23,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "as long as you keep up with the lectures it's totally doable. can skip 3 labs. super nice prof. almost now hw besides studying so exams are important. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 24,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "great prof!!!",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 25,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Very organized class, expectations are clear. Almost now homework, studying and test heavy. 3/11 labs get dropped which is so nice. If you stay on top of your studying, not too bad. Lectures at 8 am online, but posted on carmen to watch later.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 26,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Excellent professor, best I've had at OSU. Makes it extremely clear what you need to learn, and what will be on the exams. Exams are thorough, but if you use her checklists they're very easy. 10/10.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 27,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Stover is incredibly knowledgable and a great professor! Lectures were stressful to understand at first, but she makes the material very interesting and relatively simple enough for us to grasp for the tests. The class is definitely difficult, but Dr. Stover is a great person to learn from.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 28,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Amazing professor! For anatomy being the rigorous course that it is, she does an great job of breaking down concepts into a way that is easy to understand. Online lectures were always recorded. Although you have to put in some time to study, the exam questions were very fair. Exam content was easy to find by just studying the lecture notes given. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 29,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "The best professor I have ever had! Dr. Stover is amazing at teaching anatomy. She actively hand writes/ draws notes and this is incredibly helpful. Anatomy isn't an easy class but if you review and know the muscle tables and flow charts by heart then you'll do good. STUDY!!",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 30,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Anatomy 2300 with Kristin Stover was a great class. There are not many assignments to overwhelm students and you'll only get a good grade if you study because most of your grade comes from the exams. Everything on the exams is in the written notes and some is from labs, so if you study that, then you have all of the information you need to succeed.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 31,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Stover is great at lecturing, makes things clear and lets students know what will be on the exams. There is barely homework, one little multiple-choice assignment every Friday with some exam study assignment before midterms. Love her energy at 8 in the morning.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 32,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Anatomy is a difficult class in any form, but Dr. Stover truly cares about students and makes the class as manageable as possible (i.e. telling you what you do and don't need to know, hands on lectures, memorization techniques). I would not have passed this class without that. It gets easier as the course goes on which was a big relief as well!",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 33,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Please please be nice to Dr. Stover! She is absolutely amazing and we students love her.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 34,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Professor Stover actually cared about her students and made our lectures more active learning style after seeing that many did bad on the first exam. This class has a lot of content that needs to be memorized, if you do not study you will not do well. I found the labs to be the best part of the class!",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 35,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I am a student who retook the course and she was a very caring professor who was willing to see her class succeed. After she saw we did not do well on the first exam she changed her lecturing style and content format to be more straightforward. She was one of the best professors I've ever had at osu. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 36,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Anatomy 2300 will be a tough class regardless of who you have. But Dr. Stover made the course as bearable as possible. The exams were online and fully multiple choice or matching. At the end of the semester, I was 0.35% off from a C+. Even though the syllabus says no additional curve was in place, she curved me up after I emailed her.  ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 37,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Anatomy 2300 was a difficult class, however Professor Stover made it as bearable as possible. She genuinely cares about her students. While the class was a lot of memorization, she posted the lecture videos for students to rewatch,and provided plenty of materials and resources to assist her students with studying. I would 100% recommend her!",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 38,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "She is an amazing teacher in terms of the way she does lecture and sets up the class. She's also an amazing human.She really cares about the whole class and genuinely cares about the teaching which makes the teaching that much better. She is one of the most memorable teachers I have had. I highly recommend if you have the chance to take her, do it.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 39,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Stover is GREAT. Anatomy is just a hard class in general but stover is great at explanations. The class is offered online at 8am Monday, Wednesday, and Friday. BUT it is reordered so you can miss and watch later. Labs are once a week for 2 hours and 30 minutes. The labs don't necessarily help but they are mandatory. Tests are hard but manageable. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 40,
+        "rating": 4,
+        "difficulty": 5,
+        "comment": "Dr. Stover was a great Anatomy professor. The course was only offered online with weekly labs, but she explained the material very clearly even though anatomy can be a difficult subject. This class is really just memorizing A LOT of stuff, but if you put in a good amount of effort you will be fine!",
+        "course": "ANATOMY2300"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "4900",
+        "Class Name": "Clinical Anatomy for Undergraduates",
+        "Class Number": "23510",
+        "Term": "SU 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.02",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1583",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "13",
+        "Rating": "4.42"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.04",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1585",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "295",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.01",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2169",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "252",
+        "Rating": "4.79"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.03",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2172",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "125",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "4700",
+        "Class Name": "Undergraduate Histology",
+        "Class Number": "33790",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.01",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1124",
+        "Term": "SU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "32",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "3300.01",
+        "Class Name": "Advanced Human Anatomy",
+        "Class Number": "1122",
+        "Term": "SU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "15",
+        "Rating": "4.93"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1179",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "670",
+        "Rating": "4.84"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2164",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "746",
+        "Rating": "4.85"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6200",
+        "Class Name": "Human Anatomy Biomechanics",
+        "Class Number": "37621",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 3.4,
+    "department": "Anatomy",
+    "firstName": "Leslie",
+    "id": "VGVhY2hlci0yNDQ3NDQ1",
+    "lastName": "Sewell",
+    "legacyId": 2447445,
+    "numRatings": 5,
+    "summary_comment": "Professor Sewell is known for being approachable and self-deprecating, using effective analogies and mnemonics to teach. While some students appreciate her humor and engaging lectures, others find her teaching style less effective, particularly in online formats, where her content may not always be clear or well-received.",
+    "summary_comment_short": "Professor Sewell is known for being approachable and self-deprecating, using effective analogies and mnemonics to enhance understanding. However, some students find her teaching style less effective, particularly in online lectures, where the delivery often fails to resonate with all learners.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "I thought this prof was very nice and approachable. She is very self-deprecating. Sometimes I couldn't tell if she was joking or is really hard on herself.  I really liked her analogies and mnemonics to remember things. ",
+        "course": "Anatomy2300"
+      },
+      {
+        "index": 2,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "It really amazes me how some prof can be nasty to students they barely know. I heard this prof make a nasty comment to a student who complimented her outfit. She responded \"Complimenting me bc your exam is next week?\" No prof should be talking to a student that way. Also, side comments about dentpath and medpath students was wildly unprofessional. ",
+        "course": "Anatomy2300"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Sewell is great at keeping lectures entertaining and informative even if lectures did tend to run over a bit. She has a pneumatic for everything that are incredibly useful for studying and she breaks down content well. I hope I can take more anatomy classes with her in the future.  ",
+        "course": "Anatomy2300"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "A little self deprecating, but funny and enjoyable to listen to. Very helpful. ",
+        "course": "Anatomy2300"
+      },
+      {
+        "index": 5,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "There are 2 lecturers in this class and Dr. Sewell is one of them. Every online lecture there is always some complication, which isn't completely her fault. But the way she gets her information across never clicks with me or makes the most sense. I have talked to others and many have said the same thing. Is a nice prof but not the best at teaching.",
+        "course": "Anatomy2300"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "5300",
+        "Class Name": "Learning Human Anatomy Through Dissection",
+        "Class Number": "1141",
+        "Term": "SU 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1179",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "665",
+        "Rating": "4.18"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "4600",
+        "Class Name": "Human Embryonic Development and Birth Defects",
+        "Class Number": "3493",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "4700",
+        "Class Name": "Undergraduate Histology",
+        "Class Number": "3414",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "3.27"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "4700",
+        "Class Name": "Undergraduate Histology",
+        "Class Number": "3415",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "3.38"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6700",
+        "Class Name": "Human Histology",
+        "Class Number": "1743",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3.4"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 5,
+    "avgRating": 1,
+    "department": "Anatomy",
+    "firstName": "Habiba",
+    "id": "VGVhY2hlci0zMDgxOTIw",
+    "lastName": "Chirchir",
+    "legacyId": 3081920,
+    "numRatings": 2,
+    "summary_comment": "Professor Chirchir is known for caring about her students, but her class structure is highly criticized. Students face three major exams that collectively make up about 90% of the grade, with each exam containing nearly 100 questions and covering extensive material, making it difficult to recover from a poor performance. Additionally, many students find her lectures unengaging, as she primarily reads from lecture slides without providing deeper explanations or ensuring understanding of complex topics like anatomy.",
+    "summary_comment_short": "Professor Chirchir is known for caring about her students, but her class structure is highly criticized, featuring three exams that collectively make up about 90% of the grade, with each exam containing nearly 100 questions and covering extensive material. Students find her lectures unengaging as she primarily reads from lecture slides without providing additional context or explanation, making it difficult to grasp the material effectively.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "She cares about students however the class is structured terribly, she has 3 exams that are worth about 90% of the grade and the exams are almost 100 questions with to much material. in other words if you fail one exam its very hard to come back. ",
+        "course": "3504"
+      },
+      {
+        "index": 2,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Genuinely the worst professor I've had in my 4 years of college. She does not care if her students understand the material and only reads of the lecture slides. She expects you to know and understand anatomy in the same way she does, but she's just reading words off the slides. The tests consist of way too much material. Do not take her class! ",
+        "course": "3504"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.6,
+    "avgRating": 5,
+    "department": "Anatomy",
+    "firstName": "Claudia",
+    "id": "VGVhY2hlci0yNzYyNjQ4",
+    "lastName": "Mosley",
+    "legacyId": 2762648,
+    "numRatings": 10,
+    "summary_comment": "Professor Mosley is highly regarded for her clear and concise teaching style, making complex topics accessible. She posts all lectures online, allowing flexibility in attending classes, and her exams are directly based on her lecture slides, ensuring no surprises. While the course is information-heavy, her straightforward approach and willingness to help make the material manageable.",
+    "summary_comment_short": "Professor Mosley is highly regarded for her clear and concise teaching style, posting all lectures online and focusing exams on her slide presentations, which helps students prepare effectively. She is known for making complex topics accessible and is very approachable and helpful, though the course requires significant effort, particularly in memorization and understanding detailed anatomical information.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "All of her lectures are posted online, so no need to go to class. She is very good at telling you what is expected, as there are no trick questions on the exams. That being said, it is anatomy, and you will have to put in the work to do well. ",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Well Dr. Mosley is absolutely phenomenal! She is very straightforward, does not try to trick you and is very concise and clear in what she wants you to know for her tests. The textbook was never used and her exams were purely based on her lecture slides. She is also super approachable outside of class. She is very good at simplifying complex topics",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "I loved this class! The tests were based directly off the slides, so very direct. There was a lot of material but mostly/all memorization. I studied HARD just the day before every test and ended with an A. I would definitely recommend!",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Mosley was an amazing teacher. She was always helpful and her tests were based off the slides she gave. She made anatomy fun. Even though it was a fast paced class she made it easier and the TA's were amazing! I'm going to miss this class a lot",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Claudia was AMAZING!!! Her lectures are fast paced, but very concise. They are also always recorded and posted on Carmen, so attendance is not mandatory. Labs are required, but you can miss up to three without loosing points. Her exams and practicals are incredibly fair. If you have any questions she is so helpful! One of my favourite classes yet!",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Get points for showing up to lab while lecture attendance is not mandatory. Almost everything on the exams are on the slides and the lab instructors/assistants will help you understand what's going on and give tips on what might be on exams based on prior experience. Make diagrams/drawings to study muscles or vessels and remember the acronyms. ",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Super clear and concise. Does go through material fast, but explains everything super well. The course itself is information heavy, but she does a good job of answering questions and will hint at what to study. She's amazing!",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "There is a ton of information associated with this course. Claudia makes it very clear what is important and what isn't. One of my best professors yet. ",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Anatomy 3300 is definitely a very difficult class, but her lectures were really helpful and in-depth. Her exams were not meant to trick you, she goes over everything you're tested on. She was always there if you had any questions and she really enjoys teaching the class. I really loved her lectures, they quickly became my favorite!",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Mosley is an amazing professor. Yes, anatomy can be a hard subject, but she is very fair with the tests and practicals; they are super straightforward - she doesn't want to trick you. Week 1 is a lot of work with a test and lecture videos, but after that, the rest of the year is very enjoyable. She makes all the material easily understandable.",
+        "course": "ANATOMY3300"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1150",
+        "Term": "SU 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "37",
+        "Rating": "4.76"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "3300.01",
+        "Class Name": "Advanced Human Anatomy",
+        "Class Number": "1063",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "112",
+        "Rating": "4.74"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.04",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1148",
+        "Term": "SU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "27",
+        "Rating": "4.62"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.01",
+        "Class Name": "Human Anatomy",
+        "Class Number": "33830",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Marion Campus",
+        "Medium": "Hybrid Delivery",
+        "Campus": "MRN",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6700",
+        "Class Name": "Human Histology",
+        "Class Number": "1739",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "3300",
+        "Class Name": "Advanced Human Anatomy",
+        "Class Number": "1030",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "104",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6900",
+        "Class Name": "Human Anatomy for Graduate Students",
+        "Class Number": "1487",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "3300.01",
+        "Class Name": "Advanced Human Anatomy",
+        "Class Number": "1739",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "111",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "4300",
+        "Class Name": "Human Anatomy with Dissection",
+        "Class Number": "3072",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "3300.01",
+        "Class Name": "Advanced Human Anatomy",
+        "Class Number": "1146",
+        "Term": "SU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "4300",
+        "Class Name": "Human Anatomy with Dissection",
+        "Class Number": "36053",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6600",
+        "Class Name": "Human Embryology",
+        "Class Number": "1925",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "3300.01",
+        "Class Name": "Advanced Human Anatomy",
+        "Class Number": "1733",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "54",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "4300",
+        "Class Name": "Human Anatomy with Dissection",
+        "Class Number": "3055",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "3300.01",
+        "Class Name": "Advanced Human Anatomy",
+        "Class Number": "1181",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "165",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "4300",
+        "Class Name": "Human Anatomy with Dissection",
+        "Class Number": "3496",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "3300.01",
+        "Class Name": "Advanced Human Anatomy",
+        "Class Number": "1737",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "122",
+        "Rating": "4.94"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.1,
+    "avgRating": 5,
+    "department": "Anatomy",
+    "firstName": "Derek",
+    "id": "VGVhY2hlci0xODg1OTI0",
+    "lastName": "Harmon",
+    "legacyId": 1885924,
+    "numRatings": 9,
+    "summary_comment": "Professor Harmon is highly regarded for his dedication and clear teaching methods, often staying after class to assist students. His lectures are thorough and his exams straightforward, though comprehensive preparation is essential. Students appreciate his willingness to go above and beyond to ensure their understanding, making him one of the top instructors at OSU.",
+    "summary_comment_short": "Professor Harmon is highly regarded for his dedication and clear teaching methods, often staying after class to assist students and review material extensively. His lectures are praised for being clear and helpful, with exams described as straightforward and fair, though the material covered is comprehensive.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Harmon truly loves what he does and is always willing to meet outside of class or explain himself better. The content is all over the lectures and labs and unfortunately everything counts. And might I say he's easy on the eyes.",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Derek is such an awesome professor. His lectures are clear, his tests are fair, and he is always willing to help when you have questions. One of the best professors I have encountered at OSU. Would recommend him to anyone. Not hard on the eyes as well ;) ",
+        "course": "ANAT3300"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "The class moves quickly, find what works for you and stick with it. Written and practical exams are straight forward, no trick questions. Know the material on the slides, read the lab manual, go to recitation, stay the entire time for lab and you'll most likely get an A. ",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Harmon is amazing. He's funny and very intelligent. He knows anatomy like the back of his hand and presents it to students in a way that is very understandable. He will go over ANYTHING a thousand times if it means it'll help students. Be prepared- Study a little each week and exams and practicals are straight forward and easy. ",
+        "course": "ANATOMY3330"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Easily the best professor I have ever had, and that is saying a lot considering this is supposed to be the more difficult of the anatomy classes at OSU. He is a great lecturer, and the tests are very straightforward. He dedicates extra hours of his own time to reviewing information in the lab, and it is clear he wants the best for all his students.",
+        "course": "3300"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Incredibly helpful and interested in helping his students! Comes into lab and opens the lab additional hours so you can go over material with him.  Exams are not super hard but you do have to study to do well.  Great teacher!",
+        "course": "ANAT3300"
+      },
+      {
+        "index": 7,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "Professor Derek and his lab stuff are amazing. I loved this course and would highly recommend. Attend his lectures,labs and recitation and spend extra time with the TAs' for labs you are sure to get an A in this course.",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great lecturer. Clear. Answers questions well. Lecture is EXTREMELY helpful. He reviews class materials multiple times at the beginning of class which is super helpful. Also hot!",
+        "course": "ANAT3300"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Class is not hard at all as long as you put forth the effort. Derek is super helpful and very straightforward about what to expect on exams",
+        "course": "ANATOMY3300"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6000",
+        "Class Name": "Advanced Musculoskeletal Anatomy",
+        "Class Number": "23509",
+        "Term": "SU 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "75",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6900",
+        "Class Name": "Human Anatomy for Graduate Students",
+        "Class Number": "1629",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6900",
+        "Class Name": "Human Anatomy for Graduate Students",
+        "Class Number": "1631",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6800",
+        "Class Name": "Human Neuroanatomy",
+        "Class Number": "1741",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "7890",
+        "Class Name": "Anatomy Seminar in Education",
+        "Class Number": "2511",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6000",
+        "Class Name": "Advanced Musculoskeletal Anatomy",
+        "Class Number": "22863",
+        "Term": "SU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "73",
+        "Rating": "4.99"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6900",
+        "Class Name": "Human Anatomy for Graduate Students",
+        "Class Number": "1630",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6900",
+        "Class Name": "Human Anatomy for Graduate Students",
+        "Class Number": "1632",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "7890",
+        "Class Name": "Anatomy Seminar in Education",
+        "Class Number": "2471",
+        "Term": "SP 24",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.33"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 2.8,
+    "avgRating": 4.5,
+    "department": "Anatomy",
+    "firstName": "Melissa",
+    "id": "VGVhY2hlci0xODAwMzEx",
+    "lastName": "Quinn",
+    "legacyId": 1800311,
+    "numRatings": 25,
+    "summary_comment": "Professor Quinn is highly regarded for her effective teaching methods and fairness in grading. Students appreciate her accessibility and dedication to student learning, with many noting her excellent lectures and willingness to help. While some mention that her exams are fair but challenging, particularly in the labs, her overall teaching quality is consistently praised.",
+    "summary_comment_short": "Professor Quinn is highly regarded for her fairness and effectiveness in teaching, with students praising her clear expectations, approachability, and dedication to student success. Her lectures are considered invaluable resources for exams, and she is known for her commitment to helping students understand the material, though some note that her class can be more challenging in the labs.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Melissa is by far my favorite professor at OSU. I'm taking harder classes just so I can have her teach me again. Her class was very fair. The practicals are difficult but if you use all the lab time allotted you will do well. The lecture exams are straight from her powerpoints and are great even if you skip/miss class",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Quinn is the absolute best! She was always there for students and always put us first. Never once was she rude or full of herself! I wish I could have her teach all my classes. Best professor I've had at OSU!!",
+        "course": "ANAT3300"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Dr. Quinn was a great professor for Anatomy 3300. She made it clear from the beginning that all tested material is directly from slides and lectures. She is such a nice professor and very approachable. Study thoroughly for all exams and you are almost guaranteed to do well.",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 4,
+        "rating": 2,
+        "difficulty": 3,
+        "comment": "She would get upset at students performance and attendence while she herself only taught lecture half the time. Full of herself while she is stuck teaching undergrads. Class isn't too hard. Lec exams are easy, while lab is harder because you have less questions for the same amount of pts. Obviously an interesting course.",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Melissa is my favorite professor at OSU. Her tests are very fair even though the info is difficult! Highly suggest her!",
+        "course": "ANATOMY3300"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Quinn is amazing! By far the best professor I've had since being at OSU. She is an excellent lecturer and goes out of her way to help students learn the material. Dr. Quinn rocks!",
+        "course": "ANAT3300"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Simply take 3300. Average was high 80's compared to the average of high 70's for 2300 which she taught. Not saying she is bad just understanding which class gives a MUCH higher average grade per EVERY exam taken is the smart choice. Also she was gearing her questions toward those who attended lecture because of a study she was doing (clearly).",
+        "course": "ANAT2300"
+      },
+      {
+        "index": 8,
+        "rating": 5,
+        "difficulty": 1,
+        "comment": "LOVED HER. I made the mistake of following Burgoon's lectures all semester and my grade suffered because if it. DO NOT BE FOOLED BY THEM! I went to Melissa's review sessions prior to exams and learned more from her than I ever did watching lectures online. She is incredible! Always go to her lectures and you'll do well. ",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 9,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "One word - AWESOME!",
+        "course": "ANAT2300"
+      },
+      {
+        "index": 10,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Melissa Quinn is by far the best professor I have had at OSU. She is really into anatomy and makes lectures interesting even if it is 6:50 A.M. The material is dense but if you study hard you will definitely get an A. Her tests are very clear and she does not try to trick you at all! Love her and wish she taught more undergrad courses here!",
+        "course": "2300"
+      },
+      {
+        "index": 11,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "This was a course that I would recommend to anyone (even if you are not a science major). It is a pretty easy course and the information is very helpful. LOVED THIS COURSE and would take it again if i good!",
+        "course": "2300"
+      },
+      {
+        "index": 12,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Ms. Quinn was AMAZING!  She is hands down the best instructor I've had at OSU.  She takes the time to motivate her students and get us interested in the material.  In a class of 500 or so she was so approachable.  She is genuine and is the BEST.  Can't say enough about her.",
+        "course": "2300"
+      },
+      {
+        "index": 13,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Melissa really knows her stuff and explains the material well during lectures. There are online lectures so I stopped going to lecture and eventually stopped listening to those and just used the power points. I got a B. I will say that Melissa's office hoursrecitations are super helpful and she reteaches the info in a more personal clssrm environ.",
+        "course": "ANAT2300"
+      },
+      {
+        "index": 14,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Melissa Quinn is great. She tries to make 8 am lectures more interesting and is not monotone at all. She is VERY clear and knows her stuff and will help you with whatever you need help with. She will answer questions in person, anonymously, through email, etc. She holds optional recitations that may help if you're lost, but I barely went to them.",
+        "course": "2300"
+      },
+      {
+        "index": 15,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Mrs. Quinn has been one of my favorite professors. The class itself is pretty challenging but as long as you don't wait till the last minute to study the the exams you should do fine! I recommend going to her lectures because she is very clear and can teach the material very well! Awesome anatomy professor. ",
+        "course": "2300"
+      },
+      {
+        "index": 16,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "BEST EVER! Ms. Quinn is by far the most helpful and nice instructors ever.  She is finishing up her PhD and teaching this course and devotes lots of her own time to help her students. She wants people to do well and helps however she can. You can listen to the online lectures but I HIGHLY suggest going to Ms. Quinn's lectures.  You won't be sorry",
+        "course": "ANAT2300"
+      },
+      {
+        "index": 17,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "She is super nice and is very clear on what will be on the test. She's a younger professor so she understands what it's like to be a college student and is just a really nice person. ",
+        "course": "ANATOMY"
+      },
+      {
+        "index": 18,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Ms. Quinn was awesome. She presented the material in a way that made it easier to understand. She is more than willing to help students. By far the best professor I've had since I came to OSU. If you need to take anatomy make sure to take it with her. ",
+        "course": "ANAT2300"
+      },
+      {
+        "index": 19,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "she seems very educated in what she teaches. Lectures can be long but often prove to be very helpful. she would gladly help when asked",
+        "course": "2300"
+      },
+      {
+        "index": 20,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She's an excellent lecturer. Very clear and willing to help. She provides powerpoints so that you can focus on the actual material and not worry about getting everything down. The exams are very do-able... no trick questions, very straight up. As long as you put in the work, you'll get the grade you want. LOVED this class.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 21,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "SImply put...if you put enough effort in you will get the grade you want. There are no trick questions on the exams you get the grades you deserve. Stay on top of your material and you will be fine!",
+        "course": "ANA2300"
+      },
+      {
+        "index": 22,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Loved this class and Melissa! She is extremely helpful and cares about the stuff she is teaching. All lectures are online so you really don't even need to go to class, just lab. Study hard and you'll get an A.",
+        "course": "ANAT2300"
+      },
+      {
+        "index": 23,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Very helpful, offers multiple sessions before each exam to answer questions and review. Exams are not made to trick you, if you know your material, you'll be fine. Lectures can be early but the audio file is provided online so attendance is optional. Definitely recommend!!",
+        "course": "ANAT2300"
+      },
+      {
+        "index": 24,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Ms. Quinn was a really good teacher. She really wanted you to learn and understand the material. She would go above and beyond to make sure I understood the information. This class is a prerequisite but take her for this course.",
+        "course": "ANATOMY2300"
+      },
+      {
+        "index": 25,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Ms.Quinn is by far the best teacher I have ever had. Anatomy was so difficult for me in the beginning. But, she really made difficult concepts make sense. She always is willing to help. Responds to emails quickly! Go to class!!!",
+        "course": "ANATOMY2300"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6600",
+        "Class Name": "Human Embryology",
+        "Class Number": "1817",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.91"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6900",
+        "Class Name": "Human Anatomy for Graduate Students",
+        "Class Number": "1520",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6700",
+        "Class Name": "Human Histology",
+        "Class Number": "1739",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6600",
+        "Class Name": "Human Embryology",
+        "Class Number": "1784",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6900",
+        "Class Name": "Human Anatomy for Graduate Students",
+        "Class Number": "1487",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6700",
+        "Class Name": "Human Histology",
+        "Class Number": "1744",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "7900",
+        "Class Name": "Clinically Oriented Anatomy",
+        "Class Number": "2815",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "4600",
+        "Class Name": "Human Embryonic Development and Birth Defects",
+        "Class Number": "36048",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.8"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6600",
+        "Class Name": "Human Embryology",
+        "Class Number": "1925",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6600",
+        "Class Name": "Human Embryology",
+        "Class Number": "1909",
+        "Term": "AU 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "1",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
     "avgDifficulty": 4.3,
     "avgRating": 2.8,
     "department": "Anatomy",
@@ -8,6 +1554,8 @@
     "lastName": "Corbin",
     "legacyId": 2710404,
     "numRatings": 4,
+    "summary_comment": "Professor Corbin is known for her engaging and humorous teaching style, which enhances learning. However, her classes are challenging and fast-paced, with a heavy workload that requires significant memorization. Some students find her lectures dense and prefer a more interactive approach. Overall, opinions vary widely, with some praising her humor and clarity while others criticize her lack of student support and the difficulty of the course.",
+    "summary_comment_short": "Professor Corbin is known for her engaging and humorous teaching style, which enhances learning, though some students find her lectures dense and prefer a more interactive approach. Reviews are mixed, with some praising her clarity and fairness in testing, while others strongly criticize her lack of student support and the high-stress nature of the course.",
     "Ratings": [
       {
         "index": 1,
@@ -38,7 +1586,204 @@
         "course": "ANAT2300"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "3300.01",
+        "Class Name": "Advanced Human Anatomy",
+        "Class Number": "1129",
+        "Term": "SU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "9",
+        "Rating": "4.78"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.04",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1137",
+        "Term": "SU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "21",
+        "Rating": "4.57"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.01",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1131",
+        "Term": "SU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "24",
+        "Rating": "4.35"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1028",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "83",
+        "Rating": "3.78"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1435",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "1",
+        "Rating": "1"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1436",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "15",
+        "Rating": "3.33"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1437",
+        "Term": "AU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "140",
+        "Rating": "3.66"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.01",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2177",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "121",
+        "Rating": "4.3"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.02",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2179",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "2",
+        "Rating": "4"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.03",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2180",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "94",
+        "Rating": "4.51"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.04",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2181",
+        "Term": "SP 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "113",
+        "Rating": "4.26"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6511",
+        "Class Name": "Human Anatomy for Dental Students I",
+        "Class Number": "1630",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "111",
+        "Rating": "3.89"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6511",
+        "Class Name": "Human Anatomy for Dental Students I",
+        "Class Number": "1693",
+        "Term": "AU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "109",
+        "Rating": "3.9"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6512",
+        "Class Name": "Human Anatomy for Dental Students II",
+        "Class Number": "1723",
+        "Term": "SP 23",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "115",
+        "Rating": "4.08"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.7,
@@ -49,6 +1794,8 @@
     "lastName": "Burgoon",
     "legacyId": 1243301,
     "numRatings": 131,
+    "summary_comment": "Professor Burgoon offers a challenging course with extensive self-study required, primarily through lengthy video lectures. Students emphasize the importance of consistent study and preparation for frequent, high-stakes exams, which make up the majority of the final grade. While some appreciate her knowledge and accessibility, others find her teaching style less supportive and the class demanding in terms of time commitment.",
+    "summary_comment_short": "Professor Burgoon's class is highly demanding, with a significant focus on self-study through extensive video lectures and a heavy reliance on five unit tests for grading, making it necessary to invest substantial time and effort. Her lectures are detailed and lengthy, and while her knowledge of human anatomy is praised, the class structure requires diligent note-taking and consistent study to succeed.",
     "Ratings": [
       {
         "index": 1,
@@ -968,6 +2715,635 @@
         "course": "ANAT199"
       }
     ],
+    "SEI": [
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.01",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1061",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "157",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.02",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1468",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "7",
+        "Rating": "4.14"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.03",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1469",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "37",
+        "Rating": "4.35"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.04",
+        "Class Name": "Human Anatomy",
+        "Class Number": "1470",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "208",
+        "Rating": "4.23"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "7891",
+        "Class Name": "Anatomy Seminar in Research",
+        "Class Number": "1482",
+        "Term": "AU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.58"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.01",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2172",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "190",
+        "Rating": "3.42"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.02",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2174",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "4",
+        "Rating": "2.5"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.03",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2175",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "88",
+        "Rating": "3.15"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "2300.04",
+        "Class Name": "Human Anatomy",
+        "Class Number": "2176",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "175",
+        "Rating": "3.22"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6700",
+        "Class Name": "Human Histology",
+        "Class Number": "1739",
+        "Term": "SP 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "3.43"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.5,
+    "avgRating": 5,
+    "department": "Anatomy",
+    "firstName": "Laura",
+    "id": "VGVhY2hlci0yMTUzOTQ5",
+    "lastName": "Boucher",
+    "legacyId": 2153949,
+    "numRatings": 2,
+    "summary_comment": "Professor Boucher is an effective lecturer known for his engaging approach despite the sometimes dense material. He utilizes comprehensive PowerPoint presentations and regularly scheduled quizzes to prepare students for exams, making the class structure clear and manageable. Overall, he delivers a high-quality educational experience.",
+    "summary_comment_short": "Professor Boucher is an effective lecturer who keeps classes engaging despite the dense material. He provides comprehensive PowerPoint presentations and regularly scheduled quizzes that mirror the test format, contributing to a well-structured course.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Laura is pretty awesome. Most lectures in this class are information overload, but she tries to keep them as interesting as possible.",
+        "course": "ANATOMY2220"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Good lecturer. Has great power points and posts them all on carmen. Weekly quizzes give you an idea of how test questions will be formatted. Altogether a good class with a good prof.",
+        "course": "ANATOMY2220"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6000",
+        "Class Name": "Advanced Musculoskeletal Anatomy",
+        "Class Number": "22062",
+        "Term": "SU 20",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "74",
+        "Rating": "4.97"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6000",
+        "Class Name": "Advanced Musculoskeletal Anatomy",
+        "Class Number": "22548",
+        "Term": "SU 21",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "55",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "ANATOMY",
+        "Catalog": "6000",
+        "Class Name": "Advanced Musculoskeletal Anatomy",
+        "Class Number": "23506",
+        "Term": "SU 22",
+        "College": "The College of Medicine",
+        "Department": "Biomedical Education & Anatomy",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "34",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "2200",
+        "Class Name": "Foundations of Athletic Training Diagnosis",
+        "Class Number": "35826",
+        "Term": "AU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "2300",
+        "Class Name": "Athletic Training Diagnosis and Acute Management I",
+        "Class Number": "5075",
+        "Term": "AU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.87"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "3600",
+        "Class Name": "Athletic Training Biomechanics",
+        "Class Number": "4924",
+        "Term": "AU 20",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "23",
+        "Rating": "4.96"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "2310",
+        "Class Name": "Athletic Training Diagnosis and Acute Management II",
+        "Class Number": "4835",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "3800",
+        "Class Name": "Care of Medical Emergencies, Trauma, and Disease",
+        "Class Number": "5031",
+        "Term": "SP 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "16",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "2200",
+        "Class Name": "Foundations of Athletic Training Diagnosis",
+        "Class Number": "37320",
+        "Term": "AU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "2300",
+        "Class Name": "Athletic Training Diagnosis and Acute Management I",
+        "Class Number": "5054",
+        "Term": "AU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "14",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "3600",
+        "Class Name": "Athletic Training Biomechanics",
+        "Class Number": "4903",
+        "Term": "AU 21",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "2310",
+        "Class Name": "Athletic Training Diagnosis and Acute Management II",
+        "Class Number": "4861",
+        "Term": "SP 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "3800",
+        "Class Name": "Care of Medical Emergencies, Trauma, and Disease",
+        "Class Number": "5057",
+        "Term": "SP 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.64"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "2200",
+        "Class Name": "Foundations of Athletic Training Diagnosis",
+        "Class Number": "5850",
+        "Term": "AU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "2300",
+        "Class Name": "Athletic Training Diagnosis and Acute Management I",
+        "Class Number": "5362",
+        "Term": "AU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.7"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "3600",
+        "Class Name": "Athletic Training Biomechanics",
+        "Class Number": "5219",
+        "Term": "AU 22",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.82"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "2310",
+        "Class Name": "Athletic Training Diagnosis and Acute Management II",
+        "Class Number": "5046",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "3800",
+        "Class Name": "Care of Medical Emergencies, Trauma, and Disease",
+        "Class Number": "5238",
+        "Term": "SP 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "6110",
+        "Class Name": "Introduction to Athletic Training Diagnosis",
+        "Class Number": "23060",
+        "Term": "SU 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.89"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "6120",
+        "Class Name": "Examination, Diagnosis, and Care of Lower Extremity Conditions",
+        "Class Number": "37048",
+        "Term": "AU 23",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "3700",
+        "Class Name": "Athletic Training Therapeutic Exercise",
+        "Class Number": "5408",
+        "Term": "SP 24",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "6",
+        "Rating": "4.33"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "6130",
+        "Class Name": "Examination, Diagnosis, and Care of Upper Extremity Conditions",
+        "Class Number": "37049",
+        "Term": "SP 24",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      },
+      {
+        "Subject": "ATHTRNG",
+        "Catalog": "6130",
+        "Class Name": "Examination, Diagnosis, and Care of Upper Extremity Conditions",
+        "Class Number": "37050",
+        "Term": "SP 24",
+        "College": "Health & Rehabilitation Sci",
+        "Department": "School of Health & Rehab Scien",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "5"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 5,
+    "department": "Anatomy",
+    "firstName": "Alan",
+    "id": "VGVhY2hlci0xNDE4Njc4",
+    "lastName": "Detton",
+    "legacyId": 1418678,
+    "numRatings": 1,
+    "summary_comment": "Professor Detton is widely regarded as an outstanding instructor, known for his engaging and dynamic teaching style that effectively communicates complex concepts. Students consistently describe his lectures as \"awesome\" and highly informative.",
+    "summary_comment_short": "Professor Detton is highly regarded for his exceptional teaching quality, consistently receiving praise for his engaging lectures and clear explanations. Students find his approach both effective and inspiring.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "awesome",
+        "course": "ANA101"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 1.5,
+    "avgRating": 4.8,
+    "department": "Anatomy",
+    "firstName": "Erin",
+    "id": "VGVhY2hlci0xNDE4Njc5",
+    "lastName": "Kellogg",
+    "legacyId": 1418679,
+    "numRatings": 2,
+    "summary_comment": "Professor Kellogg is highly regarded for her effective teaching methods, making complex concepts accessible through clear examples and straightforward explanations. She provides comprehensive fill-in-the-blank PowerPoint notes that facilitate easy following and offers ample opportunities for extra credit. Her classes are generally recommended for their fairness and manageable difficulty level, with exams being doable for those who put in some study time.",
+    "summary_comment_short": "Professor Kellogg is highly regarded for her effective teaching methods, providing clear examples and easy-to-follow PowerPoint notes. She offers ample extra credit opportunities and fair grading, making the exams manageable while still requiring some study effort.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "Great professor. She has great examples and easy to understand. Posts fill in the blank powerpoint notes, easy to follow along. Lots of easy-to-obtain extra credit. Have to study a little for the exams, but they're easy to pass with at least a B. I definitely recommend this class!",
+        "course": "PSYCH1110"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Psych 100 is a pretty straightforward class that I recommend as a GEC course. Erin is a great teacher. She's young and funny, and always gives relevant examples to the harder concepts in class. Overall, psych isn't that hard of a class, and though it's almost completely exams and quizzes, Erin grades fairly. I really liked her class!",
+        "course": "PSYCH100"
+      }
+    ],
+    "SEI": []
+  },
+  {
+    "avgDifficulty": 2.7,
+    "avgRating": 3.9,
+    "department": "Anatomy",
+    "firstName": "Janice",
+    "id": "VGVhY2hlci0xMTAzNTA0",
+    "lastName": "Herrmann",
+    "legacyId": 1103504,
+    "numRatings": 10,
+    "summary_comment": "Professor Herrmann is highly regarded for her dedication to student success, often praised for her energetic and entertaining teaching style, and her efforts to ensure students understand the material through clear lectures and exam reviews. However, opinions vary, with some students finding her tests challenging due to unexpected questions and errors, while others appreciate her straightforward approach and willingness to help.",
+    "summary_comment_short": "Professor Herrmann is highly regarded for her dedication to student success, often canceling Friday classes to emphasize key topics and providing multiple review sessions for exams. Her teaching style is engaging and humorous, making complex subjects more approachable, although her test questions can be challenging and prone to errors.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "If you have to take anatomy or Physiology, this is the professor to have. She truly cares about her students success and goes out of her way to make sure you succeed.",
+        "course": "BIO261"
+      },
+      {
+        "index": 2,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "If you have to take anatomy, take her class.  She is very kind and truly wants students to succeed in her class.  She gives several reviews before her exams that more or less tell you what to focus on.  out. Exams are fairly easy, but you still need to study.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "Jan is energetic and funny. She tries to make the class entertaining. She canceled some Fridays and told students what parts of lecture were important. She also tends to have some &quot;bad&quot; questions on exams, so it'd be to your advantage to catch them and possibly get credit.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "She is an amazing professor. Very funny, willing to help anyway possible. Very straight forward and to the point when teaching her classes. Her exams are Servay like tests, which makes it general and to the point. Great Great teacher. Definitly take her. She's wonderful!!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 5,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "great prof. took this class spring quarter and she cancelled EVERY friday class. lectures help, she makes jokes so its a little better. the material is kinda dry but what can you expect in anatomy&#63; use the book, color and you will do fine. loved this teacher!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 6,
+        "rating": 4,
+        "difficulty": 1,
+        "comment": "Prof. Herrmann's class was really intriguing and she made the topic fun. She also pretty much tells you exactly what is on the test, and if you can think like her they are super easy. Her TA's give a review session pretty much over the test. If you put in the time the test is easy. She is a HORRIBLE test writer. Too many mistakes!",
+        "course": "ANAT199"
+      },
+      {
+        "index": 7,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "She's useless. You could learn more by reading the book. Her test questions were incomprehensible and she made several changes to the test answers after her mistakes were caught by the students.",
+        "course": "ANA199"
+      },
+      {
+        "index": 8,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "She promised extra credit, but never gave it. She said the tests were &quot;easy&quot;, then asked off-the-wall questions. The tests had MANY errors in them, so she kept adding points to the final scores to make up for her errors. She only gave the extra points to those whom challenged her answers though, and not to everyone who got the questions right.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 9,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "she was great! there was i lot of information to learn but she tells you what to study and does everything she can to help you out. take her!!!!!! our TAs said that her tests were soo much easier then the other professors.",
+        "course": "ANAT199"
+      },
+      {
+        "index": 10,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "She's an APRN, MS, BSN, BSEd, and hygeniest. She's a CrAZy GeNiUs. The Anatomy department gets mad because her midterm averages are 83% and she's using the same exams as the previous professor and that lecturer's averages were 72%. She is AN AMAZING TEACHER. She was born to teach. Such vigor for her work! SHE GENUINELY WANTS YOU TO GET AN A.",
+        "course": "ANAT199"
+      }
+    ],
     "SEI": []
   },
   {
@@ -979,6 +3355,8 @@
     "lastName": "Simons",
     "legacyId": 2346517,
     "numRatings": 1,
+    "summary_comment": "Professor Simons, specifically in Anatomy 2300, is noted for her effective lecturing style, ensuring that students grasp essential concepts without rushing through material. While the lab manual is suggested, it is not strictly required as the lectures and provided materials are sufficient for understanding and performing well on tests, which significantly impact the final grade.",
+    "summary_comment_short": "Professor Simons, specifically in Anatomy 2300, is noted for being an effective lecturer who maintains a balanced pace and focuses on essential material. The class emphasizes lecture notes and does not require the lab manual, as it is not integral to the course content or performance.",
     "Ratings": [
       {
         "index": 1,
@@ -999,6 +3377,8 @@
     "lastName": "Turnow",
     "legacyId": 2422306,
     "numRatings": 6,
+    "summary_comment": "Professor Turnow is highly regarded for her exceptional teaching and supportive approach. Students consistently praise her knowledge, clarity in lecturing, and fairness in assessments. Her approachability and genuine care for student success make her a beloved instructor who goes above and beyond to help students understand and excel in their studies.",
+    "summary_comment_short": "Professor Turnow is highly regarded for her exceptional teaching and supportive approach, genuinely caring about her students' success and building strong relationships with them. She is known for her deep knowledge of the subject matter, fair assessments, and willingness to help students both in and out of the classroom.",
     "Ratings": [
       {
         "index": 1,
@@ -1054,6 +3434,8 @@
     "lastName": "Grachan",
     "legacyId": 2524061,
     "numRatings": 9,
+    "summary_comment": "Professor Grachan is highly regarded for his dedication to student success and his ability to make complex content accessible. Students find his lectures engaging and often entertaining, with many praising his clear explanations and supportive approach. His exams are generally fair and aligned with the course material, though consistent preparation is key to performing well.",
+    "summary_comment_short": "Professor Grachan is highly regarded for his dedication to student success and ability to make complex content accessible. His teaching style is engaging and humorous, and he provides ample resources and support, though the material can be challenging and requires significant study effort.",
     "Ratings": [
       {
         "index": 1,
@@ -1130,6 +3512,8 @@
     "lastName": "Foster",
     "legacyId": 2206707,
     "numRatings": 11,
+    "summary_comment": "Professor Foster, known as Allison, is highly regarded for her exceptional teaching quality and engaging lectures. Students praise her for her thorough explanations, availability to answer questions, and ability to make complex topics accessible and enjoyable. Her dedication to student understanding and her approachable nature contribute to a positive learning experience, although the course requires significant study effort.",
+    "summary_comment_short": "Professor Foster, known as Allison, is highly regarded for her exceptional teaching quality and ability to make complex topics accessible. Students consistently praise her for her engaging lectures, willingness to help, and effective study guidance, though they note the course requires significant effort to excel.",
     "Ratings": [
       {
         "index": 1,
@@ -1212,33 +3596,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.5,
-    "avgRating": 5,
-    "department": "Anatomy",
-    "firstName": "Laura",
-    "id": "VGVhY2hlci0yMTUzOTQ5",
-    "lastName": "Boucher",
-    "legacyId": 2153949,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Laura is pretty awesome. Most lectures in this class are information overload, but she tries to keep them as interesting as possible.",
-        "course": "ANATOMY2220"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Good lecturer. Has great power points and posts them all on carmen. Weekly quizzes give you an idea of how test questions will be formatted. Altogether a good class with a good prof.",
-        "course": "ANATOMY2220"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3,
     "avgRating": 5,
     "department": "Anatomy",
@@ -1247,6 +3604,8 @@
     "lastName": "Gonzales",
     "legacyId": 2368375,
     "numRatings": 1,
+    "summary_comment": "Professor Gonzales is highly regarded for her excellent teaching quality and engaging personality, making her classes enjoyable and beneficial. She is proactive in helping students and often stays after class to provide additional support, earning her great respect and enthusiasm from her students.",
+    "summary_comment_short": "Professor Gonzales is highly regarded for her engaging and supportive teaching style, consistently helping students and often staying after class to provide additional assistance. Her outgoing personality and approachable demeanor make her a popular choice among students.",
     "Ratings": [
       {
         "index": 1,
@@ -1254,892 +3613,6 @@
         "difficulty": 3,
         "comment": "Great Professor, I cant wait to take more classes with her! She is really out going and strives to help all her students She also is really good to look at so that makes it a plus to take her class! She helped me in any way possible even stayed after class a few times to help",
         "course": "ECON228"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.8,
-    "avgRating": 4.9,
-    "department": "Anatomy",
-    "firstName": "John",
-    "id": "VGVhY2hlci0xNDUzNzAz",
-    "lastName": "Bolte",
-    "legacyId": 1453703,
-    "numRatings": 4,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He is my favorite professor at OSU. He makes lectures at 8 am worth going to. As long as you read and study the lecture slides you will do good on exams. I wish he taught all my classes.",
-        "course": "ANAT220"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This has been my favorite class I have taken so far at OSU. I found the material to be naturally very interesting, and he explained it well. Granted there is A LOT of material to cover in a short time, but pay attention in class and study the lecture slides religiously. Put in the effort and you will do fine and hopefully enjoy it as much as I did.",
-        "course": "ANAT220"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "He is by far my favorite professor.He goes way beyond what is required for a professor and really wants to see his students succeed and will do what he can to make sure that they do.Lectures are fun and he tells stories which keeps the information interesting.",
-        "course": "ANAT220"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "While anatomy is a tough class, he dumbed it down a lot and made it manageable. A lot of work for a 2 credit hour class but quizzes/test make up for it. Doesn't curve the class but will bump you up to the next grade if you do well. Looking forward to taking his 600 level ME class.",
-        "course": "ANAT220"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.7,
-    "avgRating": 5,
-    "department": "Anatomy",
-    "firstName": "Kristin",
-    "id": "VGVhY2hlci0yODQ1NTkx",
-    "lastName": "Stover",
-    "legacyId": 2845591,
-    "numRatings": 40,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This class is challenging but if you actually study and take the time to draw your own diagrams, make your own quizlets, and find a way that you can actually retain the information. Then I found the exams fairly easy. So far, I have gotten above a 90% on 4 exams. Great lecturer, and lectures are recorded so you can watch them anytime. Lab is fun. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She's the best! The class is a lot of information and memorizing, but she made it easier to grasp and has such a positive personality each lecture that makes them enjoyable. Lectures are online and recorded so not mandatory but they're the only way to get the information. She also posts her annotated notes after lecture which is very helpful",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Stover's lectures were very easy to understand, and she offered many helpful ways to memorize things as we learned. Weekly lab attendance was mandatory with 2 unexcused drops, and lecture was all online (recorded and posted) at 8AM but attendance was not mandatory. The exams were all multiple choice and extremely easy as long as you studied.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr Stover was great! There are good extra credit opportunities that can help with studying the content. She does not try to trick you with exams, so if you study you will do well. There are homework assignments due at the end of the unit for completion. Lab TA's will give you hints to what is on the exam. Loved this class, made anatomy interesting.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I loved her! She was honestly such a great professor, she made things easy to understand and gave us resources to use to help us study for the exams.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I had a great experience with Kristen. Lectures are online and not mandatory; she records them, and you need to watch them to succeed. She explains the material in a very relevant way to the tests, and she wants to ensure that every student is successful. It is a lot of course material to memorize, but she gives you every opportunity to succeed. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She genuinely cares about her students and doesn't want them to fail. There are five exams, though, and that is pretty much the bulk of your grade, so be sure to study those. Everything on her slides is on the exams, so study the slides, and you will be fine. Lots of content, but not hard. Attendance isn't mandatory & all lectures are recorded.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Stover does an amazing job teaching anatomy. This class was the most organized/straightforward course I've ever taken. The lectures are so well put together that I never felt like I needed to find other resources to do well in the class. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Best professor I have ever had. She clearly loved teaching and truly wanted the best for her students. Anatomy is a difficult topic, but her lectures were very clear in what you needed to know and they were very informative. She essentially made learning anatomy easy. Absolute 5/5, no doubt. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Such a great professor! TONS of studying but Dr. Stover breaks it down in a way to make it easy and understandable. Gives tons of study tools and tips to succeed. Lectures are great, lots of active note-taking which helps to learn. Exams are fair. Labs are interesting.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "1. Watch Dr. Stover's lectures in 2x speed while having the slides open on my Ipad. \n2. Make a condensed set of notes for each lecture. Include as many tables, charts, figures and pictures. \n3. Memorize your notes. I did this on notability by using the tape tool. \n4. Quiz myself using the hw, unit quizzes, lecture quizzes, and unit review lecture. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 12,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Stover was one of the best professors I have had. Her learning objectives are super clear and are the most accurate I have seen on exams. Watch 2x speed and MAKE QUIZLETS/FLASHCARDS that exactly match the objectives and you will get an A. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 13,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "By far my favorite class this semester! Dr. Stover is a very fair professor - each lecture begins with a list of objectives, and her exams are based off of these objectives so that there will never be test questions out of left field. 5 non-cumulative exams.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 14,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great professor! Content is divided into 5 units. Material is straight forward, and lectures are via zoom recordings so we could watch them whenever. Lab is helpful. Stay up-to-date with material, so there are not loads of info to study the night before the exams. Assignments are helpful and accurately reflect the exams!",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Stover is an amazing professor. As long as you keep up with the lectures and study in advance you should be fine. I would 100% take her class again.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Stover is an amazing professor. As long as you keep up with the lectures and study in advance you'll be fine. I would 100% take her class again if I could. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 17,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Stover is an amazing professor. The exams are not bad if you study. Anki was really helpful for this class. It is just a lot of memorization.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 18,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Dr. Stover is one of the anatomy 2300 professors and is amazing. Although I didn't do as good as I hoped in the class, she really conveys the information very well. The only thing I would say is how hard her exams are. They are worded in a very particular way that makes you think outside of the book so make sure you know your material. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 19,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Stover was an excellent professor. Anatomy is definitely not an easy course, however if you watch her lectures, start studying a week in advance, and actively take notes/make Quizlets - you will be okay! I enjoyed this class very much and truthfully did not try as hard as I could have and still did fine in the class.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 20,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "LOVE HER!!! Literally made me want to continue taking Anatomy courses. This class is memorization heavy (duh) and honestly if you do bad in the class, it's probably a lack of trying on your part bc. Stover tells you exactly what you can do to succeed.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I have had Prof Stover for 2 years because I had to retake anatomy. I was actually happy to be taking the class a second time because of how interesting the class is. Stover is super sweet and despite such a big class if you are not doing well she will go out of her way to check on you. Exams are fair but a lot. Start studying weeks before.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 22,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Dr. Stover is great. Anatomy is a lot to learn but her and the rest of the teaching staff clearly presented the content and tried to make it as easy and interesting as possible to learn. Most of your grade comes from exams so as long as you stay on top of things and study you'll do fine.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 23,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "as long as you keep up with the lectures it's totally doable. can skip 3 labs. super nice prof. almost now hw besides studying so exams are important. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 24,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "great prof!!!",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 25,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Very organized class, expectations are clear. Almost now homework, studying and test heavy. 3/11 labs get dropped which is so nice. If you stay on top of your studying, not too bad. Lectures at 8 am online, but posted on carmen to watch later.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 26,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Excellent professor, best I've had at OSU. Makes it extremely clear what you need to learn, and what will be on the exams. Exams are thorough, but if you use her checklists they're very easy. 10/10.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 27,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Stover is incredibly knowledgable and a great professor! Lectures were stressful to understand at first, but she makes the material very interesting and relatively simple enough for us to grasp for the tests. The class is definitely difficult, but Dr. Stover is a great person to learn from.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 28,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Amazing professor! For anatomy being the rigorous course that it is, she does an great job of breaking down concepts into a way that is easy to understand. Online lectures were always recorded. Although you have to put in some time to study, the exam questions were very fair. Exam content was easy to find by just studying the lecture notes given. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 29,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "The best professor I have ever had! Dr. Stover is amazing at teaching anatomy. She actively hand writes/ draws notes and this is incredibly helpful. Anatomy isn't an easy class but if you review and know the muscle tables and flow charts by heart then you'll do good. STUDY!!",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 30,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Anatomy 2300 with Kristin Stover was a great class. There are not many assignments to overwhelm students and you'll only get a good grade if you study because most of your grade comes from the exams. Everything on the exams is in the written notes and some is from labs, so if you study that, then you have all of the information you need to succeed.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 31,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Stover is great at lecturing, makes things clear and lets students know what will be on the exams. There is barely homework, one little multiple-choice assignment every Friday with some exam study assignment before midterms. Love her energy at 8 in the morning.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 32,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Anatomy is a difficult class in any form, but Dr. Stover truly cares about students and makes the class as manageable as possible (i.e. telling you what you do and don't need to know, hands on lectures, memorization techniques). I would not have passed this class without that. It gets easier as the course goes on which was a big relief as well!",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 33,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Please please be nice to Dr. Stover! She is absolutely amazing and we students love her.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 34,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Professor Stover actually cared about her students and made our lectures more active learning style after seeing that many did bad on the first exam. This class has a lot of content that needs to be memorized, if you do not study you will not do well. I found the labs to be the best part of the class!",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 35,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I am a student who retook the course and she was a very caring professor who was willing to see her class succeed. After she saw we did not do well on the first exam she changed her lecturing style and content format to be more straightforward. She was one of the best professors I've ever had at osu. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 36,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Anatomy 2300 will be a tough class regardless of who you have. But Dr. Stover made the course as bearable as possible. The exams were online and fully multiple choice or matching. At the end of the semester, I was 0.35% off from a C+. Even though the syllabus says no additional curve was in place, she curved me up after I emailed her.  ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 37,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Anatomy 2300 was a difficult class, however Professor Stover made it as bearable as possible. She genuinely cares about her students. While the class was a lot of memorization, she posted the lecture videos for students to rewatch,and provided plenty of materials and resources to assist her students with studying. I would 100% recommend her!",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 38,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "She is an amazing teacher in terms of the way she does lecture and sets up the class. She's also an amazing human.She really cares about the whole class and genuinely cares about the teaching which makes the teaching that much better. She is one of the most memorable teachers I have had. I highly recommend if you have the chance to take her, do it.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 39,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Stover is GREAT. Anatomy is just a hard class in general but stover is great at explanations. The class is offered online at 8am Monday, Wednesday, and Friday. BUT it is reordered so you can miss and watch later. Labs are once a week for 2 hours and 30 minutes. The labs don't necessarily help but they are mandatory. Tests are hard but manageable. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 40,
-        "rating": 4,
-        "difficulty": 5,
-        "comment": "Dr. Stover was a great Anatomy professor. The course was only offered online with weekly labs, but she explained the material very clearly even though anatomy can be a difficult subject. This class is really just memorizing A LOT of stuff, but if you put in a good amount of effort you will be fine!",
-        "course": "ANATOMY2300"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.8,
-    "avgRating": 3.4,
-    "department": "Anatomy",
-    "firstName": "Leslie",
-    "id": "VGVhY2hlci0yNDQ3NDQ1",
-    "lastName": "Sewell",
-    "legacyId": 2447445,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "I thought this prof was very nice and approachable. She is very self-deprecating. Sometimes I couldn't tell if she was joking or is really hard on herself.  I really liked her analogies and mnemonics to remember things. ",
-        "course": "Anatomy2300"
-      },
-      {
-        "index": 2,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "It really amazes me how some prof can be nasty to students they barely know. I heard this prof make a nasty comment to a student who complimented her outfit. She responded \"Complimenting me bc your exam is next week?\" No prof should be talking to a student that way. Also, side comments about dentpath and medpath students was wildly unprofessional. ",
-        "course": "Anatomy2300"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Sewell is great at keeping lectures entertaining and informative even if lectures did tend to run over a bit. She has a pneumatic for everything that are incredibly useful for studying and she breaks down content well. I hope I can take more anatomy classes with her in the future.  ",
-        "course": "Anatomy2300"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "A little self deprecating, but funny and enjoyable to listen to. Very helpful. ",
-        "course": "Anatomy2300"
-      },
-      {
-        "index": 5,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "There are 2 lecturers in this class and Dr. Sewell is one of them. Every online lecture there is always some complication, which isn't completely her fault. But the way she gets her information across never clicks with me or makes the most sense. I have talked to others and many have said the same thing. Is a nice prof but not the best at teaching.",
-        "course": "Anatomy2300"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 5,
-    "avgRating": 1,
-    "department": "Anatomy",
-    "firstName": "Habiba",
-    "id": "VGVhY2hlci0zMDgxOTIw",
-    "lastName": "Chirchir",
-    "legacyId": 3081920,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "She cares about students however the class is structured terribly, she has 3 exams that are worth about 90% of the grade and the exams are almost 100 questions with to much material. in other words if you fail one exam its very hard to come back. ",
-        "course": "3504"
-      },
-      {
-        "index": 2,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Genuinely the worst professor I've had in my 4 years of college. She does not care if her students understand the material and only reads of the lecture slides. She expects you to know and understand anatomy in the same way she does, but she's just reading words off the slides. The tests consist of way too much material. Do not take her class! ",
-        "course": "3504"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.6,
-    "avgRating": 5,
-    "department": "Anatomy",
-    "firstName": "Claudia",
-    "id": "VGVhY2hlci0yNzYyNjQ4",
-    "lastName": "Mosley",
-    "legacyId": 2762648,
-    "numRatings": 10,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "All of her lectures are posted online, so no need to go to class. She is very good at telling you what is expected, as there are no trick questions on the exams. That being said, it is anatomy, and you will have to put in the work to do well. ",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Well Dr. Mosley is absolutely phenomenal! She is very straightforward, does not try to trick you and is very concise and clear in what she wants you to know for her tests. The textbook was never used and her exams were purely based on her lecture slides. She is also super approachable outside of class. She is very good at simplifying complex topics",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "I loved this class! The tests were based directly off the slides, so very direct. There was a lot of material but mostly/all memorization. I studied HARD just the day before every test and ended with an A. I would definitely recommend!",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Mosley was an amazing teacher. She was always helpful and her tests were based off the slides she gave. She made anatomy fun. Even though it was a fast paced class she made it easier and the TA's were amazing! I'm going to miss this class a lot",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Claudia was AMAZING!!! Her lectures are fast paced, but very concise. They are also always recorded and posted on Carmen, so attendance is not mandatory. Labs are required, but you can miss up to three without loosing points. Her exams and practicals are incredibly fair. If you have any questions she is so helpful! One of my favourite classes yet!",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Get points for showing up to lab while lecture attendance is not mandatory. Almost everything on the exams are on the slides and the lab instructors/assistants will help you understand what's going on and give tips on what might be on exams based on prior experience. Make diagrams/drawings to study muscles or vessels and remember the acronyms. ",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Super clear and concise. Does go through material fast, but explains everything super well. The course itself is information heavy, but she does a good job of answering questions and will hint at what to study. She's amazing!",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "There is a ton of information associated with this course. Claudia makes it very clear what is important and what isn't. One of my best professors yet. ",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Anatomy 3300 is definitely a very difficult class, but her lectures were really helpful and in-depth. Her exams were not meant to trick you, she goes over everything you're tested on. She was always there if you had any questions and she really enjoys teaching the class. I really loved her lectures, they quickly became my favorite!",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Mosley is an amazing professor. Yes, anatomy can be a hard subject, but she is very fair with the tests and practicals; they are super straightforward - she doesn't want to trick you. Week 1 is a lot of work with a test and lecture videos, but after that, the rest of the year is very enjoyable. She makes all the material easily understandable.",
-        "course": "ANATOMY3300"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.1,
-    "avgRating": 5,
-    "department": "Anatomy",
-    "firstName": "Derek",
-    "id": "VGVhY2hlci0xODg1OTI0",
-    "lastName": "Harmon",
-    "legacyId": 1885924,
-    "numRatings": 9,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Harmon truly loves what he does and is always willing to meet outside of class or explain himself better. The content is all over the lectures and labs and unfortunately everything counts. And might I say he's easy on the eyes.",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Derek is such an awesome professor. His lectures are clear, his tests are fair, and he is always willing to help when you have questions. One of the best professors I have encountered at OSU. Would recommend him to anyone. Not hard on the eyes as well ;) ",
-        "course": "ANAT3300"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "The class moves quickly, find what works for you and stick with it. Written and practical exams are straight forward, no trick questions. Know the material on the slides, read the lab manual, go to recitation, stay the entire time for lab and you'll most likely get an A. ",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Harmon is amazing. He's funny and very intelligent. He knows anatomy like the back of his hand and presents it to students in a way that is very understandable. He will go over ANYTHING a thousand times if it means it'll help students. Be prepared- Study a little each week and exams and practicals are straight forward and easy. ",
-        "course": "ANATOMY3330"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Easily the best professor I have ever had, and that is saying a lot considering this is supposed to be the more difficult of the anatomy classes at OSU. He is a great lecturer, and the tests are very straightforward. He dedicates extra hours of his own time to reviewing information in the lab, and it is clear he wants the best for all his students.",
-        "course": "3300"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Incredibly helpful and interested in helping his students! Comes into lab and opens the lab additional hours so you can go over material with him.  Exams are not super hard but you do have to study to do well.  Great teacher!",
-        "course": "ANAT3300"
-      },
-      {
-        "index": 7,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "Professor Derek and his lab stuff are amazing. I loved this course and would highly recommend. Attend his lectures,labs and recitation and spend extra time with the TAs' for labs you are sure to get an A in this course.",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great lecturer. Clear. Answers questions well. Lecture is EXTREMELY helpful. He reviews class materials multiple times at the beginning of class which is super helpful. Also hot!",
-        "course": "ANAT3300"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Class is not hard at all as long as you put forth the effort. Derek is super helpful and very straightforward about what to expect on exams",
-        "course": "ANATOMY3300"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.8,
-    "avgRating": 4.5,
-    "department": "Anatomy",
-    "firstName": "Melissa",
-    "id": "VGVhY2hlci0xODAwMzEx",
-    "lastName": "Quinn",
-    "legacyId": 1800311,
-    "numRatings": 25,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Melissa is by far my favorite professor at OSU. I'm taking harder classes just so I can have her teach me again. Her class was very fair. The practicals are difficult but if you use all the lab time allotted you will do well. The lecture exams are straight from her powerpoints and are great even if you skip/miss class",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Quinn is the absolute best! She was always there for students and always put us first. Never once was she rude or full of herself! I wish I could have her teach all my classes. Best professor I've had at OSU!!",
-        "course": "ANAT3300"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Dr. Quinn was a great professor for Anatomy 3300. She made it clear from the beginning that all tested material is directly from slides and lectures. She is such a nice professor and very approachable. Study thoroughly for all exams and you are almost guaranteed to do well.",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 4,
-        "rating": 2,
-        "difficulty": 3,
-        "comment": "She would get upset at students performance and attendence while she herself only taught lecture half the time. Full of herself while she is stuck teaching undergrads. Class isn't too hard. Lec exams are easy, while lab is harder because you have less questions for the same amount of pts. Obviously an interesting course.",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Melissa is my favorite professor at OSU. Her tests are very fair even though the info is difficult! Highly suggest her!",
-        "course": "ANATOMY3300"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Dr. Quinn is amazing! By far the best professor I've had since being at OSU. She is an excellent lecturer and goes out of her way to help students learn the material. Dr. Quinn rocks!",
-        "course": "ANAT3300"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Simply take 3300. Average was high 80's compared to the average of high 70's for 2300 which she taught. Not saying she is bad just understanding which class gives a MUCH higher average grade per EVERY exam taken is the smart choice. Also she was gearing her questions toward those who attended lecture because of a study she was doing (clearly).",
-        "course": "ANAT2300"
-      },
-      {
-        "index": 8,
-        "rating": 5,
-        "difficulty": 1,
-        "comment": "LOVED HER. I made the mistake of following Burgoon's lectures all semester and my grade suffered because if it. DO NOT BE FOOLED BY THEM! I went to Melissa's review sessions prior to exams and learned more from her than I ever did watching lectures online. She is incredible! Always go to her lectures and you'll do well. ",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 9,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "One word - AWESOME!",
-        "course": "ANAT2300"
-      },
-      {
-        "index": 10,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Melissa Quinn is by far the best professor I have had at OSU. She is really into anatomy and makes lectures interesting even if it is 6:50 A.M. The material is dense but if you study hard you will definitely get an A. Her tests are very clear and she does not try to trick you at all! Love her and wish she taught more undergrad courses here!",
-        "course": "2300"
-      },
-      {
-        "index": 11,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "This was a course that I would recommend to anyone (even if you are not a science major). It is a pretty easy course and the information is very helpful. LOVED THIS COURSE and would take it again if i good!",
-        "course": "2300"
-      },
-      {
-        "index": 12,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Ms. Quinn was AMAZING!  She is hands down the best instructor I've had at OSU.  She takes the time to motivate her students and get us interested in the material.  In a class of 500 or so she was so approachable.  She is genuine and is the BEST.  Can't say enough about her.",
-        "course": "2300"
-      },
-      {
-        "index": 13,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Melissa really knows her stuff and explains the material well during lectures. There are online lectures so I stopped going to lecture and eventually stopped listening to those and just used the power points. I got a B. I will say that Melissa's office hoursrecitations are super helpful and she reteaches the info in a more personal clssrm environ.",
-        "course": "ANAT2300"
-      },
-      {
-        "index": 14,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Melissa Quinn is great. She tries to make 8 am lectures more interesting and is not monotone at all. She is VERY clear and knows her stuff and will help you with whatever you need help with. She will answer questions in person, anonymously, through email, etc. She holds optional recitations that may help if you're lost, but I barely went to them.",
-        "course": "2300"
-      },
-      {
-        "index": 15,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Mrs. Quinn has been one of my favorite professors. The class itself is pretty challenging but as long as you don't wait till the last minute to study the the exams you should do fine! I recommend going to her lectures because she is very clear and can teach the material very well! Awesome anatomy professor. ",
-        "course": "2300"
-      },
-      {
-        "index": 16,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "BEST EVER! Ms. Quinn is by far the most helpful and nice instructors ever.  She is finishing up her PhD and teaching this course and devotes lots of her own time to help her students. She wants people to do well and helps however she can. You can listen to the online lectures but I HIGHLY suggest going to Ms. Quinn's lectures.  You won't be sorry",
-        "course": "ANAT2300"
-      },
-      {
-        "index": 17,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "She is super nice and is very clear on what will be on the test. She's a younger professor so she understands what it's like to be a college student and is just a really nice person. ",
-        "course": "ANATOMY"
-      },
-      {
-        "index": 18,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Ms. Quinn was awesome. She presented the material in a way that made it easier to understand. She is more than willing to help students. By far the best professor I've had since I came to OSU. If you need to take anatomy make sure to take it with her. ",
-        "course": "ANAT2300"
-      },
-      {
-        "index": 19,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "she seems very educated in what she teaches. Lectures can be long but often prove to be very helpful. she would gladly help when asked",
-        "course": "2300"
-      },
-      {
-        "index": 20,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She's an excellent lecturer. Very clear and willing to help. She provides powerpoints so that you can focus on the actual material and not worry about getting everything down. The exams are very do-able... no trick questions, very straight up. As long as you put in the work, you'll get the grade you want. LOVED this class.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 21,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "SImply put...if you put enough effort in you will get the grade you want. There are no trick questions on the exams you get the grades you deserve. Stay on top of your material and you will be fine!",
-        "course": "ANA2300"
-      },
-      {
-        "index": 22,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Loved this class and Melissa! She is extremely helpful and cares about the stuff she is teaching. All lectures are online so you really don't even need to go to class, just lab. Study hard and you'll get an A.",
-        "course": "ANAT2300"
-      },
-      {
-        "index": 23,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Very helpful, offers multiple sessions before each exam to answer questions and review. Exams are not made to trick you, if you know your material, you'll be fine. Lectures can be early but the audio file is provided online so attendance is optional. Definitely recommend!!",
-        "course": "ANAT2300"
-      },
-      {
-        "index": 24,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Ms. Quinn was a really good teacher. She really wanted you to learn and understand the material. She would go above and beyond to make sure I understood the information. This class is a prerequisite but take her for this course.",
-        "course": "ANATOMY2300"
-      },
-      {
-        "index": 25,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Ms.Quinn is by far the best teacher I have ever had. Anatomy was so difficult for me in the beginning. But, she really made difficult concepts make sense. She always is willing to help. Responds to emails quickly! Go to class!!!",
-        "course": "ANATOMY2300"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 5,
-    "department": "Anatomy",
-    "firstName": "Alan",
-    "id": "VGVhY2hlci0xNDE4Njc4",
-    "lastName": "Detton",
-    "legacyId": 1418678,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "awesome",
-        "course": "ANA101"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 1.5,
-    "avgRating": 4.8,
-    "department": "Anatomy",
-    "firstName": "Erin",
-    "id": "VGVhY2hlci0xNDE4Njc5",
-    "lastName": "Kellogg",
-    "legacyId": 1418679,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "Great professor. She has great examples and easy to understand. Posts fill in the blank powerpoint notes, easy to follow along. Lots of easy-to-obtain extra credit. Have to study a little for the exams, but they're easy to pass with at least a B. I definitely recommend this class!",
-        "course": "PSYCH1110"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Psych 100 is a pretty straightforward class that I recommend as a GEC course. Erin is a great teacher. She's young and funny, and always gives relevant examples to the harder concepts in class. Overall, psych isn't that hard of a class, and though it's almost completely exams and quizzes, Erin grades fairly. I really liked her class!",
-        "course": "PSYCH100"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.7,
-    "avgRating": 3.9,
-    "department": "Anatomy",
-    "firstName": "Janice",
-    "id": "VGVhY2hlci0xMTAzNTA0",
-    "lastName": "Herrmann",
-    "legacyId": 1103504,
-    "numRatings": 10,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "If you have to take anatomy or Physiology, this is the professor to have. She truly cares about her students success and goes out of her way to make sure you succeed.",
-        "course": "BIO261"
-      },
-      {
-        "index": 2,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "If you have to take anatomy, take her class.  She is very kind and truly wants students to succeed in her class.  She gives several reviews before her exams that more or less tell you what to focus on.  out. Exams are fairly easy, but you still need to study.",
-        "course": "ANAT199"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "Jan is energetic and funny. She tries to make the class entertaining. She canceled some Fridays and told students what parts of lecture were important. She also tends to have some &quot;bad&quot; questions on exams, so it'd be to your advantage to catch them and possibly get credit.",
-        "course": "ANAT199"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "She is an amazing professor. Very funny, willing to help anyway possible. Very straight forward and to the point when teaching her classes. Her exams are Servay like tests, which makes it general and to the point. Great Great teacher. Definitly take her. She's wonderful!!",
-        "course": "ANAT199"
-      },
-      {
-        "index": 5,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "great prof. took this class spring quarter and she cancelled EVERY friday class. lectures help, she makes jokes so its a little better. the material is kinda dry but what can you expect in anatomy&#63; use the book, color and you will do fine. loved this teacher!",
-        "course": "ANAT199"
-      },
-      {
-        "index": 6,
-        "rating": 4,
-        "difficulty": 1,
-        "comment": "Prof. Herrmann's class was really intriguing and she made the topic fun. She also pretty much tells you exactly what is on the test, and if you can think like her they are super easy. Her TA's give a review session pretty much over the test. If you put in the time the test is easy. She is a HORRIBLE test writer. Too many mistakes!",
-        "course": "ANAT199"
-      },
-      {
-        "index": 7,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "She's useless. You could learn more by reading the book. Her test questions were incomprehensible and she made several changes to the test answers after her mistakes were caught by the students.",
-        "course": "ANA199"
-      },
-      {
-        "index": 8,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "She promised extra credit, but never gave it. She said the tests were &quot;easy&quot;, then asked off-the-wall questions. The tests had MANY errors in them, so she kept adding points to the final scores to make up for her errors. She only gave the extra points to those whom challenged her answers though, and not to everyone who got the questions right.",
-        "course": "ANAT199"
-      },
-      {
-        "index": 9,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "she was great! there was i lot of information to learn but she tells you what to study and does everything she can to help you out. take her!!!!!! our TAs said that her tests were soo much easier then the other professors.",
-        "course": "ANAT199"
-      },
-      {
-        "index": 10,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "She's an APRN, MS, BSN, BSEd, and hygeniest. She's a CrAZy GeNiUs. The Anatomy department gets mad because her midterm averages are 83% and she's using the same exams as the previous professor and that lecturer's averages were 72%. She is AN AMAZING TEACHER. She was born to teach. Such vigor for her work! SHE GENUINELY WANTS YOU TO GET AN A.",
-        "course": "ANAT199"
       }
     ],
     "SEI": []

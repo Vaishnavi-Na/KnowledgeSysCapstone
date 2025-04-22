@@ -8,6 +8,8 @@
     "lastName": "Figg",
     "legacyId": 2321751,
     "numRatings": 2,
+    "summary_comment": "Professor Figg offers a structured course with three quizzes, a final exam, and five discussion posts contributing to the grade, allowing students to substitute discussion grades for their lowest quiz score. Exams consist of 30-point multiple-choice questions that require careful attention to reading materials. Class attendance is mandatory, and participation is factored into the grade. Overall, her approach is methodical and fair, though the exams are challenging.",
+    "summary_comment_short": "Professor Figg uses a structured approach with three quizzes, a final exam, and five discussion posts to assess students, allowing substitution of discussion grades for the lowest quiz score. Her exams are multiple-choice and require thorough understanding of the course material, as class participation and mandatory attendance are also factored into the grade.",
     "Ratings": [
       {
         "index": 1,
@@ -24,7 +26,36 @@
         "course": "MEDREN2666"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "MEDREN",
+        "Catalog": "2666",
+        "Class Name": "Magic and Witchcraft in the Middle Ages and Renaissance",
+        "Class Number": "29210",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Center-Medieval & Ren Studies",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "79",
+        "Rating": "4.19"
+      },
+      {
+        "Subject": "MEDREN",
+        "Catalog": "2215",
+        "Class Name": "Gothic Paris: 1100-1300",
+        "Class Number": "34993",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Center-Medieval & Ren Studies",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      }
+    ]
   },
   {
     "avgDifficulty": 1,
@@ -35,6 +66,8 @@
     "lastName": "YE",
     "legacyId": 1589424,
     "numRatings": 1,
+    "summary_comment": "Professor YE is highly regarded as one of the best professors at OSU, known for his exceptionally clear lectures that enhance understanding significantly.",
+    "summary_comment_short": "Professor Ye is widely regarded as the best professor at OSU, known for his extremely clear lectures that effectively convey complex concepts.",
     "Ratings": [
       {
         "index": 1,

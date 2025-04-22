@@ -1,39 +1,5 @@
 [
   {
-    "avgDifficulty": 3.7,
-    "avgRating": 4.2,
-    "department": "Food Agriculture  Bio Eng",
-    "firstName": "Mohammad",
-    "id": "VGVhY2hlci0xOTcyNzkw",
-    "lastName": "Shavezipur",
-    "legacyId": 1972790,
-    "numRatings": 3,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 4,
-        "comment": "He is a very smart professor and I think he explains things very well. He is always there when you need help and will do whatever he can to help you. He really cares and wants students to well. But, he is pretty hard. His exams were really tough and he would give the hardest problems. But they were still fair problems, just really tough",
-        "course": "FABE2110"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 4,
-        "comment": "Listen this guy right here won't make stuff easy for you. You need to come in, pay attention, and work for it. He is there 258 for help so you go to his office and ask him about everything you don't get. Don't be an idiot and blame him when you aren't at his office hours and don't seek help. ",
-        "course": "FABENG5989"
-      },
-      {
-        "index": 3,
-        "rating": 3,
-        "difficulty": 3,
-        "comment": "He made thermodynamics pretty understandable. If you ever have a question on the homework, he is very helpful during office hours. The quizzes and exams were normally prettyy similar to homework problems and lecture examples.",
-        "course": "FABE2120"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 3,
     "avgRating": 3.5,
     "department": "Food Agriculture  Bio Eng",
@@ -42,6 +8,8 @@
     "lastName": "Fife",
     "legacyId": 2099103,
     "numRatings": 4,
+    "summary_comment": "Professor Fife is highly regarded for her caring nature and dedication to her students' success, though her classes can be challenging and sometimes dry. She is known for being a fair grader and offering flexibility, such as open-note exams and optional finals, but some students find her grading process slow and her lectures lengthy.",
+    "summary_comment_short": "Professor Fife is highly regarded for her caring nature and dedication to her students' success, though her classes can be challenging and sometimes dry. Students appreciate her fairness and willingness to help, but some find her grading process slow and her lectures lengthy.",
     "Ratings": [
       {
         "index": 1,
@@ -70,6 +38,141 @@
         "difficulty": 3,
         "comment": "Dr. Fife was not always very clear with the assignment requirements. Once asked questions, she will explain much more thoroughly. The lectures were often long, which was partially because of all of the presentations. It's hard to sit through presentations, when you don't like the projects. Hopefully, this will change for the upcoming fall.",
         "course": "FABE4900"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "FABENG",
+        "Catalog": "4910",
+        "Class Name": "Capstone Design II",
+        "Class Number": "6581",
+        "Term": "SP 21",
+        "College": "Engineering",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "48",
+        "Rating": "4.69"
+      },
+      {
+        "Subject": "FABENG",
+        "Catalog": "4900",
+        "Class Name": "Capstone Design I",
+        "Class Number": "32619",
+        "Term": "AU 21",
+        "College": "Engineering",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "32",
+        "Rating": "4.55"
+      },
+      {
+        "Subject": "FABENG",
+        "Catalog": "4910",
+        "Class Name": "Capstone Design II",
+        "Class Number": "29596",
+        "Term": "SP 22",
+        "College": "Engineering",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "37",
+        "Rating": "4.65"
+      },
+      {
+        "Subject": "FABENG",
+        "Catalog": "4900",
+        "Class Name": "Capstone Design I",
+        "Class Number": "10852",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "4.36"
+      },
+      {
+        "Subject": "FABENG",
+        "Catalog": "4910",
+        "Class Name": "Capstone Design II",
+        "Class Number": "11004",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "8",
+        "Rating": "4.25"
+      },
+      {
+        "Subject": "FABENG",
+        "Catalog": "4900",
+        "Class Name": "Capstone Design I",
+        "Class Number": "10814",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "11",
+        "Rating": "3.91"
+      },
+      {
+        "Subject": "FABENG",
+        "Catalog": "4910",
+        "Class Name": "Capstone Design II",
+        "Class Number": "10906",
+        "Term": "SP 24",
+        "College": "Engineering",
+        "Department": "Food, Agric & Biological Eng",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "3.85"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.7,
+    "avgRating": 4.2,
+    "department": "Food Agriculture  Bio Eng",
+    "firstName": "Mohammad",
+    "id": "VGVhY2hlci0xOTcyNzkw",
+    "lastName": "Shavezipur",
+    "legacyId": 1972790,
+    "numRatings": 3,
+    "summary_comment": "Professor Shavezipur is highly regarded for his deep understanding of the subject matter and his ability to explain complex concepts clearly. Students appreciate his availability and willingness to help, though they note that his exams and assignments are challenging and require significant effort. Despite the difficulty, his approach is considered fair, with quizzes and exams often mirroring homework problems and lecture examples.",
+    "summary_comment_short": "Professor Shavezipur is highly regarded for his thorough explanations and availability to help students, though his exams are known to be challenging and require significant effort. Students must actively engage with the material and utilize office hours for full benefit, as the professor expects self-motivation and dedication to succeed.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 4,
+        "comment": "He is a very smart professor and I think he explains things very well. He is always there when you need help and will do whatever he can to help you. He really cares and wants students to well. But, he is pretty hard. His exams were really tough and he would give the hardest problems. But they were still fair problems, just really tough",
+        "course": "FABE2110"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 4,
+        "comment": "Listen this guy right here won't make stuff easy for you. You need to come in, pay attention, and work for it. He is there 258 for help so you go to his office and ask him about everything you don't get. Don't be an idiot and blame him when you aren't at his office hours and don't seek help. ",
+        "course": "FABENG5989"
+      },
+      {
+        "index": 3,
+        "rating": 3,
+        "difficulty": 3,
+        "comment": "He made thermodynamics pretty understandable. If you ever have a question on the homework, he is very helpful during office hours. The quizzes and exams were normally prettyy similar to homework problems and lecture examples.",
+        "course": "FABE2120"
       }
     ],
     "SEI": []

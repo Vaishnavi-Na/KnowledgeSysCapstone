@@ -8,6 +8,8 @@
     "lastName": "Montalto",
     "legacyId": 893650,
     "numRatings": 13,
+    "summary_comment": "Professor Montalto is dedicated to her students' success, offering extensive support through office hours and staying after class, though her teaching style can be challenging for some, particularly with the extensive and sometimes tedious problem sets. Students appreciate her availability and care, but many find the class demanding and recommend attending most sessions to succeed.",
+    "summary_comment_short": "Professor Montalto is dedicated to her students' success, offering extensive support through office hours and staying after class, though some find the workload, particularly the problem sets, challenging and time-consuming. Her teaching style and approach vary widely among students, with some praising her assistance and clarity while others find the class frustratingly difficult and repetitive.",
     "Ratings": [
       {
         "index": 1,
@@ -101,7 +103,206 @@
         "course": "FRM340"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "CONSCI",
+        "Catalog": "3930",
+        "Class Name": "Consumer Decision-Making I",
+        "Class Number": "12996",
+        "Term": "SP 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.68"
+      },
+      {
+        "Subject": "CONSCI",
+        "Catalog": "3930",
+        "Class Name": "Consumer Decision-Making I",
+        "Class Number": "6775",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "22",
+        "Rating": "4.55"
+      },
+      {
+        "Subject": "CONSCI",
+        "Catalog": "3930",
+        "Class Name": "Consumer Decision-Making I",
+        "Class Number": "31815",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "18",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "CONSCI",
+        "Catalog": "3930",
+        "Class Name": "Consumer Decision-Making I",
+        "Class Number": "32203",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "29",
+        "Rating": "4.61"
+      },
+      {
+        "Subject": "CSCFFS",
+        "Catalog": "5140",
+        "Class Name": "Topics in Consumer Sciences",
+        "Class Number": "33981",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "6",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "CSCFFS",
+        "Catalog": "5140",
+        "Class Name": "Topics in Consumer Sciences",
+        "Class Number": "33132",
+        "Term": "SP 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.26"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3.2,
+    "avgRating": 4.5,
+    "department": "Human Ecology",
+    "firstName": "Natasha",
+    "id": "VGVhY2hlci04NzcxMjU=",
+    "lastName": "Slesnick",
+    "legacyId": 877125,
+    "numRatings": 6,
+    "summary_comment": "Professor Slesnick is highly regarded for her dedication to her students and the subject matter, though her lectures can be dry and difficult to stay engaged with. Despite this, students appreciate her nurturing approach and find her classes enriching, particularly for professional development. Many recommend her for her clear passion and intelligence in teaching, despite the class sometimes being perceived as easy to pass with sufficient effort.",
+    "summary_comment_short": "Professor Slesnick is highly regarded for her care and dedication to her students and subject matter, though her lectures are often described as boring, making engagement challenging. Despite this, students appreciate her nurturing approach and the comprehensive coverage of the material, leading many to recommend her classes.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "comment": "Dr. Slesnick was a great professor. She cares about students and the content. Attendance is mandatory. However, the lectures are really boring. It was difficult to stay engaged.",
+        "course": "HDFS2900"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "This class was all-encompassing of the subject matter. It was a lot of reading and then the class was a review of the reading. Prof is very nurturing of growing professionals and I am enriched from taking this class with her.",
+        "course": "HDFS8876"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Loved the class, my interest in the subject has increased and I look forward to taking another course with Dr. Slesnick",
+        "course": "HDFS560"
+      },
+      {
+        "index": 4,
+        "rating": 4,
+        "difficulty": 2,
+        "comment": "By far one of my favorite professors.  At first I was extremely hesitant because there were only 3 grades (2 exams 1 paper 33% each), and it was very easy to doze off in her class.  But if you actually sit down and pay attention, she's very intelligent and loves what she does.  It's an easy class and I recommend her over anyone else",
+        "course": "HDFS560"
+      },
+      {
+        "index": 5,
+        "rating": 3,
+        "difficulty": 2,
+        "comment": "Boring class. But, easy to pass if you study.",
+        "course": "HDFS560"
+      },
+      {
+        "index": 6,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "No Comments",
+        "course": "HIST101"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "HDFS",
+        "Catalog": "8862",
+        "Class Name": "Seminar in Human Development and Family Science",
+        "Class Number": "33998",
+        "Term": "AU 20",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "8862",
+        "Class Name": "Seminar in Human Development and Family Science",
+        "Class Number": "35587",
+        "Term": "AU 21",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "13",
+        "Rating": "5"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "8860",
+        "Class Name": "Seminar in Couple and Family Therapy",
+        "Class Number": "34772",
+        "Term": "AU 22",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "11",
+        "Rating": "5"
+      },
+      {
+        "Subject": "HDFS",
+        "Catalog": "8862",
+        "Class Name": "Seminar in Human Development and Family Science",
+        "Class Number": "15692",
+        "Term": "AU 23",
+        "College": "Education & Human Ecology",
+        "Department": "Department of Human Sciences",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "10",
+        "Rating": "5"
+      }
+    ]
   },
   {
     "avgDifficulty": 2.1,
@@ -112,6 +313,8 @@
     "lastName": "Adkins",
     "legacyId": 928134,
     "numRatings": 14,
+    "summary_comment": "Professor Adkins is highly regarded for her engaging and knowledgeable approach to teaching, making the class both enjoyable and informative. Students appreciate her flexibility, willingness to help, and the use of movies and discussions to enhance learning. While some find the paper requirements straightforward, others note that the explanations can be confusing, emphasizing the importance of attending class regularly for clarity and to stay on track.",
+    "summary_comment_short": "Professor Adkins is highly regarded for her engaging and knowledgeable approach to teaching, making the class both enjoyable and informative. Her classes are generally easy with a focus on two or three substantial papers, and she provides ample in-class time for working on them, though some students find her explanations of paper requirements can be confusing.",
     "Ratings": [
       {
         "index": 1,
@@ -215,61 +418,6 @@
     "SEI": []
   },
   {
-    "avgDifficulty": 3.2,
-    "avgRating": 4.5,
-    "department": "Human Ecology",
-    "firstName": "Natasha",
-    "id": "VGVhY2hlci04NzcxMjU=",
-    "lastName": "Slesnick",
-    "legacyId": 877125,
-    "numRatings": 6,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 4,
-        "difficulty": 3,
-        "comment": "Dr. Slesnick was a great professor. She cares about students and the content. Attendance is mandatory. However, the lectures are really boring. It was difficult to stay engaged.",
-        "course": "HDFS2900"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "This class was all-encompassing of the subject matter. It was a lot of reading and then the class was a review of the reading. Prof is very nurturing of growing professionals and I am enriched from taking this class with her.",
-        "course": "HDFS8876"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Loved the class, my interest in the subject has increased and I look forward to taking another course with Dr. Slesnick",
-        "course": "HDFS560"
-      },
-      {
-        "index": 4,
-        "rating": 4,
-        "difficulty": 2,
-        "comment": "By far one of my favorite professors.  At first I was extremely hesitant because there were only 3 grades (2 exams 1 paper 33% each), and it was very easy to doze off in her class.  But if you actually sit down and pay attention, she's very intelligent and loves what she does.  It's an easy class and I recommend her over anyone else",
-        "course": "HDFS560"
-      },
-      {
-        "index": 5,
-        "rating": 3,
-        "difficulty": 2,
-        "comment": "Boring class. But, easy to pass if you study.",
-        "course": "HDFS560"
-      },
-      {
-        "index": 6,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "No Comments",
-        "course": "HIST101"
-      }
-    ],
-    "SEI": []
-  },
-  {
     "avgDifficulty": 1.5,
     "avgRating": 4.1,
     "department": "Human Ecology",
@@ -278,6 +426,8 @@
     "lastName": "Knerr",
     "legacyId": 859475,
     "numRatings": 14,
+    "summary_comment": "Professor Knerr's class is generally considered easy, with tests largely based directly on the assigned readings. He does not frequently introduce unexpected material or offer extra credit, and his grading is straightforward without grade rounding. Students find the class manageable with minimal preparation, though some recommend using library resources to avoid purchasing expensive textbooks.",
+    "summary_comment_short": "Professor Knerr's class is generally considered easy, with tests primarily based on the textbook content, making it accessible for students who do the reading. However, his involvement in the class is limited, and he does not offer extra credit or grade rounding.",
     "Ratings": [
       {
         "index": 1,

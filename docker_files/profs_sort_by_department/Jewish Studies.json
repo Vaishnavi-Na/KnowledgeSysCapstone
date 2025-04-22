@@ -1,54 +1,6 @@
 [
   {
     "avgDifficulty": 3,
-    "avgRating": 3.7,
-    "department": "Jewish Studies",
-    "firstName": "Lynn",
-    "id": "VGVhY2hlci0yMDc2NzI0",
-    "lastName": "Kaye",
-    "legacyId": 2076724,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Dr. Kaye is one of my all time favorite professors. Theres a lot of homework, but that is only fair since it was a 5000 level course, and it was still very manageable. Youre required to participate, but shell make sure everyone gets a chance to speak multiple times per class. Shes overall a great professor who cares about her students success.",
-        "course": "HEBREW5100"
-      },
-      {
-        "index": 2,
-        "rating": 3,
-        "difficulty": 1,
-        "comment": "Didn't learn a whole lot but she is a nice professor. Tries to grade fairly. Make sure you speak up in class or else you will get a poor participation grade.",
-        "course": "JEWHST2201"
-      },
-      {
-        "index": 3,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Don't take this class. This was probably the most boring and useless class I've ever taken. Didn't learn anything. I still got a good grade, but she basically makes up your grade at the end of the semester and I know several people got burned. Attendance is part of your grade but you don't get any points by showing up to class. Must participate",
-        "course": "JEWHST2201"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr. Kaye is an amazing professor. However, don't expect to go into this class, sit in the back,  be quiet, and get an easy A. She requires participation and WILL call on you if you do not actively participate. I feel like I've learned so much from this class. Work hard, listen to her advice, participate, and you'll get a good grade.",
-        "course": "HEB2367"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Dr. Kaye is probably my favorite professor. She is extremely knowledgable, and makes you interested in the subject! She instructed my second writing GE. Her class required a lot of homework, but it was well worth it. If you are willing to put in hard work, she is a good professor for you. She gave me great feedback.",
-        "course": "HEBREW2367"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
     "avgRating": 3.4,
     "department": "Jewish Studies",
     "firstName": "Naomi",
@@ -56,6 +8,8 @@
     "lastName": "Brenner",
     "legacyId": 2301541,
     "numRatings": 12,
+    "summary_comment": "Professor Brenner is known for her engaging lectures and intentional feedback, which helps students improve their assignments. She encourages student-led discussions and provides clear, informative materials. However, some students find the workload excessive, particularly the combination of a final paper, project, and exam, and have concerns about her teaching style and potential bias.",
+    "summary_comment_short": "Professor Brenner is known for her engaging lectures and intentional feedback, which helps students improve their final projects and papers. Her teaching style encourages student-led discussions and provides clear, structured class sessions, though some students find the workload, including multiple assignments and exams, to be excessive for a general education class.",
     "Ratings": [
       {
         "index": 1,
@@ -142,6 +96,239 @@
         "course": "JEWISHST2201"
       }
     ],
+    "SEI": [
+      {
+        "Subject": "HEBREW",
+        "Catalog": "3245",
+        "Class Name": "Israeli Film & Society",
+        "Class Number": "34177",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "HEBREW",
+        "Catalog": "3704",
+        "Class Name": "Women in the Bible and Beyond",
+        "Class Number": "33221",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "22",
+        "Rating": "4.95"
+      },
+      {
+        "Subject": "HEBREW",
+        "Catalog": "3245",
+        "Class Name": "Israeli Film & Society",
+        "Class Number": "34207",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.59"
+      },
+      {
+        "Subject": "HEBREW",
+        "Catalog": "3704",
+        "Class Name": "Women in the Bible and Beyond",
+        "Class Number": "33378",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "21",
+        "Rating": "4.81"
+      },
+      {
+        "Subject": "HEBREW",
+        "Catalog": "3245",
+        "Class Name": "Israeli Film & Society",
+        "Class Number": "27560",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "JEWSHST",
+        "Catalog": "2201",
+        "Class Name": "Introduction to Jewish Culture, Thought, and Practice",
+        "Class Number": "34213",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "12",
+        "Rating": "4.92"
+      },
+      {
+        "Subject": "JEWSHST",
+        "Catalog": "3245",
+        "Class Name": "Israeli Film & Society",
+        "Class Number": "34178",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "4.83"
+      },
+      {
+        "Subject": "JEWSHST",
+        "Catalog": "3704",
+        "Class Name": "Women in the Bible and Beyond",
+        "Class Number": "33219",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "15",
+        "Rating": "5"
+      },
+      {
+        "Subject": "JEWSHST",
+        "Catalog": "3245",
+        "Class Name": "Israeli Film & Society",
+        "Class Number": "34210",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.88"
+      },
+      {
+        "Subject": "JEWSHST",
+        "Catalog": "3704",
+        "Class Name": "Women in the Bible and Beyond",
+        "Class Number": "33379",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "L",
+        "Responses": "10",
+        "Rating": "4.9"
+      },
+      {
+        "Subject": "JEWSHST",
+        "Catalog": "3245",
+        "Class Name": "Israeli Film & Society",
+        "Class Number": "27562",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "17",
+        "Rating": "4.71"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "1125",
+        "Class Name": "Stories of the Middle East and South Asia",
+        "Class Number": "34214",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "19",
+        "Rating": "4.94"
+      },
+      {
+        "Subject": "NELC",
+        "Catalog": "1125",
+        "Class Name": "Stories of the Middle East and South Asia",
+        "Class Number": "27566",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Near Eastern Languages/Culture",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "34",
+        "Rating": "4.53"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 3.7,
+    "department": "Jewish Studies",
+    "firstName": "Lynn",
+    "id": "VGVhY2hlci0yMDc2NzI0",
+    "lastName": "Kaye",
+    "legacyId": 2076724,
+    "numRatings": 5,
+    "summary_comment": "Professor Kaye is highly regarded by many students as an excellent and knowledgeable instructor who encourages active participation and thorough engagement with the material. While some find the workload demanding and the class structure rigorous, particularly emphasizing the importance of participation, the consensus is that her dedication to student success and clear grading criteria lead to meaningful learning experiences and satisfactory grades.",
+    "summary_comment_short": "Professor Kaye is highly regarded for her dedication and knowledge, with many students praising her engaging teaching style and high expectations. She emphasizes active participation and thorough preparation, which, while demanding, are seen as essential for academic success.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Dr. Kaye is one of my all time favorite professors. Theres a lot of homework, but that is only fair since it was a 5000 level course, and it was still very manageable. Youre required to participate, but shell make sure everyone gets a chance to speak multiple times per class. Shes overall a great professor who cares about her students success.",
+        "course": "HEBREW5100"
+      },
+      {
+        "index": 2,
+        "rating": 3,
+        "difficulty": 1,
+        "comment": "Didn't learn a whole lot but she is a nice professor. Tries to grade fairly. Make sure you speak up in class or else you will get a poor participation grade.",
+        "course": "JEWHST2201"
+      },
+      {
+        "index": 3,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Don't take this class. This was probably the most boring and useless class I've ever taken. Didn't learn anything. I still got a good grade, but she basically makes up your grade at the end of the semester and I know several people got burned. Attendance is part of your grade but you don't get any points by showing up to class. Must participate",
+        "course": "JEWHST2201"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Kaye is an amazing professor. However, don't expect to go into this class, sit in the back,  be quiet, and get an easy A. She requires participation and WILL call on you if you do not actively participate. I feel like I've learned so much from this class. Work hard, listen to her advice, participate, and you'll get a good grade.",
+        "course": "HEB2367"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Dr. Kaye is probably my favorite professor. She is extremely knowledgable, and makes you interested in the subject! She instructed my second writing GE. Her class required a lot of homework, but it was well worth it. If you are willing to put in hard work, she is a good professor for you. She gave me great feedback.",
+        "course": "HEBREW2367"
+      }
+    ],
     "SEI": []
   },
   {
@@ -153,6 +340,8 @@
     "lastName": "Biggerstaff",
     "legacyId": 2004179,
     "numRatings": 4,
+    "summary_comment": "Professor Biggerstaff excels in faith-based and ancient history classes, offering extensive knowledge and multiple perspectives while maintaining high standards and availability. However, his courses can be demanding, with long lectures and challenging exams, though he is highly recommended for those deeply engaged with the subject matter.",
+    "summary_comment_short": "Professor Biggerstaff excels in faith-based and specialized subjects like ancient history and Jewish studies, providing extensive resources and support while challenging students effectively. However, his courses can be demanding with long lectures and tricky exams, and may not be as interactive or recommended for general education credit.",
     "Ratings": [
       {
         "index": 1,

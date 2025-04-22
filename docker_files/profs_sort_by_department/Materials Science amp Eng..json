@@ -8,6 +8,8 @@
     "lastName": "Ghazisaeidi",
     "legacyId": 2357586,
     "numRatings": 3,
+    "summary_comment": "Professor Ghazisaeidi is known for her tough and demanding teaching style, with extremely challenging assignments that offer little to no support or guidance. Students report that she does not handle criticism well and can be unapproachable when seeking help, making her one of the most difficult professors at The Ohio State University.",
+    "summary_comment_short": "Professor Ghazisaeidi is known for her rigorous and challenging classes with difficult assignments that offer little to no support or hints. Students find her unapproachable when seeking help and warn others to avoid her at all costs due to her harsh grading and lack of responsiveness to feedback.",
     "Ratings": [
       {
         "index": 1,
@@ -31,6 +33,99 @@
         "course": "MSE3321"
       }
     ],
+    "SEI": [
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5605",
+        "Class Name": "Quantitative Introduction to Materials Science",
+        "Class Number": "9570",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.13"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "6747",
+        "Class Name": "Structure and Defects in Materials",
+        "Class Number": "6677",
+        "Term": "AU 20",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "20",
+        "Rating": "3.75"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5605",
+        "Class Name": "Quantitative Introduction to Materials Science",
+        "Class Number": "8521",
+        "Term": "AU 22",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3.25"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "7193.02",
+        "Class Name": "Individual Studies in Materials Science & Engineering",
+        "Class Number": "6536",
+        "Term": "SP 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.67"
+      },
+      {
+        "Subject": "MATSCEN",
+        "Catalog": "5605",
+        "Class Name": "Quantitative Introduction to Materials Science",
+        "Class Number": "8600",
+        "Term": "AU 23",
+        "College": "Engineering",
+        "Department": "Materials Science&Engineering",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "4.86"
+      }
+    ]
+  },
+  {
+    "avgDifficulty": 3,
+    "avgRating": 1,
+    "department": "Materials Science amp Eng.",
+    "firstName": "Mike",
+    "id": "VGVhY2hlci0yMzk0MTQ4",
+    "lastName": "Sumption",
+    "legacyId": 2394148,
+    "numRatings": 1,
+    "summary_comment": "Professor Sumption's lectures are often described as dry and difficult to follow, with many students finding that the material is explained more effectively in the textbook. His use of slides consisting primarily of textbook screenshots does little to aid understanding. Students recommend relying on the textbook and dedicating significant time and effort to the final presentation to succeed in the course.",
+    "summary_comment_short": "Professor Sumption's lectures are often described as dry and difficult to follow, with many students finding that the course material is explained more effectively in the textbook. His background in physics rather than materials science is evident, making his presentations less helpful for understanding the course content.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 3,
+        "comment": "Dr. Sumption's lectures are dry, hard to follow, and not helpful for the course. His slides are screenshots from the textbook, and the book explains the concepts better than him. He's a physicist by training and not a materials scientist and it shows. Read the book and put a lot of time and effort into the final presentation and you'll be fine.",
+        "course": "MATSCEN4181"
+      }
+    ],
     "SEI": []
   },
   {
@@ -42,6 +137,8 @@
     "lastName": "Anderson",
     "legacyId": 2486306,
     "numRatings": 1,
+    "summary_comment": "Professor Anderson's lectures are often described as dry and monotonous, with a soothing tone that can lull students to sleep. Despite this, his tests are generally considered fair and aligned with the course material, and he is known for being generous with crib sheets. However, the homework assignments are frequently criticized for being poorly coded and time-consuming.",
+    "summary_comment_short": "Professor Anderson's lectures are often criticized for being\u67af\u71e5\u65e0\u5473\uff0c\u5c3d\u7ba1\u4ed6\u6177\u6168\u5730\u63d0\u4f9b\u4e86\u590d\u4e60\u8d44\u6599\uff0c\u6d4b\u8bd5\u76f8\u5bf9\u7b80\u5355\u4e14\u4e0e\u8bfe\u7a0b\u5185\u5bb9\u76f8\u7b26\u3002\u7136\u800c\uff0c\u5b66\u751f\u666e\u904d\u53cd\u6620\u5bb6\u5ead\u4f5c\u4e1a\u6280\u672f\u5b9e\u73b0\u96be\u5ea6\u5927\uff0c\u4ee4\u4eba\u5934\u75bc\u3002",
     "Ratings": [
       {
         "index": 1,
@@ -62,6 +159,8 @@
     "lastName": "Doan-Nguyen",
     "legacyId": 2326008,
     "numRatings": 6,
+    "summary_comment": "Professor Doan-Nguyen is widely regarded as a challenging instructor, particularly due to her teaching style and exam structure. Students find her lectures difficult to follow, often delivered at an incomprehensible pace or overly slow with excessive repetition. The exams, which are heavily weighted and consist of numerous multiple-choice questions, are seen as unfair and not reflective of the material covered in class. Despite her friendly demeanor, many students struggle with the class, leading to lower grades than expected.",
+    "summary_comment_short": "Professor Doan-Nguyen is widely regarded as a challenging instructor, particularly due to her teaching style and exam format. Students find her lectures difficult to follow, often delivered at an extremely fast or slow pace, and the exams, which are heavily weighted and based on specific multiple-choice questions, significantly impact grades despite the relatively straightforward material.",
     "Ratings": [
       {
         "index": 1,
@@ -104,26 +203,6 @@
         "difficulty": 3,
         "comment": "I'm not sure if it was her first time teaching or not, but it was rough to have VDN. She has a friendly disposition, but her lecture skills are pretty bad. VDN has 2 modes for lecture, light speed or unbelievably slow and unnecessarily repetitive. Her class (dual taught with Alison Polasik) has no curve and some content is ridiculously hard.",
         "course": "MSE2010"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 3,
-    "avgRating": 1,
-    "department": "Materials Science amp Eng.",
-    "firstName": "Mike",
-    "id": "VGVhY2hlci0yMzk0MTQ4",
-    "lastName": "Sumption",
-    "legacyId": 2394148,
-    "numRatings": 1,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 3,
-        "comment": "Dr. Sumption's lectures are dry, hard to follow, and not helpful for the course. His slides are screenshots from the textbook, and the book explains the concepts better than him. He's a physicist by training and not a materials scientist and it shows. Read the book and put a lot of time and effort into the final presentation and you'll be fine.",
-        "course": "MATSCEN4181"
       }
     ],
     "SEI": []

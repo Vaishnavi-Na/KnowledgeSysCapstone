@@ -1,5 +1,55 @@
 [
   {
+    "avgDifficulty": 4.2,
+    "avgRating": 3.8,
+    "department": "Medical Technology",
+    "firstName": "Kathy",
+    "id": "VGVhY2hlci0xMDQ2NDc0",
+    "lastName": "Waller",
+    "legacyId": 1046474,
+    "numRatings": 5,
+    "summary_comment": "Kathy Waller is perceived as a highly effective and engaging instructor who challenges students but also receives criticism for being overly strict and potentially setting tests that are too difficult, without offering curves. While some students find her class participation requirements demanding and the material hard, others praise her teaching methods and consider her one of the best professors.",
+    "summary_comment_short": "Kathy Waller is considered unprofessional and has faced criticism for discriminatory behavior and creating a challenging and potentially unwelcoming classroom environment. On the other hand, some students praise her as an excellent instructor who keeps classes engaging and helps students master difficult material, although the class can be demanding and some find it hard to keep up.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 1,
+        "difficulty": 5,
+        "comment": "Kathy Waller is ver unprofessional and uses the classroom as her little prison. she exhibited discriminatory behavior and did not demonstrate appropriate regard for her students. Additionally, there have been instances where she opted for complicating matters rather than fostering a conducive and educational atmosphere.",
+        "course": "MT615"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Very goo professor.",
+        "course": "MT615"
+      },
+      {
+        "index": 3,
+        "rating": 5,
+        "difficulty": 5,
+        "comment": "Wow, she is so nice and quirky and keeps you awake, but it's just too hard. If you are a non certain student, you will struggle to keep up as cert students spend hours a day in lab learning the stuff more, getting ahead. 18/25 failed a midterm this quarter, and she just talked about how she wouldn't lower her standards... Maybe the test was too hard dr Waller? Come on! BTW NO CURVE!!! Nice lady though.",
+        "course": "MT615"
+      },
+      {
+        "index": 4,
+        "rating": 5,
+        "difficulty": 4,
+        "comment": "Possibly the best teacher ever!  Easy to ace the tests if you put in a lot of time.  She teaches very difficult classes extremely well.  1-2-3-WOOSH",
+        "course": "MT600"
+      },
+      {
+        "index": 5,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "she is a good professor and class participation is a must with her ( be ready to clap your hands and repeat stuff). You won't fall asleep in class (she will make sure of it)",
+        "course": "MT480"
+      }
+    ],
+    "SEI": []
+  },
+  {
     "avgDifficulty": 4.8,
     "avgRating": 3.2,
     "department": "Medical Technology",
@@ -8,6 +58,8 @@
     "lastName": "LaRue",
     "legacyId": 2190625,
     "numRatings": 6,
+    "summary_comment": "Professor LaRue is considered challenging and demanding, with some students finding her explanations difficult to follow and the material hard to grasp without additional support. While some appreciate her availability during office hours and her efforts to help students succeed, others view her as one of the toughest professors they have encountered, often citing unclear course goals and a lack of clarity in testing criteria as significant drawbacks.",
+    "summary_comment_short": "Professor LaRue is considered challenging due to the complexity of the material and her teaching style, which some find difficult to follow without additional clarification. Despite being highly regarded by some for her availability and fairness, many students struggle with her explanations and find the class hard to navigate without extra help.",
     "Ratings": [
       {
         "index": 1,
@@ -50,54 +102,6 @@
         "difficulty": 5,
         "comment": "By far the worst professor I've had so far in my education.  the goals of this class are very unclear, and it is never clear what is being tested over.  Avoid this professor at all costs, I would choose a different major to avoid having this professor.",
         "course": "MEDLBS5050"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 4.2,
-    "avgRating": 3.8,
-    "department": "Medical Technology",
-    "firstName": "Kathy",
-    "id": "VGVhY2hlci0xMDQ2NDc0",
-    "lastName": "Waller",
-    "legacyId": 1046474,
-    "numRatings": 5,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 1,
-        "difficulty": 5,
-        "comment": "Kathy Waller is ver unprofessional and uses the classroom as her little prison. she exhibited discriminatory behavior and did not demonstrate appropriate regard for her students. Additionally, there have been instances where she opted for complicating matters rather than fostering a conducive and educational atmosphere.",
-        "course": "MT615"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Very goo professor.",
-        "course": "MT615"
-      },
-      {
-        "index": 3,
-        "rating": 5,
-        "difficulty": 5,
-        "comment": "Wow, she is so nice and quirky and keeps you awake, but it's just too hard. If you are a non certain student, you will struggle to keep up as cert students spend hours a day in lab learning the stuff more, getting ahead. 18/25 failed a midterm this quarter, and she just talked about how she wouldn't lower her standards... Maybe the test was too hard dr Waller? Come on! BTW NO CURVE!!! Nice lady though.",
-        "course": "MT615"
-      },
-      {
-        "index": 4,
-        "rating": 5,
-        "difficulty": 4,
-        "comment": "Possibly the best teacher ever!  Easy to ace the tests if you put in a lot of time.  She teaches very difficult classes extremely well.  1-2-3-WOOSH",
-        "course": "MT600"
-      },
-      {
-        "index": 5,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "she is a good professor and class participation is a must with her ( be ready to clap your hands and repeat stuff). You won't fall asleep in class (she will make sure of it)",
-        "course": "MT480"
       }
     ],
     "SEI": []

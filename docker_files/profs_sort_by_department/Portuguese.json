@@ -8,6 +8,8 @@
     "lastName": "Pereira",
     "legacyId": 1791468,
     "numRatings": 7,
+    "summary_comment": "Professor Pereira is highly knowledgeable but faces significant organizational challenges, leading to unstructured classes and unclear expectations. Students often struggle with fluctuating syllabi, pop quizzes, and ambiguous grading criteria, though some find him interesting and personable, recommending his class despite its drawbacks.",
+    "summary_comment_short": "Professor Pereira is highly knowledgeable about the subject matter but struggles with organization and clarity, leading to confusion and frustration among students. Despite some positive comments from a few students who found him interesting and personable, many found his class unstructured, unclear about expectations, and marked by inconsistent grading and pop quizzes.",
     "Ratings": [
       {
         "index": 1,
@@ -59,7 +61,148 @@
         "course": "PORT4597"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PORTGSE",
+        "Catalog": "3450",
+        "Class Name": "Introduction to the Study of Literatures and Cultures",
+        "Class Number": "34117",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "3.25"
+      },
+      {
+        "Subject": "PORTGSE",
+        "Catalog": "5530",
+        "Class Name": "Literatures and Cultures in Portuguese, from Modernism to the Present",
+        "Class Number": "23792",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "2",
+        "Rating": "3.5"
+      },
+      {
+        "Subject": "PORTGSE",
+        "Catalog": "3402",
+        "Class Name": "Portuguese Reading and Listening",
+        "Class Number": "34139",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "PORTGSE",
+        "Catalog": "3450",
+        "Class Name": "Introduction to the Study of Literatures and Cultures",
+        "Class Number": "35338",
+        "Term": "AU 22",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "4.6"
+      },
+      {
+        "Subject": "PORTGSE",
+        "Catalog": "3401",
+        "Class Name": "Advanced Portuguese Grammar",
+        "Class Number": "35795",
+        "Term": "SP 23",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "7",
+        "Rating": "4.86"
+      },
+      {
+        "Subject": "SPANISH",
+        "Catalog": "3450",
+        "Class Name": "Introduction to the Study of Literature and Culture in Spanish: Reading Texts",
+        "Class Number": "23407",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "2.73"
+      },
+      {
+        "Subject": "SPANISH",
+        "Catalog": "3450",
+        "Class Name": "Introduction to the Study of Literature and Culture in Spanish: Reading Texts",
+        "Class Number": "21013",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "12",
+        "Rating": "3.08"
+      },
+      {
+        "Subject": "SPANISH",
+        "Catalog": "3450",
+        "Class Name": "Introduction to the Study of Literature and Culture in Spanish: Reading Texts",
+        "Class Number": "21094",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "7",
+        "Rating": "3.86"
+      },
+      {
+        "Subject": "SPANISH",
+        "Catalog": "3450H",
+        "Class Name": "Introduction to the Study of Literature and Culture in Spanish: Reading Texts",
+        "Class Number": "28197",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.11"
+      },
+      {
+        "Subject": "SPANISH",
+        "Catalog": "7595",
+        "Class Name": "Comparative Topics in Luso-Hispanic Literature and Culture",
+        "Class Number": "34134",
+        "Term": "SP 22",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "5",
+        "Rating": "3"
+      }
+    ]
   },
   {
     "avgDifficulty": 3.1,
@@ -70,6 +213,8 @@
     "lastName": "Costigan",
     "legacyId": 1109290,
     "numRatings": 8,
+    "summary_comment": "Professor Costigan is widely regarded as an inconsistent and ineffective instructor, with many students finding her lectures confusing and her communication regarding assignments and expectations unclear. While some appreciate her knowledge and care for the subject matter, the majority of feedback is negative, citing issues with last-minute homework, unpreparedness, and a lack of clear grading criteria.",
+    "summary_comment_short": "Professor Costigan is widely regarded as an ineffective instructor, with students consistently expressing frustration over her unstructured teaching methods, last-minute assignments, and unclear communication. While some appreciate her knowledge and care for the subject matter, the majority find her difficult to follow and highly unsatisfactory in terms of learning outcomes and overall classroom experience.",
     "Ratings": [
       {
         "index": 1,
@@ -128,7 +273,92 @@
         "course": "PORT330"
       }
     ],
-    "SEI": []
+    "SEI": [
+      {
+        "Subject": "PORTGSE",
+        "Catalog": "3403",
+        "Class Name": "Portuguese Conversation and Composition",
+        "Class Number": "33544",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "2.38"
+      },
+      {
+        "Subject": "PORTGSE",
+        "Catalog": "5650",
+        "Class Name": "Studies in Literatures and Cultures of the Portuguese-Speaking World",
+        "Class Number": "33545",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4"
+      },
+      {
+        "Subject": "PORTGSE",
+        "Catalog": "5650",
+        "Class Name": "Studies in Literatures and Cultures of the Portuguese-Speaking World",
+        "Class Number": "33546",
+        "Term": "SP 21",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Hybrid Delivery",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "4",
+        "Rating": "4.75"
+      },
+      {
+        "Subject": "PORTGSE",
+        "Catalog": "3401",
+        "Class Name": "Advanced Portuguese Grammar",
+        "Class Number": "34766",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "9",
+        "Rating": "2.89"
+      },
+      {
+        "Subject": "PORTGSE",
+        "Catalog": "5502",
+        "Class Name": "Portuguese for Spanish Speakers II",
+        "Class Number": "34757",
+        "Term": "AU 21",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "3",
+        "Rating": "1.67"
+      },
+      {
+        "Subject": "SPANISH",
+        "Catalog": "7595",
+        "Class Name": "Comparative Topics in Luso-Hispanic Literature and Culture",
+        "Class Number": "37092",
+        "Term": "SP 24",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "In Person",
+        "Campus": "COL",
+        "Class Size": "S",
+        "Responses": "8",
+        "Rating": "3.88"
+      }
+    ]
   },
   {
     "avgDifficulty": 5,
@@ -139,6 +369,8 @@
     "lastName": "Mordoch",
     "legacyId": 2134400,
     "numRatings": 1,
+    "summary_comment": "Professor Mordoch is highly regarded for his excellent feedback and prompt email responses, making him a very approachable and supportive instructor. He emphasizes independent learning outside the classroom but strongly advises meeting weekly for corrections to ensure understanding. His friendly demeanor and extensive help make him an invaluable resource for students.",
+    "summary_comment_short": "Professor Mordoch is highly regarded for his excellent feedback, quick responses to emails, and understanding nature. He effectively supports students outside the classroom, though much of the work is self-directed, and strongly encourages regular meetings for guidance.",
     "Ratings": [
       {
         "index": 1,
@@ -154,38 +386,13 @@
     "avgDifficulty": 2.5,
     "avgRating": 5,
     "department": "Portuguese",
-    "firstName": "Romeu",
-    "id": "VGVhY2hlci0yMjEzNTUz",
-    "lastName": "Foz",
-    "legacyId": 2213553,
-    "numRatings": 2,
-    "Ratings": [
-      {
-        "index": 1,
-        "rating": 5,
-        "difficulty": 3,
-        "comment": "Professor Foz is passionate about what he does. He goes above & beyond to make sure that you not only learn Portuguese, but fall in love with it as well. I'm so thankful to have had the opportunity to learn from him.",
-        "course": "PORT5502"
-      },
-      {
-        "index": 2,
-        "rating": 5,
-        "difficulty": 2,
-        "comment": "I loved Mr. Foz so much. He's technically only a GTA (as in he's in the process of getting his PhD at OSU), but I only found this out about a week ago, so I'm still submitting this. He cares so much about our success that he sat down individually during class and answered HW questions, paused any time to answer questions about vocab... So awesome.",
-        "course": "PORT5501"
-      }
-    ],
-    "SEI": []
-  },
-  {
-    "avgDifficulty": 2.5,
-    "avgRating": 5,
-    "department": "Portuguese",
     "firstName": "Schirlei",
     "id": "VGVhY2hlci0yMTkzMzk1",
     "lastName": "Silveira",
     "legacyId": 2193395,
     "numRatings": 2,
+    "summary_comment": "Professor Silveira is highly regarded for her dedication to student success, offering flexibility and support when needed. She is described as reasonable, kind, and easily accessible, prioritizing both academic ease and personal connections with her students.",
+    "summary_comment_short": "Professor Silveira is highly regarded for her dedication to student success, offering flexibility and support when needed. She is known for her kindness, accessibility, and genuine interest in her students' well-being and academic journey.",
     "Ratings": [
       {
         "index": 1,
@@ -213,6 +420,8 @@
     "lastName": "McCarthy",
     "legacyId": 1384986,
     "numRatings": 6,
+    "summary_comment": "Professor McCarthy is widely regarded as one of the top instructors at OSU, known for her enthusiasm and engaging teaching style. Students consistently praise her ability to make the Portuguese language both interesting and accessible, fostering a relaxed and supportive learning environment. Her passion for Portuguese and Brazil is evident and highly appreciated by her students.",
+    "summary_comment_short": "Professor McCarthy is highly regarded as one of the best teachers at Ohio State University, known for making Portuguese classes engaging and enthusiastic. Students consistently praise her for her positive classroom environment and her passion for the language and culture of Brazil.",
     "Ratings": [
       {
         "index": 1,
@@ -258,5 +467,91 @@
       }
     ],
     "SEI": []
+  },
+  {
+    "avgDifficulty": 2.5,
+    "avgRating": 5,
+    "department": "Portuguese",
+    "firstName": "Romeu",
+    "id": "VGVhY2hlci0yMjEzNTUz",
+    "lastName": "Foz",
+    "legacyId": 2213553,
+    "numRatings": 2,
+    "summary_comment": "Professor Foz is highly dedicated and passionate, ensuring students deeply engage with and appreciate the Portuguese language. He demonstrates exceptional commitment to student success through individualized attention and continuous support during classes.",
+    "summary_comment_short": "Professor Foz is highly dedicated and passionate, ensuring students deeply engage with and appreciate Portuguese. He demonstrates exceptional commitment to student success through extensive one-on-one interactions and continuous support during classes.",
+    "Ratings": [
+      {
+        "index": 1,
+        "rating": 5,
+        "difficulty": 3,
+        "comment": "Professor Foz is passionate about what he does. He goes above & beyond to make sure that you not only learn Portuguese, but fall in love with it as well. I'm so thankful to have had the opportunity to learn from him.",
+        "course": "PORT5502"
+      },
+      {
+        "index": 2,
+        "rating": 5,
+        "difficulty": 2,
+        "comment": "I loved Mr. Foz so much. He's technically only a GTA (as in he's in the process of getting his PhD at OSU), but I only found this out about a week ago, so I'm still submitting this. He cares so much about our success that he sat down individually during class and answered HW questions, paused any time to answer questions about vocab... So awesome.",
+        "course": "PORT5501"
+      }
+    ],
+    "SEI": [
+      {
+        "Subject": "SPANISH",
+        "Catalog": "1102",
+        "Class Name": "Spanish II",
+        "Class Number": "19585",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "13",
+        "Rating": "4.77"
+      },
+      {
+        "Subject": "SPANISH",
+        "Catalog": "1102",
+        "Class Name": "Spanish II",
+        "Class Number": "19586",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "9",
+        "Rating": "4.56"
+      },
+      {
+        "Subject": "SPANISH",
+        "Catalog": "1102",
+        "Class Name": "Spanish II",
+        "Class Number": "19589",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "10",
+        "Rating": "4.1"
+      },
+      {
+        "Subject": "SPANISH",
+        "Catalog": "1102",
+        "Class Name": "Spanish II",
+        "Class Number": "19591",
+        "Term": "AU 20",
+        "College": "Arts and Sciences",
+        "Department": "Spanish & Portuguese",
+        "Medium": "Distance Learning",
+        "Campus": "COL",
+        "Class Size": "M",
+        "Responses": "15",
+        "Rating": "4.86"
+      }
+    ]
   }
 ]

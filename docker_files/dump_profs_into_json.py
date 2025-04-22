@@ -17,8 +17,12 @@ docs = scan(es, index="professors")
 # Group courses by subject
 department_groups = {}
 for doc in docs:
-    source = doc['_source']
-    department = source.get("department", "UNKNOWN")
+    source: dict = doc['_source']
+    department = source.get("department")
+    if not department and source["SEI"] and len(source["SEI"])>0:
+        department = "SEI " + source["SEI"][0].get("Department", "UNKNOWN")
+        department: str = department.replace('/', '_')
+
     department_groups.setdefault(department, []).append(source)
 
 # Save each subject group into its own JSON file
