@@ -2,7 +2,7 @@
 
 ## Virtual Environment
 
-If a venv enviroment not created in your project, run the following command:
+If a venv enviroment has not been created in your project, run the following command:
 `python -m venv <foldername>`
 for example
 
@@ -66,7 +66,7 @@ Because of Elastic Search, need to download or move `http_ca.crt` into `\backend
 To test & Run Locally, first cd to the folder:
 
 ```bash
-cd \backend_integration
+cd backend_integration
 ```
 
 Then run command
