@@ -18,8 +18,18 @@ ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
 load_dotenv()
 es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
-def recursive_prereq_check(transcript: dict, prereq: str) -> list[str]:
+def recursive_prereq_check(transcript: dict, prereq: str, visited=None) -> list[str]:
     '''Given a course, return a list of all unmet prereqs'''
+    if visited is None:
+        visited = set()
+    if prereq in visited:
+        return []
+    visited.add(prereq)
+
+    if not course_exists(prereq):
+        print(f"Ignoring unknown course: {prereq}")
+        return []
+
 
     check_prereq = calculate_remaining_courses(transcript, prereq)
     avail_classes = []
@@ -29,17 +39,29 @@ def recursive_prereq_check(transcript: dict, prereq: str) -> list[str]:
         # Basically DFS through the prereqs to find all unmet prereqs
         for prereq_group in check_prereq:
             for new_prereq in prereq_group:
-                leaf_prereq = recursive_prereq_check(transcript, new_prereq)
+                leaf_prereq = recursive_prereq_check(transcript, new_prereq, visited)
                 avail_classes.extend(leaf_prereq)
-                if(leaf_prereq[0] == new_prereq):
+                if(leaf_prereq and leaf_prereq[0] == new_prereq):
                     break
 
     return avail_classes
+
+def course_exists(course: str) -> bool:
+    query = {
+        "query": {
+            "match": {
+                "course": course
+            }
+        }
+    }
+    res = es.search(index="osu_courses", body=query)
+    return len(res["hits"]["hits"]) > 0
 
 
 def check_avail(transcript:dict, remaining_groups: list[list[str]]) -> list[str]:
     '''Given a dict of courses return a list of courses the student can take'''
     avail_courses = []
+    
     prereqs = []
     # For each group in the unfinished groups
     for group in remaining_groups:
@@ -61,7 +83,7 @@ def check_avail(transcript:dict, remaining_groups: list[list[str]]) -> list[str]
                         new_prereqs = recursive_prereq_check(transcript, prereq)
                         # Add the necessary courses to the available courses
                         avail_courses.extend(new_prereqs)
-                            
+    avail_courses = list(dict.fromkeys(avail_courses))             
     return avail_courses
            
 def create_semester(transcript:dict, max_hours:int) -> list[str]:
@@ -76,6 +98,10 @@ def create_semester(transcript:dict, max_hours:int) -> list[str]:
     curr_units = 0
 
     for course in avail_courses:
+        # If prereqs still not met
+        if calculate_remaining_courses(transcript, course):
+                continue
+        
         # Find credit hour info
         searching_rule = {
             "match": {
@@ -88,7 +114,7 @@ def create_semester(transcript:dict, max_hours:int) -> list[str]:
         res = es.search(index = "osu_courses", body = query)
         docs = res["hits"]["hits"]
         if not docs: # Nothing found in elasticsearch
-            return []
+            continue
         source = docs[0]['_source']
         curr_units = source["units"]
 
@@ -119,8 +145,5 @@ def generate_schedule(transcript:dict, max_hours:int) -> list[list[str]]:
         # Add the courses to the transcript copy so that the original is untouched
         for course in semester_courses:
             if course not in transcript['courses']:
-                transcript_copy['courses'].add(course)
+                transcript_copy['courses'].append(course)
     return schedule
-
-# Add frontend integration
-# How are we picking tech electives? Some are from specialization but some need to be able to be chosen

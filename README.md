@@ -2,7 +2,7 @@
 
 ## Virtual Environment
 
-If a venv enviroment not created in your project, run the following command:
+If a venv enviroment has not been created in your project, run the following command:
 `python -m venv <foldername>`
 for example
 
@@ -31,13 +31,16 @@ To add environment to your workspace run:
 pip install -r requirements.txt
 ```
 
-Please create your local env to look like the following:
-
-```sh
-ELASTIC_PASSWORD=BLAHBLAHBLAH
-```
+## Setting up ElasticSearch
+The main backend database we use on this project is ElasticSearch, which indexes and stores documents. It's used for sorting, and accessing all of the data we scrape. We host our ElasticSearch instances locally in Docker containers on our devices. To set it up please follow the directions below. 
 
 Elasticsearch Docker tutorial: <https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html>
+
+Please create your local .env to look like the following:
+
+```sh
+ELASTIC_PASSWORD=YourElasticSearchPassword
+```
 
 To get elasticsearch functionality to work, please save the http_ca.crt certificate to the KnowledgeSysCapstone folder by:
 
@@ -45,16 +48,25 @@ To get elasticsearch functionality to work, please save the http_ca.crt certific
 2. Going to your files
 3. Left click on usr/share/elasticsearch/config/certs/http_ca.crt in files for your container and save that to your local project folder.
 
+## Scraping Content
+
+Before you can begin displaying your website, you need to first scrape all of the content necessary. This is the most time consuming process and as a result, we have already done some of it for you. In docker files, you will find all of the generated LLM summaries, SEI data, and class information for next semester that were generated. However, to get other data, you must run the below files:
+
+1) next_fall_scraper.py: Uses selenium to scrape the information for the classes professors will teach next fall and the classes they have already taught before in the last academic year using data from the OSU Course Search website.
+2) RMP_scraper.py: Uses RMP's GraphQL node to scrape Rate My Professor ratings for every single professor at OSU. This can be time-consuming, the type of program you run overnight.
+3) SEIscraper.py: Uses Bluera, OSU's official SEI partner to scrape information on the SEI score of every professor at OSU in the last three academic year. This one is also time-consuming, if you don't want to spend all day, simply change the list of subjects to "CSE" or whatever subject you're focusing on and scrape that in a couple minutes instead. 
+
+After this, you should be set to actual set up the website for display. 
+
 ## FastAPI backend
+Whew, you're done! You just finished the hardest part. It's easy breezing from here. 
 
-[WARN] This section is generated, to modify, please go to the backend_integration\README.md
-
-Because of Elastic Search, need to download or move `http_ca.crt` into `.\backend_integration\` folder.
+Because of Elastic Search, need to download or move `http_ca.crt` into `\backend_integration\` folder.
 
 To test & Run Locally, first cd to the folder:
 
 ```bash
-cd .\backend_integration\
+cd backend_integration
 ```
 
 Then run command
@@ -63,8 +75,9 @@ Then run command
 fastapi dev main.py
 ```
 
-## coursesearchplus
+## Front End
 
+Our front-end for this project is Next.js. To find documentation on how to run it, please follow the next.js documentation provided below:
 [WARN] This section is generated, to modify, please go to the coursesearchplus\README.md
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).

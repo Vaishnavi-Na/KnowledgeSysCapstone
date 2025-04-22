@@ -19,23 +19,29 @@ def search_professors_sort(subject: str, courseNum: str, sort_by: str = None, or
     if sort_by and sort_by not in valid_sort_fields:
         raise ValueError(f"Invalid sort_by field: {sort_by}. Valid options are {valid_sort_fields}")
 
-    should_clauses = [
-        {
-            "bool": {
-                "must": [
-                    {"match": {"SEI.Subject": subject}},
-                    {"match": {"SEI.Catalog": courseNum}}
-                ]
-            }
-        },
-        {"match": {"Ratings.course": subject.upper() + courseNum}}
-    ]
+    must_clause = {
+        "bool": {
+            "should": [
+                {
+                    "bool": {
+                        "must": [
+                            {"match": {"SEI.Subject": subject}},
+                            {"match": {"SEI.Catalog": courseNum}}
+                        ]
+                    }
+                },
+                {"match": {"Ratings.course": subject.upper() + courseNum}}
+            ],
+            "minimum_should_match": 1
+        }
+    }
 
     # Add full-text keyword match in comments if requested
+    should_clause = []
     if comment_keywords:
-        should_clauses.append({
+        should_clause.append({
             "match": {
-                "comments_overview": {
+                "summary_comment": {
                     "query": comment_keywords,
                     "boost": 3  # Give it a nice boost to push relevant profs up
                 }
@@ -45,8 +51,8 @@ def search_professors_sort(subject: str, courseNum: str, sort_by: str = None, or
     query = {
         "query": {
             "bool": {
-                "should": should_clauses,
-                "minimum_should_match": 1
+                "must": must_clause,
+                "should": should_clause  # this is for boosting only
             }
         },
         "size": 7000
@@ -82,7 +88,7 @@ def search_professors_sort(subject: str, courseNum: str, sort_by: str = None, or
             "difficulty": source.get('avgDifficulty'),
             "SEI_overall": sei_avg,
             "SEI": sei_entries,
-            "comments_overview": source.get("comments_overview", ""),
+            "summary_comment": source.get("summary_comment", ""),
             "score": result.get('_score')  # Save score for relevance sorting
         })
 
