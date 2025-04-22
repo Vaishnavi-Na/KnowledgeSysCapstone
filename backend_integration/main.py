@@ -133,7 +133,7 @@ async def search_prof_with_courses(
 
         # Search in Elasticsearch
         print(f"Querying Elasticsearch for courses taught by {instructor_name}")
-        res = es.search(index="osu_courses", body=query_body)
+        res = es.search(index="courses", body=query_body)
         hits = res["hits"]["hits"]
         print(f"Found {len(hits)} course(s) for {instructor_name}")
 

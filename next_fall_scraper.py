@@ -3,8 +3,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select, WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.firefox.service import Service as FirefoxService
-from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.chrome.options import Options
+
 import time
 from bs4 import BeautifulSoup
 import ssl
@@ -98,6 +99,7 @@ semester={
     "6": "AU24",
     "7": "SP25",
     "8": "SU25",
+    "9": "AU25"
 }
 
 def scrape_page(sem_val,subject, course_number):
@@ -164,15 +166,14 @@ ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
 load_dotenv()
 es = Elasticsearch('https://localhost:9200', ssl_context=ctx, basic_auth=("elastic", os.getenv('ELASTIC_PASSWORD')))
 
-driver = webdriver.Firefox()
+driver = webdriver.Chrome()
 
 driver.get("https://osucoursesearch.org/")
 
 WebDriverWait(driver, 2)
 
 for course in courses_to_scrape:
-    for i in range(6,9,1):
-        scrape_page(str(i),course["subject"], course["course_number"])
+        scrape_page(str(9),course["subject"], course["course_number"])
 
 # Close browser
 driver.quit()
