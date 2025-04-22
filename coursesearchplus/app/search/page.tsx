@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import NavbarElse from '@/components/navbarElse';
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 
 const server_endpoint = 'http://localhost:8000'
 
@@ -46,7 +46,50 @@ export default function SearchPage() {
   const [keywordInput, setKeywordInput] = useState('');
   const [sortOption, setSortOption] = useState('avg_rating-desc');
   const [searchResults, setSearchResults] = useState([]); // placeholder to store fetched results
-
+  const [dropdownOpen, setDropdownOpen] = useState(false); // For custom dropdown
+  const dropdownRef = useRef<HTMLDivElement>(null); // Ref for dropdown element
+  
+  // Click outside handler for dropdown
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
+        setDropdownOpen(false);
+      }
+    }
+    
+    // Add event listener when dropdown is open
+    if (dropdownOpen) {
+      document.addEventListener('mousedown', handleClickOutside);
+    }
+    
+    // Cleanup
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [dropdownOpen]);
+  
+  // Options for our custom dropdown
+  const sortOptions = [
+    { value: 'sei-desc', label: 'SEI Score ↓' },
+    { value: 'sei-asc', label: 'SEI Score ↑' },
+    { value: 'avg_rating-desc', label: 'Avg Rating ↓' },
+    { value: 'avg_rating-asc', label: 'Avg Rating ↑' },
+    { value: 'difficulty-asc', label: 'Difficulty ↑' },
+    { value: 'difficulty-desc', label: 'Difficulty ↓' },
+    { value: 'comments_relevance-desc', label: 'Comments Relevance ↓' }
+  ];
+  
+  // Get the current selected option label
+  const getCurrentSortLabel = () => {
+    const option = sortOptions.find(opt => opt.value === sortOption);
+    return option ? option.label : 'Select an option';
+  };
+  
+  // Handle option selection
+  const handleSortSelect = (value: string) => {
+    setSortOption(value);
+    setDropdownOpen(false);
+  };
 
   useEffect(() => {
     const transcript = localStorage.getItem('transcript');
@@ -166,24 +209,47 @@ export default function SearchPage() {
                 className="p-2 border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"
               />
 
-              {/* Sort dropdown */}
-              <select
-                value={sortOption}
-                onChange={e => setSortOption(e.target.value)}
-                className="p-2 border border-gray-300 rounded-lg focus:outline-none focus:border-gray-500"
-              >
-                <option value="sei-desc">SEI Score ↓</option>
-                <option value="sei-asc">SEI Score ↑</option>
-                <option value="avg_rating-desc">Avg Rating ↓</option>
-                <option value="avg_rating-asc">Avg Rating ↑</option>
-                <option value="difficulty-asc">Difficulty ↑</option>
-                <option value="difficulty-desc">Difficulty ↓</option>
-                <option value="comments_relevance-desc">Comments Relevance ↓</option>
-              </select>
+              {/* Custom dropdown - completely rebuilt */}
+              <div className="relative z-10" ref={dropdownRef}>
+                <button 
+                  type="button"
+                  onClick={() => setDropdownOpen(!dropdownOpen)}
+                  className="w-full flex items-center justify-between bg-white border border-gray-300 rounded-md px-4 py-2.5 text-left text-gray-800 transition-all duration-200 hover:border-red-500 hover:shadow-lg hover:ring-2 hover:ring-red-400/50 focus:outline-none focus:border-red-500 focus:ring-2 focus:ring-red-500"
+                >
+                  <span>{getCurrentSortLabel()}</span>
+                  <svg 
+                    className={`w-5 h-5 ml-2 transition-transform ${dropdownOpen ? 'transform rotate-180' : ''}`} 
+                    viewBox="0 0 20 20" 
+                    fill="currentColor"
+                  >
+                    <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
+                  </svg>
+                </button>
+                
+                {dropdownOpen && (
+                  <div className="absolute mt-1 w-full rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none z-20">
+                    <div className="py-1 max-h-60 overflow-auto">
+                      {sortOptions.map((option) => (
+                        <div
+                          key={option.value}
+                          onClick={() => handleSortSelect(option.value)}
+                          className={`${
+                            option.value === sortOption 
+                              ? 'bg-red-50 text-red-700' 
+                              : 'text-gray-800 hover:bg-gray-50 hover:text-red-600'
+                          } cursor-pointer select-none relative px-4 py-2 transition-all duration-150 ease-in-out border-l-2 border-transparent hover:border-l-2 hover:border-red-500`}
+                        >
+                          {option.label}
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
 
               {/* Search button */}
               <button
-                className="bg-red-500 text-white px-6 py-2 rounded-lg hover:bg-red-600 transition-colors"
+                className="bg-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition-colors"
                 onClick={handleSearchClick}
               >
                 Search
@@ -195,17 +261,16 @@ export default function SearchPage() {
         {/* Search Results Section */}
         {searchResults.length > 0 && (
           <section className="w-full max-w-screen-xl mx-auto px-8 mt-12">
-            <h2 className="text-2xl font-semibold mb-4">Search Results</h2>
+            <h2 className="text-2xl font-semibold mb-6 text-gray-800">Search Results</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
               {searchResults.map((prof: any, index: number) => (
                 <div key={index} className="bg-white p-4 rounded-lg shadow-md text-sm">
-                  <h3 className="text-lg font-bold mb-2">{prof.instructor}</h3>
+                  <h3 className="text-lg font-bold mb-2">{prof.name}</h3>
                   <p><strong>Avg Rating:</strong> {prof.avg_rating?.toFixed(2) ?? "N/A"}</p>
                   <p><strong>Difficulty:</strong> {prof.difficulty?.toFixed(2) ?? "N/A"}</p>
                   <p><strong>SEI Overall:</strong> {prof.SEI_overall?.toFixed(2) ?? "N/A"}</p>
                   <p><strong>Relevance Score:</strong> {prof.score}</p>
                   <p>{prof.department}</p>
-                  <p><strong> When have they taught this class before:</strong></p>
                   <ul className="space-y-1 mt-2">
                     {prof.courses.map((course:any, idx:number) => (
                       <li key={idx} className="text-gray-700">
@@ -368,3 +433,19 @@ export default function SearchPage() {
     </>
   );
 }
+
+// Add these helper functions before the closing of the SearchPage component
+// Helper functions for color coding
+const getScoreColor = (score: number) => {
+  if (!score) return "text-gray-500";
+  if (score >= 4) return "text-green-600";
+  if (score >= 3) return "text-yellow-600";
+  return "text-red-600";
+};
+
+const getDifficultyColor = (difficulty: number) => {
+  if (!difficulty) return "text-gray-500";
+  if (difficulty >= 4) return "text-red-600";
+  if (difficulty >= 3) return "text-yellow-600";
+  return "text-green-600";
+};
