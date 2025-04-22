@@ -103,7 +103,6 @@ async def search_prof_with_courses(
 
     # Get list of professors for the course
     professors = search_professors_sort(subject, course_number, sort_by, order, comment_keywords)
-    print(f"Found {len(professors.get('matched_professors', []))} matched professors")
 
     results = []
 
@@ -117,24 +116,20 @@ async def search_prof_with_courses(
                     "must": [
                         {"term": {"subject.keyword": subject.upper()}},
                         {"term": {"course_number.keyword": course_number}},
-                        {"term": {"instructor.keyword": instructor_name}}
+                        {"term": {"instructor.keyword": instructor_name}},
                     ]
                 }
             }
         }
 
-        # Search in Elasticsearch
-        print(f"Querying Elasticsearch for courses taught by {instructor_name}")
         res = es.search(index="courses", body=query_body)
         hits = res["hits"]["hits"]
-        print(f"Found {len(hits)} course(s) for {instructor_name}")
-
+        print(hits)
         courses = []
 
         # Transform Elasticsearch hits into the course details format
         for hit in hits:
             course_details = hit["_source"]
-            print(f"  -> Found course: {course_details}")
             courses.append({
                 "term": course_details.get("term"),
                 "course_number": course_details.get("course_number"),
@@ -157,7 +152,6 @@ async def search_prof_with_courses(
             "score": prof.get('score')  
         }
         results.append(prof_result)
-        print(f"Added result for {instructor_name}")
 
     return {
         "matched_professors": results

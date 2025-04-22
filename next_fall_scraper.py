@@ -98,6 +98,7 @@ semester={
     "6": "AU24",
     "7": "SP25",
     "8": "SU25",
+    "9": "AU25"
 }
 
 def scrape_page(sem_val,subject, course_number):
@@ -171,7 +172,7 @@ driver.get("https://osucoursesearch.org/")
 WebDriverWait(driver, 2)
 
 for course in courses_to_scrape:
-    for i in range(6,9,1):
+    for i in range(6,10,1):
         scrape_page(str(i),course["subject"], course["course_number"])
 
 # Close browser

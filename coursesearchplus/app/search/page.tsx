@@ -299,14 +299,44 @@ export default function SearchPage() {
                       <span className="text-lg font-bold text-red-600">{Number(prof.score).toFixed(2)}</span>
                     </div>
                   </div>
-                  <p><strong> When have they taught this class before:</strong></p>
-                  <ul className="space-y-1 mt-2">
-                    {prof.courses.map((course:any, idx:number) => (
-                      <li key={idx} className="text-gray-700">
-                        {course.course} {course.time} {course.days} {course.term}
-                      </li>
-                    ))}
-                </ul>
+                  {prof.courses.some((course: any) => course.term !== "AU25") && (
+                    <>
+                      <div className='p-3'>
+                        <p className="text-xs text-gray-500 font-semibold">When have they taught before?</p>
+                        <ul className="mt-2">
+                          {prof.courses
+                            .filter((course: any) => course.term !== "AU25")
+                            .map((course: any, idx: number) => (
+                              <li key={`au25-${idx}`} className="text-gray-700 mb-2">
+                                <span className="font-semibold">{course.course}</span>
+                                <div className="text-sm text-gray-600">
+                                  {course.days} | {course.time} ({course.term})
+                                </div>
+                              </li>
+                          ))}
+                        </ul>
+                      </div>
+                    </>
+                  )}
+                  {prof.courses.some((course: any) => course.term === "AU25") && (
+                    <>
+                      <div className='p-3'>
+                        <p className="text-xs text-gray-500 font-semibold">What will they be teaching next semester?</p>
+                        <ul className="mt-2">
+                          {prof.courses
+                            .filter((course: any) => course.term === "AU25")
+                            .map((course: any, idx: number) => (
+                              <li key={`au25-${idx}`} className="text-gray-700 mb-2">
+                                <span className="font-semibold">{course.course}</span>
+                                <div className="text-sm text-gray-600">
+                                  {course.days} | {course.time} ({course.term})
+                                </div>
+                              </li>
+                          ))}
+                        </ul>
+                      </div>
+                    </>
+                  )}
                   {/* Summary comment - full text */}
                   <div className="p-4 text-sm text-gray-600">
                     <p>{prof.summary_comment}</p>

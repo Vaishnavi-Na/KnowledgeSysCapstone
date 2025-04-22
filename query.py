@@ -17,7 +17,4 @@ indices = es.indices.get_alias(index="*")
 for index_name in indices:
     print(index_name)
 
-
-# Use scan to efficiently iterate through all docs in 'courses' index
-for doc in scan(es, index="courses", query={"query": {"match_all": {}}}):
-    print(doc['_source'])  # Prints just the document body (no metadata)
+es.indices.delete(index="courses", ignore_unavailable=True)
