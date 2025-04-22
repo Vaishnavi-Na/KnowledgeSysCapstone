@@ -80,6 +80,7 @@ async def calc_remain(transcript: dict, course: str):
 @app.post("/courses/gen_schedule")
 async def gen_schedule(transcript: dict, hours: int):    
     schedule = generate_schedule(transcript, hours)
+    print("Generated schedule:", schedule)
 
     return schedule
 

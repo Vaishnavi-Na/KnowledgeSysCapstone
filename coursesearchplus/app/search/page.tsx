@@ -1,17 +1,17 @@
-'use client';
+"use client";
 
-import Link from 'next/link';
-import NavbarElse from '@/components/navbarElse';
-import { useEffect, useState } from 'react';
+import Link from "next/link";
+import NavbarElse from "@/components/navbarElse";
+import { useEffect, useState } from "react";
 
-const server_endpoint = 'http://localhost:8000'
+const server_endpoint = "http://localhost:8000";
 
 function SendToSearchButton({
-  buttonText, 
-  onCourseClick, 
-  variant = "green", 
-}: { 
-  buttonText: string; 
+  buttonText,
+  onCourseClick,
+  variant = "green",
+}: {
+  buttonText: string;
   onCourseClick: () => void;
   variant?: "green" | "blue";
 }) {
@@ -22,19 +22,29 @@ function SendToSearchButton({
       : "bg-blue-500 hover:bg-blue-600";
 
   return (
-    <button className={`${baseClasses} ${colorClasses}`} onClick={onCourseClick}>
+    <button
+      className={`${baseClasses} ${colorClasses}`}
+      onClick={onCourseClick}
+    >
       {buttonText}
     </button>
   );
-
 }
 
 export default function SearchPage() {
   const [remainingGroups, setRemainingGroups] = useState<string[][]>([]);
-  const [mainSelectedCourse, setMainSelectedCourse] = useState<string | null>(null); // Main selected course
-  const [mainPrereqStructure, setMainPrereqStructure] = useState<string[][]>([]); // Main prereq struc
-  const [secondarySelectedCourse, setSecondarySelectedCourse] = useState<string | null>(null); // Secondary selected course
-  const [secondaryPrereqStructure, setSecondaryPrereqStructure] = useState<string[][]>([]); // Secondary prereq struc
+  const [mainSelectedCourse, setMainSelectedCourse] = useState<string | null>(
+    null
+  ); // Main selected course
+  const [mainPrereqStructure, setMainPrereqStructure] = useState<string[][]>(
+    []
+  ); // Main prereq struc
+  const [secondarySelectedCourse, setSecondarySelectedCourse] = useState<
+    string | null
+  >(null); // Secondary selected course
+  const [secondaryPrereqStructure, setSecondaryPrereqStructure] = useState<
+    string[][]
+  >([]); // Secondary prereq struc
   const [page, setPage] = useState(0);
   const groupsPerPage = 6;
   const maxPage = Math.ceil(remainingGroups.length / groupsPerPage);
@@ -42,23 +52,22 @@ export default function SearchPage() {
     page * groupsPerPage,
     (page + 1) * groupsPerPage
   );
-  const [searchInput, setSearchInput] = useState('');
-  const [keywordInput, setKeywordInput] = useState('');
-  const [sortOption, setSortOption] = useState('avg_rating-desc');
+  const [searchInput, setSearchInput] = useState("");
+  const [keywordInput, setKeywordInput] = useState("");
+  const [sortOption, setSortOption] = useState("avg_rating-desc");
   const [searchResults, setSearchResults] = useState([]); // placeholder to store fetched results
 
-
   useEffect(() => {
-    const transcript = localStorage.getItem('transcript');
+    const transcript = localStorage.getItem("transcript");
     if (transcript) {
       const parsed = JSON.parse(transcript);
       fetch(`${server_endpoint}/courses/get_remain`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(parsed),
       })
-        .then(res => res.json())
-        .then(data => {
+        .then((res) => res.json())
+        .then((data) => {
           // console.log('Received from get_remain API:', data);
           setRemainingGroups(data.remaining_groups);
         });
@@ -66,36 +75,36 @@ export default function SearchPage() {
   }, []);
 
   const handleCourseClick = (course: string) => {
-    const transcript = JSON.parse(localStorage.getItem('transcript') || '{}');
+    const transcript = JSON.parse(localStorage.getItem("transcript") || "{}");
     const query = new URLSearchParams({ course }).toString();
 
     fetch(`${server_endpoint}/courses/calc_remain?${query}`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify(transcript),
     })
-      .then(res => res.json())
-      .then(data => {
+      .then((res) => res.json())
+      .then((data) => {
         setMainSelectedCourse(course);
         // console.log('Received from calc_remain API:', data);
         setMainPrereqStructure(data);
         // Reset secondary course selected
         setSecondarySelectedCourse(null);
-        setSecondaryPrereqStructure([])
+        setSecondaryPrereqStructure([]);
       });
   };
 
   const handleSecondaryCourseClick = (course: string) => {
-    const transcript = JSON.parse(localStorage.getItem('transcript') || '{}');
+    const transcript = JSON.parse(localStorage.getItem("transcript") || "{}");
     const query = new URLSearchParams({ course }).toString();
-  
+
     fetch(`http://127.0.0.1:8000/courses/calc_remain?${query}`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify(transcript),
     })
-      .then(res => res.json())
-      .then(data => {
+      .then((res) => res.json())
+      .then((data) => {
         setSecondarySelectedCourse(course);
         setSecondaryPrereqStructure(data);
       });
@@ -106,7 +115,7 @@ export default function SearchPage() {
       alert("Please enter course in format 'SUBJECT NUMBER' (e.g., CSE 3901)");
       return;
     }
-  
+
     const [sortBy, order] = sortOption.split("-");
     const query = new URLSearchParams({
       course: searchInput,
@@ -114,20 +123,20 @@ export default function SearchPage() {
       order: order,
       comment_keywords: keywordInput,
     }).toString();
-  
+
     fetch(`http://127.0.0.1:8000/courses/professors?${query}`, {
-      method: 'POST',
+      method: "POST",
     })
-      .then(res => res.json())
-      .then(data => {
+      .then((res) => res.json())
+      .then((data) => {
         // console.log('Search results:', data);
         setSearchResults(data.matched_professors);
       })
-      .catch(err => {
-        console.error('Search failed:', err);
+      .catch((err) => {
+        console.error("Search failed:", err);
       });
   };
-  
+
   return (
     <>
       <NavbarElse />
@@ -140,18 +149,18 @@ export default function SearchPage() {
           <section className="bg-gray-100 p-6 rounded-lg shadow-md text-left">
             <h2 className="text-2xl font-semibold mb-4">Search for Courses</h2>
             <p className="text-lg leading-relaxed mb-6">
-              Find the perfect courses based on your preferences. Search by course number, 
-              professor name, or keywords to discover detailed information about classes 
-              at Ohio State University.
+              Find the perfect courses based on your preferences. Search by
+              course number, professor name, or keywords to discover detailed
+              information about classes at Ohio State University.
             </p>
-            
+
             {/* Search Input */}
             <div className="flex flex-col gap-4">
               {/* Course code input */}
               <input
                 type="text"
                 value={searchInput}
-                onChange={e => setSearchInput(e.target.value)}
+                onChange={(e) => setSearchInput(e.target.value)}
                 placeholder="Search by course (e.g., CSE 3901)"
                 className="p-2 border border-gray-300 rounded-lg focus:outline-none focus:border-red-500"
               />
@@ -160,7 +169,7 @@ export default function SearchPage() {
               <input
                 type="text"
                 value={keywordInput}
-                onChange={e => setKeywordInput(e.target.value)}
+                onChange={(e) => setKeywordInput(e.target.value)}
                 placeholder="Keyword in professor reviews (e.g., flipped classroom)"
                 className="p-2 border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"
               />
@@ -168,7 +177,7 @@ export default function SearchPage() {
               {/* Sort dropdown */}
               <select
                 value={sortOption}
-                onChange={e => setSortOption(e.target.value)}
+                onChange={(e) => setSortOption(e.target.value)}
                 className="p-2 border border-gray-300 rounded-lg focus:outline-none focus:border-gray-500"
               >
                 <option value="sei-desc">SEI Score ↓</option>
@@ -177,7 +186,9 @@ export default function SearchPage() {
                 <option value="avg_rating-asc">Avg Rating ↑</option>
                 <option value="difficulty-asc">Difficulty ↑</option>
                 <option value="difficulty-desc">Difficulty ↓</option>
-                <option value="comments_relevance-desc">Comments Relevance ↓</option>
+                <option value="comments_relevance-desc">
+                  Comments Relevance ↓
+                </option>
               </select>
 
               {/* Search button */}
@@ -197,11 +208,23 @@ export default function SearchPage() {
             <h2 className="text-2xl font-semibold mb-4">Search Results</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
               {searchResults.map((prof: any, index: number) => (
-                <div key={index} className="bg-white p-4 rounded-lg shadow-md text-sm">
+                <div
+                  key={index}
+                  className="bg-white p-4 rounded-lg shadow-md text-sm"
+                >
                   <h3 className="text-lg font-bold mb-2">{prof.name}</h3>
-                  <p><strong>Avg Rating:</strong> {prof.avg_rating?.toFixed(2) ?? "N/A"}</p>
-                  <p><strong>Difficulty:</strong> {prof.difficulty?.toFixed(2) ?? "N/A"}</p>
-                  <p><strong>SEI Overall:</strong> {prof.SEI_overall?.toFixed(2) ?? "N/A"}</p>
+                  <p>
+                    <strong>Avg Rating:</strong>{" "}
+                    {prof.avg_rating?.toFixed(2) ?? "N/A"}
+                  </p>
+                  <p>
+                    <strong>Difficulty:</strong>{" "}
+                    {prof.difficulty?.toFixed(2) ?? "N/A"}
+                  </p>
+                  <p>
+                    <strong>SEI Overall:</strong>{" "}
+                    {prof.SEI_overall?.toFixed(2) ?? "N/A"}
+                  </p>
                   <p className="text-gray-600 mt-2">{prof.comments_overview}</p>
                 </div>
               ))}
@@ -219,7 +242,7 @@ export default function SearchPage() {
                 <button
                   className="px-3 py-1 bg-gray-200 rounded disabled:opacity-50"
                   disabled={page === 0}
-                  onClick={() => setPage(p => Math.max(p - 1, 0))}
+                  onClick={() => setPage((p) => Math.max(p - 1, 0))}
                 >
                   ◀ Prev
                 </button>
@@ -229,7 +252,7 @@ export default function SearchPage() {
                 <button
                   className="px-3 py-1 bg-gray-200 rounded disabled:opacity-50"
                   disabled={page >= maxPage - 1}
-                  onClick={() => setPage(p => Math.min(p + 1, maxPage - 1))}
+                  onClick={() => setPage((p) => Math.min(p + 1, maxPage - 1))}
                 >
                   Next ▶
                 </button>
@@ -238,12 +261,15 @@ export default function SearchPage() {
 
             <div className="grid grid-cols-1 gap-4">
               {pagedGroups.map((group, idx) => (
-                <div key={idx} className="border rounded-lg p-4 shadow bg-white">
+                <div
+                  key={idx}
+                  className="border rounded-lg p-4 shadow bg-white"
+                >
                   <h3 className="font-bold mb-2">
                     Requirement Group {page * groupsPerPage + idx + 1}
                   </h3>
                   <div className="flex gap-3 flex-wrap">
-                    {group.map(course => (
+                    {group.map((course) => (
                       <button
                         key={course}
                         onClick={() => handleCourseClick(course)}
@@ -266,13 +292,13 @@ export default function SearchPage() {
                 <div className="flex items-center justify-between">
                   <h3 className="text-lg font-bold">{mainSelectedCourse}</h3>
                   {mainPrereqStructure.length !== 0 && (
-                    <SendToSearchButton 
+                    <SendToSearchButton
                       buttonText="Send to Search"
                       onCourseClick={() => setSearchInput(mainSelectedCourse)}
                       variant="blue"
                     />
                   )}
-              </div>
+                </div>
               )}
             </div>
 
@@ -281,9 +307,14 @@ export default function SearchPage() {
               {mainSelectedCourse ? (
                 <div className="flex gap-4">
                   {mainPrereqStructure.map((orGroup, colIndex) => (
-                    <div key={colIndex} className="flex flex-col items-center bg-white p-2 rounded shadow min-w-[120px]">
-                      <span className="text-xs text-gray-500 mb-1">AND Group {colIndex + 1}</span>
-                      {orGroup.map(course => (
+                    <div
+                      key={colIndex}
+                      className="flex flex-col items-center bg-white p-2 rounded shadow min-w-[120px]"
+                    >
+                      <span className="text-xs text-gray-500 mb-1">
+                        AND Group {colIndex + 1}
+                      </span>
+                      {orGroup.map((course) => (
                         <button
                           key={course}
                           onClick={() => handleSecondaryCourseClick(course)}
@@ -296,18 +327,24 @@ export default function SearchPage() {
                   ))}
                 </div>
               ) : (
-                <p className="text-gray-500 italic">Click a course to view prerequisites.</p>
+                <p className="text-gray-500 italic">
+                  Click a course to view prerequisites.
+                </p>
               )}
 
               {/* Secondary selected course panel */}
               {secondarySelectedCourse && (
                 <div className="mt-8">
                   <div className="flex items-center justify-between">
-                    <h3 className="text-lg font-bold mb-2">Prerequisites for {secondarySelectedCourse}</h3>
+                    <h3 className="text-lg font-bold mb-2">
+                      Prerequisites for {secondarySelectedCourse}
+                    </h3>
                     {secondaryPrereqStructure.length !== 0 && (
-                      <SendToSearchButton 
+                      <SendToSearchButton
                         buttonText="Send to Search"
-                        onCourseClick={() => setSearchInput(secondarySelectedCourse)}
+                        onCourseClick={() =>
+                          setSearchInput(secondarySelectedCourse)
+                        }
                         variant="blue"
                       />
                     )}
@@ -315,9 +352,14 @@ export default function SearchPage() {
                   <div className="overflow-x-auto">
                     <div className="flex gap-4">
                       {secondaryPrereqStructure.map((orGroup, colIndex) => (
-                        <div key={colIndex} className="flex flex-col items-center bg-white p-2 rounded shadow min-w-[120px]">
-                          <span className="text-xs text-gray-500 mb-1">AND Group {colIndex + 1}</span>
-                          {orGroup.map(course => (
+                        <div
+                          key={colIndex}
+                          className="flex flex-col items-center bg-white p-2 rounded shadow min-w-[120px]"
+                        >
+                          <span className="text-xs text-gray-500 mb-1">
+                            AND Group {colIndex + 1}
+                          </span>
+                          {orGroup.map((course) => (
                             <button
                               key={course}
                               onClick={() => handleSecondaryCourseClick(course)}
@@ -335,21 +377,23 @@ export default function SearchPage() {
 
               {mainSelectedCourse && mainPrereqStructure.length === 0 && (
                 <div className="mt-4">
-                  <SendToSearchButton 
-                    buttonText={"Ready to Take: "+mainSelectedCourse} 
+                  <SendToSearchButton
+                    buttonText={"Ready to Take: " + mainSelectedCourse}
                     onCourseClick={() => setSearchInput(mainSelectedCourse)}
                   />
                 </div>
               )}
-              {secondarySelectedCourse && secondaryPrereqStructure.length === 0 && (
-                <div className="mt-4">
-                  <SendToSearchButton 
-                    buttonText={"Ready to Take: "+secondarySelectedCourse} 
-                    onCourseClick={() => setSearchInput(secondarySelectedCourse)}
-                  />
-                </div>
-              )}
-
+              {secondarySelectedCourse &&
+                secondaryPrereqStructure.length === 0 && (
+                  <div className="mt-4">
+                    <SendToSearchButton
+                      buttonText={"Ready to Take: " + secondarySelectedCourse}
+                      onCourseClick={() =>
+                        setSearchInput(secondarySelectedCourse)
+                      }
+                    />
+                  </div>
+                )}
             </div>
           </div>
         </section>

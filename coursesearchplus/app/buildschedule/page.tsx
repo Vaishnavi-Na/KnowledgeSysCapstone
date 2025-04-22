@@ -7,20 +7,20 @@ import { useEffect, useState } from "react";
 const server_endpoint = "http://localhost:8000";
 
 export default function BuildSchedulePage() {
-  const [scheduleStructure, setScheduleStructure] = useState<string[][]>([]);
+  const [schedule, setSchedule] = useState<string[][]>([]);
   useEffect(() => {
     const transcript = JSON.parse(localStorage.getItem("transcript") || "{}");
     const query = new URLSearchParams({ hours: "17" });
 
     if (transcript) {
-      fetch(`${server_endpoint}/courses/generate_schedule?${query}`, {
+      fetch(`${server_endpoint}/courses/gen_schedule?${query}`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(transcript),
       })
         .then((res) => res.json())
         .then((data) => {
-          setScheduleStructure(data);
+          setSchedule(data);
         });
     }
   }, []);
@@ -46,6 +46,31 @@ export default function BuildSchedulePage() {
               you.
             </p>
           </section>
+
+          {schedule.length > 0 && (
+            <section className="mt-12 text-left w-full">
+              <h2 className="text-2xl font-semibold text-[#bb0000] mb-6 text-center">
+                Generated Schedule
+              </h2>
+              <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+                {schedule.map((semester, index) => (
+                  <div
+                    key={index}
+                    className="bg-white border border-gray-300 rounded-2xl shadow-md p-6"
+                  >
+                    <h3 className="text-xl font-bold text-[#4d4d4d] mb-4">
+                      Semester {index + 1}
+                    </h3>
+                    <ul className="list-disc list-inside space-y-2 text-gray-800 text-lg">
+                      {semester.map((course, courseIndex) => (
+                        <li key={courseIndex}>{course}</li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* Curriculum Table */}
           <div className="max-w-5xl mx-auto mt-12 p-6">
