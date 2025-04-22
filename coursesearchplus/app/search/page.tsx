@@ -261,7 +261,7 @@ export default function SearchPage() {
         {/* Search Results Section */}
         {searchResults.length > 0 && (
           <section className="w-full max-w-screen-xl mx-auto px-8 mt-12">
-            <h2 className="text-2xl font-semibold mb-6 text-gray-800">Search Results</h2>
+            <h2 className="text-2xl font-semibold mb-6 text-gray-800">Professors Related to {searchInput}</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
               {searchResults.map((prof: any, index: number) => (
                 <div key={index} className="bg-white p-4 rounded-lg shadow-md text-sm">
