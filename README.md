@@ -31,6 +31,8 @@ To add environment to your workspace run:
 pip install -r requirements.txt
 ```
 
+## Setting up ElasticSearch
+
 Please create your local env to look like the following:
 
 ```sh
