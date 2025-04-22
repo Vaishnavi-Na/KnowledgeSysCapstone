@@ -56,7 +56,25 @@ Before you can begin displaying your website, you need to first scrape all of th
 2) RMP_scraper.py: Uses RMP's GraphQL node to scrape Rate My Professor ratings for every single professor at OSU. This can be time-consuming, the type of program you run overnight.
 3) SEIscraper.py: Uses Bluera, OSU's official SEI partner to scrape information on the SEI score of every professor at OSU in the last three academic year. This one is also time-consuming, if you don't want to spend all day, simply change the list of subjects to "CSE" or whatever subject you're focusing on and scrape that in a couple minutes instead. 
 
+REQUIRED for LLM summaries: If RMP_scraper is rerun you will have to also run the below in the following order (See JSON stored files for more information)
+  dump_profs_into_json.py -> generate_summary_by_llm.py -> put_profs_backto_es.py 
+
 After this, you should be set to actual set up the website for display. 
+
+## JSON stored files
+To speed up the process of getting data into elasticsearch, the scrapers can all be run by one person and then uploaded to a JSON file for others to fetch.
+
+Located in docker_files:
+
+Moving data from elasticsearch to JSON files:
+1) dump_prereq_into_json.py: After getting prereqs from get_course_info.py, this moves all of the prereq info into individual subject JSONs in prereqs_sort_by_subject
+2) dump_profs_into_json.py: After getting all professors from RMP_scraper.py and SEIscraper.py, moves them all to JSONs in profs_sort_by_department following the elasticsearch doc format
+      generate_summary_by_llm.py: Generates the professor summaries and stores them in the JSON files generated above
+
+Moving data from JSON to elasticsearch:
+1) put_prereqs_backto_es.py: Creates or updates the "osu_courses" index with all of the prerequisite information from the JSON files
+2) put_profs_backto_es.py: Creates or updates the "professors" index with all of the professor information from the JSON files
+
 
 ## FastAPI backend
 Whew, you're done! You just finished the hardest part. It's easy breezing from here. 

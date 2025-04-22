@@ -286,40 +286,120 @@ export default function SearchPage() {
               {searchResults.map((prof: any, index: number) => (
                 <div
                   key={index}
-                  className="bg-white p-4 rounded-lg shadow-md text-sm"
+                  className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow duration-300 border border-gray-100 flex flex-col"
                 >
-                  <h3 className="text-lg font-bold mb-2">{prof.name}</h3>
-                  <p>
-                    <strong>Avg Rating:</strong>{" "}
-                    {prof.avg_rating?.toFixed(2) ?? "N/A"}
-                  </p>
-                  <p>
-                    <strong>Difficulty:</strong>{" "}
-                    {prof.difficulty?.toFixed(2) ?? "N/A"}
-                  </p>
-                  <p>
-                    <strong>SEI Overall:</strong>{" "}
-                    {prof.SEI_overall?.toFixed(2) ?? "N/A"}
-                  </p>
-                  <p>
-                    <strong>Relevance Score:</strong> {prof.score}
-                  </p>
-                  <p>{prof.department}</p>
-                  <ul className="space-y-1 mt-2">
-                    {prof.courses.map((course: any, idx: number) => (
-                      <li key={idx} className="text-gray-700">
-                        {course.course} {course.time} {course.days}{" "}
-                        {course.term}
-                      </li>
-                    ))}
-                  </ul>
-                  <p className="text-gray-600 mt-2">{prof.summary_comment}</p>
+                  {/* Header with name */}
+                  <div className="bg-gray-700 px-4 py-3">
+                    <h3 className="text-lg font-bold truncate text-white">
+                      {prof.instructor}
+                    </h3>
+                    <p className="text-xs text-gray-300">{prof.department}</p>
+                  </div>
+
+                  {/* Ratings section */}
+                  <div className="grid grid-cols-2 gap-2 p-4 text-sm bg-gray-50">
+                    <div className="flex flex-col items-center p-2 rounded-lg bg-white border border-gray-200">
+                      <span className="text-xs text-gray-500">Avg Rating</span>
+                      <span
+                        className={`text-lg font-bold ${getScoreColor(
+                          prof.avg_rating
+                        )}`}
+                      >
+                        {prof.avg_rating?.toFixed(2) ?? "N/A"}
+                      </span>
+                    </div>
+                    <div className="flex flex-col items-center p-2 rounded-lg bg-white border border-gray-200">
+                      <span className="text-xs text-gray-500">Difficulty</span>
+                      <span
+                        className={`text-lg font-bold ${getDifficultyColor(
+                          prof.difficulty
+                        )}`}
+                      >
+                        {prof.difficulty?.toFixed(2) ?? "N/A"}
+                      </span>
+                    </div>
+                    <div className="flex flex-col items-center p-2 rounded-lg bg-white border border-gray-200">
+                      <span className="text-xs text-gray-500">SEI Score</span>
+                      <span
+                        className={`text-lg font-bold ${getScoreColor(
+                          prof.SEI_overall
+                        )}`}
+                      >
+                        {prof.SEI_overall?.toFixed(2) ?? "N/A"}
+                      </span>
+                    </div>
+                    <div className="flex flex-col items-center p-2 rounded-lg bg-white border border-gray-200">
+                      <span className="text-xs text-gray-500">Relevance</span>
+                      <span className="text-lg font-bold text-red-600">
+                        {Number(prof.score).toFixed(2)}
+                      </span>
+                    </div>
+                  </div>
+                  {prof.courses.some(
+                    (course: any) => course.term !== "AU25"
+                  ) && (
+                    <>
+                      <div className="p-3">
+                        <p className="text-xs text-gray-500 font-semibold">
+                          When have they taught before?
+                        </p>
+                        <ul className="mt-2">
+                          {prof.courses
+                            .filter((course: any) => course.term !== "AU25")
+                            .map((course: any, idx: number) => (
+                              <li
+                                key={`au25-${idx}`}
+                                className="text-gray-700 mb-2"
+                              >
+                                <span className="font-semibold">
+                                  {course.course}
+                                </span>
+                                <div className="text-sm text-gray-600">
+                                  {course.days} | {course.time} ({course.term})
+                                </div>
+                              </li>
+                            ))}
+                        </ul>
+                      </div>
+                    </>
+                  )}
+                  {prof.courses.some(
+                    (course: any) => course.term === "AU25"
+                  ) && (
+                    <>
+                      <div className="p-3">
+                        <p className="text-xs text-gray-500 font-semibold">
+                          What will they be teaching next semester?
+                        </p>
+                        <ul className="mt-2">
+                          {prof.courses
+                            .filter((course: any) => course.term === "AU25")
+                            .map((course: any, idx: number) => (
+                              <li
+                                key={`au25-${idx}`}
+                                className="text-gray-700 mb-2"
+                              >
+                                <span className="font-semibold">
+                                  {course.course}
+                                </span>
+                                <div className="text-sm text-gray-600">
+                                  {course.days} | {course.time} ({course.term})
+                                </div>
+                              </li>
+                            ))}
+                        </ul>
+                      </div>
+                    </>
+                  )}
+                  {/* Summary comment - full text */}
+                  <div className="p-4 text-sm text-gray-600">
+                    <p>{prof.summary_comment}</p>
+                  </div>
                 </div>
               ))}
             </div>
           </section>
         )}
-
         {/* --- Requirement Group Panel --- */}
         <section className="flex w-full max-w-screen-xl mx-auto gap-6 mt-8 px-8">
           {/* Left: Requirement Groups */}

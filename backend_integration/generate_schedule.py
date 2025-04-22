@@ -65,7 +65,7 @@ def check_avail(transcript:dict, remaining_groups: list[list[str]]) -> list[str]
     # For each group in the unfinished groups
     for group in remaining_groups:
         # For each remaining course in the group
-        for course in group:
+        for course in group: 
             # Get the prereqs (if any) for the course
             prereqs = calculate_remaining_courses(transcript, course)
             # If list is empty then all prereqs met so we add the course
@@ -82,7 +82,8 @@ def check_avail(transcript:dict, remaining_groups: list[list[str]]) -> list[str]
                         new_prereqs = recursive_prereq_check(transcript, prereq)
                         # Add the necessary courses to the available courses
                         avail_courses.extend(new_prereqs)
-    avail_courses = list(dict.fromkeys(avail_courses))             
+    avail_courses = set(avail_courses)  
+    print("check avail avail_courses", avail_courses)
     return avail_courses
            
 def create_semester(transcript:dict, max_hours:int) -> list[str]:
@@ -124,7 +125,7 @@ def create_semester(transcript:dict, max_hours:int) -> list[str]:
             total_hours += curr_units
             semester_courses.append(course)
             curr_units = 0
-    
+    print("create semester semester_courses",semester_courses)
     return semester_courses
 
 # Need to ask user how many credit hours they want to take (diff each semester? same each semester?)

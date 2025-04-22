@@ -10,9 +10,11 @@ export default function BuildSchedulePage() {
   const [schedule, setSchedule] = useState<string[][]>([]);
   useEffect(() => {
     const transcript = JSON.parse(localStorage.getItem("transcript") || "{}");
-    const savedSchedule = JSON.parse(localStorage.getItem("schedule") || "{}");
+    const savedSchedule = JSON.parse(
+      localStorage.getItem("schedule") || "null"
+    );
     const savedTranscript = JSON.parse(
-      localStorage.getItem("oldTranscript") || "{}"
+      localStorage.getItem("oldTranscript") || "null"
     );
 
     const query = new URLSearchParams({ hours: "17" });
